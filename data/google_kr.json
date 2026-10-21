@@ -1,220 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T22:42:06+00:00",
+  "fetched_at": "2026-10-21T23:08:26+00:00",
   "items": [
     {
-      "title": "tsla",
+      "title": "박위",
+      "approx_traffic": "1000+",
+      "published": "Wed, 21 Oct 2026 15:00:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 박위 침묵 속 영상 또 삭제···추락사고 회고도 내렸다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610201005003"
+        },
+        {
+          "title": "'CCTV 논란' 박위, 감자튀김 짜증 영상까지 파묘..\"아 씨!\"[스타이슈]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/10/21/2026102115075676672"
+        },
+        {
+          "title": "'CCTV 저격 논란' 박위, 조용히 유튜브 영상 삭제…잡음 계속 [종합]",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/521849"
+        }
+      ]
+    },
+    {
+      "title": "제너럴 모터스",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 15:00:00 -0700",
+      "news": [
+        {
+          "title": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html"
+        },
+        {
+          "title": "GM Wants Your Car to Do Your Chores",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/"
+        },
+        {
+          "title": "GM Tech Day: Autonomous Driving, More Helpful OnStar, Faster Product Development",
+          "source": "Car and Driver",
+          "url": "https://www.caranddriver.com/news/a74195933/gm-tech-day-2026/"
+        }
+      ]
+    },
+    {
+      "title": "백지연",
       "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 15:00:00 -0700",
+      "news": [
+        {
+          "title": "백지연, 시술 받고 기분전환으로 디저트 흡입..\"내 몸에 미안해\" - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/GE2GMYJYMMYWIYRWME2TONDBMI/"
+        },
+        {
+          "title": "62세 백지연 \"빵·떡 좋아해…써마지·울쎄라 하고도 디저트 먹었다\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6325635"
+        },
+        {
+          "title": "“노화 스파이크 맞는 중”…62세 백지연이 평생 못 끊은 ‘이것’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12180391"
+        }
+      ]
+    },
+    {
+      "title": "롯데마트",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 14:50:00 -0700",
+      "news": [
+        {
+          "title": "롯데마트·슈퍼, '사과 먹은 닭고기' 출시…동물복지 상품 강화",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003835555"
+        },
+        {
+          "title": "롯데마트·슈퍼, '사과 먹은 동물복지 닭고기' 2종 단독 출시",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/distribution/6327635"
+        },
+        {
+          "title": "롯데마트·슈퍼, 사과먹은 동물복지 닭고기 2종 단독 출시",
+          "source": "뉴스후플러스",
+          "url": "https://www.newswhoplus.com/news/articleView.html?idxno=72354"
+        }
+      ]
+    },
+    {
+      "title": "경기도",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 14:50:00 -0700",
+      "news": [
+        {
+          "title": "‘복지 중독’ 경기도, 빚 증가율 전국 1위",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/10/22/W4LQJ23MGZGMJHMAU3PGUMHGZY/"
+        },
+        {
+          "title": "내년 예산 편성 앞두고 시장·군수 대표 만난 추미애 \"소통하고 경청하겠다\"",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026102207181131947"
+        },
+        {
+          "title": "[단독] 추미애 임기 중 상환 채무 4조6천억…내년부터 가용재원 상당분 빚 갚는 데 써야",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038405"
+        }
+      ]
+    },
+    {
+      "title": "쓰레기통",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 14:50:00 -0700",
+      "news": [
+        {
+          "title": "화장실서 출산 후 신생아 쓰레기통에 유기한 친모‥1심 징역 2년",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859611_36918.html"
+        },
+        {
+          "title": "직장 화장실서 출산뒤 쓰레기통에 버린 20대…아기는 살았다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261021/134881701/1"
+        },
+        {
+          "title": "화장실서 출산후 쓰레기통에 신생아 버린 친모, 1심 징역 2년",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021071800004"
+        }
+      ]
+    },
+    {
+      "title": "nba lineup",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 14:50:00 -0700",
+      "news": [
+        {
+          "title": "Wednesday's fantasy basketball adds and bets to make in the NBA",
+          "source": "ESPN",
+          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50239689/fantasy-basketball-tips-nba-betting-picks-today"
+        },
+        {
+          "title": "NBA DFS, 2026: Top FanDuel, DraftKings picks, lineups, advice for Wednesday, Oct. 21",
+          "source": "SportsLine",
+          "url": "https://www.sportsline.com/insiders/nba-dfs-2026-top-fanduel-draftkings-picks-lineups-advice-for-wednesday-oct-21/"
+        },
+        {
+          "title": "2026 NBA odds, picks, predictions, best bets, player props: Experts, model backing Heat, more on Oct. 21",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/betting/news/2026-nba-odds-picks-predictions-best-bets-player-props-experts-model-backing-heat-more-wednesday-oct-21/"
+        }
+      ]
+    },
+    {
+      "title": "kf-21 보라매",
+      "approx_traffic": "2000+",
+      "published": "Wed, 21 Oct 2026 14:40:00 -0700",
+      "news": [
+        {
+          "title": "KF-21에 AI·무인 전투기 결합… 차세대 공중전투체계 구현 나서",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/special/special_section/2026/10/22/DR3RVTAZ35C7ZJGOWXNX2NZGOM/"
+        },
+        {
+          "title": "국산 항공기 수출 선구자 KAI… KT-1 넘어 KF-21로 글로벌 영토 확장",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/economy/industry/2026/10/22/20261022037001"
+        },
+        {
+          "title": "독자개발 훈련기 '웅비'의 튀르키예 수출에 방위사업청이 당황한 이유",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026101913180001658"
+        }
+      ]
+    },
+    {
+      "title": "real madrid vs rb leipzig standings",
+      "approx_traffic": "1000+",
       "published": "Wed, 21 Oct 2026 14:30:00 -0700",
       "news": [
+        {
+          "title": "Real Madrid 4-1 RB Leipzig: Spanish side maintain 100% start",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c5vgjnkyyxr7t"
+        },
+        {
+          "title": "Preview: Real Madrid vs RB Leipzig - prediction, team news, lineups",
+          "source": "Sports Mole",
+          "url": "https://www.sportsmole.co.uk/football/real-madrid/champions-league/preview/real-madrid-vs-rb-leipzig-prediction-team-news-lineups_607254.html"
+        },
+        {
+          "title": "Real Madrid’s predicted lineup against Leipzig today in the Champions League",
+          "source": "صوت الإمارات",
+          "url": "https://www.voiceofemirates.com/en/sport/2026/10/21/real-madrids-predicted-lineup-against-leipzig-today-in-the-champions-league/"
+        }
+      ]
+    },
+    {
+      "title": "tsla",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "Tesla reports Q3 earnings beat, positive free cash flow, and better-than-expected capex",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/article/tesla-reports-q3-earnings-beat-positive-free-cash-flow-and-better-than-expected-capex-202153389.html"
+        },
         {
           "title": "Tesla Earnings Live: TSLA Shares Rise on Results — Updates and Analysis",
           "source": "WSJ",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026"
         },
         {
-          "title": "Tesla Q3 preview: Delivery outlook, cash flow, and a dash of merger speculation on tap",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/article/tesla-q3-preview-delivery-outlook-cash-flow-and-a-dash-of-merger-speculation-on-tap-160637755.html"
-        },
-        {
           "title": "Tesla shares rise after earnings surprise in after-hours trading, while EV business remains weak",
           "source": "파이낸셜뉴스",
           "url": "https://en.fnnews.com/news/202610220518088328"
-        }
-      ]
-    },
-    {
-      "title": "พยากรณ์อากาศ",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "สภาพอากาศวันนี้ -27 ต.ค.ภาคใต้ฝนตกหนัก ไทยตอนบน-กทม.ฝนฟ้าคะนอง ลมแรง",
-          "source": "Thansettakij",
-          "url": "https://www.thansettakij.com/general-news/671960"
-        },
-        {
-          "title": "“สุริยะ” สั่งกรมชลฯ รับมือฝนหนักภาคใต้ 24–26 ต.ค. คาดซ่อมคลอง ร.1 เสร็จพฤศจิกายนนี้",
-          "source": "Thairath",
-          "url": "https://www.thairath.co.th/news/politic/2967620"
-        },
-        {
-          "title": "เปิดชื่อจังหวัดเสี่ยงสูง เจอฝนถล่มหนักมาก คืนนี้-พรุ่งนี้ | มุมข่าว",
-          "source": "LINE TODAY",
-          "url": "https://today.line.me/th/v3/article/pepjDya"
-        }
-      ]
-    },
-    {
-      "title": "부산일보",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "\"커피 한 잔 받는데 40분\"…복덩이 굴러들어 오자 '들썩'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102166361"
-        },
-        {
-          "title": "[단독] 폰툰 넘어온 '부캉이'…그물망 앞 배회, 수로 재진입 우려",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/busan-gyeongnam/6327868"
-        }
-      ]
-    },
-    {
-      "title": "skhy",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "\"SK hynix to Hit 4.7 Million Won, Samsung 670,000 Won\"... Why Nomura's Bold Forecast justifies it",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026102120015387387"
-        },
-        {
-          "title": "Semiconductor ‘pessimism’ is overdone... time to invest in Samsung Electronics and SK hynix",
-          "source": "파이낸셜뉴스",
-          "url": "https://en.fnnews.com/news/202610210833154962"
-        },
-        {
-          "title": "Nomura Securities predicted on the 20th that demand for memory will exceed supply until at least 202..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/stock/12180906"
-        }
-      ]
-    },
-    {
-      "title": "나스닥 100",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 14:10:00 -0700",
-      "news": [
-        {
-          "title": "뉴욕증시, 스페이스X 호실적에 상승…나스닥 1.1%↑",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022008300072"
-        },
-        {
-          "title": "AI 거품 우려 딛고 기술주 반등…실적이 답했다",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02115606645615544"
-        },
-        {
-          "title": "[글로벌증시] 기술주 강세에 뉴욕증시 일제 상승…나스닥 1%↑",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261022064638LO3"
-        }
-      ]
-    },
-    {
-      "title": "spcx",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 14:10:00 -0700",
-      "news": [
-        {
-          "title": "New York Stock Exchange Rises on Strong SpaceX Earnings... Nasdaq Up 1.1%",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008809295"
-        },
-        {
-          "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/finance/stocks/spacex-anthropic-and-nvidia-help-snap-tech-stocks-out-of-their-recent-malaise-66e1693c"
-        },
-        {
-          "title": "SpaceX returns to profit as AI revenue surges and surpasses Starlink - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-science/2026/10/21/I4AA4JZVDRDOFHLVIUFRWFPDZE/"
-        }
-      ]
-    },
-    {
-      "title": "필라델피아 반도체 지수",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 14:10:00 -0700",
-      "news": [
-        {
-          "title": "필라델피아 반도체 지수 8월 후 최저지만 '지하실' 가능성도",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440325"
-        },
-        {
-          "title": "[속보] 필라델피아 반도체지수 2% 상승 마감…AI 반도체주 반등",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/international-economy/6327885"
-        },
-        {
-          "title": "[아침뉴스] 10/21 필라델피아 반도체지수, 2.3% 낙폭 지우고 0.22% 상승 전환",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/ontimebrief/sihwangontime/contents/261021083200596dz"
-        }
-      ]
-    },
-    {
-      "title": "como 1907 vs manchester united f.c. standings",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "Como 4-1 Manchester United: Michael Carrick job in jeopardy after Champions League humiliation",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cwe8l3zeexvvt"
-        },
-        {
-          "title": "Manchester United Suffers Heavy Defeat to Italy's Como in UEFA Champions League, Winless in 7 Straight Games",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008809304"
-        },
-        {
-          "title": "Injury-Hit Manchester United Faces Champions League Clash with Como",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/10/21/LYTTQ4W4ZBACBE4PQTZQPQMXUM/"
-        }
-      ]
-    },
-    {
-      "title": "реал мадрид – рб лейпциг",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "«Реал» — «РБ Лейпциг»: Мбаппе и Гомис обменялись голами в концовке",
-          "source": "https://www.championat.ru/",
-          "url": "https://www.championat.ru/football/news-6667148-real-madrid-rb-lejpcig-mbappe-i-gomis-obmenyalis-golami-v-koncovke-21-oktyabrya-2026.html"
-        },
-        {
-          "title": "ЛЧ. Диоманде помог огорчить экс-одноклубников: Реал победил Лейпциг перед Эль Класико",
-          "source": "UA-Football",
-          "url": "https://www.ua-football.com/foreign/champions_league/1792614722-lch-diomande-pomog-ogorchit-yeks-odnoklubnikov-real-pobedil-leypcig-pered-yel-klasiko.html"
-        },
-        {
-          "title": "Моуриньо выбрал игроков, на которых сможет рассчитывать в Лиге чемпионов",
-          "source": "Sport.ua",
-          "url": "https://sport.ua/news/917598-mourinyo-vybral-igrokov-na-kotoryh-smozhet-rasschityvat-v-lige-chempionov"
-        }
-      ]
-    },
-    {
-      "title": "여자 축구",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 13:50:00 -0700",
-      "news": [
-        {
-          "title": "‘AG 동메달’ 한국 여자축구, FIFA 랭킹 17위…40개월 만에 최고",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8691296"
-        },
-        {
-          "title": "[오피셜] '중국 제치고 아시아 4위 등극' 韓 여자축구, 3년 4개월 만에 피파랭킹 최고 순위 '17위' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/21/2026102109502569413"
-        },
-        {
-          "title": "韓 축구 오랜만에 희소식! 아시안게임 메달→17위 껑충, WC 챔피언 스페인 1위 사수...FIFA 여자 랭킹 발표",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E9%9F%93-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%80%E1%85%AE-%E1%84%8B%E1%85%A9%E1%84%85%E1%85%A2%E1%86%AB%E1%84%86%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A6-%E1%84%92%E1%85%B4%E1%84%89%E1%85%A9%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%8B%E1%85%A1%E1%84%89%E1%85%B5%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B7-%E1%84%86%E1%85%A6%E1%84%83%E1%85%A1%E1%86%AF%E2%86%9217%E1%84%8B%E1%85%B1-%E1%84%81%E1%85%A5%E1%86%BC%E1%84%8E%E1%85%AE%E1%86%BC-wc-%E1%84%8E%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AB-%E1%84%89%E1%85%B3%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB-1%E1%84%8B%E1%85%B1-%E1%84%89%E1%85%A1%E1%84%89%E1%85%AE--fifa-%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%A1-%E1%84%85%E1%85%A2%E1%86%BC%E1%84%8F%E1%85%B5%E1%86%BC-%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD/blt43bd93b53e655dec"
         }
       ]
     }
