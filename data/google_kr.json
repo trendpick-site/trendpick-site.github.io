@@ -1,11 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T12:11:40+00:00",
+  "fetched_at": "2026-10-21T12:54:03+00:00",
   "items": [
     {
+      "title": "빵",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 04:50:00 -0700",
+      "news": [
+        {
+          "title": "\"남은 빵 세 조각 먹었다고 횡령?\"…10년 차 어린이집 교사 권고사직 파문",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003835005"
+        },
+        {
+          "title": "“남긴 빵 3조각 먹었다고 권고사직”…어린이집 교사 황당 사연",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261020200017621"
+        },
+        {
+          "title": "\"유통기한 끝난 빵 세 개 먹었다고 '횡령'\"…어린이집 교사 권고사직 시끌",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6325669"
+        }
+      ]
+    },
+    {
+      "title": "bangladesh vs afghanistan",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 04:40:00 -0700",
+      "news": [
+        {
+          "title": "Afghanistan stand in Bangladesh's way for spot in final",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/uae-odi-tri-series-2026-27-1555109/afghanistan-vs-bangladesh-3rd-match-1555119/match-preview"
+        },
+        {
+          "title": "Tigers' tricky equation for final",
+          "source": "The Daily Star",
+          "url": "https://www.thedailystar.net/sports/cricket/news/tigers-tricky-equation-final-4303481"
+        },
+        {
+          "title": "Bangladesh hopeful of Mehidy boost for Afghanistan clash",
+          "source": "Cricbuzz",
+          "url": "https://www.cricbuzz.com/cricket-news/140578/bangladesh-hopeful-of-mehidy-hasan-miraz-boost-for-afghanistan-clash-cricbuzzcom"
+        }
+      ]
+    },
+    {
+      "title": "대한광통신",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 04:30:00 -0700",
+      "news": [
+        {
+          "title": "대만 시장조사업체 \"광섬유 부족 2028년까지 지속 가능성\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020132400009"
+        },
+        {
+          "title": "대한광통신, 美 하이퍼스케일 AI 데이터센터향 광케이블 2차 물량 공급 개시",
+          "source": "데이터투자",
+          "url": "https://www.datatooza.com/article/202610211156265998661c44de84_80"
+        },
+        {
+          "title": "AI 데이터센터가 삼킨 광섬유… 2년 걸리는 증설에 몸값 5배 뛴다",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610200937021083fbbec65dfb_1"
+        }
+      ]
+    },
+    {
+      "title": "걸 그룹",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 04:20:00 -0700",
+      "news": [
+        {
+          "title": "삼성증권 AI 걸그룹 '루미나' 인기…데뷔곡 뮤비 250만뷰",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021054800008"
+        },
+        {
+          "title": "신인 걸그룹 소속사가 ‘삼성’이라고?…‘255만 조회수’·‘연애 프로그램’ 만드는 증권사들",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20104405"
+        },
+        {
+          "title": "증권사가 데뷔시킨 걸그룹 '흥행 대박'…\"일회성 아니다\"",
+          "source": "아시아경제",
+          "url": "https://core.asiae.co.kr/article/2026102110122157137"
+        }
+      ]
+    },
+    {
+      "title": "동구",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 04:20:00 -0700",
+      "news": [
+        {
+          "title": "[대구소식] 동촌유원지서 23∼24일 '막창축제'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021057900053"
+        },
+        {
+          "title": "1세대 막창전문점 있는 대구 동구서 ‘막창축제’ 처음 개최",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625030"
+        },
+        {
+          "title": "대구 동구, 23~24일 지역 `첫` 막창축제 개최…먹거리 관광 활성화 나선다",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026102111463140348"
+        }
+      ]
+    },
+    {
+      "title": "말왕",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 04:20:00 -0700",
+      "news": [
+        {
+          "title": "육준서, 특수부대 UDT 나왔는데..예능 촬영중 눈물 \"나 진짜 X신이다\"(술래게임) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/MMYDGMLEME2TKMBZGU3GEYRTHA/"
+        },
+        {
+          "title": "감옥·치열한 몸싸움·'술래게임' PD도 몰랐던 공간까지[왓더OTT]",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6593840"
+        },
+        {
+          "title": "'술래게임' 오늘(21일) 최종 우승자 공개⋯말왕ㆍ윤상현 맞붙을까",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2638233"
+        }
+      ]
+    },
+    {
       "title": "php 취약점",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Wed, 21 Oct 2026 04:00:00 -0700",
       "news": [
         {
@@ -53,9 +185,9 @@
       "published": "Wed, 21 Oct 2026 03:50:00 -0700",
       "news": [
         {
-          "title": "삼성전기, 엔비디아와 AI 반도체 깐부 됐다…AI 기판 장기 공급",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1178673"
+          "title": "삼성전기, 엔비디아 핵심 공급사 됐다…AI 기판 장기 공급",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021170900003"
         },
         {
           "title": "Nvidia, 다수 협력사와 공급망 생산능력 확대 합의",
@@ -63,9 +195,9 @@
           "url": "https://kr.investing.com/news/company-news/article-93CH-2134859"
         },
         {
-          "title": "“삼성전기 3605억 계약이 신호탄…대덕전자·심텍 실적 뛴다”",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02574806645614888"
+          "title": "삼성전기, 엔비디아 손잡았다…AI 반도체 기판 전용 팹 증설 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/21/2026102119033954269"
         }
       ]
     },
@@ -75,151 +207,19 @@
       "published": "Wed, 21 Oct 2026 03:50:00 -0700",
       "news": [
         {
-          "title": "코스피, 장중 4%대 급등…매수 사이드카 발동",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261021120058JsF"
-        },
-        {
-          "title": "AI 호실적에 오늘은 반등‥'급등락' 코스피에 개미는 \"공포·도박\"",
+          "title": "코스피, 장중 4%대 급등에 매수 사이드카 발동",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859699_37004.html"
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6859555_36932.html"
         },
         {
           "title": "증시 대기 자금 90조원 위태…'빚투'도 30조원으로 감소",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261021135800008"
-        }
-      ]
-    },
-    {
-      "title": "m",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 03:50:00 -0700",
-      "news": [
-        {
-          "title": "New Food Lion opens in Greenville",
-          "source": "WCAX",
-          "url": "https://www.wcax.com/video/2026/10/21/new-food-lion-opens-greenville/"
         },
         {
-          "title": "Loved ones remember Sneads Ferry man killed in motorcycle crash",
-          "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-          "url": "https://www.1011now.com/video/2026/10/21/loved-ones-remember-sneads-ferry-man-killed-motorcycle-crash/"
-        },
-        {
-          "title": "Woman killed, another injured in Ingham County crash",
-          "source": "KLTV.com",
-          "url": "https://www.kltv.com/video/2026/10/21/woman-killed-another-injured-ingham-county-crash/"
-        }
-      ]
-    },
-    {
-      "title": "천궁",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 03:40:00 -0700",
-      "news": [
-        {
-          "title": "“패트리엇 10년 어떻게 기다려요?”…천궁-Ⅱ 중동 넘어 스위스까지? [경제한방]",
-          "source": "KBS 뉴스",
-          "url": "https://mobile.kbs.co.kr/news/view.do?ncd=8691327"
-        },
-        {
-          "title": "美 미사일 부족한데…호주가 새 방공망 찾는다, 韓 L-SAM 기회? [밀리터리+]",
-          "source": "나우뉴스",
-          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261020601019"
-        },
-        {
-          "title": "호주, 중거리 방공체계 도입 공식화…’한국형 사드’ L-SAM 주목 By The Guru",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2132321"
-        }
-      ]
-    },
-    {
-      "title": "안용준",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 03:20:00 -0700",
-      "news": [
-        {
-          "title": "'주몽' 안용준, 약 5억원 사기 혐의 피소…\"연락두절\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003835263"
-        },
-        {
-          "title": "\"유명 아이돌 거론하며 투자 유도\"…'주몽' 출신 배우 피소 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102120075370625"
-        },
-        {
-          "title": "'주몽' 배우 안용준, 수억 원대 사기·사문서위조 혐의 피소 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/GU4DONJWGQ2TOZRUGFTDOOBXMU/"
-        }
-      ]
-    },
-    {
-      "title": "이다현",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "이다현, 日 열도 매료시켰다! 팬들 \"여배우 외모에 실력도 압도적\"→감독도 \"머리 영리한 선수\" 극찬 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/21/2026102110492967876"
-        },
-        {
-          "title": "'여배우 같은 외모, 실력도 대단하다!' 韓 미녀 배구스타, 日 데뷔하자마자 블로킹 공동 1위…2G 28득점 맹활약",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2209808"
-        },
-        {
-          "title": "이다현, 日 열도 매료시켰다! 팬들 \"여배우 외모에 실력도 압도적\"→감독도 \"머리 영리한 선수\" 극찬",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/sports/2026/10/21/2026102110492967876"
-        }
-      ]
-    },
-    {
-      "title": "sbs",
-      "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 03:00:00 -0700",
-      "news": [
-        {
-          "title": "Seoul shares open sharply higher",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/PYH20261021023900315?section=image/general"
-        },
-        {
-          "title": "Shark 'Bukang-i' Moves Out of Waterway... Guidance Operation Concluded",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008808882"
-        },
-        {
-          "title": "KOSPI Surge Triggers Buy-Side Circuit Breaker Halt",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/market-money-en/2026/10/21/LFXGVRZ2K5FLFDCTUL37VKERPA/"
-        }
-      ]
-    },
-    {
-      "title": "php",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 02:50:00 -0700",
-      "news": [
-        {
-          "title": "PHP warns it plans to release 2 emergency patches imminently",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
-        },
-        {
-          "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html"
-        },
-        {
-          "title": "Dutch parliament website taken offline as cybersecurity warning triggers precautions",
-          "source": "NL Times",
-          "url": "https://nltimes.nl/2026/10/21/dutch-parliament-website-taken-offline-cybersecurity-warning-triggers-precautions"
+          "title": "코스피 4%대 급등에 매수 사이드카…코스닥도 1.96% 상승",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12324085"
         }
       ]
     }
