@@ -1,27 +1,159 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T21:40:41+00:00",
+  "fetched_at": "2026-10-21T22:11:05+00:00",
   "items": [
     {
-      "title": "madrid vs leipzig",
+      "title": "como 1907 vs manchester united f.c. standings",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 14:00:00 -0700",
+      "news": [
+        {
+          "title": "Como 4-1 Manchester United: Michael Carrick job in jeopardy after Champions League humiliation",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cwe8l3zeexvvt"
+        },
+        {
+          "title": "Injury-Hit Manchester United Faces Champions League Clash with Como",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/21/LYTTQ4W4ZBACBE4PQTZQPQMXUM/"
+        },
+        {
+          "title": "Licensable picture: Como 1907 V Manchester United",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/como-1907-v-manchester-united/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA5MTQxQzA"
+        }
+      ]
+    },
+    {
+      "title": "реал мадрид – рб лейпциг",
       "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 14:00:00 -0700",
+      "news": [
+        {
+          "title": "«Реал» — «РБ Лейпциг»: Бернарду Силва забил в пустые ворота на 44-й минуте",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6667052-real-madrid-rb-lejpcig-bernardu-silva-zabil-v-pustye-vorota-na-44-j-minute.html"
+        },
+        {
+          "title": "ЛЧ. Диоманде помог огорчить экс-одноклубников: Реал победил Лейпциг перед Эль Класико",
+          "source": "UA-Football",
+          "url": "https://www.ua-football.com/foreign/champions_league/1792614722-lch-diomande-pomog-ogorchit-yeks-odnoklubnikov-real-pobedil-leypcig-pered-yel-klasiko.html"
+        },
+        {
+          "title": "Реал Мадрид — Лейпциг: прогноз (кэф 2.25) и составы команд 21 октября 2026",
+          "source": "Ставка ТВ",
+          "url": "https://stavka.tv/matches/soccer/21-10-2026-real-madrid-leipzig"
+        }
+      ]
+    },
+    {
+      "title": "여자 축구",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 13:50:00 -0700",
+      "news": [
+        {
+          "title": "‘AG 동메달’ 한국 여자축구, FIFA 랭킹 17위…40개월 만에 최고",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8691296"
+        },
+        {
+          "title": "AG 동메달 성과…여자축구, FIFA 랭킹 17위",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261022044836Yvu"
+        },
+        {
+          "title": "[오피셜] '중국 제치고 아시아 4위 등극' 韓 여자축구, 3년 4개월 만에 피파랭킹 최고 순위 '17위' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/21/2026102109502569413"
+        }
+      ]
+    },
+    {
+      "title": "챔피언스리그",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 13:50:00 -0700",
+      "news": [
+        {
+          "title": "\"팬들이 먼저 떠나나\" 꿈의 챔스인데 '텅 빈' 관중석, 충격의 '재정 위반 유죄' 맨시티…'5골 화력쇼' 마레스카 \"다시 좋아질 것\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/21/GVTDGM3BGE3TKN3BGAZDQYJZMU/"
+        },
+        {
+          "title": "포든 해트트릭이 이끈 시티, AEK 아테네에 5골 대승",
+          "source": "Manchester City FC",
+          "url": "https://kr.mancity.com/news/mens/city-v-aek-athens-match-report-63928130"
+        },
+        {
+          "title": "‘홀란 없어도 5골 폭격’ 맨시티, AEK 아테네 5-1 대파…‘해트트릭’ 포든이 해결사",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610210819003"
+        }
+      ]
+    },
+    {
+      "title": "방탄소년단",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 13:50:00 -0700",
+      "news": [
+        {
+          "title": "BTS 뷔, 바지 엉덩이 부분에 뭐 묻었나…\"원래 이런 것, 충분히 오해할만해\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6326798"
+        },
+        {
+          "title": "꽃보다 태형~♥ 방탄소년단 뷔, 칠레 포도밭 '달콤 휴식'",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/music/2026/10/21/2026102107153836246"
+        },
+        {
+          "title": "\"AI도 이런 얼굴은 못만들것\"방탄소년단 뷔 칠레 공연 팬캠에 잡힌 비현실적 미모 [K-EYES]",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553624524"
+        }
+      ]
+    },
+    {
+      "title": "bayern đấu với arsenal",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "Video bóng đá Bayern Munich - Arsenal: Đôi công ngang ngửa (Cúp C1)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-bayern-munich-arsenal-doi-cong-ngang-ngua-cup-c1-c48a1804643.html"
+        },
+        {
+          "title": "Arteta chưa thể quên thất bại ở chung kết Champions League 2025/2",
+          "source": "Bongda24h",
+          "url": "https://bongda24h.vn/bong-da-chau-au/arteta-chua-the-quen-that-bai-o-chung-ket-champions-league-2025-2026-184-462800.html"
+        },
+        {
+          "title": "Trực tiếp Bayern München vs Arsenal: Bayern München gỡ hòa 1-1",
+          "source": "Báo Lâm Đồng",
+          "url": "https://baolamdong.vn/truc-tiep-bayern-munchen-vs-arsenal-bayern-munchen-go-hoa-1-1-470500.html"
+        }
+      ]
+    },
+    {
+      "title": "madrid vs leipzig",
+      "approx_traffic": "200+",
       "published": "Wed, 21 Oct 2026 13:30:00 -0700",
       "news": [
         {
-          "title": "Champions League: Real Madrid zu stark für Leipzig",
-          "source": "ZDFheute",
-          "url": "https://www.zdfheute.de/sport/fussball-champions-league/fussball-champions-league-real-madrid-rasenballsport-leipzig-100.html"
+          "title": "Champions League: Round-up - Real Madrid wahrt weisse Weste – Como nimmt ManUnited auseinander",
+          "source": "SRF",
+          "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-real-madrid-wahrt-weisse-weste-como-nimmt-manunited-auseinander"
         },
         {
-          "title": "RB geht bei Real leer aus - Traumtor von Diomande",
-          "source": "MDR.de",
-          "url": "https://www.mdr.de/sport/fussball_pokal/pokale-international/champions-league-real-madrid-rb-leipzig,spielbericht-real-rbl-100.html"
+          "title": "Perfekte Bilanz in der Champions League",
+          "source": "Real Madrid CF | Web Oficial",
+          "url": "https://www.realmadrid.com/de-DE/news/fussball/erste-mannshaft/berichte/cronica-real-madrid-leipzig-j3-champions-21-10-2026"
         },
         {
-          "title": "Demichelis fordert Wachsamkeit und Mut in Madrid",
-          "source": "Berchtesgadener Anzeiger",
-          "url": "https://www.berchtesgadener-anzeiger.de/startseite_artikel,-demichelis-fordert-wachsamkeit-und-mut-in-madrid-_arid,1022441.html"
+          "title": "Champions League: Leipzig bei Real auf verlorenem Posten",
+          "source": "sport.ORF.at",
+          "url": "https://sport.orf.at/stories/3163880/"
         }
       ]
     },
@@ -31,14 +163,14 @@
       "published": "Wed, 21 Oct 2026 13:20:00 -0700",
       "news": [
         {
-          "title": "이다해, 상하이 50억 집 공개…\"무옵션에 월세 600만원\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003835821"
-        },
-        {
           "title": "‘11월 딸 출산’ 이다해, 불러온 배 위에 손 살포시… 장영란·심진화와 상하이 회동",
           "source": "조선일보",
           "url": "https://www.chosun.com/entertainments/celebrity/2026/10/21/GM4GEMLCHAZTAMLFMZRGKYZVGA/"
+        },
+        {
+          "title": "이다해, 상하이 50억 집 공개…\"무옵션에 월세 600만원\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003835821"
         },
         {
           "title": "'세븐♥' 이다해, 임신 9개월 안 믿기는 작은 배…\"중국 검색어 1위\" - 머니투데이",
@@ -75,141 +207,14 @@
       "published": "Wed, 21 Oct 2026 13:20:00 -0700",
       "news": [
         {
-          "title": "삼성바이오로직스 노조, 총파업 잠정 연기…점심 집회서 교섭안 요구",
-          "source": "팜이데일리",
-          "url": "https://mpharm.edaily.co.kr/News/Read?newsId=04851126645615216&mediaCodeNo=257"
+          "title": "진중권 “추미애, 말실수 아냐…소방 공무원을 흡혈충으로 본 것”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625037"
         },
         {
-          "title": "“법조항 새로 만들어 노조 협상력 축소한” 법원",
-          "source": "매일노동뉴스",
-          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237309"
-        }
-      ]
-    },
-    {
-      "title": "이마트",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 13:20:00 -0700",
-      "news": [
-        {
-          "title": "이마트24, 자체 브랜드 '옐로우' 커피·생수 1천200만개 판매",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021023100030"
-        },
-        {
-          "title": "이마트24, PB 론칭 1주년 ‘리뉴얼’…상품 150종으로 확대",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20104218"
-        },
-        {
-          "title": "[똑똑한유통] 이마트24, 신세계라이브쇼핑, 우아한형제들, 쿠팡풀필먼트서비스",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261021026059379"
-        }
-      ]
-    },
-    {
-      "title": "메타 주가",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 13:10:00 -0700",
-      "news": [
-        {
-          "title": "메타, 3분기 매출 26% 오른 646억 달러…주당순이익 기대치 미달",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022007500091"
-        },
-        {
-          "title": "장 마감 후 주요 종목 동향: META, IBM, TSLA, LRCX, KLAC, AMAT, CSX, KMI, LVS",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-432SI-2135990"
-        },
-        {
-          "title": "美 빅테크 실적 발표 앞둔 코스피, 장초반 강세 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/21/2026102109142881392"
-        }
-      ]
-    },
-    {
-      "title": "전고체 전지",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 13:00:00 -0700",
-      "news": [
-        {
-          "title": "삼성운용 'KODEX 전고체배터리ESS TOP2플러스' ETF, 순자산 2000억 돌파",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003835134"
-        },
-        {
-          "title": "AI 전력 수요 확대에 기대감↑…KODEX 전고체배터리ESS, 순자산 2000억",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610211024175080"
-        }
-      ]
-    },
-    {
-      "title": "부디 행복해질 것",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 13:00:00 -0700",
-      "news": [
-        {
-          "title": "임영웅, ‘부디 행복해질 것’ 뮤직비디오 공개",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8689926"
-        },
-        {
-          "title": "임영웅, 빌보드 코리아에 무려 13곡 진입…‘사랑은 늘 도망가’ 19위",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261021/134879461/1"
-        },
-        {
-          "title": "임영웅, 빌보드 코리아 ‘글로벌 K-송즈’ 10곡 차트인",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610210731003"
-        }
-      ]
-    },
-    {
-      "title": "챔스",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 12:50:00 -0700",
-      "news": [
-        {
-          "title": "황인범 32분 포르투, 에인트호번에 0-1 패배",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261021_0002269240"
-        },
-        {
-          "title": "‘챔스 3경기 연속 교체 출전’ 황인범, 32분 소화…포르투는 PSV에 홈에서 패하며 3연패",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610210837003"
-        },
-        {
-          "title": "황인범, PSV전 UCL 첫 선발 도전⋯포르투 2연패 탈출할까",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2637795"
-        }
-      ]
-    },
-    {
-      "title": "황희찬",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 12:40:00 -0700",
-      "news": [
-        {
-          "title": "\"황희찬 슈퍼카 42대 요구하곤 홍보 불이행\" 사기 혐의 피소",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03493206645615216&mediaCodeNo=257"
-        },
-        {
-          "title": "'사기 혐의' 고소 당한 황희찬…법적 공방 새 국면 [지금이뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0545_202610211450018688_"
-        },
-        {
-          "title": "\"황희찬, 차량 42대 제공받고 SNS 홍보는 안 해\"…사기 혐의 피소",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026102115432529425"
+          "title": "추미애·부승찬 '경고'‥잇단 설화에 자성론",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859782_37012.html"
         }
       ]
     }
