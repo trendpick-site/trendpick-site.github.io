@@ -1,8 +1,96 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T14:41:24+00:00",
+  "fetched_at": "2026-10-21T15:14:18+00:00",
   "items": [
+    {
+      "title": "학교 폭력",
+      "approx_traffic": "1000+",
+      "published": "Wed, 21 Oct 2026 07:00:00 -0700",
+      "news": [
+        {
+          "title": "세종학교지원본부, 학교폭력 조사·갈등 중재 전문성 강화",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261021001217"
+        },
+        {
+          "title": "세종시교육청, 학교폭력 조사부터 관계 회복까지…현장 대응력 높인다 - 보도자료 | 기사",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/releasecopy/2379130.htm"
+        },
+        {
+          "title": "싸움 부추겨 영상 찍고 유포…'야차룰' 경보",
+          "source": "원주투데이",
+          "url": "https://www.wonjutoday.co.kr/news/articleView.html?idxno=213060"
+        }
+      ]
+    },
+    {
+      "title": "샘 김",
+      "approx_traffic": "1000+",
+      "published": "Wed, 21 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "'케데헌' 이재, 연인 샘킴과 한 달 앞당겨 한국서 깜짝 결혼",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6594018"
+        },
+        {
+          "title": "‘케데헌’ 이재, 외조부 신영균 옛 집터에서 깜짝 결혼",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610202018005"
+        },
+        {
+          "title": "[잇슈 컬처] ‘케데헌’ 이재, 외조부 신영균 옛 자택서 결혼식",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690888"
+        }
+      ]
+    },
+    {
+      "title": "明天的天氣",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "颱風薔琵暴風侵襲率最新預估：北北基桃等10縣市突破八成 基隆、宜蘭99%",
+          "source": "Yahoo新聞",
+          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E6%9A%B4%E9%A2%A8%E4%BE%B5%E8%A5%B2%E7%8E%87%E6%9C%80%E6%96%B0%E9%A0%90%E4%BC%B0%EF%BC%9A%E5%8C%97%E5%8C%97%E5%9F%BA%E6%A1%83%E7%AD%8910%E7%B8%A3%E5%B8%82%E7%AA%81%E7%A0%B4%E5%85%AB%E6%88%90-%E5%9F%BA%E9%9A%86%E3%80%81%E5%AE%9C%E8%98%AD99-140043411.html"
+        },
+        {
+          "title": "強颱薔琵熱區北部山區、宜花 水利署：馬太鞍溪備妥600萬方疏濬量能",
+          "source": "自由時報",
+          "url": "https://stock.ltn.com.tw/article/leedvfxc0dms"
+        },
+        {
+          "title": "「3D琵眼」神似黑巧甜甜圈！他也淪陷：被重擊了",
+          "source": "民視新聞網",
+          "url": "https://www.ftvnews.com.tw/news/detail/2026A21W0619"
+        }
+      ]
+    },
+    {
+      "title": "김밥",
+      "approx_traffic": "2000+",
+      "published": "Wed, 21 Oct 2026 06:20:00 -0700",
+      "news": [
+        {
+          "title": "김천 김밥부터 익산 국화까지···가을축제 앞두고 지자체 '식중독 경계령'",
+          "source": "전북일보 인터넷신문",
+          "url": "https://www.jjan.kr/article/20261021500026"
+        },
+        {
+          "title": "[주간 축제] \"김밥 영어로 바비 킴?\"… 김천김밥축제에 진짜 뜬다",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/10/21/R4WHYCO6WRAVTJSNLVXMP6D2IE/"
+        },
+        {
+          "title": "김천시, 김밥축제 교통상황 실시간 중계…\"인파 밀집도 파악\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6326981"
+        }
+      ]
+    },
     {
       "title": "파울루 벤투",
       "approx_traffic": "200+",
@@ -60,7 +148,7 @@
         {
           "title": "김락현 데이터처 고용통계과장, 8월 경제활동인구조사 근로형태별 부가조사 결과",
           "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261021_0021497999"
+          "url": "https://mobile.newsis.com/photo/NISI20261021_0021498000"
         }
       ]
     },
@@ -111,94 +199,6 @@
           "title": "\"팀 도움 안됐지만 몸값 쌌으니 됐어\"…美언론 '염가쇼핑' 혹평→자존심 구겼다",
           "source": "스포츠조선",
           "url": "https://www.sportschosun.com/baseball/2026-10-21/202610210100135580008846"
-        }
-      ]
-    },
-    {
-      "title": "우덕배",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 05:10:00 -0700",
-      "news": [
-        {
-          "title": "[다시보기] 골 때리는 그녀들 237회",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/kickagoal/vod/68129/22000638508"
-        },
-        {
-          "title": "‘논현동 앙리’ 현진, 마시마 유의 패스 받으며 침착한 마무리로 멀티골 달성★",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/kickagoal/clip/67995/OC482578880"
-        },
-        {
-          "title": "'골때녀' 먹스나, 스트리밍파이터의 새 비밀병기 될까 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102111507219318"
-        }
-      ]
-    },
-    {
-      "title": "이현중",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 05:10:00 -0700",
-      "news": [
-        {
-          "title": "‘농구金’ 이현중, 연봉 20억 포기한 이유?…“비보장 계약도 기회”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261021/134886170/1"
-        },
-        {
-          "title": "'AG 농구 金' 이현중, 유재석 영상 보며 해외 생활 버텨 \"선배님과 서사가 닮았다\"('유퀴즈') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/GA4GGNZXGI4TKY3DHEYDCYRZHA/"
-        },
-        {
-          "title": "202㎝ 이현중 \"日 연봉 20억 거절…NBA 1년 비보장 계약\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834913"
-        }
-      ]
-    },
-    {
-      "title": "오디션",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 05:10:00 -0700",
-      "news": [
-        {
-          "title": "넷플릭스 標 K-팝 걸그룹 나온다…예술고 대항 오디션 '위 고 하이'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003835683"
-        },
-        {
-          "title": "넷플릭스, 예고생 K팝 오디션 연다…SM C&C 데뷔 및 활동 뒷받침",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807625"
-        },
-        {
-          "title": "\"넷플릭스, 걸그룹 키운다\"…'위 고 하이', 참가자 모집",
-          "source": "디스패치",
-          "url": "https://www.dispatch.co.kr/2349559"
-        }
-      ]
-    },
-    {
-      "title": "황보라",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 05:00:00 -0700",
-      "news": [
-        {
-          "title": "‘김용건 며느리’ 황보라, 둘째 시험관 시도 중 좌절에도…“절대 포기하지 않을 것”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20104281"
-        },
-        {
-          "title": "황보라, 시험관 시술 중 퉁퉁 부은 얼굴…\"언제까지 반복될지\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102106363999840"
-        },
-        {
-          "title": "황보라, “보름 먹고 간수치 1000 찍었다”… 독성 부른 ‘뜻밖의 원인’",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102155.html"
         }
       ]
     }
