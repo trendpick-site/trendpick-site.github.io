@@ -1,11 +1,99 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T10:46:44+00:00",
+  "fetched_at": "2026-10-21T11:39:28+00:00",
   "items": [
     {
-      "title": "국가유공자",
+      "title": "이다현",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "이다현, 日 열도 매료시켰다! 팬들 \"여배우 외모에 실력도 압도적\"→감독도 \"머리 영리한 선수\" 극찬 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/21/2026102110492967876"
+        },
+        {
+          "title": "'여배우 같은 외모, 실력도 대단하다!' 韓 미녀 배구스타, 日 데뷔하자마자 블로킹 공동 1위…2G 28득점 맹활약",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2209808"
+        },
+        {
+          "title": "'이다현이 끝냈다' 듀스 접전 마침표 찍은 블로킹 포함…2G 연속 두자리수 점수 NEC, 히메지에 설욕",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026101908570730687"
+        }
+      ]
+    },
+    {
+      "title": "sbs",
+      "approx_traffic": "2000+",
+      "published": "Wed, 21 Oct 2026 03:00:00 -0700",
+      "news": [
+        {
+          "title": "SBS names Kathryn Fink chief content officer in executive restructure",
+          "source": "IF Magazine",
+          "url": "https://if.com.au/sbs-names-kathryn-fink-chief-content-officer-in-executive-shake-up/"
+        },
+        {
+          "title": "SBS announces key appointments as part of new executive structure",
+          "source": "Radio Today",
+          "url": "https://radiotoday.com.au/sbs-announces-key-appointments-as-part-of-new-executive-structure/"
+        },
+        {
+          "title": "SBS Promotes Kathryn Fink to Chief Content Officer in Executive Restructure",
+          "source": "Variety Australia",
+          "url": "https://au.variety.com/2026/biz/news/sbs-promotes-kathryn-fink-to-chief-content-officer-41673/"
+        }
+      ]
+    },
+    {
+      "title": "php",
       "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html"
+        },
+        {
+          "title": "PHP warns it plans to release 2 emergency patches imminently",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+        },
+        {
+          "title": "EU cybersecurity agency in warning on PHP vulnerabilities",
+          "source": "RTE.ie",
+          "url": "https://www.rte.ie/news/world/2026/1021/1596231-eu-cybersecurity/"
+        }
+      ]
+    },
+    {
+      "title": "배성재",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "로마로 신혼여행 간 김다영, ♥배성재 볼에 뽀뽀 세례 “남편 섬기겠다”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20104166"
+        },
+        {
+          "title": "'14살 연하' 김다영, ♥배성재 생일에 3단 뽀뽀…\"남편만 섬길 것\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014213"
+        },
+        {
+          "title": "김다영, 임신 8개월 사진 공개…배성재와 12월 출산 앞두고 태교 여행 추억",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=844224"
+        }
+      ]
+    },
+    {
+      "title": "국가유공자",
+      "approx_traffic": "500+",
       "published": "Wed, 21 Oct 2026 02:40:00 -0700",
       "news": [
         {
@@ -26,24 +114,46 @@
       ]
     },
     {
-      "title": "박보경",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 02:30:00 -0700",
+      "title": "북항이",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 02:40:00 -0700",
       "news": [
         {
-          "title": "[Y터뷰] '로또 1등' 하율리 \"이준혁 vs 서현우, 실제라면 더 의지할 상사는?\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202610211046115818_"
+          "title": "부산 북항 상어 ‘부캉이’ 수로 밖으로…유도작업 종료",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261021.99099006355"
         },
+        {
+          "title": "‘부캉이 안녕, 고마웠어’…33일 만에 바다로 귀환 [현장]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/yeongnam/1283508.html"
+        },
+        {
+          "title": "[속보] 상어 '부캉이' 수로 밖으로 이동…유도 작업 종료",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808873"
+        }
+      ]
+    },
+    {
+      "title": "박보경",
+      "approx_traffic": "1000+",
+      "published": "Wed, 21 Oct 2026 02:30:00 -0700",
+      "news": [
         {
           "title": "박보경 \"저도 두 아이 키우며 복귀…워킹맘 위대함 담고 싶었죠\"",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261020111700005"
         },
         {
-          "title": "관리자가 되기 싫은 20년 차 직장인의 고백",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275159"
+          "title": "\"로또 처음 사봐, 1등 당첨 감정은…\" 이준혁 '로또 1등도 출근합니다'[왓더OTT]",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6594489"
+        },
+        {
+          "title": "박보경 \"8년 공백? 진선규, 연기 아닌 걸로 돈 버는 꼴 못 보겠더라\" [인터뷰]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610203675H"
         }
       ]
     },
@@ -71,7 +181,7 @@
     },
     {
       "title": "죽음",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Wed, 21 Oct 2026 02:10:00 -0700",
       "news": [
         {
@@ -102,108 +212,14 @@
           "url": "https://www.yonhapnewstv.co.kr/news/AKR20261021145639y8j"
         },
         {
+          "title": "[기업] HD현대로보틱스, 자체 개발 '지능형 양팔로봇' 첫선",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610211825213242"
+        },
+        {
           "title": "대구시, 'FIX 2026 혁신상' 31개 혁신기업 선정… 22일 시상식 개최",
           "source": "전자신문",
           "url": "https://www.etnews.com/20261021000440"
-        },
-        {
-          "title": "[포토] 핼러윈도 로봇과 함께",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261021500832"
-        }
-      ]
-    },
-    {
-      "title": "추위",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "[날씨] 비구름 뒤 찬바람…한낮 쌀쌀, 내일 한파주의보",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261021131138Hq8"
-        },
-        {
-          "title": "내일 아침 곳곳 5도 이하로…금요일에 추위 풀려",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8691318"
-        },
-        {
-          "title": "21일 낮부터 찬 바람에 기온 뚝···전국 곳곳 비",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610210746001"
-        }
-      ]
-    },
-    {
-      "title": "한문철",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "주차 빌런에 공중 배달까지…테슬라 ‘로드스터’ 패러디 봇물",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8689506"
-        },
-        {
-          "title": "'제로백 1초' 순간 바나나 '뚝'‥3일 만에 찾아내자 \"알아챘네\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6859376_36925.html"
-        },
-        {
-          "title": "테슬라 날아오르자 뛰어넘은 플라잉카…보란 듯 솟구친 '비행 기술' [지금이뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0545_202610201420021296"
-        }
-      ]
-    },
-    {
-      "title": "알렉산더 볼카노프스키",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 02:00:00 -0700",
-      "news": []
-    },
-    {
-      "title": "디에이치",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 01:40:00 -0700",
-      "news": [
-        {
-          "title": "달아나는 현대, 바짝 쫓는 삼성… 도시정비 1ㆍ2위 순위 다툼 ‘주목’",
-          "source": "대한경제",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191345238390144"
-        },
-        {
-          "title": "목동·성수·광명…12조 '재건축 큰장' 선다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102039611"
-        },
-        {
-          "title": "10대 건설사 정비수주 40조 돌파… 연말 ‘역대 최대’ 정조준",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261020500833"
-        }
-      ]
-    },
-    {
-      "title": "저축",
-      "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 01:40:00 -0700",
-      "news": [
-        {
-          "title": "핀다, 대원저축은행 품고 여수신 기능 탑재…금융위 최종 승인",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021158900002"
-        },
-        {
-          "title": "핀다, 국내 핀테크 최초 저축은행업 진출… 대원저축은행 인수 승인 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/finance/2026/10/21/HBW5XAK24VEJ3BMK3YTK3PBDLE/"
-        },
-        {
-          "title": "핀다, 대원저축은행 품는다…금융위 대주주 변경 승인",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440416"
         }
       ]
     }
