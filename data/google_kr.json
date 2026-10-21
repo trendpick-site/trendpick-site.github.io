@@ -1,8 +1,74 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T03:10:08+00:00",
+  "fetched_at": "2026-10-21T03:41:20+00:00",
   "items": [
+    {
+      "title": "황신혜",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 19:20:00 -0700",
+      "news": [
+        {
+          "title": "황신혜 “87세 母 드레스 입고 장수사진…나도 밝게 마지막 장식”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261021/134879231/1"
+        },
+        {
+          "title": "[채널예약] 황신혜, 신계숙 흰머리 염색하다 수습 불가 ‘대참사’ (황신혜의 같이 삽시다)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610202042003"
+        },
+        {
+          "title": "63세 황신혜, 얼핏 보면 아이돌…하체 운동 대신 한다는 '계단 오르기'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261014_0003825681"
+        }
+      ]
+    },
+    {
+      "title": "모두의카드",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 19:20:00 -0700",
+      "news": [
+        {
+          "title": "교통비 환급에 차질 없도록…'모두의카드' 카드 정보 확인하세요! - 카드/한컷 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974001&pWise=sub&pWiseSub=C1"
+        },
+        {
+          "title": "\"모두의카드 번호 26일까지 확인하세요\"‥등록번호 다르면 환급 차질",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6859259_36932.html"
+        },
+        {
+          "title": "모두의카드 등록 정보, 26일까지 업데이트 하세요",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261020/134873218/1"
+        }
+      ]
+    },
+    {
+      "title": "kf-21 보라매",
+      "approx_traffic": "1000+",
+      "published": "Tue, 20 Oct 2026 19:10:00 -0700",
+      "news": [
+        {
+          "title": "독자개발 훈련기 '웅비'의 튀르키예 수출에 방위사업청이 당황한 이유",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026101913180001658"
+        },
+        {
+          "title": "하늘길 연 국산 전투기 보라매, 날개 펴기도 전에 맞닥뜨린 단가 벽",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610190557195971fbbec65dfb_1"
+        },
+        {
+          "title": "KF-21 첫 공군 인도했지만… 양산비 4조 급증, 120대 전력화 ‘비상’",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261020010006493"
+        }
+      ]
+    },
     {
       "title": "국무회의",
       "approx_traffic": "1000+",
@@ -14,20 +80,20 @@
           "url": "https://www.chosun.com/politics/politics_general/2026/10/21/X76U372SORA75CMI3ERAXIIDJM/"
         },
         {
+          "title": "국조실장 \"수사기관장 국무회의 배석…정치적 중립 문제 없도록 유념\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/index.php/economy/2026/10/21/2026102111213713152"
+        },
+        {
           "title": "李 “제미나이에 물어봤더니 중수청장 국무회의 배제론은 궤변”",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Politics/article/all/20261021/134880382/1"
-        },
-        {
-          "title": "이 대통령 “중수청장 국무회의 배제론 위헌적 억지…AI에도 물어봐”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1283378.html"
         }
       ]
     },
     {
       "title": "예방 접종",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Tue, 20 Oct 2026 18:50:00 -0700",
       "news": [
         {
@@ -132,13 +198,13 @@
     },
     {
       "title": "송중기",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Tue, 20 Oct 2026 18:00:00 -0700",
       "news": [
         {
-          "title": "\"송혜교랑...\" 팬이 한 말 들은 송중기...얼굴 찌푸린 이유 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102107130012397"
+          "title": "송중기, '송혜교' 언급에 순간 굳은 표정…영상 확산",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834137"
         },
         {
           "title": "[스경X이슈] 송중기, 전처 송혜교 언급에 표정 굳었다…“너무 무례해”",
@@ -146,70 +212,9 @@
           "url": "https://sports.khan.co.kr/article/202610210849003"
         },
         {
-          "title": "송중기, 해외 팬들 앞에서 전처 송혜교 이름 들은 뒤 반응은…웃음기 사라졌다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6326587"
-        }
-      ]
-    },
-    {
-      "title": "해변",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 18:00:00 -0700",
-      "news": [
-        {
-          "title": "바다, 커피 그리고 책…강원 강릉 안목해변서 ‘북트립’",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834878"
-        },
-        {
-          "title": "관광공사, 강릉 안목해변서 북트립 행사…노홍철·요조 북콘서트",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1178085"
-        },
-        {
-          "title": "제18회 강릉커피축제 손님맞이 준비 완료…'커피향 가득한 강릉으로 오세요'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20261020001300353"
-        }
-      ]
-    },
-    {
-      "title": "경기도교육청",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 18:00:00 -0700",
-      "news": [
-        {
-          "title": "경기교육청, 24일 '청소년 매니페스토 페스티벌' 개최",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834767"
-        },
-        {
-          "title": "약속과 실천 중요성 배우는 경기 청소년 매니페스토 페스티벌 개최",
-          "source": "중부일보",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363739622"
-        }
-      ]
-    },
-    {
-      "title": "서울시교육청",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 18:00:00 -0700",
-      "news": [
-        {
-          "title": "충북교육청, 2027학년도 공‧사립 중등교사 임용시험에 1,297명 지원 : 네이버 블로그",
-          "source": "Naver Blog",
-          "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224448043517&redirect=Dlog"
-        },
-        {
-          "title": "2027학년도 경남 공립 중등교사 임용 평균 경쟁률 7.19대 1",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021062900052"
-        },
-        {
-          "title": "강원 중등교사 임용시험 경쟁률 6.55대 1…'미술' 최고·'건설' 최저",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/kangwon/6327077"
+          "title": "\"송혜교랑...\" 팬이 한 말 들은 송중기...얼굴 찌푸린 이유 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102107130012397"
         }
       ]
     }
