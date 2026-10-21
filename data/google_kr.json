@@ -1,8 +1,168 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T23:08:26+00:00",
+  "fetched_at": "2026-10-21T23:37:07+00:00",
   "items": [
+    {
+      "title": "klasemen real madrid vs rb leipzig",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 15:30:00 -0700",
+      "news": []
+    },
+    {
+      "title": "nvda",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 15:30:00 -0700",
+      "news": [
+        {
+          "title": "Nvidia Is AI’s Central Bank. Now Jensen Huang Must Step Up",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/opinion/articles/2026-10-21/nvidia-is-ai-s-central-bank-now-jensen-huang-must-step-up"
+        },
+        {
+          "title": "Prediction: Nvidia’s Road to $1 Trillion in Annual Revenue Could Transform Its Stock",
+          "source": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/10/21/prediction-nvidias-road-to-1-trillion-in-annual-revenue-could-transform-its-stock/"
+        },
+        {
+          "title": "NVDA Stock Rebounds Above $220 as Amazon Buys Billions in Nvidia Chips while Electricity Constraints Threaten Returns",
+          "source": "FXLeaders",
+          "url": "https://www.fxleaders.com/news/2026/10/21/nvda-stock-rebounds-above-220-as-amazon-buys-billions-in-nvidia-chips-while-electricity-constraints-threaten-returns/"
+        }
+      ]
+    },
+    {
+      "title": "thứ hạng của real madrid gặp rb leipzig",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "Video bóng đá Real Madrid - Leipzig: Mbappe - Diomande rực rỡ (Cúp C1)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-leipzig-mbappe-diomande-ruc-ro-cup-c1-c48a1804646.html"
+        },
+        {
+          "title": "Kết quả bóng đá hôm nay ngày 22/10: MU thua đậm, Real Madrid thắng lớn",
+          "source": "Thể Thao 247",
+          "url": "https://thethao247.vn/63-ket-qua-bong-da-hom-nay-ngay-22-10-mu-thua-dam-real-madrid-thang-lon-c2-d441490.html"
+        },
+        {
+          "title": "Real thắng đậm trước El Clasico",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/real-thang-dam-truoc-el-clasico-5135361.html"
+        }
+      ]
+    },
+    {
+      "title": "thứ hạng của bayern gặp arsenal",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "Video bóng đá Bayern Munich - Arsenal: Đôi công ngang ngửa (Cúp C1)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-bayern-munich-arsenal-doi-cong-ngang-ngua-cup-c1-c48a1804643.html"
+        },
+        {
+          "title": "\"Kim Min-jae, rời sân lúc hết hiệp 1 trong trận đấu lớn UCL\" Mùnchen, hòa 2-2 với Arsenal... Kane ghi 1 bàn 1 kiến tạo nhưng Rice ghi bàn gỡ hòa",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/vi/sports/2026/10/22/2026102205555174555"
+        },
+        {
+          "title": "Arteta tuyên bố điều đặc biệt sau trận hòa nghẹt thở với Bayern Munich",
+          "source": "Thể Thao 247",
+          "url": "https://thethao247.vn/406-arteta-tuyen-bo-dieu-dac-biet-sau-tran-hoa-nghet-tho-voi-bayern-munich-c2-d441517.html"
+        }
+      ]
+    },
+    {
+      "title": "xrpn",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "XRP Treasury Wins Key SEC Approval to Raise New Capital: Main Crypto News This Morning",
+          "source": "U.Today",
+          "url": "https://u.today/xrp-treasury-wins-key-sec-approval-to-raise-new-capital-main-crypto-news-this-morning"
+        },
+        {
+          "title": "Uphold starts trading Evernode's XRPN stock, enabling exposure without direct XRP purchases",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/en/view/117289/uphold-starts-trading-evernode-xrpn-stock-enabling-exposure-without-direct-xrp-purchases"
+        },
+        {
+          "title": "Evernorth Files SEC Prospectus to Raise Up to $132 Million for XRP Treasury",
+          "source": "KuCoin",
+          "url": "https://www.kucoin.com/news/flash/evernorth-files-sec-prospectus-to-raise-up-to-132-million-for-xrp-treasury"
+        }
+      ]
+    },
+    {
+      "title": "spch",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "SSPC Leverage Shares 2X Short SPCX Daily Draws Active Traders After Sharp Swing",
+          "source": "StocksToTrade",
+          "url": "https://stockstotrade.com/news/leverage-shares-2x-short-spcx-daily-sspc-news-2026_10_21/"
+        },
+        {
+          "title": "SPCH Stock Pulls Back As Volatility Grips Leveraged Trade",
+          "source": "Timothy Sykes",
+          "url": "https://www.timothysykes.com/news/leverage-shares-2x-long-spcx-daily-spch-news-2026_10_21-3/"
+        },
+        {
+          "title": "SSPC Leverage Shares 2X Short SPCX Daily Draws Active Momentum Traders",
+          "source": "Timothy Sykes",
+          "url": "https://www.timothysykes.com/news/leverage-shares-2x-short-spcx-daily-sspc-news-2026_10_21-3/"
+        }
+      ]
+    },
+    {
+      "title": "미스터트롯",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 15:10:00 -0700",
+      "news": [
+        {
+          "title": "[미스터트롯4] 이찬원, 스페셜 마스터 합류! 역대 ′미스터트롯′ 선배들 총출동",
+          "source": "프레스뉴스",
+          "url": "https://www.pressna.com/news/newsview.php?ncode=1065591978043965"
+        },
+        {
+          "title": "이찬원·안성훈·박지현·김용빈 트로트 스타, ‘미스터트롯4’ 마스터로 뜬다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/19/P5IZDIN2NJHGRGGX2NJAHQXW6A/"
+        },
+        {
+          "title": "미스터트롯4, 현역 재도전 vs 숨은 실력자 맞붙는다",
+          "source": "TopStarNews",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16254407"
+        }
+      ]
+    },
+    {
+      "title": "제너럴 모터스",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 15:00:00 -0700",
+      "news": [
+        {
+          "title": "GM Tech Day: Autonomous Driving, More Helpful OnStar, Faster Product Development",
+          "source": "Car and Driver",
+          "url": "https://www.caranddriver.com/news/a74195933/gm-tech-day-2026/"
+        },
+        {
+          "title": "GM aims to develop vehicles in as little as two years with AI, software push",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html"
+        },
+        {
+          "title": "GM aims to leapfrog rivals with new generation of autonomous cars",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/5eb997eb-6031-40c4-b2f3-e2a09f4d64f1?syn-25a6b1a6=1"
+        }
+      ]
+    },
     {
       "title": "박위",
       "approx_traffic": "1000+",
@@ -26,200 +186,24 @@
       ]
     },
     {
-      "title": "제너럴 모터스",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 15:00:00 -0700",
-      "news": [
-        {
-          "title": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html"
-        },
-        {
-          "title": "GM Wants Your Car to Do Your Chores",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/"
-        },
-        {
-          "title": "GM Tech Day: Autonomous Driving, More Helpful OnStar, Faster Product Development",
-          "source": "Car and Driver",
-          "url": "https://www.caranddriver.com/news/a74195933/gm-tech-day-2026/"
-        }
-      ]
-    },
-    {
-      "title": "백지연",
+      "title": "이용규",
       "approx_traffic": "100+",
       "published": "Wed, 21 Oct 2026 15:00:00 -0700",
       "news": [
         {
-          "title": "백지연, 시술 받고 기분전환으로 디저트 흡입..\"내 몸에 미안해\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/GE2GMYJYMMYWIYRWME2TONDBMI/"
+          "title": "‘음주 운전 사고’ 전 프로야구 선수 이용규 불구속 기소",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8691418"
         },
         {
-          "title": "62세 백지연 \"빵·떡 좋아해…써마지·울쎄라 하고도 디저트 먹었다\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6325635"
+          "title": "유턴 차량 들이받고 경찰차까지 '쾅'…이용규, 음주운전 재판행 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/21/2026102117422380530"
         },
         {
-          "title": "“노화 스파이크 맞는 중”…62세 백지연이 평생 못 끊은 ‘이것’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12180391"
-        }
-      ]
-    },
-    {
-      "title": "롯데마트",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "롯데마트·슈퍼, '사과 먹은 닭고기' 출시…동물복지 상품 강화",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003835555"
-        },
-        {
-          "title": "롯데마트·슈퍼, '사과 먹은 동물복지 닭고기' 2종 단독 출시",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/distribution/6327635"
-        },
-        {
-          "title": "롯데마트·슈퍼, 사과먹은 동물복지 닭고기 2종 단독 출시",
-          "source": "뉴스후플러스",
-          "url": "https://www.newswhoplus.com/news/articleView.html?idxno=72354"
-        }
-      ]
-    },
-    {
-      "title": "경기도",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "‘복지 중독’ 경기도, 빚 증가율 전국 1위",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/10/22/W4LQJ23MGZGMJHMAU3PGUMHGZY/"
-        },
-        {
-          "title": "내년 예산 편성 앞두고 시장·군수 대표 만난 추미애 \"소통하고 경청하겠다\"",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026102207181131947"
-        },
-        {
-          "title": "[단독] 추미애 임기 중 상환 채무 4조6천억…내년부터 가용재원 상당분 빚 갚는 데 써야",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038405"
-        }
-      ]
-    },
-    {
-      "title": "쓰레기통",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "화장실서 출산 후 신생아 쓰레기통에 유기한 친모‥1심 징역 2년",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6859611_36918.html"
-        },
-        {
-          "title": "직장 화장실서 출산뒤 쓰레기통에 버린 20대…아기는 살았다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261021/134881701/1"
-        },
-        {
-          "title": "화장실서 출산후 쓰레기통에 신생아 버린 친모, 1심 징역 2년",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021071800004"
-        }
-      ]
-    },
-    {
-      "title": "nba lineup",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "Wednesday's fantasy basketball adds and bets to make in the NBA",
-          "source": "ESPN",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50239689/fantasy-basketball-tips-nba-betting-picks-today"
-        },
-        {
-          "title": "NBA DFS, 2026: Top FanDuel, DraftKings picks, lineups, advice for Wednesday, Oct. 21",
-          "source": "SportsLine",
-          "url": "https://www.sportsline.com/insiders/nba-dfs-2026-top-fanduel-draftkings-picks-lineups-advice-for-wednesday-oct-21/"
-        },
-        {
-          "title": "2026 NBA odds, picks, predictions, best bets, player props: Experts, model backing Heat, more on Oct. 21",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/betting/news/2026-nba-odds-picks-predictions-best-bets-player-props-experts-model-backing-heat-more-wednesday-oct-21/"
-        }
-      ]
-    },
-    {
-      "title": "kf-21 보라매",
-      "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 14:40:00 -0700",
-      "news": [
-        {
-          "title": "KF-21에 AI·무인 전투기 결합… 차세대 공중전투체계 구현 나서",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/special/special_section/2026/10/22/DR3RVTAZ35C7ZJGOWXNX2NZGOM/"
-        },
-        {
-          "title": "국산 항공기 수출 선구자 KAI… KT-1 넘어 KF-21로 글로벌 영토 확장",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/economy/industry/2026/10/22/20261022037001"
-        },
-        {
-          "title": "독자개발 훈련기 '웅비'의 튀르키예 수출에 방위사업청이 당황한 이유",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026101913180001658"
-        }
-      ]
-    },
-    {
-      "title": "real madrid vs rb leipzig standings",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "Real Madrid 4-1 RB Leipzig: Spanish side maintain 100% start",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c5vgjnkyyxr7t"
-        },
-        {
-          "title": "Preview: Real Madrid vs RB Leipzig - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/real-madrid/champions-league/preview/real-madrid-vs-rb-leipzig-prediction-team-news-lineups_607254.html"
-        },
-        {
-          "title": "Real Madrid’s predicted lineup against Leipzig today in the Champions League",
-          "source": "صوت الإمارات",
-          "url": "https://www.voiceofemirates.com/en/sport/2026/10/21/real-madrids-predicted-lineup-against-leipzig-today-in-the-champions-league/"
-        }
-      ]
-    },
-    {
-      "title": "tsla",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "Tesla reports Q3 earnings beat, positive free cash flow, and better-than-expected capex",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/article/tesla-reports-q3-earnings-beat-positive-free-cash-flow-and-better-than-expected-capex-202153389.html"
-        },
-        {
-          "title": "Tesla Earnings Live: TSLA Shares Rise on Results — Updates and Analysis",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026"
-        },
-        {
-          "title": "Tesla shares rise after earnings surprise in after-hours trading, while EV business remains weak",
+          "title": "만취 운전하다 순찰차까지 '쾅'…이용규, 음주운전으로 재판행",
           "source": "파이낸셜뉴스",
-          "url": "https://en.fnnews.com/news/202610220518088328"
+          "url": "https://www.fnnews.com/news/202610220704433378"
         }
       ]
     }
