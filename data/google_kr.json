@@ -1,11 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T06:53:44+00:00",
+  "fetched_at": "2026-10-21T07:48:02+00:00",
   "items": [
     {
-      "title": "삼성 갤럭시",
+      "title": "중수청",
       "approx_traffic": "1000+",
+      "published": "Tue, 20 Oct 2026 23:30:00 -0700",
+      "news": [
+        {
+          "title": "대통령 말 받아 적는 중수청장…법조계 \"국민 오해할 수밖에\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12324119"
+        },
+        {
+          "title": "[속보] 유승민 “국무회의 참석 문제를 제미나이에 묻다니…나라 망신”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261021580418"
+        },
+        {
+          "title": "이 대통령 “중수청장 국무회의 배석불가는 위헌적 억지”…AI 답변 통해 반박",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610211037001"
+        }
+      ]
+    },
+    {
+      "title": "문화일보",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 23:20:00 -0700",
+      "news": [
+        {
+          "title": "[속보]“지금 총선하면 경기 60석 중 국힘 45석” 양향자 분석",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625062"
+        },
+        {
+          "title": "양향자 “지금 총선 치르면 국힘 경기도 60석 중 45석”",
+          "source": "이데일리TV",
+          "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=03647366645615216&Kind=257"
+        },
+        {
+          "title": "개혁신당 이기인 “경기 의석 75% 확보?…양향자, 경기도민 만만하냐”",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12090372"
+        }
+      ]
+    },
+    {
+      "title": "이택근",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 23:20:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 롯데, '다카쓰 고사+이택근 추천'.. 감독·단장 인선에 '깜짝 변수' 등장",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896192"
+        },
+        {
+          "title": "부산 갈매기는 왜 9년째 가을에 못날까",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625020"
+        },
+        {
+          "title": "'FA 0입' 부채의식 때문일까, 김태형 재계약까지 논의 대상이라니…롯데의 결정, 왜 오래 걸리나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/21/GYZWKODDHE3GCZRUMRTDKOBYGQ/"
+        }
+      ]
+    },
+    {
+      "title": "지효",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 23:10:00 -0700",
+      "news": [
+        {
+          "title": "[공식] 트와이스 지효, 21년만 JYP와 결별…“새 회사 설립”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610211304003"
+        },
+        {
+          "title": "JYP 떠난 트와이스 지효, 신생 기획사 이밋하우스 설립",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021091000005"
+        },
+        {
+          "title": "지효, JYP와 계약 종료…\"독립 레이블 EMIT 차렸다\"",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2349576"
+        }
+      ]
+    },
+    {
+      "title": "이세돌",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 23:00:00 -0700",
+      "news": [
+        {
+          "title": "'누적 상금 100억' 이세돌 \"혈액형도 몰라…백수 생활 만만찮다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834169"
+        },
+        {
+          "title": "이세돌 심경 “바둑 자부심 사라졌다…AI 여파” (백수 이세돌)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261021/134879627/1"
+        },
+        {
+          "title": "바둑판 하나가 1억?…이세돌 \"소리가 차원이 달라\" 가치 인정 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102110093151567"
+        }
+      ]
+    },
+    {
+      "title": "콜 오브 듀티",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 23:00:00 -0700",
+      "news": [
+        {
+          "title": "“북한이 또 남침할 줄은 몰랐다”…한반도 위기에 전 세계 게이머들 열광?",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/it/12181491"
+        },
+        {
+          "title": "후계자의 권력 투쟁·공개 처형…게임 '콜 오브 듀티'가 구현한 암울한 北",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/nk/military/6325015"
+        },
+        {
+          "title": "`콜 오브 듀티`가 까뒤집은 그들의 내로남불 [가스인라이팅]",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026102102280015263"
+        }
+      ]
+    },
+    {
+      "title": "삼성 갤럭시",
+      "approx_traffic": "2000+",
       "published": "Tue, 20 Oct 2026 22:50:00 -0700",
       "news": [
         {
@@ -24,6 +156,12 @@
           "url": "https://www.news1.kr/it-science/mobile/6324709"
         }
       ]
+    },
+    {
+      "title": "채널a",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 22:50:00 -0700",
+      "news": []
     },
     {
       "title": "nh농협은행",
@@ -48,20 +186,14 @@
       ]
     },
     {
-      "title": "채널a",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 22:50:00 -0700",
-      "news": []
-    },
-    {
       "title": "음문석",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Tue, 20 Oct 2026 22:30:00 -0700",
       "news": [
         {
-          "title": "[공식] ‘호프’ 음문석 측 “♥여친과 내년 1월 결혼”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261021/134881108/1"
+          "title": "'호프' 배우 음문석, 모델과 내년 1월 결혼",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021092900005"
         },
         {
           "title": "‘신스틸러’ 배우 음문석, 내년 1월 모델 연인과 화촉",
@@ -69,141 +201,9 @@
           "url": "https://www.kyeonggi.com/article/20261021580248"
         },
         {
-          "title": "영화 ‘호프’ 목수 배우 음문석, 내년 1월 모델과 결혼 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/10/21/PMJBWOXTJRE35M6AAJ7LQPYH6Y/"
-        }
-      ]
-    },
-    {
-      "title": "대형주",
-      "approx_traffic": "5000+",
-      "published": "Tue, 20 Oct 2026 22:30:00 -0700",
-      "news": [
-        {
-          "title": "[속보] 코스피, 장중 4%대 급등에 매수 사이드카 발동",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6859555_36932.html"
-        },
-        {
-          "title": "[스팟] 코스피 182.92포인트(3.29%) 오른 5735.66 마감 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/21/2026102115325717167"
-        },
-        {
-          "title": "AI 기업 호실적에 삼전닉스 7% 급등…코스피 '매수 사이드카'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102155386"
-        }
-      ]
-    },
-    {
-      "title": "뷔",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 22:20:00 -0700",
-      "news": [
-        {
-          "title": "BTS 뷔, 바지 엉덩이 부분에 뭐 묻었나…\"원래 이런 것, 충분히 오해할만해\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6326798"
-        },
-        {
-          "title": "방탄소년단 뷔, 근황 공개했다가 해명 무슨 일? \"충분히 오해할 만해\"",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553632368"
-        },
-        {
-          "title": "\"AI도 이런 얼굴은 못만들것\"방탄소년단 뷔 칠레 공연 팬캠에 잡힌 비현실적 미모 [K-EYES]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/music/2026/10/19/2026101901350179348"
-        }
-      ]
-    },
-    {
-      "title": "노태문",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 22:20:00 -0700",
-      "news": [
-        {
-          "title": "성과급 넘어 교섭권까지…\"우리가 대표\" 노노 갈등",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261020200105mZA"
-        },
-        {
-          "title": "삼성전자, 노조 간 기싸움 고조…내년 임단협 교섭구도 변수로",
-          "source": "녹색경제신문",
-          "url": "https://greened.kr/news/articleView.html?idxno=352420"
-        },
-        {
-          "title": "삼성전자, 노태문 사장 주재 'DX 커넥트' 연기…개최 일정 미정",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/general-industry/6326482"
-        }
-      ]
-    },
-    {
-      "title": "한파주의보",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 22:10:00 -0700",
-      "news": [
-        {
-          "title": "[날씨] 찬바람 불며 쌀쌀해...내륙 곳곳 올가을 첫 '한파주의보'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202610211453017644"
-        },
-        {
-          "title": "전북 진안·무주·장수·임실 첫 한파주의보…22일 아침 기온 '뚝'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/jeonbuk/6326957"
-        },
-        {
-          "title": "전국 곳곳 한파·강풍주의보…서해안 강풍에 해상 풍랑까지",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261021010006957"
-        }
-      ]
-    },
-    {
-      "title": "사형",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 22:10:00 -0700",
-      "news": [
-        {
-          "title": "“성지서 부도덕 행위” 외국인 남녀 사형 집행한 사우디 논란 [잇슈 SNS]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690916"
-        },
-        {
-          "title": "[이 시각 세계] 사우디, '모스크서 부적절 행위'‥방글라 남녀 2명 처형",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859205_37012.html"
-        },
-        {
-          "title": "사우디 성지 메카서 '음란행위'…외국인 사형시킨 사우디 [지금이뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0545_202610191120016619"
-        }
-      ]
-    },
-    {
-      "title": "터치드",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 22:00:00 -0700",
-      "news": [
-        {
-          "title": "터치드 \"5년9개월 만에 첫 정규, 감추고 싶었던 내면 꺼냈죠\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020139200005"
-        },
-        {
-          "title": "“누구나 마음속에 끝나지 않는 밤이 있다”…터치드가 꺼내 보인 ‘극야’",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/culture/music/1283441.html"
-        },
-        {
-          "title": "터치드 윤민, 약 먹고 잠들어 인터뷰 1시간 지각…\"죄송\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610203968H"
+          "title": "[공식] ‘호프’ 음문석 측 “♥여친과 내년 1월 결혼”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261021/134881108/1"
         }
       ]
     }
