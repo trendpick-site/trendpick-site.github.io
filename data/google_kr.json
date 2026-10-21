@@ -1,8 +1,91 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T02:37:19+00:00",
+  "fetched_at": "2026-10-21T03:10:08+00:00",
   "items": [
+    {
+      "title": "국무회의",
+      "approx_traffic": "1000+",
+      "published": "Tue, 20 Oct 2026 19:00:00 -0700",
+      "news": [
+        {
+          "title": "李 \"제미나이에 물어봤다, 수사기관장 회의 배석 불가는 억지\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/politics_general/2026/10/21/X76U372SORA75CMI3ERAXIIDJM/"
+        },
+        {
+          "title": "李 “제미나이에 물어봤더니 중수청장 국무회의 배제론은 궤변”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261021/134880382/1"
+        },
+        {
+          "title": "이 대통령 “중수청장 국무회의 배제론 위헌적 억지…AI에도 물어봐”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1283378.html"
+        }
+      ]
+    },
+    {
+      "title": "예방 접종",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 18:50:00 -0700",
+      "news": [
+        {
+          "title": "충남 공주시보건소, 인플루엔자(독감) 및 코로나19 예방접종 본격 실시",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106020"
+        },
+        {
+          "title": "'위민 행정' 최원철 공주시장, 취약계층 대상포진 예방접종 지원 확대…",
+          "source": "브레이크뉴스",
+          "url": "https://www.breaknews.com/1243771"
+        }
+      ]
+    },
+    {
+      "title": "이중근",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 18:50:00 -0700",
+      "news": [
+        {
+          "title": "\"앞집 때문에 한강 안 보여\"...이중근 부영 회장 항고 기각",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610210815388604"
+        },
+        {
+          "title": "'한강뷰 가린다'며 법정 다툼 벌인 재벌 회장들…법원 판단은?",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261021580004"
+        },
+        {
+          "title": "부영·메리츠 회장 ‘한강뷰’ 분쟁…공사 중지 항고 기각 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/law_firm/2026/10/20/4CJE6P7F7VALVIBUBETMULR4BI/"
+        }
+      ]
+    },
+    {
+      "title": "동탄신도시",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 18:40:00 -0700",
+      "news": [
+        {
+          "title": "\"국평 17억인데 싸다고?\"…서울도 아닌데 4만5000명 몰렸다 [주간이집]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102031886"
+        },
+        {
+          "title": "[부동산 AD] 동탄1신도시 중심에 초고층 하이엔드 주거단지 ‘아크메르 동탄’ 분양",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334688"
+        },
+        {
+          "title": "포스코이앤씨, 화성 ‘아크메르 동탄’ 1808가구 분양…26일 청약",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261019501103"
+        }
+      ]
+    },
     {
       "title": "유니클로",
       "approx_traffic": "1000+",
@@ -27,23 +110,23 @@
     },
     {
       "title": "샌안토니오 대 오클라호마시티",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Tue, 20 Oct 2026 18:10:00 -0700",
       "news": [
         {
-          "title": "NBA season scores, live updates: Thunder vs. Spurs latest news and analysis after Sixers beat Knicks on ring night",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/live-blogs/nba-season-start-live-updates-latest-news-schedule-games-scores/iAdFcCak0Nx8/"
+          "title": "필라델피아 유니폼 입은 제임스, NBA 개막전서 짜릿한 승리",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021084900007"
         },
         {
-          "title": "It’s time for Basketball: San Antonio Spurs vs. Oklahoma City Thunder",
-          "source": "Pounding The Rock",
-          "url": "https://www.poundingtherock.com/spurs-discussion-threads/108555/game-thread-san-antonio-spurs-vs-oklahoma-city-thunder"
+          "title": "‘우승하러 간’ 킹 제임스, ‘가자미 롤’ 자처→‘디펜딩 챔피언’ 꺾었다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261021/134881017/1"
         },
         {
-          "title": "OKC Thunder Make Starting Lineup Decision For Season Opener vs. Spurs",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/nba/thunder/onsi/okc-thunder-make-starting-lineup-decision-for-season-opener-vs-spurs-"
+          "title": "연봉 90% 깎은 ‘킹’ 르브론… 마지막 우승 꿈 이룰까",
+          "source": "부산일보",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026102011175861494"
         }
       ]
     },
@@ -58,9 +141,9 @@
           "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102107130012397"
         },
         {
-          "title": "송중기, '송혜교' 언급에 순간 굳은 표정…영상 확산",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834137"
+          "title": "[스경X이슈] 송중기, 전처 송혜교 언급에 표정 굳었다…“너무 무례해”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610210849003"
         },
         {
           "title": "송중기, 해외 팬들 앞에서 전처 송혜교 이름 들은 뒤 반응은…웃음기 사라졌다",
@@ -75,14 +158,14 @@
       "published": "Tue, 20 Oct 2026 18:00:00 -0700",
       "news": [
         {
+          "title": "바다, 커피 그리고 책…강원 강릉 안목해변서 ‘북트립’",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834878"
+        },
+        {
           "title": "관광공사, 강릉 안목해변서 북트립 행사…노홍철·요조 북콘서트",
           "source": "매일경제 마켓",
           "url": "https://stock.mk.co.kr/news/view/1178085"
-        },
-        {
-          "title": "노홍철·요조, 이번엔 바닷가 책방…강릉 안목해변서 만난다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/hotel-tourism/6326665"
         },
         {
           "title": "제18회 강릉커피축제 손님맞이 준비 완료…'커피향 가득한 강릉으로 오세요'",
@@ -124,92 +207,9 @@
           "url": "https://www.yna.co.kr/view/AKR20261021062900052"
         },
         {
-          "title": "2027학년도 대구 중등임용 공립 7.72대1…사립 10.49대1",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834606"
-        }
-      ]
-    },
-    {
-      "title": "독도",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 17:50:00 -0700",
-      "news": [
-        {
-          "title": "독립기념관 '독도의 날' 맞아 찾아가는 독도학교 진행",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834758"
-        },
-        {
-          "title": "2028년 울릉도에 ‘독도교육원’ 문 연다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261020/134877269/2"
-        },
-        {
-          "title": "국립해양박물관, 독도의날 맞아 24~25일 체험·공연 프로그램 운영",
+          "title": "강원 중등교사 임용시험 경쟁률 6.55대 1…'미술' 최고·'건설' 최저",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/local/busan-gyeongnam/6326056"
-        }
-      ]
-    },
-    {
-      "title": "박윤규",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 17:50:00 -0700",
-      "news": [
-        {
-          "title": "최혁진 \"정보통신진흥원장, 375일 중 본원서 근무 36일\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003833376"
-        },
-        {
-          "title": "정보통신산업진흥원 박윤규 원장, 해외출장 절반 '셀프 승인'·본원 근무 36일",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202610210006335209f4ab64559d_12"
-        },
-        {
-          "title": "[2026 국감] 정보통신산업진흥원장, 1년 6개월 재임 중 326일 출장",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1703653/2026-%EA%B5%AD%EA%B0%90-%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90%EC%9E%A5-1-2026"
-        }
-      ]
-    },
-    {
-      "title": "태풍 참피",
-      "approx_traffic": "20000+",
-      "published": "Tue, 20 Oct 2026 17:30:00 -0700",
-      "news": [
-        {
-          "title": "'슈퍼태풍 참피' 한·일 사이로? 美 JTWC 예측 경로 보니",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6859272_36918.html"
-        },
-        {
-          "title": "제주 태풍 '참피' 북상 해상 기상악화…안전사고 주의보",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003833783"
-        },
-        {
-          "title": "대만 향하는 태풍 ’참피’…이후 경로 유동적",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261020195600y6k"
-        }
-      ]
-    },
-    {
-      "title": "주간조선",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 17:30:00 -0700",
-      "news": [
-        {
-          "title": "단독 경찰, '흉기난동' 최충락 사이코패스 검사...\"자료 분석 중\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610211036139366"
-        },
-        {
-          "title": "‘관계성 범죄’, 또 다시 질타만 하지 않으려면 [플랫]",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610201039001"
+          "url": "https://www.news1.kr/local/kangwon/6327077"
         }
       ]
     }
