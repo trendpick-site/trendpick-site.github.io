@@ -1,17 +1,105 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T20:08:09+00:00",
+  "fetched_at": "2026-10-21T20:38:13+00:00",
   "items": [
+    {
+      "title": "자녀",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 12:30:00 -0700",
+      "news": [
+        {
+          "title": "늦은 취업 반영…자녀공제 기준 26세로 늘린다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20104475"
+        },
+        {
+          "title": "\"취업 늦어진 20대 자녀 걱정인데\"…부모들 반길 소식 나오나",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102167261"
+        },
+        {
+          "title": "김영환, 배우자·부양가족 소득공제 기준 100만→300만원 상향 추진",
+          "source": "세정일보",
+          "url": "https://www.sejungilbo.com/news/articleView.html?idxno=60703"
+        }
+      ]
+    },
+    {
+      "title": "bayern vs arsenal",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 12:20:00 -0700",
+      "news": [
+        {
+          "title": "Bayern Munich vs Arsenal: UEFA Champions League stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c98rzp066dd8t"
+        },
+        {
+          "title": "Two changes to Arsenal's line-up: and a surprise from Kompany regarding the Bayern Munich squad",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en/news/two-changes-to-arsenal-s-line-up-a-surprise-from-kompany-regarding-the-bayern-munich-squad/blt24d28ba1dd046cac"
+        },
+        {
+          "title": "Harry Kane relishing chance to lock horns with Arsenal again",
+          "source": "Bavarian Football Works",
+          "url": "https://www.bavarianfootballworks.com/bayern-munich-champions-league/270601/harry-kane-relishing-chance-to-lock-horns-with-arsenal-again"
+        }
+      ]
+    },
+    {
+      "title": "real madrid vs rb leipzig",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 12:20:00 -0700",
+      "news": [
+        {
+          "title": "Mourinho unhappy with winger who may have had head turned by Arsenal👀",
+          "source": "Football365",
+          "url": "https://www.football365.com/news/mourinho-sends-clear-message-to-unsettled-real-madrid-star"
+        },
+        {
+          "title": "Vinicius trains with the squad and will be fit for the Champions League",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/en/news/vinicius-trains-with-the-squad-and-will-be-fit-for-the-champions-league-43641071"
+        },
+        {
+          "title": "José Mourinho Warns Vinícius Júnior: “The Badge Is Untouchable”",
+          "source": "beIN SPORTS",
+          "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/jos%C3%A9-mourinho-warns-vin%C3%ADcius-j%C3%BAnior-the-badge-is-untouchable-2026-10-20"
+        }
+      ]
+    },
+    {
+      "title": "현대 아이오닉",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 12:10:00 -0700",
+      "news": [
+        {
+          "title": "현대차 中 전략형 전기차 아이오닉 V '초라한' 성적…첫달 판매 '28대'",
+          "source": "더구루",
+          "url": "https://www.theguru.co.kr/news/article.html?no=108575"
+        },
+        {
+          "title": "2000만원대 아이오닉V, 中 CATL 열폭주 기술 품었다",
+          "source": "디일렉",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=63691"
+        },
+        {
+          "title": "현대차가 2천만원대에 이걸?! 중국 아이오닉 V 직접 타봤습니다",
+          "source": "https://www.mocar.kr/",
+          "url": "https://www.mocar.kr/news/articleView.html?idxno=1409"
+        }
+      ]
+    },
     {
       "title": "엔화 환율",
       "approx_traffic": "200+",
       "published": "Wed, 21 Oct 2026 11:50:00 -0700",
       "news": [
         {
-          "title": "원/달러 환율 4거래일 연속 연저점 기록…1,320원대 초반",
+          "title": "떨어지는 원/달러 환율, 환전소 앞 북적북적",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021129200002"
+          "url": "https://www.yna.co.kr/view/PYH20261021163500013"
         },
         {
           "title": "달러값 급락에…기업은 사고 외국인은 팔았다",
@@ -19,9 +107,9 @@
           "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01423526645615544"
         },
         {
-          "title": "\"금리차 기준 달러-원 균형 1,290원…경상흑자에 달러 공급↑\"",
+          "title": "[외환] '역대급 수출'에 4거래일째 연저점…1,320원대 중후반서 금통위 대기",
           "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440352"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440374"
         }
       ]
     },
@@ -31,19 +119,19 @@
       "published": "Wed, 21 Oct 2026 11:30:00 -0700",
       "news": [
         {
-          "title": "로이터 \"삼전·닉스, 중국공장 낸드 첨단공정 전환 추진\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021112400009"
+          "title": "‘이게 소리다’… 오디오의 명가 대표작들 한자리에",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261021/134885043/2"
         },
         {
-          "title": "로이터 \"삼성·SK하이닉스, 중국 공장서 첨단 낸드 생산 추진‥美 허가 불확실\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6859668_36925.html"
+          "title": "삼성전자, 24일부터 JBL 80주년 기념행사",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610220529355PP"
         },
         {
-          "title": "삼성·SK하이닉스, 중국 공장에서 고급 메모리 반도체 생산 추진",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2134356"
+          "title": "[현장] \"백악관 스피커에서 무선 이어폰까지\"…삼성전자가 소환한 오디오 80년 역사",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003835214"
         }
       ]
     },
@@ -102,14 +190,14 @@
           "url": "https://www.khan.co.kr/article/202610212022015"
         },
         {
-          "title": "‘타율 .167’ 최악의 시즌 보낸 김영웅, 그래도 가을에는 ‘45홈런’ 김도영보다 무섭다…2003년생 동갑내기 PO 격돌 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/22/202610211817772350O"
+          "title": "'타율 .167' 최악의 시즌 보낸 김영웅, 그래도 가을에는 '45홈런' 김도영보다 무섭다…2003년생 동갑내기 PO 격돌",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/22/GQYTCMZUHEZWKMTDHE2TQOJWMU/"
         },
         {
-          "title": "’사자 vs 호랑이’ 빅매치 성사…KS 누가 가나?",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610211720123HI"
+          "title": "2017→2024 함께 우승 이룬 애뜻한 맏형, 가을의 적으로 만난다...슈퍼스타와 나스타 미묘한 심경 \"이젠 적입니다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/21/202610210832774198O"
         }
       ]
     },
@@ -129,97 +217,9 @@
           "url": "https://www.hrr.mlit.go.jp/chokoku/hatizyuuri/progress/pannellum/pannellum.htm?config=/%5C/%5C/humayrakter.github.io%2Fvideo%2Fsmc%2Fvideo-como-manu-th-35"
         },
         {
-          "title": "LIVE ถ่ายทอดสด โคโม่ พบ แมนยู ยูฟ่าแชมเปี้ยนส์ลีก วันนี้ 21 ต.ค.69",
-          "source": "posttoday",
-          "url": "https://www.posttoday.com/lifestyle/750765"
-        }
-      ]
-    },
-    {
-      "title": "calcio como đấu với man utd",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 09:40:00 -0700",
-      "news": [
-        {
-          "title": "Como 4-1 Manchester United: Champions League – as it happened",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live"
-        },
-        {
-          "title": "Champions League live updates: Como host Man United in early match",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/50191263/champions-league-live-updates-manchester-united-bayern-arsenal-real-madrid"
-        },
-        {
-          "title": "Champions League scores: Live updates as Manchester United face Como, Bayern Munich and Arsenal clash",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/soccer/news/champions-league-scores-live-updates-man-utd-como-bayern-munich-arsenal/live/"
-        }
-      ]
-    },
-    {
-      "title": "como vs man utd",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 09:00:00 -0700",
-      "news": [
-        {
-          "title": "¿Cómo ver el partido Como vs Manchester United en TV y streaming?",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/es-us/como-ver-el-partido-como-vs-manchester-united-en-tv-y-streaming-21-10-2026"
-        },
-        {
-          "title": "Liga de Campeones | Nico Paz deja a Carrick al borde del abismo",
-          "source": "Fichajes.com",
-          "url": "https://www.fichajes.com/a5625099512064590602-liga-de-campeones-nico-paz-deja-a-carrick-al-borde-del-abismo"
-        },
-        {
-          "title": "Crisis del Man United se agrava al caer ante el debutante Como en la Champions",
-          "source": "Los Angeles Times",
-          "url": "https://www.latimes.com/espanol/deportes/articulo/2026-10-21/crisis-del-man-united-se-agrava-al-caer-ante-el-debutante-como-en-la-champions"
-        }
-      ]
-    },
-    {
-      "title": "주소",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 09:00:00 -0700",
-      "news": [
-        {
-          "title": "제도 빈틈 노리는 악용 꼼수 차단…'국가정상화 프로젝트' 2차 과제 추진",
-          "source": "정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973821"
-        },
-        {
-          "title": "정부, 지방의원 외유성 출장 방지·국민연금 외국인 추납 개선",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261022500003"
-        },
-        {
-          "title": "건보료 체납 외국인 '출국 금지'…국가정상화 2차 과제 선정 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/10/20/2026102014171211749"
-        }
-      ]
-    },
-    {
-      "title": "코모 대 맨유",
-      "approx_traffic": "10000+",
-      "published": "Wed, 21 Oct 2026 08:50:00 -0700",
-      "news": [
-        {
-          "title": "'팀이 어쩌다 이 지경까지' 최근 6경기 3무3패→'부상 병동' 전락 맨체스터 유나이티드, 코모와의 UCL 원정 '언더독' 신세..'무려 8명 마지막 팀 훈련 제외'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/21/HBRTSMJVMYYTMNRVG5RTANZTGE/"
-        },
-        {
-          "title": "'부상 병동, 불길하다' 최근 6경기 3무3패→리그 13위 부진→경질 압박 고조, 맨체스터 유나이티드 캐릭 감독..코모와 UCL 원정 \"어떠한 보장도 필요없다, 이겨야 한다\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-10-21/202610210100132420008637"
-        },
-        {
-          "title": "코모 vs 맨체스터 유나이티드 예측: 선두 경쟁의 뜨거운 승부",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-como-vs-manchester-united-diem-nong-cuoc-dua-top-dau"
+          "title": "อิตาลีนอกคอก : \"โคโม่\" คู่แข่งที่มีปรัชญาฟุตบอลแบบที่แฟนผีฝันถึง | Main Stand",
+          "source": "Mainstand",
+          "url": "https://mainstand.co.th/th/features/5/article/5051"
         }
       ]
     }
