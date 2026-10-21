@@ -1,139 +1,12 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T03:41:20+00:00",
+  "fetched_at": "2026-10-21T04:15:20+00:00",
   "items": [
     {
-      "title": "황신혜",
+      "title": "동탄 신도시",
       "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 19:20:00 -0700",
-      "news": [
-        {
-          "title": "황신혜 “87세 母 드레스 입고 장수사진…나도 밝게 마지막 장식”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261021/134879231/1"
-        },
-        {
-          "title": "[채널예약] 황신혜, 신계숙 흰머리 염색하다 수습 불가 ‘대참사’ (황신혜의 같이 삽시다)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610202042003"
-        },
-        {
-          "title": "63세 황신혜, 얼핏 보면 아이돌…하체 운동 대신 한다는 '계단 오르기'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261014_0003825681"
-        }
-      ]
-    },
-    {
-      "title": "모두의카드",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 19:20:00 -0700",
-      "news": [
-        {
-          "title": "교통비 환급에 차질 없도록…'모두의카드' 카드 정보 확인하세요! - 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974001&pWise=sub&pWiseSub=C1"
-        },
-        {
-          "title": "\"모두의카드 번호 26일까지 확인하세요\"‥등록번호 다르면 환급 차질",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6859259_36932.html"
-        },
-        {
-          "title": "모두의카드 등록 정보, 26일까지 업데이트 하세요",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261020/134873218/1"
-        }
-      ]
-    },
-    {
-      "title": "kf-21 보라매",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 19:10:00 -0700",
-      "news": [
-        {
-          "title": "독자개발 훈련기 '웅비'의 튀르키예 수출에 방위사업청이 당황한 이유",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026101913180001658"
-        },
-        {
-          "title": "하늘길 연 국산 전투기 보라매, 날개 펴기도 전에 맞닥뜨린 단가 벽",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610190557195971fbbec65dfb_1"
-        },
-        {
-          "title": "KF-21 첫 공군 인도했지만… 양산비 4조 급증, 120대 전력화 ‘비상’",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261020010006493"
-        }
-      ]
-    },
-    {
-      "title": "국무회의",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 19:00:00 -0700",
-      "news": [
-        {
-          "title": "李 \"제미나이에 물어봤다, 수사기관장 회의 배석 불가는 억지\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/politics_general/2026/10/21/X76U372SORA75CMI3ERAXIIDJM/"
-        },
-        {
-          "title": "국조실장 \"수사기관장 국무회의 배석…정치적 중립 문제 없도록 유념\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/economy/2026/10/21/2026102111213713152"
-        },
-        {
-          "title": "李 “제미나이에 물어봤더니 중수청장 국무회의 배제론은 궤변”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261021/134880382/1"
-        }
-      ]
-    },
-    {
-      "title": "예방 접종",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 18:50:00 -0700",
-      "news": [
-        {
-          "title": "충남 공주시보건소, 인플루엔자(독감) 및 코로나19 예방접종 본격 실시",
-          "source": "충청매일",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106020"
-        },
-        {
-          "title": "'위민 행정' 최원철 공주시장, 취약계층 대상포진 예방접종 지원 확대…",
-          "source": "브레이크뉴스",
-          "url": "https://www.breaknews.com/1243771"
-        }
-      ]
-    },
-    {
-      "title": "이중근",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 18:50:00 -0700",
-      "news": [
-        {
-          "title": "\"앞집 때문에 한강 안 보여\"...이중근 부영 회장 항고 기각",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610210815388604"
-        },
-        {
-          "title": "'한강뷰 가린다'며 법정 다툼 벌인 재벌 회장들…법원 판단은?",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261021580004"
-        },
-        {
-          "title": "부영·메리츠 회장 ‘한강뷰’ 분쟁…공사 중지 항고 기각 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/law_firm/2026/10/20/4CJE6P7F7VALVIBUBETMULR4BI/"
-        }
-      ]
-    },
-    {
-      "title": "동탄신도시",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 18:40:00 -0700",
+      "published": "Tue, 20 Oct 2026 20:10:00 -0700",
       "news": [
         {
           "title": "\"국평 17억인데 싸다고?\"…서울도 아닌데 4만5000명 몰렸다 [주간이집]",
@@ -153,68 +26,163 @@
       ]
     },
     {
-      "title": "유니클로",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 18:20:00 -0700",
+      "title": "태풍 참피 경로",
+      "approx_traffic": "20000+",
+      "published": "Tue, 20 Oct 2026 20:00:00 -0700",
       "news": [
         {
-          "title": "\"엔저 감당 못 해\"...유니클로, 가을·겨울 의류값 4% 올린다",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610201351340449"
+          "title": "'슈퍼태풍 참피' 한·일 사이로? 美 JTWC 예측 경로 보니",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859272_36918.html"
         },
         {
-          "title": "유니클로, 엔저·원가 상승에 일본 내 가격 평균 4% 인상",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690154"
+          "title": "북상하는 초강력 태풍 ‘참피’…26일 제주도 직접 영향권 들까?",
+          "source": "헤드라인제주",
+          "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600786"
         },
         {
-          "title": "유니클로, 日서 '감탄팬츠' 등 11개 제품 판매가 4% 인상",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102014431690112"
+          "title": "제주해경, 연안 안전사고 위험 ‘주의보’ 발령",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=844918"
         }
       ]
     },
     {
-      "title": "샌안토니오 대 오클라호마시티",
-      "approx_traffic": "2000+",
-      "published": "Tue, 20 Oct 2026 18:10:00 -0700",
+      "title": "대왕암공원",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 20:00:00 -0700",
       "news": [
         {
-          "title": "필라델피아 유니폼 입은 제임스, NBA 개막전서 짜릿한 승리",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021084900007"
+          "title": "울산 동구, ‘2026 해파랑길 힐링 페스타’ 오는 24일 개최",
+          "source": "울산종합일보",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065585322587716"
         },
         {
-          "title": "‘우승하러 간’ 킹 제임스, ‘가자미 롤’ 자처→‘디펜딩 챔피언’ 꺾었다",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261021/134881017/1"
-        },
-        {
-          "title": "연봉 90% 깎은 ‘킹’ 르브론… 마지막 우승 꿈 이룰까",
-          "source": "부산일보",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026102011175861494"
-        }
-      ]
-    },
-    {
-      "title": "송중기",
-      "approx_traffic": "10000+",
-      "published": "Tue, 20 Oct 2026 18:00:00 -0700",
-      "news": [
-        {
-          "title": "송중기, '송혜교' 언급에 순간 굳은 표정…영상 확산",
+          "title": "팜파스 물든 울산 대왕암 걷는다…\"24일 힐링페스타\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834137"
+          "url": "https://www.newsis.com/view/NISX20261019_0003831565"
         },
         {
-          "title": "[스경X이슈] 송중기, 전처 송혜교 언급에 표정 굳었다…“너무 무례해”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610210849003"
-        },
+          "title": "울산 동구 '해파랑길 힐링 페스타' 24일 개최…걷기 행사·공연",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/ulsan/6324179"
+        }
+      ]
+    },
+    {
+      "title": "전략적 팀 전투",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 20:00:00 -0700",
+      "news": []
+    },
+    {
+      "title": "용인 fc",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 20:00:00 -0700",
+      "news": [
         {
-          "title": "\"송혜교랑...\" 팬이 한 말 들은 송중기...얼굴 찌푸린 이유 - 머니투데이",
+          "title": "'근무 태만 의혹' 이동국 용인FC 디렉터, 국정감사 불출석... 구단 \"출근 기록 증빙 자료 모두 제출\" - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102107130012397"
+          "url": "https://www.mt.co.kr/sports/2026/10/21/2026102110453587558"
+        },
+        {
+          "title": "[단독] 한 달에 한두 번 출근, 회의도 불참 의혹…이동국 용인FC ‘근무 태만’ 논란",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12324028"
+        },
+        {
+          "title": "이동국, 용인FC 근무 태만 의혹…비상근 계약·업무 수행 해명",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=775129"
+        }
+      ]
+    },
+    {
+      "title": "전기 자동차",
+      "approx_traffic": "5000+",
+      "published": "Tue, 20 Oct 2026 19:50:00 -0700",
+      "news": [
+        {
+          "title": "현대차 中 전략형 전기차 아이오닉 V '초라한' 성적…첫달 판매 '28대'",
+          "source": "더구루",
+          "url": "https://theguru.co.kr/news/article.html?no=108575"
+        },
+        {
+          "title": "2000만원대 아이오닉V, 中 CATL 열폭주 기술 품었다",
+          "source": "디일렉",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=63691"
+        }
+      ]
+    },
+    {
+      "title": "spurs vs thunder",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 19:50:00 -0700",
+      "news": [
+        {
+          "title": "Live Updates: Top moments, highlights and stats from our season tipoff tripleheader on NBC and Peacock",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/live-updates-nba-tip-off-tripleheader"
+        },
+        {
+          "title": "Wembanyama, Spurs face Thunder in heavyweight season opener",
+          "source": "San Antonio Express-News",
+          "url": "https://www.expressnews.com/sports/spurs/article/spurs-thunder-western-conference-heavyweights-22484367.php"
+        },
+        {
+          "title": "The Spurs have enough to take the West’s top seed from OKC, and Utah will crash the field",
+          "source": "Air Alamo",
+          "url": "https://airalamo.com/the-spurs-have-enough-to-take-the-west-s-top-seed-from-okc-and-utah-will-crash-the-field"
+        }
+      ]
+    },
+    {
+      "title": "금융자산",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 19:40:00 -0700",
+      "news": [
+        {
+          "title": "메리츠증권, 옵티미즘과 토큰화 금융자산 사업 협력",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261021000035"
+        },
+        {
+          "title": "강병하 메리츠證 상무 \"디지털 자산, 제도권 금융으로…韓 아직 늦지 않아\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/general-stock/6327148"
+        },
+        {
+          "title": "메리츠증권, 옵티미즘과 토큰화 금융자산 협력",
+          "source": "주간한국",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7189959"
+        }
+      ]
+    },
+    {
+      "title": "에버랜드",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 19:40:00 -0700",
+      "news": []
+    },
+    {
+      "title": "서승재",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 19:40:00 -0700",
+      "news": [
+        {
+          "title": "서승재-김원호 16개월 만에 정상 뺏겼다…인도네시아에 'ELO 레이팅' 역전 허용→\"印尼 남복 3년 만에 고지 탈환\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014474"
+        },
+        {
+          "title": "\"韓 세계 1위, 8번 무너졌다\"…우승 없는 서승재-김원호, 中 잘 잡는데 동남아에 와르르→\"그들의 지배가 끝나는가\" 현지 매체도 관심",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2209237"
+        },
+        {
+          "title": "‘슬럼프에 빠진 세계 1위, 이번에는 다를까?’ 김원호-서승재 조, 프랑스오픈 1회전 30분 만에 한일전 이겼다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/21/202610210453777824O"
         }
       ]
     }
