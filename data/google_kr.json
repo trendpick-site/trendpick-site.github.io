@@ -1,11 +1,50 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T13:46:20+00:00",
+  "fetched_at": "2026-10-21T14:41:24+00:00",
   "items": [
     {
-      "title": "비정규직",
+      "title": "파울루 벤투",
       "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 06:20:00 -0700",
+      "news": [
+        {
+          "title": "코스타 감독이 만들어낸 제주의 도약, 열린 시선으로 팀 색깔에 맞는 전술을 찾았다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261021/134881372/1"
+        },
+        {
+          "title": "[단독] '前 한국 대표팀 사령탑' 벤투 감독의 K리그 부임, 현실적으로 어렵다...연봉 총액 50억 원한다",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014616"
+        },
+        {
+          "title": "'대표팀 최장수 감독 벤투가 전북으로?' 벤투 오른팔 코스타 제주 감독은 진실을 알고 있을까 [오!쎈 전주]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/10/18/GM4TQMDFGJRDCMDFGNQWKNBTMQ/"
+        }
+      ]
+    },
+    {
+      "title": "잭 로그",
+      "approx_traffic": "2000+",
+      "published": "Wed, 21 Oct 2026 05:50:00 -0700",
+      "news": [
+        {
+          "title": "두산과 이별 예감했나, SNS에 인사 남겼다…곽빈·벤자민 등 동료들은 \"정말 잘했어\" 격려",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014596"
+        },
+        {
+          "title": "두산 잭 로그, 구단과 작별 암시?",
+          "source": "STN SPORTS",
+          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=324419"
+        }
+      ]
+    },
+    {
+      "title": "비정규직",
+      "approx_traffic": "500+",
       "published": "Wed, 21 Oct 2026 05:40:00 -0700",
       "news": [
         {
@@ -16,7 +55,7 @@
         {
           "title": "비정규직 867만 '역대 최대'...임금 격차도 커져",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610211828193910"
+          "url": "https://www.ytn.co.kr/_ln/0102_202610212249413211"
         },
         {
           "title": "김락현 데이터처 고용통계과장, 8월 경제활동인구조사 근로형태별 부가조사 결과",
@@ -27,7 +66,7 @@
     },
     {
       "title": "persija jakarta vs arema fc",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Wed, 21 Oct 2026 05:40:00 -0700",
       "news": []
     },
@@ -47,9 +86,9 @@
           "url": "https://www.bntnews.co.kr/article/view/bnt202610210172"
         },
         {
-          "title": "'아침마당' 진성·이수연, 차세대 트로트 신동에 진심어린 축하…훈훈한 내리사랑",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014515"
+          "title": "열 살 한수정, KBS1 ‘신동을 찾아라.’ 최종 우승",
+          "source": "제천단양뉴스",
+          "url": "https://www.jdnews.kr/news/articleView.html?idxno=11615"
         }
       ]
     },
@@ -59,14 +98,14 @@
       "published": "Wed, 21 Oct 2026 05:20:00 -0700",
       "news": [
         {
-          "title": "“송성문, 큰 도움 안 됐다” 美 혹평, 그런데 왜 욕은 안 먹을까… 내년 경쟁 못 피한다",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014292"
-        },
-        {
           "title": "\"송성문 도움 안 돼\" 이럴수가! 4년 보장 200억 계약했는데...美 냉정 평가, 타율 0.191 부진→2027년 반전 가능할까",
           "source": "스포탈코리아",
           "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553631072"
+        },
+        {
+          "title": "“송성문, 큰 도움 안 됐다” 美 혹평, 그런데 왜 욕은 안 먹을까… 내년 경쟁 못 피한다",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014292"
         },
         {
           "title": "\"팀 도움 안됐지만 몸값 쌌으니 됐어\"…美언론 '염가쇼핑' 혹평→자존심 구겼다",
@@ -76,32 +115,15 @@
       ]
     },
     {
-      "title": "ban vs afg",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 05:20:00 -0700",
-      "news": [
-        {
-          "title": "Afghanistan stand in Bangladesh's way for spot in final",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/uae-odi-tri-series-2026-27-1555109/afghanistan-vs-bangladesh-3rd-match-1555119/match-preview"
-        },
-        {
-          "title": "Tigers' tricky equation for final",
-          "source": "The Daily Star",
-          "url": "https://www.thedailystar.net/sports/cricket/news/tigers-tricky-equation-final-4303481"
-        },
-        {
-          "title": "Bangladesh hopeful of Mehidy boost for Afghanistan clash",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/cricket-news/140578/bangladesh-hopeful-of-mehidy-hasan-miraz-boost-for-afghanistan-clash-cricbuzzcom"
-        }
-      ]
-    },
-    {
       "title": "우덕배",
       "approx_traffic": "1000+",
       "published": "Wed, 21 Oct 2026 05:10:00 -0700",
       "news": [
+        {
+          "title": "[다시보기] 골 때리는 그녀들 237회",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/kickagoal/vod/68129/22000638508"
+        },
         {
           "title": "‘논현동 앙리’ 현진, 마시마 유의 패스 받으며 침착한 마무리로 멀티골 달성★",
           "source": "programs.sbs.co.kr",
@@ -111,33 +133,6 @@
           "title": "'골때녀' 먹스나, 스트리밍파이터의 새 비밀병기 될까 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102111507219318"
-        },
-        {
-          "title": "\"도합 2천만 팔로워\"… 먹방 크리에이터 먹스나, '골때녀' 스파이더 합류",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3728651"
-        }
-      ]
-    },
-    {
-      "title": "오디션",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 05:10:00 -0700",
-      "news": [
-        {
-          "title": "넷플릭스 標 K-팝 걸그룹 나온다…예술고 대항 오디션 '위 고 하이'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003835683"
-        },
-        {
-          "title": "넷플릭스, 예고생 K팝 오디션 연다…SM C&C 데뷔 및 활동 뒷받침",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807625"
-        },
-        {
-          "title": "\"넷플릭스, 걸그룹 키운다\"…'위 고 하이', 참가자 모집",
-          "source": "디스패치",
-          "url": "https://www.dispatch.co.kr/2349559"
         }
       ]
     },
@@ -164,6 +159,28 @@
       ]
     },
     {
+      "title": "오디션",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 05:10:00 -0700",
+      "news": [
+        {
+          "title": "넷플릭스 標 K-팝 걸그룹 나온다…예술고 대항 오디션 '위 고 하이'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003835683"
+        },
+        {
+          "title": "넷플릭스, 예고생 K팝 오디션 연다…SM C&C 데뷔 및 활동 뒷받침",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807625"
+        },
+        {
+          "title": "\"넷플릭스, 걸그룹 키운다\"…'위 고 하이', 참가자 모집",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2349559"
+        }
+      ]
+    },
+    {
       "title": "황보라",
       "approx_traffic": "200+",
       "published": "Wed, 21 Oct 2026 05:00:00 -0700",
@@ -182,28 +199,6 @@
           "title": "황보라, “보름 먹고 간수치 1000 찍었다”… 독성 부른 ‘뜻밖의 원인’",
           "source": "헬스조선",
           "url": "https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102155.html"
-        }
-      ]
-    },
-    {
-      "title": "thời tiết ngày mai",
-      "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 05:00:00 -0700",
-      "news": [
-        {
-          "title": "Dự báo thời tiết mới nhất đêm nay và ngày mai 22/10: Đêm và sáng sớm có mưa rào và dông rải rác",
-          "source": "Báo và Phát thanh, Truyền hình Ninh Bình",
-          "url": "https://nbtv.vn/du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-22-10-dem-va-sang-som-co-mua-rao-va-dong-rai-rac-115071.html"
-        },
-        {
-          "title": "Miền Bắc đón đợt không khí lạnh mới vào ngày 21 và 22/10",
-          "source": "tin.skydoor.net",
-          "url": "https://tin.skydoor.net/news/nhanh-viet-nam-don-khong-khi-lanh-mien-bac-giam-8387646"
-        },
-        {
-          "title": "Dự báo thời tiết ngày 22/10/2026: Trời nắng, có mưa vài nơi, nền nhiệt ít biến động",
-          "source": "moitruong.net.vn",
-          "url": "https://moitruong.net.vn/du-bao-thoi-tiet-ngay-22-10-2026-troi-nang-co-mua-vai-noi-nen-nhiet-it-bien-dong-103416.html"
         }
       ]
     }
