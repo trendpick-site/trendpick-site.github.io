@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T15:14:18+00:00",
+  "fetched_at": "2026-10-21T16:13:12+00:00",
   "items": [
+    {
+      "title": "나성범",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 07:50:00 -0700",
+      "news": [
+        {
+          "title": "KIA 나성범 \"최형우 선배? 이제는 적…승부의 세계는 냉정\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021028700007"
+        },
+        {
+          "title": "‘잠실구장 마지막 홈런타자’ 한준수, 왜 스스로 50점밖에 주지 않았을까 “포수는 수비가 중요해”",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112895999"
+        },
+        {
+          "title": "[포토] 매조지 황동하, 한준수와 뜨거운 포옹 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/20/2026102022041129992"
+        }
+      ]
+    },
+    {
+      "title": "카일 프랜시스 케네디",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "‘케네디家의 저주’, 잊을만하면 반복… 42세 카일, 두 아들 남기고 사망",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/us/2026/10/21/VBEROZKMFZBNZHRNAHKQNQIRQ4/"
+        },
+        {
+          "title": "케네디家 또 비극…로버트의 손녀 카일, 42세로 사망",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261021/134881751/1"
+        },
+        {
+          "title": "대통령 암살부터 항공기 사고까지…RFK 손녀 죽음으로 돌아본 케네디가의 비극",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102115272970802"
+        }
+      ]
+    },
     {
       "title": "학교 폭력",
       "approx_traffic": "1000+",
@@ -58,14 +102,14 @@
           "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E6%9A%B4%E9%A2%A8%E4%BE%B5%E8%A5%B2%E7%8E%87%E6%9C%80%E6%96%B0%E9%A0%90%E4%BC%B0%EF%BC%9A%E5%8C%97%E5%8C%97%E5%9F%BA%E6%A1%83%E7%AD%8910%E7%B8%A3%E5%B8%82%E7%AA%81%E7%A0%B4%E5%85%AB%E6%88%90-%E5%9F%BA%E9%9A%86%E3%80%81%E5%AE%9C%E8%98%AD99-140043411.html"
         },
         {
-          "title": "強颱薔琵熱區北部山區、宜花 水利署：馬太鞍溪備妥600萬方疏濬量能",
-          "source": "自由時報",
-          "url": "https://stock.ltn.com.tw/article/leedvfxc0dms"
+          "title": "薔琵逼近　北分署部署防洪、穩供與水庫減淤作業",
+          "source": "ETtoday新聞雲",
+          "url": "https://www.ettoday.net/news/20261021/3258758.htm"
         },
         {
-          "title": "「3D琵眼」神似黑巧甜甜圈！他也淪陷：被重擊了",
-          "source": "民視新聞網",
-          "url": "https://www.ftvnews.com.tw/news/detail/2026A21W0619"
+          "title": "薔琵有多狂？ 太空站直擊震撼畫面 「超巨環流」大到鏡頭裝不下",
+          "source": "東森電視",
+          "url": "https://fnc.ebc.net.tw/fncnews/headline/221336"
         }
       ]
     },
@@ -115,7 +159,7 @@
     },
     {
       "title": "잭 로그",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Wed, 21 Oct 2026 05:50:00 -0700",
       "news": [
         {
@@ -141,14 +185,14 @@
           "url": "https://www.hankyung.com/article/2026102167901"
         },
         {
-          "title": "비정규직 867만 '역대 최대'...임금 격차도 커져",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610212249413211"
+          "title": "비정규직 숫자도 비율도 역대 최고",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/10/22/AGIV3Z5SBFH3JL4ORM24CH6S6I/"
         },
         {
           "title": "김락현 데이터처 고용통계과장, 8월 경제활동인구조사 근로형태별 부가조사 결과",
           "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261021_0021498000"
+          "url": "https://mobile.newsis.com/photo/NISI20261021_0021497999"
         }
       ]
     },
@@ -157,50 +201,6 @@
       "approx_traffic": "200+",
       "published": "Wed, 21 Oct 2026 05:40:00 -0700",
       "news": []
-    },
-    {
-      "title": "아침마당",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "\"세계적 K-트로트 스타 탄생\"...김태웅·박차오름·장혜진·정성운·한수정, TOP 5 격돌!| 디지털 KBS",
-          "source": "MyloveKBS",
-          "url": "https://mylovekbs.kbs.co.kr/index.html?source=mylovekbs&sname=mylovekbs&stype=magazine&contents_id=70000000404051"
-        },
-        {
-          "title": "‘아침마당’ 진성X이수연, 트롯 신동 응원",
-          "source": "BNT뉴스",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202610210172"
-        },
-        {
-          "title": "열 살 한수정, KBS1 ‘신동을 찾아라.’ 최종 우승",
-          "source": "제천단양뉴스",
-          "url": "https://www.jdnews.kr/news/articleView.html?idxno=11615"
-        }
-      ]
-    },
-    {
-      "title": "송성문",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 05:20:00 -0700",
-      "news": [
-        {
-          "title": "\"송성문 도움 안 돼\" 이럴수가! 4년 보장 200억 계약했는데...美 냉정 평가, 타율 0.191 부진→2027년 반전 가능할까",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553631072"
-        },
-        {
-          "title": "“송성문, 큰 도움 안 됐다” 美 혹평, 그런데 왜 욕은 안 먹을까… 내년 경쟁 못 피한다",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014292"
-        },
-        {
-          "title": "\"팀 도움 안됐지만 몸값 쌌으니 됐어\"…美언론 '염가쇼핑' 혹평→자존심 구겼다",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-10-21/202610210100135580008846"
-        }
-      ]
     }
   ]
 }
