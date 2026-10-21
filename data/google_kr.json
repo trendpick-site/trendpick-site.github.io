@@ -1,27 +1,137 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T08:42:35+00:00",
+  "fetched_at": "2026-10-21T09:16:46+00:00",
   "items": [
     {
-      "title": "박성재",
+      "title": "south africa vs australia",
       "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 01:10:00 -0700",
+      "news": [
+        {
+          "title": "Live: South Africa strikes early to deepen Aussie woes in Gqeberha",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-10-21/test-cricket-live-updates-south-africa-vs-australia/107293438"
+        },
+        {
+          "title": "South Africa vs Australia LIVE Score, 2nd Test Day 4 LIVE Updates",
+          "source": "NDTV Sports",
+          "url": "https://sports.ndtv.com/cricket/south-africa-vs-australia-live-score-2nd-test-day-4-sa-v-aus-live-updates-gqeberha-12213514"
+        },
+        {
+          "title": "South Africa vs Australia live score, 2nd Test Day 4 updates from Gqeberha",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-australia-live-score-day-4-2nd-test-updates-gqeberha-3021889-2026-10-21"
+        }
+      ]
+    },
+    {
+      "title": "대상포진백신",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 00:50:00 -0700",
+      "news": [
+        {
+          "title": "유바이오로직스, 대상포진 백신 EuHZV 국내 1상 결과 발표",
+          "source": "데이터투자",
+          "url": "https://www.datatooza.com/article/2026102117585124752ef3b901a_80"
+        },
+        {
+          "title": "[속보] 유바이오로직스, 대상포진 백신 국내 임상 1상 결과 발표",
+          "source": "CBC뉴스",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=617884"
+        },
+        {
+          "title": "유바이오로직스, 대상포진 백신 EuHZV 2상 임상시험계획 신청",
+          "source": "데이터투자",
+          "url": "https://www.datatooza.com/article/2026102118002837652ef3c23d8_80"
+        }
+      ]
+    },
+    {
+      "title": "송가인",
+      "approx_traffic": "2000+",
+      "published": "Wed, 21 Oct 2026 00:40:00 -0700",
+      "news": [
+        {
+          "title": "안성훈, ‘미스터트롯2’ 상금 5억으로 부모님 집 마련…“카드도 못 써”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261021/134881885/1"
+        },
+        {
+          "title": "안성훈 “무명시절, 송가인이 매니저 역할” (편스토랑)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610211500003"
+        },
+        {
+          "title": "안성훈, 송가인과 무명시절부터 끈끈한 사이 \"누나가 화장+매니저도 해줘\" (편스토랑) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/10/21/MZRTOOBZGE4TGNZTGBSWMNBWME/"
+        }
+      ]
+    },
+    {
+      "title": "라이언 와이스",
+      "approx_traffic": "1000+",
+      "published": "Wed, 21 Oct 2026 00:40:00 -0700",
+      "news": [
+        {
+          "title": "'한화 복귀설 솔솔' 와이스, 대전예수로 돌아오나? 아내 직접 입장 밝혔다 \"지금 구단들과 접촉할 수 없어\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014560"
+        },
+        {
+          "title": "한화 팬 날벼락? '주황색 모자+휴대폰' 이글스 복귀설 불붙은 '대전 예수' 와이스…아내 직접 입 열다→\"우리도 내년 어디서 뛸지 몰라\"",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2209881"
+        },
+        {
+          "title": "'이럴 수가' 이 선수는 아닌데, 대전예수 결국 한국 와야 하나…\"한화서 좋았는데, 결별 어려운 결정 아니다\" 美 충격 평가 떴다",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026101522211785243"
+        }
+      ]
+    },
+    {
+      "title": "빅아치",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 00:40:00 -0700",
+      "news": [
+        {
+          "title": "빅맥보다 68% 묵직하다…맥도날드 ‘빅아치’ 먹어보니",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261021171656"
+        },
+        {
+          "title": "[먹어보아투] 맥도날드서 가장 크고 비싼 버거…1만2400원 ‘빅아치’ 먹어보니",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261021010007250"
+        },
+        {
+          "title": "[르포] \"소고기 패티 2장에 치즈 3장, 빅맥 1.7배\" … 맥도날드 '빅아치' 승부수",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/21/2026102100289.html"
+        }
+      ]
+    },
+    {
+      "title": "박성재",
+      "approx_traffic": "200+",
       "published": "Wed, 21 Oct 2026 00:30:00 -0700",
       "news": [
         {
-          "title": "[속보] ‘내란 가담’ 박성재 전 법무장관 2심 징역 9년 선고",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12324143"
-        },
-        {
-          "title": "‘내란 혐의’ 박성재 전 장관, 항소심서 징역 9년…1심 25년서 대폭 줄어",
+          "title": "법원 “박성재 내란 가담했지만 사전에 몰라”…항소심서 징역 9년 선고",
           "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1283449.html"
+          "url": "https://www.hani.co.kr/arti/society/society_general/1283486.html"
         },
         {
-          "title": "'내란 가담' 박성재, 항소심서 징역 9년 선고...16년 감형",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610211633407993"
+          "title": "[속보]‘내란 가담’ 박성재 전 법무부 장관, 항소심 징역 9년 선고…1심보다 대폭 감형",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610211547001"
+        },
+        {
+          "title": "조국혁신당, '내란 가담' 박성재 2심 징역 9년에 \"깊은 유감, 나쁜 선례\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003835590"
         }
       ]
     },
@@ -49,13 +159,13 @@
     },
     {
       "title": "신인감독 김연경 2",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Wed, 21 Oct 2026 00:10:00 -0700",
       "news": [
         {
           "title": "김연경, '신인감독' 인기 분석 \"無대본, 진심 100%→이런 예능 없어\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112896026"
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/21/GBSWGM3BME3DEMTDGQZGKNBVMU/"
         },
         {
           "title": "김연경, 감독으로도 통했다…‘신인감독 김연경2’ 화제성 1위",
@@ -63,9 +173,9 @@
           "url": "https://sports.donga.com/ent/article/all/20261021/134881185/1"
         },
         {
-          "title": "‘경력감독’ 김연경 픽 시즌2 선수들 베일 벗었다…‘기록의 여왕’ 황연주 영입(‘신인감독2’)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/21/GJSTOZBXGMZDGZJXGE2GEYTBME/"
+          "title": "'신인감독 김연경2', 단 2회 만에 일요일 2049 시청률 1위",
+          "source": "오마이스타",
+          "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003277396"
         }
       ]
     },
@@ -93,7 +203,7 @@
     },
     {
       "title": "폭스바겐",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Wed, 21 Oct 2026 00:00:00 -0700",
       "news": [
         {
@@ -110,116 +220,6 @@
           "title": "한국타이어, 폭스바겐 'ID.폴로·ID.크로스'에 전기차 전용 타이어 공급 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/index.php/industry/2026/10/21/2026102111444441345"
-        }
-      ]
-    },
-    {
-      "title": "창동",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 00:00:00 -0700",
-      "news": [
-        {
-          "title": "서울아레나 대비 도봉구 창동경제엔진추진단, 소규모 회의 전환",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834924"
-        },
-        {
-          "title": "서울시의회 유기훈 의원, 서울아레나 개장 주민설명회 참석",
-          "source": "시사프리신문",
-          "url": "https://www.sisanews.org/articles/224448977733"
-        },
-        {
-          "title": "지역 경제 살리고 주민 일상 지킨다…도봉구·㈜서울아레나, 서울아레나 개관 대비 주민 설명회 개최",
-          "source": "한국미디어뉴스",
-          "url": "https://www.kitvnews.co.kr/news/article.html?no=1675929"
-        }
-      ]
-    },
-    {
-      "title": "ai 안경",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 00:00:00 -0700",
-      "news": [
-        {
-          "title": "‘AI 안경’ 적발은 감독관 육안으로?…새 수능 지침, 이게 맞아? [이런뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690860"
-        },
-        {
-          "title": "\"엄마, 안경 바꿔야 돼\" 수능 땐 뿔테 벗는다?...'AI 안경' 대책에 '비상' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/10/21/2026102115241772341"
-        },
-        {
-          "title": "\"걸리면 다른 대학 가지 뭐\"…스마트 안경에 대학입시 뚫리나 [취재파일]",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807406"
-        }
-      ]
-    },
-    {
-      "title": "박해민",
-      "approx_traffic": "10000+",
-      "published": "Tue, 20 Oct 2026 23:50:00 -0700",
-      "news": [
-        {
-          "title": "'예의 바른 청년' KIA 시라카와가 잠실에 새긴 깊은 발자국",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021137000007"
-        },
-        {
-          "title": "[영상] LG의 아쉬웠던 경기력, 나가버린 팬들",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8691331"
-        },
-        {
-          "title": "'끝내기냐, 반격이냐' 잠시 뒤 준PO 3차전",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610201802594194"
-        }
-      ]
-    },
-    {
-      "title": "대치동",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 23:50:00 -0700",
-      "news": [
-        {
-          "title": "\"대치동만 그런 게 아니었다\"…'이 동네' 집값 6억 더 비싼 이유",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102149116"
-        },
-        {
-          "title": "학원가 인접 아파트, 지역 평균보다 최고 6억원 비싸",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202610211453231567191f6c6e_12"
-        },
-        {
-          "title": "학원비만 비싼 줄 알았는데…대치동 집값, 강남 평균보다 2억 더[부동산AtoZ]",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102108321987966"
-        }
-      ]
-    },
-    {
-      "title": "파라타항공",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 23:50:00 -0700",
-      "news": [
-        {
-          "title": "[中 운수권 의혹①] 국토부, ’공항사용료 60억 미납’ 파라타에 주요 노선 배분 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2134212"
-        },
-        {
-          "title": "파라타항공, 글로벌 항공정비 컨퍼런스서 AMOS 운영 성과 공유",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261020500210"
-        },
-        {
-          "title": "파라타항공, 국내선 지연율 국적사 최저…국제선도 두 번째",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2634613"
         }
       ]
     }
