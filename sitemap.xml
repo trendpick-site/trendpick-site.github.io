@@ -1,21 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
+
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://trendpick-site.github.io/trendpick/</loc>
+    <loc>https://trendpick-site.github.io/</loc>
   </url>
   <url>
-    <loc>https://trendpick-site.github.io/trendpick/guide.html</loc>
+    <loc>https://trendpick-site.github.io/guide.html</loc>
   </url>
   <url>
-    <loc>https://trendpick-site.github.io/trendpick/methodology.html</loc>
+    <loc>https://trendpick-site.github.io/methodology.html</loc>
   </url>
   <url>
-    <loc>https://trendpick-site.github.io/trendpick/about.html</loc>
+    <loc>https://trendpick-site.github.io/about.html</loc>
   </url>
   <url>
-    <loc>https://trendpick-site.github.io/trendpick/privacy.html</loc>
+    <loc>https://trendpick-site.github.io/privacy.html</loc>
   </url>
   <url>
-    <loc>https://trendpick-site.github.io/trendpick/contact.html</loc>
+    <loc>https://trendpick-site.github.io/contact.html</loc>
   </url>
 </urlset>
