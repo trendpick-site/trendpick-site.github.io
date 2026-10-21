@@ -1,33 +1,55 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T17:12:38+00:00",
+  "fetched_at": "2026-10-21T17:43:30+00:00",
   "items": [
+    {
+      "title": "calcio como đấu với man utd",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 09:40:00 -0700",
+      "news": [
+        {
+          "title": "Como v Manchester United: Champions League – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live"
+        },
+        {
+          "title": "Cesc Fàbregas calls suggestions he could replace Michael Carrick at Man United disrespectful",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50228936/cesc-fabregas-calls-suggestions-replace-michael-carrick-man-united-disrespectful"
+        },
+        {
+          "title": "Cesc Fabregas is the exact kind of coach Man Utd need after proving himself with Como",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en/originals/cesc-fabregas-is-the-exact-kind-of-coach-man-utd-need-after-proving-himself-with-como/blt1ef82b61e5fe06ee"
+        }
+      ]
+    },
     {
       "title": "como vs man utd",
       "approx_traffic": "500+",
       "published": "Wed, 21 Oct 2026 09:00:00 -0700",
       "news": [
         {
-          "title": "Nico Paz y Máximo Perrone son titulares en Como – Manchester United",
-          "source": "Yahoo",
-          "url": "https://es-us.noticias.yahoo.com/deportes/nico-paz-m%C3%A1ximo-perrone-titulares-161200786.html"
-        },
-        {
-          "title": "Partido de fútbol en directo Como vs MU: Un desafío para los Diablos Rojos",
+          "title": "El Como, de la Serie D, se enfrentará al Manchester United en la Liga de Campeones.",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/es/truc-tiep-bong-da-como-vs-mu-thu-thach-cho-quy-do"
+          "url": "https://www.vietnam.vn/es/como-tu-serie-d-den-cham-tran-man-united-o-champions-league"
         },
         {
-          "title": "La llegada del Man United para medirse al Como",
-          "source": "UEFA.com",
-          "url": "https://es.uefa.com/uefachampionsleague/video/02aa-21e197821ae0-ee8cc480be83-1000--la-llegada-del-man-united-para-medirse-al-como/"
+          "title": "Gol de Nico Paz para abrir el el duelo entre Como y Manchester United por la UEFA Champions League",
+          "source": "ESPN Deportes",
+          "url": "https://espndeportes.espn.com/futbol/champions-league/nota/_/id/17409855/video-como-vs-manchester-united-uefa-champions-league-gol-nico-paz"
+        },
+        {
+          "title": "🐌 El nuevo arranque desastroso del United hace historia para mal",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/es/noticias/el-nuevo-arranque-desastroso-del-united-hace-historia-para-mal-43649294"
         }
       ]
     },
     {
       "title": "코모 대 맨유",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Wed, 21 Oct 2026 08:50:00 -0700",
       "news": [
         {
@@ -63,9 +85,9 @@
           "url": "https://www.osen.co.kr/article/G1112895999"
         },
         {
-          "title": "[포토] 매조지 황동하, 한준수와 뜨거운 포옹 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/20/2026102022041129992"
+          "title": "나성범에게 150억 왜 썼냐고? 이래서 썼다 [준PO3 현장]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/20/HA3WKNRVHEYTAYJVHEYGKNRQMY/"
         }
       ]
     },
@@ -129,9 +151,9 @@
           "url": "https://www.khan.co.kr/article/202610202018005"
         },
         {
-          "title": "케데헌 '골든' 이재 깜짝 야외 결혼식…샘 킴과 백년가약",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807105"
+          "title": "[잇슈 컬처] ‘케데헌’ 이재, 외조부 신영균 옛 자택서 결혼식",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690888"
         }
       ]
     },
@@ -151,9 +173,9 @@
           "url": "https://www.ettoday.net/news/20261021/3258758.htm"
         },
         {
-          "title": "薔琵有多狂？ 太空站直擊震撼畫面 「超巨環流」大到鏡頭裝不下",
-          "source": "東森電視",
-          "url": "https://fnc.ebc.net.tw/fncnews/headline/221336"
+          "title": "「3D琵眼」神似黑巧甜甜圈！他也淪陷：被重擊了",
+          "source": "民視新聞網",
+          "url": "https://www.ftvnews.com.tw/news/detail/2026A21W0619"
         }
       ]
     },
@@ -185,41 +207,19 @@
       "published": "Wed, 21 Oct 2026 06:20:00 -0700",
       "news": [
         {
-          "title": "[단독] '前 한국 대표팀 사령탑' 벤투 감독의 K리그 부임, 현실적으로 어렵다...연봉 총액 50억 원한다",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014616"
-        },
-        {
           "title": "코스타 감독이 만들어낸 제주의 도약, 열린 시선으로 팀 색깔에 맞는 전술을 찾았다",
           "source": "스포츠동아",
           "url": "https://sports.donga.com/sports/article/all/20261021/134881372/1"
         },
         {
+          "title": "[단독] '前 한국 대표팀 사령탑' 벤투 감독의 K리그 부임, 현실적으로 어렵다...연봉 총액 50억 원한다",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014616"
+        },
+        {
           "title": "'대표팀 최장수 감독 벤투가 전북으로?' 벤투 오른팔 코스타 제주 감독은 진실을 알고 있을까 [오!쎈 전주]",
           "source": "조선일보",
           "url": "https://www.chosun.com/sports/football/2026/10/18/GM4TQMDFGJRDCMDFGNQWKNBTMQ/"
-        }
-      ]
-    },
-    {
-      "title": "잭 로그",
-      "approx_traffic": "5000+",
-      "published": "Wed, 21 Oct 2026 05:50:00 -0700",
-      "news": [
-        {
-          "title": "두산과 이별 예감했나, SNS에 인사 남겼다…곽빈·벤자민 등 동료들은 \"정말 잘했어\" 격려",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014596"
-        },
-        {
-          "title": "두산 잭 로그, 구단과 작별 암시?",
-          "source": "STN SPORTS",
-          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=324419"
-        },
-        {
-          "title": "두산 잭 로그, SNS에 작별 인사…동료들 격려 댓글 이어져 : 스포츠",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1040618"
         }
       ]
     }
