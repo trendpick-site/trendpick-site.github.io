@@ -1,35 +1,194 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T09:16:46+00:00",
+  "fetched_at": "2026-10-21T10:13:03+00:00",
   "items": [
     {
-      "title": "south africa vs australia",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 01:10:00 -0700",
+      "title": "죽음",
+      "approx_traffic": "5000+",
+      "published": "Wed, 21 Oct 2026 02:10:00 -0700",
       "news": [
         {
-          "title": "Live: South Africa strikes early to deepen Aussie woes in Gqeberha",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-          "url": "https://www.abc.net.au/news/2026-10-21/test-cricket-live-updates-south-africa-vs-australia/107293438"
+          "title": "[현장] 죽음을 이야기하며 삶의 의미를 발견하다…제4회 디멘시아 심포지엄",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11232"
         },
         {
-          "title": "South Africa vs Australia LIVE Score, 2nd Test Day 4 LIVE Updates",
-          "source": "NDTV Sports",
-          "url": "https://sports.ndtv.com/cricket/south-africa-vs-australia-live-score-2nd-test-day-4-sa-v-aus-live-updates-gqeberha-12213514"
+          "title": "가족 있는데 '무연고'...장례까지 '258일'",
+          "source": "Tbc.co.kr",
+          "url": "https://www.tbc.co.kr/news/view?pno=20261013154818AE06772&id=212064&c1=code&c2="
         },
         {
-          "title": "South Africa vs Australia live score, 2nd Test Day 4 updates from Gqeberha",
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-australia-live-score-day-4-2nd-test-updates-gqeberha-3021889-2026-10-21"
+          "title": "[새벽메아리]혼자 맞는 죽음, 무엇이 두려운가?",
+          "source": "전북일보 인터넷신문",
+          "url": "https://www.jjan.kr/article/20261020500248"
         }
       ]
     },
     {
-      "title": "대상포진백신",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 00:50:00 -0700",
+      "title": "현대로보틱스",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 02:10:00 -0700",
       "news": [
+        {
+          "title": "HD현대로보틱스, 피지컬 AI 기반 ’휴머노이드’ 공개",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261021145639y8j"
+        },
+        {
+          "title": "HD현대로보틱스, 열손가락 가진 ‘지능형 양팔로봇’ 공개",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20104535"
+        },
+        {
+          "title": "대구시, 'FIX 2026 혁신상' 31개 혁신기업 선정… 22일 시상식 개최",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261021000440"
+        }
+      ]
+    },
+    {
+      "title": "한문철",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "주차 빌런에 공중 배달까지…테슬라 ‘로드스터’ 패러디 봇물",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8689506"
+        },
+        {
+          "title": "'제로백 1초' 순간 바나나 '뚝'‥3일 만에 찾아내자 \"알아챘네\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6859376_36925.html"
+        },
+        {
+          "title": "[소셜＋] \"한문철 바빠지겠네\"…하늘 나는 테슬라에 쏟아진 'K-패러디'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020084800505"
+        }
+      ]
+    },
+    {
+      "title": "추위",
+      "approx_traffic": "1000+",
+      "published": "Wed, 21 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "[날씨] 비구름 뒤 찬바람…한낮 쌀쌀, 내일 한파주의보",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261021131138Hq8"
+        },
+        {
+          "title": "내일 아침 곳곳 5도 이하로…금요일에 추위 풀려",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8691318"
+        },
+        {
+          "title": "21일 낮부터 찬 바람에 기온 뚝···전국 곳곳 비",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610210746001"
+        }
+      ]
+    },
+    {
+      "title": "저축",
+      "approx_traffic": "2000+",
+      "published": "Wed, 21 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "핀다, 대원저축은행 품고 여수신 기능 탑재…금융위 최종 승인",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021158900002"
+        },
+        {
+          "title": "핀다, 대원저축은행 인수 승인…대출 중개업체서 저축은행 대주주로",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/10/21/GM2TCMZVGE2TMNJVGBRWCMRWGI/"
+        },
+        {
+          "title": "핀다, 대원저축은행 품는다…금융위 대주주 변경 승인",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440416"
+        }
+      ]
+    },
+    {
+      "title": "광주 도시철도 2호선",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "내년 시운전 광주도시철도 2호선",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261021_0021498188"
+        },
+        {
+          "title": "광주 도시철도 2호선 전동차 첫 공개…최대 153명 탑승",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102114014833866"
+        },
+        {
+          "title": "[르포] \"앉을 자리 고작 36개뿐인데…\" 광주 2호선 '지옥철' 되나",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261021000799"
+        }
+      ]
+    },
+    {
+      "title": "디에이치",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "달아나는 현대, 바짝 쫓는 삼성… 도시정비 1ㆍ2위 순위 다툼 ‘주목’",
+          "source": "대한경제",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191345238390144"
+        },
+        {
+          "title": "목동·성수·광명…12조 '재건축 큰장' 선다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102039611"
+        },
+        {
+          "title": "10대 건설사 정비수주 40조 돌파… 연말 ‘역대 최대’ 정조준",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261020500833"
+        }
+      ]
+    },
+    {
+      "title": "여자 배구",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "전국 여자 배구 선수권 대회의 멋진 경기들.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/man-nhan-nhung-man-tranh-tai-tai-giai-bong-chuyen-nu-vo-dich-quoc-gia"
+        },
+        {
+          "title": "오늘(10월 21일) 2026년 전국 여자 배구 선수권 대회 경기 일정",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/lich-thi-dau/lich-thi-dau-bong-chuyen-nu-vo-dich-quoc-gia-2026-hom-nay-2110-1786619.ldo"
+        },
+        {
+          "title": "VTV 빈디엔롱안이 준결승 진출을 확정했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/vtv-binh-dien-long-an-gianh-ve-vao-ban-ket"
+        }
+      ]
+    },
+    {
+      "title": "대상포진 백신",
+      "approx_traffic": "2000+",
+      "published": "Wed, 21 Oct 2026 01:30:00 -0700",
+      "news": [
+        {
+          "title": "[HIT알공] 유바이오로직스, 대상포진 백신 'EuHZV주' 2상 신청",
+          "source": "히트뉴스",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80091"
+        },
         {
           "title": "유바이오로직스, 대상포진 백신 EuHZV 국내 1상 결과 발표",
           "source": "데이터투자",
@@ -39,187 +198,28 @@
           "title": "[속보] 유바이오로직스, 대상포진 백신 국내 임상 1상 결과 발표",
           "source": "CBC뉴스",
           "url": "https://www.cbci.co.kr/news/articleView.html?idxno=617884"
-        },
-        {
-          "title": "유바이오로직스, 대상포진 백신 EuHZV 2상 임상시험계획 신청",
-          "source": "데이터투자",
-          "url": "https://www.datatooza.com/article/2026102118002837652ef3c23d8_80"
         }
       ]
     },
     {
-      "title": "송가인",
-      "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 00:40:00 -0700",
+      "title": "김다영",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 01:30:00 -0700",
       "news": [
         {
-          "title": "안성훈, ‘미스터트롯2’ 상금 5억으로 부모님 집 마련…“카드도 못 써”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261021/134881885/1"
+          "title": "로마로 신혼여행 간 김다영, ♥배성재 볼에 뽀뽀 세례 “남편 섬기겠다”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20104166"
         },
         {
-          "title": "안성훈 “무명시절, 송가인이 매니저 역할” (편스토랑)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610211500003"
-        },
-        {
-          "title": "안성훈, 송가인과 무명시절부터 끈끈한 사이 \"누나가 화장+매니저도 해줘\" (편스토랑) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/10/21/MZRTOOBZGE4TGNZTGBSWMNBWME/"
-        }
-      ]
-    },
-    {
-      "title": "라이언 와이스",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "'한화 복귀설 솔솔' 와이스, 대전예수로 돌아오나? 아내 직접 입장 밝혔다 \"지금 구단들과 접촉할 수 없어\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014560"
-        },
-        {
-          "title": "한화 팬 날벼락? '주황색 모자+휴대폰' 이글스 복귀설 불붙은 '대전 예수' 와이스…아내 직접 입 열다→\"우리도 내년 어디서 뛸지 몰라\"",
+          "title": "'배성재♥' 김다영, 벌써 만삭 같은 D라인…\"눈사람 됐다\" 깜짝 [★해시태그]",
           "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2209881"
+          "url": "https://www.xportsnews.com/article/2209962"
         },
         {
-          "title": "'이럴 수가' 이 선수는 아닌데, 대전예수 결국 한국 와야 하나…\"한화서 좋았는데, 결별 어려운 결정 아니다\" 美 충격 평가 떴다",
+          "title": "2년 만났다면서…♥배성재 생일 모르는 김다영 \"남편 섬기겠다\" [마데핫리뷰]",
           "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026101522211785243"
-        }
-      ]
-    },
-    {
-      "title": "빅아치",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "빅맥보다 68% 묵직하다…맥도날드 ‘빅아치’ 먹어보니",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261021171656"
-        },
-        {
-          "title": "[먹어보아투] 맥도날드서 가장 크고 비싼 버거…1만2400원 ‘빅아치’ 먹어보니",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261021010007250"
-        },
-        {
-          "title": "[르포] \"소고기 패티 2장에 치즈 3장, 빅맥 1.7배\" … 맥도날드 '빅아치' 승부수",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/21/2026102100289.html"
-        }
-      ]
-    },
-    {
-      "title": "박성재",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 00:30:00 -0700",
-      "news": [
-        {
-          "title": "법원 “박성재 내란 가담했지만 사전에 몰라”…항소심서 징역 9년 선고",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1283486.html"
-        },
-        {
-          "title": "[속보]‘내란 가담’ 박성재 전 법무부 장관, 항소심 징역 9년 선고…1심보다 대폭 감형",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610211547001"
-        },
-        {
-          "title": "조국혁신당, '내란 가담' 박성재 2심 징역 9년에 \"깊은 유감, 나쁜 선례\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003835590"
-        }
-      ]
-    },
-    {
-      "title": "리그 오브 레전드",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 00:20:00 -0700",
-      "news": [
-        {
-          "title": "26.21 패치 노트",
-          "source": "League of Legends",
-          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-21-notes/"
-        },
-        {
-          "title": "롤 21일 5시간 점검…26.21 패치 적용 : 산업",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1038369"
-        },
-        {
-          "title": "신규 증강 35종, 'LoL' 아수라장에 K/DA, 펜타킬 뜬다",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322393"
-        }
-      ]
-    },
-    {
-      "title": "신인감독 김연경 2",
-      "approx_traffic": "5000+",
-      "published": "Wed, 21 Oct 2026 00:10:00 -0700",
-      "news": [
-        {
-          "title": "김연경, '신인감독' 인기 분석 \"無대본, 진심 100%→이런 예능 없어\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/21/GBSWGM3BME3DEMTDGQZGKNBVMU/"
-        },
-        {
-          "title": "김연경, 감독으로도 통했다…‘신인감독 김연경2’ 화제성 1위",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261021/134881185/1"
-        },
-        {
-          "title": "'신인감독 김연경2', 단 2회 만에 일요일 2049 시청률 1위",
-          "source": "오마이스타",
-          "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003277396"
-        }
-      ]
-    },
-    {
-      "title": "고소영",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 00:00:00 -0700",
-      "news": [
-        {
-          "title": "고소영, 돌반지 70만원 화들짝 \"나 땐 4만원 할 때도\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003834050"
-        },
-        {
-          "title": "고소영, 애처가 ♥장동건 자랑 “맛집 가면 나 먹으라고 맨날 싸와” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/GZRGMYJZMMYTAMBQMUZGEYJUHE/"
-        },
-        {
-          "title": "고소영, 오래된 보석함에서 심봤다 “아기 때 샀던 명품..요즘 유행해”",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112895675"
-        }
-      ]
-    },
-    {
-      "title": "폭스바겐",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 00:00:00 -0700",
-      "news": [
-        {
-          "title": "한국타이어, 폭스바겐 전기차 2종에 아이온 공급",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021041400003"
-        },
-        {
-          "title": "한국타이어, 폭스바겐 차세대 소형 전기차에 '아이온' 공급",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003835262"
-        },
-        {
-          "title": "한국타이어, 폭스바겐 'ID.폴로·ID.크로스'에 전기차 전용 타이어 공급 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/industry/2026/10/21/2026102111444441345"
+          "url": "https://www.mydaily.co.kr/page/view/2026102110563248281"
         }
       ]
     }
