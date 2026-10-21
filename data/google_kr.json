@@ -1,11 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T05:10:22+00:00",
+  "fetched_at": "2026-10-21T05:40:29+00:00",
   "items": [
     {
+      "title": "공중 급유",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 21:30:00 -0700",
+      "news": [
+        {
+          "title": "[2026국감]공군, 6세대 전투기 2050년대 전력 배치",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102015372014600"
+        },
+        {
+          "title": "공군, KF-21 전력화 맞춰 공중급유기 추가 확보 추진…작전 영역 확대",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6325988"
+        },
+        {
+          "title": "[2026 국감] 공군 \"2050년대 6세대 전투기 전력화… 2040년대 병사 절반 감축\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261020001155"
+        }
+      ]
+    },
+    {
+      "title": "돔 경기장",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "2034년 문 여는 복합 돔구장…충청권 입지 경쟁 불붙었다",
+          "source": "대전일보",
+          "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2308297"
+        },
+        {
+          "title": "대구광역시, 돔구장 유치 전략회의 개최...제안서 준비 본격화",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3727591"
+        },
+        {
+          "title": "대구시, ‘두류공원 2만 석 돔구장’ 유치 총력…TF 전략회의 개최",
+          "source": "펜앤마이크",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=129957"
+        }
+      ]
+    },
+    {
+      "title": "니케 4주년",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "[스토리] 함께 써내려 나가자, 해피엔딩을! 니케 '올드 테일즈'의 이야기",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322323"
+        },
+        {
+          "title": "‘니케’ 4주년 맞아 분위기 전환할까?",
+          "source": "더게임스",
+          "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=407493"
+        },
+        {
+          "title": "'니케' 4주년 픽업 후보는? \"이 중에 무조건 나옵니다\"",
+          "source": "게임플",
+          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216664"
+        }
+      ]
+    },
+    {
       "title": "천무 다연장로켓",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Tue, 20 Oct 2026 21:00:00 -0700",
       "news": [
         {
@@ -41,9 +107,9 @@
           "url": "https://www.khan.co.kr/article/202610201018001"
         },
         {
-          "title": "\"파일럿이 발견\" 항공기 결항…카펫 들추자 '꿈틀'",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807440"
+          "title": "항공기 카펫 들었더니 줄무늬뱀이 '꿈틀'…일본 저가항공 결항",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021035900009"
         }
       ]
     },
@@ -102,14 +168,14 @@
           "url": "https://www.mt.co.kr/world/2026/10/20/2026102013583724078"
         },
         {
-          "title": "\"마이크론 파업 예고…삼성·SK, 메모리 공급 주도권 커진다\"-KB",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102147966"
-        },
-        {
           "title": "“영업익 15% 성과급 달라” 마이크론 대만 노조 22일 파업",
           "source": "서울경제",
           "url": "https://www.sedaily.com/article/20103959"
+        },
+        {
+          "title": "캔터 피츠제럴드, 공급 전망 근거로 마이크론 테크놀로지 투자의견 유지",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/analyst-ratings/article-93CH-2133279"
         }
       ]
     },
@@ -124,14 +190,14 @@
           "url": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice/Detail?_boardNo=137"
         },
         {
+          "title": "펄어비스, '붉은사막' 첫 DLC 프리뷰 공개…30일 출시",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261021000276"
+        },
+        {
           "title": "펄어비스, '붉은사막' 첫 DLC '미지의 여정' 프리뷰 영상 공개…30일 글로벌 출시",
           "source": "지디넷코리아",
           "url": "https://zdnet.co.kr/view/?no=20261021133754"
-        },
-        {
-          "title": "\"바다의 협객 클리프 나가신다\"…붉은사막, 대양으로",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1704067/%EB%B0%94%EB%8B%A4-%ED%98%91%EA%B0%9D-%ED%81%B4%EB%A6%AC%ED%94%84-%EB%82%98%EA%B0%80%EC%8B%A0%EB%8B%A4%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89-%EB%8C%80-2026"
         }
       ]
     },
@@ -154,72 +220,6 @@
           "title": "경부선 사상역서 열차에 치여 1명 숨져…한때 지연 운행",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8690884"
-        }
-      ]
-    },
-    {
-      "title": "원주시",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 20:30:00 -0700",
-      "news": [
-        {
-          "title": "원주 반계리 은행나무 축제 26일 개막…황금빛으로 물든 고목",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021059400062"
-        },
-        {
-          "title": "\"단풍 절정\"…원주 반계리 은행나무 축제 26일 개막",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834264"
-        },
-        {
-          "title": "원주 반계리 은행나무 실시간 영상 공개…단풍 명소 방문 편의 높인다",
-          "source": "강원도민일보",
-          "url": "https://www.kado.net/news/articleView.html?idxno=2079243"
-        }
-      ]
-    },
-    {
-      "title": "ai 에이전트",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 20:20:00 -0700",
-      "news": [
-        {
-          "title": "[AI와 디지털전환] AI 대중화 시대, AI 전문 기업을 키워야 하는 이유",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261020000078"
-        },
-        {
-          "title": "아웃시스템즈 \"AI 에이전트 운영 자신감 높지만 충돌 대응 준비 부족\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261021133930"
-        },
-        {
-          "title": "“모델보다 데이터·분류체계 먼저 설계해야”",
-          "source": "디지털데일리",
-          "url": "https://www.ddaily.co.kr/page/view/2026102015245541846"
-        }
-      ]
-    },
-    {
-      "title": "동탄 신도시",
-      "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 20:10:00 -0700",
-      "news": [
-        {
-          "title": "\"국평 17억인데 싸다고?\"…서울도 아닌데 4만5000명 몰렸다 [주간이집]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102031886"
-        },
-        {
-          "title": "[부동산 AD] 동탄1신도시 중심에 초고층 하이엔드 주거단지 ‘아크메르 동탄’ 분양",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334688"
-        },
-        {
-          "title": "포스코이앤씨, 화성 ‘아크메르 동탄’ 1808가구 분양…26일 청약",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261019501103"
         }
       ]
     }
