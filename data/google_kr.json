@@ -1,56 +1,34 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T06:11:20+00:00",
+  "fetched_at": "2026-10-21T06:53:44+00:00",
   "items": [
     {
-      "title": "김호중",
+      "title": "삼성 갤럭시",
       "approx_traffic": "1000+",
-      "published": "Tue, 20 Oct 2026 21:50:00 -0700",
+      "published": "Tue, 20 Oct 2026 22:50:00 -0700",
       "news": [
         {
-          "title": "'음주 뺑소니' 김호중, 가석방 후 발목 수술…\"올해는 회복 집중\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102111163245326"
+          "title": "갤럭시S27, 프로 모델 사라지나…\"전면 디자인, 큰 변화없어\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261021083852"
         },
         {
-          "title": "‘음주 뺑소니’ 김호중, 양쪽 발목 수술로 재활 중…“올해 복귀 NO”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/celebrity/2026/10/21/GI3TINJTMY3WMMJQMU3TEM3FG4/"
+          "title": "삼성전자, 모뎀도 2나노 간다...올해 4나노 M2700은 MX 테스트 통과",
+          "source": "디일렉",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=63973"
         },
         {
-          "title": "김호중, 출소 후 발목 수술 \"재활 중…왼쪽도 수술 예정\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610216047H"
+          "title": "삼성폰 또 '급 나누기'…갤S27 플러스, 기존 기능도 뺀다",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/it-science/mobile/6324709"
         }
       ]
     },
     {
-      "title": "역사 왜곡",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "[단독]\"6·25전쟁, 미국이 일으킨 전쟁\" 역사왜곡 논란 유튜버 초청한 경기교육청",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/education/2026/10/21/SIPHS3VXSVDURL6SRADVWXSSHU/"
-        },
-        {
-          "title": "[신문으로 배우는 실용한자] 쇄도(殺到)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/nie/chinese_character/2026/10/21/W7EPGCG7RFD2RMCHOIVPAM6V4U/"
-        },
-        {
-          "title": "'역사 왜곡 논란' 펜타포트, 아티스트 사전 검열 '갑론을박'[SC이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/10/21/MI4WIN3BMU4TQNLEMFSGMZTFHE/"
-        }
-      ]
-    },
-    {
-      "title": "농협은행",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 21:40:00 -0700",
+      "title": "nh농협은행",
+      "approx_traffic": "1000+",
+      "published": "Tue, 20 Oct 2026 22:50:00 -0700",
       "news": [
         {
           "title": "NH농협은행, 'AI데이터 콘테스트' 개최…데이터 경영 강화",
@@ -70,156 +48,162 @@
       ]
     },
     {
-      "title": "공중 급유",
+      "title": "채널a",
       "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 21:30:00 -0700",
+      "published": "Tue, 20 Oct 2026 22:50:00 -0700",
+      "news": []
+    },
+    {
+      "title": "음문석",
+      "approx_traffic": "1000+",
+      "published": "Tue, 20 Oct 2026 22:30:00 -0700",
       "news": [
         {
-          "title": "[2026 국감] 공군 \"2050년대 6세대 전투기 전력화… 2040년대 병사 절반 감축\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261020001155"
+          "title": "[공식] ‘호프’ 음문석 측 “♥여친과 내년 1월 결혼”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261021/134881108/1"
         },
         {
-          "title": "공군, KF-21 전력화 맞춰 공중급유기 추가 확보 추진…작전 영역 확대",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6325988"
+          "title": "‘신스틸러’ 배우 음문석, 내년 1월 모델 연인과 화촉",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261021580248"
         },
         {
-          "title": "[2026국감]공군 공중급유기 턱없이 부족",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102008412238135"
+          "title": "영화 ‘호프’ 목수 배우 음문석, 내년 1월 모델과 결혼 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/10/21/PMJBWOXTJRE35M6AAJ7LQPYH6Y/"
         }
       ]
     },
     {
-      "title": "돔 경기장",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 21:20:00 -0700",
+      "title": "대형주",
+      "approx_traffic": "5000+",
+      "published": "Tue, 20 Oct 2026 22:30:00 -0700",
       "news": [
         {
-          "title": "2034년 문 여는 복합 돔구장…충청권 입지 경쟁 불붙었다",
-          "source": "대전일보",
-          "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2308297"
+          "title": "[속보] 코스피, 장중 4%대 급등에 매수 사이드카 발동",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6859555_36932.html"
         },
         {
-          "title": "대구광역시, 돔구장 유치 전략회의 개최...제안서 준비 본격화",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3727591"
-        },
-        {
-          "title": "대구시, ‘두류공원 2만 석 돔구장’ 유치 총력…TF 전략회의 개최",
-          "source": "펜앤마이크",
-          "url": "https://www.pennmike.com/news/articleView.html?idxno=129957"
-        }
-      ]
-    },
-    {
-      "title": "니케 4주년",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 21:20:00 -0700",
-      "news": [
-        {
-          "title": "[스토리] 함께 써내려 나가자, 해피엔딩을! 니케 '올드 테일즈'의 이야기",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322323"
-        },
-        {
-          "title": "[니케] 왕관 쓴 마리안 등장, 4주년 주인공 유력",
-          "source": "게임톡",
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112371"
-        },
-        {
-          "title": "'니케' 4주년 픽업 후보는? \"이 중에 무조건 나옵니다\"",
-          "source": "게임플",
-          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216664"
-        }
-      ]
-    },
-    {
-      "title": "천무 다연장로켓",
-      "approx_traffic": "2000+",
-      "published": "Tue, 20 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "천무 샀던 폴란드, 이번엔 韓 탄도미사일까지…사거리 290㎞ 의미는? [밀리터리+]",
-          "source": "나우뉴스",
-          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261020601014"
-        },
-        {
-          "title": "사거리 290km 한국산 탄도탄 안은 폴란드…동유럽 타격 지형 바꾼다",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610210945217472fbbec65dfb_1"
-        },
-        {
-          "title": "스페인 SILAM 사업, 어디로 가나…한화 천무, 유럽 시장서 대안 부상",
-          "source": "유스연합",
-          "url": "https://www.youthassembly.kr/news/1012955"
-        }
-      ]
-    },
-    {
-      "title": "항공기",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "인천시, 영종도∼덕적도 구간 도심항공교통(UAM) 실증",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8691171"
-        },
-        {
-          "title": "인천공항 UAM 상용화 한 걸음…공항·섬 잇는 실증 완료",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834974"
-        },
-        {
-          "title": "AI로 '하늘길' 잇다…KT, 인천서 UAM 국내 첫 실증",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440312"
-        }
-      ]
-    },
-    {
-      "title": "캐시워크 정답",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "[단독] 캐시워크 돈버는퀴즈 정답 10월 21일",
-          "source": "BNT뉴스",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202610210005"
-        },
-        {
-          "title": "픽스 온풍기 캐시워크 돈 버는 퀴즈, 정답은?",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20261020064915108"
-        },
-        {
-          "title": "[캐시워크 종합] 10월 19일 월요일 오전 11시 현재 출제되고 있는 모든 문제들의 정답은?",
-          "source": "비즈월드",
-          "url": "https://www.bizwnews.com/news/articleView.html?idxno=149243"
-        }
-      ]
-    },
-    {
-      "title": "한국토지주택공사",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 20:50:00 -0700",
-      "news": [
-        {
-          "title": "극동건설, 'LH 참여' 시흥동 정비사업 수주…\"수익·안정 동시에\" - 머니투데이",
+          "title": "[스팟] 코스피 182.92포인트(3.29%) 오른 5735.66 마감 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/20/2026102011031275209"
+          "url": "https://www.mt.co.kr/stock/2026/10/21/2026102115325717167"
         },
         {
-          "title": "극동건설, 금천구 ‘시흥동 LH참여형 가로주택’ 수주…‘더 케이하우스’ 제안",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=20261020114228566667191f6c6e_12"
+          "title": "AI 기업 호실적에 삼전닉스 7% 급등…코스피 '매수 사이드카'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102155386"
+        }
+      ]
+    },
+    {
+      "title": "뷔",
+      "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 22:20:00 -0700",
+      "news": [
+        {
+          "title": "BTS 뷔, 바지 엉덩이 부분에 뭐 묻었나…\"원래 이런 것, 충분히 오해할만해\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6326798"
         },
         {
-          "title": "극동건설, 금천 시흥동 가로주택정비사업 수주…231가구 조성",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003832971"
+          "title": "방탄소년단 뷔, 근황 공개했다가 해명 무슨 일? \"충분히 오해할 만해\"",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553632368"
+        },
+        {
+          "title": "\"AI도 이런 얼굴은 못만들것\"방탄소년단 뷔 칠레 공연 팬캠에 잡힌 비현실적 미모 [K-EYES]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/music/2026/10/19/2026101901350179348"
+        }
+      ]
+    },
+    {
+      "title": "노태문",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 22:20:00 -0700",
+      "news": [
+        {
+          "title": "성과급 넘어 교섭권까지…\"우리가 대표\" 노노 갈등",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261020200105mZA"
+        },
+        {
+          "title": "삼성전자, 노조 간 기싸움 고조…내년 임단협 교섭구도 변수로",
+          "source": "녹색경제신문",
+          "url": "https://greened.kr/news/articleView.html?idxno=352420"
+        },
+        {
+          "title": "삼성전자, 노태문 사장 주재 'DX 커넥트' 연기…개최 일정 미정",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/general-industry/6326482"
+        }
+      ]
+    },
+    {
+      "title": "한파주의보",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 22:10:00 -0700",
+      "news": [
+        {
+          "title": "[날씨] 찬바람 불며 쌀쌀해...내륙 곳곳 올가을 첫 '한파주의보'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202610211453017644"
+        },
+        {
+          "title": "전북 진안·무주·장수·임실 첫 한파주의보…22일 아침 기온 '뚝'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/jeonbuk/6326957"
+        },
+        {
+          "title": "전국 곳곳 한파·강풍주의보…서해안 강풍에 해상 풍랑까지",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261021010006957"
+        }
+      ]
+    },
+    {
+      "title": "사형",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 22:10:00 -0700",
+      "news": [
+        {
+          "title": "“성지서 부도덕 행위” 외국인 남녀 사형 집행한 사우디 논란 [잇슈 SNS]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690916"
+        },
+        {
+          "title": "[이 시각 세계] 사우디, '모스크서 부적절 행위'‥방글라 남녀 2명 처형",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859205_37012.html"
+        },
+        {
+          "title": "사우디 성지 메카서 '음란행위'…외국인 사형시킨 사우디 [지금이뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0545_202610191120016619"
+        }
+      ]
+    },
+    {
+      "title": "터치드",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "터치드 \"5년9개월 만에 첫 정규, 감추고 싶었던 내면 꺼냈죠\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020139200005"
+        },
+        {
+          "title": "“누구나 마음속에 끝나지 않는 밤이 있다”…터치드가 꺼내 보인 ‘극야’",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/culture/music/1283441.html"
+        },
+        {
+          "title": "터치드 윤민, 약 먹고 잠들어 인터뷰 1시간 지각…\"죄송\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610203968H"
         }
       ]
     }
