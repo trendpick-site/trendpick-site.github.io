@@ -1,11 +1,160 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T22:11:05+00:00",
+  "fetched_at": "2026-10-21T22:42:06+00:00",
   "items": [
     {
+      "title": "tsla",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "Tesla Earnings Live: TSLA Shares Rise on Results — Updates and Analysis",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026"
+        },
+        {
+          "title": "Tesla Q3 preview: Delivery outlook, cash flow, and a dash of merger speculation on tap",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/article/tesla-q3-preview-delivery-outlook-cash-flow-and-a-dash-of-merger-speculation-on-tap-160637755.html"
+        },
+        {
+          "title": "Tesla shares rise after earnings surprise in after-hours trading, while EV business remains weak",
+          "source": "파이낸셜뉴스",
+          "url": "https://en.fnnews.com/news/202610220518088328"
+        }
+      ]
+    },
+    {
+      "title": "พยากรณ์อากาศ",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "สภาพอากาศวันนี้ -27 ต.ค.ภาคใต้ฝนตกหนัก ไทยตอนบน-กทม.ฝนฟ้าคะนอง ลมแรง",
+          "source": "Thansettakij",
+          "url": "https://www.thansettakij.com/general-news/671960"
+        },
+        {
+          "title": "“สุริยะ” สั่งกรมชลฯ รับมือฝนหนักภาคใต้ 24–26 ต.ค. คาดซ่อมคลอง ร.1 เสร็จพฤศจิกายนนี้",
+          "source": "Thairath",
+          "url": "https://www.thairath.co.th/news/politic/2967620"
+        },
+        {
+          "title": "เปิดชื่อจังหวัดเสี่ยงสูง เจอฝนถล่มหนักมาก คืนนี้-พรุ่งนี้ | มุมข่าว",
+          "source": "LINE TODAY",
+          "url": "https://today.line.me/th/v3/article/pepjDya"
+        }
+      ]
+    },
+    {
+      "title": "부산일보",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "\"커피 한 잔 받는데 40분\"…복덩이 굴러들어 오자 '들썩'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102166361"
+        },
+        {
+          "title": "[단독] 폰툰 넘어온 '부캉이'…그물망 앞 배회, 수로 재진입 우려",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6327868"
+        }
+      ]
+    },
+    {
+      "title": "skhy",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 14:20:00 -0700",
+      "news": [
+        {
+          "title": "\"SK hynix to Hit 4.7 Million Won, Samsung 670,000 Won\"... Why Nomura's Bold Forecast justifies it",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/2026102120015387387"
+        },
+        {
+          "title": "Semiconductor ‘pessimism’ is overdone... time to invest in Samsung Electronics and SK hynix",
+          "source": "파이낸셜뉴스",
+          "url": "https://en.fnnews.com/news/202610210833154962"
+        },
+        {
+          "title": "Nomura Securities predicted on the 20th that demand for memory will exceed supply until at least 202..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/stock/12180906"
+        }
+      ]
+    },
+    {
+      "title": "나스닥 100",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 14:10:00 -0700",
+      "news": [
+        {
+          "title": "뉴욕증시, 스페이스X 호실적에 상승…나스닥 1.1%↑",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022008300072"
+        },
+        {
+          "title": "AI 거품 우려 딛고 기술주 반등…실적이 답했다",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02115606645615544"
+        },
+        {
+          "title": "[글로벌증시] 기술주 강세에 뉴욕증시 일제 상승…나스닥 1%↑",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261022064638LO3"
+        }
+      ]
+    },
+    {
+      "title": "spcx",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 14:10:00 -0700",
+      "news": [
+        {
+          "title": "New York Stock Exchange Rises on Strong SpaceX Earnings... Nasdaq Up 1.1%",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008809295"
+        },
+        {
+          "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/finance/stocks/spacex-anthropic-and-nvidia-help-snap-tech-stocks-out-of-their-recent-malaise-66e1693c"
+        },
+        {
+          "title": "SpaceX returns to profit as AI revenue surges and surpasses Starlink - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-science/2026/10/21/I4AA4JZVDRDOFHLVIUFRWFPDZE/"
+        }
+      ]
+    },
+    {
+      "title": "필라델피아 반도체 지수",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 14:10:00 -0700",
+      "news": [
+        {
+          "title": "필라델피아 반도체 지수 8월 후 최저지만 '지하실' 가능성도",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440325"
+        },
+        {
+          "title": "[속보] 필라델피아 반도체지수 2% 상승 마감…AI 반도체주 반등",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/international-economy/6327885"
+        },
+        {
+          "title": "[아침뉴스] 10/21 필라델피아 반도체지수, 2.3% 낙폭 지우고 0.22% 상승 전환",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/ontimebrief/sihwangontime/contents/261021083200596dz"
+        }
+      ]
+    },
+    {
       "title": "como 1907 vs manchester united f.c. standings",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Wed, 21 Oct 2026 14:00:00 -0700",
       "news": [
         {
@@ -14,14 +163,14 @@
           "url": "https://www.bbc.com/sport/football/live/cwe8l3zeexvvt"
         },
         {
+          "title": "Manchester United Suffers Heavy Defeat to Italy's Como in UEFA Champions League, Winless in 7 Straight Games",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008809304"
+        },
+        {
           "title": "Injury-Hit Manchester United Faces Champions League Clash with Como",
           "source": "조선일보",
           "url": "https://www.chosun.com/english/sports-en/2026/10/21/LYTTQ4W4ZBACBE4PQTZQPQMXUM/"
-        },
-        {
-          "title": "Licensable picture: Como 1907 V Manchester United",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/como-1907-v-manchester-united/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA5MTQxQzA"
         }
       ]
     },
@@ -31,9 +180,9 @@
       "published": "Wed, 21 Oct 2026 14:00:00 -0700",
       "news": [
         {
-          "title": "«Реал» — «РБ Лейпциг»: Бернарду Силва забил в пустые ворота на 44-й минуте",
+          "title": "«Реал» — «РБ Лейпциг»: Мбаппе и Гомис обменялись голами в концовке",
           "source": "https://www.championat.ru/",
-          "url": "https://www.championat.ru/football/news-6667052-real-madrid-rb-lejpcig-bernardu-silva-zabil-v-pustye-vorota-na-44-j-minute.html"
+          "url": "https://www.championat.ru/football/news-6667148-real-madrid-rb-lejpcig-mbappe-i-gomis-obmenyalis-golami-v-koncovke-21-oktyabrya-2026.html"
         },
         {
           "title": "ЛЧ. Диоманде помог огорчить экс-одноклубников: Реал победил Лейпциг перед Эль Класико",
@@ -41,15 +190,15 @@
           "url": "https://www.ua-football.com/foreign/champions_league/1792614722-lch-diomande-pomog-ogorchit-yeks-odnoklubnikov-real-pobedil-leypcig-pered-yel-klasiko.html"
         },
         {
-          "title": "Реал Мадрид — Лейпциг: прогноз (кэф 2.25) и составы команд 21 октября 2026",
-          "source": "Ставка ТВ",
-          "url": "https://stavka.tv/matches/soccer/21-10-2026-real-madrid-leipzig"
+          "title": "Моуриньо выбрал игроков, на которых сможет рассчитывать в Лиге чемпионов",
+          "source": "Sport.ua",
+          "url": "https://sport.ua/news/917598-mourinyo-vybral-igrokov-na-kotoryh-smozhet-rasschityvat-v-lige-chempionov"
         }
       ]
     },
     {
       "title": "여자 축구",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Wed, 21 Oct 2026 13:50:00 -0700",
       "news": [
         {
@@ -58,163 +207,14 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8691296"
         },
         {
-          "title": "AG 동메달 성과…여자축구, FIFA 랭킹 17위",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261022044836Yvu"
-        },
-        {
           "title": "[오피셜] '중국 제치고 아시아 4위 등극' 韓 여자축구, 3년 4개월 만에 피파랭킹 최고 순위 '17위' - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/10/21/2026102109502569413"
-        }
-      ]
-    },
-    {
-      "title": "챔피언스리그",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 13:50:00 -0700",
-      "news": [
-        {
-          "title": "\"팬들이 먼저 떠나나\" 꿈의 챔스인데 '텅 빈' 관중석, 충격의 '재정 위반 유죄' 맨시티…'5골 화력쇼' 마레스카 \"다시 좋아질 것\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/21/GVTDGM3BGE3TKN3BGAZDQYJZMU/"
         },
         {
-          "title": "포든 해트트릭이 이끈 시티, AEK 아테네에 5골 대승",
-          "source": "Manchester City FC",
-          "url": "https://kr.mancity.com/news/mens/city-v-aek-athens-match-report-63928130"
-        },
-        {
-          "title": "‘홀란 없어도 5골 폭격’ 맨시티, AEK 아테네 5-1 대파…‘해트트릭’ 포든이 해결사",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610210819003"
-        }
-      ]
-    },
-    {
-      "title": "방탄소년단",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 13:50:00 -0700",
-      "news": [
-        {
-          "title": "BTS 뷔, 바지 엉덩이 부분에 뭐 묻었나…\"원래 이런 것, 충분히 오해할만해\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6326798"
-        },
-        {
-          "title": "꽃보다 태형~♥ 방탄소년단 뷔, 칠레 포도밭 '달콤 휴식'",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/music/2026/10/21/2026102107153836246"
-        },
-        {
-          "title": "\"AI도 이런 얼굴은 못만들것\"방탄소년단 뷔 칠레 공연 팬캠에 잡힌 비현실적 미모 [K-EYES]",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553624524"
-        }
-      ]
-    },
-    {
-      "title": "bayern đấu với arsenal",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "Video bóng đá Bayern Munich - Arsenal: Đôi công ngang ngửa (Cúp C1)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-bayern-munich-arsenal-doi-cong-ngang-ngua-cup-c1-c48a1804643.html"
-        },
-        {
-          "title": "Arteta chưa thể quên thất bại ở chung kết Champions League 2025/2",
-          "source": "Bongda24h",
-          "url": "https://bongda24h.vn/bong-da-chau-au/arteta-chua-the-quen-that-bai-o-chung-ket-champions-league-2025-2026-184-462800.html"
-        },
-        {
-          "title": "Trực tiếp Bayern München vs Arsenal: Bayern München gỡ hòa 1-1",
-          "source": "Báo Lâm Đồng",
-          "url": "https://baolamdong.vn/truc-tiep-bayern-munchen-vs-arsenal-bayern-munchen-go-hoa-1-1-470500.html"
-        }
-      ]
-    },
-    {
-      "title": "madrid vs leipzig",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 13:30:00 -0700",
-      "news": [
-        {
-          "title": "Champions League: Round-up - Real Madrid wahrt weisse Weste – Como nimmt ManUnited auseinander",
-          "source": "SRF",
-          "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-real-madrid-wahrt-weisse-weste-como-nimmt-manunited-auseinander"
-        },
-        {
-          "title": "Perfekte Bilanz in der Champions League",
-          "source": "Real Madrid CF | Web Oficial",
-          "url": "https://www.realmadrid.com/de-DE/news/fussball/erste-mannshaft/berichte/cronica-real-madrid-leipzig-j3-champions-21-10-2026"
-        },
-        {
-          "title": "Champions League: Leipzig bei Real auf verlorenem Posten",
-          "source": "sport.ORF.at",
-          "url": "https://sport.orf.at/stories/3163880/"
-        }
-      ]
-    },
-    {
-      "title": "이다해",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 13:20:00 -0700",
-      "news": [
-        {
-          "title": "‘11월 딸 출산’ 이다해, 불러온 배 위에 손 살포시… 장영란·심진화와 상하이 회동",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/celebrity/2026/10/21/GM4GEMLCHAZTAMLFMZRGKYZVGA/"
-        },
-        {
-          "title": "이다해, 상하이 50억 집 공개…\"무옵션에 월세 600만원\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003835821"
-        },
-        {
-          "title": "'세븐♥' 이다해, 임신 9개월 안 믿기는 작은 배…\"중국 검색어 1위\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/entertainment/2026/10/22/2026102205365572649"
-        }
-      ]
-    },
-    {
-      "title": "손태진",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 13:20:00 -0700",
-      "news": [
-        {
-          "title": "손태진, 견심까지 사로잡았다..오늘(21일) '개와 늑대의 시간2' 스페셜 MC 출격 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/GZTDGODDGI2WGNBXGJTDEZBZHA/"
-        },
-        {
-          "title": "손태진, 오늘 ‘개늑시2’ 스페셜 MC 2번째 출격",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610211741003"
-        },
-        {
-          "title": "손태진, '개와 늑대의 시간2' 스페셜 MC…음악방송·라디오·예능까지 접수",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014505"
-        }
-      ]
-    },
-    {
-      "title": "노동조합",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 13:20:00 -0700",
-      "news": [
-        {
-          "title": "진중권 “추미애, 말실수 아냐…소방 공무원을 흡혈충으로 본 것”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625037"
-        },
-        {
-          "title": "추미애·부승찬 '경고'‥잇단 설화에 자성론",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859782_37012.html"
+          "title": "韓 축구 오랜만에 희소식! 아시안게임 메달→17위 껑충, WC 챔피언 스페인 1위 사수...FIFA 여자 랭킹 발표",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E9%9F%93-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%80%E1%85%AE-%E1%84%8B%E1%85%A9%E1%84%85%E1%85%A2%E1%86%AB%E1%84%86%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A6-%E1%84%92%E1%85%B4%E1%84%89%E1%85%A9%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%8B%E1%85%A1%E1%84%89%E1%85%B5%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B7-%E1%84%86%E1%85%A6%E1%84%83%E1%85%A1%E1%86%AF%E2%86%9217%E1%84%8B%E1%85%B1-%E1%84%81%E1%85%A5%E1%86%BC%E1%84%8E%E1%85%AE%E1%86%BC-wc-%E1%84%8E%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AB-%E1%84%89%E1%85%B3%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB-1%E1%84%8B%E1%85%B1-%E1%84%89%E1%85%A1%E1%84%89%E1%85%AE--fifa-%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%A1-%E1%84%85%E1%85%A2%E1%86%BC%E1%84%8F%E1%85%B5%E1%86%BC-%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD/blt43bd93b53e655dec"
         }
       ]
     }
