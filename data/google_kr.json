@@ -1,11 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T04:15:20+00:00",
+  "fetched_at": "2026-10-21T05:10:22+00:00",
   "items": [
     {
-      "title": "동탄 신도시",
+      "title": "천무 다연장로켓",
+      "approx_traffic": "1000+",
+      "published": "Tue, 20 Oct 2026 21:00:00 -0700",
+      "news": [
+        {
+          "title": "천무 샀던 폴란드, 이번엔 韓 탄도미사일까지…사거리 290㎞ 의미는? [밀리터리+]",
+          "source": "나우뉴스",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261020601014"
+        },
+        {
+          "title": "사거리 290km 한국산 탄도탄 안은 폴란드…동유럽 타격 지형 바꾼다",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610210945217472fbbec65dfb_1"
+        },
+        {
+          "title": "스페인 SILAM 사업, 어디로 가나…한화 천무, 유럽 시장서 대안 부상",
+          "source": "유스연합",
+          "url": "https://www.youthassembly.kr/news/1012955"
+        }
+      ]
+    },
+    {
+      "title": "항공기",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 21:00:00 -0700",
+      "news": [
+        {
+          "title": "카펫 들었더니 ’으악’…日항공기서 40㎝ 줄무늬뱀 발견",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610210935352Kw"
+        },
+        {
+          "title": "“조종석 발밑에서 뭔가 꿈틀” JAL비행기 ‘결항’ 시킨 정체불명 동물…항공기 위협하는 불청객들",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610201018001"
+        },
+        {
+          "title": "\"파일럿이 발견\" 항공기 결항…카펫 들추자 '꿈틀'",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807440"
+        }
+      ]
+    },
+    {
+      "title": "캐시워크 정답",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 21:00:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 캐시워크 돈버는퀴즈 정답 10월 21일",
+          "source": "BNT뉴스",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610210005"
+        },
+        {
+          "title": "픽스 온풍기 캐시워크 돈 버는 퀴즈, 정답은?",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261020064915108"
+        },
+        {
+          "title": "[캐시워크 종합] 10월 19일 월요일 오전 11시 현재 출제되고 있는 모든 문제들의 정답은?",
+          "source": "비즈월드",
+          "url": "https://www.bizwnews.com/news/articleView.html?idxno=149243"
+        }
+      ]
+    },
+    {
+      "title": "한국토지주택공사",
       "approx_traffic": "500+",
+      "published": "Tue, 20 Oct 2026 20:50:00 -0700",
+      "news": [
+        {
+          "title": "극동건설, 'LH 참여' 시흥동 정비사업 수주…\"수익·안정 동시에\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/20/2026102011031275209"
+        },
+        {
+          "title": "극동건설, 서울 금천구 LH참여형 가로주택정비사업 수주 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/21/FYMZMNVZLVH7RJ5NIDJHNQ6QVA/"
+        },
+        {
+          "title": "극동건설, 서울 시흥동 가로주택정비사업 수주…수도권 정비사업 공략 확대",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261020500282"
+        }
+      ]
+    },
+    {
+      "title": "성과급",
+      "approx_traffic": "2000+",
+      "published": "Tue, 20 Oct 2026 20:40:00 -0700",
+      "news": [
+        {
+          "title": "\"삼전닉스처럼\"...영업익 15% 보너스 요구한 대만 마이크론, 파업한다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/20/2026102013583724078"
+        },
+        {
+          "title": "\"마이크론 파업 예고…삼성·SK, 메모리 공급 주도권 커진다\"-KB",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102147966"
+        },
+        {
+          "title": "“영업익 15% 성과급 달라” 마이크론 대만 노조 22일 파업",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20103959"
+        }
+      ]
+    },
+    {
+      "title": "붉은사막",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 20:40:00 -0700",
+      "news": [
+        {
+          "title": "[공지사항] 미지의 여정 DLC 콘텐츠 소개 | 붉은사막",
+          "source": "펄어비스 공식 홈페이지",
+          "url": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice/Detail?_boardNo=137"
+        },
+        {
+          "title": "펄어비스, '붉은사막' 첫 DLC '미지의 여정' 프리뷰 영상 공개…30일 글로벌 출시",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261021133754"
+        },
+        {
+          "title": "\"바다의 협객 클리프 나가신다\"…붉은사막, 대양으로",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1704067/%EB%B0%94%EB%8B%A4-%ED%98%91%EA%B0%9D-%ED%81%B4%EB%A6%AC%ED%94%84-%EB%82%98%EA%B0%80%EC%8B%A0%EB%8B%A4%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89-%EB%8C%80-2026"
+        }
+      ]
+    },
+    {
+      "title": "무궁화호",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 20:30:00 -0700",
+      "news": [
+        {
+          "title": "부산서 70대 남성 무궁화호 열차에 치여 숨져···한때 운행 중단",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610210913001"
+        },
+        {
+          "title": "부산 사상역 인근 선로서 70대 남성 무궁화호에 치여 사망",
+          "source": "부산일보",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026102109413096136"
+        },
+        {
+          "title": "경부선 사상역서 열차에 치여 1명 숨져…한때 지연 운행",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690884"
+        }
+      ]
+    },
+    {
+      "title": "원주시",
+      "approx_traffic": "100+",
+      "published": "Tue, 20 Oct 2026 20:30:00 -0700",
+      "news": [
+        {
+          "title": "원주 반계리 은행나무 축제 26일 개막…황금빛으로 물든 고목",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021059400062"
+        },
+        {
+          "title": "\"단풍 절정\"…원주 반계리 은행나무 축제 26일 개막",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834264"
+        },
+        {
+          "title": "원주 반계리 은행나무 실시간 영상 공개…단풍 명소 방문 편의 높인다",
+          "source": "강원도민일보",
+          "url": "https://www.kado.net/news/articleView.html?idxno=2079243"
+        }
+      ]
+    },
+    {
+      "title": "ai 에이전트",
+      "approx_traffic": "200+",
+      "published": "Tue, 20 Oct 2026 20:20:00 -0700",
+      "news": [
+        {
+          "title": "[AI와 디지털전환] AI 대중화 시대, AI 전문 기업을 키워야 하는 이유",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261020000078"
+        },
+        {
+          "title": "아웃시스템즈 \"AI 에이전트 운영 자신감 높지만 충돌 대응 준비 부족\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261021133930"
+        },
+        {
+          "title": "“모델보다 데이터·분류체계 먼저 설계해야”",
+          "source": "디지털데일리",
+          "url": "https://www.ddaily.co.kr/page/view/2026102015245541846"
+        }
+      ]
+    },
+    {
+      "title": "동탄 신도시",
+      "approx_traffic": "1000+",
       "published": "Tue, 20 Oct 2026 20:10:00 -0700",
       "news": [
         {
@@ -22,167 +220,6 @@
           "title": "포스코이앤씨, 화성 ‘아크메르 동탄’ 1808가구 분양…26일 청약",
           "source": "브릿지경제",
           "url": "https://www.viva100.com/article/20261019501103"
-        }
-      ]
-    },
-    {
-      "title": "태풍 참피 경로",
-      "approx_traffic": "20000+",
-      "published": "Tue, 20 Oct 2026 20:00:00 -0700",
-      "news": [
-        {
-          "title": "'슈퍼태풍 참피' 한·일 사이로? 美 JTWC 예측 경로 보니",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6859272_36918.html"
-        },
-        {
-          "title": "북상하는 초강력 태풍 ‘참피’…26일 제주도 직접 영향권 들까?",
-          "source": "헤드라인제주",
-          "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600786"
-        },
-        {
-          "title": "제주해경, 연안 안전사고 위험 ‘주의보’ 발령",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=844918"
-        }
-      ]
-    },
-    {
-      "title": "대왕암공원",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 20:00:00 -0700",
-      "news": [
-        {
-          "title": "울산 동구, ‘2026 해파랑길 힐링 페스타’ 오는 24일 개최",
-          "source": "울산종합일보",
-          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065585322587716"
-        },
-        {
-          "title": "팜파스 물든 울산 대왕암 걷는다…\"24일 힐링페스타\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261019_0003831565"
-        },
-        {
-          "title": "울산 동구 '해파랑길 힐링 페스타' 24일 개최…걷기 행사·공연",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/ulsan/6324179"
-        }
-      ]
-    },
-    {
-      "title": "전략적 팀 전투",
-      "approx_traffic": "100+",
-      "published": "Tue, 20 Oct 2026 20:00:00 -0700",
-      "news": []
-    },
-    {
-      "title": "용인 fc",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 20:00:00 -0700",
-      "news": [
-        {
-          "title": "'근무 태만 의혹' 이동국 용인FC 디렉터, 국정감사 불출석... 구단 \"출근 기록 증빙 자료 모두 제출\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/21/2026102110453587558"
-        },
-        {
-          "title": "[단독] 한 달에 한두 번 출근, 회의도 불참 의혹…이동국 용인FC ‘근무 태만’ 논란",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12324028"
-        },
-        {
-          "title": "이동국, 용인FC 근무 태만 의혹…비상근 계약·업무 수행 해명",
-          "source": "싱글리스트",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=775129"
-        }
-      ]
-    },
-    {
-      "title": "전기 자동차",
-      "approx_traffic": "5000+",
-      "published": "Tue, 20 Oct 2026 19:50:00 -0700",
-      "news": [
-        {
-          "title": "현대차 中 전략형 전기차 아이오닉 V '초라한' 성적…첫달 판매 '28대'",
-          "source": "더구루",
-          "url": "https://theguru.co.kr/news/article.html?no=108575"
-        },
-        {
-          "title": "2000만원대 아이오닉V, 中 CATL 열폭주 기술 품었다",
-          "source": "디일렉",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=63691"
-        }
-      ]
-    },
-    {
-      "title": "spurs vs thunder",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 19:50:00 -0700",
-      "news": [
-        {
-          "title": "Live Updates: Top moments, highlights and stats from our season tipoff tripleheader on NBC and Peacock",
-          "source": "NBA.com",
-          "url": "https://www.nba.com/news/live-updates-nba-tip-off-tripleheader"
-        },
-        {
-          "title": "Wembanyama, Spurs face Thunder in heavyweight season opener",
-          "source": "San Antonio Express-News",
-          "url": "https://www.expressnews.com/sports/spurs/article/spurs-thunder-western-conference-heavyweights-22484367.php"
-        },
-        {
-          "title": "The Spurs have enough to take the West’s top seed from OKC, and Utah will crash the field",
-          "source": "Air Alamo",
-          "url": "https://airalamo.com/the-spurs-have-enough-to-take-the-west-s-top-seed-from-okc-and-utah-will-crash-the-field"
-        }
-      ]
-    },
-    {
-      "title": "금융자산",
-      "approx_traffic": "500+",
-      "published": "Tue, 20 Oct 2026 19:40:00 -0700",
-      "news": [
-        {
-          "title": "메리츠증권, 옵티미즘과 토큰화 금융자산 사업 협력",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261021000035"
-        },
-        {
-          "title": "강병하 메리츠證 상무 \"디지털 자산, 제도권 금융으로…韓 아직 늦지 않아\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/general-stock/6327148"
-        },
-        {
-          "title": "메리츠증권, 옵티미즘과 토큰화 금융자산 협력",
-          "source": "주간한국",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7189959"
-        }
-      ]
-    },
-    {
-      "title": "에버랜드",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 19:40:00 -0700",
-      "news": []
-    },
-    {
-      "title": "서승재",
-      "approx_traffic": "200+",
-      "published": "Tue, 20 Oct 2026 19:40:00 -0700",
-      "news": [
-        {
-          "title": "서승재-김원호 16개월 만에 정상 뺏겼다…인도네시아에 'ELO 레이팅' 역전 허용→\"印尼 남복 3년 만에 고지 탈환\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014474"
-        },
-        {
-          "title": "\"韓 세계 1위, 8번 무너졌다\"…우승 없는 서승재-김원호, 中 잘 잡는데 동남아에 와르르→\"그들의 지배가 끝나는가\" 현지 매체도 관심",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2209237"
-        },
-        {
-          "title": "‘슬럼프에 빠진 세계 1위, 이번에는 다를까?’ 김원호-서승재 조, 프랑스오픈 1회전 30분 만에 한일전 이겼다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/21/202610210453777824O"
         }
       ]
     }
