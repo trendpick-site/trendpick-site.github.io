@@ -1,17 +1,105 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T23:07:24+00:00",
+  "fetched_at": "2026-10-22T23:35:57+00:00",
   "items": [
+    {
+      "title": "상속",
+      "approx_traffic": "5000+",
+      "published": "Thu, 22 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "서울 집 상속인 8000명 육박...강남·5060이 '최다'",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610221055296251"
+        },
+        {
+          "title": "부동산 꽁꽁 묶이자…‘강남 50·60 상속인’ 쑥 늘었다",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02781446645615544"
+        },
+        {
+          "title": "\"파느니 물려줄게\"…강남 사는 50·60 부모들의 상속 행렬",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102276126"
+        }
+      ]
+    },
+    {
+      "title": "테오스카 에르난데스",
+      "approx_traffic": "2000+",
+      "published": "Thu, 22 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "“다저스 노쇠화 모두 알고 있잖아”…특급 유망주 기용 절실! 그런데 오타니·테오스카·터커 있다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261021/134884491/1"
+        },
+        {
+          "title": "충격! “김혜성 결국 다저스 떠난다” 美 트레이드 방출 가능성 제기 왜? “다저스 좋아한다” 고백에도 불안한 입지 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/22/202610220730776386O"
+        },
+        {
+          "title": "김혜성 아니었다면 다저스 축복의 트레이드 없었다…떠난 선수는 야구인생 최대 위기 \"한번도 홈런 10개 넘어선적 없다\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014879"
+        }
+      ]
+    },
+    {
+      "title": "금양",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "'상폐 기로' 금양, 데이터센터 진출 위한 물적분할 안건 가결",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6593849"
+        },
+        {
+          "title": "금양 물적분할, 노르웨이 국부펀드 '반대'…주주수익·투명성 원칙 제시",
+          "source": "KPI뉴스",
+          "url": "https://kpinews.kr/newsView/1065541083271784"
+        },
+        {
+          "title": "[뭐라노] 금양 부활할까",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/contents/newsbody.asp?code=0200&key=20261020.99099005519"
+        }
+      ]
+    },
+    {
+      "title": "아성다이소",
+      "approx_traffic": "1000+",
+      "published": "Thu, 22 Oct 2026 15:00:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 4000억 투입 다이소 세종허브센터 시운전…내년 4월 가동",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/distribution/6329002"
+        },
+        {
+          "title": "아성다이소, 2149억원 들여 양주 물류허브 구축... 2029년 초 가동 목표",
+          "source": "민중의소리",
+          "url": "https://vop.co.kr/A00001697257.html"
+        },
+        {
+          "title": "“다이소엔 없죠?” 1만원 에어프라이어 꺼낸 이마트…초저가 '빈틈' 찔렀다[르포]",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04460806645615544&mediaCodeNo=257"
+        }
+      ]
+    },
     {
       "title": "연금",
       "approx_traffic": "5000+",
       "published": "Thu, 22 Oct 2026 15:00:00 -0700",
       "news": [
         {
-          "title": "결혼이 가른 55세 친구의 엇갈린 노후…국민연금의 낡은 구조",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021128200530"
+          "title": "남편 소득 있다고 국민연금 못 들던 전업주부, 가입 길 열린다",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/rights/1283604.html"
         },
         {
           "title": "전업주부도 자기 이름으로 국민연금…무소득 배우자 가입 문 넓힌다[Pick코노미]",
@@ -19,15 +107,37 @@
           "url": "https://www.sedaily.com/article/20105127"
         },
         {
-          "title": "남편 소득 있다고 국민연금 못 들던 전업주부, 가입 길 열린다",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/rights/1283604.html"
+          "title": "결혼이 가른 55세 친구의 엇갈린 노후…국민연금의 낡은 구조",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021128200530"
+        }
+      ]
+    },
+    {
+      "title": "에어쇼",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 15:00:00 -0700",
+      "news": [
+        {
+          "title": "우주항공방위산업전으로 판 키운 2026 사천에어쇼 개막",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202610222109266840_005.html"
+        },
+        {
+          "title": "사천에어쇼 국제에어쇼로 도약…개막식에 KF-21 등 국산 항공기 시범비행",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625618"
+        },
+        {
+          "title": "[포토뉴스]블랙이글스가 남긴 ‘사랑의 하트 핑~’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/20261022221300A"
         }
       ]
     },
     {
       "title": "주우재",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Thu, 22 Oct 2026 14:50:00 -0700",
       "news": [
         {
@@ -70,46 +180,24 @@
       ]
     },
     {
-      "title": "조선소",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "[단독] HD현대, 美 키윗과 합작법인 세운다… '마스가 1호 펀드' 수혜 유력",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610229024i"
-        },
-        {
-          "title": "HD현대, 미국 건설사와 합작법인 추진…선박 블록 야드 구축",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022187600003"
-        },
-        {
-          "title": "HD현대, 美 조선소 인수 대신 직접 건립에 무게… 현지 기업과 합작법인 추진",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/10/22/AARH6D6C3NGV3MNLHVFYXM2XOM/"
-        }
-      ]
-    },
-    {
       "title": "weather",
       "approx_traffic": "2000+",
       "published": "Thu, 22 Oct 2026 14:40:00 -0700",
       "news": [
         {
-          "title": "WKRG Weather: Sunny, Warm, and a Great Weekend",
-          "source": "WKRG",
-          "url": "https://www.wkrg.com/top-stories/wkrg-weather-sunny-warm-and-a-great-weekend/"
+          "title": "Picture-perfect fall weather continues for Cincinnati",
+          "source": "WLWT",
+          "url": "https://www.wlwt.com/article/picture-perfect-fall-weather-continues-for-cincinnati/74223262"
         },
         {
-          "title": "Very quiet pattern continues!",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/news/videos/very-quiet-pattern-continues-032951257.html"
+          "title": "Plenty of sunshine ahead, but storms could return before Halloween",
+          "source": "FOX19 | Cincinnati",
+          "url": "https://www.fox19.com/2026/10/21/plenty-sunshine-ahead-storms-could-return-before-halloween/"
         },
         {
-          "title": "Clear and quiet weather continues this week | WHAS11 Weather Impact Forecast",
-          "source": "WHAS11",
-          "url": "https://www.whas11.com/video/weather/clear-and-quiet-weather-continues-this-week-whas11-weather-impact-forecast/417-e58a0bd8-072e-4e1b-bbfd-3356314087e0"
+          "title": "Cincinnati Weather Forecast Fog Sunshine And A Warm Weekend",
+          "source": "Hoodline",
+          "url": "https://hoodline.com/2026/10/fog-schmog-sunny-springlike-weekend-on-tap-for-cincinnati/"
         }
       ]
     },
@@ -132,94 +220,6 @@
           "title": "Синоптик Ильин: один из выходных в Петербурге испортят дожди",
           "source": "URA.RU",
           "url": "https://ura.news/news/1053138180"
-        }
-      ]
-    },
-    {
-      "title": "skhy",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "Apple vs. SK hynix: Which Tech Stock Is a Better Buy in 2026?",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-vs-sk-hynix-tech-165302345.html"
-        },
-        {
-          "title": "Apple (NASDAQ: AAPL) Vs. SK Hynix (OTC: SKHY): Stability Meets AI Growth In A Critical 2026 Tech Stock Showdown",
-          "source": "Foreign Policy Journal",
-          "url": "https://www.foreignpolicyjournal.com/2026/10/21/apple-nasdaq-aapl-vs-sk-hynix-otc-skhy-stability-meets-ai-growth-in-a-critical-2026-tech-stock-showdown/"
-        },
-        {
-          "title": "Apple vs. SK hynix: Which Tech Stock Is a Better Buy in 2026?",
-          "source": "The Motley Fool",
-          "url": "https://www.fool.com/coverage/better-buy/2026/10/21/apple-vs-sk-hynix-which-tech-stock-is-a-better-buy-in-2026/"
-        }
-      ]
-    },
-    {
-      "title": "김가영",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "‘퍼펙트큐’ 김가영은 한지은 꺾고 ‘원조퀸’ 임정숙은 정수빈에 0:2→3:2 대역전승 8강행[NH농협카드LPBA]",
-          "source": "mkbn.mk.co.kr",
-          "url": "https://mkbn.mk.co.kr/news/sports/12183564"
-        },
-        {
-          "title": "'0-12서 대역전 드라마' 조재호, 승부치기 끝에 PBA 64강행",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022060000007"
-        },
-        {
-          "title": "'당구 美女 스타, 무섭네' 정수빈, 데뷔 첫 우승 기세로 애버리지 2점 맹타",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6593983"
-        }
-      ]
-    },
-    {
-      "title": "중앙그룹",
-      "approx_traffic": "100+",
-      "published": "Thu, 22 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "[단독] ‘골프 중계 강자’ JTBC골프도 매물로… 중앙그룹 쪼개 팔기 가속 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/market_trend/2026/10/22/J5POP66CTZA6DM4UCYN7ES55MY/"
-        },
-        {
-          "title": "중앙그룹, JTBC골프 매물로…계열사 매각 ‘박차’",
-          "source": "시사저널",
-          "url": "https://www.sisajournal.com/news/articleView.html?idxno=391363"
-        },
-        {
-          "title": "한숨 돌린 중앙일보 채권투자자들…조기상환 가능성도",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/21/2026102180110.html"
-        }
-      ]
-    },
-    {
-      "title": "สภาพอากาศ",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "วิกฤต! น้ำในเขื่อนพุ่ง 83% จ่อล้นตลิ่ง กทม. - ภาคใต้ ระวังฝนตกหนัก",
-          "source": "bangkokbiznews",
-          "url": "https://www.bangkokbiznews.com/news/news-update/1257559"
-        },
-        {
-          "title": "อัปเดตประกาศกรมอุตุฯ ฉ.12 | 22 ตุลาคม 2569 เวลา 17.00 น. 📌 เปลี่ยนแปลงจากฉบับก่อน 🟠 22 ต.ค. ลดพื้นที่เตือนฝนหนัก 4 จังหวัด ได้แก่ สระแก้ว กระบี่ ตรัง และสตูล ส่วนวันที่ 23–25 ต.ค. พื้นที่เตือนยังคงเดิม พื้นที่ที่คาดว่าจะได้รับผลกระทบรายวัน 📅 22 ตุลาคม 2569 🟠 ฝนหนัก ภาคตะวันอ",
-          "source": "Facebook",
-          "url": "https://www.facebook.com/tmd.go.th/posts/%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%B8%E0%B8%AF-%E0%B8%8912-22-%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B2%E0%B8%84%E0%B8%A1-2569-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1700-%E0%B8%99-%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99-22-%E0%B8%95%E0%B8%84/1586837996821663/"
-        },
-        {
-          "title": "กรมอุตุนิยมวิทยา ประกาศฉบับ 11 เตือนฝนหนัก 22-25 ต.ค. 2569",
-          "source": "คลาวด์ปัง",
-          "url": "https://readthecloud.co/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2/"
         }
       ]
     }
