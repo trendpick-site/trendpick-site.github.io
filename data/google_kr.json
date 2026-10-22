@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T03:13:45+00:00",
+  "fetched_at": "2026-10-22T04:13:57+00:00",
   "items": [
     {
-      "title": "데이터 센터",
+      "title": "브래디 앤더슨",
       "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 19:10:00 -0700",
+      "published": "Wed, 21 Oct 2026 20:10:00 -0700",
       "news": [
         {
-          "title": "CJ대한통운 건설부문, KT클라우드 안산 AI데이터센터 공사 수주",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022056600003"
-        },
-        {
-          "title": "KT클라우드, 50MW 규모 '안산 AIDC' 착공…2029년 준공",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003836163"
-        },
-        {
-          "title": "KT 해킹 후유증에 3분기 실적 주춤, 박윤영 4분기부터 수익성 회복 '물꼬'",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449804"
-        }
-      ]
-    },
-    {
-      "title": "한국은행 기준금리",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 19:10:00 -0700",
-      "news": [
-        {
-          "title": "한은, 기준금리 연 3.0% 동결‥긴축 속도 조절",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6859857_36932.html"
-        },
-        {
-          "title": "한은 총재 \"재정 지속가능성 생각해야…국회 심사 엄격히\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022099300002"
-        },
-        {
-          "title": "[전문]한국은행 금융통화위원회 10월 통화정책방향",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003836516"
-        }
-      ]
-    },
-    {
-      "title": "kbs",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 19:00:00 -0700",
-      "news": [
-        {
-          "title": "KBS 'Munmu' Teaser Highlights King Munmu's Pledge to Protect Silla",
+          "title": "스테파니, 메이저리거 ‘23살 연상’ 美남친 언급..“술·담배 안하고 몸 단단” (‘노빠꾸’)",
           "source": "조선일보",
-          "url": "https://www.chosun.com/english/kpop-culture-en/2026/10/22/6J3XO3M2BFCKJHODNKNHIZU6Y4/"
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/21/HA4TOYJTHAZDCMRVMY3WCMTBGM/"
         },
         {
-          "title": "Munmu — Yang Hyun-min to Lee Ji-hoon Lead Tang Dynasty Power Struggle",
-          "source": "The Korea Daily",
-          "url": "https://en.koreadaily.com/munmu-tang-dynasty-power-struggle/"
+          "title": "'천상지희' 스테파니 \"23세 연상 美 남친, 집에서 옷 거의 안 입고 다닌다\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6327968"
         },
         {
-          "title": "'Munmu ()' Lee Hyun-wook: A preview of the anguish and fierce struggle of King Munmu, the 30th ruler of Silla",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/broadcast-drama/2026/10/19/2026101914454293286"
+          "title": "스테파니 \"23살 연상 美 남친, 세대차 없다…빚 갚아줄수 있지만 안 갚아줘\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014658"
         }
       ]
     },
     {
-      "title": "동탄신도시",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 18:50:00 -0700",
+      "title": "nba",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 20:10:00 -0700",
       "news": [
         {
-          "title": "\"국평 17억인데 싸다고?\"…서울도 아닌데 4만5000명 몰렸다 [주간이집]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102031886"
+          "title": "Kyrie Irving hints at retiring before early 40s. ‘Not the same NBA I fell in love with as a kid’ - The Athletic",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7705366/2026/10/19/kyrie-irving-nba-gambling-retire-mavericks/"
         },
         {
-          "title": "유모차 행렬에 연차 낸 직장인까지…‘아크메르 동탄’ 북적",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/economy/article/all/20261022/134888343/1"
+          "title": "Mavs Notes: Irving, Powell, Cisse, Injuries, Johnson",
+          "source": "Hoops Rumors",
+          "url": "https://www.hoopsrumors.com/2026/10/mavs-notes-irving-powell-cisse-injuries-johnson.html"
         },
         {
-          "title": "[부동산 AD] 동탄1신도시 중심에 초고층 하이엔드 주거단지 ‘아크메르 동탄’ 분양",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334688"
+          "title": "Mavericks' Kyrie Irving Has No Interest in Matching LeBron James’ Longevity",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/nba/mavericks/onsi/dallas-mavericks-kyrie-irving-no-interest-matching-lebron-james-longevity-"
         }
       ]
     },
     {
-      "title": "콜레스테롤",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 18:20:00 -0700",
+      "title": "북항친수공원",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 20:10:00 -0700",
       "news": [
         {
-          "title": "동화약품, 복합형 이상지질혈증 치료제 '프라바펜캡슐' 출시···환자 선택권 확대",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=352701"
+          "title": "“부캉아 왜 돌아왔니 ㅠㅠ”…먼 바다로 나간줄 알았더니 전날 밤 수로 재진입",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610220907001"
         },
         {
-          "title": "동화약품 ‘프라바펜캡슐’, 콜레스테롤·중성지방 한 캡슐에 선보여",
-          "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313695"
+          "title": "수로 밖 나간 상어 '부캉이' 다시 돌아왔다…외해 복귀 못 해",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022023800051"
         },
         {
-          "title": "동화약품 \"복합형 이상지질혈증 치료제 출시\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003836267"
+          "title": "부캉이 재진입… 해양생물전문가들 “외해 재유도가 최우선”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/animalpeople/human_animal/1283616.html"
         }
       ]
     },
     {
-      "title": "la 레이커스 대 골든 스테이트",
+      "title": "김혜성",
       "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 18:10:00 -0700",
+      "published": "Wed, 21 Oct 2026 20:00:00 -0700",
       "news": [
         {
-          "title": "Golden State Warriors vs Los Angeles Lakers | October 22, 2026 | NBA Matchup",
-          "source": "theScore",
-          "url": "https://www.thescore.com/nba/event/2462626?source=ticker_home"
+          "title": "\"다저스 선택 후회한 적 없다\" 했지만, 경쟁자 또 생기나...김혜성 거론도 안한 日 매체, \"센터 내야수 보강해야\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/22/202610211628770050O"
         },
         {
-          "title": "Aloha to a new season: Inside the Golden State Warriors’ week in Hawaii",
-          "source": "SF Weekly",
-          "url": "https://www.sfweekly.com/townnews/sport/aloha-to-a-new-season-inside-the-golden-state-warriors-week-in-hawaii/article_5d904923-bb82-4917-b649-e56351b10f6a.html"
+          "title": "투수 교체 타이밍 놓치더니, 대타까지 실패…또 소환된 '돌버츠', 스윕승 거둔 적장 생각은 달랐다?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/21/G44TANBZGAZGMNLGMIZDSNZUMY/"
         },
         {
-          "title": "Golden State Warriors vs. Los Angeles Lakers",
-          "source": "ESPN",
-          "url": "https://www.espn.com/watch/player/_/eventCalendarId/401909092"
+          "title": "“다저스 노쇠화 모두 알고 있잖아”…특급 유망주 기용 절실! 그런데 오타니·테오스카·터커 있다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261021/134884491/1"
         }
       ]
     },
     {
-      "title": "반도체산업",
+      "title": "문상철",
       "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 17:50:00 -0700",
+      "published": "Wed, 21 Oct 2026 20:00:00 -0700",
       "news": [
         {
-          "title": "SK하이닉스, '반도체의 날' 동탑산업훈장 등 5관왕",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022095000003"
+          "title": "‘끝내기 4회’ kt 문상철, 은퇴 선언 “뜨거운 응원 잊지 못할 것”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692399"
         },
         {
-          "title": "소부장 공급망에 기여…이준혁 회장 '금탑훈장'",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1178540"
+          "title": "’KT 창단 멤버’ 문상철, 은퇴 선언… 2027시즌 중 은퇴식 개최",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261022113704ukI"
         },
         {
-          "title": "[현장] 송재혁 삼성전자 사장 \"AI 반도체 호황, 한국에 새로운 기회…선제 투자 중요\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003835790"
+          "title": "[공식발표] ‘35세’ 안우진 킬러 전격 은퇴 선언, 창단 멤버 합류→12년 커리어 마침표 “위즈파크 함성, 평생 잊지 못할 것”",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896641"
         }
       ]
     },
     {
-      "title": "초코파이",
+      "title": "길바닥",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 19:50:00 -0700",
+      "news": [
+        {
+          "title": "“인도여행 후 실종?” 납치 의심 女 유튜버… ‘궁금한 이야기 Y’까지 나섰다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610220014003"
+        },
+        {
+          "title": "인도 여행 후 사라진 女유튜버 '길바닥'...결국 SBS가 찾아나섰다",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-22/202610220100141510009233"
+        },
+        {
+          "title": "인도 여행중 소식 끊인 女 유튜버…결국 방송서 취재 나섰다 [자막뉴스]",
+          "source": "채널A 뉴스",
+          "url": "https://ichannela.com/news/detail/000000556289.do"
+        }
+      ]
+    },
+    {
+      "title": "퇴직",
       "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 17:30:00 -0700",
+      "published": "Wed, 21 Oct 2026 19:40:00 -0700",
       "news": [
         {
-          "title": "오리온, '카스타드' 해외 인기에 생산라인 증설…연3천억원 규모",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022027300030"
+          "title": "\"내 노후자금 어쩌나\" 연금 개미들 눈물…12조 증발",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102167161"
         },
         {
-          "title": "한국에서 온 '고급 디저트'…중국·베트남서 대박 난 '오리온 카스타드' 생산라인 증설",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102208025545397"
+          "title": "iM증권, 3분기 퇴직연금 IRP 수익률 20.8%…증권사 1위",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03726086645615544"
         },
         {
-          "title": "\"세계인이 찾는 카스타드\" 오리온, 韓·베트남·인도 생산라인 증설",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003836001"
+          "title": "우리은행, 3분기 퇴직연금 DC 수익률 1위",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261022000041"
         }
       ]
     },
     {
-      "title": "claude duet",
+      "title": "이창훈",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 19:40:00 -0700",
+      "news": [
+        {
+          "title": "이창훈, 17세 연하 아내와 첫 만남…\"심형탁 소개로 만나\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834985"
+        },
+        {
+          "title": "이창훈 \"주식 때문에 스트레스…홀랑 다 날렸다\" 투자 실패 고백",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6327354"
+        },
+        {
+          "title": "오은영 ‘과보호’ 경고 결국…이창훈 “고2 딸, 전자레인지도 못 돌려” 후회",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12182438"
+        }
+      ]
+    },
+    {
+      "title": "lakers vs warriors",
       "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 17:30:00 -0700",
+      "published": "Wed, 21 Oct 2026 19:40:00 -0700",
       "news": [
         {
-          "title": "Anthropic unveils Claude Duet AI agent app",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/anthropic-unveils-claude-duet-ai-agent-app-2026-10-21/"
+          "title": "Warriors vs Lakers LIVE Updates, Third quarter begins (52-66)",
+          "source": "VAVEL.com",
+          "url": "https://www.vavel.com/en-us/nba/2026/10/21/1276234-warriors-vs-lakers-live-score-nba.html"
         },
         {
-          "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html"
+          "title": "Stephen Curry with 16 Points vs. Los Angeles Lakers",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/watch/video/stephen-curry-with-16-points-vs-los-angeles-lakers"
         },
         {
-          "title": "Anthropic’s New Agent Has No Cute Mascot, and You Probably Can’t Try It Yet",
-          "source": "Gizmodo",
-          "url": "https://gizmodo.com/anthropics-new-agent-has-no-cute-mascot-and-you-probably-cant-try-it-yet-2000829184"
+          "title": "!$>[𝐋𝐈𝐕𝐄!#NBA]* Golden State Warriors vs Los Angeles Lakers LIVE Free NBA ON Tv Channel on 22 October 2026",
+          "source": "Fabryka Norblina",
+          "url": "https://fabrykanorblina.pl/wp-content/uploads/spacer/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2Jlbi1zdG9ja3MuZ2l0aHViLmlvL0JhbC9uZXdzL3NtNnMueG1sIi8+PC9rcnBhbm8+&id=video-warriors-v--lakers-liv-768"
         }
       ]
     },
     {
-      "title": "독도",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 17:20:00 -0700",
+      "title": "순직",
+      "approx_traffic": "2000+",
+      "published": "Wed, 21 Oct 2026 19:30:00 -0700",
       "news": [
         {
-          "title": "'독도 영토주권 되새긴다'…경북도 독도의 달 기념행사",
+          "title": "(설명자료) 소방청은 철저한 사고 원인 조사와 현장 지휘역량 강화를 통해 소방대원의 안전 확보에 최선을 다하겠습니다.",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148973976"
+        },
+        {
+          "title": "유진그룹, 부천 화재 순직 소방관 유족에 위로금·학자금",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021122100053"
-        },
-        {
-          "title": "문서·지도부터 체험까지… 독립기념관, 찾아가는 독도학교",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3442213"
-        },
-        {
-          "title": "2028년 울릉도에 ‘독도교육원’ 문 연다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261020/134877269/2"
+          "url": "https://www.yna.co.kr/view/AKR20261022067600003"
         }
       ]
     }
