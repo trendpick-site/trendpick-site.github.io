@@ -1,8 +1,146 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T11:11:21+00:00",
+  "fetched_at": "2026-10-22T11:43:39+00:00",
   "items": [
+    {
+      "title": "최동환",
+      "approx_traffic": "2000+",
+      "published": "Thu, 22 Oct 2026 03:40:00 -0700",
+      "news": [
+        {
+          "title": "SSG 방출생도, LG에 방출 요청 투수도, KT서 칼바람 맞았다…선수 10명 재계약 불발",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014765"
+        },
+        {
+          "title": "KT, 조이현·최동환 등 10명에 방출 통보…선수단 정리",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003836798"
+        },
+        {
+          "title": "프로야구 KT, 조이현·최동환 등 10명 방출…선수단 정리",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6328678"
+        }
+      ]
+    },
+    {
+      "title": "시험",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 03:40:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 'AI 안경' 쓰고 국가자격증 시험 본 20대 수험생 송치",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html"
+        },
+        {
+          "title": "AI 안경 쓰고 국가자격증 시험 본 20대 송치",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692837"
+        },
+        {
+          "title": "[단독] 연세대, ‘AI 안경 수험생’ 형사고발 검토…내년 응시자격도 정지",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/schooling/1283636.html"
+        }
+      ]
+    },
+    {
+      "title": "멜론티켓",
+      "approx_traffic": "2000+",
+      "published": "Thu, 22 Oct 2026 03:20:00 -0700",
+      "news": [
+        {
+          "title": "멜론 티켓, 동시 접속 제한 \"한 개의 계정으로 한 개만\"…빌리·NCT 위시 콘서트 예매 적용",
+          "source": "TopStarNews",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16253843"
+        },
+        {
+          "title": "멜론, MMA2026 1차 예매 오픈",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610200458003"
+        },
+        {
+          "title": "'2026 MMA', 오늘(22일) 2차 티켓팅 시작…TOP10 투표 현재 1위 리센느-2위 임영웅",
+          "source": "TopStarNews",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16255084"
+        }
+      ]
+    },
+    {
+      "title": "투수",
+      "approx_traffic": "2000+",
+      "published": "Thu, 22 Oct 2026 03:20:00 -0700",
+      "news": [
+        {
+          "title": "MLB 다저스 오타니, 수술 안 하고 2027년 투타 겸업 준비",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022138800007"
+        },
+        {
+          "title": "\"오타니 수술 필요없다!\" LAD 사장 나서서 '수술설' 전면 부인...오타니 투타겸업 재확인, \"신중히 접근한다\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896538"
+        },
+        {
+          "title": "\"오타니 수술 없다\" 4번째 다치고도 또! 못말리는 이도류 고집, '운명의 2027년' 다저스 명운도 달렸다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/22/2026102207145469323"
+        }
+      ]
+    },
+    {
+      "title": "엠카",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 03:20:00 -0700",
+      "news": [
+        {
+          "title": "아시아 못 넘는 아이브, 스타쉽 해결책 있나 [엔터그알]",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/article/2026101909233582141"
+        },
+        {
+          "title": "서울시, 관광명소에 K팝 입힌다…\"DDP에 아이브 컴백 영상\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021040600004"
+        },
+        {
+          "title": "황금 4세대 vs 슈퍼 루키, 올가을 여성 그룹 빅매치 성사",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261021/134873818/1"
+        }
+      ]
+    },
+    {
+      "title": "법원",
+      "approx_traffic": "500+",
+      "published": "Thu, 22 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "[속보] 전국 법원 전산망 장애...업무 차질 우려",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/10/22/DCCDU4VGFFHOXE6NXGUMZ577BI/"
+        },
+        {
+          "title": "재판사무시스템 등에 일시적 느림현상 발생…\"전체 서버 확인 중\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/court-prosecution/6329067"
+        },
+        {
+          "title": "전국 법원 전산망 장애 발생 뒤 복구…“해킹과 무관”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692717"
+        }
+      ]
+    },
+    {
+      "title": "颱風動態",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 03:10:00 -0700",
+      "news": []
+    },
     {
       "title": "올림픽파크 포레온",
       "approx_traffic": "100+",
@@ -32,28 +170,6 @@
       "news": []
     },
     {
-      "title": "hd현대",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 02:40:00 -0700",
-      "news": [
-        {
-          "title": "HD현대중공업, 세계 최대 암모니아 추진선 건조…11월 인도",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261022/134892162/1"
-        },
-        {
-          "title": "암모니아 추진선 상용화 속도 내는 HD현대…엔진·건조 기술 경쟁력 강화",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=352778"
-        },
-        {
-          "title": "77층 아파트 높이만 한 선박…HD현대重, 세계 최대 암모니아 추진선 건조",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261022140206"
-        }
-      ]
-    },
-    {
       "title": "그랜드 테 프트 오토 vi",
       "approx_traffic": "100+",
       "published": "Thu, 22 Oct 2026 02:40:00 -0700",
@@ -72,138 +188,6 @@
           "title": "'GTA 6'의 사운드를 책임질 저스티스(Justice)",
           "source": "Hypebeast.KR",
           "url": "https://hypebeast.kr/2026/10/rockstar-games-grand-theft-auto-vi-launch-trailer-justice-flower-in-a-hurricane-stream-info"
-        }
-      ]
-    },
-    {
-      "title": "저작권",
-      "approx_traffic": "100+",
-      "published": "Thu, 22 Oct 2026 02:40:00 -0700",
-      "news": [
-        {
-          "title": "함께하는음악저작권협회, '매장 음악 이용내역 확인 서비스' 정식 개시",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450016"
-        },
-        {
-          "title": "함께하는음악저작권협회, 전국 9만개 매장 음악 이용 내역 확인 서비스 도입",
-          "source": "에너지경제신문",
-          "url": "https://www.ekn.kr/web/view.php?key=20261022028000026"
-        },
-        {
-          "title": "음저협, 'AI 차세대 정보시스템' 구축 착수…저작권료 분배 투명성 강화",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261021000279"
-        }
-      ]
-    },
-    {
-      "title": "대형주",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 02:20:00 -0700",
-      "news": [
-        {
-          "title": "\"내년은 삼전닉스보다 소부장…'대형주 7·소부장 3' 담아라\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610228673i"
-        },
-        {
-          "title": "“자금 얼어붙었다”…연이은 AI ETF 출시에도 투자자는 ‘관망’",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12090645"
-        },
-        {
-          "title": "KB자산운용, 'RISE 반도체소부장액티브' 출시",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261020000039"
-        }
-      ]
-    },
-    {
-      "title": "래미안 원펜타스",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 02:20:00 -0700",
-      "news": [
-        {
-          "title": "'이혜훈 논란' 원펜타스서 부정청약 4가구 계약취소 수순",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834749"
-        },
-        {
-          "title": "“당첨되면 40억 대박”…반포 원펜타스, 역대급 ‘줍줍’ 4가구 풀린다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12182600"
-        },
-        {
-          "title": "'로또 청약' 반포 원펜타스, 시세차익 40억짜리 4가구 나온다",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/10/20/2026102002620.html"
-        }
-      ]
-    },
-    {
-      "title": "안성훈",
-      "approx_traffic": "10000+",
-      "published": "Thu, 22 Oct 2026 02:00:00 -0700",
-      "news": [
-        {
-          "title": "안성훈, ‘미스터트롯2’ 상금 5억으로 부모님 집 마련…“카드도 못 써”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261021/134881885/1"
-        },
-        {
-          "title": "'미스터트롯2 진' 안성훈, 가슴 아픈 가정사 고백..\"父 사업 실패 빚 10억\" ('편스토랑') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/MJRTAZJXMUZDEYJRME4TONBRMU/"
-        },
-        {
-          "title": "안성훈 \"중학생 때 아버지 사업 실패…빚 10억\" 눈물 고백 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/entertainment/2026/10/22/2026102213472795098"
-        }
-      ]
-    },
-    {
-      "title": "빈곤",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 02:00:00 -0700",
-      "news": [
-        {
-          "title": "LF 킨, '옥스팜 트레일워커' 동참…임직원 320㎞ 걷고 기부",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003836008"
-        },
-        {
-          "title": "[체험기] 옥스팜 트레일워커 서울, 함께라면 20km 완보도 웃음꽃과 함께",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449709"
-        },
-        {
-          "title": "LF 킨, 세계 빈곤 문제 행사에 파트너사로 참여",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610220923044703"
-        }
-      ]
-    },
-    {
-      "title": "철도",
-      "approx_traffic": "100+",
-      "published": "Thu, 22 Oct 2026 02:00:00 -0700",
-      "news": [
-        {
-          "title": "“노인 무임수송 연령 높여도 서울지하철 2034년이면 완전자본잠식”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610221337001"
-        },
-        {
-          "title": "“65살 이상 지하철 무료 승차, 의료비 절감 등 연 6506억원 편익”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/area/area_general/1283716.html"
-        },
-        {
-          "title": "인천도시철도 무임수송 손실 4년 새 2.2배…전국 노사 공동 대응",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038548"
         }
       ]
     }
