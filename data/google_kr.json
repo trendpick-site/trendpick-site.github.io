@@ -1,7 +1,7 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T16:11:52+00:00",
+  "fetched_at": "2026-10-22T16:45:44+00:00",
   "items": [
     {
       "title": "자격증",
@@ -9,19 +9,19 @@
       "published": "Thu, 22 Oct 2026 07:50:00 -0700",
       "news": [
         {
-          "title": "[단독] 'AI 안경' 쓰고 국가자격증 시험 본 20대 수험생 송치",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html"
-        },
-        {
           "title": "수능도 ‘AI 안경’ 비상인데…‘육안 판별’ 논란",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8692912"
         },
         {
-          "title": "[단독] 연세대, ‘AI 안경 수험생’ 형사고발 검토…내년 응시자격도 정지",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/schooling/1283636.html"
+          "title": "[단독] 'AI 안경' 쓰고 국가자격증 시험 본 20대 수험생 송치",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html"
+        },
+        {
+          "title": "[AFTER 8 SPECIAL] 문제 비추자 \"정답 3번\" 직접 써보니 '충격'…걸려도 버젓이 다른 대학으로? AI 안경 '공포'",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806145"
         }
       ]
     },
@@ -49,7 +49,7 @@
     },
     {
       "title": "이혼",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Thu, 22 Oct 2026 07:20:00 -0700",
       "news": [
         {
@@ -102,14 +102,14 @@
           "url": "https://www.chosun.com/sports/football/2026/10/22/GI4WGODDGUZTAN3CHFRTINZQGQ/"
         },
         {
+          "title": "\"이러니 베트남한테 지는 것\" 박항서 감독 소신 발언! 태국 팬심 들끓는데…\"승격 못해도 절대 안 자른다\" 구단주 공개 신임",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2210507"
+        },
+        {
           "title": "[국제/축구] 태국 클럽 칸차나부리 파워 FC, 박항서 감독 경질설 일축… \"장기 프로젝트로 팀 구축 중\"",
           "source": "굿모닝베트남미디어",
           "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=84171"
-        },
-        {
-          "title": "박항서 감독의 미래는 태국 대표팀 덕분에 보장되어 있다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/hlv-park-hang-seo-duoc-doi-bong-thai-lan-dam-bao-tuong-lai"
         }
       ]
     },
@@ -119,11 +119,6 @@
       "published": "Thu, 22 Oct 2026 06:40:00 -0700",
       "news": [
         {
-          "title": "베트남을 상대로 비신사적인 골을 넣은 선수는 선수 생활을 끝내는 타격을 입었다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/cau-thu-ghi-ban-thieu-fair-play-vao-luoi-viet-nam-gap-cu-soc-su-nghiep"
-        },
-        {
           "title": "전 축구선수 故강지용 아내 저격글...\"거짓말한 당신들, 늘 부끄럽길\" - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/society/2026/10/22/2026102205252495794"
@@ -132,6 +127,11 @@
           "title": "\"사는 동안 늘 부끄럽길\"...'이숙캠' 故 강지용 아내, SNS에 의미심장 글",
           "source": "파이낸셜뉴스",
           "url": "https://www.fnnews.com/news/202610212150462507"
+        },
+        {
+          "title": "故강지용 아내, 남편 비보 후 작심 비판…“벼랑 끝으로 밀어붙여” 두렵지 않다",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12181376"
         }
       ]
     },
@@ -207,19 +207,19 @@
       "published": "Thu, 22 Oct 2026 05:50:00 -0700",
       "news": [
         {
-          "title": "'경마 통산 1천승' 서승운 기수 \"처음부터 다시 시작\"",
+          "title": "기수 못탔는데 말 출발시키곤 '경주불성립'…마사회 16억 환불",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022125600007"
+          "url": "https://www.yna.co.kr/view/AKR20261022081200001"
         },
         {
-          "title": "‘경마 1000승의 사나이’ 서승운 “처음부터 다시 시작”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625489"
+          "title": "\"7번 말 뭐야\" 기수 못 탔는데 질주…마사회 16억 환불",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810151&plink=ORI&cooper=ATOM"
         },
         {
-          "title": "렛츠런파크 부산경남 서승운 기수, 15년 만에 1002승 달성 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/10/22/2026102214150285344"
+          "title": "기수 없는 경주마 출발에 경주불성립…16억 마권 환불 소동",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3730087"
         }
       ]
     }
