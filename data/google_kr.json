@@ -1,8 +1,74 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T15:17:08+00:00",
+  "fetched_at": "2026-10-22T16:11:52+00:00",
   "items": [
+    {
+      "title": "자격증",
+      "approx_traffic": "500+",
+      "published": "Thu, 22 Oct 2026 07:50:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 'AI 안경' 쓰고 국가자격증 시험 본 20대 수험생 송치",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html"
+        },
+        {
+          "title": "수능도 ‘AI 안경’ 비상인데…‘육안 판별’ 논란",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692912"
+        },
+        {
+          "title": "[단독] 연세대, ‘AI 안경 수험생’ 형사고발 검토…내년 응시자격도 정지",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/schooling/1283636.html"
+        }
+      ]
+    },
+    {
+      "title": "박찬호",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "‘제24회 박찬호기 전국초등학교 야구대회’ 10월 26일 공주서 개막... 13일간 대장정",
+          "source": "중도일보",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261022010006287"
+        },
+        {
+          "title": "전국 초등 야구 꿈나무 공주로…박찬호기 야구대회 26일 개막 - 보도자료 | 기사",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/releasecopy/2379410.htm"
+        },
+        {
+          "title": "박찬호기 전국초등학교 야구대회, 26일 공주서 개막",
+          "source": "스포츠월드",
+          "url": "https://www.sportsworldi.com/newsView/20261022522198"
+        }
+      ]
+    },
+    {
+      "title": "이혼",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 07:20:00 -0700",
+      "news": [
+        {
+          "title": "김정은, 결혼 20년 만에 파경 “협의이혼”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12183042"
+        },
+        {
+          "title": "마로니에 출신 김정은, 결혼 20여년 만 파경…\"협의이혼\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022162500005"
+        },
+        {
+          "title": "'칵테일 사랑' 김정은, 20년 만 협의이혼 “양육권 갖고 11월 컴백” [공식] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/HA4WGMDGGE4DEODGGM4WMMRTG4/"
+        }
+      ]
+    },
     {
       "title": "천천히 강렬하게",
       "approx_traffic": "100+",
@@ -53,6 +119,11 @@
       "published": "Thu, 22 Oct 2026 06:40:00 -0700",
       "news": [
         {
+          "title": "베트남을 상대로 비신사적인 골을 넣은 선수는 선수 생활을 끝내는 타격을 입었다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/cau-thu-ghi-ban-thieu-fair-play-vao-luoi-viet-nam-gap-cu-soc-su-nghiep"
+        },
+        {
           "title": "전 축구선수 故강지용 아내 저격글...\"거짓말한 당신들, 늘 부끄럽길\" - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/society/2026/10/22/2026102205252495794"
@@ -61,11 +132,6 @@
           "title": "\"사는 동안 늘 부끄럽길\"...'이숙캠' 故 강지용 아내, SNS에 의미심장 글",
           "source": "파이낸셜뉴스",
           "url": "https://www.fnnews.com/news/202610212150462507"
-        },
-        {
-          "title": "故강지용 아내, 남편 비보 후 작심 비판…“벼랑 끝으로 밀어붙여” 두렵지 않다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12181376"
         }
       ]
     },
@@ -119,14 +185,14 @@
       "published": "Thu, 22 Oct 2026 06:00:00 -0700",
       "news": [
         {
-          "title": "'은퇴설' 에릭남, 이런 일이...\"배신 당하고 억대 돈 뜯겨\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102120571684556"
-        },
-        {
           "title": "에릭남, 美서 인종차별 당했다…\"얼굴에 침 뱉고 눈 찢어\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261022_0003836981"
+        },
+        {
+          "title": "'은퇴설' 에릭남, 이런 일이...\"배신 당하고 억대 돈 뜯겨\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102120571684556"
         },
         {
           "title": "에릭남 “정신 건강 무너지고 몸도 아팠다”…공황장애에서 놓치면 안 되는 증상",
@@ -154,72 +220,6 @@
           "title": "렛츠런파크 부산경남 서승운 기수, 15년 만에 1002승 달성 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/policy/2026/10/22/2026102214150285344"
-        }
-      ]
-    },
-    {
-      "title": "나는 solo",
-      "approx_traffic": "2000+",
-      "published": "Thu, 22 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "나는 SOLO",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638563"
-        },
-        {
-          "title": "\"호감 떨어졌다\"…'나솔' 인기녀 타투 폭로에 호불호 공방",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610228829H"
-        },
-        {
-          "title": "‘나솔’ 34기 영숙, 집에서 발견된 ‘곱창 같은 것’ 탯줄이었다…“父가 직접 잘라줘”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/22/GU3DENBVMVRGKNBTGY4TEMBVGI/"
-        }
-      ]
-    },
-    {
-      "title": "madura united vs persib bandung",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "Teja Paku Alam bekerja keras menahan gempuran tuan rumah Madura United FC hingga penghujung babak pertama🧤 #IndosiarSports #IndosiarRumahSepakbolaIndonesia #BRISuperLeague #MatchClip #Persib",
-          "source": "Instagram",
-          "url": "https://www.instagram.com/reel/DezCaDASRp6/"
-        },
-        {
-          "title": "Gol Menit Akhir Dimitar Mitkov Benamkan Persib di Gelora Madura Ratu Pamelingan",
-          "source": "Jakarta Review",
-          "url": "https://jakrev.com/olahraga/gol-menit-akhir-dimitar-mitkov-benamkan-persib-di-gelora-madura-ratu-pamelingan/"
-        },
-        {
-          "title": "Tim Persib Bandung Disambut Musik Tradisional Saat Tiba di Markas Madura United",
-          "source": "Kompas.com",
-          "url": "https://video.kompas.com/watch/1963106/tim-persib-bandung-disambut-musik-tradisional-saat-tiba-di-markas-madura-united?source=KOMPASCOM&position=tren_terkini__carousel_player_1"
-        }
-      ]
-    },
-    {
-      "title": "호날두",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 05:20:00 -0700",
-      "news": [
-        {
-          "title": "호날두는 어린 팀 동료에게 따뜻한 호의를 보였다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/ronaldo-co-hanh-dong-am-ap-gui-toi-dan-em"
-        },
-        {
-          "title": "“가중 처벌 받겠다”던 호날두, 뒤에선 ‘공로’ 내세워 감경 호소 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_general/2026/10/22/5EUBBPA7LZGODC2WUWY3CGUBGM/"
-        },
-        {
-          "title": "호날두의 제재금은 단 38만원? 호날두의 ‘38초’ 급여!",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690704"
         }
       ]
     }
