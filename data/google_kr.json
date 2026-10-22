@@ -1,27 +1,115 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T20:08:59+00:00",
+  "fetched_at": "2026-10-22T20:38:19+00:00",
   "items": [
     {
-      "title": "젠슨 황",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 11:50:00 -0700",
+      "title": "환율",
+      "approx_traffic": "1000+",
+      "published": "Thu, 22 Oct 2026 12:30:00 -0700",
       "news": [
         {
-          "title": "젠슨황 “2029년 메모리 공급과잉 없다…메모리는 다다익선”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693135"
+          "title": "기준금리 올리던 한은, 이번엔 3.00% 동결…그 배경은?",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3759"
         },
+        {
+          "title": "'긴축 속도조절' 한은, 기준금리 3% 동결… 내달 인상 나설까 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/10/23/2026102219560818337"
+        },
+        {
+          "title": "한국은행 \"올해·내년 성장률 전망치 상회\"",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610221607385786"
+        }
+      ]
+    },
+    {
+      "title": "피싱",
+      "approx_traffic": "500+",
+      "published": "Thu, 22 Oct 2026 12:10:00 -0700",
+      "news": [
+        {
+          "title": "보이스피싱 피해금 10월부터 코인으로 돌려받을 수도…요청하면 거래소가 팔아 현금 지급 가능",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1168437"
+        },
+        {
+          "title": "가상자산으로 빠져나간 피싱 피해금, 돌려받는다.",
+          "source": "브런치",
+          "url": "https://brunch.co.kr/@detective-kim/1620"
+        },
+        {
+          "title": "가상자산도 피해환급 대상에 포함…통신사기피해환급법 개정안 10월 1일 시행 예정",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1167806"
+        }
+      ]
+    },
+    {
+      "title": "암",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 12:10:00 -0700",
+      "news": [
+        {
+          "title": "“얼굴 보니 90일 내 사망 가능성”…암 환자 생존 예측 AI 나왔다",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261020052429097"
+        },
+        {
+          "title": "“사진 한 장 찍었을 뿐인데”…얼굴만 보고 수명 나온다, 소름 돋는 정체",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20104579"
+        },
+        {
+          "title": "‘얼굴 사진 한 장’으로 암 환자 사망 위험 맞혀…생존율 예측 AI 나와",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/science/science_general/1283581.html"
+        }
+      ]
+    },
+    {
+      "title": "제16전투비행단",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 12:10:00 -0700",
+      "news": [
+        {
+          "title": "예천군, 공군 제16전투비행단 장병 대상 마약류 예방 교육 실시",
+          "source": "타임뉴스",
+          "url": "https://www.timenews.co.kr/article/1720234"
+        },
+        {
+          "title": "예천군, 공군 제16전투비행단 장병 대상 마약류 예방 교육 실시",
+          "source": "웹이코노미",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2344736"
+        },
+        {
+          "title": "예천군, 공군 제16전투비행단 장병 대상 마약류 예방 교육 실시:중수청일보",
+          "source": "중수청일보",
+          "url": "https://www.unionilbo.com/2226739"
+        }
+      ]
+    },
+    {
+      "title": "젠슨 황",
+      "approx_traffic": "500+",
+      "published": "Thu, 22 Oct 2026 11:50:00 -0700",
+      "news": [
         {
           "title": "젠슨황 \"2029년 메모리 공급과잉 없다…메모리는 다다익선\"",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261023004200091"
         },
         {
-          "title": "젠슨황 \"2029년 메모리 공급과잉 없다…다다익선\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261023023517ht1"
+          "title": "젠슨황 “2029년 메모리 공급과잉 없다…메모리는 다다익선”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693135"
+        },
+        {
+          "title": "젠슨 황 \"2029년 메모리 공급과잉 없을 것\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/usa-canada/6329300"
         }
       ]
     },
@@ -53,25 +141,25 @@
       "published": "Thu, 22 Oct 2026 11:20:00 -0700",
       "news": [
         {
-          "title": "Besiktas - Crystal Palace LIVE. UEFA Europa League latest updates",
-          "source": "MARCA",
-          "url": "https://www.marca.com/en/soccer/uefa-europa-league/besiktas-crystal-palace/2026/10/22/01_0104_20261022_378_31-live.html"
+          "title": "Besiktas vs Crystal Palace: UEFA Europa League stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cm4g1qp7rjzjt"
         },
         {
-          "title": "Beşiktaş 0-0 Crystal Palace: LIVE Matchday Hub",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/ikta-0-0-crystal-palace-185623255.html"
+          "title": "Super Eagles Captain Wilfred Ndidi Sends Message to Crystal Palace Ahead of Europa League Tie",
+          "source": "Legit News",
+          "url": "https://www.legit.ng/sports/football/1737422-super-eagles-captain-wilfred-ndidi-sends-message-crystal-palace-europa-league-tie/"
         },
         {
-          "title": "‍‍‍‍‍‍‍‍‍‍‍‍~[TOTAL SPORTEK]^^ Soccer Ｓｔｒｅａｍｓ Besiktas vs Crystal Palace Ｌｉｖｅ Totalsportek Football Ｓｔｒｅａｍｓ",
-          "source": "北陸地方整備局",
-          "url": "https://www.hrr.mlit.go.jp/chokoku/hatizyuuri/progress/pannellum/pannellum.htm?config=/%5C%2Fdoorlook3546.github.io%2Fschool.edu%2Fuefa%2Fpannellum.json?f8m3k5qn"
+          "title": "Beşiktaş vs. Crystal Palace: Vincenzo Italiano Reveals Orkun Kökçü Injury Status",
+          "source": "turkish football",
+          "url": "https://turkish-football.com/besiktas-vs-crystal-palace-vincenzo-italiano-reveals-orkun-kokcu-injury-status/"
         }
       ]
     },
     {
       "title": "england cricket team vs sri lanka national cricket team standings",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Thu, 22 Oct 2026 10:50:00 -0700",
       "news": [
         {
@@ -97,19 +185,19 @@
       "published": "Thu, 22 Oct 2026 10:20:00 -0700",
       "news": [
         {
-          "title": "금감원장의 솔리다임 직격에 뜨끔한 보스턴다이내믹스",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/21/2026102180007.html"
-        },
-        {
           "title": "솔리다임 '중복 상장' 판단에도...규제 방안은?",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_ln/0102_202610230335312459"
         },
         {
-          "title": "금융위원장 \"솔리다임 상장땐 SK하이닉스 이사회 '5대의무' 이행해야\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/22/2026102216271778889"
+          "title": "금감원장 이어 금융위원장도 “솔리다임, 중복상장 규제 대상”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261023/134893410/2"
+        },
+        {
+          "title": "금감원장의 솔리다임 직격에 뜨끔한 보스턴다이내믹스",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/21/2026102180007.html"
         }
       ]
     },
@@ -119,107 +207,19 @@
       "published": "Thu, 22 Oct 2026 10:20:00 -0700",
       "news": [
         {
+          "title": "뉴욕증시, AI 불안 재고조에 기술주 급락…나스닥 2.6%↓",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023007600072"
+        },
+        {
+          "title": "[속보]AI 투자 불안에 나스닥 2.6% 급락…반도체주 투매",
+          "source": "이데일리TV",
+          "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=01813846645615872&Kind=257"
+        },
+        {
           "title": "머스크 효과에 뉴욕증시 상승, 나스닥 1%↑",
           "source": "네이버페이 머니스토리",
           "url": "https://story.pay.naver.com/content/3755_2_C1"
-        },
-        {
-          "title": "뉴욕증시, AI 불안에 하락 출발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022197700009"
-        },
-        {
-          "title": "JP모건 “지정학적 우려 속 기술주 약세…미국 주가지수 선물 하락”",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2137410"
-        }
-      ]
-    },
-    {
-      "title": "반포 래미안 원 펜타 스",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 10:00:00 -0700",
-      "news": [
-        {
-          "title": "“당첨되면 40억 대박”…반포 원펜타스, 역대급 ‘줍줍’ 4가구 풀린다",
-          "source": "매일경제TV",
-          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005944504"
-        },
-        {
-          "title": "'이혜훈 논란' 원펜타스서 부정청약 4가구 계약취소 수순",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834749"
-        },
-        {
-          "title": "'로또 청약' 반포 원펜타스, 시세차익 40억짜리 4가구 나온다",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/10/20/2026102002620.html"
-        }
-      ]
-    },
-    {
-      "title": "레흐 포즈난 대 선덜랜드",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 09:30:00 -0700",
-      "news": [
-        {
-          "title": "Lech Poznan 1-1 Sunderland (Oct 22, 2026) Game Analysis",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/report/_/gameId/401915546"
-        },
-        {
-          "title": "Lech Poznan 1-1 Sunderland: Positives for Regis le Bris despite wastefulness",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/c9y7lelg6p1go"
-        },
-        {
-          "title": "Lech Poznan x Sunderland - Highlights, Summary and Match Report",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/lech-poznan-x-sunderland-highlights-180700494.html"
-        }
-      ]
-    },
-    {
-      "title": "크래프톤",
-      "approx_traffic": "100+",
-      "published": "Thu, 22 Oct 2026 09:20:00 -0700",
-      "news": [
-        {
-          "title": "크래프톤, 자체 개발 30B급 고효율 LLM 'Raon-1 mini' 프리뷰 공개",
-          "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-          "url": "https://news.hada.io/topic?id=35752"
-        },
-        {
-          "title": "크래프톤, 자체개발 LLM '라온-1 미니' 프리뷰 공개",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021108300017"
-        },
-        {
-          "title": "[게임월드] 크래프톤ㆍ스마일게이트ㆍ엔씨ㆍ넷마블ㆍ넥슨ㆍ펄어비스ㆍ카카오게임즈ㆍ컴투스",
-          "source": "대한경제",
-          "url": "https://www.dnews.co.kr/m_home/view.jsp?idxno=202610211548442720569"
-        }
-      ]
-    },
-    {
-      "title": "야블로네츠 대 브라이턴",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 09:10:00 -0700",
-      "news": [
-        {
-          "title": "Jablonec 0-0 Brighton: Fabian Hurzeler's side shut out in UEFA Conference League clash",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/13601272/jablonec-0-0-brighton-fabian-hurzelers-side-shut-out-in-uefa-conference-league-clash"
-        },
-        {
-          "title": "Albion's goal-laden run is checked by Euro opponents",
-          "source": "Yahoo",
-          "url": "https://uk.sports.yahoo.com/news/albions-goal-laden-run-checked-184325530.html"
-        },
-        {
-          "title": "FK Jablonec x Brighton & Hove Albion - Highlights, Summary and Match Report",
-          "source": "Playmakerstats",
-          "url": "https://www.playmakerstats.com/news/2026-10-22-fk-jablonec-brighton-hove-albion-notes/1236250"
         }
       ]
     }
