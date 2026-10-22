@@ -1,33 +1,149 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T10:17:03+00:00",
+  "fetched_at": "2026-10-22T11:11:21+00:00",
   "items": [
     {
-      "title": "eng vs sl",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 02:10:00 -0700",
+      "title": "올림픽파크 포레온",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 02:50:00 -0700",
       "news": [
         {
-          "title": "Sri Lanka vs England LIVE: ODI tri-series, Rawalpindi - cricket score, radio commentary & updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/cricket/live/c6wyzx7wlqryt"
+          "title": "“집 주인 들어온다는데 어디로 가죠”…전세 만기 앞둔 올파포, 인근 전세난 우려",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12183041"
         },
         {
-          "title": "Wheat flour prices increased",
-          "source": "Newswire",
-          "url": "https://www.newswire.lk/2026/10/21/wheat-flour-prices-increased/"
+          "title": "\"2년 만에 나가야 할 판\"…1만2000가구 대단지에 무슨 일이 [이송렬의 부동산한입]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026101539076"
         },
         {
-          "title": "SL vs ENG Tri-Series: Kusal Mendis Wins Toss And Opts To Bowl First In 3rd ODI At Rawalpindi Cricket Stadium",
-          "source": "Sportscape Magazine",
-          "url": "https://www.sportscapemagazine.com/blog/sl-vs-eng-tri-series-kusal-mendis-wins-toss-and-opts-to-bowl-first-in-3rd-odi-at-rawalpindi-cricket-stadium"
+          "title": "[실거래포커스(10. 20)] 반포자이·메이플자이 전세거래 활발…올림픽파크포레온 전세가 1년 새 2.6억 하락",
+          "source": "르데스크",
+          "url": "https://www.ledesk.co.kr/view.php?uid=16678"
+        }
+      ]
+    },
+    {
+      "title": "울산 현대모비스 대 창원 lg",
+      "approx_traffic": "500+",
+      "published": "Thu, 22 Oct 2026 02:40:00 -0700",
+      "news": []
+    },
+    {
+      "title": "hd현대",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "HD현대중공업, 세계 최대 암모니아 추진선 건조…11월 인도",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261022/134892162/1"
+        },
+        {
+          "title": "암모니아 추진선 상용화 속도 내는 HD현대…엔진·건조 기술 경쟁력 강화",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=352778"
+        },
+        {
+          "title": "77층 아파트 높이만 한 선박…HD현대重, 세계 최대 암모니아 추진선 건조",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261022140206"
+        }
+      ]
+    },
+    {
+      "title": "그랜드 테 프트 오토 vi",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "GTA6 스위치2 이식설...'레데리' 이식 개발사 채용 공고가 불씨",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322407"
+        },
+        {
+          "title": "글로벌 대작 ‘GTA6’ 출시 D-30… K-게임, 인기 신작 출시 늦추나",
+          "source": "CEO스코어데일리",
+          "url": "https://m.ceoscoredaily.com/page/view/2026102014144958346"
+        },
+        {
+          "title": "'GTA 6'의 사운드를 책임질 저스티스(Justice)",
+          "source": "Hypebeast.KR",
+          "url": "https://hypebeast.kr/2026/10/rockstar-games-grand-theft-auto-vi-launch-trailer-justice-flower-in-a-hurricane-stream-info"
+        }
+      ]
+    },
+    {
+      "title": "저작권",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "함께하는음악저작권협회, '매장 음악 이용내역 확인 서비스' 정식 개시",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450016"
+        },
+        {
+          "title": "함께하는음악저작권협회, 전국 9만개 매장 음악 이용 내역 확인 서비스 도입",
+          "source": "에너지경제신문",
+          "url": "https://www.ekn.kr/web/view.php?key=20261022028000026"
+        },
+        {
+          "title": "음저협, 'AI 차세대 정보시스템' 구축 착수…저작권료 분배 투명성 강화",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261021000279"
+        }
+      ]
+    },
+    {
+      "title": "대형주",
+      "approx_traffic": "500+",
+      "published": "Thu, 22 Oct 2026 02:20:00 -0700",
+      "news": [
+        {
+          "title": "\"내년은 삼전닉스보다 소부장…'대형주 7·소부장 3' 담아라\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610228673i"
+        },
+        {
+          "title": "“자금 얼어붙었다”…연이은 AI ETF 출시에도 투자자는 ‘관망’",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12090645"
+        },
+        {
+          "title": "KB자산운용, 'RISE 반도체소부장액티브' 출시",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261020000039"
+        }
+      ]
+    },
+    {
+      "title": "래미안 원펜타스",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 02:20:00 -0700",
+      "news": [
+        {
+          "title": "'이혜훈 논란' 원펜타스서 부정청약 4가구 계약취소 수순",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834749"
+        },
+        {
+          "title": "“당첨되면 40억 대박”…반포 원펜타스, 역대급 ‘줍줍’ 4가구 풀린다",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12182600"
+        },
+        {
+          "title": "'로또 청약' 반포 원펜타스, 시세차익 40억짜리 4가구 나온다",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/10/20/2026102002620.html"
         }
       ]
     },
     {
       "title": "안성훈",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Thu, 22 Oct 2026 02:00:00 -0700",
       "news": [
         {
@@ -49,7 +165,7 @@
     },
     {
       "title": "빈곤",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Thu, 22 Oct 2026 02:00:00 -0700",
       "news": [
         {
@@ -88,138 +204,6 @@
           "title": "인천도시철도 무임수송 손실 4년 새 2.2배…전국 노사 공동 대응",
           "source": "기호일보",
           "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038548"
-        }
-      ]
-    },
-    {
-      "title": "kt wiz",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 01:50:00 -0700",
-      "news": [
-        {
-          "title": "Veteran pitcher Choi Dong-hwan released by KT after failed comeback attempt - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/10/22/YPQPZXXFOBDKFASR5TMH5F7JEQ/"
-        },
-        {
-          "title": "[Official] Long-haired pitcher who spent '16 years with LG' ultimately fails to rebound... Right-hander who traveled the entire country from 'Gwangju→Seoul→Jeju→Daejeon→Incheon→Suwon' also departs! KT, ahead of Korea Series, notifies 10 players of non-",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/sports/2026/10/22/2026102210544998782"
-        },
-        {
-          "title": "KT Wiz Completes Roster Reorganization Ahead of Korean Series",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/10/22/YZC3XRECCRC5RGC5HI7JBUIOKM/"
-        }
-      ]
-    },
-    {
-      "title": "lg 트윈스",
-      "approx_traffic": "5000+",
-      "published": "Thu, 22 Oct 2026 01:40:00 -0700",
-      "news": [
-        {
-          "title": "찬란했던 현대 왕조, 마지막 선수 떠난다…LG 장시환 현역 은퇴",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692433"
-        },
-        {
-          "title": "‘준PO 탈락’ LG, 칼 빼들었다, 11명 방출...유니콘스 마지막 유산, 0경기 등판→ 은퇴하다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112896669"
-        },
-        {
-          "title": "[오피셜]롯데→한화→LG, '현대' 마지막 유산, 20년 마운드 인생 마침표, 가을야구 광탈 LG 11명 방출 '체질개선' 본격화",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/22/GYZDSZJTGI4TKMZXMZSTSZDGMQ/"
-        }
-      ]
-    },
-    {
-      "title": "코브라",
-      "approx_traffic": "2000+",
-      "published": "Thu, 22 Oct 2026 01:30:00 -0700",
-      "news": [
-        {
-          "title": "기르던 코브라에 물린 중학생 ‘헬기 이송’해 구조…경찰, 불법 매매 수사",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/area/chungcheong/1283663.html"
-        },
-        {
-          "title": "뱀 거래하려다 물린 중학생‥119 신고했다가 경찰 조사",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6859993_36918.html"
-        },
-        {
-          "title": "코브라 거래하려다 물린 중학생, 119 신고했다가 경찰 적발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022127800064"
-        }
-      ]
-    },
-    {
-      "title": "신세계그룹",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 01:30:00 -0700",
-      "news": [
-        {
-          "title": "국세청, 일감 몰아주기 의혹 신세계면세점 특별 세무조사 착수",
-          "source": "뉴스타파",
-          "url": "https://newstapa.org/article/4rXmE"
-        },
-        {
-          "title": "국세청, 신세계그룹 대규모 세무조사… 본점·신세계인터 동시 착수 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/distribution/channel/2026/10/22/H5LBDWLWEFATHMM6ZF3ZOEPGCY/"
-        },
-        {
-          "title": "국세청, 신세계인터내셔날·신세계디에프 특별세무조사 착수",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022158300030"
-        }
-      ]
-    },
-    {
-      "title": "england vs sri lanka",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 01:30:00 -0700",
-      "news": [
-        {
-          "title": "England v Sri Lanka: men’s tri-series cricket one-day international – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live"
-        },
-        {
-          "title": "Sri Lanka vs England LIVE: ODI tri-series, Rawalpindi - cricket score, radio commentary & updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/cricket/live/c6wyzx7wlqryt"
-        },
-        {
-          "title": "Sri Lanka, England close Rawalpindi leg in search of first points",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/england-vs-sri-lanka-3rd-match-1550715/match-preview"
-        }
-      ]
-    },
-    {
-      "title": "조혜련",
-      "approx_traffic": "2000+",
-      "published": "Thu, 22 Oct 2026 01:20:00 -0700",
-      "news": [
-        {
-          "title": "조혜련, 주식 449억 거래해 1억 번 김수용에 “차라리 김밥집 알바해”",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261021508271"
-        },
-        {
-          "title": "87만원에 하이닉스 산 조혜련…주가 3배 뛰었는데 웃지 못한 이유",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02666646645615544&mediaCodeNo=257"
-        },
-        {
-          "title": "\"400 간다길래 심장 쿵쾅\"…조혜련, 하이닉스 추격 매수 고백",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834530"
         }
       ]
     }
