@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-21T23:37:07+00:00",
+  "fetched_at": "2026-10-22T00:01:36+00:00",
   "items": [
+    {
+      "title": "한혜진",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 15:50:00 -0700",
+      "news": [
+        {
+          "title": "풍자, 한혜진 옆 '이쁜척'…37㎏ 감량의 힘",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003835400"
+        },
+        {
+          "title": "\"살 쏙 빠지더니 이런 청순미가?\"...풍자, 긴 머리 늘어뜨린 '반전 비주얼'",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261021142725787"
+        },
+        {
+          "title": "풍자, 33kg 빼더니 톱모델 한혜진 옆에서도 당당..체격 차이 거의 없네",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896013"
+        }
+      ]
+    },
     {
       "title": "klasemen real madrid vs rb leipzig",
       "approx_traffic": "100+",
@@ -86,14 +108,14 @@
           "url": "https://u.today/xrp-treasury-wins-key-sec-approval-to-raise-new-capital-main-crypto-news-this-morning"
         },
         {
+          "title": "Evernorth Warrants Carry $18 Share-Price Test for Redemption",
+          "source": "TOKENPOST",
+          "url": "https://www.tokenpost.com/news/business/36923"
+        },
+        {
           "title": "Uphold starts trading Evernode's XRPN stock, enabling exposure without direct XRP purchases",
           "source": "디지털투데이",
           "url": "https://www.digitaltoday.co.kr/en/view/117289/uphold-starts-trading-evernode-xrpn-stock-enabling-exposure-without-direct-xrp-purchases"
-        },
-        {
-          "title": "Evernorth Files SEC Prospectus to Raise Up to $132 Million for XRP Treasury",
-          "source": "KuCoin",
-          "url": "https://www.kucoin.com/news/flash/evernorth-files-sec-prospectus-to-raise-up-to-132-million-for-xrp-treasury"
         }
       ]
     },
@@ -121,7 +143,7 @@
     },
     {
       "title": "미스터트롯",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Wed, 21 Oct 2026 15:10:00 -0700",
       "news": [
         {
@@ -130,20 +152,20 @@
           "url": "https://www.pressna.com/news/newsview.php?ncode=1065591978043965"
         },
         {
+          "title": "임영웅→안성훈·박지현 배출한 '미스터트롯', 새로움 더한 네 번째 승부",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522019"
+        },
+        {
           "title": "이찬원·안성훈·박지현·김용빈 트로트 스타, ‘미스터트롯4’ 마스터로 뜬다",
           "source": "조선일보",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/10/19/P5IZDIN2NJHGRGGX2NJAHQXW6A/"
-        },
-        {
-          "title": "미스터트롯4, 현역 재도전 vs 숨은 실력자 맞붙는다",
-          "source": "TopStarNews",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16254407"
         }
       ]
     },
     {
       "title": "제너럴 모터스",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Wed, 21 Oct 2026 15:00:00 -0700",
       "news": [
         {
@@ -182,28 +204,6 @@
           "title": "'CCTV 저격 논란' 박위, 조용히 유튜브 영상 삭제…잡음 계속 [종합]",
           "source": "iMBC 연예",
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/521849"
-        }
-      ]
-    },
-    {
-      "title": "이용규",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 15:00:00 -0700",
-      "news": [
-        {
-          "title": "‘음주 운전 사고’ 전 프로야구 선수 이용규 불구속 기소",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8691418"
-        },
-        {
-          "title": "유턴 차량 들이받고 경찰차까지 '쾅'…이용규, 음주운전 재판행 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/21/2026102117422380530"
-        },
-        {
-          "title": "만취 운전하다 순찰차까지 '쾅'…이용규, 음주운전으로 재판행",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610220704433378"
         }
       ]
     }
