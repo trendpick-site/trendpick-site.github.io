@@ -1,8 +1,135 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T00:48:49+00:00",
+  "fetched_at": "2026-10-22T01:40:57+00:00",
   "items": [
+    {
+      "title": "초코파이",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 17:30:00 -0700",
+      "news": [
+        {
+          "title": "한국산에 푹 빠진 '이 나라'…갤럭시도 초코파이도 '국민템' [권용훈의 트렌드워치]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610217155i"
+        },
+        {
+          "title": "삼성, 中 저가폰 제치고 印 스마트폰 1위 탈환",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261020/134877516/2"
+        },
+        {
+          "title": "비싼폰 더 비싸져 못사는 신흥국…삼성, '보상판매·할부'로 승부수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KRn13pAiPA"
+        }
+      ]
+    },
+    {
+      "title": "claude duet",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 17:30:00 -0700",
+      "news": [
+        {
+          "title": "Anthropic unveils Claude Duet AI agent app",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/anthropic-unveils-claude-duet-ai-agent-app-2026-10-21/"
+        },
+        {
+          "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html"
+        },
+        {
+          "title": "Anthropic’s New Agent Has No Cute Mascot, and You Probably Can’t Try It Yet",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/anthropics-new-agent-has-no-cute-mascot-and-you-probably-cant-try-it-yet-2000829184"
+        }
+      ]
+    },
+    {
+      "title": "레이 아미",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 17:20:00 -0700",
+      "news": [
+        {
+          "title": "무명 가수서 ‘케데헌’ 조이로… “‘예은’이란 이름 자랑스러워”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/22/Z5NTUGWIR5AWBA5JVU4CHATXT4/"
+        },
+        {
+          "title": "레이 아미 \"김밥으로 놀림받았는데…'케데헌' 덕에 제 모습 찾았죠\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020142300005"
+        },
+        {
+          "title": "레이 아미, 12년 만의 금의환향…'케데헌' 신드롬 지나 가장 한국적인 나로",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834354"
+        }
+      ]
+    },
+    {
+      "title": "독도",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 17:20:00 -0700",
+      "news": [
+        {
+          "title": "독도 사랑 담은 굿샷…160명 참가한 ‘제9회 독도 오픈 자선골프대회’ 성료",
+          "source": "채널A 뉴스",
+          "url": "https://ichannela.com/news/detail/000000556167.do"
+        },
+        {
+          "title": "독도의 날 안산문화광장 무료 콘서트…가수·개그맨 20명 출연",
+          "source": "경기연합신문",
+          "url": "https://www.gynews.kr/news/articleView.html?idxno=72003"
+        },
+        {
+          "title": "가을 필드에 새긴 ‘1025’…9년째 이어진 독도 자선골프",
+          "source": "테니스코리아",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54088"
+        }
+      ]
+    },
+    {
+      "title": "탑승",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 17:20:00 -0700",
+      "news": [
+        {
+          "title": "“버스 무임승차 외국인 잇따라…해외서 ‘한국여행 팁’ 공유”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261022/134886780/2"
+        },
+        {
+          "title": "“잔액 부족” 안내 나와도 쓰윽 탑승…‘무임승차 꼼수’ 외국인 관광객 목격 주장, 논란 재점화",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625300"
+        }
+      ]
+    },
+    {
+      "title": "국가보훈부",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 16:50:00 -0700",
+      "news": [
+        {
+          "title": "“일상 속 보훈문화 조성·확산”… 롯데백화점, 보훈부와 MOU",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625096"
+        },
+        {
+          "title": "[게시판] 보훈부·롯데백화점, '일상 속 보훈문화 확산' 업무협약",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020053800504"
+        },
+        {
+          "title": "[ESG전략] 국가보훈부 업무협약 롯데백화점·오트몬드 기부 롯데칠성음료",
+          "source": "한국정경신문",
+          "url": "https://kpenews.com/View.aspx?No=4270537"
+        }
+      ]
+    },
     {
       "title": "프랑스 오픈",
       "approx_traffic": "200+",
@@ -31,19 +158,19 @@
       "published": "Wed, 21 Oct 2026 16:30:00 -0700",
       "news": [
         {
-          "title": "현대차그룹, 자동차 특성화고 50개교 실습차·기술교육 지원",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022034500003"
+          "title": "“버스 언제 오나” 답답함 끝… 시흥시, 태양광·전자종이 버스안내기 확대",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261022010007417"
         },
         {
-          "title": "전기버스가 교실로…현대차, 인니 중학교 13곳 '찾아가는 STEM 교육' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/industry/2026/10/22/2026102209091627297"
+          "title": "시흥시, 친환경 버스정보안내단말기 설치 확대...누적 43개소",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261022000248"
         },
         {
-          "title": "현대차, 인도네시아서 ‘현대 유니버설 솔루션’ 전개…\"교육 접근성 개선\"",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02837206645615544"
+          "title": "시흥시, 친환경 버스정보안내기 확대…누적 43개소 구축 - 보도자료 | 기사",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/releasecopy/2379310.htm"
         }
       ]
     },
@@ -71,7 +198,7 @@
     },
     {
       "title": "드론 항공모함",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Wed, 21 Oct 2026 16:30:00 -0700",
       "news": [
         {
@@ -90,117 +217,6 @@
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276917"
         }
       ]
-    },
-    {
-      "title": "독도의 날",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "'독도 영토주권 되새긴다'…경북도 독도의 달 기념행사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021122100053"
-        },
-        {
-          "title": "문서·지도부터 체험까지… 독립기념관, 찾아가는 독도학교",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3442213"
-        },
-        {
-          "title": "2028년 울릉도에 ‘독도교육원’ 문 연다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261020/134877269/2"
-        }
-      ]
-    },
-    {
-      "title": "dl이앤씨",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "아마존, SMR 12기 건설…韓기업 훈풍 기대",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102040591"
-        },
-        {
-          "title": "AI 전력난에 '원전' 승부수...아마존, 소형원전 12기 직접 짓는다",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202610201600307995"
-        },
-        {
-          "title": "X Energy 주가가 급등한 이유는?",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2131685"
-        }
-      ]
-    },
-    {
-      "title": "meta stock",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "Meta Reports Q3 Revenue Up 26% to $64.6B, EPS Misses Estimates",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008809302"
-        },
-        {
-          "title": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/meta-issue-new-class-shares-it-tightens-ai-spending-forecast-2026-10-21/"
-        },
-        {
-          "title": "Meta earnings live: Meta beats Q3 revenue expectations, announces 2-for-1 stock split",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/live/meta-earnings-live-meta-q3-earnings-to-test-wall-streets-stomach-for-ai-spending-173000302.html"
-        }
-      ]
-    },
-    {
-      "title": "로스앤젤레스 다저스",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 16:20:00 -0700",
-      "news": [
-        {
-          "title": "충격! “김혜성 결국 다저스 떠난다” 美 트레이드 방출 가능성 제기 왜? “다저스 좋아한다” 고백에도 불안한 입지 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/22/202610220730776386O"
-        },
-        {
-          "title": "\"다저스 선택 후회한 적 없다\" 했지만, 경쟁자 또 생기나...김혜성 거론도 안한 日 매체, \"센터 내야수 보강해야\"",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261021094009080"
-        },
-        {
-          "title": "‘악의 제국’ 불만 폭주! 다저스가 야구 망친다? 그래도 다들 본다는데요…“스몰마켓 구단에도 상당한 이익” [SS시선집중]",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1643080"
-        }
-      ]
-    },
-    {
-      "title": "빨대",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 16:00:00 -0700",
-      "news": [
-        {
-          "title": "진중권 “추미애, 말실수 아냐…소방 공무원을 흡혈충으로 본 것”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625037"
-        },
-        {
-          "title": "추미애·부승찬 '경고'‥잇단 설화에 자성론",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859782_37012.html"
-        }
-      ]
-    },
-    {
-      "title": "颱風",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 16:00:00 -0700",
-      "news": []
     }
   ]
 }
