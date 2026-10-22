@@ -1,8 +1,74 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T14:41:22+00:00",
+  "fetched_at": "2026-10-22T15:17:08+00:00",
   "items": [
+    {
+      "title": "천천히 강렬하게",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 07:00:00 -0700",
+      "news": [
+        {
+          "title": "송혜교·공유 주연 넷플릭스 시리즈 '천천히 강렬하게' 12월 공개",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0106_202610221401480285"
+        },
+        {
+          "title": "송혜교·공유 주연 '천천히 강렬하게' 12월 공개…노희경 신작",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022042200005"
+        },
+        {
+          "title": "[공식] 송혜교·공유·설현·차승원 총출동…‘천천히 강렬하게’, 12월 11일 공개 확정",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610220940003"
+        }
+      ]
+    },
+    {
+      "title": "박항서",
+      "approx_traffic": "2000+",
+      "published": "Thu, 22 Oct 2026 06:50:00 -0700",
+      "news": [
+        {
+          "title": "\"내가 사퇴하면 끝이야!\" 박항서 감독, 태국서 폭탄발언→경찰까지 투입...\"절대 경질하지 않을 것\" 구단주가 직접 나섰다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/10/22/GI4WGODDGUZTAN3CHFRTINZQGQ/"
+        },
+        {
+          "title": "[국제/축구] 태국 클럽 칸차나부리 파워 FC, 박항서 감독 경질설 일축… \"장기 프로젝트로 팀 구축 중\"",
+          "source": "굿모닝베트남미디어",
+          "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=84171"
+        },
+        {
+          "title": "박항서 감독의 미래는 태국 대표팀 덕분에 보장되어 있다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hlv-park-hang-seo-duoc-doi-bong-thai-lan-dam-bao-tuong-lai"
+        }
+      ]
+    },
+    {
+      "title": "축구 선수",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "전 축구선수 故강지용 아내 저격글...\"거짓말한 당신들, 늘 부끄럽길\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/22/2026102205252495794"
+        },
+        {
+          "title": "\"사는 동안 늘 부끄럽길\"...'이숙캠' 故 강지용 아내, SNS에 의미심장 글",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610212150462507"
+        },
+        {
+          "title": "故강지용 아내, 남편 비보 후 작심 비판…“벼랑 끝으로 밀어붙여” 두렵지 않다",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12181376"
+        }
+      ]
+    },
     {
       "title": "박철순",
       "approx_traffic": "100+",
@@ -71,7 +137,7 @@
     },
     {
       "title": "기수",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Thu, 22 Oct 2026 05:50:00 -0700",
       "news": [
         {
@@ -92,46 +158,24 @@
       ]
     },
     {
-      "title": "메시",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "\"가장 필요할 때 다가온 BTS\"…첫 아르헨 공연에 들뜬 남미팬들",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021087700009"
-        },
-        {
-          "title": "방탄소년단, 메시 10번 유니폼 입고 '메시 세리머니'…13년 기다린 아르헨티나 '감동'[K-EYES]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/music/2026/10/22/2026102217241522875"
-        },
-        {
-          "title": "방탄소년단 지민, '하트비트' 첫 감동 라이브..칠레 홀렸다",
-          "source": "www.asiaartistawards.com",
-          "url": "https://www.asiaartistawards.com/news/2026101907544265634"
-        }
-      ]
-    },
-    {
       "title": "나는 solo",
       "approx_traffic": "2000+",
       "published": "Thu, 22 Oct 2026 05:30:00 -0700",
       "news": [
         {
-          "title": "'나솔' 25기 영수·순자, 깜짝 결혼...교제 4개월만 초고속 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/22/2026102221003790088"
+          "title": "나는 SOLO",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638563"
         },
         {
-          "title": "25기 영수♥순자, 12월 5일 결혼 발표… “연애 두 달 만에 프로포즈”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610221824003"
+          "title": "\"호감 떨어졌다\"…'나솔' 인기녀 타투 폭로에 호불호 공방",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610228829H"
         },
         {
-          "title": "'나는 솔로' 25기 영수·순자, 12월 5일 결혼… \"첫 만남 2년 만에 결실\"",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3729932"
+          "title": "‘나솔’ 34기 영숙, 집에서 발견된 ‘곱창 같은 것’ 탯줄이었다…“父가 직접 잘라줘”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/22/GU3DENBVMVRGKNBTGY4TEMBVGI/"
         }
       ]
     },
@@ -146,14 +190,14 @@
           "url": "https://www.instagram.com/reel/DezCaDASRp6/"
         },
         {
+          "title": "Gol Menit Akhir Dimitar Mitkov Benamkan Persib di Gelora Madura Ratu Pamelingan",
+          "source": "Jakarta Review",
+          "url": "https://jakrev.com/olahraga/gol-menit-akhir-dimitar-mitkov-benamkan-persib-di-gelora-madura-ratu-pamelingan/"
+        },
+        {
           "title": "Tim Persib Bandung Disambut Musik Tradisional Saat Tiba di Markas Madura United",
           "source": "Kompas.com",
           "url": "https://video.kompas.com/watch/1963106/tim-persib-bandung-disambut-musik-tradisional-saat-tiba-di-markas-madura-united?source=KOMPASCOM&position=tren_terkini__carousel_player_1"
-        },
-        {
-          "title": "Thom Haye Starter, Ini Susunan Pemain Persib vs Madura",
-          "source": "RRI.co.id",
-          "url": "https://rri.co.id/bandung/sepak-bola/2834169/thom-haye-starter-ini-susunan-pemain-persib-vs-madura"
         }
       ]
     },
@@ -176,50 +220,6 @@
           "title": "호날두의 제재금은 단 38만원? 호날두의 ‘38초’ 급여!",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8690704"
-        }
-      ]
-    },
-    {
-      "title": "반포 래미안 원펜타스",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 05:10:00 -0700",
-      "news": [
-        {
-          "title": "“당첨되면 40억 대박”…반포 원펜타스, 역대급 ‘줍줍’ 4가구 풀린다",
-          "source": "매일경제TV",
-          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005944504"
-        },
-        {
-          "title": "'이혜훈 논란' 원펜타스서 부정청약 4가구 계약취소 수순",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003834749"
-        },
-        {
-          "title": "'로또 청약' 반포 원펜타스, 시세차익 40억짜리 4가구 나온다",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/10/20/2026102002620.html"
-        }
-      ]
-    },
-    {
-      "title": "더중앙플러스",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 05:00:00 -0700",
-      "news": [
-        {
-          "title": "“나 아저씨 상대했어”…15세 딸, 새까만 얼굴로 죽었다",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25471498"
-        },
-        {
-          "title": "MB “죄다 제명할 사람들을!”…박근혜 만난 뒤 온 ‘비밀 명단’",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25471584"
-        },
-        {
-          "title": "MB “죄다 제명할 사람들을!”…박근혜 만난 뒤 온 ‘비밀 명단’",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261021130040506"
         }
       ]
     }
