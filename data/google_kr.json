@@ -1,7 +1,7 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T17:36:46+00:00",
+  "fetched_at": "2026-10-22T18:06:36+00:00",
   "items": [
     {
       "title": "레흐 포즈난 대 선덜랜드",
@@ -14,7 +14,7 @@
           "url": "https://www.bbc.com/sport/football/live/cqz0vym1pk55t"
         },
         {
-          "title": "Lech Poznan v Sunderland, Juventus v Rennes, and more: Europa League – live",
+          "title": "(3) Lech Poznan v Sunderland, Juventus v Rennes, and more: Europa League – live",
           "source": "The Guardian",
           "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live"
         },
@@ -80,9 +80,9 @@
           "url": "https://weekly.khan.co.kr/article/202610221824001"
         },
         {
-          "title": "[아는기자]북한 이상징후?…김여정 전면에, 왜?",
-          "source": "채널A 뉴스",
-          "url": "https://ichannela.com/news/detail/000000556391.do"
+          "title": "북한 매체 홈페이지 '먹통'...'김정은 사망설'과 관계 있나? [앵커리포트]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610220831313775"
         },
         {
           "title": "북한 웹사이트 접속 '원활'‥장애 복구된 듯",
@@ -207,6 +207,11 @@
       "published": "Thu, 22 Oct 2026 06:40:00 -0700",
       "news": [
         {
+          "title": "[崔宣 칼럼] 칼빈에서 대한민국으로, 그리고 세계로",
+          "source": "뉴스앤넷",
+          "url": "https://www.newsnnet.com/news/articleView.html?idxno=31036"
+        },
+        {
           "title": "전 축구선수 故강지용 아내 저격글...\"거짓말한 당신들, 늘 부끄럽길\" - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/society/2026/10/22/2026102205252495794"
@@ -215,11 +220,6 @@
           "title": "\"사는 동안 늘 부끄럽길\"...'이숙캠' 故 강지용 아내, SNS에 의미심장 글",
           "source": "파이낸셜뉴스",
           "url": "https://www.fnnews.com/news/202610212150462507"
-        },
-        {
-          "title": "故강지용 아내, 남편 비보 후 작심 비판…“벼랑 끝으로 밀어붙여” 두렵지 않다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12181376"
         }
       ]
     }
