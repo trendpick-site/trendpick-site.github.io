@@ -1,8 +1,96 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T13:49:18+00:00",
+  "fetched_at": "2026-10-22T14:41:22+00:00",
   "items": [
+    {
+      "title": "박철순",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 06:20:00 -0700",
+      "news": [
+        {
+          "title": "다음달 14일 잠실야구장 기념 이벤트 경기...은퇴 스타 58명 총출동",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610221404576407"
+        },
+        {
+          "title": "'굿바이 잠실!'‥45년 야구 성지 역사 속으로",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859794_37012.html"
+        },
+        {
+          "title": "출입구부터 좌석까지 하나하나 사진으로…팬들이 남긴 잠실야구장의 마지막 순간",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807799"
+        }
+      ]
+    },
+    {
+      "title": "페이커",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 06:10:00 -0700",
+      "news": [
+        {
+          "title": "우정사업본부, 페이커 기념 우표 출시 맞아 '굿즈'도 선보인다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/10/22/2026102209111048608"
+        },
+        {
+          "title": "페이커 기념우표 굿즈 나온다…우표카드 등 출시",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1179217"
+        },
+        {
+          "title": "[우정 이야기] 우표에 새겨진 LoL 전설 ‘갓상혁’ 영광의 순간들",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610210600051"
+        }
+      ]
+    },
+    {
+      "title": "에릭 남",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 06:00:00 -0700",
+      "news": [
+        {
+          "title": "'은퇴설' 에릭남, 이런 일이...\"배신 당하고 억대 돈 뜯겨\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102120571684556"
+        },
+        {
+          "title": "에릭남, 美서 인종차별 당했다…\"얼굴에 침 뱉고 눈 찢어\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003836981"
+        },
+        {
+          "title": "에릭남 “정신 건강 무너지고 몸도 아팠다”…공황장애에서 놓치면 안 되는 증상",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261022/134890428/2"
+        }
+      ]
+    },
+    {
+      "title": "기수",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 05:50:00 -0700",
+      "news": [
+        {
+          "title": "'경마 통산 1천승' 서승운 기수 \"처음부터 다시 시작\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022125600007"
+        },
+        {
+          "title": "‘경마 1000승의 사나이’ 서승운 “처음부터 다시 시작”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625489"
+        },
+        {
+          "title": "렛츠런파크 부산경남 서승운 기수, 15년 만에 1002승 달성 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/10/22/2026102214150285344"
+        }
+      ]
+    },
     {
       "title": "메시",
       "approx_traffic": "500+",
@@ -31,19 +119,19 @@
       "published": "Thu, 22 Oct 2026 05:30:00 -0700",
       "news": [
         {
-          "title": "나는 SOLO",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638563"
+          "title": "'나솔' 25기 영수·순자, 깜짝 결혼...교제 4개월만 초고속 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/22/2026102221003790088"
         },
         {
-          "title": "\"호감 떨어졌다\"…'나솔' 인기녀 타투 폭로에 호불호 공방",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610228829H"
+          "title": "25기 영수♥순자, 12월 5일 결혼 발표… “연애 두 달 만에 프로포즈”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610221824003"
         },
         {
-          "title": "‘나솔’ 34기 영숙, 집에서 발견된 ‘곱창 같은 것’ 탯줄이었다…“父가 직접 잘라줘”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/22/GU3DENBVMVRGKNBTGY4TEMBVGI/"
+          "title": "'나는 솔로' 25기 영수·순자, 12월 5일 결혼… \"첫 만남 2년 만에 결실\"",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3729932"
         }
       ]
     },
@@ -58,14 +146,14 @@
           "url": "https://www.instagram.com/reel/DezCaDASRp6/"
         },
         {
-          "title": "Gomes Tak Rela Persib Bawa Pulang Poin dari Pamekasan",
-          "source": "BeritaSatu.com",
-          "url": "https://www.beritasatu.com/sport/3035731/gomes-tak-rela-persib-bawa-pulang-poin-dari-pamekasan"
+          "title": "Tim Persib Bandung Disambut Musik Tradisional Saat Tiba di Markas Madura United",
+          "source": "Kompas.com",
+          "url": "https://video.kompas.com/watch/1963106/tim-persib-bandung-disambut-musik-tradisional-saat-tiba-di-markas-madura-united?source=KOMPASCOM&position=tren_terkini__carousel_player_1"
         },
         {
-          "title": "Persija Dijagokan Juara Super League, Kapten Persib Siap Duel Demi 3 Poin di Kandang Madura United",
-          "source": "Tribunjakarta.com",
-          "url": "https://jakarta.tribunnews.com/superball/445054/persija-dijagokan-juara-super-league-kapten-persib-siap-duel-demi-3-poin-di-kandang-madura-united"
+          "title": "Thom Haye Starter, Ini Susunan Pemain Persib vs Madura",
+          "source": "RRI.co.id",
+          "url": "https://rri.co.id/bandung/sepak-bola/2834169/thom-haye-starter-ini-susunan-pemain-persib-vs-madura"
         }
       ]
     },
@@ -132,94 +220,6 @@
           "title": "MB “죄다 제명할 사람들을!”…박근혜 만난 뒤 온 ‘비밀 명단’",
           "source": "미주중앙일보",
           "url": "https://www.koreadaily.com/article/20261021130040506"
-        }
-      ]
-    },
-    {
-      "title": "weather tomorrow",
-      "approx_traffic": "2000+",
-      "published": "Thu, 22 Oct 2026 04:50:00 -0700",
-      "news": [
-        {
-          "title": "UAE braces for rain, dusty winds and fog as temperatures reach 41°C",
-          "source": "Gulf News",
-          "url": "https://gulfnews.com/uae/weather/uae-weather-rain-forecast-in-parts-of-country-as-temperatures-hit-41c-1.500719175"
-        },
-        {
-          "title": "Super El Niño is back in the spotlight... Will it bring a different winter to the Arab region?",
-          "source": "طقس العرب",
-          "url": "https://www.arabiaweather.com/en/content/super-el-nio-is-back-in-the-spotlight-will-it-bring-a-different-winter-to-the-arab-region"
-        },
-        {
-          "title": "Hailstones Pelt Camels as Thunderstorms Sweep Across UAE Desert",
-          "source": "The Media Line",
-          "url": "https://themedialine.org/mideast-daily-news/hailstones-pelt-camels-as-thunderstorms-sweep-across-uae-desert/"
-        }
-      ]
-    },
-    {
-      "title": "투기",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 04:50:00 -0700",
-      "news": [
-        {
-          "title": "‘외국인 부동산 투기’ 막겠다더니…집 사겠다는 100명 중 96명 통과",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12182692"
-        },
-        {
-          "title": "서울 외국인 토지거래허가율 96%…\"실거주 의무 확인은 미흡\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022053900001"
-        },
-        {
-          "title": "서울 외국인 주택매입 허가 96%…실거주 점검은 10건 중 4건 미완료",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610228177i"
-        }
-      ]
-    },
-    {
-      "title": "погода завтра",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 04:50:00 -0700",
-      "news": [
-        {
-          "title": "Прогноз погоды на ближайшие два дня: в регионах пройдут дожди, в горах выпадет град",
-          "source": "azərtac",
-          "url": "https://azertag.az/ru/xeber/prognoz_pogody_na_blizhaishie_dva_dnya_v_regionah_proidut_dozhdi_v_gorah_vypadet_grad-4472880"
-        },
-        {
-          "title": "На Баку обрушатся дожди и грозы",
-          "source": "Minval Politika",
-          "url": "https://minval.az/news/124559078"
-        },
-        {
-          "title": "Прогноз погоды в Азербайджане на 23.10.2026",
-          "source": "Oxu.Az",
-          "url": "https://oxu.az/ru/obshestvo/prognoz-pogody-v-azerbajdzhane-na-23-10-2026"
-        }
-      ]
-    },
-    {
-      "title": "thời tiết ngày mai",
-      "approx_traffic": "2000+",
-      "published": "Thu, 22 Oct 2026 04:40:00 -0700",
-      "news": [
-        {
-          "title": "Dự báo thời tiết đêm 22 và ngày 23/10",
-          "source": "Báo Lào Cai điện tử",
-          "url": "https://baolaocai.vn/du-bao-thoi-tiet-dem-22-va-ngay-2310-post912581.html"
-        },
-        {
-          "title": "[Video] Dự báo thời tiết đêm nay và ngày mai 23/10/2026: Mưa dông thu hẹp tại Trung Bộ và Nam Bộ, Bắc Bộ tăng nhiệt",
-          "source": "Báo Nhân Dân điện tử",
-          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-23102026-mua-dong-thu-hep-tai-trung-bo-va-nam-bo-bac-bo-tang-nhiet-post997332.html"
-        },
-        {
-          "title": "Miền Bắc sắp có mưa trong 2 ngày liên tiếp",
-          "source": "CafeF",
-          "url": "https://cafef.vn/mien-bac-sap-co-mua-trong-2-ngay-lien-tiep-188261022174151814.chn"
         }
       ]
     }
