@@ -1,11 +1,33 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T05:12:52+00:00",
+  "fetched_at": "2026-10-22T05:44:29+00:00",
   "items": [
     {
+      "title": "수사",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 21:40:00 -0700",
+      "news": [
+        {
+          "title": "이 대통령 “AI 인용, 수준 낮은 ‘중수청장 열외 논리’ 느껴보라 한 것”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1283619.html"
+        },
+        {
+          "title": "청와대 \"검찰총장 국무회의 배석 않을 때는 중립성 지켰나\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810251"
+        },
+        {
+          "title": "청와대 “국무회의 참석이 수사기관 통제? 전혀 맞지 않아…제미나이에는 법조문 팩트 물어본 것”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610221134001"
+        }
+      ]
+    },
+    {
       "title": "장시환",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Wed, 21 Oct 2026 21:00:00 -0700",
       "news": [
         {
@@ -19,9 +41,9 @@
           "url": "https://www.chosun.com/sports/baseball/2026/10/22/GYZDSZJTGI4TKMZXMZSTSZDGMQ/"
         },
         {
-          "title": "시즌 마무리한 LG, 11명 방출하며 선수단 정리…장시환·송대현은 은퇴",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003836595"
+          "title": "’유니콘스 마지막 유산’ 떠난다…LG 불펜 장시환 현역 은퇴",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261022140030Isu"
         }
       ]
     },
@@ -59,9 +81,9 @@
       "published": "Wed, 21 Oct 2026 20:50:00 -0700",
       "news": [
         {
-          "title": "정지선, 유튜브 돌연 운영 중단 \"언젠가 시간이 흘러…\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003835962"
+          "title": "‘흑백요리사’ 정지선, 돌연 유튜브 중단…“언제 돌아올지 약속 못 해”",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261021162801439"
         },
         {
           "title": "정지선 셰프, 16만 유튜브 잠정 중단… “마지막 인사 아니길” - 조선비즈",
@@ -69,9 +91,31 @@
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/MJMQBS464ZG23IMQEHSX2MEJPM/"
         },
         {
-          "title": "‘흑백요리사’ 정지선, 돌연 유튜브 중단…“언제 돌아올지 약속 못 해”",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261021162801439"
+          "title": "정지선, 유튜브 돌연 운영 중단 \"언젠가 시간이 흘러…\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003835962"
+        }
+      ]
+    },
+    {
+      "title": "소송",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 20:50:00 -0700",
+      "news": [
+        {
+          "title": "영풍, 고려아연 이사진 상대 주주대표소송 1심 패소...\"항소할 것\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610221129330535_005.html"
+        },
+        {
+          "title": "고려아연 주주대표소송 1심 패소한 영풍·MBK \"즉각 항소\"",
+          "source": "아시아경제",
+          "url": "https://core.asiae.co.kr/article/2026102214183707463"
+        },
+        {
+          "title": "당시 대표는 최윤범, 누가 94억 승인했나⋯ 측근 ‘상장사 되사기’ 우회지원 의혹",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261022500504"
         }
       ]
     },
@@ -125,41 +169,19 @@
       "published": "Wed, 21 Oct 2026 20:10:00 -0700",
       "news": [
         {
-          "title": "“부캉아 왜 돌아왔니 ㅠㅠ”…먼 바다로 나간줄 알았더니 전날 밤 수로 재진입",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610220907001"
-        },
-        {
           "title": "수로 밖 나간 상어 '부캉이' 다시 돌아왔다…외해 복귀 못 해",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261022023800051"
         },
         {
-          "title": "수로 밖으로 몰아냈던 흑상어 ‘부캉이’, 밤새 그물망 뚫고 다시 돌아왔다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/regional/2026/10/22/PB3ORTCRRJGWZLQ6V2RXYYEOD4/"
-        }
-      ]
-    },
-    {
-      "title": "nba",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 20:10:00 -0700",
-      "news": [
-        {
-          "title": "Timberwolves' Backcourt Duo Edwards, Ball Lead 131-106 Win Over Heat",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/10/22/BLEWEQ2R4NHKRHQZZNILIBYRDY/"
+          "title": "바다로 나간 ‘부캉이’, 왜 다시 돌아왔나",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261022/134889864/1"
         },
         {
-          "title": "The Minnesota Timberwolves beat the Miami Heat in the opener.Minnesota beat Miami 131-106 in an away..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12182716"
-        },
-        {
-          "title": "Giannis takes blame for heavy defeat: “I have to be better”",
-          "source": "Eurohoops",
-          "url": "https://www.eurohoops.net/en/nba-news/2024119/giannis-antetokounmpo-talks-miami-heat-loss-nba/"
+          "title": "부캉아, 5시간 만에 왜 또 왔어…“이대론 생존 위태, 바다로 재유도해야”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/animalpeople/human_animal/1283616.html"
         }
       ]
     },
@@ -182,28 +204,6 @@
           "title": "“다저스 노쇠화 모두 알고 있잖아”…특급 유망주 기용 절실! 그런데 오타니·테오스카·터커 있다",
           "source": "스포츠동아",
           "url": "https://sports.donga.com/sports/article/all/20261021/134884491/1"
-        }
-      ]
-    },
-    {
-      "title": "문상철",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 20:00:00 -0700",
-      "news": [
-        {
-          "title": "'끝내기 4회' kt 문상철, 은퇴 선언 \"뜨거운 응원 잊지 못할 것\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022086100007"
-        },
-        {
-          "title": "구원왕 김재윤 상대 130m 장외포, 가을 무력시위인 줄 알았는데…12년 '원클럽맨', 극적인 작별인사였다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/22/MU2DCNBTG4ZTGMRYMY2WMYJXGI/"
-        },
-        {
-          "title": "’KT 창단 멤버’ 문상철, 은퇴 선언… 2027시즌 중 은퇴식 개최",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261022113704ukI"
         }
       ]
     }
