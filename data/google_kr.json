@@ -1,33 +1,187 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T07:49:21+00:00",
+  "fetched_at": "2026-10-22T08:44:41+00:00",
   "items": [
     {
-      "title": "휴직",
-      "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 23:40:00 -0700",
+      "title": "삼성e&a",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 00:40:00 -0700",
       "news": [
         {
-          "title": "육아휴직 냈더니 보복 해고·갑질… 위반 폭증에도 기소율 고작 2%",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261022580140"
+          "title": "[특징주] 삼성E&A, 3분기 호실적·자사주 취득에 16% 급등(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022039551008"
         },
         {
-          "title": "육아 휴직 후 퇴사율, 남녀 얼마나 다를까 조사해보니",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261022084817"
+          "title": "'건설 대장주'도 제쳤다…사상 첫 '1조원' 잭팟에 급등한 종목",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610228732i"
         },
         {
-          "title": "\"육아휴직 신청하자 해고\"…`사업주 법 위반` 3년간 219건→607건",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261022.99099006451"
+          "title": "코스피 숨고르는 사이…'삼성E&A 깜짝실적' 건설주 질주 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/22/2026102211285989375"
+        }
+      ]
+    },
+    {
+      "title": "신지",
+      "approx_traffic": "2000+",
+      "published": "Thu, 22 Oct 2026 00:30:00 -0700",
+      "news": [
+        {
+          "title": "신지♥문원 벌써 '부부 상담'...\"코요태 활동 문제로 부딪혀\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/22/2026102214361261972"
+        },
+        {
+          "title": "신지, 남편에 선 그었다 \"내 음악 활동에 관여 말길\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/10/22/A3XG7J4JNVE3TKKFZB6YM2EX2E/"
+        },
+        {
+          "title": "신지, 결혼 5개월 만 부부상담 나서…\"내 음악에 남편 관여 말길\"[투데이픽]",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522090"
+        }
+      ]
+    },
+    {
+      "title": "대한 광통신",
+      "approx_traffic": "1000+",
+      "published": "Thu, 22 Oct 2026 00:30:00 -0700",
+      "news": [
+        {
+          "title": "대한광통신, EUV용 유리기판 제조 기술 확보",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719336"
+        },
+        {
+          "title": "대한광통신, LTEM 기반 유리기판 제조 기술 특허 등록",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003836227"
+        },
+        {
+          "title": "대한광통신, EUV용 유리기판 제조 기술 확보… “반도체 핵심 소재 국산화 기반 마련”",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03768726645615544"
+        }
+      ]
+    },
+    {
+      "title": "new zealand vs india",
+      "approx_traffic": "1000+",
+      "published": "Thu, 22 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "NZ vs IND 1st T20I LIVE REPORT - India recover after Allen's early onslaught",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-t20i-1539432/live-match-blog"
+        },
+        {
+          "title": "India wins the toss and bowls in the 1st T20 cricket international against New Zealand",
+          "source": "WRAL",
+          "url": "https://www.wral.com/news/ap/d7bc6-india-wins-the-toss-and-bowls-in-the-1st-t20-cricket-international-against-new-zealand/"
+        },
+        {
+          "title": "Live: Black Caps v India - first T20",
+          "source": "Stuff",
+          "url": "https://www.stuff.co.nz/sport/361048917/live-black-caps-v-india-first-t20"
+        }
+      ]
+    },
+    {
+      "title": "비료",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "무기질비료값 평균 5.1% 인하…농협 “영농비 85억 절감효과”",
+          "source": "농민신문",
+          "url": "https://www.nongmin.com/article/20261021500571"
+        },
+        {
+          "title": "농협, 요소비료 가격 13.9% 인하…무기질비료도 평균 5.1% 내려",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020053900030"
+        },
+        {
+          "title": "비료값 오늘부터 평균 5.1% 인하…가격보조도 유지",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261020_0003832739"
+        }
+      ]
+    },
+    {
+      "title": "학생",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "3기 신도시 첫 입주, 어디계양?",
+          "source": "대한민국 청와대",
+          "url": "https://www.president.go.kr/videos/75YrFMZH"
+        },
+        {
+          "title": "제주 전국체전 폐막…메달 140개 역대 두 번째",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845095"
+        },
+        {
+          "title": "“스타 선수가 제주에!”…관람 열기도 ‘후끈’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690654"
+        }
+      ]
+    },
+    {
+      "title": "성과급",
+      "approx_traffic": "5000+",
+      "published": "Wed, 21 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "삼전·SK하닉이 쏜 돈다발도 한몫?…한은 \"성과급 100만원 늘면 소비 11만원 증가\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12324375"
+        },
+        {
+          "title": "한은 \"반도체 호황에 소비 회복세 확대\"…'낙수효과' 기대",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022124000002"
+        },
+        {
+          "title": "한은 \"소비회복 아직 제한적…'소득·재정·환율' 통해 점차 확대\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440672"
+        }
+      ]
+    },
+    {
+      "title": "이계인",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "\"전처가 내연남과 동거\"...이계인 '사기 결혼'에 용산 집 팔아 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/22/2026102207560672803"
+        },
+        {
+          "title": "이계인 \"팔면 오르고 옮기면 폭망\"…파란만장 부동산 오디세이",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003836594"
+        },
+        {
+          "title": "이계인, ‘전처가 내연남과 10년 동거’ 충격에 용산 아파트 처분..“집이 징그럽더라” (‘그리구라’)",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896476"
         }
       ]
     },
     {
       "title": "경마",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Wed, 21 Oct 2026 23:40:00 -0700",
       "news": [
         {
@@ -48,6 +202,11 @@
       "published": "Wed, 21 Oct 2026 23:30:00 -0700",
       "news": [
         {
+          "title": "‘쿠팡 블랙리스트’ 공익제보자 등 2명 송치…정보통신망법 위반 혐의",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/capital/1283654.html"
+        },
+        {
           "title": "[단독]경찰, ‘쿠팡 블랙리스트’ 공익제보자 김준호씨 공소청 송치",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202610221123011"
@@ -56,160 +215,6 @@
           "title": "[자막뉴스] 쿠팡 블랙리스트 공익제보자 송치…쿠팡도 고소 취하했는데 대체 왜?",
           "source": "SBS 뉴스",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810279"
-        },
-        {
-          "title": "‘쿠팡 블랙리스트’ 공익제보자 등 2명 송치…정통망법 위반",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692516"
-        }
-      ]
-    },
-    {
-      "title": "전주월드컵경기장",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 23:20:00 -0700",
-      "news": [
-        {
-          "title": "“고척돔 지붕 철골 23개 꺾였는데 보강 부실”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261022/134886270/2"
-        },
-        {
-          "title": "서울시 \"고척돔 철골 보강 완료\"…내달 안전성 추가 검증",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022141400004"
-        }
-      ]
-    },
-    {
-      "title": "결혼식",
-      "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 23:10:00 -0700",
-      "news": [
-        {
-          "title": "‘58세 결혼’ 김형진, 아내 얼굴 공개…“예쁘게 살겠다”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12182403"
-        },
-        {
-          "title": "58세 김형진, 결혼식 현장 공개…미모의 비연예인 신부와 다정 투샷",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6327917"
-        },
-        {
-          "title": "'올해 58세' 김형진, 늦깎이 신랑 된 소회 \"잘 살게요\"",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026102115300003825?dtypecode=pancode_culture"
-        }
-      ]
-    },
-    {
-      "title": "김나라",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 23:10:00 -0700",
-      "news": [
-        {
-          "title": "‘킬잇’ 우승자 김나라, 8년 연애 동성 연인과 결혼",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12181722"
-        },
-        {
-          "title": "\"돈 때문에 미뤘던 결혼\"…김나라, 동성 연인과 웨딩 사진 공개 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102110425869923"
-        },
-        {
-          "title": "‘킬잇’ 우승자 김나라, 8년 열애 동성연인과 10월 결혼…웨딩화보 공개[핫피플] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/MM4GCYLBGQ4TSMBRGU4GCZDGMM/"
-        }
-      ]
-    },
-    {
-      "title": "유조선",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "이란 '그림자 선단' 비축유 동났나…아시아行 유조선 물량 소진",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022091500009"
-        },
-        {
-          "title": "중동 원유수출, 전쟁 전 수준 넘어서‥호르무즈도 82%까지 회복",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6859569_36925.html"
-        },
-        {
-          "title": "이란, 해외 해상 유조선 비축원유 바닥…美봉쇄에 中수출도 끝나",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/middleeast-africa/6328726"
-        }
-      ]
-    },
-    {
-      "title": "군위군",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "민생지원금 받으려고 농촌 위장전입한 공무원들···군위군 소속 20여명 등 40명 송치",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610221104001"
-        },
-        {
-          "title": "대구경찰, 농어촌지원금 등 노리고 군위군 위장전입한 40명 송치",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022052100053?section=society/accident"
-        },
-        {
-          "title": "군위군 공무원만 20여명... 경찰, 위장전입한 40명 송치",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/incident/2026/10/22/ACTNYVM2ARCFVJ4YOVMK6HHK2I/"
-        }
-      ]
-    },
-    {
-      "title": "백화점",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "롯데百, 서울에 15년만의 신규점…청량리에 ‘초집약 쇼핑몰’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261022/134890049/1"
-        },
-        {
-          "title": "롯데百, 청량리에 ‘벨리타운’ 개점… 5400평 규모 초집약형 쇼핑몰",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3442210"
-        },
-        {
-          "title": "청량리에 ‘롯데몰 벨리타운’ 개장···롯데백화점, 15년 만의 서울 신규 매장",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610221052001"
-        }
-      ]
-    },
-    {
-      "title": "토지거래허가제",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "‘외국인 부동산 투기’ 막겠다더니…집 사겠다는 100명 중 96명 통과",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12182692"
-        },
-        {
-          "title": "서울 외국인 토지거래허가율 96%…\"실거주 의무 확인은 미흡\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022053900001"
-        },
-        {
-          "title": "서울 외국인 주택매입 허가 96%…실거주 점검은 10건 중 4건 미완료",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610228177i"
         }
       ]
     }
