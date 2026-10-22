@@ -1,117 +1,12 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T06:46:56+00:00",
+  "fetched_at": "2026-10-22T07:49:21+00:00",
   "items": [
     {
-      "title": "백화점",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "청량리에 ‘롯데몰 벨리타운’ 개장···롯데백화점, 15년 만의 서울 신규 매장",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610221052001"
-        },
-        {
-          "title": "롯데百, 청량리에 ‘벨리타운’ 개점… 5400평 규모 초집약형 쇼핑몰",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3442210"
-        },
-        {
-          "title": "무신사, 대형 유통채널에 가방·모자 전문 편집숍 입점",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440483"
-        }
-      ]
-    },
-    {
-      "title": "토지거래허가제",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "‘외국인 부동산 투기’ 막겠다더니…집 사겠다는 100명 중 96명 통과",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12182692"
-        },
-        {
-          "title": "서울 외국인 토지거래허가율 96%…\"실거주 의무 확인은 미흡\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022053900001"
-        },
-        {
-          "title": "서울 외국인 주택매입 허가 96%…실거주 점검은 10건 중 4건 미완료",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610228177i"
-        }
-      ]
-    },
-    {
-      "title": "손예진",
-      "approx_traffic": "10000+",
-      "published": "Wed, 21 Oct 2026 22:30:00 -0700",
-      "news": [
-        {
-          "title": "손예진, 직접 차린 ‘9첩 반상’ 집밥 공개... 식탁 위 아기손 뽀짝",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/21/GMYWKZRSGVTDOZDFG4ZWKNZXHA/"
-        },
-        {
-          "title": "손예진, 현빈·아들과 집밥 일상…\"다 같이 먹을 때 제일 행복\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003836149"
-        },
-        {
-          "title": "손예진, ♥현빈·子 위한 수준급 밥상 공개…“이때가 제일 행복”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610220908013"
-        }
-      ]
-    },
-    {
-      "title": "한국투자증권",
-      "approx_traffic": "100+",
-      "published": "Wed, 21 Oct 2026 22:30:00 -0700",
-      "news": [
-        {
-          "title": "이억원 \"증권사, 해외 사모대출 확대 리스크 지속 점검\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440530"
-        },
-        {
-          "title": "[2026 국감] 김현정 \"한투 IMA, 해외 사모대출 비중 높아…부실 국내 전이 우려\"",
-          "source": "뉴스웍스",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=900353"
-        }
-      ]
-    },
-    {
-      "title": "투자",
-      "approx_traffic": "5000+",
-      "published": "Wed, 21 Oct 2026 22:20:00 -0700",
-      "news": [
-        {
-          "title": "\"딥시크, 20조원 투자유치 마무리중\"…패권경쟁 실탄 확보",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022123100009"
-        },
-        {
-          "title": "“中 딥시크, 20조원 투자 유치 막바지…CATL·텐센트 '큰손' 참여”",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261022000358"
-        },
-        {
-          "title": "中 딥시크, 20조 투자 유치… 美 AI와 자금 격차 좁힌다",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172576"
-        }
-      ]
-    },
-    {
-      "title": "육아휴직",
-      "approx_traffic": "1000+",
-      "published": "Wed, 21 Oct 2026 22:00:00 -0700",
+      "title": "휴직",
+      "approx_traffic": "2000+",
+      "published": "Wed, 21 Oct 2026 23:40:00 -0700",
       "news": [
         {
           "title": "육아휴직 냈더니 보복 해고·갑질… 위반 폭증에도 기소율 고작 2%",
@@ -131,90 +26,190 @@
       ]
     },
     {
-      "title": "분당 신도시",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 21:50:00 -0700",
+      "title": "경마",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 23:40:00 -0700",
       "news": [
         {
-          "title": "‘공사비 2.9조’ 분당 샛별마을 재건축, 연내 시공사 선정 나선다…GS·대우건설 '관심'",
-          "source": "디벨로퍼뉴스",
-          "url": "https://www.dpnews.co.kr/news/articleView.html?idxno=2628"
-        },
-        {
-          "title": "“천당 위 분당? 7억은 번다” 지금 사도 돈 되는 ‘로또 재건축’",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25471562"
-        },
-        {
-          "title": "서울 재개발 사면 대박?…전문가가 꼽은 유망 지역은 30곳 중 5곳",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261019_0003832108"
-        }
-      ]
-    },
-    {
-      "title": "론스타 펀드",
-      "approx_traffic": "500+",
-      "published": "Wed, 21 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "론스타, '1,682억 세금반환' 파기환송심 패소...정부·서울시 승소",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610221106083235_005.html"
-        },
-        {
-          "title": "론스타 ‘1682억 세금 반환 소송’ 파기환송심서 패소",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/10/22/DYVCZO7BFBCQZLNLROSGKRTXGQ/"
-        },
-        {
-          "title": "[속보] 정부, 론스타 1682억 세금반환 파기환송심 승소",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261022103942Csg"
-        }
-      ]
-    },
-    {
-      "title": "수사",
-      "approx_traffic": "200+",
-      "published": "Wed, 21 Oct 2026 21:40:00 -0700",
-      "news": [
-        {
-          "title": "李대통령 \"중수청 지휘감독 포기하는 건 탄핵 사유\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/politics_general/2026/10/22/SJL6MWABZRDB5J7KUNVXM2FXI4/"
-        },
-        {
-          "title": "이 대통령 “몰라서 제미나이 인용한 것 아니라…” 진짜 이유는? [지금뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692528"
-        },
-        {
-          "title": "청와대 “국무회의 참석이 수사기관 통제? 전혀 맞지 않아…제미나이에는 법조문 팩트 물어본 것”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610221134001"
-        }
-      ]
-    },
-    {
-      "title": "맥주",
-      "approx_traffic": "2000+",
-      "published": "Wed, 21 Oct 2026 21:30:00 -0700",
-      "news": [
-        {
-          "title": "(2026 국감)김정관 장관 “산업과 에너지는 같이 가야”…원전 국내외 업무 분리 비효율 인정",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=373771"
-        },
-        {
-          "title": "여야, 산자위서 '자원외교 실패'·'에너지 부처 개편' 두고 공방",
+          "title": "[이천소식] '경마공원 유치 자문단' 구성",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022090400001"
+          "url": "https://www.yna.co.kr/view/AKR20261022083600061"
         },
         {
-          "title": "[2026 국감] 산업부, 광주 반도체 인프라 ‘5.4조’ 첫 제출…”컨트롤타워 맞나“ 국감 질타",
-          "source": "에너지경제신문",
-          "url": "https://www.ekn.kr/web/view.php?key=20261022027229776"
+          "title": "이천시, 경마공원 유치전 승부수.. ‘민관 협력체계’ 가동",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/region/article/all/20261022/134889396/1"
+        }
+      ]
+    },
+    {
+      "title": "송치",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 23:30:00 -0700",
+      "news": [
+        {
+          "title": "[단독]경찰, ‘쿠팡 블랙리스트’ 공익제보자 김준호씨 공소청 송치",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610221123011"
+        },
+        {
+          "title": "[자막뉴스] 쿠팡 블랙리스트 공익제보자 송치…쿠팡도 고소 취하했는데 대체 왜?",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810279"
+        },
+        {
+          "title": "‘쿠팡 블랙리스트’ 공익제보자 등 2명 송치…정통망법 위반",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692516"
+        }
+      ]
+    },
+    {
+      "title": "전주월드컵경기장",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 23:20:00 -0700",
+      "news": [
+        {
+          "title": "“고척돔 지붕 철골 23개 꺾였는데 보강 부실”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261022/134886270/2"
+        },
+        {
+          "title": "서울시 \"고척돔 철골 보강 완료\"…내달 안전성 추가 검증",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022141400004"
+        }
+      ]
+    },
+    {
+      "title": "결혼식",
+      "approx_traffic": "2000+",
+      "published": "Wed, 21 Oct 2026 23:10:00 -0700",
+      "news": [
+        {
+          "title": "‘58세 결혼’ 김형진, 아내 얼굴 공개…“예쁘게 살겠다”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12182403"
+        },
+        {
+          "title": "58세 김형진, 결혼식 현장 공개…미모의 비연예인 신부와 다정 투샷",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6327917"
+        },
+        {
+          "title": "'올해 58세' 김형진, 늦깎이 신랑 된 소회 \"잘 살게요\"",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026102115300003825?dtypecode=pancode_culture"
+        }
+      ]
+    },
+    {
+      "title": "김나라",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 23:10:00 -0700",
+      "news": [
+        {
+          "title": "‘킬잇’ 우승자 김나라, 8년 연애 동성 연인과 결혼",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12181722"
+        },
+        {
+          "title": "\"돈 때문에 미뤘던 결혼\"…김나라, 동성 연인과 웨딩 사진 공개 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102110425869923"
+        },
+        {
+          "title": "‘킬잇’ 우승자 김나라, 8년 열애 동성연인과 10월 결혼…웨딩화보 공개[핫피플] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/MM4GCYLBGQ4TSMBRGU4GCZDGMM/"
+        }
+      ]
+    },
+    {
+      "title": "유조선",
+      "approx_traffic": "1000+",
+      "published": "Wed, 21 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "이란 '그림자 선단' 비축유 동났나…아시아行 유조선 물량 소진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022091500009"
+        },
+        {
+          "title": "중동 원유수출, 전쟁 전 수준 넘어서‥호르무즈도 82%까지 회복",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6859569_36925.html"
+        },
+        {
+          "title": "이란, 해외 해상 유조선 비축원유 바닥…美봉쇄에 中수출도 끝나",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/middleeast-africa/6328726"
+        }
+      ]
+    },
+    {
+      "title": "군위군",
+      "approx_traffic": "100+",
+      "published": "Wed, 21 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "민생지원금 받으려고 농촌 위장전입한 공무원들···군위군 소속 20여명 등 40명 송치",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610221104001"
+        },
+        {
+          "title": "대구경찰, 농어촌지원금 등 노리고 군위군 위장전입한 40명 송치",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022052100053?section=society/accident"
+        },
+        {
+          "title": "군위군 공무원만 20여명... 경찰, 위장전입한 40명 송치",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/incident/2026/10/22/ACTNYVM2ARCFVJ4YOVMK6HHK2I/"
+        }
+      ]
+    },
+    {
+      "title": "백화점",
+      "approx_traffic": "500+",
+      "published": "Wed, 21 Oct 2026 22:40:00 -0700",
+      "news": [
+        {
+          "title": "롯데百, 서울에 15년만의 신규점…청량리에 ‘초집약 쇼핑몰’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261022/134890049/1"
+        },
+        {
+          "title": "롯데百, 청량리에 ‘벨리타운’ 개점… 5400평 규모 초집약형 쇼핑몰",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3442210"
+        },
+        {
+          "title": "청량리에 ‘롯데몰 벨리타운’ 개장···롯데백화점, 15년 만의 서울 신규 매장",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610221052001"
+        }
+      ]
+    },
+    {
+      "title": "토지거래허가제",
+      "approx_traffic": "200+",
+      "published": "Wed, 21 Oct 2026 22:40:00 -0700",
+      "news": [
+        {
+          "title": "‘외국인 부동산 투기’ 막겠다더니…집 사겠다는 100명 중 96명 통과",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12182692"
+        },
+        {
+          "title": "서울 외국인 토지거래허가율 96%…\"실거주 의무 확인은 미흡\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022053900001"
+        },
+        {
+          "title": "서울 외국인 주택매입 허가 96%…실거주 점검은 10건 중 4건 미완료",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610228177i"
         }
       ]
     }
