@@ -1,33 +1,121 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T22:39:20+00:00",
+  "fetched_at": "2026-10-22T23:07:24+00:00",
   "items": [
     {
-      "title": "thời tiết",
-      "approx_traffic": "2000+",
-      "published": "Thu, 22 Oct 2026 14:30:00 -0700",
+      "title": "연금",
+      "approx_traffic": "5000+",
+      "published": "Thu, 22 Oct 2026 15:00:00 -0700",
       "news": [
         {
-          "title": "Dự báo thời tiết 10 ngày tới từ đêm 22.10 đến 1.11 trên cả nước",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-tu-dem-2210-den-111-tren-ca-nuoc-1787562.ldo"
+          "title": "결혼이 가른 55세 친구의 엇갈린 노후…국민연금의 낡은 구조",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021128200530"
         },
         {
-          "title": "Miền Bắc sắp có mưa trong 2 ngày liên tiếp",
-          "source": "Doanh nghiệp Cuộc sống",
-          "url": "https://doanhnghiepcuocsong.vn/mien-bac-sap-co-mua-trong-2-ngay-lien-tiep-a280387.html"
+          "title": "전업주부도 자기 이름으로 국민연금…무소득 배우자 가입 문 넓힌다[Pick코노미]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105127"
         },
         {
-          "title": "Thủ đô Hà Nội dự báo ngày mai trời nắng mạnh và nóng với mức nhiệt 34 độ C",
-          "source": "VTV.vn",
-          "url": "https://vtv.vn/video/thu-do-ha-noi-du-bao-ngay-mai-troi-nang-manh-va-nong-voi-muc-nhiet-34-do-c-108700780.htm"
+          "title": "남편 소득 있다고 국민연금 못 들던 전업주부, 가입 길 열린다",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/rights/1283604.html"
+        }
+      ]
+    },
+    {
+      "title": "주우재",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 14:50:00 -0700",
+      "news": [
+        {
+          "title": "[한끗 차이]성시경처럼 날렵해졌는데, 내 옆엔 주우재가 없네…‘패알못’ 탈출 6가지 공식",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610230700005"
+        },
+        {
+          "title": "주우재, 3년간 간직한 100만원 수표…유재석 또 미담?",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003836024"
+        },
+        {
+          "title": "유재석 미담 또 나왔다..곽범 \"놀뭐 끝나고 먼저 연락와..내 번호 물어봤다\"(뭔데뭔데) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/GQYWEMBXGYZGGOBUGEYDAMRYHE/"
+        }
+      ]
+    },
+    {
+      "title": "포스코퓨처엠",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 14:50:00 -0700",
+      "news": [
+        {
+          "title": "포스코퓨처엠, 팔란티어와 AX로 초격차 경쟁력 확보",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373769"
+        },
+        {
+          "title": "팔란티어 \"한국, 미국 밖 최강 시장\"…제조·국방 AI 공략(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022095651017"
+        },
+        {
+          "title": "美 국방부·CIA에 SW 공급하던 팔란티어, 서울 한남동서 옷 파는 이유",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003836710"
+        }
+      ]
+    },
+    {
+      "title": "조선소",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 14:50:00 -0700",
+      "news": [
+        {
+          "title": "[단독] HD현대, 美 키윗과 합작법인 세운다… '마스가 1호 펀드' 수혜 유력",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610229024i"
+        },
+        {
+          "title": "HD현대, 미국 건설사와 합작법인 추진…선박 블록 야드 구축",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022187600003"
+        },
+        {
+          "title": "HD현대, 美 조선소 인수 대신 직접 건립에 무게… 현지 기업과 합작법인 추진",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/10/22/AARH6D6C3NGV3MNLHVFYXM2XOM/"
+        }
+      ]
+    },
+    {
+      "title": "weather",
+      "approx_traffic": "2000+",
+      "published": "Thu, 22 Oct 2026 14:40:00 -0700",
+      "news": [
+        {
+          "title": "WKRG Weather: Sunny, Warm, and a Great Weekend",
+          "source": "WKRG",
+          "url": "https://www.wkrg.com/top-stories/wkrg-weather-sunny-warm-and-a-great-weekend/"
+        },
+        {
+          "title": "Very quiet pattern continues!",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/news/videos/very-quiet-pattern-continues-032951257.html"
+        },
+        {
+          "title": "Clear and quiet weather continues this week | WHAS11 Weather Impact Forecast",
+          "source": "WHAS11",
+          "url": "https://www.whas11.com/video/weather/clear-and-quiet-weather-continues-this-week-whas11-weather-impact-forecast/417-e58a0bd8-072e-4e1b-bbfd-3356314087e0"
         }
       ]
     },
     {
       "title": "погода",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Thu, 22 Oct 2026 14:30:00 -0700",
       "news": [
         {
@@ -36,14 +124,14 @@
           "url": "https://www.fontanka.ru/2026/10/22/76717836/"
         },
         {
+          "title": "Синоптик анонсировал петербуржцам сухую погоду и тепло до +12 градусов",
+          "source": "Росбалт",
+          "url": "https://www.rosbalt.ru/news/2026-10-21/sinoptik-anonsiroval-peterburzhtsam-suhuyu-pogodu-i-teplo-do-12-gradusov-5712373"
+        },
+        {
           "title": "Синоптик Ильин: один из выходных в Петербурге испортят дожди",
           "source": "URA.RU",
           "url": "https://ura.news/news/1053138180"
-        },
-        {
-          "title": "Золотая осень не сдается: почему в Петербурге так тепло и сколько это продлится",
-          "source": "Городовой",
-          "url": "https://gorodovoy.ru/news/zolotaya-osen-ne-sdaetsya-pochemu-v-peterburge-tak-teplo-i-skolko-eto-prodlitsya_id914127_a184_c5_dp261022"
         }
       ]
     },
@@ -92,85 +180,19 @@
       ]
     },
     {
-      "title": "로스앤젤레스 다저스",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "MLB 다저스 오타니, 수술 안 하고 2027년 투타 겸업 준비",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022138800007"
-        },
-        {
-          "title": "\"오타니 수술 필요없다!\" LAD 사장 나서서 '수술설' 전면 부인...오타니 투타겸업 재확인, \"신중히 접근한다\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112896538"
-        },
-        {
-          "title": "\"오타니 수술 없다\" 4번째 다치고도 또! 못말리는 이도류 고집, '운명의 2027년' 다저스 명운도 달렸다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/22/2026102207145469323"
-        }
-      ]
-    },
-    {
-      "title": "나스닥 100",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "나스닥100 2% 반등…美 국채값은 하락｜Global Money Club",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/gmc/article/25471113"
-        },
-        {
-          "title": "나스닥100 장중 1.2%·S&P500 0.5% 상승…비트코인 8만4144달러",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/market/425935"
-        },
-        {
-          "title": "Nasdaq 100, 29,361 붕괴 직전-RSI 23.5 극단 과매도: 매시 업데이트",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2123967"
-        }
-      ]
-    },
-    {
-      "title": "vix",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "Wall Street’s Fear Gauge Flashes Red as Stocks Tumble, Oil Surges, and Tech Reels",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-101626/card/wall-street-s-fear-gauge-flashes-red-as-stocks-tumble-oil-surges-and-tech-reels-fixHy5gPLAzio74MriHe"
-        },
-        {
-          "title": "Buy the Madman!",
-          "source": "MacroBusiness",
-          "url": "https://www.macrobusiness.com.au/2026/10/buy-the-madman/"
-        },
-        {
-          "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html"
-        }
-      ]
-    },
-    {
       "title": "중앙그룹",
       "approx_traffic": "100+",
       "published": "Thu, 22 Oct 2026 14:20:00 -0700",
       "news": [
         {
-          "title": "중앙그룹, JTBC골프 매물로…계열사 매각 ‘박차’",
-          "source": "시사저널",
-          "url": "https://www.sisajournal.com/news/articleView.html?idxno=391363"
-        },
-        {
           "title": "[단독] ‘골프 중계 강자’ JTBC골프도 매물로… 중앙그룹 쪼개 팔기 가속 - 조선비즈",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/stock/market_trend/2026/10/22/J5POP66CTZA6DM4UCYN7ES55MY/"
+        },
+        {
+          "title": "중앙그룹, JTBC골프 매물로…계열사 매각 ‘박차’",
+          "source": "시사저널",
+          "url": "https://www.sisajournal.com/news/articleView.html?idxno=391363"
         },
         {
           "title": "한숨 돌린 중앙일보 채권투자자들…조기상환 가능성도",
@@ -180,46 +202,24 @@
       ]
     },
     {
-      "title": "김도영",
-      "approx_traffic": "200+",
+      "title": "สภาพอากาศ",
+      "approx_traffic": "1000+",
       "published": "Thu, 22 Oct 2026 14:20:00 -0700",
       "news": [
         {
-          "title": "\"김도영, 힘차게 날려라~\"…CGV서 가을야구 응원해보니",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261022145033"
+          "title": "วิกฤต! น้ำในเขื่อนพุ่ง 83% จ่อล้นตลิ่ง กทม. - ภาคใต้ ระวังฝนตกหนัก",
+          "source": "bangkokbiznews",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1257559"
         },
         {
-          "title": "“사자 잡으러 간다” vs “가을 악몽 끝낸다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261022/134886018/2"
+          "title": "อัปเดตประกาศกรมอุตุฯ ฉ.12 | 22 ตุลาคม 2569 เวลา 17.00 น. 📌 เปลี่ยนแปลงจากฉบับก่อน 🟠 22 ต.ค. ลดพื้นที่เตือนฝนหนัก 4 จังหวัด ได้แก่ สระแก้ว กระบี่ ตรัง และสตูล ส่วนวันที่ 23–25 ต.ค. พื้นที่เตือนยังคงเดิม พื้นที่ที่คาดว่าจะได้รับผลกระทบรายวัน 📅 22 ตุลาคม 2569 🟠 ฝนหนัก ภาคตะวันอ",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/tmd.go.th/posts/%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%B8%E0%B8%AF-%E0%B8%8912-22-%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B2%E0%B8%84%E0%B8%A1-2569-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1700-%E0%B8%99-%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99-22-%E0%B8%95%E0%B8%84/1586837996821663/"
         },
         {
-          "title": "만약 한화 김도영이었다면? 상상불가 재앙급 비난...KIA는 매일 매일 신의 선택에 감사한다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/22/HFQWKOJXMEYGMZLEMY2DEMLDGE/"
-        }
-      ]
-    },
-    {
-      "title": "오현규",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 14:10:00 -0700",
-      "news": [
-        {
-          "title": "국가대표 공격수 오현규·조규성, 유럽대항전서 연속골 도전",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003835752"
-        },
-        {
-          "title": "유럽 무대서 나란히 골맛 본 오현규·조규성, 2경기 연속골 터트릴까",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610211519003"
-        },
-        {
-          "title": "'2골' 예언을 현실로‥\"오늘 전 증명했습니다\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858590_37004.html"
+          "title": "กรมอุตุนิยมวิทยา ประกาศฉบับ 11 เตือนฝนหนัก 22-25 ต.ค. 2569",
+          "source": "คลาวด์ปัง",
+          "url": "https://readthecloud.co/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2/"
         }
       ]
     }
