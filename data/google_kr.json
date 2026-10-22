@@ -1,18 +1,101 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T16:45:44+00:00",
+  "fetched_at": "2026-10-22T17:36:46+00:00",
   "items": [
+    {
+      "title": "레흐 포즈난 대 선덜랜드",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 09:30:00 -0700",
+      "news": [
+        {
+          "title": "Lech Poznan vs Sunderland: UEFA Europa League stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cqz0vym1pk55t"
+        },
+        {
+          "title": "Lech Poznan v Sunderland, Juventus v Rennes, and more: Europa League – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live"
+        },
+        {
+          "title": "Starting XI: Will Le Bris Make These Seven Changes For Sunderland’s Game In Poznan?",
+          "source": "Roker Report",
+          "url": "https://rokerreport.sbnation.com/match-previews/157060/starting-xi-will-le-bris-make-these-seven-changes-for-sundelands-game-in-poznan"
+        }
+      ]
+    },
+    {
+      "title": "크래프톤",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 09:20:00 -0700",
+      "news": [
+        {
+          "title": "크래프톤, 자체 개발 30B급 고효율 LLM 'Raon-1 mini' 프리뷰 공개",
+          "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+          "url": "https://news.hada.io/topic?id=35752"
+        },
+        {
+          "title": "크래프톤, 자체개발 LLM '라온-1 미니' 프리뷰 공개",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021108300017"
+        },
+        {
+          "title": "[게임월드] 크래프톤ㆍ스마일게이트ㆍ엔씨ㆍ넷마블ㆍ넥슨ㆍ펄어비스ㆍ카카오게임즈ㆍ컴투스",
+          "source": "대한경제",
+          "url": "https://www.dnews.co.kr/m_home/view.jsp?idxno=202610211548442720569"
+        }
+      ]
+    },
+    {
+      "title": "야블로네츠 대 브라이턴",
+      "approx_traffic": "500+",
+      "published": "Thu, 22 Oct 2026 09:10:00 -0700",
+      "news": [
+        {
+          "title": "Jablonec vs Brighton & Hove Albion: UEFA Conference League stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c52e9n7394jyt"
+        },
+        {
+          "title": "Thursday best bets: Europa League and Conference League tips for October 22 2026",
+          "source": "Sporting Life",
+          "url": "https://www.sportinglife.com/football/news/thursday-best-bets-europa-league-and-conference-league-tips-for-october-22-2026/234943"
+        },
+        {
+          "title": "Hurzeler issues warning to Brighton players ahead of Conference League clash",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/hurzeler-issues-warning-brighton-players-104300244.html"
+        }
+      ]
+    },
+    {
+      "title": "리설주",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 08:50:00 -0700",
+      "news": [
+        {
+          "title": "김정은 사망설, 김한솔 후계설, 미군 투입설까지···도대체 무슨 일이",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610221824001"
+        },
+        {
+          "title": "[아는기자]북한 이상징후?…김여정 전면에, 왜?",
+          "source": "채널A 뉴스",
+          "url": "https://ichannela.com/news/detail/000000556391.do"
+        },
+        {
+          "title": "북한 웹사이트 접속 '원활'‥장애 복구된 듯",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6860010_36911.html"
+        }
+      ]
+    },
     {
       "title": "자격증",
       "approx_traffic": "500+",
       "published": "Thu, 22 Oct 2026 07:50:00 -0700",
       "news": [
-        {
-          "title": "수능도 ‘AI 안경’ 비상인데…‘육안 판별’ 논란",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692912"
-        },
         {
           "title": "[단독] 'AI 안경' 쓰고 국가자격증 시험 본 20대 수험생 송치",
           "source": "MBC 뉴스",
@@ -22,6 +105,11 @@
           "title": "[AFTER 8 SPECIAL] 문제 비추자 \"정답 3번\" 직접 써보니 '충격'…걸려도 버젓이 다른 대학으로? AI 안경 '공포'",
           "source": "SBS 뉴스",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806145"
+        },
+        {
+          "title": "[단독] 연세대, ‘AI 안경 수험생’ 형사고발 검토…내년 응시자격도 정지",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/schooling/1283636.html"
         }
       ]
     },
@@ -132,94 +220,6 @@
           "title": "故강지용 아내, 남편 비보 후 작심 비판…“벼랑 끝으로 밀어붙여” 두렵지 않다",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/news/entertain/12181376"
-        }
-      ]
-    },
-    {
-      "title": "박철순",
-      "approx_traffic": "100+",
-      "published": "Thu, 22 Oct 2026 06:20:00 -0700",
-      "news": [
-        {
-          "title": "다음달 14일 잠실야구장 기념 이벤트 경기...은퇴 스타 58명 총출동",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610221404576407"
-        },
-        {
-          "title": "'굿바이 잠실!'‥45년 야구 성지 역사 속으로",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859794_37012.html"
-        },
-        {
-          "title": "출입구부터 좌석까지 하나하나 사진으로…팬들이 남긴 잠실야구장의 마지막 순간",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807799"
-        }
-      ]
-    },
-    {
-      "title": "페이커",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 06:10:00 -0700",
-      "news": [
-        {
-          "title": "우정사업본부, 페이커 기념 우표 출시 맞아 '굿즈'도 선보인다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/10/22/2026102209111048608"
-        },
-        {
-          "title": "페이커 기념우표 굿즈 나온다…우표카드 등 출시",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1179217"
-        },
-        {
-          "title": "[우정 이야기] 우표에 새겨진 LoL 전설 ‘갓상혁’ 영광의 순간들",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610210600051"
-        }
-      ]
-    },
-    {
-      "title": "에릭 남",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 06:00:00 -0700",
-      "news": [
-        {
-          "title": "에릭남, 美서 인종차별 당했다…\"얼굴에 침 뱉고 눈 찢어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003836981"
-        },
-        {
-          "title": "'은퇴설' 에릭남, 이런 일이...\"배신 당하고 억대 돈 뜯겨\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102120571684556"
-        },
-        {
-          "title": "에릭남 “정신 건강 무너지고 몸도 아팠다”…공황장애에서 놓치면 안 되는 증상",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261022/134890428/2"
-        }
-      ]
-    },
-    {
-      "title": "기수",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 05:50:00 -0700",
-      "news": [
-        {
-          "title": "기수 못탔는데 말 출발시키곤 '경주불성립'…마사회 16억 환불",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022081200001"
-        },
-        {
-          "title": "\"7번 말 뭐야\" 기수 못 탔는데 질주…마사회 16억 환불",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810151&plink=ORI&cooper=ATOM"
-        },
-        {
-          "title": "기수 없는 경주마 출발에 경주불성립…16억 마권 환불 소동",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3730087"
         }
       ]
     }
