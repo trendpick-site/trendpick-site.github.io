@@ -1,11 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-22T11:43:39+00:00",
+  "fetched_at": "2026-10-22T12:47:09+00:00",
   "items": [
     {
+      "title": "thời tiết ngày mai",
+      "approx_traffic": "1000+",
+      "published": "Thu, 22 Oct 2026 04:40:00 -0700",
+      "news": [
+        {
+          "title": "Bản tin dự báo thời tiết đêm nay và ngày mai 23.10",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-2310-1787572.ldo"
+        },
+        {
+          "title": "Không khí lạnh suy yếu nhanh, miền Bắc nắng mạnh trở lại",
+          "source": "Báo VietNamNet",
+          "url": "https://vietnamnet.vn/khong-khi-lanh-suy-yeu-nhanh-mien-bac-nang-manh-tro-lai-2566064.html"
+        },
+        {
+          "title": "Bản tin Dự báo thời tiết ngày 23/10/2026",
+          "source": "Báo và Phát thanh, Truyền hình Điện Biên",
+          "url": "https://dienbientv.vn/ban-tin-du-bao-thoi-tiet-ngay-23-10-2026-3068176.html"
+        }
+      ]
+    },
+    {
+      "title": "颱風假",
+      "approx_traffic": "500+",
+      "published": "Thu, 22 Oct 2026 04:40:00 -0700",
+      "news": [
+        {
+          "title": "颱風薔琵減弱為中颱 陸警範圍擴大全台警戒 暴風圈估明凌晨觸陸｜不斷更新",
+          "source": "Yahoo新聞",
+          "url": "https://tw.news.yahoo.com/live/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E6%B8%9B%E5%BC%B1%E7%82%BA%E4%B8%AD%E9%A2%B1-%E9%99%B8%E8%AD%A6%E7%AF%84%E5%9C%8D%E6%93%B4%E5%A4%A7%E5%85%A8%E5%8F%B0%E8%AD%A6%E6%88%92-%E6%9A%B4%E9%A2%A8%E5%9C%88%E4%BC%B0%E6%98%8E%E5%87%8C%E6%99%A8%E8%A7%B8%E9%99%B8%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-102002076.html"
+        },
+        {
+          "title": "天空在噴火！薔琵來襲前夕「巨龍夕陽」染紅天際超詭異",
+          "source": "自由時報",
+          "url": "https://news.ltn.com.tw/news/Changhua/breakingnews/5615445"
+        },
+        {
+          "title": "颱風假來了！ 南投縣府晚間宣布全縣明天停班停課",
+          "source": "UDN",
+          "url": "https://udn.com/news/story/7266/9831922"
+        }
+      ]
+    },
+    {
+      "title": "cuaca besok",
+      "approx_traffic": "500+",
+      "published": "Thu, 22 Oct 2026 04:30:00 -0700",
+      "news": [
+        {
+          "title": "Hari Santri Nasional, Ini Cuaca Surabaya, Sidoarjo, dan Gresik 22 Oktober 2026",
+          "source": "beritajatim.com",
+          "url": "https://beritajatim.com/hari-santri-nasional-ini-cuaca-surabaya-sidoarjo-dan-gresik-22-oktober-2026"
+        },
+        {
+          "title": "BMKG Catat Suhu Ekstrem di Jatim dan Prediksi Kemarau Panjang",
+          "source": "Suara Independent News",
+          "url": "https://www.suaraindependentnews.id/suhu-ekstrem-jatim-kemarau-panjang"
+        },
+        {
+          "title": "Panas Menyengat Masih Berlanjut, Udara Kering Bayangi Madiun Raya hingga Akhir Oktober",
+          "source": "Madiun Today",
+          "url": "https://madiuntoday.id/berita/2026/10/20/panas-menyengat-masih-berlanjut-udara-kering-bayangi-madiun-raya-hingga-akhir-oktober"
+        }
+      ]
+    },
+    {
       "title": "최동환",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Thu, 22 Oct 2026 03:40:00 -0700",
       "news": [
         {
@@ -27,7 +93,7 @@
     },
     {
       "title": "시험",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Thu, 22 Oct 2026 03:40:00 -0700",
       "news": [
         {
@@ -36,14 +102,14 @@
           "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html"
         },
         {
-          "title": "AI 안경 쓰고 국가자격증 시험 본 20대 송치",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692837"
-        },
-        {
           "title": "[단독] 연세대, ‘AI 안경 수험생’ 형사고발 검토…내년 응시자격도 정지",
           "source": "한겨레",
           "url": "https://www.hani.co.kr/arti/society/schooling/1283636.html"
+        },
+        {
+          "title": "[AFTER 8 SPECIAL] 문제 비추자 \"정답 3번\" 직접 써보니 '충격'…걸려도 버젓이 다른 대학으로? AI 안경 '공포'",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806145"
         }
       ]
     },
@@ -58,36 +124,14 @@
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16253843"
         },
         {
-          "title": "멜론, MMA2026 1차 예매 오픈",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610200458003"
+          "title": "6주년 에스파, 11월 팬미팅 ‘MY 보고싶다 ae가’ 개최",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625462"
         },
         {
-          "title": "'2026 MMA', 오늘(22일) 2차 티켓팅 시작…TOP10 투표 현재 1위 리센느-2위 임영웅",
-          "source": "TopStarNews",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16255084"
-        }
-      ]
-    },
-    {
-      "title": "투수",
-      "approx_traffic": "2000+",
-      "published": "Thu, 22 Oct 2026 03:20:00 -0700",
-      "news": [
-        {
-          "title": "MLB 다저스 오타니, 수술 안 하고 2027년 투타 겸업 준비",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022138800007"
-        },
-        {
-          "title": "\"오타니 수술 필요없다!\" LAD 사장 나서서 '수술설' 전면 부인...오타니 투타겸업 재확인, \"신중히 접근한다\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112896538"
-        },
-        {
-          "title": "\"오타니 수술 없다\" 4번째 다치고도 또! 못말리는 이도류 고집, '운명의 2027년' 다저스 명운도 달렸다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/22/2026102207145469323"
+          "title": "에스파, 데뷔 6주년 팬미팅 개최…11월 화정체육관서 MY 만난다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261022/134890044/1"
         }
       ]
     },
@@ -115,31 +159,47 @@
     },
     {
       "title": "법원",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Thu, 22 Oct 2026 03:10:00 -0700",
       "news": [
         {
-          "title": "[속보] 전국 법원 전산망 장애...업무 차질 우려",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/10/22/DCCDU4VGFFHOXE6NXGUMZ577BI/"
+          "title": "[속보] 역삼 연쇄방화 혐의 70대 구속영장 발부…\"도주 우려\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022192400004"
         },
         {
-          "title": "재판사무시스템 등에 일시적 느림현상 발생…\"전체 서버 확인 중\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/court-prosecution/6329067"
+          "title": "역삼동 방화범 “죽이려는게 아니라 겁주려 했다” 궤변",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261022/134890976/1"
         },
         {
-          "title": "전국 법원 전산망 장애 발생 뒤 복구…“해킹과 무관”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692717"
+          "title": "'역삼 연쇄 방화' 70대, 구속 심사...\"겁주려 범행\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610221749553031"
         }
       ]
     },
     {
-      "title": "颱風動態",
+      "title": "ai 데이터 센터",
       "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 03:10:00 -0700",
-      "news": []
+      "published": "Thu, 22 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "CJ대한통운 건설부문, KT클라우드 안산 AI데이터센터 공사 수주",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022056600003"
+        },
+        {
+          "title": "KT클라우드, 50㎿ 규모 안산 AIDC 착공…수도권 AI 인프라 공급 확대",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261022000143"
+        },
+        {
+          "title": "CJ대한통운 건설부문, KT클라우드 안산 공사 수주…데이터센터 사업 확장",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003837221"
+        }
+      ]
     },
     {
       "title": "올림픽파크 포레온",
@@ -147,47 +207,19 @@
       "published": "Thu, 22 Oct 2026 02:50:00 -0700",
       "news": [
         {
-          "title": "“집 주인 들어온다는데 어디로 가죠”…전세 만기 앞둔 올파포, 인근 전세난 우려",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12183041"
+          "title": "올림픽파크포레온 보류지 입찰…실거래가보다 최대 5.7억 낮아 : 부동산",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1042613"
         },
         {
-          "title": "\"2년 만에 나가야 할 판\"…1만2000가구 대단지에 무슨 일이 [이송렬의 부동산한입]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026101539076"
+          "title": "“가격 낮춰도 안 팔린다”···서울 아파트 보류지 잇단 유찰",
+          "source": "시사저널e",
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424389"
         },
         {
-          "title": "[실거래포커스(10. 20)] 반포자이·메이플자이 전세거래 활발…올림픽파크포레온 전세가 1년 새 2.6억 하락",
-          "source": "르데스크",
-          "url": "https://www.ledesk.co.kr/view.php?uid=16678"
-        }
-      ]
-    },
-    {
-      "title": "울산 현대모비스 대 창원 lg",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 02:40:00 -0700",
-      "news": []
-    },
-    {
-      "title": "그랜드 테 프트 오토 vi",
-      "approx_traffic": "100+",
-      "published": "Thu, 22 Oct 2026 02:40:00 -0700",
-      "news": [
-        {
-          "title": "GTA6 스위치2 이식설...'레데리' 이식 개발사 채용 공고가 불씨",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322407"
-        },
-        {
-          "title": "글로벌 대작 ‘GTA6’ 출시 D-30… K-게임, 인기 신작 출시 늦추나",
-          "source": "CEO스코어데일리",
-          "url": "https://m.ceoscoredaily.com/page/view/2026102014144958346"
-        },
-        {
-          "title": "'GTA 6'의 사운드를 책임질 저스티스(Justice)",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/10/rockstar-games-grand-theft-auto-vi-launch-trailer-justice-flower-in-a-hurricane-stream-info"
+          "title": "올림픽파크포레온·영등포자이 등 보류지 매각 잇따라…최저 13.5억부터",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/article/2026101417084925040"
         }
       ]
     }
