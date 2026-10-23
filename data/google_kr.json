@@ -1,8 +1,118 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T04:36:59+00:00",
+  "fetched_at": "2026-10-23T05:10:14+00:00",
   "items": [
+    {
+      "title": "비야디",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 21:00:00 -0700",
+      "news": [
+        {
+          "title": "中 커넥티드카 경보…국가보안시설 문턱 높였다",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261021000282"
+        },
+        {
+          "title": "주일미군, 日가데나기지 BYD車 출입금지…주한미군 확대 가능성",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022125200073"
+        },
+        {
+          "title": "주한미군도 제한 전망…‘BYD, 군사정보 수집장비’ 판단",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625817"
+        }
+      ]
+    },
+    {
+      "title": "lpga",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 21:00:00 -0700",
+      "news": [
+        {
+          "title": "World No. 3 Ryu Hae-ran 1 shot off opening-round lead at LPGA event in S. Korea",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20261022010000315"
+        },
+        {
+          "title": "Yu Hae-ran Ties for 3rd on First Day of LPGA Tour BMW Ladies Championship",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008810904"
+        },
+        {
+          "title": "Yu Hae-ran posts 5-under to tie for third at BMW Ladies Championship in Korea - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/22/HMBIYCV7E5G7VKFYNOK6ZKHS3Y/"
+        }
+      ]
+    },
+    {
+      "title": "lig 디펜스 & 에어로 스페이스",
+      "approx_traffic": "500+",
+      "published": "Thu, 22 Oct 2026 20:50:00 -0700",
+      "news": [
+        {
+          "title": "\"24조6000억 일감 어쩌라고\"…이틀 새 12% 급락에 '비명' [종목+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102290606"
+        },
+        {
+          "title": "LIG넥스원, 방위사업청 입찰 제재로 수주 불확실성 확대 By 알파경제 alphabiz",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2136342"
+        },
+        {
+          "title": "키움증권 \"LIG D&A 방사청 제재, 단기실적 영향 제한적\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022029200008"
+        }
+      ]
+    },
+    {
+      "title": "최태원",
+      "approx_traffic": "5000+",
+      "published": "Thu, 22 Oct 2026 20:40:00 -0700",
+      "news": [
+        {
+          "title": "SK하이닉스, 솔리다임 IPO 검토 중단...\"시장 여건 고려\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610231144502921"
+        },
+        {
+          "title": "SK하이닉스, 2%대 상승…솔리다임 IPO 검토 중단 영향 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/23/2026102313191913950"
+        },
+        {
+          "title": "금감원장의 솔리다임 직격에 뜨끔한 보스턴다이내믹스",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/21/2026102180007.html"
+        }
+      ]
+    },
+    {
+      "title": "해군사관학교",
+      "approx_traffic": "500+",
+      "published": "Thu, 22 Oct 2026 20:40:00 -0700",
+      "news": [
+        {
+          "title": "사관생도 최근 10년간 602명 자퇴…해군사관학교 144명",
+          "source": "경남도민일보",
+          "url": "https://www.idomin.com/news/articleView.html?idxno=2017712"
+        },
+        {
+          "title": "[2026 국감] 생도 1명에 3억 넘게 드는데… 사관생도 10년간 602명 자퇴",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261022001128"
+        },
+        {
+          "title": "[단독] 육사 중징계율 10년來 최고…군기 해이 덮친 '위기의 사관학교'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610204211i"
+        }
+      ]
+    },
     {
       "title": "저스틴 비버 팝업",
       "approx_traffic": "1000+",
@@ -19,9 +129,9 @@
           "url": "https://www.donga.com/news/Entertainment/article/all/20261023/134895043/1"
         },
         {
-          "title": "서울에 펼쳐지는 저스틴 비버의 취향들, 스카이라크 성수 팝업 개최",
-          "source": "마리끌레르 코리아",
-          "url": "https://www.marieclairekorea.com/fashion/2026/10/skylrk/"
+          "title": "\"저스틴 비버 인스타에 반포 아파트가?\"…사진 속 등장한 5000가구 대단지 정체",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/10/23/2026102301046.html"
         }
       ]
     },
@@ -75,19 +185,19 @@
       "published": "Thu, 22 Oct 2026 20:20:00 -0700",
       "news": [
         {
-          "title": "Nikola Jokic chasing NBA history in Nuggets season opener",
-          "source": "The Big Lead",
-          "url": "https://www.thebiglead.com/nikola-jokic-chasing-nba-history-season-opener-2026/"
+          "title": "Jokic struggles, Hezonja returns as Nuggets, Cavaliers drop openers",
+          "source": "Eurohoops",
+          "url": "https://www.eurohoops.net/en/nba-news/2024747/nikola-jokic-mario-hezonja-nba-european-recap/"
         },
         {
-          "title": "3 Critical Storylines We're Focused on in OKC Thunder vs. Denver Nuggets",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/nba/thunder/onsi/3-critical-storylines-we-re-focused-on-in-okc-thunder-vs-denver-nuggets-01m5jefd0w6h"
+          "title": "Shai Gilgeous-Alexander finishes with 17 points in Thunder home opener, breaking 141-game point streak",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nba/article/shai-gilgeous-alexander-finishes-with-17-points-in-thunder-home-opener-breaking-141-game-point-streak-042229817.html"
         },
         {
-          "title": "Nuggets hold Spencer Jones out of season opener at Thunder as hamstring injury lingers",
-          "source": "The Denver Post",
-          "url": "https://www.denverpost.com/2026/10/22/nuggets-injury-update-spencer-jones-out-thunder/"
+          "title": "Nikola Jokić limited to 13 points in opener",
+          "source": "NBC Sports",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-23/nikola-jokic-limited-to-13-points-in-opener"
         }
       ]
     },
@@ -110,116 +220,6 @@
           "title": "※외로움 주의※ 30년째 사랑이 넘치는 최수종 하희라 부부의 함께 일해서 좋은 점과 안 좋은 점! [박소현의 러브게임]",
           "source": "programs.sbs.co.kr",
           "url": "https://programs.sbs.co.kr/radio/lovegame/clip/57669/22000638632"
-        }
-      ]
-    },
-    {
-      "title": "신한카드",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 20:00:00 -0700",
-      "news": [
-        {
-          "title": "신한카드, 2년 만에 신입 공채 재개…희망퇴직 인력 충원",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440762"
-        },
-        {
-          "title": "“희망퇴직에 150명 또 손들었다”…신한카드 인력 구조조정 속도",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12183847"
-        },
-        {
-          "title": "\"직원은 40대 희망퇴직, 회장·은행장 70세까지 연임\"⋯금융권의 '불편한 이중잣대'",
-          "source": "엠투데이",
-          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601187"
-        }
-      ]
-    },
-    {
-      "title": "네이버지도",
-      "approx_traffic": "2000+",
-      "published": "Thu, 22 Oct 2026 19:20:00 -0700",
-      "news": [
-        {
-          "title": "한국도로공사, 민·관 교통안전 데이터 공유 협의체 만든다",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=373794"
-        },
-        {
-          "title": "한국도로공사, 민·관 교통안전 데이터 공유 협의체 MOU 체결",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625735"
-        },
-        {
-          "title": "고속도로 사고, 내비로 더 빨리 알린다…네카오·티맵 협력",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1179251"
-        }
-      ]
-    },
-    {
-      "title": "이혜영",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 19:10:00 -0700",
-      "news": [
-        {
-          "title": "이혜영, 미국 3층 대저택 '친정집 공개'...\"조카 연예인급 외모\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102310384784027"
-        },
-        {
-          "title": "이혜영, 미국 대저택서 언니 옷방 공개…“명품은 다 내가 준 거야” 통 큰 FLEX ('못말려') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/MY2TCN3FGFRGEOLBMNSTSN3FMI/"
-        },
-        {
-          "title": "이혜영, 골프장 낀 ‘미국 3층 대저택’ 친정집 최초 공개",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610231027003"
-        }
-      ]
-    },
-    {
-      "title": "김혜선",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 19:10:00 -0700",
-      "news": [
-        {
-          "title": "김혜선, 결혼 8년 차 위기…독일인 남편 \"고국 돌아가고 싶다\" 눈물",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/GI2GIM3DMQZWCZBZMY2GGOBSG4/"
-        },
-        {
-          "title": "김혜선, 10살 때 고아 된 사연…\"초등학생 때 신문 배달\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102308020944407"
-        },
-        {
-          "title": "김혜선, 前남친 때문에 가슴 보형물 수술…\"우울증으로 은퇴\" ('특종세상')",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112896996"
-        }
-      ]
-    },
-    {
-      "title": "압구정",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 19:10:00 -0700",
-      "news": [
-        {
-          "title": "심형래, ‘디워’ 역주행에 ‘2천만원’ 뿌린다... 이경애 “잘 되면 주기로”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/20/MU3DSZJXGA2TGNBYGQ2WMMJXGY/"
-        },
-        {
-          "title": "‘영구’ 심형래, 놀라웠던 전성기…“압구정 현대 7800만원일 때 편당 8000만원 CF 100편 찍어”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20103828"
-        },
-        {
-          "title": "심형래 \"CF 100편 넘게 찍어…압구정 아파트 100채 값\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003833057"
         }
       ]
     }
