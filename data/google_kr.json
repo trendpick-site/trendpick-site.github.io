@@ -1,8 +1,96 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T09:15:28+00:00",
+  "fetched_at": "2026-10-23T10:11:57+00:00",
   "items": [
+    {
+      "title": "양홍원",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 02:00:00 -0700",
+      "news": [
+        {
+          "title": "'5일 전 결혼' 양홍원, 불륜 의혹..폭로자 \"돈과 관심 필요\" [스타이슈]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/10/23/2026102317555144519"
+        },
+        {
+          "title": "양홍원, 결혼식 5일 만에 불륜설..폭로자 \"나 돈 필요해\" 녹취록·영상 공개",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-23/202610230100149470009731"
+        },
+        {
+          "title": "원현주 결혼 양홍원, 파격 소감 후폭풍… 모텔 리뷰 \"진짜 성지 됐네\"",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3728725"
+        }
+      ]
+    },
+    {
+      "title": "슈퍼태풍",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 02:00:00 -0700",
+      "news": [
+        {
+          "title": "태풍 '참피' 제주 접근 대비 총력",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845162"
+        },
+        {
+          "title": "\"제주 쪽\" 예고했던 日 기상청‥하루 만에 '일본 상륙' 경로 급수정",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6860008_36925.html"
+        },
+        {
+          "title": "태풍 참피, 대만 피해 뒤 日열도로…\"트럭 전복 수준 강풍' 우려(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023090951009"
+        }
+      ]
+    },
+    {
+      "title": "마쓰이 히데키",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "일본야구 요미우리 새 감독에 '고질라' 마쓰이…순혈주의 고수",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023088100007"
+        },
+        {
+          "title": "'故 나가시마와 대체 무슨 약속을 했길래?' 요미우리 감독 된 마쓰이, 끝내 밝히지 않은 스승과의 비밀 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/23/202610231821770355O"
+        },
+        {
+          "title": "'가정 폭력으로 돌연 사퇴' 충격에 빠졌던 명문 구단, 통산 507홈런 레전드 감독으로 선임",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/23/MFRDCNZSGFTGIOBQGE3GINZXGE/"
+        }
+      ]
+    },
+    {
+      "title": "최수종",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "모친상 최수종에 김영옥 “슬픈 마음도 있지”…말없이 헤아린 38년 인연",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261022/134891240/2"
+        },
+        {
+          "title": "최수종, 역시 국민 사랑꾼..“♥하희라 공연? 빠짐없이 보러 가” (김영옥) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/GQ2DSOJSGIYGGZLGMFRTAZJSGM/"
+        },
+        {
+          "title": "※외로움 주의※ 30년째 사랑이 넘치는 최수종 하희라 부부의 함께 일해서 좋은 점과 안 좋은 점! [박소현의 러브게임]",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/radio/lovegame/clip/57669/22000638632"
+        }
+      ]
+    },
     {
       "title": "아시안 게임",
       "approx_traffic": "5000+",
@@ -14,14 +102,14 @@
           "url": "https://www.donga.com/news/Sports/article/all/20261023/134897112/1"
         },
         {
-          "title": "韓 대표팀 7이닝 무실점 묶더니 결국 프로에 간다…\"팀 짊어질 수 있는 선수 되겠다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/23/HBRDKOBYGEZDEOJWME3DAMLGGM/"
-        },
-        {
           "title": "‘김도영 삼진 삼진’ 한국에 굴욕 안긴 日사회인, NPB가 뽑았다! 3순위 라쿠텐행 감격 “장차 팀을 짊어지겠다”",
           "source": "OSEN",
           "url": "https://www.osen.co.kr/article/G1112897059"
+        },
+        {
+          "title": "韓 대표팀 7이닝 무실점 묶더니 결국 프로에 간다…\"팀 짊어질 수 있는 선수 되겠다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/23/HBRDKOBYGEZDEOJWME3DAMLGGM/"
         }
       ]
     },
@@ -41,9 +129,9 @@
           "url": "https://www.newsis.com/view/NISX20261023_0003838110"
         },
         {
-          "title": "‘이정재 최대주주’ 아티스트컴퍼니, 전 임직원 5명 고소…6억대 배임 혐의",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105417"
+          "title": "'이정재 최대주주' 아티스트컴퍼니, 전 임원 등 고소…6.8억 배임 혐의",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102313706"
         }
       ]
     },
@@ -53,19 +141,19 @@
       "published": "Fri, 23 Oct 2026 00:30:00 -0700",
       "news": [
         {
-          "title": "‘미쉐린 별’ 셰프 손종원, 신세계 ‘별’ 달았다…임원 승진",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261023/134897677/1"
-        },
-        {
           "title": "[기업] 정용진, 13년 만에 이마트 대표이사 복귀...신세계, 역대 최대 임원 인사 단행",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_cs/_ln_0102_202610231132135441_005.html"
         },
         {
-          "title": "40개짜리 올리브영 '1조 공룡'으로 키운 전설…25년만에 친정 신세계 구원투수로",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102312593974557"
+          "title": "스타 셰프 손종원, 신세계그룹 임원됐다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/10/23/GI2DGOJUGQ3TSNRYGA2TOYJRMQ/"
+        },
+        {
+          "title": "책임경영 고삐 죄고…미래 사업 판 키운다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105503"
         }
       ]
     },
@@ -80,20 +168,15 @@
           "url": "https://www.medigatenews.com/news/2247182509"
         },
         {
-          "title": "김교흥 의원, ‘인천대 공공의학전문대학원 설립법’ 대표발의",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334813"
-        },
-        {
-          "title": "인천대 공공의전원 설립, 지역 국회의원 여야 없이 ‘한뜻’",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038567"
+          "title": "양산시, 부산 의료기기전 참여…\"바이오헬스케어 판로 개척\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838649"
         }
       ]
     },
     {
       "title": "남유정",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Fri, 23 Oct 2026 00:20:00 -0700",
       "news": [
         {
@@ -115,111 +198,23 @@
     },
     {
       "title": "ls에코에너지",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 23 Oct 2026 00:20:00 -0700",
       "news": [
         {
           "title": "'파격 당근' 던진 베트남 하이퐁시, LS에코에너지에 '해저케이블 추가 투자' 제안",
           "source": "더구루",
-          "url": "https://www.theguru.co.kr/news/article.html?no=108698"
-        },
-        {
-          "title": "하이퐁은 해저 케이블 제품 개발 사업을 지원하는 도시입니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/hai-phong-tao-thuan-loi-de-doanh-nghiep-phat-trien-san-pham-cap-ngam-xuyen-bien"
+          "url": "https://www.theguru.co.kr/mobile/article.html?no=108698"
         },
         {
           "title": "호치민시 인민위원회 위원장 도 탄 쭝은 LS-VINA 케이블 및 시스템 주식회사와 업무 회의를 개최했습니다.",
           "source": "Vietnam.vn",
           "url": "https://www.vietnam.vn/ko/chu-tich-ubnd-thanh-pho-do-thanh-trung-lam-viec-voi-cong-ty-cp-cap-dien-va-he-thong-ls-vina"
-        }
-      ]
-    },
-    {
-      "title": "에너지 위기",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 00:00:00 -0700",
-      "news": [
-        {
-          "title": "\"에너지 다음은 식량 위기\"…경유·비료값 급등에 엘니뇨까지",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023007200072"
         },
         {
-          "title": "S&P 글로벌, 호르무즈 에너지 충격 글로벌 식량난으로 번질 위험",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440637"
-        },
-        {
-          "title": "[선재식]밀·콩 자급화가 시급하다",
-          "source": "열린순창",
-          "url": "https://www.opsc.kr/news/articleView.html?idxno=49271"
-        }
-      ]
-    },
-    {
-      "title": "인플 루 언서",
-      "approx_traffic": "2000+",
-      "published": "Thu, 22 Oct 2026 23:50:00 -0700",
-      "news": [
-        {
-          "title": "\"35층 추락, 생존\"…오른쪽 다리 잃은 27세 인플루언서 17개월 만에 컴백",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/general-world/6328661"
-        },
-        {
-          "title": "여성 스트리머, 35층 추락사했지만 살아남아 \"정말 운이 좋았어요\"",
+          "title": "하이퐁은 해저 케이블 제품 개발 사업을 지원하는 도시입니다.",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nu-streamer-song-sot-sau-cu-roi-tang-35-toi-may-man"
-        },
-        {
-          "title": "35층 추락서 살아남은 中 싱웨이, 17개월 만에 복귀 : 국제",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1042394"
-        }
-      ]
-    },
-    {
-      "title": "node.js 취약점",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 23:50:00 -0700",
-      "news": [
-        {
-          "title": "Node.js 2026년 10월 21일 보안패치 공개",
-          "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-          "url": "https://news.hada.io/topic?id=35798"
-        },
-        {
-          "title": "Node.js 고위험 RCE 취약점 확인…긴급 패치 배포 : 테크/과학",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1044806"
-        },
-        {
-          "title": "PHP 이어 Node.js도 뚫렸다... 원격 코드 실행 PoC 공개",
-          "source": "보안뉴스",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146700"
-        }
-      ]
-    },
-    {
-      "title": "사업",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 23:40:00 -0700",
-      "news": [
-        {
-          "title": "포천시, 내년 지적 재조사 예정지로 '선단·설운지구' 지정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022123600060"
-        },
-        {
-          "title": "성남시, 내년 시흥·상대원·야탑동 645필지 지적재조사",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102316412519244"
-        },
-        {
-          "title": "[성남소식]2027년 지적재조사사업 실시계획 수립...3개 지구 645필지 선정",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1705247/%EC%84%B1%EB%82%A8%EC%86%8C%EC%8B%9D2027%EB%85%84-%EC%A7%80%EC%A0%81%EC%9E%AC%EC%A1%B0%EC%82%AC%EC%82%AC%EC%97%85-%EC%8B%A4%EC%8B%9C-2026"
+          "url": "https://www.vietnam.vn/ko/hai-phong-tao-thuan-loi-de-doanh-nghiep-phat-trien-san-pham-cap-ngam-xuyen-bien"
         }
       ]
     }
