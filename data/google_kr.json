@@ -1,8 +1,91 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T14:44:49+00:00",
+  "fetched_at": "2026-10-23T15:42:19+00:00",
   "items": [
+    {
+      "title": "커피",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 07:10:00 -0700",
+      "news": [
+        {
+          "title": "서울우유 '강릉커피', 누적 판매 4300만개 돌파",
+          "source": "SBS Biz",
+          "url": "https://biz.sbs.co.kr/article/20000341779"
+        },
+        {
+          "title": "서울우유, 고품질 원유 앞세운 ‘강릉커피’로 RTD 커피 시장 공략",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=20261023212404365204ead0791_12"
+        },
+        {
+          "title": "서울우유, ‘강릉커피’ 누적 판매 4300만개…'프리미엄 RTD 공략'",
+          "source": "한국아이닷컴",
+          "url": "https://www.hankooki.com/news/articleView.html?idxno=346641"
+        }
+      ]
+    },
+    {
+      "title": "손석구",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 07:10:00 -0700",
+      "news": [
+        {
+          "title": "‘이라크 파병’ 손석구 “배우 그만두려고 했다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261023/134895026/1"
+        },
+        {
+          "title": "이서진 맞아? '게이 이상형 1위' 손석구 넥타이 매주며 다정..\"둘이 사귀는거 같아\"(비서진)",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261021193446431"
+        },
+        {
+          "title": "\"부모님 몰래 이라크 파병 지원\"…'비서진' 손석구, 파란만장 인생사 최초 고백",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811606"
+        }
+      ]
+    },
+    {
+      "title": "이현중",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 07:10:00 -0700",
+      "news": [
+        {
+          "title": "[포토] 이현중 '전국 유람 직관' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/23/2026102318532470307"
+        },
+        {
+          "title": "[포토] 최혜린 '코트가 뜨겁다'",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/sports/2026/10/18/2026101817364729872"
+        }
+      ]
+    },
+    {
+      "title": "明天的天氣",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 06:50:00 -0700",
+      "news": [
+        {
+          "title": "颱風薔琵暴風圈籠罩全台 在宜蘭東方海面向西偏折打轉 估24日清晨再向北移｜不斷更新",
+          "source": "Yahoo新聞",
+          "url": "https://tw.news.yahoo.com/live/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E6%9A%B4%E9%A2%A8%E5%9C%88%E7%B1%A0%E7%BD%A9%E5%85%A8%E5%8F%B0-%E5%9C%A8%E5%AE%9C%E8%98%AD%E6%9D%B1%E6%96%B9%E6%B5%B7%E9%9D%A2%E5%90%91%E8%A5%BF%E5%81%8F%E6%8A%98%E6%89%93%E8%BD%89-%E4%BC%B024%E6%97%A5%E6%B8%85%E6%99%A8%E5%86%8D%E5%90%91%E5%8C%97%E7%A7%BB%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-132105365.html"
+        },
+        {
+          "title": "北市10/24續放颱風假！網友灌爆蔣萬安臉書：我們做你的靠山，不怕什麼流 | 蕭宥宸 | 新聞",
+          "source": "風傳媒",
+          "url": "https://www.storm.mg/article/11175481"
+        },
+        {
+          "title": "他們在風雨中搶修！薔琵「擾亂2天」桃園累積逾2萬戶停電　復電率達87％",
+          "source": "三立新聞",
+          "url": "https://www.setn.com/news/1927479"
+        }
+      ]
+    },
     {
       "title": "닥터x",
       "approx_traffic": "1000+",
@@ -14,20 +97,20 @@
           "url": "https://programs.sbs.co.kr/drama/doctorx/vod/88585/22000638646"
         },
         {
+          "title": "베일 벗는 닥터X의 기원…김지원, 충격의 과거사 풀린다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261023/134897184/1"
+        },
+        {
           "title": "'닥터X' 환자 장기에 이니셜 새긴 장승조…김지원 응징은?",
           "source": "이데일리",
           "url": "https://www.edaily.co.kr/News/Read?newsId=03063526645615544&mediaCodeNo=257"
-        },
-        {
-          "title": "환자 간에 이니셜을?…드라마 속 '장기 낙서', 실제라면 어떤 처벌 받나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/23/2026102306401360718"
         }
       ]
     },
     {
       "title": "al-faisaly vs al-nassr",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Fri, 23 Oct 2026 06:10:00 -0700",
       "news": [
         {
@@ -36,20 +119,20 @@
           "url": "https://www.bbc.com/sport/football/live/c65ynpxe8488t"
         },
         {
-          "title": "Postecoglou abandons the Jesus bet in Al-Nassr's line-up against Al-Faisaly!",
+          "title": "Video: Abdullah Al-Hamdan rewards Postecoglou against Al-Faisaly",
           "source": "Goal.com",
-          "url": "https://www.goal.com/en/news/postecoglou-abandons-the-jesus-gamble-in-al-nassr-s-line-up-against-al-faisaly/blt1cebfe2aa2c9156f"
+          "url": "https://www.goal.com/en/news/video-abdullah-al-hamdan-rewards-postecoglou-against-al-faisaly/blt93cdf380fa216635"
         },
         {
-          "title": "Al-Faisaly FC vs Al-Nassr – Prediction, Where to Watch, Kick-off Time and Lineups 23-10",
-          "source": "Odds Scanner",
-          "url": "https://oddsscanner.com/predictions/football/al-faisaly-fc-x-al-nassr-23-10-2026"
+          "title": "Is Cristiano Ronaldo starting for Al Nassr vs Al Faisaly in Saudi Pro League?",
+          "source": "Sportstar",
+          "url": "https://sportstar.thehindu.com/football/is-cristiano-ronaldo-starting-for-al-nassr-vs-al-faisaly-saudi-pro-league/article71616204.ece"
         }
       ]
     },
     {
       "title": "윤미라",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Fri, 23 Oct 2026 06:10:00 -0700",
       "news": [
         {
@@ -66,6 +149,28 @@
           "title": "윤미라, 75세 '모태 싱글' 라이프 공개…아침부터 호텔회원권으로 즐기는 조식 - 조선비즈",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/entertainment/tv/2026/10/23/HFSDSMJQMI2TKMLCHBSTMZJRGA/"
+        }
+      ]
+    },
+    {
+      "title": "영구 결번",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 06:10:00 -0700",
+      "news": [
+        {
+          "title": "LG 최종전 '영구결번 트리오' 시구였나…노송이 밝힌 뒷얘기 \"너무 자주 마운드에 오르는 것이 송구스러워\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014938"
+        },
+        {
+          "title": "[도청도설] if, 손아섭",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20261023.22018006715"
+        },
+        {
+          "title": "'이제 서른' 모두가 탐낸 홈런왕 재능 아직 안 터졌다…충격의 방출 통보, \"한 번 더 해보겠습니다\" [인터뷰]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/22/G5RTIODFGA3TIZRWMUZWGNZUMM/"
         }
       ]
     },
@@ -97,129 +202,19 @@
       "published": "Fri, 23 Oct 2026 06:10:00 -0700",
       "news": [
         {
-          "title": "아이브 리즈 母, 전현무와 동갑 1977년생…거침없는 딸 자랑",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261023/134896089/1"
+          "title": "'77년생 미혼' 전현무, 아이브 리즈 어머니와 동갑",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003839344"
         },
         {
-          "title": "‘77년생’ 전현무, 아이브 리즈 母와 동갑 사실에 ‘머쓱’ (전현무계획4)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522288"
-        },
-        {
-          "title": "전현무, 아이브 리즈 母와 동갑이었다..충격에 '이마 짚' \"1977년생 49살\"(전현무계획)",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112896758"
-        }
-      ]
-    },
-    {
-      "title": "영구 결번",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 06:10:00 -0700",
-      "news": [
-        {
-          "title": "LG 최종전 '영구결번 트리오' 시구였나…노송이 밝힌 뒷얘기 \"너무 자주 마운드에 오르는 것이 송구스러워\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014938"
-        },
-        {
-          "title": "[도청도설] if, 손아섭",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20261023.22018006715"
-        },
-        {
-          "title": "'이제 서른' 모두가 탐낸 홈런왕 재능 아직 안 터졌다…충격의 방출 통보, \"한 번 더 해보겠습니다\" [인터뷰]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/22/G5RTIODFGA3TIZRWMUZWGNZUMM/"
-        }
-      ]
-    },
-    {
-      "title": "황영웅",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 05:50:00 -0700",
-      "news": [
-        {
-          "title": "황영웅, ‘애가타’ 어쿠스틱 라이브에 팬들 뭉클…“목소리 자체가 악기”",
-          "source": "CBC뉴스",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=618724"
-        },
-        {
-          "title": "\"임영웅 0.3% 꼴찌\"…49% 황영웅, 한류 트로트 인기상 1위 독주 '갸우뚱'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6329580"
-        },
-        {
-          "title": "‘한류연예대상’ 전유진, 막판 뒤집기",
+          "title": "아이브 리즈 母, 역대급 예능 엄마의 등장 “딸 미모는 친가, 끼는 나한테” (전현무계획4)",
           "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610231145003"
-        }
-      ]
-    },
-    {
-      "title": "스타벅스",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "스타벅스, 디지털·정보보안 전담조직 신설…내부 시스템 강화",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102315330516392"
+          "url": "https://sports.khan.co.kr/article/202610231019003"
         },
         {
-          "title": "[단독] SSG닷컴, 사업총괄본부 신설…사업부제로 조직 재편",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105237"
-        },
-        {
-          "title": "신세계그룹, SSG닷컴 조직 개편… 식료품 사업에 힘 싣는다 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/distribution/food/2026/10/23/7KJX2XM45RGSZPBG6PX7BNLKUY/"
-        }
-      ]
-    },
-    {
-      "title": "슈퍼맨이 돌아왔다",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "박세영, 놀이공원 평생 공짜 이용권…“공주 선발대회 대상 탔다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261022/134889294/1"
-        },
-        {
-          "title": "‘슈돌’ 박세영, 놀이공원 평생 공짜인 이유…“공주 선발대회 대상 탔다”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20104997"
-        },
-        {
-          "title": "박세영, 장기연애→결혼 쉽지 않은데..“♥곽정욱 멱살 잡고 끌고 가” (‘슈돌’) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/MIZDMNJXMY2DAOJWMM2TOZLFGU/"
-        }
-      ]
-    },
-    {
-      "title": "이수만",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "\"도파민 연속 터져\"…이수만 걸그룹 뮤비 누가 만들었나 했더니 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102311044114450"
-        },
-        {
-          "title": "[ET포토] A2O LITE 보라, '매력 덩어리'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261021000307"
-        },
-        {
-          "title": "나영석도 ‘니온’…케이팝 숏폼 강박 깬 에이투오 라이트 [가요 뷰]",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1704934/%EB%82%98%EC%98%81%EC%84%9D%EB%8F%84-%E2%80%98%EB%8B%88%EC%98%A8%E2%80%99%EC%BC%80%EC%9D%B4%ED%8C%9D-%EC%88%8F%ED%8F%BC-%EA%B0%95%EB%B0%95-%EA%B9%AC-2026"
+          "title": "‘초통령’ 아이브 리즈 “콘서트서 ‘애기들!’ 외치면 함성 진짜 커” (전현무계획4)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522287"
         }
       ]
     }
