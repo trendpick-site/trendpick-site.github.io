@@ -1,11 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T21:39:00+00:00",
+  "fetched_at": "2026-10-23T22:09:50+00:00",
   "items": [
     {
+      "title": "전원주",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 14:00:00 -0700",
+      "news": [
+        {
+          "title": "87세 전원주 “기억이 잘 안 난다”…55년 절친 김형자와 특별한 무대",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261023/134896691/1"
+        },
+        {
+          "title": "전원주, '치매 전 단계' 진단 후 먹먹한 고백…\"기억이 잘 안나\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102321051270319"
+        },
+        {
+          "title": "김주하·손태진, MBN ‘언포게터블 듀엣’ 시즌2 동반MC",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11624999"
+        }
+      ]
+    },
+    {
+      "title": "삼성 갤럭시",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 13:50:00 -0700",
+      "news": [
+        {
+          "title": "원UI 10이 갤럭시를 바꾼다... 2027년 삼성 역대급 변화 전망",
+          "source": "베타뉴스",
+          "url": "https://www.betanews.net/article/view/beta202610210189"
+        },
+        {
+          "title": "One UI 9 업데이트가 문제였나…갤럭시S26 울트라 업데이트 후 초기 설정 먹통",
+          "source": "케이벤치",
+          "url": "https://kbench.com/?q=node/282736"
+        },
+        {
+          "title": "갤럭시 A56, 원 UI 8.5엔 없던 아이폰 에어드롭이 원 UI 9에서 열렸다",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1168181"
+        }
+      ]
+    },
+    {
+      "title": "운세",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "[오늘의 운세] 2026년 10월 23일 별자리 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202610230000000002"
+        },
+        {
+          "title": "[오늘의 운세] 10월 24일 토요일 (음력 9월 14일) 띠별 운세",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261016580254"
+        },
+        {
+          "title": "10월 24일 오늘의 운세-띠별·별자리 총정리",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=926891"
+        }
+      ]
+    },
+    {
+      "title": "세균",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "한 입 먹고 또 찍는 ‘더블 딥’…입 속 세균 옮겨갈까?",
+          "source": "레이디경향",
+          "url": "https://lady.khan.co.kr/health/article/202610231333001"
+        },
+        {
+          "title": "서귀포 제주향 이번엔 청귤 음료 세균수 부적합 적발",
+          "source": "세이프타임즈",
+          "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246685"
+        },
+        {
+          "title": "'제주향 청귤' 세균수 기준 초과로 회수 조치",
+          "source": "메디컬투데이",
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=620295"
+        }
+      ]
+    },
+    {
+      "title": "손주",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "‘손주 돌봄’ 수당에… 할머니는 돈벌고, 엄마는 걱정 덜고[온나라 다함께 아이키우기 프로젝트]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625318"
+        },
+        {
+          "title": "손주 독박 육아하느라 집 옮기고 일 내려놓은 조부모들",
+          "source": "주간동아",
+          "url": "https://weekly.donga.com/society/article/all/11/6421405/1"
+        },
+        {
+          "title": "손주 봐주는 노인, 일주일에 평균 27시간 맡는데… 절반이 ‘무보수’[온나라 다함께 아이키우기 프로젝트]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625316"
+        }
+      ]
+    },
+    {
+      "title": "lpl",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "Avon investment adviser pleads guilty in $3.3M fraud scheme",
+          "source": "Hartford Business Journal",
+          "url": "https://hartfordbusiness.com/article/avon-investment-adviser-pleads-guilty-in-3-3m-fraud-scheme/"
+        },
+        {
+          "title": "Ex-advisor pleads guilty in free riding case",
+          "source": "Investment Executive",
+          "url": "https://www.investmentexecutive.com/news/regulation/ex-advisor-pleads-guilty-in-free-riding-case/"
+        },
+        {
+          "title": "Ex-LPL, special needs advisor pleads guilty in fraud case.",
+          "source": "InvestmentNews",
+          "url": "https://www.investmentnews.com/regulation-legal-compliance/ex-lpl-special-needs-advisor-pleads-guilty-in-fraud-case/268724"
+        }
+      ]
+    },
+    {
       "title": "피싱",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Fri, 23 Oct 2026 13:30:00 -0700",
       "news": [
         {
@@ -26,14 +158,36 @@
       ]
     },
     {
-      "title": "상어",
+      "title": "동아일보",
       "approx_traffic": "500+",
       "published": "Fri, 23 Oct 2026 13:20:00 -0700",
       "news": [
         {
-          "title": "북항 해역 기름 유출‥자취 감춘 '부캉이'",
+          "title": "공원 연못서 낚은 몸통만한 잉어 메고 떠난 여성 놓고 ‘와글와글’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261023/134899915/2"
+        },
+        {
+          "title": "[와글와글] \"골칫거리 잡았는데?\"‥\"하면 안 되는 행동\"",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860336_37004.html"
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6860110_37012.html"
+        },
+        {
+          "title": "’거대 잉어’ 업고 유유히…“공원 불법 낚시“·“외래종 제거“ 논쟁",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/akr20261021173732wvd"
+        }
+      ]
+    },
+    {
+      "title": "상어",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 13:20:00 -0700",
+      "news": [
+        {
+          "title": "상어 '부캉이' 이제 진짜 바다로 돌아갔나…모습 안 보여",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6596113"
         },
         {
           "title": "부캉아, 이제는 우리가 지켜줄게",
@@ -41,31 +195,9 @@
           "url": "https://www.sciencetimes.co.kr/nscvrg/view/menu/253?searchCategory=225&nscvrgSn=262558"
         },
         {
-          "title": "상어 '부캉이' 이제 진짜 바다로 돌아갔나…모습 안 보여",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6596113"
-        }
-      ]
-    },
-    {
-      "title": "동아일보",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 13:20:00 -0700",
-      "news": [
-        {
-          "title": "할아버지 찔러 숨지게 한 여대생에 법원 선처…이유는?",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261023/134895636/2"
-        },
-        {
-          "title": "친할아버지 숨지게 한 20대 손녀, 징역 5년…그는 왜 조부를 찔렀나",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105546"
-        },
-        {
-          "title": "‘할아버지 살해’ 20대 손녀에 징역 5년…“살인 고의 인정 어려워”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693602"
+          "title": "북항 해역 기름 유출‥자취 감춘 '부캉이'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860336_37004.html"
         }
       ]
     },
@@ -75,151 +207,14 @@
       "published": "Fri, 23 Oct 2026 13:20:00 -0700",
       "news": [
         {
-          "title": "20돌 맞은 청송사과축제 다음달 4일 개막…블랙이글스 에어쇼 뜬다",
-          "source": "쿠키뉴스",
-          "url": "https://www.kukinews.com/article/view/kuk202610230139"
+          "title": "진천 옥동유치원, 사과밭 현장체험학습 실시",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106400"
         },
         {
-          "title": "청송사과축제, 현비암 아래서 사과를 두드리자 바위처럼 영근 세월이 깨어났다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102153421"
-        },
-        {
-          "title": "청송의 가을은 사과빛으로 춤춘다… 제20회 청송사과축제 11월 4일 개막",
-          "source": "씨원뉴스",
-          "url": "https://www.c1news.kr/news/articleView.html?idxno=203039"
-        }
-      ]
-    },
-    {
-      "title": "화재",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 13:10:00 -0700",
-      "news": [
-        {
-          "title": "“AI로 전기화재 원인 밝힌다”…전기안전공사, 화재감식 기술혁신 성과 공유",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=373833"
-        },
-        {
-          "title": "충남도의회 ‘전기차‧산업현장’ AI 화재감지 모델 논의",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3442631"
-        },
-        {
-          "title": "한동수 KAIST 교수 \"화재건물 속 소방관 위치 찾을 방법 있다\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261021175241"
-        }
-      ]
-    },
-    {
-      "title": "ai",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 13:00:00 -0700",
-      "news": [
-        {
-          "title": "The biggest-ever internet security threat has been known for 22 years. AI made it a crisis in 2 days",
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/10/23/tech/ai-cybersecurity-php2shell-explained"
-        },
-        {
-          "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability"
-        },
-        {
-          "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html"
-        }
-      ]
-    },
-    {
-      "title": "승리",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 12:00:00 -0700",
-      "news": [
-        {
-          "title": "빅뱅 출신 승리, 특수폭행 혐의 부인…\"소주병 휘두른 적 없어\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023184900005"
-        },
-        {
-          "title": "[전문] ‘소주병 피소’ 승리 측 “고소인 합의 제안, 정식 수사 통해 밝힐 것”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610232030003"
-        },
-        {
-          "title": "'특수폭행 입건' 승리, 소주병 들었다 인정⋯\"폭행은 없었다\"",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2639628"
-        }
-      ]
-    },
-    {
-      "title": "슈투트가르트 대 묀헨글라트바흐",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 11:50:00 -0700",
-      "news": [
-        {
-          "title": "German Bundesliga LIVE: Stuttgart v Borussia M'gladbach - watch, text coverage, scores, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/ck1wv842335et"
-        },
-        {
-          "title": "Gladbach get first season win in Stuttgart to avoid unwanted record",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/gladbach-first-season-win-stuttgart-204839259.html"
-        },
-        {
-          "title": "!Herems Got the ways to watch Monchengladbach vs VfB Stuttgart 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 24 October 2026",
-          "source": "小豆島町",
-          "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3ZlbXBpcmVzLmdpdGh1Yi5pby9UZXJhL2h0cy54bWwiLz48L2tycGFubz4=&id=to-watch-monchengladbach-vs-vfb-stuttgart-cbs-sports-achtk"
-        }
-      ]
-    },
-    {
-      "title": "입스위치 대 노팅엄 포레스트",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 11:40:00 -0700",
-      "news": [
-        {
-          "title": "Ipswich vs. Nottm Forest (Oct 23, 2026) Team Stats",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401879253"
-        },
-        {
-          "title": "Pistons' Jalen Duren: Tallies 14 points vs. Toronto",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/pistons-jalen-duren-tallies-14-points-vs-toronto/"
-        },
-        {
-          "title": "North Carolina Central vs. Delaware State (Oct 23, 2026) Box Score",
-          "source": "ESPN",
-          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401867955"
-        }
-      ]
-    },
-    {
-      "title": "al",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 11:10:00 -0700",
-      "news": [
-        {
-          "title": "Al Qadsiah vs Al Hilal: Saudi Pro League stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cq1m4pk2gzent"
-        },
-        {
-          "title": "Video: A surprise blow: Martinelli stuns Al-Hilal against Al-Qadsiah",
-          "source": "LiveScore",
-          "url": "https://www.livescore.com/en/news/football/more/video-a-surprise-blow-martinelli-stuns-al-hilal-against-al-qadsiah-goal/"
-        },
-        {
-          "title": "\"Not the most important match\": Inzaghi reveals the trick that led Al-Hilal to victory over Al-Qadsiah",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-za/news/not-the-most-important-match-inzaghi-reveals-the-trick-that-led-al-hilal-to-victory-over-al-qadsiah/blt8b4b9c2e0f39df62"
+          "title": "금당초병설유치원, 샤인머스켓·사과 따기 체험",
+          "source": "홍성신문",
+          "url": "https://www.hsnews.co.kr/news/articleView.html?idxno=133931"
         }
       ]
     }
