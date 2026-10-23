@@ -1,8 +1,118 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T17:43:32+00:00",
+  "fetched_at": "2026-10-23T18:43:35+00:00",
   "items": [
+    {
+      "title": "페이커",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 10:20:00 -0700",
+      "news": [
+        {
+          "title": "'페이커' 기념우표 구매 기다리는 시민들",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20261023012900013"
+        },
+        {
+          "title": "'507개 한정' 페이커 굿즈에 밤샘 행렬",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8175092"
+        },
+        {
+          "title": "'페이커' 이상혁 기념우표 발행 첫날 오픈런",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261023123832"
+        }
+      ]
+    },
+    {
+      "title": "로보택시",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 10:10:00 -0700",
+      "news": [
+        {
+          "title": "2028년 광주서 로보택시 상용화…자율주행 서비스 사업자 도입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023096800003"
+        },
+        {
+          "title": "자율주행 실증·이동로봇 상용화 지원…창업기업 행정서류 절반으로 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/23/2026102209391866012"
+        },
+        {
+          "title": "\"로보택시 유상 이용 2028년 목표…택시업계 참여 모델 논의\"[일문일답]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/realestate/general/6328934"
+        }
+      ]
+    },
+    {
+      "title": "ufc 333",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 10:00:00 -0700",
+      "news": [
+        {
+          "title": "Movsar Evloev | It’s A Long Way To The Top",
+          "source": "UFC.com",
+          "url": "https://jp.ufc.com/news/movsar-evloev-its-a-long-way-to-the-top-ufc-333"
+        },
+        {
+          "title": "Alexander Volkanovski predicts UFC 333 win vs. Movsar Evloev 'in pretty wild fashion'",
+          "source": "MMA Junkie",
+          "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/18/alexander-volkanovski-ufc-333-vs-movsar-evloev-title-defense-wild-fashion/92318596007/"
+        },
+        {
+          "title": "‘It’s good to be back in Abu Dhabi’: Dana White sets the stage for UFC 333",
+          "source": "Arab News",
+          "url": "https://www.arabnews.com/sport/its-good-to-be-back-in-abu-dhabi-dana-white-sets-the-stage-for-ufc-333-3007902"
+        }
+      ]
+    },
+    {
+      "title": "롤",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 09:50:00 -0700",
+      "news": [
+        {
+          "title": "넥슨, '서든어택 챔피언십 시즌2' 24일 개막",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261023001115"
+        },
+        {
+          "title": "‘200 FPS 첫 도입’ 서든어택 승부가 달라진다…8000만원 우승 전쟁, 24일 개막",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1643550"
+        },
+        {
+          "title": "LoL 기반 TCG 리프트바운드, K/DA·월즈·T1 한정판 3종 출시",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322483&site=lol&iskin=lol"
+        }
+      ]
+    },
+    {
+      "title": "업비트",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 09:50:00 -0700",
+      "news": [
+        {
+          "title": "비트코인 8만달러대 횡보 계속…美 기술주 부진에 '흔들' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/23/2026102317020138251"
+        },
+        {
+          "title": "[서울데이터랩]암호화폐 시가총액 2조7574억 달러로 감소…비트코인 8만1806달러·이더리움 2411달러",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/economy/finance/2026/10/23/20261023500005"
+        },
+        {
+          "title": "비트코인, 1억800만원대로 밀려…\"AI 투자 부담에 유가 급등까지\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003837899"
+        }
+      ]
+    },
     {
       "title": "아프리카",
       "approx_traffic": "200+",
@@ -26,30 +136,8 @@
       ]
     },
     {
-      "title": "젠지",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 09:30:00 -0700",
-      "news": [
-        {
-          "title": "LCK 4개팀, 24일부터 롤드컵 스위스 스테이지 출격…젠지·한화생명은 중국과 격돌",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/10/22/G4ZWCMRXMVTDMYZSMJSDON3EGA/"
-        },
-        {
-          "title": "젠지 '듀로' 주민규 \"IG전? 당연히 이긴다⋯자고 일어나니 시차 적응 끝\" [인터뷰]",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2638630"
-        },
-        {
-          "title": "[오!쎈 인터뷰] \"잊혀지지 않는 선수로\"… '쇼메이커' 허수가 밝힌 2년 만의 롤드컵 출사표",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261021181740579"
-        }
-      ]
-    },
-    {
       "title": "월즈",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Fri, 23 Oct 2026 09:10:00 -0700",
       "news": [
         {
@@ -75,19 +163,19 @@
       "published": "Fri, 23 Oct 2026 09:00:00 -0700",
       "news": [
         {
-          "title": "Sources: Cloud9 parts ways with APA and Zven",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/sources-apa-and-zven-set-to-depart-cloud9/en"
-        },
-        {
-          "title": "C9 Roster Update: APA and Zven Set to Exit Following Early Worlds Exit",
-          "source": "EGamersWorld",
-          "url": "https://egamersworld.com/lol/news/37904/sources-cloud9-to-part-ways-with-apa-and-zven-afte-b-4QLv-dn"
-        },
-        {
           "title": "LoL 2026 Offseason Live Tracker",
           "source": "Sheep Esports",
           "url": "https://www.sheepesports.com/en/articles/lol-2026-offseason-live-tracker/en"
+        },
+        {
+          "title": "LYON Saint: \"In Scrims, Dhokla Went 15/0/2 Against HLE.\"",
+          "source": "Hotspawn",
+          "url": "https://www.hotspawn.com/league-of-legends/news/lyon-saint-worlds-2026-interview"
+        },
+        {
+          "title": "'Saint' Dreams of Swapping Jerseys with 'Faker': \"I Want to Face LCK Mids and Absorb Their Strengths\"",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/27577/saint-dreams-of-swapping-jerseys-with-faker-i-want-to-face-lck-mids-and-absorb-their-strengths"
         }
       ]
     },
@@ -134,78 +222,6 @@
           "url": "https://www.sportschosun.com/entertainment/2026-10-23/202610230100149700009747"
         }
       ]
-    },
-    {
-      "title": "렌트 푸어",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 08:10:00 -0700",
-      "news": [
-        {
-          "title": "전세살이 설움 터졌다...\"한방에 2억 올려달래요\" \"월세도 낸다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/23/2026102016445065255"
-        },
-        {
-          "title": "너도나도 “평수 줄여 이사”…소형아파트 전세지수 역대 최고",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/property/1283428.html"
-        },
-        {
-          "title": "전고점 뚫은 전셋값 | 집코노미 타임즈",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610228530i"
-        }
-      ]
-    },
-    {
-      "title": "이선민",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 08:10:00 -0700",
-      "news": [
-        {
-          "title": "이선민, ‘모태 마름’ 코쿤 벌크업 나섰다…‘밥도둑 식단’ 도전",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261023/134896492/1"
-        },
-        {
-          "title": "'나혼산' 이선민, '모태 마름' 코드쿤스트 주방에 '당황'",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522225"
-        },
-        {
-          "title": "코쿤, 알고보니 이선민에 운동 플러팅..산스장서 브로맨스 폭발(나혼산) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/GE4GKMZXMVSTOMJYGBRWEYZYME/"
-        }
-      ]
-    },
-    {
-      "title": "함소원",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 08:00:00 -0700",
-      "news": [
-        {
-          "title": "함소원, 5년 만에 ♥전남편 진화와 재혼? “서로 진지하게 바라보는 중”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610230039003"
-        },
-        {
-          "title": "함소원, 큰 교통사고로 대소변 줄에 기저귀 차... \"前남편 진화가 간호\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/MVTDKZBUMFTDQNDEHE4WKNBQGI/"
-        },
-        {
-          "title": "함소원, 교통사고로 골반 다섯 곳 골절…\"하반신 감각 안 느껴져\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003838075"
-        }
-      ]
-    },
-    {
-      "title": "교통량",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 08:00:00 -0700",
-      "news": []
     }
   ]
 }
