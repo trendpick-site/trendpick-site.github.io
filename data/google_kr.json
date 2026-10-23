@@ -1,11 +1,121 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T05:10:14+00:00",
+  "fetched_at": "2026-10-23T05:40:17+00:00",
   "items": [
     {
-      "title": "비야디",
+      "title": "구축함",
       "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 21:30:00 -0700",
+      "news": [
+        {
+          "title": "\"잘못 알고 계신 사항 있다\"... 물러서지 않은 해병대사령관",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276917"
+        },
+        {
+          "title": "드론 항모·신형 구축함 꿈꾸는 해군… 노후 전력 교체는 ‘난항’ [박수찬의 軍]",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261023504001"
+        },
+        {
+          "title": "국감 후반전, 여야 곳곳서 공방…北 도발 대응·대법관 재제청 등 놓고 충돌(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261020_0003834047"
+        }
+      ]
+    },
+    {
+      "title": "콜옵4",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 21:30:00 -0700",
+      "news": [
+        {
+          "title": "與, 장동혁 명예훼손 혐의 고발 …\"北공작금, 금도 넘은 거짓주장\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022176500001"
+        },
+        {
+          "title": "“김대중·노무현·문재인·이재명 정부, 진보 아닌 종북좌파” 조갑제 발언",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11624875"
+        },
+        {
+          "title": "민주, '이 대통령 북한 변호' 주장 장동혁 고발‥\"명백한 범죄\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6860000_36911.html"
+        }
+      ]
+    },
+    {
+      "title": "추위",
+      "approx_traffic": "200000+",
+      "published": "Thu, 22 Oct 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "‘최고 23도’ 낮부터 추위 풀린다…태풍 ‘참피’에 제주·남부 비",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/environment/1283781.html"
+        },
+        {
+          "title": "[날씨] 절기 상강, 한낮 온화…태풍 영향 남부 중심 비",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261023131216JPw"
+        },
+        {
+          "title": "아침 기온 5도 안팎 ‘쌀쌀’…오후부터 남부·제주 비",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610230731001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+        }
+      ]
+    },
+    {
+      "title": "레버리지",
+      "approx_traffic": "20000+",
+      "published": "Thu, 22 Oct 2026 21:10:00 -0700",
+      "news": [
+        {
+          "title": "도경완, '120억家' 관리비에 한숨…\"아이들 변기 물도 못 내리게 해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003837696"
+        },
+        {
+          "title": "'46세' 장윤정, 4년 뒤 은퇴 시사? 도경완 폭로에 '찐당황' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102301113557132"
+        },
+        {
+          "title": "“하닉 왜 빠져” 도경완, 하닉 레버리지 수익률 -40% 공개",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625645"
+        }
+      ]
+    },
+    {
+      "title": "연기금",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 21:10:00 -0700",
+      "news": [
+        {
+          "title": "에코프로비엠·삼성SDI 다 던졌다! 이차전지 판 연기금과 외국인이 사 모은 종목은? (10.22)",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/moneykhan/moneykhan1/contents/261022180814623ad"
+        },
+        {
+          "title": "개미는 던지고 연기금은 담았다…2차전지株 엇갈린 베팅",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12090753"
+        },
+        {
+          "title": "흔들리던 장에 큰손 '연기금' 등판 \"빨간불 켜졌다\"…뭐 담나 보니 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/19/2026101910324333868"
+        }
+      ]
+    },
+    {
+      "title": "비야디",
+      "approx_traffic": "500+",
       "published": "Thu, 22 Oct 2026 21:00:00 -0700",
       "news": [
         {
@@ -19,9 +129,9 @@
           "url": "https://www.yna.co.kr/view/AKR20261022125200073"
         },
         {
-          "title": "주한미군도 제한 전망…‘BYD, 군사정보 수집장비’ 판단",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625817"
+          "title": "주일미군, 가데나 기지에 중국 전기차 ’BYD’ 출입 금지…주한미군도 가능성",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610230954521Sg"
         }
       ]
     },
@@ -71,7 +181,7 @@
     },
     {
       "title": "최태원",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Thu, 22 Oct 2026 20:40:00 -0700",
       "news": [
         {
@@ -80,9 +190,9 @@
           "url": "https://www.ytn.co.kr/_ln/0102_202610231144502921"
         },
         {
-          "title": "SK하이닉스, 2%대 상승…솔리다임 IPO 검토 중단 영향 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/23/2026102313191913950"
+          "title": "[특징주] 반도체주, 솔리다임 호재에 낙폭 줄여…하닉은 2% 반등(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023043251008"
         },
         {
           "title": "금감원장의 솔리다임 직격에 뜨끔한 보스턴다이내믹스",
@@ -110,116 +220,6 @@
           "title": "[단독] 육사 중징계율 10년來 최고…군기 해이 덮친 '위기의 사관학교'",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/202610204211i"
-        }
-      ]
-    },
-    {
-      "title": "저스틴 비버 팝업",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 20:30:00 -0700",
-      "news": [
-        {
-          "title": "저스틴 비버, 아내와 한국 왔다…성수동 팝업엔 밤샘 대기줄",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610239942H"
-        },
-        {
-          "title": "저스틴 비버, 13년 만에 내한했다…패션브랜드 팝업 인산인해",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261023/134895043/1"
-        },
-        {
-          "title": "\"저스틴 비버 인스타에 반포 아파트가?\"…사진 속 등장한 5000가구 대단지 정체",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/10/23/2026102301046.html"
-        }
-      ]
-    },
-    {
-      "title": "현대 아이오닉",
-      "approx_traffic": "2000+",
-      "published": "Thu, 22 Oct 2026 20:20:00 -0700",
-      "news": [
-        {
-          "title": "2000만원대 아이오닉V, 中 CATL 열폭주 기술 품었다",
-          "source": "디일렉",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=63691"
-        },
-        {
-          "title": "현대차 中 전략형 전기차 아이오닉 V '초라한' 성적…첫달 판매 '28대'",
-          "source": "더구루",
-          "url": "https://www.theguru.co.kr/news/article.html?no=108575"
-        },
-        {
-          "title": "\"역대급이라더니 처참한 결과\"... 현대차가 야심 차게 출시한 신형 세단, 고작 28대 팔렸다",
-          "source": "토픽트리",
-          "url": "https://topictree.co.kr/automobiles/news/hyundai-ioniq-v-stumbles-in-china/?amp=1"
-        }
-      ]
-    },
-    {
-      "title": "삼성e&a",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 20:20:00 -0700",
-      "news": [
-        {
-          "title": "삼성E&A, 3분기 깜짝 실적에 증권사 목표가 줄상향",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023033300008"
-        },
-        {
-          "title": "[오늘 이 종목] 수주·주주환원 확대 삼성E&A·AI 데이터센터 확장 SGC에너지 ‘주목’ - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/23/2026102311197063713"
-        },
-        {
-          "title": "[오늘의 증권가 콜] 삼성E&A, 셀트리온, LG이노텍, 엘앤에프, 산일전기, 골프존, 클래시스 등",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610230272i"
-        }
-      ]
-    },
-    {
-      "title": "thunder vs nuggets",
-      "approx_traffic": "100+",
-      "published": "Thu, 22 Oct 2026 20:20:00 -0700",
-      "news": [
-        {
-          "title": "Jokic struggles, Hezonja returns as Nuggets, Cavaliers drop openers",
-          "source": "Eurohoops",
-          "url": "https://www.eurohoops.net/en/nba-news/2024747/nikola-jokic-mario-hezonja-nba-european-recap/"
-        },
-        {
-          "title": "Shai Gilgeous-Alexander finishes with 17 points in Thunder home opener, breaking 141-game point streak",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/article/shai-gilgeous-alexander-finishes-with-17-points-in-thunder-home-opener-breaking-141-game-point-streak-042229817.html"
-        },
-        {
-          "title": "Nikola Jokić limited to 13 points in opener",
-          "source": "NBC Sports",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-23/nikola-jokic-limited-to-13-points-in-opener"
-        }
-      ]
-    },
-    {
-      "title": "김영옥",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 20:10:00 -0700",
-      "news": [
-        {
-          "title": "모친상 최수종에 김영옥 “슬픈 마음도 있지”…말없이 헤아린 38년 인연",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261022/134891240/2"
-        },
-        {
-          "title": "최수종, 역시 국민 사랑꾼..“♥하희라 공연? 빠짐없이 보러 가” (김영옥) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/GQ2DSOJSGIYGGZLGMFRTAZJSGM/"
-        },
-        {
-          "title": "※외로움 주의※ 30년째 사랑이 넘치는 최수종 하희라 부부의 함께 일해서 좋은 점과 안 좋은 점! [박소현의 러브게임]",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/radio/lovegame/clip/57669/22000638632"
         }
       ]
     }
