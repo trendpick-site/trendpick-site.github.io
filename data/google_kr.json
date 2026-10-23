@@ -1,11 +1,55 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T17:13:00+00:00",
+  "fetched_at": "2026-10-23T17:43:32+00:00",
   "items": [
     {
-      "title": "월즈",
+      "title": "아프리카",
       "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 09:40:00 -0700",
+      "news": [
+        {
+          "title": "AI 접목한 'K-검진'…세계은행 디지털 전문가도 \"발전 놀랍다\" 극찬 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/10/22/2026102217121269700"
+        },
+        {
+          "title": "한국 의료 AI, 몽골 병원 뚫는다…뇌질환·암 진단 시장 공략",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105191"
+        },
+        {
+          "title": "의사 부족한 아프리카에 한국형 AI 검진이 손 내민다",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610231435431976"
+        }
+      ]
+    },
+    {
+      "title": "젠지",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 09:30:00 -0700",
+      "news": [
+        {
+          "title": "LCK 4개팀, 24일부터 롤드컵 스위스 스테이지 출격…젠지·한화생명은 중국과 격돌",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/22/G4ZWCMRXMVTDMYZSMJSDON3EGA/"
+        },
+        {
+          "title": "젠지 '듀로' 주민규 \"IG전? 당연히 이긴다⋯자고 일어나니 시차 적응 끝\" [인터뷰]",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2638630"
+        },
+        {
+          "title": "[오!쎈 인터뷰] \"잊혀지지 않는 선수로\"… '쇼메이커' 허수가 밝힌 2년 만의 롤드컵 출사표",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261021181740579"
+        }
+      ]
+    },
+    {
+      "title": "월즈",
+      "approx_traffic": "500+",
       "published": "Fri, 23 Oct 2026 09:10:00 -0700",
       "news": [
         {
@@ -27,7 +71,7 @@
     },
     {
       "title": "lck",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 23 Oct 2026 09:00:00 -0700",
       "news": [
         {
@@ -162,50 +206,6 @@
       "approx_traffic": "100+",
       "published": "Fri, 23 Oct 2026 08:00:00 -0700",
       "news": []
-    },
-    {
-      "title": "롤드컵",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 07:50:00 -0700",
-      "news": [
-        {
-          "title": "[롤드컵] '버서커' 김민철, \"한화생명 상대 복수 원한다\"",
-          "source": "데일리e스포츠",
-          "url": "https://www.dailyesports.com/view.php?ud=202610230507146296b91e133c1f_27"
-        },
-        {
-          "title": "네이버 치지직, '2026 LoL 월드 챔피언십' 생중계",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6592443"
-        },
-        {
-          "title": "LCK 4개팀, 24일부터 롤드컵 스위스 스테이지 출격…젠지·한화생명은 중국과 격돌",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/10/22/G4ZWCMRXMVTDMYZSMJSDON3EGA/"
-        }
-      ]
-    },
-    {
-      "title": "하주석",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 07:50:00 -0700",
-      "news": [
-        {
-          "title": "[PO 포커스] '이적생' KIA 하주석, 2년 연속 KS 밟을까",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261023000683"
-        },
-        {
-          "title": "KIA 트레이드 이적생, 아내 응원에 힘낸다…\"괜히 루머 생길까 봐 조심스러워해요\"",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2210543"
-        },
-        {
-          "title": "[사진]준PO3차전에서 안타 뽑아내는 KIA 하주석 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/20/GU3TKOJYMRQTKZRRGZRWMOJWHA/"
-        }
-      ]
     }
   ]
 }
