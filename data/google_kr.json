@@ -1,27 +1,99 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T15:42:19+00:00",
+  "fetched_at": "2026-10-23T16:18:12+00:00",
   "items": [
     {
-      "title": "커피",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 07:10:00 -0700",
+      "title": "이선민",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 08:10:00 -0700",
       "news": [
         {
-          "title": "서울우유 '강릉커피', 누적 판매 4300만개 돌파",
-          "source": "SBS Biz",
-          "url": "https://biz.sbs.co.kr/article/20000341779"
+          "title": "이선민, ‘모태 마름’ 코쿤 벌크업 나섰다…‘밥도둑 식단’ 도전",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261023/134896492/1"
         },
         {
-          "title": "서울우유, 고품질 원유 앞세운 ‘강릉커피’로 RTD 커피 시장 공략",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=20261023212404365204ead0791_12"
+          "title": "'나혼산' 이선민, '모태 마름' 코드쿤스트 주방에 '당황'",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522225"
         },
         {
-          "title": "서울우유, ‘강릉커피’ 누적 판매 4300만개…'프리미엄 RTD 공략'",
-          "source": "한국아이닷컴",
-          "url": "https://www.hankooki.com/news/articleView.html?idxno=346641"
+          "title": "코쿤, 알고보니 이선민에 운동 플러팅..산스장서 브로맨스 폭발(나혼산) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/GE4GKMZXMVSTOMJYGBRWEYZYME/"
+        }
+      ]
+    },
+    {
+      "title": "함소원",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 08:00:00 -0700",
+      "news": [
+        {
+          "title": "함소원, 5년 만에 ♥전남편 진화와 재혼? “서로 진지하게 바라보는 중”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610230039003"
+        },
+        {
+          "title": "함소원, 큰 교통사고로 대소변 줄에 기저귀 차... \"前남편 진화가 간호\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/MVTDKZBUMFTDQNDEHE4WKNBQGI/"
+        },
+        {
+          "title": "함소원, 교통사고로 골반 다섯 곳 골절…\"하반신 감각 안 느껴져\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838075"
+        }
+      ]
+    },
+    {
+      "title": "교통량",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 08:00:00 -0700",
+      "news": []
+    },
+    {
+      "title": "롤드컵",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 07:50:00 -0700",
+      "news": [
+        {
+          "title": "[롤드컵] '버서커' 김민철, \"한화생명 상대 복수 원한다\"",
+          "source": "데일리e스포츠",
+          "url": "https://www.dailyesports.com/view.php?ud=202610230507146296b91e133c1f_27"
+        },
+        {
+          "title": "LCK 4개팀, 24일부터 롤드컵 스위스 스테이지 출격…젠지·한화생명은 중국과 격돌",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/22/G4ZWCMRXMVTDMYZSMJSDON3EGA/"
+        },
+        {
+          "title": "[오!쎈 인터뷰] \"잊혀지지 않는 선수로\"… '쇼메이커' 허수가 밝힌 2년 만의 롤드컵 출사표",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896601"
+        }
+      ]
+    },
+    {
+      "title": "하주석",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 07:50:00 -0700",
+      "news": [
+        {
+          "title": "[PO 포커스] '이적생' KIA 하주석, 2년 연속 KS 밟을까",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261023000683"
+        },
+        {
+          "title": "KIA 트레이드 이적생, 아내 응원에 힘낸다…\"괜히 루머 생길까 봐 조심스러워해요\"",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2210543"
+        },
+        {
+          "title": "[사진]준PO3차전에서 안타 뽑아내는 KIA 하주석 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/20/GU3TKOJYMRQTKZRRGZRWMOJWHA/"
         }
       ]
     },
@@ -31,19 +103,41 @@
       "published": "Fri, 23 Oct 2026 07:10:00 -0700",
       "news": [
         {
-          "title": "‘이라크 파병’ 손석구 “배우 그만두려고 했다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261023/134895026/1"
+          "title": "“너한테 하고 싶었던 이야기야” 손석구, ‘은인’ 최희서에 전하는 고마운 진심",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC482604870"
         },
         {
-          "title": "이서진 맞아? '게이 이상형 1위' 손석구 넥타이 매주며 다정..\"둘이 사귀는거 같아\"(비서진)",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261021193446431"
+          "title": "'이라크 파병' 손석구 \"배우 그만두려고 했다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838098"
         },
         {
-          "title": "\"부모님 몰래 이라크 파병 지원\"…'비서진' 손석구, 파란만장 인생사 최초 고백",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811606"
+          "title": "이서진 “1500억 주면 김광규와 키스 가능”…돈 앞에 장사 없네(‘비서진’)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/MYZTSYLBGFSDAZRUGM3TEOLBG4/"
+        }
+      ]
+    },
+    {
+      "title": "커피",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 07:10:00 -0700",
+      "news": [
+        {
+          "title": "서울우유, 고품질 원유 앞세운 ‘강릉커피’로 RTD 커피 시장 공략",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=20261023212404365204ead0791_12"
+        },
+        {
+          "title": "서울우유 '강릉커피', 누적 판매 4300만개 돌파",
+          "source": "SBS Biz",
+          "url": "https://biz.sbs.co.kr/article/20000341779"
+        },
+        {
+          "title": "서울우유, ‘강릉커피’ 누적 판매 4300만개…'프리미엄 RTD 공략'",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417970"
         }
       ]
     },
@@ -70,9 +164,9 @@
       "published": "Fri, 23 Oct 2026 06:50:00 -0700",
       "news": [
         {
-          "title": "颱風薔琵暴風圈籠罩全台 在宜蘭東方海面向西偏折打轉 估24日清晨再向北移｜不斷更新",
+          "title": "颱風薔琵持續往西 預計凌晨後北轉 北部山區嚴防大豪雨｜不斷更新",
           "source": "Yahoo新聞",
-          "url": "https://tw.news.yahoo.com/live/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E6%9A%B4%E9%A2%A8%E5%9C%88%E7%B1%A0%E7%BD%A9%E5%85%A8%E5%8F%B0-%E5%9C%A8%E5%AE%9C%E8%98%AD%E6%9D%B1%E6%96%B9%E6%B5%B7%E9%9D%A2%E5%90%91%E8%A5%BF%E5%81%8F%E6%8A%98%E6%89%93%E8%BD%89-%E4%BC%B024%E6%97%A5%E6%B8%85%E6%99%A8%E5%86%8D%E5%90%91%E5%8C%97%E7%A7%BB%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-132105365.html"
+          "url": "https://tw.news.yahoo.com/live/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E6%8C%81%E7%BA%8C%E5%BE%80%E8%A5%BF-%E9%A0%90%E8%A8%88%E5%87%8C%E6%99%A8%E5%BE%8C%E5%8C%97%E8%BD%89-%E5%8C%97%E9%83%A8%E5%B1%B1%E5%8D%80%E5%9A%B4%E9%98%B2%E5%A4%A7%E8%B1%AA%E9%9B%A8%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-155326915.html"
         },
         {
           "title": "北市10/24續放颱風假！網友灌爆蔣萬安臉書：我們做你的靠山，不怕什麼流 | 蕭宥宸 | 新聞",
@@ -102,119 +196,9 @@
           "url": "https://sports.donga.com/ent/article/all/20261023/134897184/1"
         },
         {
-          "title": "'닥터X' 환자 장기에 이니셜 새긴 장승조…김지원 응징은?",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03063526645615544&mediaCodeNo=257"
-        }
-      ]
-    },
-    {
-      "title": "al-faisaly vs al-nassr",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 06:10:00 -0700",
-      "news": [
-        {
-          "title": "Al Faisaly vs Al Nassr: Saudi Pro League stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c65ynpxe8488t"
-        },
-        {
-          "title": "Video: Abdullah Al-Hamdan rewards Postecoglou against Al-Faisaly",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/news/video-abdullah-al-hamdan-rewards-postecoglou-against-al-faisaly/blt93cdf380fa216635"
-        },
-        {
-          "title": "Is Cristiano Ronaldo starting for Al Nassr vs Al Faisaly in Saudi Pro League?",
-          "source": "Sportstar",
-          "url": "https://sportstar.thehindu.com/football/is-cristiano-ronaldo-starting-for-al-nassr-vs-al-faisaly-saudi-pro-league/article71616204.ece"
-        }
-      ]
-    },
-    {
-      "title": "윤미라",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 06:10:00 -0700",
-      "news": [
-        {
-          "title": "75세 윤미라 ‘서방은 없어도 옷방은 3개’…화려한 싱글 라이프",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261023/134895305/1"
-        },
-        {
-          "title": "‘75세 모태 싱글’ 윤미라, ‘미우새’ 등판…결혼 직전 포기한 사연은?",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261023500164"
-        },
-        {
-          "title": "윤미라, 75세 '모태 싱글' 라이프 공개…아침부터 호텔회원권으로 즐기는 조식 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/10/23/HFSDSMJQMI2TKMLCHBSTMZJRGA/"
-        }
-      ]
-    },
-    {
-      "title": "영구 결번",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 06:10:00 -0700",
-      "news": [
-        {
-          "title": "LG 최종전 '영구결번 트리오' 시구였나…노송이 밝힌 뒷얘기 \"너무 자주 마운드에 오르는 것이 송구스러워\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014938"
-        },
-        {
-          "title": "[도청도설] if, 손아섭",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20261023.22018006715"
-        },
-        {
-          "title": "'이제 서른' 모두가 탐낸 홈런왕 재능 아직 안 터졌다…충격의 방출 통보, \"한 번 더 해보겠습니다\" [인터뷰]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/22/G5RTIODFGA3TIZRWMUZWGNZUMM/"
-        }
-      ]
-    },
-    {
-      "title": "외교관",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 06:10:00 -0700",
-      "news": [
-        {
-          "title": "오스트리아, 러 외교관 또 추방…\"스파이 혐의\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023172700098"
-        },
-        {
-          "title": "오스트리아, 빈주재 러 외교관 4명 추방",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261023_0002272639"
-        },
-        {
-          "title": "오스트리아, 러 외교관 4명 추방‥\"스파이 혐의\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6860320_36925.html"
-        }
-      ]
-    },
-    {
-      "title": "아이브",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 06:10:00 -0700",
-      "news": [
-        {
-          "title": "'77년생 미혼' 전현무, 아이브 리즈 어머니와 동갑",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003839344"
-        },
-        {
-          "title": "아이브 리즈 母, 역대급 예능 엄마의 등장 “딸 미모는 친가, 끼는 나한테” (전현무계획4)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610231019003"
-        },
-        {
-          "title": "‘초통령’ 아이브 리즈 “콘서트서 ‘애기들!’ 외치면 함성 진짜 커” (전현무계획4)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522287"
+          "title": "환자 간에 이니셜을?…드라마 속 '장기 낙서', 실제라면 어떤 처벌 받나 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/23/2026102306401360718"
         }
       ]
     }
