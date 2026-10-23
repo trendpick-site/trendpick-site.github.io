@@ -1,11 +1,121 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T06:55:02+00:00",
+  "fetched_at": "2026-10-23T07:47:37+00:00",
   "items": [
     {
-      "title": "김미화",
+      "title": "사업",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 23:40:00 -0700",
+      "news": [
+        {
+          "title": "이 대통령 “메가 프로젝트·초광역 특구 현장 인허가 애로 직접 챙길 것”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/bluehouse/1283844.html"
+        },
+        {
+          "title": "호남·TK 등 종합보세구역 추진…반도체·로봇·AI 규제혁신",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023123800002"
+        },
+        {
+          "title": "발언하는 임기근 국무조정실장",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261023_0021501631"
+        }
+      ]
+    },
+    {
+      "title": "cve-2026-111497",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 23:30:00 -0700",
+      "news": [
+        {
+          "title": "Node2Shell: Node.js Brotli vulnerability allows remote code execution (CVE-2026-111497) and the fix",
+          "source": "Aikido Security",
+          "url": "https://www.aikido.dev/blog/node2shell-nodejs-brotli-rce-cve-2026-111497"
+        },
+        {
+          "title": "NEAR Co-Founder Flags Internet Security Risks as PHP, Node.js Patch Flaws",
+          "source": "TOKENPOST",
+          "url": "https://www.tokenpost.com/news/technology/38191"
+        },
+        {
+          "title": "Node.js has released security updates '22.23.4', '24.22.1', and '26.12.1', fixing a total of 10 vulnerabilities.",
+          "source": "GIGAZINE",
+          "url": "https://gigazine.net/gsc_news/en/20261022-node-js-security-releases/"
+        }
+      ]
+    },
+    {
+      "title": "풍자",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 23:30:00 -0700",
+      "news": [
+        {
+          "title": "풍자, 한혜진 옆 '이쁜척'…37㎏ 감량의 힘",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003835400"
+        },
+        {
+          "title": "\"풍자인 줄 몰랐다\"…37㎏ 빼고 확 달라진 얼굴 '깜짝' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/index.php/entertainment/2026/10/23/2026102315303718333"
+        },
+        {
+          "title": "\"살 쏙 빠지더니 이런 청순미가?\"...풍자, 긴 머리 늘어뜨린 '반전 비주얼'",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261021142725787"
+        }
+      ]
+    },
+    {
+      "title": "상장지수 펀드",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 23:10:00 -0700",
+      "news": [
+        {
+          "title": "중동발 공급 불안에 원유 ETF '들썩'…한달 새 두자릿수 급등",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610230944i"
+        },
+        {
+          "title": "[미국 ETF 히든 챔피언] (69) 정제 마진 급등에 CRAK 81% 잭팟",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261022001185"
+        },
+        {
+          "title": "상반기 팔던 美채권, 넉 달째 담는다…고금리에 달라진 투자 셈법",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12090792"
+        }
+      ]
+    },
+    {
+      "title": "조재호",
       "approx_traffic": "2000+",
+      "published": "Thu, 22 Oct 2026 23:00:00 -0700",
+      "news": [
+        {
+          "title": "‘퍼펙트큐’ 김가영은 한지은 꺾고 ‘원조퀸’ 임정숙은 정수빈에 0:2→3:2 대역전승 8강행[NH농협카드LPBA]",
+          "source": "mkbn.mk.co.kr",
+          "url": "https://mkbn.mk.co.kr/news/sports/12183564"
+        },
+        {
+          "title": "'0-12서 대역전 드라마' 조재호, 승부치기 끝에 PBA 64강행",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022060000007"
+        },
+        {
+          "title": "\"언니 잘 좀 해봐\" 자극 받았나, 김보미 극적 8강 진출... 정작 우승자 정수빈은 '승승패패패' 16강서 탈락 [PBA 투어] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/23/2026102309452976520"
+        }
+      ]
+    },
+    {
+      "title": "김미화",
+      "approx_traffic": "5000+",
       "published": "Thu, 22 Oct 2026 22:50:00 -0700",
       "news": [
         {
@@ -26,52 +136,8 @@
       ]
     },
     {
-      "title": "고종욱",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "프로야구 KIA, 고종욱·이창진·홍건희·김대유 방출",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023104200007"
-        },
-        {
-          "title": "프로야구 KIA, 고종욱·이창진 등 방출…선수단 정리",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812094"
-        },
-        {
-          "title": "15억 포기하고 친정 복귀했는데 왜? 홍건희 1년만에 KIA 떠난다...KIA 홍건희 고종욱 이창진 김대유 김사윤 윤중현 방출 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/23/202610231402772438O"
-        }
-      ]
-    },
-    {
-      "title": "hd현대",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "HD현대, 미국에 조선소 짓는다… 마스가 다시 속도",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/10/23/GFTCAZ4QLZG65PKQCZ4GRK6OTI/"
-        },
-        {
-          "title": "HD현대, 美에 신규 조선소 건립…키윗社와 합작법인 설립",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261023000203"
-        },
-        {
-          "title": "HD현대, 키윗과 美 조선산업 재건 나선다",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719469"
-        }
-      ]
-    },
-    {
       "title": "토스뱅크",
-      "approx_traffic": "100+",
+      "approx_traffic": "1000+",
       "published": "Thu, 22 Oct 2026 22:50:00 -0700",
       "news": [
         {
@@ -92,134 +158,68 @@
       ]
     },
     {
+      "title": "hd현대",
+      "approx_traffic": "1000+",
+      "published": "Thu, 22 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "HD현대, 미국에 조선소 짓는다… 마스가 다시 속도",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/10/23/GFTCAZ4QLZG65PKQCZ4GRK6OTI/"
+        },
+        {
+          "title": "HD현대, 美 합작법인 ‘키윗조선’ 출범…신규 스마트조선소 짓는다",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261023023469971"
+        },
+        {
+          "title": "HD현대, 미국에 첫 조선소 짓는다…불붙는 ‘마스가’ 쟁탈전",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610231523001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+        }
+      ]
+    },
+    {
+      "title": "고종욱",
+      "approx_traffic": "500+",
+      "published": "Thu, 22 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "프로야구 KIA, 고종욱·이창진·홍건희·김대유 방출",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023104200007"
+        },
+        {
+          "title": "프로야구 KIA, 고종욱·이창진 등 방출…선수단 정리",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812094"
+        },
+        {
+          "title": "15억 포기하고 친정 복귀했는데 왜? 홍건희 1년만에 KIA 떠난다...KIA 홍건희 고종욱 이창진 김대유 김사윤 윤중현 방출 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/23/202610231402772438O"
+        }
+      ]
+    },
+    {
       "title": "김광삼",
       "approx_traffic": "2000+",
       "published": "Thu, 22 Oct 2026 22:40:00 -0700",
       "news": [
         {
-          "title": "프로야구 한화, 김광삼 투수·진종길 수비 코치 영입",
+          "title": "‘류지현 체제’ 프로야구 한화, 김광삼 투수코치 영입",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693628"
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693652"
         },
         {
-          "title": "[오피셜] '류지현 사단' 1호는 'LG 출신' 김광삼 투수코치, \"조심스럽다\"던 이유 있었다... 진종길 코치도 NC서 이적 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/23/2026102314250773177"
+          "title": "프로야구 한화, 김광삼 투수 코치·진종길 수비 코치 영입",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812088"
         },
         {
-          "title": "'류지현호' LG&NC 우승 코치 품었다…김광삼-진종길 코치 전격 영입 [공식발표]",
+          "title": "그가 떠난 자리엔 늘 '왕조'가 섰다,'1000승 명장' 유산 품은 류지현, 한화 미래가 밝은 이유",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/23/GU2TSMJSMQZDSZRRGNSTCZTCG4/"
-        }
-      ]
-    },
-    {
-      "title": "기호일보",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "[긴급점검] 인천 영종 시내버스 운행 ‘개악’",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038424"
-        },
-        {
-          "title": "인천공항 품은 영종, 정작 공항 가는 길은 먼 길?",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038400"
-        },
-        {
-          "title": "캠핑과 트레킹에 안성맞춤 소야도",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038346"
-        }
-      ]
-    },
-    {
-      "title": "인플루언서",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 22:30:00 -0700",
-      "news": [
-        {
-          "title": "\"35층 추락, 생존\"…오른쪽 다리 잃은 27세 인플루언서 17개월 만에 컴백",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/general-world/6328661"
-        },
-        {
-          "title": "여성 스트리머, 35층 추락사했지만 살아남아 \"정말 운이 좋았어요\"",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nu-streamer-song-sot-sau-cu-roi-tang-35-toi-may-man"
-        },
-        {
-          "title": "35층 추락서 살아남은 中 싱웨이, 17개월 만에 복귀 : 국제",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1042394"
-        }
-      ]
-    },
-    {
-      "title": "한고은",
-      "approx_traffic": "2000+",
-      "published": "Thu, 22 Oct 2026 22:20:00 -0700",
-      "news": [
-        {
-          "title": "“내 재산 모두 남편에게” 한고은♥신영수, 유언장 쓰며 전한 눈물의 진심",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610231146003"
-        },
-        {
-          "title": "‘無자녀’ 한고은, ♥신영수에 전재산 상속 선언 \"유언장에 내 재산 다 가지라고 적어\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-22/202610220100146430009500"
-        },
-        {
-          "title": "\"전 재산 남편에게\"…한고은 유언장 쓴 이유 [소셜in]",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522194"
-        }
-      ]
-    },
-    {
-      "title": "김영희",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 22:00:00 -0700",
-      "news": [
-        {
-          "title": "경기도의회 김영희 부위원장, “유보통합. 소극적 행정에서 벗어나 현장 문제 해결에 적극 나서야”",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=798841"
-        },
-        {
-          "title": "김영희 경기도의원, 평생교육 활성화·평생교육사 활동 기반 확대 논의",
-          "source": "신아일보",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072946"
-        },
-        {
-          "title": "김영희 부위원장, “교원 연구활동 지원 확대…지역 거점형 연구활동 활성화해야”",
-          "source": "서프라이즈뉴스",
-          "url": "https://www.surprisenews.kr/news/articleView.html?idxno=713557"
-        }
-      ]
-    },
-    {
-      "title": "김태욱",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "‘채시라 남편’ 김태욱 롬앤에 日 마루베니 공개매수…상한가",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/10/23/DEQUPOIAENF3HOFQHT7REY4WAI/"
-        },
-        {
-          "title": "日마루베니가 찜했다…색조화장품기업 아이패밀리에스씨, 상한가 직행",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1180023"
-        },
-        {
-          "title": "\"日이 K-뷰티 산다\"…'채시라 남편' 김태욱 아이패밀리에스씨 上[핫종목]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/general-stock/6329622"
+          "url": "https://www.chosun.com/sports/baseball/2026/10/22/HEZDMOJUHEYGENDDMUYTEYZUGM/"
         }
       ]
     }
