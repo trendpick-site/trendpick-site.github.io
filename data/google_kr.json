@@ -1,18 +1,140 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T23:06:33+00:00",
+  "fetched_at": "2026-10-23T23:35:27+00:00",
   "items": [
+    {
+      "title": "선수",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 15:30:00 -0700",
+      "news": [
+        {
+          "title": "“돌연 생리 터졌는데도 완주”…쉬쉬하던 女선수들 달라진 이유",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25471632"
+        },
+        {
+          "title": "'피범벅 운동화' 이어 '생리통 투혼'…韓 마라톤, 또 울림",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6594086"
+        },
+        {
+          "title": "'레이스 중 생리 터졌다!' 투혼으로 완주한 박서연…팬들 갑론을박 \"멋있다!\" VS \"큰일 당하면 어쩌려고\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896184"
+        }
+      ]
+    },
+    {
+      "title": "스마트 폰",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "1분 만에 품절된 아이폰 듀오, 지금 주문해도 내년에 받는다고?",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3775_3_C1"
+        },
+        {
+          "title": "아이폰 듀오, 출시 첫날부터 품귀…“공급망 준비 안 돼”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694196"
+        },
+        {
+          "title": "애플 첫 폴더블폰, 판매 첫날부터 대박…\"공급 부족\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261024070839npE"
+        }
+      ]
+    },
+    {
+      "title": "신애라",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "\"새 식구 생겨\"' 신애라♥차인표, 며느리 언급…\"가족 모습 달라져\" ('애라네')",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261023091808265"
+        },
+        {
+          "title": "'차인표♥' 신애라, 아찔한 차량 '사고' 깜짝…\"정말 놀랐다\" ('애라네') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/24/MI3TMYLBHFTDCY3GMVSWKNLGMU/"
+        },
+        {
+          "title": "'차인표♥' 신애라, 다 큰 아들·입양 딸 성장에 울컥 \"너무 빨리 자라\" (신애라이프)",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2210881"
+        }
+      ]
+    },
+    {
+      "title": "강예원",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "강예원, 부친 빚 10억에 눈물…\"집 내놓고 엄마 집으로\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102319377"
+        },
+        {
+          "title": "강예원, 고인인 부친 빚 상환 위에 살던 집 처분한다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610231750003"
+        },
+        {
+          "title": "강예원, 돌아가신 아버지 11억 빚 고백 후 집 내놨다…\"20년 만에 엄마 집으로\"",
+          "source": "TopStarNews",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16256197"
+        }
+      ]
+    },
+    {
+      "title": "코어장전",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 15:10:00 -0700",
+      "news": [
+        {
+          "title": "[롤드컵] '코어장전' 조용인, \"스위스 스테이지 벽 부수고 싶다\"",
+          "source": "데일리e스포츠",
+          "url": "https://www.dailyesports.com/view.php?ud=20261023014102731b91e133c1f_27"
+        },
+        {
+          "title": "‘코어장전’ 조용인 “올해 LCS 강해⋯8강 진출 자신”",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/20261023500007"
+        }
+      ]
+    },
+    {
+      "title": "당구",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 15:00:00 -0700",
+      "news": [
+        {
+          "title": "조재호도 64강 문턱서 고배…PBA 5차 투어, 강호들 잇단 탈락에 이변 확산",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845158"
+        },
+        {
+          "title": "\"언니 잘 좀 해봐\" 자극 받았나, 김보미 극적 8강 진출... 정작 우승자 정수빈은 '승승패패패' 16강서 탈락 [PBA 투어] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/23/2026102309452976520"
+        },
+        {
+          "title": "'당구 여제' 김가영, LPBA 5차 투어 8강행…정수빈은 탈락",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003837849"
+        }
+      ]
+    },
     {
       "title": "태풍 경로",
       "approx_traffic": "1000+",
       "published": "Fri, 23 Oct 2026 15:00:00 -0700",
       "news": [
-        {
-          "title": "행안부, 태풍 '참피'·호우 대비 강풍 취약시설 사전 점검 지시",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974197&pWise=sub&pWiseSub=R1"
-        },
         {
           "title": "‘10월 태풍’ 참피 북상…이 시각 제주는?",
           "source": "KBS 뉴스",
@@ -48,72 +170,6 @@
       ]
     },
     {
-      "title": "스마트폰",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "1분 만에 품절된 아이폰 듀오, 지금 주문해도 내년에 받는다고?",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3775_3_C1"
-        },
-        {
-          "title": "아이폰 듀오, 첫날부터 세계 곳곳서 품귀…\"공급망 준비 안 돼\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024007600075"
-        },
-        {
-          "title": "애플 첫 폴더블폰, 판매 첫날부터 대박…\"공급 부족\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261024070839npE"
-        }
-      ]
-    },
-    {
-      "title": "天气",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "Austin braces for busy weekend as Formula 1, Texas football and other events draw crowds",
-          "source": "KXAN Austin",
-          "url": "https://www.kxan.com/news/local/austin-braces-for-busy-weekend-as-formula-1-texas-football-and-other-events-draw-crowds/"
-        },
-        {
-          "title": "Weekend Warm-Up - 2026 United States Grand Prix",
-          "source": "Formula 1",
-          "url": "https://www.formula1.com/en/video/weekend-warm-up-2026-united-states-grand-prix.1879794600099858821"
-        },
-        {
-          "title": "United States Grand Prix practice, qualifying and race times, UK times, plus weather forecast",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/formula1/articles/cm0qk189q5dgo"
-        }
-      ]
-    },
-    {
-      "title": "대전날씨",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "대전·세종·충남 곳에 따라 비…낮 최고 20도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024007000063"
-        },
-        {
-          "title": "충남권 대체로 흐리고 오후 곳에 따라 5~10㎜ 비",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003839276"
-        },
-        {
-          "title": "[오늘의 날씨] 충북·세종(24일, 토)…오후부터 5~10㎜ 비 소식",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/sejong-chungbuk/6330351"
-        }
-      ]
-    },
-    {
       "title": "국제선",
       "approx_traffic": "100+",
       "published": "Fri, 23 Oct 2026 14:50:00 -0700",
@@ -136,90 +192,24 @@
       ]
     },
     {
-      "title": "天気",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "強い台風30号は九州へ 警報級大雨",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/pickup/6599881"
-        },
-        {
-          "title": "台風30号の進路予想(2026)と現在位置【最新】",
-          "source": "ウェザーニュース",
-          "url": "https://weathernews.jp/onebox/typhoon/30/"
-        },
-        {
-          "title": "台風30号 先島諸島に最接近 暴風や大雨に厳重警戒",
-          "source": "NHKニュース",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261023de63968"
-        }
-      ]
-    },
-    {
-      "title": "mu",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "Why Micron Stock Is Falling Hard Today",
-          "source": "The Motley Fool",
-          "url": "https://www.fool.com/investing/2026/10/22/why-micron-stock-is-falling-hard-today/"
-        },
-        {
-          "title": "Micron Stocks Rise 3.41% as $1,700 Target Puts Cash Durability in Focus",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/gurufocus:051e234c0094b:0-micron-stocks-rise-3-41-as-1-700-target-puts-cash-durability-in-focus/"
-        },
-        {
-          "title": "Could a $10,000 Investment in Micron Set You Up for Life?",
-          "source": "AOL.com",
-          "url": "https://www.aol.com/articles/could-10-000-investment-micron-123300000.html"
-        }
-      ]
-    },
-    {
-      "title": "天氣",
+      "title": "대전날씨",
       "approx_traffic": "200+",
       "published": "Fri, 23 Oct 2026 14:50:00 -0700",
       "news": [
         {
-          "title": "颱風薔琵暴風圈籠罩全台 在宜蘭東方海面向西偏折打轉 估24日清晨再向北移｜不斷更新",
-          "source": "Yahoo新聞",
-          "url": "https://tw.news.yahoo.com/live/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E6%9A%B4%E9%A2%A8%E5%9C%88%E7%B1%A0%E7%BD%A9%E5%85%A8%E5%8F%B0-%E5%9C%A8%E5%AE%9C%E8%98%AD%E6%9D%B1%E6%96%B9%E6%B5%B7%E9%9D%A2%E5%90%91%E8%A5%BF%E5%81%8F%E6%8A%98%E6%89%93%E8%BD%89-%E4%BC%B024%E6%97%A5%E6%B8%85%E6%99%A8%E5%86%8D%E5%90%91%E5%8C%97%E7%A7%BB%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-132105365.html"
+          "title": "대전·세종·충남 곳에 따라 비…낮 최고 20도",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024007000063"
         },
         {
-          "title": "台中市10/24明天會停班停課嗎？盧秀燕宣布了！薔琵颱風假全台22縣市不斷更新| 蔡惠芯 | 風生活",
-          "source": "風傳媒",
-          "url": "https://www.storm.mg/lifestyle/11175335"
+          "title": "충남권 대체로 흐리고 오후 곳에 따라 5~10㎜ 비",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003839276"
         },
         {
-          "title": "薔琵來襲…仍在暴風圈內 宜蘭縣宣布明天停班停課",
-          "source": "UDN",
-          "url": "https://udn.com/news/story/125052/9833885"
-        }
-      ]
-    },
-    {
-      "title": "weather",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 14:40:00 -0700",
-      "news": [
-        {
-          "title": "FORECAST: Grab the shades! More sunshine today!",
-          "source": "WDRB",
-          "url": "https://www.wdrbwave.com/2026/10/23/forecast-grab-shades-more-sunshine-today/"
-        },
-        {
-          "title": "Fall is settling into a comfortable rhythm with no big changes on the way.",
-          "source": "WBKO",
-          "url": "https://www.wbko.com/2026/10/23/fall-is-settling-into-comfortable-rhythm-with-no-big-changes-way/"
-        },
-        {
-          "title": "Dry and sunny heading into the weekend",
-          "source": "WLKY",
-          "url": "https://www.wlky.com/article/dry-and-sunny-heading-into-the-weekend/74227167"
+          "title": "[오늘의 날씨] 충북·세종(24일, 토)…오후부터 5~10㎜ 비 소식",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/sejong-chungbuk/6330351"
         }
       ]
     }
