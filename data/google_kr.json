@@ -1,8 +1,118 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T12:06:54+00:00",
+  "fetched_at": "2026-10-23T12:45:20+00:00",
   "items": [
+    {
+      "title": "thời tiết ngày mai",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 04:30:00 -0700",
+      "news": [
+        {
+          "title": "Dự báo thời tiết ngày mai 24.10: Mưa dông tiếp tục xuất hiện tại nhiều nơi",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/du-lich/cong-dong/du-bao-thoi-tiet-ngay-mai-2410-mua-dong-tiep-tuc-xuat-hien-tai-nhieu-noi-1788188.html"
+        },
+        {
+          "title": "Dự báo thời tiết đêm 23/10, ngày 24/10/2026",
+          "source": "Báo Quảng Ninh điện tử",
+          "url": "https://baoquangninh.vn/du-bao-thoi-tiet-dem-2310-ngay-24102026-post3424866.html"
+        },
+        {
+          "title": "Thời tiết đêm 22 ngày 23-10: Bắc Bộ sáng sớm có sương mù; Trung Bộ và Nam Bộ mưa rào đến mưa to",
+          "source": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/video/thoi-tiet-dem-22-ngay-23-10-bac-bo-sang-som-co-suong-mu-trung-bo-va-nam-bo-mua-rao-den-mua-to-203757.htm"
+        }
+      ]
+    },
+    {
+      "title": "이세돌",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 04:30:00 -0700",
+      "news": [
+        {
+          "title": "‘알파고 10주년’ 사회초년생 된 이세돌…“인간의 따뜻함 전하길”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692470"
+        },
+        {
+          "title": "'알파고와 대국' 이세돌, AI로 대체 힘든 직업 찾았다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003839041"
+        },
+        {
+          "title": "이세돌, 맥주 판매·요구르트 배달 도전…‘백수 이세돌’ 오늘 첫방",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261023/134896632/1"
+        }
+      ]
+    },
+    {
+      "title": "xsmb",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 04:30:00 -0700",
+      "news": [
+        {
+          "title": "Phân tích thống kê XSMB Thứ 7 Ngày 24/10/2026 - Chốt Số Vàng May Mắn",
+          "source": "homeup.vn",
+          "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-7-ngay-24102026-chot-so-vang-may-man-p7321"
+        },
+        {
+          "title": "Kết quả xổ số miền Bắc hôm nay ngày 23/10/2026: XSMB thứ Sáu hàng tuần.",
+          "source": "Báo VietNamNet",
+          "url": "https://vietnamnet.vn/ket-qua-xo-so-mien-bac-hom-nay-ngay-23-10-2026-xsmb-thu-sau-hang-tuan-2567253.html"
+        },
+        {
+          "title": "Xổ số trực tiếp miền Bắc và miền Trung hôm nay",
+          "source": "HOA BINH CONSTRUCTION GROUP",
+          "url": "https://hbcg.vn/video/X%E1%BB%95-s%E1%BB%91-tr%E1%BB%B1c-ti%E1%BA%BFp-mi%E1%BB%81n-B%E1%BA%AFc-v%C3%A0-mi%E1%BB%81n-Trung-h%C3%B4m-nay"
+        }
+      ]
+    },
+    {
+      "title": "ateez drip",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 04:30:00 -0700",
+      "news": [
+        {
+          "title": "Song Review: ATEEZ – Drip",
+          "source": "https://thebiaslist.com/",
+          "url": "https://thebiaslist.com/2026/10/22/song-review-ateez-drip/"
+        },
+        {
+          "title": "ATEEZ turn up the confidence on swagger-filled ‘Drip’ music video — watch",
+          "source": "Bandwagon",
+          "url": "https://www.bandwagon.asia/articles/ateez-turn-up-the-confidence-on-drip-ahead-of-upcoming-golden-hour-part-6-ep-watch"
+        },
+        {
+          "title": "ATEEZ Unveils 'Drip' MV Ahead of Mini Album 15",
+          "source": "PAP Magazine",
+          "url": "https://www.pap-magazine.com/en/article/ateez-drip-music-video-mini-album-15-pre-release"
+        }
+      ]
+    },
+    {
+      "title": "차은우",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 04:20:00 -0700",
+      "news": [
+        {
+          "title": "\"붕어빵 구워야죠\"...광명 붕은우, 방송 출연 쿨하게 거절 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/23/2026102316440313762"
+        },
+        {
+          "title": "\"차은우 닮은 붕어빵 사장\"…손님 폭주에 문 닫았다 영업 재개",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261019160136dk7"
+        },
+        {
+          "title": "\"광명 붕어빵 청년입니다\"…'붕은우' SNS 개설 하루 만에 '좋아요' 1만개 넘어서",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838383"
+        }
+      ]
+    },
     {
       "title": "카를로스 카라스코",
       "approx_traffic": "100+",
@@ -50,7 +160,7 @@
     },
     {
       "title": "배종옥",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 23 Oct 2026 03:30:00 -0700",
       "news": [
         {
@@ -76,124 +186,19 @@
       "published": "Fri, 23 Oct 2026 03:30:00 -0700",
       "news": [
         {
-          "title": "과천시 원문동, 주민과 함께하는 '사랑나눔 바자회' 개최",
-          "source": "한국시사경제",
-          "url": "https://www.hksisaeconomy.com/news/article.html?no=1266102"
+          "title": "'표고가 뭐길래'...고양시 표고 조례 개정 두고 '시끌'",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3729909"
         },
         {
-          "title": "아산시 신창면, ‘사랑의 새우젓 담그기’ 행사 추진…정성 담긴 나눔 실천",
-          "source": "메가충청뉴스",
-          "url": "https://www.megaccnews.com/news/articleView.html?idxno=8064"
-        }
-      ]
-    },
-    {
-      "title": "전지현",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 03:20:00 -0700",
-      "news": [
-        {
-          "title": "전지현, 세월 거스르는 미모",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261023000709"
+          "title": "[패트롤] 고양시의회-남양주시의회-안산시의회-의정부시의회",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261018024037628"
         },
         {
-          "title": "클래스가 다른 선명한 복근, 전지현 [O! STAR 숏폼]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/MIZDENLGHBQTKMBQGJSDEYLDG4/"
-        },
-        {
-          "title": "안다르, 성수동 팝업 '안다르 인 모션' 운영",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610221127065343"
-        }
-      ]
-    },
-    {
-      "title": "사고",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "보령해경, 24∼31일 연안 안전사고 주의보 발령",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023140200063"
-        },
-        {
-          "title": "평택해경, 24~31일 대조기 연안사고 '주의보'…순찰강화",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003838445"
-        },
-        {
-          "title": "울진·영덕 연안해안 '주의보' 발령...울진해경, 순찰 강화",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261021001222"
-        }
-      ]
-    },
-    {
-      "title": "홍명보",
-      "approx_traffic": "5000+",
-      "published": "Fri, 23 Oct 2026 02:50:00 -0700",
-      "news": [
-        {
-          "title": "김민재 5위! 그리고 홍명보 6위…한국 역대 최고 선수 TOP6 눈에 띄네→KIM 새로 진입",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2210691"
-        },
-        {
-          "title": "한국 축구 역대 최고 선수 김민재 5위·홍명보 6위 : 스포츠",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1044955"
-        },
-        {
-          "title": "홍명보와 각별한 회사가 왜? 대한축구협회 뉴미디어 중계권 ‘삼자계약’ 미스터리",
-          "source": "일요신문",
-          "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513280"
-        }
-      ]
-    },
-    {
-      "title": "나의 유죄인간",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 02:50:00 -0700",
-      "news": [
-        {
-          "title": "말투 독특 임시완 “사람 죽여봤어요?”…‘나의 유죄인간’ 미스터리",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261023/134894497/1"
-        },
-        {
-          "title": "임시완ㆍ설인아 통했다⋯'나의 유죄인간' 첫 방송부터 동시간대 1위",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2637712"
-        },
-        {
-          "title": "'나의 유죄인간' '일잘러' 임시완, 예민함 뒤에 감춰신 속사정",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522256"
-        }
-      ]
-    },
-    {
-      "title": "수원 kt 대 원주 db",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 02:40:00 -0700",
-      "news": [
-        {
-          "title": "[포토] 이규섭 감독 '빈곳을 찔러야지' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/23/2026102319273226286"
-        },
-        {
-          "title": "'이럴 수가' DB 에이스가 아프다 \"호텔서 쉬고 있어\"…3연패 KT 호재 \"이빠이 준비했는데, 안전하게 턴오버 줄일 것\" [MD수원]",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026102318465651042"
-        },
-        {
-          "title": "[JB프리뷰] 5경기 연속 실점 치솟은 KT, DB의 속공 잠재울 수 있을까",
-          "source": "점프볼",
-          "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065575369604184"
+          "title": "고양특례시의회 고덕희 의원, ‘법정동별 표고 규제 삭제’ 조례 개정안 원안가결",
+          "source": "누리일보",
+          "url": "https://nuriilbo.com/news/article.html?no=924646"
         }
       ]
     }
