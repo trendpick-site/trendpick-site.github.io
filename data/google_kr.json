@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T00:01:45+00:00",
+  "fetched_at": "2026-10-23T00:50:59+00:00",
   "items": [
+    {
+      "title": "페이커 우표",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 16:40:00 -0700",
+      "news": [
+        {
+          "title": "새벽부터 기다렸다…'페이커' 기념우표 사러 모인 시민들",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/IPT20261023000002365?section=gallery/index"
+        },
+        {
+          "title": "'페이커' 기념우표 구매 오픈런",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261023_0021500867"
+        },
+        {
+          "title": "페이커 기념우표 굿즈 나온다…우표카드 등 출시",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1179217"
+        }
+      ]
+    },
+    {
+      "title": "독도의 날",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 16:20:00 -0700",
+      "news": [
+        {
+          "title": "\"안용복부터 해경까지\"…김장훈·서경덕, 독도 영상 제작",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022153200371"
+        },
+        {
+          "title": "서경덕·김장훈, '독도 지켜온 사람들' 국내외 알린다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003837981"
+        },
+        {
+          "title": "한국해비타트·서경덕 교수, 독도의 날 기념 ‘영웅의 집’ 영상 공개",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3726866"
+        }
+      ]
+    },
     {
       "title": "필라데피아 대 클리블랜드",
       "approx_traffic": "1000+",
@@ -14,9 +58,9 @@
           "url": "https://6abc.com/post/76ers-home-opener-excitement-spreads-fans-artists-embrace-new-era-philadelphia/19967036/"
         },
         {
-          "title": "Cleveland Cavaliers vs. Philadelphia 76ers Live NBA Updates, Scores and Highlights",
-          "source": "Bleacher Report",
-          "url": "https://bleacherreport.com/liveblogs/25519170-cleveland-cavaliers-vs-philadelphia-76ers-live-nba-updates-scores-and-highlights"
+          "title": "Sixers-Cavaliers: Game Discussion Thread",
+          "source": "Liberty Ballers",
+          "url": "https://www.libertyballers.com/76ers-discussion-threads/99540/sixers-cleveland-cavaliers-game-discussion-thread-philadelphia-76ers-nba"
         },
         {
           "title": "Previewing Sixers-Cavaliers: How did Cleveland react to LeBron James' decision?",
@@ -31,6 +75,11 @@
       "published": "Thu, 22 Oct 2026 15:40:00 -0700",
       "news": [
         {
+          "title": "록히드마틴, 美와 F-35 전투기 850대 공급 합의…최소 103조원 규모",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02988086645615872"
+        },
+        {
           "title": "록히드 마틴, 방산 매출 급증으로 실적 예상치 상회",
           "source": "Investing.com 한국어",
           "url": "https://kr.investing.com/news/earnings/article-2136912"
@@ -39,17 +88,12 @@
           "title": "[미국 특징주] 록히드마틴 10% 급등…미사일 수요 폭발에 실적 전망 상향",
           "source": "뉴스핌",
           "url": "https://www.newspim.com/news/view/20261022001451"
-        },
-        {
-          "title": "록히드마틴, 수주 잔고 사상 최대…5%대 상승",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01334966645615872"
         }
       ]
     },
     {
       "title": "파리",
-      "approx_traffic": "2000+",
+      "approx_traffic": "200+",
       "published": "Thu, 22 Oct 2026 15:40:00 -0700",
       "news": [
         {
@@ -58,9 +102,9 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8693159"
         },
         {
-          "title": "시위·파업에 이탈리아 몸살…물류 차질에 사재기까지",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/IPT20261022000017365?section=gallery/index"
+          "title": "佛파리 상점가, 주말 시위 앞 긴장…\"약탈 대비 무기구매 10배\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/europe/6329435"
         },
         {
           "title": "20명의 공격에도 안 뚫린 루이비통 유리… 파리 폭동에 드러난 명품의 역설",
@@ -80,9 +124,9 @@
           "url": "https://www.hani.co.kr/arti/area/area_general/1283757.html"
         },
         {
-          "title": "이세웅 전 이북5도 평북지사 2천759억 원…주식 1천162억 원↑",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811296&plink=ORI&cooper=NAVER"
+          "title": "\"161억원 자산가가 청년 고충 알까\" vs \"정책 전문성·실행력으로 판단\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003837987"
         },
         {
           "title": "주식으로 1162억 늘었다…'2759억' 퇴직 공직자 최고 부자는?[재산공개]",
@@ -93,7 +137,7 @@
     },
     {
       "title": "상속",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Thu, 22 Oct 2026 15:20:00 -0700",
       "news": [
         {
@@ -110,28 +154,6 @@
           "title": "\"파느니 물려줄게\"…강남 사는 50·60 부모들의 상속 행렬",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/2026102276126"
-        }
-      ]
-    },
-    {
-      "title": "술",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "[기고]규제는 낮추고 판로는 넓히고, K-술의 세계화를 향해 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/opinion/2026/10/23/2026102211185383189"
-        },
-        {
-          "title": "국세청, '2026 K-SUUL AWARDS' 국민·외국인 심사단 모집",
-          "source": "Daily NTN",
-          "url": "https://www.intn.co.kr/news/articleView.html?idxno=2054100"
-        },
-        {
-          "title": "k-SUUL AWARDS 국민‧외국인 심사단 모집",
-          "source": "국세청",
-          "url": "https://www.nts.go.kr/nts/na/ntt/selectNttInfo.do?nttSn=1355573&mi=2207"
         }
       ]
     },
@@ -158,68 +180,46 @@
       ]
     },
     {
-      "title": "금양",
+      "title": "술",
+      "approx_traffic": "1000+",
+      "published": "Thu, 22 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "[기고]규제는 낮추고 판로는 넓히고, K-술의 세계화를 향해 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/opinion/2026/10/23/2026102211185383189"
+        },
+        {
+          "title": "국세청, '2026 K-SUUL AWARDS' 국민·외국인 심사단 모집",
+          "source": "Daily NTN",
+          "url": "https://www.intn.co.kr/news/articleView.html?idxno=2054100"
+        },
+        {
+          "title": "k-SUUL AWARDS 국민‧외국인 심사단 모집",
+          "source": "국세청",
+          "url": "https://www.nts.go.kr/nts/na/ntt/selectNttInfo.do?nttSn=1355573&mi=2207"
+        }
+      ]
+    },
+    {
+      "title": "아코스타",
       "approx_traffic": "200+",
       "published": "Thu, 22 Oct 2026 15:20:00 -0700",
       "news": [
         {
-          "title": "'상폐 기로' 금양, 데이터센터 진출 위한 물적분할 안건 가결",
+          "title": "격투기 경기 중 가슴 노출에도 웃었다…\"덕분에 성인 플랫폼으로 7억 벌었어\"",
           "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6593849"
+          "url": "https://www.nocutnews.co.kr/news/6594530"
         },
         {
-          "title": "금양 물적분할, 노르웨이 국부펀드 '반대'…주주수익·투명성 원칙 제시",
-          "source": "KPI뉴스",
-          "url": "https://kpinews.kr/newsView/1065541083271784"
+          "title": "루세로 아코스타, 경기 중 신체 노출 사고…7억 수익? 난리",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261021/134879982/1"
         },
         {
-          "title": "[뭐라노] 금양 부활할까",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/contents/newsbody.asp?code=0200&key=20261020.99099005519"
-        }
-      ]
-    },
-    {
-      "title": "아성다이소",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 15:00:00 -0700",
-      "news": [
-        {
-          "title": "[단독] 4000억 투입 다이소 세종허브센터 시운전…내년 4월 가동",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/distribution/6329002"
-        },
-        {
-          "title": "아성다이소, 2149억원 들여 양주 물류허브 구축... 2029년 초 가동 목표",
-          "source": "민중의소리",
-          "url": "https://vop.co.kr/A00001697257.html"
-        },
-        {
-          "title": "“다이소엔 없죠?” 1만원 에어프라이어 꺼낸 이마트…초저가 '빈틈' 찔렀다[르포]",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04460806645615544&mediaCodeNo=257"
-        }
-      ]
-    },
-    {
-      "title": "연금",
-      "approx_traffic": "5000+",
-      "published": "Thu, 22 Oct 2026 15:00:00 -0700",
-      "news": [
-        {
-          "title": "남편 소득 있다고 국민연금 못 들던 전업주부, 가입 길 열린다",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/rights/1283604.html"
-        },
-        {
-          "title": "전업주부도 자기 이름으로 국민연금…무소득 배우자 가입 문 넓힌다[Pick코노미]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105127"
-        },
-        {
-          "title": "결혼이 가른 55세 친구의 엇갈린 노후…국민연금의 낡은 구조",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261021128200530"
+          "title": "'성인모델' 파이터, 경기 중 '가슴 노출→TKO 참패'에도 \"덕분에 돈 벌었다\" 환호... 이유는 온리팬스 '수입 급증'",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/sports/2026/10/20/2026102016374993269"
         }
       ]
     }
