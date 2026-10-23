@@ -1,11 +1,55 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T22:09:50+00:00",
+  "fetched_at": "2026-10-23T22:39:00+00:00",
   "items": [
     {
-      "title": "전원주",
+      "title": "단풍",
       "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "“단풍은 다 담지 않아도 돼요”…가을 사진의 시선 잡기",
+          "source": "비건뉴스",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=396169"
+        },
+        {
+          "title": "가을 풍경 사진, 하늘과 땅 비중으로 수평선 정하기",
+          "source": "비건뉴스",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=396028"
+        },
+        {
+          "title": "카카오맵, 전국 단풍 현황 한눈에 보는 ‘단풍 지도’ 서비스 오픈",
+          "source": "카카오",
+          "url": "https://www.kakaocorp.com/page/detail/12169"
+        }
+      ]
+    },
+    {
+      "title": "สภาพอากาศ",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "พยากรณ์อากาศทั่วประเทศสำหรับ 10 วันนับจากคืนวันที่ 23 ตุลาคม 2569: เตือนภัยพายุฝนฟ้าคะนอง พายุทอร์นาโด และฟ้าผ่าในวงกว้าง",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/du-bao-thoi-tiet-ca-nuoc-10-ngay-tu-dem-23-10-2026-canh-bao-mua-dong-loc-set-dien-rong"
+        },
+        {
+          "title": "ลมหนาวเริ่มมา แล้วทำไมยังต้องระวังฝนหนัก? ช่วงนี้อากาศกำลังเปลี่ยนผ่านจากฤดูฝนเข้าสู่ฤดูหนาว มวลอากาศเย็นจากจีนกำลังแผ่ลงมา ทำให้ ไทยตอนบนมีฝนฟ้าคะนองและลมกระโชกแรง ขณะที่ ภาคใต้มีฝนตกต่อเนื่องและหนักขึ้น เพราะร่องมรสุมมีกำลังแรงขึ้น กรมอุตุนิยมวิทยาจึงออกประกาศ",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/tmd.go.th/posts/%E0%B8%A5%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%A1%E0%B8%B2-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%9D%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A4%E0%B8%94%E0%B8%B9%E0%B8%9D%E0%B8%99%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/1587945880044208/"
+        },
+        {
+          "title": "สั่งสนามบินใต้รับมือฝนหนัก 10 จังหวัดเสี่ยงน้ำท่วม เฝ้าระวัง 24 ชั่วโมง | The Better",
+          "source": "LINE TODAY",
+          "url": "https://today.line.me/th/v3/article/WBpYJvX"
+        }
+      ]
+    },
+    {
+      "title": "전원주",
+      "approx_traffic": "1000+",
       "published": "Fri, 23 Oct 2026 14:00:00 -0700",
       "news": [
         {
@@ -22,6 +66,28 @@
           "title": "김주하·손태진, MBN ‘언포게터블 듀엣’ 시즌2 동반MC",
           "source": "문화일보",
           "url": "https://www.munhwa.com/article/11624999"
+        }
+      ]
+    },
+    {
+      "title": "욕망의 덫",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 14:00:00 -0700",
+      "news": [
+        {
+          "title": "＂적당히 겁만 줘!＂ 유진석에게 장세현 겁주라고 시키는 장서희 [욕망의 덫] | KBS 261023 방송",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026166353-01-000_MFSC3&program_code=T2026-0209&program_id=PS-2026166353-01-000&section_code=03&broadcast_complete_yn=N&section_id=27853"
+        },
+        {
+          "title": "'욕망의 덫' 장서희, 비밀 합의서 포착… 과거 교통사고 추적한다",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3728551"
+        },
+        {
+          "title": "설정환, 전혜원 약혼 업무에 분노...유태웅&윤해영, 미묘한 신경전 [욕망의 덫]",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=775931"
         }
       ]
     },
@@ -49,7 +115,7 @@
     },
     {
       "title": "운세",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Fri, 23 Oct 2026 13:40:00 -0700",
       "news": [
         {
@@ -61,11 +127,6 @@
           "title": "[오늘의 운세] 10월 24일 토요일 (음력 9월 14일) 띠별 운세",
           "source": "경기일보",
           "url": "https://www.kyeonggi.com/article/20261016580254"
-        },
-        {
-          "title": "10월 24일 오늘의 운세-띠별·별자리 총정리",
-          "source": "남도일보",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=926891"
         }
       ]
     },
@@ -93,7 +154,7 @@
     },
     {
       "title": "손주",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Fri, 23 Oct 2026 13:40:00 -0700",
       "news": [
         {
@@ -146,75 +207,14 @@
           "url": "https://www.donga.com/news/Inter/article/all/20261023/134893747/2"
         },
         {
-          "title": "[단독]韓 해킹 악용된 '아르텍스' 개발사 CEO \"금융권 기술 지원 가능\"",
+          "title": "\"공격코드 등장까지 125일→반나절\"…AI가 바꾼 해킹의 시간표[초광속 AI 해킹 上]",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003837806"
+          "url": "https://www.newsis.com/view/NISX20261023_0003838999"
         },
         {
           "title": "클로드·그록으로 무장한 해커들, 중남미 은행 400여곳 사이버 공격 자동화",
           "source": "AI타임스",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216541"
-        }
-      ]
-    },
-    {
-      "title": "동아일보",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 13:20:00 -0700",
-      "news": [
-        {
-          "title": "공원 연못서 낚은 몸통만한 잉어 메고 떠난 여성 놓고 ‘와글와글’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261023/134899915/2"
-        },
-        {
-          "title": "[와글와글] \"골칫거리 잡았는데?\"‥\"하면 안 되는 행동\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6860110_37012.html"
-        },
-        {
-          "title": "’거대 잉어’ 업고 유유히…“공원 불법 낚시“·“외래종 제거“ 논쟁",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/akr20261021173732wvd"
-        }
-      ]
-    },
-    {
-      "title": "상어",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 13:20:00 -0700",
-      "news": [
-        {
-          "title": "상어 '부캉이' 이제 진짜 바다로 돌아갔나…모습 안 보여",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6596113"
-        },
-        {
-          "title": "부캉아, 이제는 우리가 지켜줄게",
-          "source": "사이언스타임즈",
-          "url": "https://www.sciencetimes.co.kr/nscvrg/view/menu/253?searchCategory=225&nscvrgSn=262558"
-        },
-        {
-          "title": "북항 해역 기름 유출‥자취 감춘 '부캉이'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860336_37004.html"
-        }
-      ]
-    },
-    {
-      "title": "사과",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 13:20:00 -0700",
-      "news": [
-        {
-          "title": "진천 옥동유치원, 사과밭 현장체험학습 실시",
-          "source": "충청매일",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106400"
-        },
-        {
-          "title": "금당초병설유치원, 샤인머스켓·사과 따기 체험",
-          "source": "홍성신문",
-          "url": "https://www.hsnews.co.kr/news/articleView.html?idxno=133931"
         }
       ]
     }
