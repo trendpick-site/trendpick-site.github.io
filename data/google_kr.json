@@ -1,27 +1,137 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T03:11:30+00:00",
+  "fetched_at": "2026-10-23T03:44:00+00:00",
   "items": [
+    {
+      "title": "네이버지도",
+      "approx_traffic": "2000+",
+      "published": "Thu, 22 Oct 2026 19:20:00 -0700",
+      "news": [
+        {
+          "title": "한국도로공사, 민·관 교통안전 데이터 공유 협의체 만든다",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373794"
+        },
+        {
+          "title": "한국도로공사, 민·관 교통안전 데이터 공유 협의체 MOU 체결",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625735"
+        },
+        {
+          "title": "고속도로 사고, 내비로 더 빨리 알린다…네카오·티맵 협력",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1179251"
+        }
+      ]
+    },
+    {
+      "title": "김혜선",
+      "approx_traffic": "1000+",
+      "published": "Thu, 22 Oct 2026 19:10:00 -0700",
+      "news": [
+        {
+          "title": "김혜선, 결혼 8년 차 위기…독일인 남편 \"고국 돌아가고 싶다\" 눈물",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/GI2GIM3DMQZWCZBZMY2GGOBSG4/"
+        },
+        {
+          "title": "김혜선, 10살 때 고아 된 사연…\"초등학생 때 신문 배달\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102308020944407"
+        },
+        {
+          "title": "김혜선, 前남친 때문에 가슴 보형물 수술…\"우울증으로 은퇴\" ('특종세상')",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896996"
+        }
+      ]
+    },
+    {
+      "title": "이혜영",
+      "approx_traffic": "500+",
+      "published": "Thu, 22 Oct 2026 19:10:00 -0700",
+      "news": [
+        {
+          "title": "이혜영, 미국 3층 대저택 '친정집 공개'...\"조카 연예인급 외모\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102310384784027"
+        },
+        {
+          "title": "이혜영, 90세 母 위한 미국 3층 대저택 공개…“가족 잘 사는 모습에 안심”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261023/134894107/1"
+        },
+        {
+          "title": "이혜영, 미국 대저택서 언니 옷방 공개…“명품은 다 내가 준 거야” 통 큰 FLEX ('못말려') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/MY2TCN3FGFRGEOLBMNSTSN3FMI/"
+        }
+      ]
+    },
+    {
+      "title": "압구정",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 19:10:00 -0700",
+      "news": [
+        {
+          "title": "심형래, ‘디워’ 역주행에 ‘2천만원’ 뿌린다... 이경애 “잘 되면 주기로”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/20/MU3DSZJXGA2TGNBYGQ2WMMJXGY/"
+        },
+        {
+          "title": "‘영구’ 심형래, 놀라웠던 전성기…“압구정 현대 7800만원일 때 편당 8000만원 CF 100편 찍어”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20103828"
+        },
+        {
+          "title": "심형래 \"CF 100편 넘게 찍어…압구정 아파트 100채 값\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261020_0003833057"
+        }
+      ]
+    },
     {
       "title": "메타",
       "approx_traffic": "200+",
       "published": "Thu, 22 Oct 2026 19:00:00 -0700",
       "news": [
         {
-          "title": "'AI 투자 우려' 메타, 주가 급락·CDS 급등…美 10년물 금리 5% 하회",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440713"
+          "title": "메타, 매출 호조에도 AI 지출 확대…수익성 회복이 관건",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845045"
         },
         {
-          "title": "메타, 분기 매출 26% 오른 86조 원...소송 비용 부담",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610220808279966"
+          "title": "메타, AI·인프라에 1093조원 쏟아붓는다… 역대급 투자 약정 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/22/2026102221144945454"
         },
         {
-          "title": "Freedom Broker, 광고 성장 근거로 메타 ‘매수’ 의견 유지",
+          "title": "Wedbush, Muse 수요에 메타 목표주가 920달러로 상향",
           "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/analyst-ratings/article-93CH-2137989"
+          "url": "https://kr.investing.com/news/analyst-ratings/article-93CH-2137548"
+        }
+      ]
+    },
+    {
+      "title": "인천지하철",
+      "approx_traffic": "100+",
+      "published": "Thu, 22 Oct 2026 19:00:00 -0700",
+      "news": [
+        {
+          "title": "인천지하철 와이파이 5G 전환…\"전국 확대 추진\"",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610221103515546"
+        },
+        {
+          "title": "인천지하철 와이파이 3배 빨라졌다‥LTE에서 5G로 전환",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859711_36918.html"
+        },
+        {
+          "title": "인천 지하철 국내 첫 ‘5G 와이파이’…고화질 영상도 끊김 없어 [영상]",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261021580559"
         }
       ]
     },
@@ -31,14 +141,14 @@
       "published": "Thu, 22 Oct 2026 18:50:00 -0700",
       "news": [
         {
-          "title": "트럼프, 르브론 제임스 맹비난… \"국가 연주 중 美 모독, 완전한 수치\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/us/2026/10/23/QLISGX7CW5CKROVQAQPM3GTOWE/"
-        },
-        {
           "title": "“국가 연주중 몸 풀다니”…트럼프, 르브론 제임스에 사과 요구",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Inter/article/all/20261023/134894139/2"
+        },
+        {
+          "title": "트럼프, 르브론 제임스 맹비난… \"국가 연주 중 美 모독, 완전한 수치\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/us/2026/10/23/QLISGX7CW5CKROVQAQPM3GTOWE/"
         },
         {
           "title": "NBA 슈퍼스타 제임스 국가 연주 중 스트레칭… 트럼프 “미국 모독했다”",
@@ -49,7 +159,7 @@
     },
     {
       "title": "저스틴 비버",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Thu, 22 Oct 2026 18:40:00 -0700",
       "news": [
         {
@@ -58,14 +168,14 @@
           "url": "https://www.hankyung.com/article/202610239942H"
         },
         {
-          "title": "저스틴 비버, 브랜드 홍보 위해 13년 만에 내한…\"서울에 도착\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261023095444ktD"
-        },
-        {
           "title": "저스틴 비버, 13년 만에 내한했다…패션브랜드 팝업 인산인해",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Entertainment/article/all/20261023/134895043/1"
+        },
+        {
+          "title": "서울에 펼쳐지는 저스틴 비버의 취향들, 스카이라크 성수 팝업 개최",
+          "source": "마리끌레르 코리아",
+          "url": "https://www.marieclairekorea.com/fashion/2026/10/skylrk/"
         }
       ]
     },
@@ -80,14 +190,14 @@
           "url": "https://imnews.imbc.com/news/2026/politics/article/6860150_36911.html"
         },
         {
-          "title": "재판 결과에 시정 영향…서울시도 선고 예의주시",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261023114558CzQ"
+          "title": "\"재선거 마음의 준비\" \"무죄 확신\"…긴장감 감도는 여야",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811848"
         },
         {
-          "title": "23일 오세훈 2심 선고… 서영교 “징역형” 촉구",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261022524525"
+          "title": "[속보]김민석 “오세훈 항소심 유죄 무게…서울시장선거 마음의 준비”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625642"
         }
       ]
     },
@@ -110,116 +220,6 @@
           "title": "“김천 자두 넣은 칠성사이다 맛본다”…롯데칠성, '김천 김밥축제' 참여",
           "source": "전자신문",
           "url": "https://www.etnews.com/20261022000085"
-        }
-      ]
-    },
-    {
-      "title": "국정감사",
-      "approx_traffic": "100+",
-      "published": "Thu, 22 Oct 2026 18:30:00 -0700",
-      "news": [
-        {
-          "title": "발언하는 정점식 원내대표",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261023_0021500917"
-        },
-        {
-          "title": "국민의힘 국정감사대책회의 입장하는 정점식 원내대표",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261023_0021500923"
-        },
-        {
-          "title": "[포토] 막바지 국감 대책 논의하는 국민의힘",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102308514316687"
-        }
-      ]
-    },
-    {
-      "title": "제민일보",
-      "approx_traffic": "2000+",
-      "published": "Thu, 22 Oct 2026 18:10:00 -0700",
-      "news": [
-        {
-          "title": "초강력 태풍 ‘참피’ 진로 틀었다…한반도 영향은?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692903"
-        },
-        {
-          "title": "대만, 태풍 참피에 사실상 마비…항공편 931편 결항",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03814646645615872"
-        },
-        {
-          "title": "\"제주 쪽\" 예고했던 日 기상청‥하루 만에 '일본 상륙' 경로 급수정",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6860008_36925.html"
-        }
-      ]
-    },
-    {
-      "title": "국회",
-      "approx_traffic": "100+",
-      "published": "Thu, 22 Oct 2026 18:00:00 -0700",
-      "news": [
-        {
-          "title": "[오늘의 국회일정](23일·금)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022193400001"
-        },
-        {
-          "title": "재경위·산중위 등 8곳 종합감사…MBK·기준금리·개인정보 유출 쟁점",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026102310010806118"
-        },
-        {
-          "title": "[스코어보드-정무위]맹탕 없는 송곳질의, 집요했던 정책 검증 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/10/22/2026102214413241773"
-        }
-      ]
-    },
-    {
-      "title": "김세영",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 17:40:00 -0700",
-      "news": [
-        {
-          "title": "외고 다니던 여고생, 맨홀 뚜껑에 첫 우승 날렸다…‘쫄지 말라’ 아버지가 만든 13승",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261020519583"
-        },
-        {
-          "title": "유해란, LPGA 3승 정조준…BMW 대회 첫날 공동 3위",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022161000007"
-        },
-        {
-          "title": "세계스타, 땅끝마을로 총출동…“바닷 바람이 변수!”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8691823"
-        }
-      ]
-    },
-    {
-      "title": "신지애",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 17:40:00 -0700",
-      "news": [
-        {
-          "title": "‘괴물 신인’ 향한 골프 전설의 조언 “그냥 부딪쳐!”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/golf/2026/10/23/CQ3LVSV7VBBR5MJAWLJIKUMGTA/"
-        },
-        {
-          "title": "[골프칼럼] 숫자로 입증한 파이널 퀸 ‘신지애’",
-          "source": "주간한국",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7189046"
-        },
-        {
-          "title": "신지애 만난 김민솔, 20년 만의 KLPGA 전관왕 도전 : 스포츠",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1044036"
         }
       ]
     }
