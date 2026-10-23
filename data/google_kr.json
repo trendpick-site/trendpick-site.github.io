@@ -1,11 +1,165 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T13:46:20+00:00",
+  "fetched_at": "2026-10-23T14:44:49+00:00",
   "items": [
     {
-      "title": "스타벅스",
+      "title": "닥터x",
       "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "[다시보기] 닥터X : 하얀 마피아의 시대 5회",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/drama/doctorx/vod/88585/22000638646"
+        },
+        {
+          "title": "'닥터X' 환자 장기에 이니셜 새긴 장승조…김지원 응징은?",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03063526645615544&mediaCodeNo=257"
+        },
+        {
+          "title": "환자 간에 이니셜을?…드라마 속 '장기 낙서', 실제라면 어떤 처벌 받나 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/23/2026102306401360718"
+        }
+      ]
+    },
+    {
+      "title": "al-faisaly vs al-nassr",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 06:10:00 -0700",
+      "news": [
+        {
+          "title": "Al Faisaly vs Al Nassr: Saudi Pro League stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c65ynpxe8488t"
+        },
+        {
+          "title": "Postecoglou abandons the Jesus bet in Al-Nassr's line-up against Al-Faisaly!",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en/news/postecoglou-abandons-the-jesus-gamble-in-al-nassr-s-line-up-against-al-faisaly/blt1cebfe2aa2c9156f"
+        },
+        {
+          "title": "Al-Faisaly FC vs Al-Nassr – Prediction, Where to Watch, Kick-off Time and Lineups 23-10",
+          "source": "Odds Scanner",
+          "url": "https://oddsscanner.com/predictions/football/al-faisaly-fc-x-al-nassr-23-10-2026"
+        }
+      ]
+    },
+    {
+      "title": "윤미라",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 06:10:00 -0700",
+      "news": [
+        {
+          "title": "75세 윤미라 ‘서방은 없어도 옷방은 3개’…화려한 싱글 라이프",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261023/134895305/1"
+        },
+        {
+          "title": "‘75세 모태 싱글’ 윤미라, ‘미우새’ 등판…결혼 직전 포기한 사연은?",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261023500164"
+        },
+        {
+          "title": "윤미라, 75세 '모태 싱글' 라이프 공개…아침부터 호텔회원권으로 즐기는 조식 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/10/23/HFSDSMJQMI2TKMLCHBSTMZJRGA/"
+        }
+      ]
+    },
+    {
+      "title": "외교관",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 06:10:00 -0700",
+      "news": [
+        {
+          "title": "오스트리아, 러 외교관 또 추방…\"스파이 혐의\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023172700098"
+        },
+        {
+          "title": "오스트리아, 빈주재 러 외교관 4명 추방",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261023_0002272639"
+        },
+        {
+          "title": "오스트리아, 러 외교관 4명 추방‥\"스파이 혐의\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6860320_36925.html"
+        }
+      ]
+    },
+    {
+      "title": "아이브",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 06:10:00 -0700",
+      "news": [
+        {
+          "title": "아이브 리즈 母, 전현무와 동갑 1977년생…거침없는 딸 자랑",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261023/134896089/1"
+        },
+        {
+          "title": "‘77년생’ 전현무, 아이브 리즈 母와 동갑 사실에 ‘머쓱’ (전현무계획4)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522288"
+        },
+        {
+          "title": "전현무, 아이브 리즈 母와 동갑이었다..충격에 '이마 짚' \"1977년생 49살\"(전현무계획)",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896758"
+        }
+      ]
+    },
+    {
+      "title": "영구 결번",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 06:10:00 -0700",
+      "news": [
+        {
+          "title": "LG 최종전 '영구결번 트리오' 시구였나…노송이 밝힌 뒷얘기 \"너무 자주 마운드에 오르는 것이 송구스러워\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014938"
+        },
+        {
+          "title": "[도청도설] if, 손아섭",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20261023.22018006715"
+        },
+        {
+          "title": "'이제 서른' 모두가 탐낸 홈런왕 재능 아직 안 터졌다…충격의 방출 통보, \"한 번 더 해보겠습니다\" [인터뷰]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/22/G5RTIODFGA3TIZRWMUZWGNZUMM/"
+        }
+      ]
+    },
+    {
+      "title": "황영웅",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 05:50:00 -0700",
+      "news": [
+        {
+          "title": "황영웅, ‘애가타’ 어쿠스틱 라이브에 팬들 뭉클…“목소리 자체가 악기”",
+          "source": "CBC뉴스",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=618724"
+        },
+        {
+          "title": "\"임영웅 0.3% 꼴찌\"…49% 황영웅, 한류 트로트 인기상 1위 독주 '갸우뚱'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6329580"
+        },
+        {
+          "title": "‘한류연예대상’ 전유진, 막판 뒤집기",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610231145003"
+        }
+      ]
+    },
+    {
+      "title": "스타벅스",
+      "approx_traffic": "2000+",
       "published": "Fri, 23 Oct 2026 05:40:00 -0700",
       "news": [
         {
@@ -41,9 +195,9 @@
           "url": "https://www.sedaily.com/article/20104997"
         },
         {
-          "title": "[SC리뷰] '곽정욱♥'박세영, 딸 앞에서 무장해제…슈퍼 워킹맘 다 됐네('슈돌')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/22/G43WMZJRHE2WIMJQMFSTGYJYGA/"
+          "title": "박세영, 장기연애→결혼 쉽지 않은데..“♥곽정욱 멱살 잡고 끌고 가” (‘슈돌’) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/MIZDMNJXMY2DAOJWMM2TOZLFGU/"
         }
       ]
     },
@@ -53,173 +207,19 @@
       "published": "Fri, 23 Oct 2026 05:40:00 -0700",
       "news": [
         {
+          "title": "\"도파민 연속 터져\"…이수만 걸그룹 뮤비 누가 만들었나 했더니 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102311044114450"
+        },
+        {
           "title": "[ET포토] A2O LITE 보라, '매력 덩어리'",
           "source": "전자신문",
           "url": "https://www.etnews.com/20261021000307"
         },
         {
-          "title": "이수만, 고깃집 '골든벨' 울렸다…신생 걸그룹 1위 자축 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102318471785382"
-        },
-        {
           "title": "나영석도 ‘니온’…케이팝 숏폼 강박 깬 에이투오 라이트 [가요 뷰]",
           "source": "데일리안",
           "url": "https://www.dailian.co.kr/news/view/1704934/%EB%82%98%EC%98%81%EC%84%9D%EB%8F%84-%E2%80%98%EB%8B%88%EC%98%A8%E2%80%99%EC%BC%80%EC%9D%B4%ED%8C%9D-%EC%88%8F%ED%8F%BC-%EA%B0%95%EB%B0%95-%EA%B9%AC-2026"
-        }
-      ]
-    },
-    {
-      "title": "박지환",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "D-DAY '맛길대', 김대명·박지환 '해파랑 상회' 오픈",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/entertain/2379980.htm"
-        },
-        {
-          "title": "김대명·박지환, 동해안에 식당 개업… 파리만 날림 (맛길대)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261023/134894693/1"
-        },
-        {
-          "title": "“여기에 연기 인생 걸려있나요?” 김대명, ‘맛따라 길따라 대명이따라’ 첫방부터 부담 폭발",
-          "source": "TopStarNews",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16256268"
-        }
-      ]
-    },
-    {
-      "title": "cuaca besok",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "Samsung Kembali Dukung Jakarta Running Festival 2026, Hadirkan Galaxy Ecosystem untuk Gaya Hidup Aktif",
-          "source": "samsung.com",
-          "url": "https://news.samsung.com/id/samsung-kembali-dukung-jakarta-running-festival-2026-hadirkan-galaxy-ecosystem-untuk-gaya-hidup-aktif"
-        },
-        {
-          "title": "Peserta JRF 2026 Bisa Naik Transportasi Umum Gratis, Ini Syarat dan Modanya",
-          "source": "Informasi.com",
-          "url": "https://informasi.com/urban/infrms-29192/peserta-jrf-2026-bisa-naik-transportasi-umum-gratis-ini-syarat-dan-modanya"
-        },
-        {
-          "title": "Sejumlah Jalan di Jakarta Ditutup Sementara Akhir Pekan Ini 24-25 Oktober, Cek Lokasinya",
-          "source": "Kompas.com",
-          "url": "https://megapolitan.kompas.com/read/2026/10/23/18000021/sejumlah-jalan-di-jakarta-ditutup-sementara-akhir-pekan-ini-24-25-oktober"
-        }
-      ]
-    },
-    {
-      "title": "드론 항공 모함",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 05:20:00 -0700",
-      "news": [
-        {
-          "title": "[화제영상] \"국감이 아니라 일타 강의였네?\"... 국힘 의원 기강 제대로 잡은 해병대사령관",
-          "source": "OhmyNews",
-          "url": "https://m.ohmynews.com/NWS_Web/Mobile/mov_pg.aspx?CNTN_CD=ME000116398"
-        },
-        {
-          "title": "드론 항모·신형 구축함 꿈꾸는 해군… 노후 전력 교체는 ‘난항’ [박수찬의 軍]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261023504001"
-        },
-        {
-          "title": "독도함 2배 ‘3만톤급 드론 항모’ 띄운다…바다 밑엔 ‘핵잠’까지",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12323902"
-        }
-      ]
-    },
-    {
-      "title": "zimbabwe vs afghanistan",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 05:10:00 -0700",
-      "news": [
-        {
-          "title": "ZIM vs AFG live score, UAE ODI Tri-Series 2026/27: ZIM 77/4 (18.3 ov, Ryan Burl 13*, Sikandar Raza 30*, AM Ghazanfar 0/15, Final, Sharjah Cricket Association Stadium, October 23, 2026",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/uae-odi-tri-series-2026-27-1555109/afghanistan-vs-zimbabwe-final-1556871/live-cricket-score"
-        },
-        {
-          "title": "Afghanistan vs Zimbabwe - One-Day Internationals Tri UAE, 2027",
-          "source": "Fox Sports",
-          "url": "https://www.foxsports.com.au/cricket/match-centre/ODI2026-270604"
-        },
-        {
-          "title": "ZIM 26/1 (5.5) (Brian Bennett 9(20) Tafadzwa Tsiga 4(4)) | Afghanistan vs Zimbabwe, Final, ODI Tri-Nation Series in UAE, 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/live-cricket-scores/172691/afg-vs-zim-final-odi-tri-nation-series-in-uae-2026"
-        }
-      ]
-    },
-    {
-      "title": "sbs 가요대전",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 05:10:00 -0700",
-      "news": [
-        {
-          "title": "스키즈·투바투·아이브·리센느 총출동…'2026 SBS 가요대전' 1차 라인업 확정",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812285"
-        },
-        {
-          "title": "30주년 'SBS 가요대전', 스트레이 키즈·엔하이픈 등 22팀 1차 라인업 공개",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261023000945"
-        },
-        {
-          "title": "스키즈·투바투→엔위시·리센느, ‘SBS 가요대전’ 1차 라인업 공개",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610231609003"
-        }
-      ]
-    },
-    {
-      "title": "남구",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 05:00:00 -0700",
-      "news": [
-        {
-          "title": "성윤희 대구 남구의원, “고독사 예방, 이제는 발견이 아니라 연결”",
-          "source": "프레시안",
-          "url": "https://www.pressian.com/pages/articles/2026102317451079834"
-        },
-        {
-          "title": "김연경 시의원 \"반지 하나로 24시간 안부 확인..스마트 링으로 고독사 막자\"",
-          "source": "당진신문",
-          "url": "https://www.idjnews.kr/news/articleView.html?idxno=303487"
-        },
-        {
-          "title": "대구 남구 고독사 발생률 전국 두 번째",
-          "source": "Tbc.co.kr",
-          "url": "https://www.tbc.co.kr/news/view?c1=&c2=&pno=20261023093114AE07340&id=212511"
-        }
-      ]
-    },
-    {
-      "title": "погода завтра",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 04:50:00 -0700",
-      "news": [
-        {
-          "title": "Завтра в Баку возможен дождь",
-          "source": "azərtac",
-          "url": "https://azertag.az/ru/xeber/zavtra_v_baku_vozmozhen_dozhd-4474512"
-        },
-        {
-          "title": "Эколог разъяснил причину тёплой погоды в Азербайджане в октябре",
-          "source": "Baku.ws",
-          "url": "https://baku.ws/ru/obschestvo/ekolog-razyasnil-prichinu-tyoploj-pogody-v-azerbajdzhane-v-oktyabre"
-        },
-        {
-          "title": "Прогноз погоды в Азербайджане на 24.10.2026",
-          "source": "Oxu.Az",
-          "url": "https://oxu.az/ru/obshestvo/prognoz-pogody-v-azerbajdzhane-na-24-10-2026"
         }
       ]
     }
