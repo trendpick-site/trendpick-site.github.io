@@ -1,12 +1,56 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T05:40:17+00:00",
+  "fetched_at": "2026-10-23T06:12:00+00:00",
   "items": [
     {
-      "title": "구축함",
+      "title": "김영희",
       "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 21:30:00 -0700",
+      "published": "Thu, 22 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "경기도의회 김영희 부위원장, “유보통합. 소극적 행정에서 벗어나 현장 문제 해결에 적극 나서야”",
+          "source": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=798841"
+        },
+        {
+          "title": "김영희 경기도의원, 평생교육 활성화·평생교육사 활동 기반 확대 논의",
+          "source": "신아일보",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072946"
+        },
+        {
+          "title": "경기도의회 김영희 의원, “교원 연구활동 지원 확대...지역 거점형 연구활동 활성화해야”",
+          "source": "경기평화신문",
+          "url": "https://www.ggpyeonghwa.com/621334"
+        }
+      ]
+    },
+    {
+      "title": "김태욱",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 21:50:00 -0700",
+      "news": [
+        {
+          "title": "‘채시라 남편’ 김태욱 롬앤에 日 마루베니 공개매수…상한가",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/10/23/DEQUPOIAENF3HOFQHT7REY4WAI/"
+        },
+        {
+          "title": "日마루베니가 찜했다…색조화장품기업 아이패밀리에스씨, 상한가 직행",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1180023"
+        },
+        {
+          "title": "\"日이 K-뷰티 산다\"…'채시라 남편' 김태욱 아이패밀리에스씨 上[핫종목]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/general-stock/6329622"
+        }
+      ]
+    },
+    {
+      "title": "드론 항공모함",
+      "approx_traffic": "500+",
+      "published": "Thu, 22 Oct 2026 21:40:00 -0700",
       "news": [
         {
           "title": "\"잘못 알고 계신 사항 있다\"... 물러서지 않은 해병대사령관",
@@ -22,6 +66,28 @@
           "title": "국감 후반전, 여야 곳곳서 공방…北 도발 대응·대법관 재제청 등 놓고 충돌(종합)",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261020_0003834047"
+        }
+      ]
+    },
+    {
+      "title": "인공위성",
+      "approx_traffic": "500+",
+      "published": "Thu, 22 Oct 2026 21:30:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 100억 투입 인공위성 사업, 실패하고도 발표 안 해",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/science/2026/10/23/SEGBPDOD2RAJ3LR4KPKXKYGOHM/"
+        },
+        {
+          "title": "[전문기자의 시선] 100억 예산 꼬마위성 임무 실패, 무얼 알아냈는지 국민에 밝혀야",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/opinion/dongseonambuk/2026/10/19/BZLGJHNWKFCDVCGJF3XYBX2LFM/"
+        },
+        {
+          "title": "제주대 학생 만든 큐브위성, 우주로 간다…괭생이모자반 감시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023091000056"
         }
       ]
     },
@@ -48,28 +114,6 @@
       ]
     },
     {
-      "title": "추위",
-      "approx_traffic": "200000+",
-      "published": "Thu, 22 Oct 2026 21:20:00 -0700",
-      "news": [
-        {
-          "title": "‘최고 23도’ 낮부터 추위 풀린다…태풍 ‘참피’에 제주·남부 비",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/environment/1283781.html"
-        },
-        {
-          "title": "[날씨] 절기 상강, 한낮 온화…태풍 영향 남부 중심 비",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261023131216JPw"
-        },
-        {
-          "title": "아침 기온 5도 안팎 ‘쌀쌀’…오후부터 남부·제주 비",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610230731001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-        }
-      ]
-    },
-    {
       "title": "레버리지",
       "approx_traffic": "20000+",
       "published": "Thu, 22 Oct 2026 21:10:00 -0700",
@@ -88,28 +132,6 @@
           "title": "“하닉 왜 빠져” 도경완, 하닉 레버리지 수익률 -40% 공개",
           "source": "문화일보",
           "url": "https://www.munhwa.com/article/11625645"
-        }
-      ]
-    },
-    {
-      "title": "연기금",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 21:10:00 -0700",
-      "news": [
-        {
-          "title": "에코프로비엠·삼성SDI 다 던졌다! 이차전지 판 연기금과 외국인이 사 모은 종목은? (10.22)",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/moneykhan/moneykhan1/contents/261022180814623ad"
-        },
-        {
-          "title": "개미는 던지고 연기금은 담았다…2차전지株 엇갈린 베팅",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12090753"
-        },
-        {
-          "title": "흔들리던 장에 큰손 '연기금' 등판 \"빨간불 켜졌다\"…뭐 담나 보니 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/19/2026101910324333868"
         }
       ]
     },
@@ -159,7 +181,7 @@
     },
     {
       "title": "lig 디펜스 & 에어로 스페이스",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Thu, 22 Oct 2026 20:50:00 -0700",
       "news": [
         {
@@ -181,45 +203,18 @@
     },
     {
       "title": "최태원",
-      "approx_traffic": "10000+",
+      "approx_traffic": "2000+",
       "published": "Thu, 22 Oct 2026 20:40:00 -0700",
       "news": [
         {
-          "title": "SK하이닉스, 솔리다임 IPO 검토 중단...\"시장 여건 고려\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610231144502921"
+          "title": "힙지로로… 최태원, 격식 내려놓고 둘러앉아 소맥 '한잔' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/23/2026102219444730559"
         },
         {
-          "title": "[특징주] 반도체주, 솔리다임 호재에 낙폭 줄여…하닉은 2% 반등(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023043251008"
-        },
-        {
-          "title": "금감원장의 솔리다임 직격에 뜨끔한 보스턴다이내믹스",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/21/2026102180007.html"
-        }
-      ]
-    },
-    {
-      "title": "해군사관학교",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 20:40:00 -0700",
-      "news": [
-        {
-          "title": "사관생도 최근 10년간 602명 자퇴…해군사관학교 144명",
-          "source": "경남도민일보",
-          "url": "https://www.idomin.com/news/articleView.html?idxno=2017712"
-        },
-        {
-          "title": "[2026 국감] 생도 1명에 3억 넘게 드는데… 사관생도 10년간 602명 자퇴",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261022001128"
-        },
-        {
-          "title": "[단독] 육사 중징계율 10년來 최고…군기 해이 덮친 '위기의 사관학교'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610204211i"
+          "title": "을지로 야장에 뜬 최태원 SK회장 ‘깜짝 포착’…시민과 사진 촬영도",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261022580161"
         }
       ]
     }
