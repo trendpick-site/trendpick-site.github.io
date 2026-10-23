@@ -1,33 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T08:41:13+00:00",
+  "fetched_at": "2026-10-23T09:15:28+00:00",
   "items": [
     {
+      "title": "아시안 게임",
+      "approx_traffic": "5000+",
+      "published": "Fri, 23 Oct 2026 01:00:00 -0700",
+      "news": [
+        {
+          "title": "AG서 한국 야구 울린 日 사회인투수, 프로 진출…라쿠텐 지명",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261023/134897112/1"
+        },
+        {
+          "title": "韓 대표팀 7이닝 무실점 묶더니 결국 프로에 간다…\"팀 짊어질 수 있는 선수 되겠다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/23/HBRDKOBYGEZDEOJWME3DAMLGGM/"
+        },
+        {
+          "title": "‘김도영 삼진 삼진’ 한국에 굴욕 안긴 日사회인, NPB가 뽑았다! 3순위 라쿠텐행 감격 “장차 팀을 짊어지겠다”",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112897059"
+        }
+      ]
+    },
+    {
+      "title": "아티스트컴퍼니",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 01:00:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 이정재 뿔났다···전 임직원 5명 ‘6억 배임’ 혐의 고소",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610230900003"
+        },
+        {
+          "title": "'이정재 최대주주' 아티스트컴퍼니, 전 임원 등 5명 '6억대 배임 혐의' 고소",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838110"
+        },
+        {
+          "title": "‘이정재 최대주주’ 아티스트컴퍼니, 전 임직원 5명 고소…6억대 배임 혐의",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105417"
+        }
+      ]
+    },
+    {
       "title": "손종원",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Fri, 23 Oct 2026 00:30:00 -0700",
       "news": [
+        {
+          "title": "‘미쉐린 별’ 셰프 손종원, 신세계 ‘별’ 달았다…임원 승진",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261023/134897677/1"
+        },
         {
           "title": "[기업] 정용진, 13년 만에 이마트 대표이사 복귀...신세계, 역대 최대 임원 인사 단행",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_cs/_ln_0102_202610231132135441_005.html"
         },
         {
-          "title": "스타 셰프 손종원, 신세계그룹 임원됐다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/celebrity/2026/10/23/GI2DGOJUGQ3TSNRYGA2TOYJRMQ/"
-        },
-        {
-          "title": "[단독] 신세계, 대규모 조직개편…스타벅스, 디지털·보안 조직 신설",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610230658i"
+          "title": "40개짜리 올리브영 '1조 공룡'으로 키운 전설…25년만에 친정 신세계 구원투수로",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102312593974557"
         }
       ]
     },
     {
       "title": "메디게이트뉴스",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 23 Oct 2026 00:30:00 -0700",
       "news": [
         {
@@ -36,14 +80,14 @@
           "url": "https://www.medigatenews.com/news/2247182509"
         },
         {
-          "title": "인천대 공공의전원 설립, 지역 국회의원 여야 없이 ‘한뜻’",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038567"
-        },
-        {
           "title": "김교흥 의원, ‘인천대 공공의학전문대학원 설립법’ 대표발의",
           "source": "인천일보",
           "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334813"
+        },
+        {
+          "title": "인천대 공공의전원 설립, 지역 국회의원 여야 없이 ‘한뜻’",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038567"
         }
       ]
     },
@@ -70,24 +114,24 @@
       ]
     },
     {
-      "title": "마루베니",
-      "approx_traffic": "500+",
+      "title": "ls에코에너지",
+      "approx_traffic": "100+",
       "published": "Fri, 23 Oct 2026 00:20:00 -0700",
       "news": [
         {
-          "title": "‘채시라 남편’ 김태욱 롬앤에 日 마루베니 공개매수…상한가",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/10/23/DEQUPOIAENF3HOFQHT7REY4WAI/"
+          "title": "'파격 당근' 던진 베트남 하이퐁시, LS에코에너지에 '해저케이블 추가 투자' 제안",
+          "source": "더구루",
+          "url": "https://www.theguru.co.kr/news/article.html?no=108698"
         },
         {
-          "title": "[특징주] 아이패밀리에스씨, 日 기업 공개매수에 상한가",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023129700008"
+          "title": "하이퐁은 해저 케이블 제품 개발 사업을 지원하는 도시입니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hai-phong-tao-thuan-loi-de-doanh-nghiep-phat-trien-san-pham-cap-ngam-xuyen-bien"
         },
         {
-          "title": "日마루베니가 찜했다…색조화장품기업 아이패밀리에스씨, 상한가 직행",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1180023"
+          "title": "호치민시 인민위원회 위원장 도 탄 쭝은 LS-VINA 케이블 및 시스템 주식회사와 업무 회의를 개최했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/chu-tich-ubnd-thanh-pho-do-thanh-trung-lam-viec-voi-cong-ty-cp-cap-dien-va-he-thong-ls-vina"
         }
       ]
     },
@@ -107,15 +151,15 @@
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440637"
         },
         {
-          "title": "S&P글로벌 \"이란 전쟁과 에너지 위기⋯식량 위기 닥칠 것\"",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2639169"
+          "title": "[선재식]밀·콩 자급화가 시급하다",
+          "source": "열린순창",
+          "url": "https://www.opsc.kr/news/articleView.html?idxno=49271"
         }
       ]
     },
     {
       "title": "인플 루 언서",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Thu, 22 Oct 2026 23:50:00 -0700",
       "news": [
         {
@@ -146,80 +190,36 @@
           "url": "https://news.hada.io/topic?id=35798"
         },
         {
+          "title": "Node.js 고위험 RCE 취약점 확인…긴급 패치 배포 : 테크/과학",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1044806"
+        },
+        {
           "title": "PHP 이어 Node.js도 뚫렸다... 원격 코드 실행 PoC 공개",
           "source": "보안뉴스",
           "url": "https://www.boannews.com/news/articleView.html?idxno=146700"
-        },
-        {
-          "title": "AI시대 보안쇼크 PHP 사태…‘패러다임 리셋’ 서둘러야 [논설실 Pick]",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1180225"
         }
       ]
     },
     {
       "title": "사업",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Thu, 22 Oct 2026 23:40:00 -0700",
       "news": [
         {
-          "title": "우리카드, 3분기 당기순이익 390억원…전년비 30% 증가",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003839047"
+          "title": "포천시, 내년 지적 재조사 예정지로 '선단·설운지구' 지정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022123600060"
         },
         {
-          "title": "우리카드, 순익 26% 늘었다...독자카드 매출 1년 새 ‘두 배’",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261023023550474"
+          "title": "성남시, 내년 시흥·상대원·야탑동 645필지 지적재조사",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102316412519244"
         },
         {
-          "title": "우리카드, 3분기 누적 순이익 1337억…전년比 26.4% 증가",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Finance/2026/10/202610231636268293cd0bfacc1c_1"
-        }
-      ]
-    },
-    {
-      "title": "cve-2026-111497",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 23:30:00 -0700",
-      "news": [
-        {
-          "title": "Node2Shell: Node.js Brotli vulnerability allows remote code execution (CVE-2026-111497) and the fix",
-          "source": "Aikido Security",
-          "url": "https://www.aikido.dev/blog/node2shell-nodejs-brotli-rce-cve-2026-111497"
-        },
-        {
-          "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html"
-        },
-        {
-          "title": "NEAR Co-Founder Flags Internet Security Risks as PHP, Node.js Patch Flaws",
-          "source": "TOKENPOST",
-          "url": "https://www.tokenpost.com/news/technology/38191"
-        }
-      ]
-    },
-    {
-      "title": "풍자",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 23:30:00 -0700",
-      "news": [
-        {
-          "title": "풍자, 한혜진 옆 '이쁜척'…37㎏ 감량의 힘",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261021_0003835400"
-        },
-        {
-          "title": "\"풍자인 줄 몰랐다\"…37㎏ 빼고 확 달라진 얼굴 '깜짝' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102315303718333"
-        },
-        {
-          "title": "\"살 쏙 빠지더니 이런 청순미가?\"...풍자, 긴 머리 늘어뜨린 '반전 비주얼'",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261021142725787"
+          "title": "[성남소식]2027년 지적재조사사업 실시계획 수립...3개 지구 645필지 선정",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1705247/%EC%84%B1%EB%82%A8%EC%86%8C%EC%8B%9D2027%EB%85%84-%EC%A7%80%EC%A0%81%EC%9E%AC%EC%A1%B0%EC%82%AC%EC%82%AC%EC%97%85-%EC%8B%A4%EC%8B%9C-2026"
         }
       ]
     }
