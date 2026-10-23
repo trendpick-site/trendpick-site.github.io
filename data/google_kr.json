@@ -1,8 +1,118 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T21:09:13+00:00",
+  "fetched_at": "2026-10-23T21:39:00+00:00",
   "items": [
+    {
+      "title": "피싱",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 13:30:00 -0700",
+      "news": [
+        {
+          "title": "“AI, 전력망-수도시설 공격방법 90% 알아내”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261023/134893747/2"
+        },
+        {
+          "title": "[단독]韓 해킹 악용된 '아르텍스' 개발사 CEO \"금융권 기술 지원 가능\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003837806"
+        },
+        {
+          "title": "클로드·그록으로 무장한 해커들, 중남미 은행 400여곳 사이버 공격 자동화",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216541"
+        }
+      ]
+    },
+    {
+      "title": "상어",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 13:20:00 -0700",
+      "news": [
+        {
+          "title": "북항 해역 기름 유출‥자취 감춘 '부캉이'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860336_37004.html"
+        },
+        {
+          "title": "부캉아, 이제는 우리가 지켜줄게",
+          "source": "사이언스타임즈",
+          "url": "https://www.sciencetimes.co.kr/nscvrg/view/menu/253?searchCategory=225&nscvrgSn=262558"
+        },
+        {
+          "title": "상어 '부캉이' 이제 진짜 바다로 돌아갔나…모습 안 보여",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6596113"
+        }
+      ]
+    },
+    {
+      "title": "동아일보",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 13:20:00 -0700",
+      "news": [
+        {
+          "title": "할아버지 찔러 숨지게 한 여대생에 법원 선처…이유는?",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261023/134895636/2"
+        },
+        {
+          "title": "친할아버지 숨지게 한 20대 손녀, 징역 5년…그는 왜 조부를 찔렀나",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105546"
+        },
+        {
+          "title": "‘할아버지 살해’ 20대 손녀에 징역 5년…“살인 고의 인정 어려워”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693602"
+        }
+      ]
+    },
+    {
+      "title": "사과",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 13:20:00 -0700",
+      "news": [
+        {
+          "title": "20돌 맞은 청송사과축제 다음달 4일 개막…블랙이글스 에어쇼 뜬다",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202610230139"
+        },
+        {
+          "title": "청송사과축제, 현비암 아래서 사과를 두드리자 바위처럼 영근 세월이 깨어났다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102153421"
+        },
+        {
+          "title": "청송의 가을은 사과빛으로 춤춘다… 제20회 청송사과축제 11월 4일 개막",
+          "source": "씨원뉴스",
+          "url": "https://www.c1news.kr/news/articleView.html?idxno=203039"
+        }
+      ]
+    },
+    {
+      "title": "화재",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 13:10:00 -0700",
+      "news": [
+        {
+          "title": "“AI로 전기화재 원인 밝힌다”…전기안전공사, 화재감식 기술혁신 성과 공유",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373833"
+        },
+        {
+          "title": "충남도의회 ‘전기차‧산업현장’ AI 화재감지 모델 논의",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3442631"
+        },
+        {
+          "title": "한동수 KAIST 교수 \"화재건물 속 소방관 위치 찾을 방법 있다\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261021175241"
+        }
+      ]
+    },
     {
       "title": "ai",
       "approx_traffic": "100+",
@@ -31,11 +141,6 @@
       "published": "Fri, 23 Oct 2026 12:00:00 -0700",
       "news": [
         {
-          "title": "'소주병 위협 피소' 빅뱅 출신 승리 \"허위 사실로 합의 못 해\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003839266"
-        },
-        {
           "title": "빅뱅 출신 승리, 특수폭행 혐의 부인…\"소주병 휘두른 적 없어\"",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261023184900005"
@@ -44,6 +149,11 @@
           "title": "[전문] ‘소주병 피소’ 승리 측 “고소인 합의 제안, 정식 수사 통해 밝힐 것”",
           "source": "스포츠경향",
           "url": "https://sports.khan.co.kr/article/202610232030003"
+        },
+        {
+          "title": "'특수폭행 입건' 승리, 소주병 들었다 인정⋯\"폭행은 없었다\"",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2639628"
         }
       ]
     },
@@ -58,9 +168,9 @@
           "url": "https://www.bbc.com/sport/football/live/ck1wv842335et"
         },
         {
-          "title": "🤯 Gladbach are alive! Crisis-hit Stuttgart fall apart yet again",
+          "title": "Gladbach get first season win in Stuttgart to avoid unwanted record",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/gladbach-alive-crisis-hit-stuttgart-195100651.html"
+          "url": "https://sports.yahoo.com/articles/gladbach-first-season-win-stuttgart-204839259.html"
         },
         {
           "title": "!Herems Got the ways to watch Monchengladbach vs VfB Stuttgart 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 24 October 2026",
@@ -80,14 +190,14 @@
           "url": "https://www.espn.com/soccer/team-stats/_/gameId/401879253"
         },
         {
-          "title": "Kraken 5-3 Mammoth (Oct 22, 2026) Game Recap",
-          "source": "ESPN",
-          "url": "https://www.espn.com/nhl/recap/_/gameId/401892562"
-        },
-        {
           "title": "Pistons' Jalen Duren: Tallies 14 points vs. Toronto",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/fantasy/basketball/news/pistons-jalen-duren-tallies-14-points-vs-toronto/"
+        },
+        {
+          "title": "North Carolina Central vs. Delaware State (Oct 23, 2026) Box Score",
+          "source": "ESPN",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401867955"
         }
       ]
     },
@@ -97,99 +207,21 @@
       "published": "Fri, 23 Oct 2026 11:10:00 -0700",
       "news": [
         {
-          "title": "Tuberville boots reporter from Mobile campaign event",
-          "source": "Lagniappe Daily",
-          "url": "https://www.lagniappemobile.com/news/mobileal/tuberville-boots-reporter-from-mobile-campaign-event/article_74a2f3f9-2ad7-4db5-b846-7546cd9d1b97.html"
+          "title": "Al Qadsiah vs Al Hilal: Saudi Pro League stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cq1m4pk2gzent"
         },
         {
-          "title": "MAGA Senator Loses It Over Embarrassing Question",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/news/politics/articles/maga-senator-loses-over-embarrassing-131746754.html"
+          "title": "Video: A surprise blow: Martinelli stuns Al-Hilal against Al-Qadsiah",
+          "source": "LiveScore",
+          "url": "https://www.livescore.com/en/news/football/more/video-a-surprise-blow-martinelli-stuns-al-hilal-against-al-qadsiah-goal/"
         },
         {
-          "title": "Tuberville has journalist who questioned him kicked out of Alabama campaign rally",
-          "source": "AL.com",
-          "url": "https://www.al.com/politics/2026/10/tuberville-has-journalist-who-questioned-him-kicked-out-of-alabama-campaign-rally.html"
+          "title": "\"Not the most important match\": Inzaghi reveals the trick that led Al-Hilal to victory over Al-Qadsiah",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en-za/news/not-the-most-important-match-inzaghi-reveals-the-trick-that-led-al-hilal-to-victory-over-al-qadsiah/blt8b4b9c2e0f39df62"
         }
       ]
-    },
-    {
-      "title": "월즈 2026",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 11:10:00 -0700",
-      "news": []
-    },
-    {
-      "title": "tes",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 11:00:00 -0700",
-      "news": [
-        {
-          "title": "\"Business as usual\": The mindset of Hanwha Life Esports' 'Gumayusi' Lee Min-hyeong",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/27641/business-as-usual-the-mindset-of-hanwha-life-esports-gumayusi-lee-min-hyeong"
-        },
-        {
-          "title": "An Overwhelming Gap in Power... Hanwha Life Defeats TES in 23 Minutes",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/27640/an-overwhelming-gap-in-power-hanwha-life-defeats-tes-in-23-minutes"
-        },
-        {
-          "title": "What to know for Week 7: Start Stroud, one WR to trade for and one to trade away",
-          "source": "ESPN",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/50250199/fantasy-football-start-sit-decisions-week-7"
-        }
-      ]
-    },
-    {
-      "title": "페이커",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 10:20:00 -0700",
-      "news": [
-        {
-          "title": "'페이커' 기념우표 구매 기다리는 시민들",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20261023012900013"
-        },
-        {
-          "title": "'507개 한정' 페이커 굿즈에 밤샘 행렬",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8175092"
-        },
-        {
-          "title": "'페이커' 이상혁 기념우표 발행 첫날 오픈런",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261023123832"
-        }
-      ]
-    },
-    {
-      "title": "로보택시",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 10:10:00 -0700",
-      "news": [
-        {
-          "title": "2028년 광주서 로보택시 상용화…자율주행 서비스 사업자 도입",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023096800003"
-        },
-        {
-          "title": "자율주행 실증·이동로봇 상용화 지원…창업기업 행정서류 절반으로 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/23/2026102209391866012"
-        },
-        {
-          "title": "\"로보택시 유상 이용 2028년 목표…택시업계 참여 모델 논의\"[일문일답]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/realestate/general/6328934"
-        }
-      ]
-    },
-    {
-      "title": "t1",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 10:10:00 -0700",
-      "news": []
     }
   ]
 }
