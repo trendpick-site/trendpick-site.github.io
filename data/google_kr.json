@@ -1,27 +1,181 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-23T07:47:37+00:00",
+  "fetched_at": "2026-10-23T08:41:13+00:00",
   "items": [
     {
-      "title": "사업",
+      "title": "손종원",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 00:30:00 -0700",
+      "news": [
+        {
+          "title": "[기업] 정용진, 13년 만에 이마트 대표이사 복귀...신세계, 역대 최대 임원 인사 단행",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202610231132135441_005.html"
+        },
+        {
+          "title": "스타 셰프 손종원, 신세계그룹 임원됐다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/10/23/GI2DGOJUGQ3TSNRYGA2TOYJRMQ/"
+        },
+        {
+          "title": "[단독] 신세계, 대규모 조직개편…스타벅스, 디지털·보안 조직 신설",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610230658i"
+        }
+      ]
+    },
+    {
+      "title": "메디게이트뉴스",
       "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 00:30:00 -0700",
+      "news": [
+        {
+          "title": "\"좋은 의사 되고 싶지만, 현실이 허락하지 않는다\"…필수의료 의사 '윤리적 좌절' 심각",
+          "source": "MEDI:GATE NEWS",
+          "url": "https://www.medigatenews.com/news/2247182509"
+        },
+        {
+          "title": "인천대 공공의전원 설립, 지역 국회의원 여야 없이 ‘한뜻’",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038567"
+        },
+        {
+          "title": "김교흥 의원, ‘인천대 공공의학전문대학원 설립법’ 대표발의",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334813"
+        }
+      ]
+    },
+    {
+      "title": "남유정",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 00:20:00 -0700",
+      "news": [
+        {
+          "title": "전 연인 남유정은?…이규한 \"솔비 20년 전부터 좋아했다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102310240755286"
+        },
+        {
+          "title": "이규한, 솔비 유튜브 깜짝 등장…\"20년 전부터 좋아해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003837643"
+        },
+        {
+          "title": "'이규한과 결혼' 솔비 \"43세에 결혼운, 자녀 1명\" 손금 풀이 화제",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6326795"
+        }
+      ]
+    },
+    {
+      "title": "마루베니",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 00:20:00 -0700",
+      "news": [
+        {
+          "title": "‘채시라 남편’ 김태욱 롬앤에 日 마루베니 공개매수…상한가",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/10/23/DEQUPOIAENF3HOFQHT7REY4WAI/"
+        },
+        {
+          "title": "[특징주] 아이패밀리에스씨, 日 기업 공개매수에 상한가",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023129700008"
+        },
+        {
+          "title": "日마루베니가 찜했다…색조화장품기업 아이패밀리에스씨, 상한가 직행",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1180023"
+        }
+      ]
+    },
+    {
+      "title": "에너지 위기",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "\"에너지 다음은 식량 위기\"…경유·비료값 급등에 엘니뇨까지",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023007200072"
+        },
+        {
+          "title": "S&P 글로벌, 호르무즈 에너지 충격 글로벌 식량난으로 번질 위험",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440637"
+        },
+        {
+          "title": "S&P글로벌 \"이란 전쟁과 에너지 위기⋯식량 위기 닥칠 것\"",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2639169"
+        }
+      ]
+    },
+    {
+      "title": "인플 루 언서",
+      "approx_traffic": "1000+",
+      "published": "Thu, 22 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "\"35층 추락, 생존\"…오른쪽 다리 잃은 27세 인플루언서 17개월 만에 컴백",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/general-world/6328661"
+        },
+        {
+          "title": "여성 스트리머, 35층 추락사했지만 살아남아 \"정말 운이 좋았어요\"",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nu-streamer-song-sot-sau-cu-roi-tang-35-toi-may-man"
+        },
+        {
+          "title": "35층 추락서 살아남은 中 싱웨이, 17개월 만에 복귀 : 국제",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1042394"
+        }
+      ]
+    },
+    {
+      "title": "node.js 취약점",
+      "approx_traffic": "200+",
+      "published": "Thu, 22 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "Node.js 2026년 10월 21일 보안패치 공개",
+          "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+          "url": "https://news.hada.io/topic?id=35798"
+        },
+        {
+          "title": "PHP 이어 Node.js도 뚫렸다... 원격 코드 실행 PoC 공개",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146700"
+        },
+        {
+          "title": "AI시대 보안쇼크 PHP 사태…‘패러다임 리셋’ 서둘러야 [논설실 Pick]",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1180225"
+        }
+      ]
+    },
+    {
+      "title": "사업",
+      "approx_traffic": "200+",
       "published": "Thu, 22 Oct 2026 23:40:00 -0700",
       "news": [
         {
-          "title": "이 대통령 “메가 프로젝트·초광역 특구 현장 인허가 애로 직접 챙길 것”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/bluehouse/1283844.html"
-        },
-        {
-          "title": "호남·TK 등 종합보세구역 추진…반도체·로봇·AI 규제혁신",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023123800002"
-        },
-        {
-          "title": "발언하는 임기근 국무조정실장",
+          "title": "우리카드, 3분기 당기순이익 390억원…전년비 30% 증가",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261023_0021501631"
+          "url": "https://www.newsis.com/view/NISX20261023_0003839047"
+        },
+        {
+          "title": "우리카드, 순익 26% 늘었다...독자카드 매출 1년 새 ‘두 배’",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261023023550474"
+        },
+        {
+          "title": "우리카드, 3분기 누적 순이익 1337억…전년比 26.4% 증가",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Finance/2026/10/202610231636268293cd0bfacc1c_1"
         }
       ]
     },
@@ -36,14 +190,14 @@
           "url": "https://www.aikido.dev/blog/node2shell-nodejs-brotli-rce-cve-2026-111497"
         },
         {
+          "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html"
+        },
+        {
           "title": "NEAR Co-Founder Flags Internet Security Risks as PHP, Node.js Patch Flaws",
           "source": "TOKENPOST",
           "url": "https://www.tokenpost.com/news/technology/38191"
-        },
-        {
-          "title": "Node.js has released security updates '22.23.4', '24.22.1', and '26.12.1', fixing a total of 10 vulnerabilities.",
-          "source": "GIGAZINE",
-          "url": "https://gigazine.net/gsc_news/en/20261022-node-js-security-releases/"
         }
       ]
     },
@@ -60,166 +214,12 @@
         {
           "title": "\"풍자인 줄 몰랐다\"…37㎏ 빼고 확 달라진 얼굴 '깜짝' - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/entertainment/2026/10/23/2026102315303718333"
+          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102315303718333"
         },
         {
           "title": "\"살 쏙 빠지더니 이런 청순미가?\"...풍자, 긴 머리 늘어뜨린 '반전 비주얼'",
           "source": "미주중앙일보",
           "url": "https://www.koreadaily.com/article/20261021142725787"
-        }
-      ]
-    },
-    {
-      "title": "상장지수 펀드",
-      "approx_traffic": "200+",
-      "published": "Thu, 22 Oct 2026 23:10:00 -0700",
-      "news": [
-        {
-          "title": "중동발 공급 불안에 원유 ETF '들썩'…한달 새 두자릿수 급등",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610230944i"
-        },
-        {
-          "title": "[미국 ETF 히든 챔피언] (69) 정제 마진 급등에 CRAK 81% 잭팟",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261022001185"
-        },
-        {
-          "title": "상반기 팔던 美채권, 넉 달째 담는다…고금리에 달라진 투자 셈법",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12090792"
-        }
-      ]
-    },
-    {
-      "title": "조재호",
-      "approx_traffic": "2000+",
-      "published": "Thu, 22 Oct 2026 23:00:00 -0700",
-      "news": [
-        {
-          "title": "‘퍼펙트큐’ 김가영은 한지은 꺾고 ‘원조퀸’ 임정숙은 정수빈에 0:2→3:2 대역전승 8강행[NH농협카드LPBA]",
-          "source": "mkbn.mk.co.kr",
-          "url": "https://mkbn.mk.co.kr/news/sports/12183564"
-        },
-        {
-          "title": "'0-12서 대역전 드라마' 조재호, 승부치기 끝에 PBA 64강행",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022060000007"
-        },
-        {
-          "title": "\"언니 잘 좀 해봐\" 자극 받았나, 김보미 극적 8강 진출... 정작 우승자 정수빈은 '승승패패패' 16강서 탈락 [PBA 투어] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/23/2026102309452976520"
-        }
-      ]
-    },
-    {
-      "title": "김미화",
-      "approx_traffic": "5000+",
-      "published": "Thu, 22 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "김미화, 모친상 비보…\"조용히 보내고 싶다\" 조문·조의금 사절 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102311060876056"
-        },
-        {
-          "title": "김미화, 오늘 모친상 비보…\"조문·조의금·조화 정중히 사절\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003838285"
-        },
-        {
-          "title": "[단독] ‘코미디언’ 김미화 모친상, 조문·조의금 모두 사절…“기도해 주십시오”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12183817"
-        }
-      ]
-    },
-    {
-      "title": "토스뱅크",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "토스뱅크 입금 오류 사고 325억원 규모…“80% 정정 완료, 72억은 회수 중”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610230827001"
-        },
-        {
-          "title": "\"이체 실패했는데 '띵동' 돈이 들어왔다\"…토스서 터진 325억 금융 사고",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102308175485907"
-        },
-        {
-          "title": "토스뱅크, 325억원 규모 입금 오류… 2주간 250억원 회수 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/finance/2026/10/22/OS4XWUON4BCD5NZTB2DSHADPTE/"
-        }
-      ]
-    },
-    {
-      "title": "hd현대",
-      "approx_traffic": "1000+",
-      "published": "Thu, 22 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "HD현대, 미국에 조선소 짓는다… 마스가 다시 속도",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/10/23/GFTCAZ4QLZG65PKQCZ4GRK6OTI/"
-        },
-        {
-          "title": "HD현대, 美 합작법인 ‘키윗조선’ 출범…신규 스마트조선소 짓는다",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261023023469971"
-        },
-        {
-          "title": "HD현대, 미국에 첫 조선소 짓는다…불붙는 ‘마스가’ 쟁탈전",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610231523001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-        }
-      ]
-    },
-    {
-      "title": "고종욱",
-      "approx_traffic": "500+",
-      "published": "Thu, 22 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "프로야구 KIA, 고종욱·이창진·홍건희·김대유 방출",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023104200007"
-        },
-        {
-          "title": "프로야구 KIA, 고종욱·이창진 등 방출…선수단 정리",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812094"
-        },
-        {
-          "title": "15억 포기하고 친정 복귀했는데 왜? 홍건희 1년만에 KIA 떠난다...KIA 홍건희 고종욱 이창진 김대유 김사윤 윤중현 방출 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/23/202610231402772438O"
-        }
-      ]
-    },
-    {
-      "title": "김광삼",
-      "approx_traffic": "2000+",
-      "published": "Thu, 22 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "‘류지현 체제’ 프로야구 한화, 김광삼 투수코치 영입",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693652"
-        },
-        {
-          "title": "프로야구 한화, 김광삼 투수 코치·진종길 수비 코치 영입",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812088"
-        },
-        {
-          "title": "그가 떠난 자리엔 늘 '왕조'가 섰다,'1000승 명장' 유산 품은 류지현, 한화 미래가 밝은 이유",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/22/HEZDMOJUHEYGENDDMUYTEYZUGM/"
         }
       ]
     }
