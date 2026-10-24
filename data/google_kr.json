@@ -1,8 +1,69 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T18:37:12+00:00",
+  "fetched_at": "2026-10-24T19:08:12+00:00",
   "items": [
+    {
+      "title": "cfo",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 10:50:00 -0700",
+      "news": [
+        {
+          "title": "Forgent Power Solutions Shares Plunge as CFO Exits Less Than a Year After IPO",
+          "source": "BigGo Finance",
+          "url": "https://finance.biggo.com/news/0de482ef-daae-4c17-8d71-ae3d0c76da67"
+        },
+        {
+          "title": "FPS Stock Plunges To Record Low, Falls Below IPO Price After CFO Ryan Fiedler's Exit",
+          "source": "TradingView",
+          "url": "https://fr.tradingview.com/news/stocktwits:56733c67d094b:0-fps-stock-plunges-to-record-low-falls-below-ipo-price-after-cfo-ryan-fiedler-s-exit/"
+        },
+        {
+          "title": "Forgent Power CFO leaves after a year",
+          "source": "CFO Dive",
+          "url": "https://www.cfodive.com/news/forgent-power-cfo-leaves-one-year-ipo-comp/833872/"
+        }
+      ]
+    },
+    {
+      "title": "도르트문트 대 아인트라흐트",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 10:50:00 -0700",
+      "news": [
+        {
+          "title": "분데스리가 도르트문트 대 프랑크푸르트 경기 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-dortmund-vs-frankfurt-tai-bundesliga-1788245.ldo"
+        },
+        {
+          "title": "보루시아 도르트문트 vs 아인트라흐트 프랑크푸르트 예측: 선두 자리를 노릴 기회",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-borussia-dortmund-vs-eintracht-frankfurt-co-hoi-bam-duoi-ngoi-dau"
+        }
+      ]
+    },
+    {
+      "title": "2026 롤드컵",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 10:40:00 -0700",
+      "news": [
+        {
+          "title": "LCK 4전 전승 속 2R 내전 성사…LPL은 1패조 벼랑 끝 승부",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261024110526"
+        },
+        {
+          "title": "[고용준의 e스포츠 엿보기] 요란한 혜택보다 무거운 태극마크… '제카' 김건우가 보여준 프로의 진정성",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112897564"
+        },
+        {
+          "title": "[롤드컵 톡톡] '쵸비' 정지훈의 진심, \"월즈 탈락 아픔 깊이 고찰, 올해는 다른 모습 증명할 것\"",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261023113815311"
+        }
+      ]
+    },
     {
       "title": "tes",
       "approx_traffic": "100+",
@@ -63,9 +124,9 @@
           "url": "https://www.reutersconnect.com/item/premier-league-chelsea-v-tottenham-hotspur/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQU8xRUc5V0s"
         },
         {
-          "title": "Roberto De Zerbi reaction: What did Spurs boss say after rousing win at Chelsea?",
-          "source": "NBC Sports",
-          "url": "https://www.nbcsports.com/soccer/news/roberto-de-zerbi-reaction-what-did-spurs-boss-say-after-rousing-win-at-chelsea"
+          "title": "Match report: Chelsea 0-2 Tottenham Hotspur | News | Official Site",
+          "source": "Chelsea Football Club",
+          "url": "https://www.chelseafc.com/en/news/article/match-report-chelsea-0-2-tottenham-hotspur"
         }
       ]
     },
@@ -85,9 +146,9 @@
           "url": "https://www.mt.co.kr/society/2026/10/23/2026102308294438574"
         },
         {
-          "title": "'韓 국가대표 공격수' 황희찬, 마침내 '반격 시작'하나...\"첫 선발 출전 기회 생겨\", 감독도 \"HWANG 좋은 옵션\" 평가",
+          "title": "\"황희찬, 최전방 스트라이커 선발 예상!\" 韓 국가대표 HWANG, 드디어 기회 왔다...\"첫 선발 출격 가능성 높아\"",
           "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553639126"
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553641200"
         }
       ]
     },
@@ -136,85 +197,19 @@
       "published": "Sat, 24 Oct 2026 08:30:00 -0700",
       "news": [
         {
-          "title": "첼시-토트넘 경기에서 실시간 얼굴인식 시스템 가동…범죄 예방인가, 관중 감시인가",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610221358003"
-        },
-        {
           "title": "프리미어 리그 첼시 대 토트넘 생중계 링크",
           "source": "Laodong.vn",
           "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-chelsea-vs-tottenham-tai-premier-league-1788618.ldo"
         },
         {
+          "title": "첼시-토트넘 경기에서 실시간 얼굴인식 시스템 가동…범죄 예방인가, 관중 감시인가",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610221358003"
+        },
+        {
           "title": "프리미어리그: ‘2연승’ 첼시, 안방서 토트넘 상대로 리그 첫 3연승 도전",
           "source": "티스토리",
           "url": "https://sbotopkr.tistory.com/2638"
-        }
-      ]
-    },
-    {
-      "title": "이재성",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 08:30:00 -0700",
-      "news": [
-        {
-          "title": "[bundes.review] '모레노호에 반가운 소식! 이재성 헤더골 폭발'… 마인츠는 브레멘에 2-3 패배!",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99776"
-        },
-        {
-          "title": "이재성 시즌 1호골 기록…마인츠, 브레멘에 2-3 패배 : 스포츠",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1047108"
-        },
-        {
-          "title": "[분데스 REVIEW] 이재성 시즌 1호골 터졌지만 빛바랬다! 추격의 헤더골로 반격 이끌었지만 역부족…마인츠, 브레멘에 2-3 패배",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697076"
-        }
-      ]
-    },
-    {
-      "title": "파이널 테이블",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 08:00:00 -0700",
-      "news": [
-        {
-          "title": "오늘 첫 방송 '파이널 테이블', 안효섭은 누굴 위해 진수성찬 차리나? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102413337246340"
-        },
-        {
-          "title": "함재현, '파이널 테이블' 출연…이현균 곁 지키는 수셰프 변신",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261023001173"
-        },
-        {
-          "title": "[사진]정유진, '손하트 멋지게'",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112896716"
-        }
-      ]
-    },
-    {
-      "title": "잠수교",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 07:50:00 -0700",
-      "news": [
-        {
-          "title": "[르포] “마지막 추억 남기자”… 슈퍼카·오토바이 몰린 잠수교의 밤 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/10/23/HLG7PSAESFHBDHI6NFULH3KXDI/"
-        },
-        {
-          "title": "(카드뉴스) 잠수교! 서울 최초의 한강 보행전용교 된다!",
-          "source": "서울특별시",
-          "url": "https://mediahub.seoul.go.kr/archives/2019818"
-        },
-        {
-          "title": "주말에 잠수교서 치킨 먹을까, 김천서 김밥 먹을까…전국 미식 축제 ‘풍성’",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12090881"
         }
       ]
     }
