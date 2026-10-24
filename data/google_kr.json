@@ -1,22 +1,171 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T00:53:45+00:00",
+  "fetched_at": "2026-10-24T01:45:15+00:00",
   "items": [
+    {
+      "title": "김수미",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 17:30:00 -0700",
+      "news": [
+        {
+          "title": "“인생 한 번뿐이야” 故 김수미가 세상에 남긴 마지막 독설",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261023508517"
+        },
+        {
+          "title": "故김수미 발인에 통곡한 '며느리' 서효림..2주기 앞두고 \"싱숭생숭하네요\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/GE2DCZRVG4ZGGNJRG5SWIZJVMM/"
+        },
+        {
+          "title": "서효림, 2주기 故 김수미에 대한 그리움 “김치 출시, 마음이 싱숭생숭”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610231805013"
+        }
+      ]
+    },
+    {
+      "title": "lcs",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 17:30:00 -0700",
+      "news": [
+        {
+          "title": "L.C.S. Hosts 3rd Annual Anti-Bullying Color Run",
+          "source": "WAGM",
+          "url": "https://www.wagmtv.com/2026/10/23/lcs-hosts-3rd-annual-anti-bullying-color-run/"
+        },
+        {
+          "title": "LYON Rigby: \"I have thought about how far we have to go for my life to actually change in a good way, and I think it's semis.\"",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/articles/lyon-rigby-i-have-thought-about-how-far-we-have-to-go-for-my-life-to-actually-change-in-a-good/en"
+        },
+        {
+          "title": "LYON Saint: \"In Scrims, Dhokla Went 15/0/2 Against HLE.\"",
+          "source": "Hotspawn",
+          "url": "https://www.hotspawn.com/league-of-legends/news/lyon-saint-worlds-2026-interview"
+        }
+      ]
+    },
+    {
+      "title": "삼성 갤럭시 s26",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 17:20:00 -0700",
+      "news": [
+        {
+          "title": "삼성 One UI 9.5 베타 프로그램, 11월 중 시작되나…멤버스 앱서 새 단서 포착",
+          "source": "케이벤치",
+          "url": "https://kbench.com/?q=node/282717"
+        },
+        {
+          "title": "갤럭시 A56, 원 UI 8.5엔 없던 아이폰 에어드롭이 원 UI 9에서 열렸다",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1168181"
+        },
+        {
+          "title": "외신 \"갤S26 울트라 초기화 주의…설정 오류로 사용 불능 우려\"",
+          "source": "KPI뉴스",
+          "url": "https://kpinews.kr/newsView/1065565040940841"
+        }
+      ]
+    },
+    {
+      "title": "운전",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 17:10:00 -0700",
+      "news": [
+        {
+          "title": "운전대 놨더니 슥~ 얌체운전…테슬라X FSD 타보니[시승기] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/24/2026102313074374810"
+        },
+        {
+          "title": "AI 안경으로 길 찾고 테슬라 계기판까지…네이버 지도 플랫폼 확장",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261021000932"
+        },
+        {
+          "title": "왜 이 길로 가라는 거야?! 테슬라 타고 비교해 본 티맵·네이버·카카오",
+          "source": "https://www.mocar.kr/",
+          "url": "https://www.mocar.kr/news/articleView.html?idxno=1413"
+        }
+      ]
+    },
+    {
+      "title": "lcp",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 17:10:00 -0700",
+      "news": [
+        {
+          "title": "TSW Eddie: \"Vietnamese teams are not just trying to win the LCP anymore\"",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/articles/tsw-eddie-vietnamese-teams-are-not-just-trying-to-win-the-lcp-anymore/en"
+        },
+        {
+          "title": "Lcp: Team Secret Whales vs. LYON closes day one of the 2026 Worlds Swiss Stage",
+          "source": "شبكة تواصل الإخبارية",
+          "url": "https://twaslnews1.twaslnews.com/6491664/"
+        }
+      ]
+    },
+    {
+      "title": "김밥축제",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 17:10:00 -0700",
+      "news": [
+        {
+          "title": "김밥대장 정다현 : “김밥도 직업이 된다” 전국 800곳 누빈 덕후의 실행력",
+          "source": "롱블랙 LongBlack",
+          "url": "https://longblack.co/note/2153"
+        },
+        {
+          "title": "수십만 명 모이는 김천 축제…TS, ‘오늘도 무사고’ 캠페인",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261024026030588"
+        },
+        {
+          "title": "[온라인 라운지]교통안전공단, 김천김밥축제에서 교통안전 캠페인",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261023/134898128/1"
+        }
+      ]
+    },
+    {
+      "title": "매일경제신문",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 17:00:00 -0700",
+      "news": [
+        {
+          "title": "[매경춘추] 네 번째 엑스",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/contributors/12184317"
+        },
+        {
+          "title": "“제값 받고 못팔바에야 자식에게”…서울 다소유자들, 매매 대신 증여 급증",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12184075"
+        },
+        {
+          "title": "서울 집합건물 상속인 7989명⋯1년 새 8.7% 증가",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2639238"
+        }
+      ]
+    },
     {
       "title": "레이스 대 브루어스",
       "approx_traffic": "10000+",
       "published": "Fri, 23 Oct 2026 16:40:00 -0700",
       "news": [
         {
-          "title": "MLB 탬파베이, 월드시리즈 1차전 선발로 베테랑 마르티네스 투입",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023042700007"
-        },
-        {
           "title": "57년 기다린 브루어스냐, 28년 기다린 레이스냐… 월드시리즈 첫 우승 놓고 결투",
           "source": "조선일보",
           "url": "https://www.chosun.com/sports/world-baseball/2026/10/24/LNOPEZH7SVD3HPWC47ZAZXSK3Y/"
+        },
+        {
+          "title": "MLB 탬파베이, 월드시리즈 1차전 선발로 베테랑 마르티네스 투입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023042700007"
         },
         {
           "title": "'170㎞ 언터처블' 미저라우스키 드디어 WS 데뷔, 밀워키 57년 한풀이 앞장설까 [MLB WS 프리뷰] - 머니투데이",
@@ -31,9 +180,9 @@
       "published": "Fri, 23 Oct 2026 16:40:00 -0700",
       "news": [
         {
-          "title": "“한 번 꺼낼 양부터”…김장김치 용기 나누는 기준",
+          "title": "“김치통은 누가 챙기지?” 가족 김장은 재료·용기 담당부터",
           "source": "비건뉴스",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=396228"
+          "url": "https://www.vegannews.co.kr/news/article.html?no=396276"
         },
         {
           "title": "김치통 가득 채우면 발효 중 국물 넘칠 수 있어",
@@ -41,9 +190,9 @@
           "url": "https://www.vegannews.co.kr/news/article.html?no=395984"
         },
         {
-          "title": "구로구, 괴산군 절임배추 직거래행사…오는 26일부터 신청",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625681"
+          "title": "“한 번 꺼낼 양부터”…김장김치 용기 나누는 기준",
+          "source": "비건뉴스",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=396228"
         }
       ]
     },
@@ -61,123 +210,6 @@
           "title": "Worlds 2026: ''O cansaço pesou bastante'', diz LOS Ackermann sobre 2v2 da bot-lane na reta final no Brasil",
           "source": "Mais Esports",
           "url": "https://maisesports.com.br/worlds-2026-o-cansaco-pesou-bastante-diz-los-ackermann-sobre-2v2-da-bot-lane-na-reta-final-no-brasil"
-        }
-      ]
-    },
-    {
-      "title": "대구 날씨",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "대구·경북 흐리거나 비…내일까지 예상 강수량 5∼60㎜",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024007700053"
-        },
-        {
-          "title": "'태풍 참피 영향' 대구·경북 25일까지 최고 60mm 비...강풍 '유의'",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261024000014"
-        },
-        {
-          "title": "대구·경북 곳곳 한파주의보…대구 낮 최고 17도",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692206"
-        }
-      ]
-    },
-    {
-      "title": "단체교섭",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 16:00:00 -0700",
-      "news": [
-        {
-          "title": "“원·하청 상생” 내걸었지만…‘사용자성’ 놓고 진통",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693997"
-        },
-        {
-          "title": "부산교통공사 노사 단체교섭 최종 타결‥총파업 철회",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6860154_36918.html"
-        }
-      ]
-    },
-    {
-      "title": "미래에셋증권",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 16:00:00 -0700",
-      "news": [
-        {
-          "title": "이찬진 '스페이스X 0주' 野 보상촉구에…\"공감, 제재절차 진행\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022171200002"
-        },
-        {
-          "title": "금감원장 \"미래에셋 스페이스X 청약 보상 공감\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/22/2026102217003165426"
-        },
-        {
-          "title": "‘스페이스X 0주’ 사과 넉 달…미래에셋증권 고객 보상 머뭇대는 까닭",
-          "source": "일요신문",
-          "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513294"
-        }
-      ]
-    },
-    {
-      "title": "颱風動態",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 16:00:00 -0700",
-      "news": []
-    },
-    {
-      "title": "조세",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 15:50:00 -0700",
-      "news": []
-    },
-    {
-      "title": "조선소",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 15:50:00 -0700",
-      "news": [
-        {
-          "title": "‘마스가’ 첫발은 뗐지만... 인력 확보·일감 수주 ‘산 넘어 산’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/10/24/RRVVEJ425NBCDFJ44SNCALOZ5E/"
-        },
-        {
-          "title": "美 조선업 재건 뛰어든 K조선…HD현대·한화, 현지 생산 '박차'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003838882"
-        },
-        {
-          "title": "HD현대, 미국에 합작 조선소 설립…1천500억불 마스가 승부수(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023054151003"
-        }
-      ]
-    },
-    {
-      "title": "cfo",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 15:50:00 -0700",
-      "news": [
-        {
-          "title": "How CFOs can get better at post-deal integration",
-          "source": "CFO Brew",
-          "url": "https://www.cfobrew.com/stories/how-cfos-can-get-better-post-acquisition-integration"
-        },
-        {
-          "title": "PwC | Beyond the deal: Why internal M&A integration is harder than it looks",
-          "source": "Africa Private Equity News",
-          "url": "https://www.africaprivateequitynews.com/p/pwc-beyond-the-deal-why-internal"
-        },
-        {
-          "title": "Skuld names new underwriting chief and CFO",
-          "source": "Business Insurance",
-          "url": "https://www.businessinsurance.com/skuld-names-new-underwriting-chief-and-cfo/"
         }
       ]
     }
