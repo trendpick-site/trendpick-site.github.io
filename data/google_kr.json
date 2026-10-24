@@ -1,11 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T01:45:15+00:00",
+  "fetched_at": "2026-10-24T02:36:15+00:00",
   "items": [
     {
+      "title": "미사일",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 18:10:00 -0700",
+      "news": [
+        {
+          "title": "사우디, 미사일 생산시설 확장…중국 기술 가능성",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023182900009"
+        },
+        {
+          "title": "“위성사진에 딱 걸렸다”…사우디가 중국 손잡고 몰래 만든 ‘비밀 미사일’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/world/12184595"
+        },
+        {
+          "title": "중국 기술로 후티에 반격…사우디, 미사일 생산시설 확장",
+          "source": "SBS Biz",
+          "url": "https://biz.sbs.co.kr/article/20000341905?division=NAVER"
+        }
+      ]
+    },
+    {
+      "title": "서울 날씨",
+      "approx_traffic": "100000+",
+      "published": "Fri, 23 Oct 2026 18:00:00 -0700",
+      "news": [
+        {
+          "title": "[날씨] 태풍 '참피' 간접 영향 남해안·제주 폭우...250mm↑",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202610240922144538"
+        },
+        {
+          "title": "[날씨] 태풍 ’참피’ 북상…남부·제주 250㎜↑ 비바람",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024104732fC5"
+        },
+        {
+          "title": "제주 산간 최대 250mm 폭우…비 그치면 기온 '뚝'",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812733"
+        }
+      ]
+    },
+    {
+      "title": "연합인포맥스",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 17:50:00 -0700",
+      "news": [
+        {
+          "title": "금감원, '해외주식 현금성 마케팅' 원천 금지 추진",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440870"
+        },
+        {
+          "title": "'AI 투자 우려' 메타, 주가 급락·CDS 급등…美 10년물 금리 5% 하회",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440713"
+        },
+        {
+          "title": "공짜로 '뮤즈' 뿌리던 메타…1100조 베팅 역풍에 주가 '털썩'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102318441"
+        }
+      ]
+    },
+    {
       "title": "김수미",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Fri, 23 Oct 2026 17:30:00 -0700",
       "news": [
         {
@@ -49,13 +115,13 @@
     },
     {
       "title": "삼성 갤럭시 s26",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Fri, 23 Oct 2026 17:20:00 -0700",
       "news": [
         {
-          "title": "삼성 One UI 9.5 베타 프로그램, 11월 중 시작되나…멤버스 앱서 새 단서 포착",
+          "title": "삼성 '갤럭시 M47·A26·A17' One UI 9 업데이트 배포…안드로이드 17 적용",
           "source": "케이벤치",
-          "url": "https://kbench.com/?q=node/282717"
+          "url": "https://kbench.com/?q=node/282738"
         },
         {
           "title": "갤럭시 A56, 원 UI 8.5엔 없던 아이폰 에어드롭이 원 UI 9에서 열렸다",
@@ -63,9 +129,9 @@
           "url": "https://www.wikitree.co.kr/articles/1168181"
         },
         {
-          "title": "외신 \"갤S26 울트라 초기화 주의…설정 오류로 사용 불능 우려\"",
-          "source": "KPI뉴스",
-          "url": "https://kpinews.kr/newsView/1065565040940841"
+          "title": "삼성전자, 갤럭시 S28에 '갤럭시 OS' 탑재 관측…소프트웨어 혁신 나서나",
+          "source": "이코노미트리뷴",
+          "url": "https://www.economytribune.co.kr/news/articleView.html?idxno=3904177"
         }
       ]
     },
@@ -80,14 +146,14 @@
           "url": "https://www.mt.co.kr/industry/2026/10/24/2026102313074374810"
         },
         {
+          "title": "‘버스 정차에도 침착’ 테슬라 FSD V14 라이트 다시 보니[카미경]",
+          "source": "블로터",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=676529"
+        },
+        {
           "title": "AI 안경으로 길 찾고 테슬라 계기판까지…네이버 지도 플랫폼 확장",
           "source": "뉴스핌",
           "url": "https://www.newspim.com/news/view/20261021000932"
-        },
-        {
-          "title": "왜 이 길로 가라는 거야?! 테슬라 타고 비교해 본 티맵·네이버·카카오",
-          "source": "https://www.mocar.kr/",
-          "url": "https://www.mocar.kr/news/articleView.html?idxno=1413"
         }
       ]
     },
@@ -132,7 +198,7 @@
     },
     {
       "title": "매일경제신문",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Fri, 23 Oct 2026 17:00:00 -0700",
       "news": [
         {
@@ -149,67 +215,6 @@
           "title": "서울 집합건물 상속인 7989명⋯1년 새 8.7% 증가",
           "source": "이투데이",
           "url": "https://www.etoday.co.kr/news/view/2639238"
-        }
-      ]
-    },
-    {
-      "title": "레이스 대 브루어스",
-      "approx_traffic": "10000+",
-      "published": "Fri, 23 Oct 2026 16:40:00 -0700",
-      "news": [
-        {
-          "title": "57년 기다린 브루어스냐, 28년 기다린 레이스냐… 월드시리즈 첫 우승 놓고 결투",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/24/LNOPEZH7SVD3HPWC47ZAZXSK3Y/"
-        },
-        {
-          "title": "MLB 탬파베이, 월드시리즈 1차전 선발로 베테랑 마르티네스 투입",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023042700007"
-        },
-        {
-          "title": "'170㎞ 언터처블' 미저라우스키 드디어 WS 데뷔, 밀워키 57년 한풀이 앞장설까 [MLB WS 프리뷰] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/23/2026102313245311992"
-        }
-      ]
-    },
-    {
-      "title": "김장",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 16:40:00 -0700",
-      "news": [
-        {
-          "title": "“김치통은 누가 챙기지?” 가족 김장은 재료·용기 담당부터",
-          "source": "비건뉴스",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=396276"
-        },
-        {
-          "title": "김치통 가득 채우면 발효 중 국물 넘칠 수 있어",
-          "source": "비건뉴스",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=395984"
-        },
-        {
-          "title": "“한 번 꺼낼 양부터”…김장김치 용기 나누는 기준",
-          "source": "비건뉴스",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=396228"
-        }
-      ]
-    },
-    {
-      "title": "cblol",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "Worlds 2026: ''A gente não fica atrás em mecânica'', diz Duduhh sobre diferencial da LOS",
-          "source": "Mais Esports",
-          "url": "https://maisesports.com.br/cblol-2026-a-gente-nao-fica-atras-em-mecanica-diz-duduhh-sobre-diferencial-da-los"
-        },
-        {
-          "title": "Worlds 2026: ''O cansaço pesou bastante'', diz LOS Ackermann sobre 2v2 da bot-lane na reta final no Brasil",
-          "source": "Mais Esports",
-          "url": "https://maisesports.com.br/worlds-2026-o-cansaco-pesou-bastante-diz-los-ackermann-sobre-2v2-da-bot-lane-na-reta-final-no-brasil"
         }
       ]
     }
