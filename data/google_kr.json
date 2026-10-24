@@ -1,8 +1,91 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T02:36:15+00:00",
+  "fetched_at": "2026-10-24T03:08:25+00:00",
   "items": [
+    {
+      "title": "캐시워크 정답",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 19:00:00 -0700",
+      "news": [
+        {
+          "title": "소이비랩 저당 검은콩두유 캐시워크 돈 버는 퀴즈, 정답은?",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261022110443721"
+        },
+        {
+          "title": "[캐시워크 종합] 10월 23일 금요일 오전 9시 현재 출제되고 있는 모든 문제들의 정답은?",
+          "source": "비즈월드",
+          "url": "https://www.bizwnews.com/news/articleView.html?idxno=149759"
+        }
+      ]
+    },
+    {
+      "title": "la 레이커스 대 la 클리퍼스",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 18:40:00 -0700",
+      "news": [
+        {
+          "title": "Clippers Injury Report vs. Lakers: LA Continues to Be Without Several Key Contributors",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/clippers-injury-report-vs-lakers-172913823.html"
+        },
+        {
+          "title": "Clippers vs Lakers Prediction, Picks & Best Bet for Tonight's NBA Game",
+          "source": "Covers.com",
+          "url": "https://www.covers.com/nba/clippers-vs-lakers-prediction-picks-odds-oct-23-2026"
+        },
+        {
+          "title": "Clippers vs. Lakers Preview: First Road Game of 2027 Season",
+          "source": "213hoops.com",
+          "url": "https://213hoops.com/clippers-vs-lakers-preview-first-road-game-of-2027-season/"
+        }
+      ]
+    },
+    {
+      "title": "이정후",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 18:40:00 -0700",
+      "news": [
+        {
+          "title": "“FXXX!” 이정후 향해 욕설 논란, 비극적 결말 맞다…팔꿈치 인대 파열→끝내 수술 “회복 기간만 9개월”",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261022084335751"
+        },
+        {
+          "title": "'이정후에 욕설→오타니와 불협화음' 다저스 러싱 수술대→복귀까지 9개월, 입지 더 좁아지나 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/23/2026102311093766000"
+        },
+        {
+          "title": "8월엔 수술 필요 없다더니, PS도 못 뛰고 9개월 재활…다저스 '문제아 포수' 뒤늦은 결정에 팬들 분노",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/22/ME3GEMZUGNTGGNZYMQ2TINZWMY/"
+        }
+      ]
+    },
+    {
+      "title": "nba",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 18:40:00 -0700",
+      "news": [
+        {
+          "title": "Jayson Tatum News: Stuffs stat sheet in win",
+          "source": "RotoWire",
+          "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-stuffs-stat-sheet-in-win-535756"
+        },
+        {
+          "title": "Knicks become first NBA champions to begin season 0-2 in 15 years, lose 107-103 to Celtics",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nba/article/knicks-become-first-nba-champions-to-begin-season-0-2-in-15-years-lose-107-103-to-celtics-015107047.html"
+        },
+        {
+          "title": "Celtics Had No Answer For Deuce McBride, But Still Escaped With Win Over Knicks",
+          "source": "NESN",
+          "url": "https://nesn.com/boston-celtics/news/celtics-had-no-answer-deuce-mcbride-still-escaped-win-over-knicks/39ba20efc0fc5fdbf5878f48"
+        }
+      ]
+    },
     {
       "title": "미사일",
       "approx_traffic": "2000+",
@@ -31,14 +114,14 @@
       "published": "Fri, 23 Oct 2026 18:00:00 -0700",
       "news": [
         {
-          "title": "[날씨] 태풍 '참피' 간접 영향 남해안·제주 폭우...250mm↑",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202610240922144538"
+          "title": "주말 태풍 ’참피’ 영향…제주 250㎜ 비바람",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261023220934mB5"
         },
         {
-          "title": "[날씨] 태풍 ’참피’ 북상…남부·제주 250㎜↑ 비바람",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024104732fC5"
+          "title": "태풍 '참피' 북상에 남부 비…제주 최대 250㎜[오늘날씨]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003839277"
         },
         {
           "title": "제주 산간 최대 250mm 폭우…비 그치면 기온 '뚝'",
@@ -53,19 +136,19 @@
       "published": "Fri, 23 Oct 2026 17:50:00 -0700",
       "news": [
         {
-          "title": "금감원, '해외주식 현금성 마케팅' 원천 금지 추진",
+          "title": "\"국내 증시 급락은 적정 가격 찾는 과정…AI 버블 증거 부족\"",
           "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440870"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440935"
         },
         {
-          "title": "'AI 투자 우려' 메타, 주가 급락·CDS 급등…美 10년물 금리 5% 하회",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440713"
+          "title": "실적 좋은데도 미장보다 더 크게 빠지는 국장…전문가 원인 분석은",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/stock/12184712"
         },
         {
-          "title": "공짜로 '뮤즈' 뿌리던 메타…1100조 베팅 역풍에 주가 '털썩'",
+          "title": "\"인니 증시 반값 됐다\"…상반기 1위서 '최저가'로, 코스피 바닥 논쟁",
           "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102318441"
+          "url": "https://www.hankyung.com/article/202610231657i"
         }
       ]
     },
@@ -97,19 +180,19 @@
       "published": "Fri, 23 Oct 2026 17:30:00 -0700",
       "news": [
         {
-          "title": "L.C.S. Hosts 3rd Annual Anti-Bullying Color Run",
-          "source": "WAGM",
-          "url": "https://www.wagmtv.com/2026/10/23/lcs-hosts-3rd-annual-anti-bullying-color-run/"
-        },
-        {
-          "title": "LYON Rigby: \"I have thought about how far we have to go for my life to actually change in a good way, and I think it's semis.\"",
+          "title": "\"We had a pretty good draw, but CFO probably feels the same\": TL Quid ahead of Worlds 2026 Swiss Stage",
           "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/lyon-rigby-i-have-thought-about-how-far-we-have-to-go-for-my-life-to-actually-change-in-a-good/en"
+          "url": "https://www.sheepesports.com/en/articles/we-had-a-pretty-good-draw-but-cfo-probably-feels-the-same-way-tl-quid-ahead-of-worlds-2026-swiss/en"
         },
         {
-          "title": "LYON Saint: \"In Scrims, Dhokla Went 15/0/2 Against HLE.\"",
-          "source": "Hotspawn",
-          "url": "https://www.hotspawn.com/league-of-legends/news/lyon-saint-worlds-2026-interview"
+          "title": "Worlds 2026: CTBC Flying Oyster Outfight Team Liquid Behind Double-Buff Finish",
+          "source": "EGamersWorld",
+          "url": "https://egamersworld.com/lol/news/37997/ctbc-flying-oyster-punish-late-team-liquid-mistake-2YRCv0OsT"
+        },
+        {
+          "title": "TL Yeon: \"We did ourselves a disservice today\"",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/articles/tl-yeon-we-did-ourselves-a-disservice-today/en"
         }
       ]
     },
@@ -132,89 +215,6 @@
           "title": "삼성전자, 갤럭시 S28에 '갤럭시 OS' 탑재 관측…소프트웨어 혁신 나서나",
           "source": "이코노미트리뷴",
           "url": "https://www.economytribune.co.kr/news/articleView.html?idxno=3904177"
-        }
-      ]
-    },
-    {
-      "title": "운전",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 17:10:00 -0700",
-      "news": [
-        {
-          "title": "운전대 놨더니 슥~ 얌체운전…테슬라X FSD 타보니[시승기] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/10/24/2026102313074374810"
-        },
-        {
-          "title": "‘버스 정차에도 침착’ 테슬라 FSD V14 라이트 다시 보니[카미경]",
-          "source": "블로터",
-          "url": "https://www.bloter.net/news/articleView.html?idxno=676529"
-        },
-        {
-          "title": "AI 안경으로 길 찾고 테슬라 계기판까지…네이버 지도 플랫폼 확장",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261021000932"
-        }
-      ]
-    },
-    {
-      "title": "lcp",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 17:10:00 -0700",
-      "news": [
-        {
-          "title": "TSW Eddie: \"Vietnamese teams are not just trying to win the LCP anymore\"",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/tsw-eddie-vietnamese-teams-are-not-just-trying-to-win-the-lcp-anymore/en"
-        },
-        {
-          "title": "Lcp: Team Secret Whales vs. LYON closes day one of the 2026 Worlds Swiss Stage",
-          "source": "شبكة تواصل الإخبارية",
-          "url": "https://twaslnews1.twaslnews.com/6491664/"
-        }
-      ]
-    },
-    {
-      "title": "김밥축제",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 17:10:00 -0700",
-      "news": [
-        {
-          "title": "김밥대장 정다현 : “김밥도 직업이 된다” 전국 800곳 누빈 덕후의 실행력",
-          "source": "롱블랙 LongBlack",
-          "url": "https://longblack.co/note/2153"
-        },
-        {
-          "title": "수십만 명 모이는 김천 축제…TS, ‘오늘도 무사고’ 캠페인",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261024026030588"
-        },
-        {
-          "title": "[온라인 라운지]교통안전공단, 김천김밥축제에서 교통안전 캠페인",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261023/134898128/1"
-        }
-      ]
-    },
-    {
-      "title": "매일경제신문",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 17:00:00 -0700",
-      "news": [
-        {
-          "title": "[매경춘추] 네 번째 엑스",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/contributors/12184317"
-        },
-        {
-          "title": "“제값 받고 못팔바에야 자식에게”…서울 다소유자들, 매매 대신 증여 급증",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12184075"
-        },
-        {
-          "title": "서울 집합건물 상속인 7989명⋯1년 새 8.7% 증가",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2639238"
         }
       ]
     }
