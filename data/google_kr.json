@@ -1,7 +1,7 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T20:34:02+00:00",
+  "fetched_at": "2026-10-24T21:02:40+00:00",
   "items": [
     {
       "title": "cblol",
@@ -158,28 +158,6 @@
       ]
     },
     {
-      "title": "epl",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 11:20:00 -0700",
-      "news": [
-        {
-          "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates as it happens from across the Premier League",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cm4gvy14w7q4t"
-        },
-        {
-          "title": "Team news: Eze one of five changes to face Everton",
-          "source": "Arsenal.com",
-          "url": "https://www.arsenal.com/news/team-news-eze-one-of-five-changes-to-face-everton-aZIZd3e0c1Yj"
-        },
-        {
-          "title": "Arsenal 2-0 Everton, Coventry 0-1 Fulham: football clockwatch – as it happened",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/oct/24/tottenham-arsenal-wsl-premier-league-efl-football-clockwatch-live"
-        }
-      ]
-    },
-    {
       "title": "lcp",
       "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 11:10:00 -0700",
@@ -207,19 +185,41 @@
       "published": "Sat, 24 Oct 2026 11:10:00 -0700",
       "news": [
         {
-          "title": "1,4% kontra 22,2%. Najnowsze dane z polskich powiatów dosłownie zaskakują",
-          "source": "Forsal.pl",
-          "url": "https://forsal.pl/gospodarka/bezrobocie/artykuly/11335743,14-kontra-222-najnowsze-dane-z-polskich-powiatow-doslownie-zaskakuja.html"
+          "title": "Nowe dane o bezrobociu w Polsce. Jeden wskaźnik wyraźnie wzrósł",
+          "source": "Rzeczpospolita",
+          "url": "https://www.rp.pl/dane-gospodarcze/art45384591-ponad-900-tys-polakow-bez-pracy-gus-ujawnil-wrzesniowe-dane"
         },
         {
-          "title": "Bogdan Borusewicz w Kijowie: jestem dziś tutaj, żeby ci ludzie nie czuli się osamotnieni",
-          "source": "Polska Agencja Prasowa SA",
-          "url": "https://www.pap.pl/aktualnosci/bogdan-borusewicz-w-kijowie-jestem-dzis-tutaj-zeby-ci-ludzie-nie-czuli-sie-osamotnieni"
+          "title": "Bezrobocie utknęło, na rynku pracy powiało chłodem. Ekspresowo ubywa ofert",
+          "source": "Bizblog.pl",
+          "url": "https://bizblog.spidersweb.pl/bezrobocie-utknelo-na-rynku-pracy-powialo-chlodem-ekspresowo-ubywa-ofert"
         },
         {
-          "title": "Tusk upokarza Hołownię. Nawrocki atakuje Domańskiego. Kosiniak wściekły na Lewicę. Obajtek ścigany",
-          "source": "Wiadomości Onet",
-          "url": "https://wiadomosci.onet.pl/kraj/tusk-upokarza-holownie-nawrocki-atakuje-domanskiego-kosiniak-wsciekly-na-lewice/8esl8x0"
+          "title": "Bezrobotnych przybywa. Rejestrują się w urzędzie głównie po ubezpieczenie",
+          "source": "Telewizja Gorzów",
+          "url": "https://www.telewizjagorzow.pl/artykul/17873,bezrobotnych-przybywa-rejestruja-sie-w-urzedzie-glownie-po-ubezpieczenie"
+        }
+      ]
+    },
+    {
+      "title": "เชลซี พบ สเปอร์ส",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 11:10:00 -0700",
+      "news": [
+        {
+          "title": "การคาดการณ์ผลการแข่งขันระหว่างเชลซีกับท็อตแนม: สถิติการพบกันเป็นข้อได้เปรียบที่สำคัญ",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-chelsea-vs-tottenham-diem-tua-tu-thanh-tich-doi-dau"
+        },
+        {
+          "title": "~^$+√#™(PPTV HD 36) ดู ทีมชาติสเปอร์ส พบ เชลซี ถ่ายทอดสดฟุตบอลวันนี้ ฟีฟ่า อาเซียน คัพ",
+          "source": "FC東京オフィシャルホームページ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2h1bWF5cmFrdGVyLmdpdGh1Yi5pby92aWRlby9zLnhtbCIvPjwva3JwYW5vPg==&id=video-chelsea-vs-spurs-liv-tid-01"
+        },
+        {
+          "title": "\"ไก่เดือยทอง\" แรงไม่หยุดบุกจิก \"สิงห์สำอาง\" 10 ตัวถึงถ้ำ",
+          "source": "เดลินิวส์",
+          "url": "https://www.dailynews.co.th/news/6302220/"
         }
       ]
     }
