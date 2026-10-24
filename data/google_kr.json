@@ -1,11 +1,61 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T06:42:31+00:00",
+  "fetched_at": "2026-10-24T07:22:08+00:00",
   "items": [
     {
+      "title": "김재윤",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 23:00:00 -0700",
+      "news": [
+        {
+          "title": "[속보] '세이브 1위' 김재윤, 플레이오프 앞두고 충격 이탈…삼성 뒷문 비상, 2주 휴식 불가피",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112897637"
+        },
+        {
+          "title": "[PO] '세이브왕' 삼성 김재윤, 부상 2주 이탈...백정현·좌승현에 이어 부상 악재",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261024000052"
+        },
+        {
+          "title": "'세이브왕' 김재윤 전거근 손상으로 이탈…삼성, 뒷문 공백 악재[PO]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839565"
+        }
+      ]
+    },
+    {
+      "title": "6.25 전쟁",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 22:50:00 -0700",
+      "news": []
+    },
+    {
+      "title": "k리그2",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "[K리그2 프리뷰]'서울E와 동률' 15경기 무패 수원FC, 한발 치고 나갈까...6연승 수원은 성남과 '마계 대전'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/10/23/GJRDMYJTGNSDGNRUGA3DAM3BMU/"
+        },
+        {
+          "title": "지지 않는 수원 형제, ‘쉬는’ 이랜드는 노심초사",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610231144003"
+        },
+        {
+          "title": "신송훈 선방쇼로 막는다...8위 충남아산, '15경기 무패' 수원FC 상대로 첫 승 도전",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696902"
+        }
+      ]
+    },
+    {
       "title": "최태원",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Fri, 23 Oct 2026 22:20:00 -0700",
       "news": [
         {
@@ -26,48 +76,10 @@
       ]
     },
     {
-      "title": "폴드8",
+      "title": "서울 sk 대 창원 lg",
       "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 22:00:00 -0700",
-      "news": [
-        {
-          "title": "삼성전자, 리센느와 손잡고 폴드8 여심 잡기 나선다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023169900017"
-        },
-        {
-          "title": "갤럭시 Z폴드8, 유럽서도 통했다… 전작 대비 판매량 45% ‘껑충’",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1773283"
-        },
-        {
-          "title": "아이폰 듀오가 갤럭시Z폴드8 판매량 늘렸나",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261023134410"
-        }
-      ]
-    },
-    {
-      "title": "warriors vs grizzlies",
-      "approx_traffic": "100+",
       "published": "Fri, 23 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "Memphis Grizzlies caught enemy Golden State Warriors in enemy territory.",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12184798"
-        },
-        {
-          "title": "Ty Jerome stays hot, scores 28 points vs. GSW",
-          "source": "NBC Sports",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-24/ty-jerome-stays-hot-scores-28-points-vs-gsw"
-        },
-        {
-          "title": "NBA GAMES! Warriors vs Grizzlies Live strea.m NBA, TV channel 2026",
-          "source": "Powell River Peak",
-          "url": "https://www.prpeak.com/classifieds/garage-sales/garage-sales/2158394"
-        }
-      ]
+      "news": []
     },
     {
       "title": "fc 서울 대 강원",
@@ -75,9 +87,9 @@
       "published": "Fri, 23 Oct 2026 21:20:00 -0700",
       "news": [
         {
-          "title": "'이기면 우승' FC서울 김기동 감독, 두 손 쥐고 \"오늘 끝내길\"",
+          "title": "FC서울, 강원과 비기고 우승 축포…10년 묵은 갈증 씻어낸 V7",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024031000007"
+          "url": "https://www.yna.co.kr/view/IPT20261024000007365?section=gallery/index"
         },
         {
           "title": "서울, 조기우승까지 ’승점 3’…상암 팬들로 북적",
@@ -85,15 +97,15 @@
           "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024140600Omk"
         },
         {
-          "title": "구성윤, 전반 추가시간 PK 막았다...서울 강원 0-0, 울산 포항 0-2 우승까지 45분 [오!쎈 서울]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/24/GE3TSZTGGEZDAYTBGRSTAYJSME/"
+          "title": "‘3년의 기다림이 만든 기동매직’…김기동, 서울을 어떻게 챔피언으로 바꿨나",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610241557003"
         }
       ]
     },
     {
       "title": "안양 대 전북",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Fri, 23 Oct 2026 21:20:00 -0700",
       "news": []
     },
@@ -101,27 +113,11 @@
       "title": "인천 대 제주",
       "approx_traffic": "2000+",
       "published": "Fri, 23 Oct 2026 21:20:00 -0700",
-      "news": [
-        {
-          "title": "'오늘 우리 영광을 위해' 인천 팬들, '파이널A 걸린' 제주전 앞두고 '버스 맞이' 응원 [인천 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/24/2026102411191697138"
-        },
-        {
-          "title": "'이기면 파이널A 진출' 인천, 제주전 무고사-이청용 투톱 출격 [인천 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/24/2026102411195725741"
-        },
-        {
-          "title": "[그래도 K리그] ‘이겨야 산다’ 윤정환 vs ‘비겨도 간다’ 코스타...파이널A '빅뱅'",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/soccer/2379512.htm"
-        }
-      ]
+      "news": []
     },
     {
       "title": "낚시",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Fri, 23 Oct 2026 21:20:00 -0700",
       "news": [
         {
@@ -143,7 +139,7 @@
     },
     {
       "title": "삼성전기",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Fri, 23 Oct 2026 21:10:00 -0700",
       "news": [
         {
@@ -160,50 +156,6 @@
           "title": "부산에 엔비디아 전용 생산라인 선다(종합)",
           "source": "국제신문",
           "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261023.22008006709"
-        }
-      ]
-    },
-    {
-      "title": "김천상무 대 대전",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 21:10:00 -0700",
-      "news": [
-        {
-          "title": "[현장목소리] \"최대한 높은 곳까지 가보겠다\" 대전 황선홍 감독, 정규 시즌 '마지막 라운드' 김천전 앞두고 '의지 활활'",
-          "source": "Your Field",
-          "url": "https://yourfield.nexon.com/today/view/2025052909553641111?type=all"
-        },
-        {
-          "title": "김천상무, 대전과 정규라운드 마지막 경기…할로윈 홈경기 이벤트 진행",
-          "source": "웹이코노미",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2344688"
-        },
-        {
-          "title": "김천상무, '든든한 동반자' 후원회 후원금 전달식 진행:중수청일보",
-          "source": "중수청일보",
-          "url": "https://unionilbo.com/2228778"
-        }
-      ]
-    },
-    {
-      "title": "노태문",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 21:10:00 -0700",
-      "news": [
-        {
-          "title": "삼성전자 전영현·노태문, '투톱 겸직' 바뀔까…메모리·MX 수장 인선 촉각",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417900"
-        },
-        {
-          "title": "[ET톡] '호황' 속 재계 인사, 불황의 청구서까지 내다봐야",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261021000197"
-        },
-        {
-          "title": "[정해균의 Zoom-人] ‘각양강색’ 전문경영인 부회장...사업 총괄부터 회장 보좌까지",
-          "source": "뉴스인사이드",
-          "url": "https://www.newsinside.kr/news/articleView.html?idxno=5031215"
         }
       ]
     }
