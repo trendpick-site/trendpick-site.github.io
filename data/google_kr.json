@@ -1,11 +1,193 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T05:08:25+00:00",
+  "fetched_at": "2026-10-24T05:37:03+00:00",
   "items": [
     {
-      "title": "성심당",
+      "title": "안양 대 전북",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "\"힘들지만 둘 다 놓칠 수 없다\" K리그1와 ACLE 병행하는 정정용 감독, 두 마리 토끼 사냥 나선다 [SPO 현장]",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015093"
+        },
+        {
+          "title": "티아고 시즌 10골+MVP 만들어준 이승우의 환상적인 노룩패스…“거기 있을 줄 알았어” '환상적인 케미 대폭발 [오!쎈 전주] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/football/2026/10/21/GA3GIMTFHA2WIMZRHFTDGM3DMY/"
+        },
+        {
+          "title": "'4경기 무승 탈출' 전북 2위 울산 턱밑 추격! 안양 상대로 2연승 도전...'3년 만에 두 자릿수 득점' 티아고 발끝에 기대",
+          "source": "마이데일리",
+          "url": "https://www.mydaily.co.kr/page/view/2026102322583608089"
+        }
+      ]
+    },
+    {
+      "title": "fc 서울 대 강원",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "'이기면 우승' FC서울 김기동 감독, 두 손 쥐고 \"오늘 끝내길\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024031000007"
+        },
+        {
+          "title": "서울, 조기우승까지 ’승점 3’…상암 팬들로 북적",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024140600Omk"
+        },
+        {
+          "title": "야고·클리말라 선두 다툼… 무고사도 추격, K리그1 득점왕 '안갯속'",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261023504046"
+        }
+      ]
+    },
+    {
+      "title": "인천 대 제주",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 21:20:00 -0700",
+      "news": []
+    },
+    {
+      "title": "낚시",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "공원 연못서 낚은 몸통만한 잉어 메고 떠난 여성 놓고 ‘와글와글’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261023/134899915/2"
+        },
+        {
+          "title": "’거대 잉어’ 업고 유유히…“공원 불법 낚시“·“외래종 제거“ 논쟁",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261021173732wVD"
+        },
+        {
+          "title": "[와글와글] \"골칫거리 잡았는데?\"‥\"하면 안 되는 행동\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6860110_37012.html"
+        }
+      ]
+    },
+    {
+      "title": "삼성전기",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 21:10:00 -0700",
+      "news": [
+        {
+          "title": "삼성전기·LG이노텍 실적 희비…AI 전략 달랐다",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172654"
+        },
+        {
+          "title": "[단독] 빅테크, 첨단기판 못구해 발동동 … 韓·日공장 증설에 돈 쏟아부어",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12183246"
+        },
+        {
+          "title": "부산에 엔비디아 전용 생산라인 선다(종합)",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261023.22008006709"
+        }
+      ]
+    },
+    {
+      "title": "김천상무 대 대전",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 21:10:00 -0700",
+      "news": [
+        {
+          "title": "김천상무, 대전 상대로 정규라운드 유종의 미 도전!",
+          "source": "데일리대구경북뉴스",
+          "url": "https://www.dailydgnews.com/news/article.html?no=266752"
+        },
+        {
+          "title": "김천상무, '든든한 동반자' 후원회 후원금 전달식 진행:중수청일보",
+          "source": "중수청일보",
+          "url": "https://unionilbo.com/2228778"
+        },
+        {
+          "title": "김천상무, 대전과 정규라운드 마지막 경기…할로윈 홈경기 이벤트 진행",
+          "source": "웹이코노미",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2344688"
+        }
+      ]
+    },
+    {
+      "title": "노태문",
       "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 21:10:00 -0700",
+      "news": [
+        {
+          "title": "삼성전자 노조, 합의 5개월 만에 ‘반도체 성과급’ 개선 요구 반영 추진… 개선안 81% 찬성 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/it-science/ict/2026/10/22/6G33IGWRFNAFTMBSTTNHKHXQTE/"
+        },
+        {
+          "title": "삼성 DX 타운홀 돌연 연기…성과급 격차가 키운 '노사 리스크'",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261020000388"
+        },
+        {
+          "title": "삼전 초기업노조, DS내 사업부별 성과급 격차 완화 추진…노조 81% 찬성",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05490726645615544"
+        }
+      ]
+    },
+    {
+      "title": "lakers vs clippers",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 21:10:00 -0700",
+      "news": [
+        {
+          "title": "TST Images: Lakers defeat Clippers, 125-117, at Crypto.com Arena",
+          "source": "The Sporting Tribune",
+          "url": "https://www.thesportingtribune.com/2026/10/23/261023-clippers-at-lakers"
+        },
+        {
+          "title": "Lakers player grades: Lakers get past Clippers, improve to 2-0",
+          "source": "Lakers Wire",
+          "url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/10/23/lakers-player-grades-lakers-get-past-clippers-improve-to-2-0/92411390007/"
+        },
+        {
+          "title": "Clippers Lakers Basketball",
+          "source": "Corsicana Daily Sun",
+          "url": "https://www.corsicanadailysun.com/sports/national_sports/clippers-lakers-basketball/image_edfccee6-abb1-52e9-a08b-76be9dd8ad91.html"
+        }
+      ]
+    },
+    {
+      "title": "신상출시 편스토랑",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 21:00:00 -0700",
+      "news": [
+        {
+          "title": "도경완, '120억 집' 관리비에 한숨…\"애들 변기 물도 못 내리게 해\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102411282968011"
+        },
+        {
+          "title": "“괜히 들어갔네” 도경완도 물렸다…고점 대비 89% 폭락한 이 상품",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02578086645615872&mediaCodeNo=257"
+        },
+        {
+          "title": "“장윤정한테 미안해서 시작” 하닉 레버리지 ‘-40%’ 고백한 도경완…이런 개미들 손실 ‘6조 원’",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105212"
+        }
+      ]
+    },
+    {
+      "title": "성심당",
+      "approx_traffic": "500+",
       "published": "Fri, 23 Oct 2026 21:00:00 -0700",
       "news": [
         {
@@ -22,199 +204,6 @@
           "title": "이지혜, 성심당 케이크 7개 싹쓸이 논란?…“억울합니다”",
           "source": "스포츠동아",
           "url": "https://sports.donga.com/ent/article/all/20261022/134893754/1"
-        }
-      ]
-    },
-    {
-      "title": "신상출시 편스토랑",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "도경완, '120억 집' 관리비에 한숨…\"애들 변기 물도 못 내리게 해\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102411282968011"
-        },
-        {
-          "title": "“괜히 들어갔네” 도경완도 물렸다…고점 대비 89% 폭락한 이 상품",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02578086645615872&mediaCodeNo=257"
-        },
-        {
-          "title": "“하닉 왜 빠져” 도경완, 하닉 레버리지 수익률 -40% 공개",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625645"
-        }
-      ]
-    },
-    {
-      "title": "오윤아",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "'재혼' 오윤아, 웨딩드레스 자태 공개…\"고마워 여보\" 애정 과시 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102410563470516"
-        },
-        {
-          "title": "'재혼' 오윤아 웨딩드레스 입었다, 완벽 몸매·미모…\"고마워, 여보\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6329334"
-        },
-        {
-          "title": "이혼의 흉터를 훈장으로 바꾼 오윤아·최정윤·강성연의 ‘인생 리빌딩’",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260707520754"
-        }
-      ]
-    },
-    {
-      "title": "typhoon champi",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 20:50:00 -0700",
-      "news": [
-        {
-          "title": "Typhoon Champi forces concert postponements in Taiwan, including Jessica and PLAVE - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/10/24/IQWAFCGS4VDFPIF6PIIE6D3DFY/"
-        },
-        {
-          "title": "Typhoon Champhii (No. 30) moves from Taiwan to Japan...Rain expected mainly in southern Korea this weekend",
-          "source": "뉴스웍스",
-          "url": "https://www.newsworks.co.kr/en/articleView.html?idxno=900544"
-        },
-        {
-          "title": "'94 Injured' Typhoon Champi Passes Taiwan, Heads for Japan: \"Winds Strong Enough to Overturn Trucks\"",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026102319345404584"
-        }
-      ]
-    },
-    {
-      "title": "fc서울",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 20:40:00 -0700",
-      "news": [
-        {
-          "title": "'이기면 우승' FC서울 김기동 감독, 두 손 쥐고 \"오늘 끝내길\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024031000007"
-        },
-        {
-          "title": "'후이즈-클리말라 동시 출격' FC서울, '김대원 선발' 강원전 선발 라인업 공개...이기면 우승이다 [오!쎈 서울]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/24/GJTGCNLDGZRDQOBWG4YDCZBZMM/"
-        },
-        {
-          "title": "미운 오리에서 백조로…클리말라, 우승·득점왕 정조준",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261023232355Swv"
-        }
-      ]
-    },
-    {
-      "title": "이라크",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 20:20:00 -0700",
-      "news": [
-        {
-          "title": "[단독] 韓기업들, 이라크에 정유공장 지어주고 1조원 날릴 위기",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/10/23/5WRXTRQCDJDTZMFVLWPZQ3655I/"
-        },
-        {
-          "title": "현대건설 등 韓 기업 4곳, 이라크에 공장 지어주고 1조 못 받았다 … \"정부 나서야\"",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/23/2026102300311.html"
-        },
-        {
-          "title": "[단독] 한화, 이라크서 떼인 돈 1500억 먼저 받기로...\"철수하겠다\" 배수의 진 통해",
-          "source": "더구루",
-          "url": "https://theguru.co.kr/news/article.html?no=108405"
-        }
-      ]
-    },
-    {
-      "title": "최형우",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 19:50:00 -0700",
-      "news": [
-        {
-          "title": "‘YS 최측근’ 최형우 전 내무부 장관 별세",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/politics_general/2026/10/24/OTTMOCWDNNGRPC7BD6NFO3J27M/"
-        },
-        {
-          "title": "'YS 오른팔' 최형우 전 의원 별세…장례위원장에 권노갑·김덕룡(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024016551704"
-        },
-        {
-          "title": "‘YS 최측근’ 최형우 전 내무부 장관 별세…향년 91세",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610240902001"
-        }
-      ]
-    },
-    {
-      "title": "축구 감독",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 19:50:00 -0700",
-      "news": [
-        {
-          "title": "\"우승 잔칫집이지만 우리도 목표 있다\" 정경호 강원 감독, FC서울 우승 확정 저지 선언...\"상암 징크스 깨겠다\" [현장 인터뷰] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/24/202610241246772230O"
-        },
-        {
-          "title": "주말 인천과 단두대 매치.. 제주SK \"반드시 파이널A 간다\"",
-          "source": "한라일보",
-          "url": "https://m.ihalla.com/article.php?aid=1792723663791947051"
-        },
-        {
-          "title": "정규 라운드 최종전 돌입하는 K리그…시즌 MVP 경쟁도 ‘후끈’",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105454"
-        }
-      ]
-    },
-    {
-      "title": "한국대학신문",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 19:40:00 -0700",
-      "news": [
-        {
-          "title": "설계부터 경기 전략까지 학생 손으로…서울 학생 280여명 경쟁",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261021000815"
-        },
-        {
-          "title": "서울교육청, ‘2026 제2회 서울 학생 로봇 대회(SSRC)’ 개최",
-          "source": "조선에듀",
-          "url": "https://edu.chosun.com/m/edu_article.html?contid=2026102180144"
-        }
-      ]
-    },
-    {
-      "title": "김천 김밥축제",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 19:40:00 -0700",
-      "news": [
-        {
-          "title": "카카오맵, ‘2026 김천김밥축제’ 축제 전용 지도 제공 …부스별 메뉴 확인부터 주문·픽업 한 번에",
-          "source": "카카오",
-          "url": "https://www.kakaocorp.com/page/detail/12177"
-        },
-        {
-          "title": "김밥대장 정다현 : “김밥도 직업이 된다” 전국 800곳 누빈 덕후의 실행력",
-          "source": "롱블랙 LongBlack",
-          "url": "https://longblack.co/note/2153"
-        },
-        {
-          "title": "[온라인 라운지]교통안전공단, 김천김밥축제에서 교통안전 캠페인",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261023/134898128/1"
         }
       ]
     }
