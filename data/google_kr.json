@@ -1,11 +1,139 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T00:01:36+00:00",
+  "fetched_at": "2026-10-24T00:53:45+00:00",
   "items": [
     {
+      "title": "레이스 대 브루어스",
+      "approx_traffic": "10000+",
+      "published": "Fri, 23 Oct 2026 16:40:00 -0700",
+      "news": [
+        {
+          "title": "MLB 탬파베이, 월드시리즈 1차전 선발로 베테랑 마르티네스 투입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023042700007"
+        },
+        {
+          "title": "57년 기다린 브루어스냐, 28년 기다린 레이스냐… 월드시리즈 첫 우승 놓고 결투",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/24/LNOPEZH7SVD3HPWC47ZAZXSK3Y/"
+        },
+        {
+          "title": "'170㎞ 언터처블' 미저라우스키 드디어 WS 데뷔, 밀워키 57년 한풀이 앞장설까 [MLB WS 프리뷰] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/23/2026102313245311992"
+        }
+      ]
+    },
+    {
+      "title": "김장",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 16:40:00 -0700",
+      "news": [
+        {
+          "title": "“한 번 꺼낼 양부터”…김장김치 용기 나누는 기준",
+          "source": "비건뉴스",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=396228"
+        },
+        {
+          "title": "김치통 가득 채우면 발효 중 국물 넘칠 수 있어",
+          "source": "비건뉴스",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=395984"
+        },
+        {
+          "title": "구로구, 괴산군 절임배추 직거래행사…오는 26일부터 신청",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625681"
+        }
+      ]
+    },
+    {
+      "title": "cblol",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 16:30:00 -0700",
+      "news": [
+        {
+          "title": "Worlds 2026: ''A gente não fica atrás em mecânica'', diz Duduhh sobre diferencial da LOS",
+          "source": "Mais Esports",
+          "url": "https://maisesports.com.br/cblol-2026-a-gente-nao-fica-atras-em-mecanica-diz-duduhh-sobre-diferencial-da-los"
+        },
+        {
+          "title": "Worlds 2026: ''O cansaço pesou bastante'', diz LOS Ackermann sobre 2v2 da bot-lane na reta final no Brasil",
+          "source": "Mais Esports",
+          "url": "https://maisesports.com.br/worlds-2026-o-cansaco-pesou-bastante-diz-los-ackermann-sobre-2v2-da-bot-lane-na-reta-final-no-brasil"
+        }
+      ]
+    },
+    {
+      "title": "대구 날씨",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 16:30:00 -0700",
+      "news": [
+        {
+          "title": "대구·경북 흐리거나 비…내일까지 예상 강수량 5∼60㎜",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024007700053"
+        },
+        {
+          "title": "'태풍 참피 영향' 대구·경북 25일까지 최고 60mm 비...강풍 '유의'",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261024000014"
+        },
+        {
+          "title": "대구·경북 곳곳 한파주의보…대구 낮 최고 17도",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692206"
+        }
+      ]
+    },
+    {
+      "title": "단체교섭",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 16:00:00 -0700",
+      "news": [
+        {
+          "title": "“원·하청 상생” 내걸었지만…‘사용자성’ 놓고 진통",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693997"
+        },
+        {
+          "title": "부산교통공사 노사 단체교섭 최종 타결‥총파업 철회",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6860154_36918.html"
+        }
+      ]
+    },
+    {
+      "title": "미래에셋증권",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 16:00:00 -0700",
+      "news": [
+        {
+          "title": "이찬진 '스페이스X 0주' 野 보상촉구에…\"공감, 제재절차 진행\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022171200002"
+        },
+        {
+          "title": "금감원장 \"미래에셋 스페이스X 청약 보상 공감\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/22/2026102217003165426"
+        },
+        {
+          "title": "‘스페이스X 0주’ 사과 넉 달…미래에셋증권 고객 보상 머뭇대는 까닭",
+          "source": "일요신문",
+          "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513294"
+        }
+      ]
+    },
+    {
+      "title": "颱風動態",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 16:00:00 -0700",
+      "news": []
+    },
+    {
       "title": "조세",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Fri, 23 Oct 2026 15:50:00 -0700",
       "news": []
     },
@@ -20,14 +148,14 @@
           "url": "https://www.chosun.com/economy/industry-company/2026/10/24/RRVVEJ425NBCDFJ44SNCALOZ5E/"
         },
         {
-          "title": "HD현대, 美조선소 건립은 인수 실패 탓… 투자 지역·규모도 미정 [biz-플러스]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105554"
+          "title": "美 조선업 재건 뛰어든 K조선…HD현대·한화, 현지 생산 '박차'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838882"
         },
         {
-          "title": "HD현대, 키윗과 美 조선산업 재건 나선다",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719469"
+          "title": "HD현대, 미국에 합작 조선소 설립…1천500억불 마스가 승부수(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023054151003"
         }
       ]
     },
@@ -50,155 +178,6 @@
           "title": "Skuld names new underwriting chief and CFO",
           "source": "Business Insurance",
           "url": "https://www.businessinsurance.com/skuld-names-new-underwriting-chief-and-cfo/"
-        }
-      ]
-    },
-    {
-      "title": "서울날씨",
-      "approx_traffic": "100000+",
-      "published": "Fri, 23 Oct 2026 15:40:00 -0700",
-      "news": [
-        {
-          "title": "태풍 참피 북상…제주·남부 강한 비[내일 날씨]",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=06392726645615872&mediaCodeNo=257"
-        },
-        {
-          "title": "태풍 ‘참피’ 영향 제주·남해안 강한 비···서울 낮 21도",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610240738001"
-        },
-        {
-          "title": "[뉴스9 날씨] 주말, 남부·제주 비바람…제주 최대 250mm↑",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694004"
-        }
-      ]
-    },
-    {
-      "title": "선수",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 15:30:00 -0700",
-      "news": [
-        {
-          "title": "“돌연 생리 터졌는데도 완주”…쉬쉬하던 女선수들 달라진 이유",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25471632"
-        },
-        {
-          "title": "'피범벅 운동화' 이어 '생리통 투혼'…韓 마라톤, 또 울림",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6594086"
-        },
-        {
-          "title": "'레이스 중 생리 터졌다!' 투혼으로 완주한 박서연…팬들 갑론을박 \"멋있다!\" VS \"큰일 당하면 어쩌려고\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112896184"
-        }
-      ]
-    },
-    {
-      "title": "스마트 폰",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "1분 만에 품절된 아이폰 듀오, 지금 주문해도 내년에 받는다고?",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3775_3_C1"
-        },
-        {
-          "title": "아이폰 듀오, 출시 첫날부터 품귀…“공급망 준비 안 돼”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694196"
-        },
-        {
-          "title": "\"아이폰 듀오 구매하면 아이패드 또는 애플워치 무료\"",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261023011632751"
-        }
-      ]
-    },
-    {
-      "title": "신애라",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "\"새 식구 생겨\"' 신애라♥차인표, 며느리 언급…\"가족 모습 달라져\" ('애라네')",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261023091808265"
-        },
-        {
-          "title": "'차인표♥' 신애라, 아찔한 차량 '사고' 깜짝…\"정말 놀랐다\" ('애라네') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/24/MI3TMYLBHFTDCY3GMVSWKNLGMU/"
-        },
-        {
-          "title": "'차인표♥' 신애라, 다 큰 아들·입양 딸 성장에 울컥 \"너무 빨리 자라\" (신애라이프)",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2210881"
-        }
-      ]
-    },
-    {
-      "title": "강예원",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "강예원, 부친 빚 10억에 눈물…\"집 내놓고 엄마 집으로\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102319377"
-        },
-        {
-          "title": "강예원, 고인인 부친 빚 상환 위에 살던 집 처분한다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610231750003"
-        },
-        {
-          "title": "강예원, 돌아가신 아버지 11억 빚 고백 후 집 내놨다…\"20년 만에 엄마 집으로\"",
-          "source": "TopStarNews",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16256197"
-        }
-      ]
-    },
-    {
-      "title": "코어장전",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 15:10:00 -0700",
-      "news": [
-        {
-          "title": "[롤드컵] '코어장전' 조용인, \"스위스 스테이지 벽 부수고 싶다\"",
-          "source": "데일리e스포츠",
-          "url": "https://www.dailyesports.com/view.php?ud=20261023014102731b91e133c1f_27"
-        },
-        {
-          "title": "‘코어장전’ 조용인 “올해 LCS 강해⋯8강 진출 자신”",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/20261023500007"
-        }
-      ]
-    },
-    {
-      "title": "당구",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 15:00:00 -0700",
-      "news": [
-        {
-          "title": "조재호도 64강 문턱서 고배…PBA 5차 투어, 강호들 잇단 탈락에 이변 확산",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845158"
-        },
-        {
-          "title": "'당구 여제' 김가영, LPBA 5차 투어 8강행…정수빈은 탈락",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003837849"
-        },
-        {
-          "title": "\"언니 잘 좀 해봐\" 자극 받았나, 김보미 극적 8강 진출... 정작 우승자 정수빈은 '승승패패패' 16강서 탈락 [PBA 투어] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/23/2026102309452976520"
         }
       ]
     }
