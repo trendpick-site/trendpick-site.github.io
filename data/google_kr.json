@@ -1,27 +1,115 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T19:08:12+00:00",
+  "fetched_at": "2026-10-24T19:31:58+00:00",
   "items": [
+    {
+      "title": "프리미어리그",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 11:20:00 -0700",
+      "news": [
+        {
+          "title": "프리미어 리그 리버풀 대 브라이튼 점수 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-liverpool-vs-brighton-tai-premier-league-1788534.ldo"
+        },
+        {
+          "title": "리버풀 대 브라이튼 경기 프리뷰 및 예측: 막강한 공격력을 자랑하는 두 팀의 맞대결.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-du-doan-tran-dau-liverpool-vs-brighton-dai-chien-giua-hai-hang-cong"
+        },
+        {
+          "title": "프리미어 리그 첼시 대 토트넘 생중계 링크",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-chelsea-vs-tottenham-tai-premier-league-1788618.ldo"
+        }
+      ]
+    },
+    {
+      "title": "pl",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 11:10:00 -0700",
+      "news": [
+        {
+          "title": "Niesprawne czołgi w Braniewie? Agencja Uzbrojenia odpowiada",
+          "source": "Defence24",
+          "url": "https://defence24.pl/sily-zbrojne/niesprawne-czolgi-w-braniewie-agencja-uzbrojenia-odpowiada"
+        },
+        {
+          "title": "Polskie czołgi K2 na straży strategicznego odcinka granicy z Rosją. Co z usterkami maszyn?",
+          "source": "Zero.pl",
+          "url": "https://zero.pl/news/polskie-czolgi-k2-na-strazy-strategicznego-odcinka-granicy-z-rosja-co-z-usterkami-maszyn"
+        },
+        {
+          "title": "Czołgi za miliardy dla Polski popsute. Ok. 30 maszyn do naprawy. MON reaguje",
+          "source": "wnp.pl",
+          "url": "https://www.wnp.pl/bezpieczenstwo/czolgi-za-miliardy-dla-polski-popsute-ok-30-maszyn-do-naprawy-mon-reaguje,1112584.html"
+        }
+      ]
+    },
+    {
+      "title": "lcp",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 11:10:00 -0700",
+      "news": [
+        {
+          "title": "TSW Eddie: \"Every Time We Go To Worlds, There's Always Something Missing.\"",
+          "source": "Hotspawn",
+          "url": "https://www.hotspawn.com/league-of-legends/news/tsw-eddie-worlds-2026-interview"
+        },
+        {
+          "title": "Worlds 2026: LYON Overcome Early Chaos to Stomp Team Secret Whales into 1-0 Bracket",
+          "source": "EGamersWorld",
+          "url": "https://egamersworld.com/lol/news/37999/lyon-punish-team-secret-whales-to-close-out-worlds-aFBXTW8wn"
+        },
+        {
+          "title": "TSW Eddie: \"Vietnamese teams are not just trying to win the LCP anymore\"",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/articles/tsw-eddie-vietnamese-teams-are-not-just-trying-to-win-the-lcp-anymore/en"
+        }
+      ]
+    },
+    {
+      "title": "เชลซี พบ สเปอร์ส",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 11:10:00 -0700",
+      "news": [
+        {
+          "title": "การคาดการณ์ผลการแข่งขันระหว่างเชลซีกับท็อตแนม: สถิติการพบกันเป็นข้อได้เปรียบที่สำคัญ",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-chelsea-vs-tottenham-diem-tua-tu-thanh-tich-doi-dau"
+        },
+        {
+          "title": "~^$+√#™(PPTV HD 36) ดู ทีมชาติสเปอร์ส พบ เชลซี ถ่ายทอดสดฟุตบอลวันนี้ ฟีฟ่า อาเซียน คัพ",
+          "source": "FC東京オフィシャルホームページ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2h1bWF5cmFrdGVyLmdpdGh1Yi5pby92aWRlby9zLnhtbCIvPjwva3JwYW5vPg==&id=video-chelsea-vs-spurs-liv-tid-01"
+        },
+        {
+          "title": "\"ไก่เดือยทอง\" แรงไม่หยุดบุกจิก \"สิงห์สำอาง\" 10 ตัวถึงถ้ำ",
+          "source": "เดลินิวส์",
+          "url": "https://www.dailynews.co.th/news/6302220/"
+        }
+      ]
+    },
     {
       "title": "cfo",
       "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 10:50:00 -0700",
       "news": [
         {
-          "title": "Forgent Power Solutions Shares Plunge as CFO Exits Less Than a Year After IPO",
-          "source": "BigGo Finance",
-          "url": "https://finance.biggo.com/news/0de482ef-daae-4c17-8d71-ae3d0c76da67"
+          "title": "Skuld names new underwriting chief and CFO",
+          "source": "Business Insurance",
+          "url": "https://www.businessinsurance.com/skuld-names-new-underwriting-chief-and-cfo/"
         },
         {
-          "title": "FPS Stock Plunges To Record Low, Falls Below IPO Price After CFO Ryan Fiedler's Exit",
-          "source": "TradingView",
-          "url": "https://fr.tradingview.com/news/stocktwits:56733c67d094b:0-fps-stock-plunges-to-record-low-falls-below-ipo-price-after-cfo-ryan-fiedler-s-exit/"
+          "title": "Skuld Positions Organisation for Future Growth",
+          "source": "The Maritime Executive",
+          "url": "https://maritime-executive.com/corporate/skuld-positions-organisation-for-future-growth"
         },
         {
-          "title": "Forgent Power CFO leaves after a year",
-          "source": "CFO Dive",
-          "url": "https://www.cfodive.com/news/forgent-power-cfo-leaves-one-year-ipo-comp/833872/"
+          "title": "Positioning Skuld for future growth",
+          "source": "Cyprus Shipping News",
+          "url": "https://cyprusshippingnews.com/2026/10/23/positioning-skuld-for-future-growth/"
         }
       ]
     },
@@ -87,6 +175,28 @@
       ]
     },
     {
+      "title": "헐크",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 10:00:00 -0700",
+      "news": [
+        {
+          "title": "How The Infernal Hulk vs. The Avengers Sets Up a Massive 2027 Crossover",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/how-the-infernal-hulk-vs-the-avengers-sets-up-a-massive-2027-crossover"
+        },
+        {
+          "title": "The Infernal Hulk vs. The Avengers",
+          "source": "IGN Nordic",
+          "url": "https://nordic.ign.com/the-infernal-hulk-vs-the-avengers"
+        },
+        {
+          "title": "Mark Ruffalo says he’ll ‘Hulk out’ over voting rights",
+          "source": "KARK",
+          "url": "https://www.kark.com/news/national-news/mark-ruffalo-says-hell-hulk-out-over-voting-rights/?nxsparam=1"
+        }
+      ]
+    },
+    {
       "title": "볼카노프스키",
       "approx_traffic": "100+",
       "published": "Sat, 24 Oct 2026 09:00:00 -0700",
@@ -105,111 +215,6 @@
           "title": "볼카노프스키, ‘20승 도전자’ 넘고 페더급 GOAT 될까",
           "source": "서울경제",
           "url": "https://www.sedaily.com/article/20105460"
-        }
-      ]
-    },
-    {
-      "title": "chelsea vs spurs",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 08:50:00 -0700",
-      "news": [
-        {
-          "title": "Chelsea 0-2 Tottenham: Cole Palmer is sent off as Spurs stun Stamford Bridge",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cwj0l7zr4pd9t"
-        },
-        {
-          "title": "Premier League - Chelsea v Tottenham Hotspur",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/premier-league-chelsea-v-tottenham-hotspur/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQU8xRUc5V0s"
-        },
-        {
-          "title": "Match report: Chelsea 0-2 Tottenham Hotspur | News | Official Site",
-          "source": "Chelsea Football Club",
-          "url": "https://www.chelseafc.com/en/news/article/match-report-chelsea-0-2-tottenham-hotspur"
-        }
-      ]
-    },
-    {
-      "title": "황희찬",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 08:40:00 -0700",
-      "news": [
-        {
-          "title": "[분데스·리뷰] ‘韓 국대’ 황희찬, 눈도장 찍을 절호의 기회→0공포로 마무리···샬케04 이적 후 첫 선발, ...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610250141003"
-        },
-        {
-          "title": "대표팀 92-96 갈등?…이재성, 황희찬과 다정한 근황 \"아프지 말자\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/23/2026102308294438574"
-        },
-        {
-          "title": "\"황희찬, 최전방 스트라이커 선발 예상!\" 韓 국가대표 HWANG, 드디어 기회 왔다...\"첫 선발 출격 가능성 높아\"",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553641200"
-        }
-      ]
-    },
-    {
-      "title": "유영우",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 08:40:00 -0700",
-      "news": [
-        {
-          "title": "‘전참시’ 유영우, 대학 축제 섭외에 당황 “뭔가 잘못됐다”",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522308"
-        },
-        {
-          "title": "유영우, 리센느 원이와 함께 탄 차인데..문콕 당하고 상심 \"범인 못 찾아\"(전참시)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/GFQWGNRSGBRWMZDFGFQTIZBSME/"
-        },
-        {
-          "title": "유영우, ‘역대급 짠돌이’ 매니저 등장…냉장고·세탁기도 없다 (전참시)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261023/134894485/1"
-        }
-      ]
-    },
-    {
-      "title": "내 새끼의 연애",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 08:40:00 -0700",
-      "news": [
-        {
-          "title": "이종혁 아들 이준수, 전희철 딸 전지우와 데이트…“겹사돈?” (내새끼의연애3)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261023/134896455/1"
-        },
-        {
-          "title": "전희철 둘째 딸 미모에 이종혁 아들 \"너무 예뻐\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003839083"
-        }
-      ]
-    },
-    {
-      "title": "첼시 대 토트넘",
-      "approx_traffic": "20000+",
-      "published": "Sat, 24 Oct 2026 08:30:00 -0700",
-      "news": [
-        {
-          "title": "프리미어 리그 첼시 대 토트넘 생중계 링크",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-chelsea-vs-tottenham-tai-premier-league-1788618.ldo"
-        },
-        {
-          "title": "첼시-토트넘 경기에서 실시간 얼굴인식 시스템 가동…범죄 예방인가, 관중 감시인가",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610221358003"
-        },
-        {
-          "title": "프리미어리그: ‘2연승’ 첼시, 안방서 토트넘 상대로 리그 첫 3연승 도전",
-          "source": "티스토리",
-          "url": "https://sbotopkr.tistory.com/2638"
         }
       ]
     }
