@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T06:05:35+00:00",
+  "fetched_at": "2026-10-24T06:42:31+00:00",
   "items": [
+    {
+      "title": "최태원",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 22:20:00 -0700",
+      "news": [
+        {
+          "title": "을지로 뜬 최태원, 깜짝 회식…SK하이닉스 개미들 반응은",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610221050265rj"
+        },
+        {
+          "title": "소주 즐긴 최태원 '힙지로 회식' 목격담…밝은 표정에 \"주가 기대\"[뉴스럽다]",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6595412"
+        },
+        {
+          "title": "힙지로로… 최태원, 격식 내려놓고 둘러앉아 소맥 '한잔' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/23/2026102219444730559"
+        }
+      ]
+    },
+    {
+      "title": "폴드8",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "삼성전자, 리센느와 손잡고 폴드8 여심 잡기 나선다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023169900017"
+        },
+        {
+          "title": "갤럭시 Z폴드8, 유럽서도 통했다… 전작 대비 판매량 45% ‘껑충’",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1773283"
+        },
+        {
+          "title": "아이폰 듀오가 갤럭시Z폴드8 판매량 늘렸나",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261023134410"
+        }
+      ]
+    },
     {
       "title": "warriors vs grizzlies",
       "approx_traffic": "100+",
@@ -14,20 +58,20 @@
           "url": "https://www.mk.co.kr/en/sports/12184798"
         },
         {
-          "title": "Cedric Coward Injury: Won't play Friday",
-          "source": "RotoWire",
-          "url": "https://www.rotowire.com/basketball/headlines/cedric-coward-injury-wont-play-friday-535736"
+          "title": "Ty Jerome stays hot, scores 28 points vs. GSW",
+          "source": "NBC Sports",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-24/ty-jerome-stays-hot-scores-28-points-vs-gsw"
         },
         {
-          "title": "Cameron Boozer hits go-ahead jumper with 20 seconds left, Grizzlies rally to beat Warriors 111-108",
-          "source": "ABC30 Fresno",
-          "url": "https://abc30.com/post/cameron-boozer-hits-go-ahead-jumper-20-seconds-left-grizzlies-rally-beat-warriors-111-108/19974815/"
+          "title": "NBA GAMES! Warriors vs Grizzlies Live strea.m NBA, TV channel 2026",
+          "source": "Powell River Peak",
+          "url": "https://www.prpeak.com/classifieds/garage-sales/garage-sales/2158394"
         }
       ]
     },
     {
       "title": "fc 서울 대 강원",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Fri, 23 Oct 2026 21:20:00 -0700",
       "news": [
         {
@@ -41,9 +85,9 @@
           "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024140600Omk"
         },
         {
-          "title": "'후이즈-클리말라 동시 출격' FC서울, '김대원 선발' 강원전 선발 라인업 공개...이기면 우승이다 [오!쎈 서울]",
+          "title": "구성윤, 전반 추가시간 PK 막았다...서울 강원 0-0, 울산 포항 0-2 우승까지 45분 [오!쎈 서울]",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/24/GJTGCNLDGZRDQOBWG4YDCZBZMM/"
+          "url": "https://www.chosun.com/sports/football/2026/10/24/GE3TSZTGGEZDAYTBGRSTAYJSME/"
         }
       ]
     },
@@ -55,9 +99,25 @@
     },
     {
       "title": "인천 대 제주",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Fri, 23 Oct 2026 21:20:00 -0700",
-      "news": []
+      "news": [
+        {
+          "title": "'오늘 우리 영광을 위해' 인천 팬들, '파이널A 걸린' 제주전 앞두고 '버스 맞이' 응원 [인천 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/24/2026102411191697138"
+        },
+        {
+          "title": "'이기면 파이널A 진출' 인천, 제주전 무고사-이청용 투톱 출격 [인천 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/24/2026102411195725741"
+        },
+        {
+          "title": "[그래도 K리그] ‘이겨야 산다’ 윤정환 vs ‘비겨도 간다’ 코스타...파이널A '빅뱅'",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/soccer/2379512.htm"
+        }
+      ]
     },
     {
       "title": "낚시",
@@ -92,14 +152,14 @@
           "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172654"
         },
         {
-          "title": "삼성전기, 4분기 영업익 8천억 돌파 전망 By 알파경제 alphabiz",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2138558"
-        },
-        {
           "title": "[단독] 빅테크, 첨단기판 못구해 발동동 … 韓·日공장 증설에 돈 쏟아부어",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/news/business/12183246"
+        },
+        {
+          "title": "부산에 엔비디아 전용 생산라인 선다(종합)",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261023.22008006709"
         }
       ]
     },
@@ -109,19 +169,19 @@
       "published": "Fri, 23 Oct 2026 21:10:00 -0700",
       "news": [
         {
-          "title": "김천상무, 대전 상대로 정규라운드 유종의 미 도전!",
-          "source": "데일리대구경북뉴스",
-          "url": "https://www.dailydgnews.com/news/article.html?no=266752"
+          "title": "[현장목소리] \"최대한 높은 곳까지 가보겠다\" 대전 황선홍 감독, 정규 시즌 '마지막 라운드' 김천전 앞두고 '의지 활활'",
+          "source": "Your Field",
+          "url": "https://yourfield.nexon.com/today/view/2025052909553641111?type=all"
+        },
+        {
+          "title": "김천상무, 대전과 정규라운드 마지막 경기…할로윈 홈경기 이벤트 진행",
+          "source": "웹이코노미",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2344688"
         },
         {
           "title": "김천상무, '든든한 동반자' 후원회 후원금 전달식 진행:중수청일보",
           "source": "중수청일보",
           "url": "https://unionilbo.com/2228778"
-        },
-        {
-          "title": "[현장목소리] \"최대한 높은 곳까지 가보겠다\" 대전 황선홍 감독, 정규 시즌 '마지막 라운드' 김천전 앞두고 '의지 활활'",
-          "source": "Your Field",
-          "url": "https://yourfield.nexon.com/today/view/2025052909553641111?type=all"
         }
       ]
     },
@@ -131,63 +191,19 @@
       "published": "Fri, 23 Oct 2026 21:10:00 -0700",
       "news": [
         {
-          "title": "삼성전자 노조, 합의 5개월 만에 ‘반도체 성과급’ 개선 요구 반영 추진… 개선안 81% 찬성 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/10/22/6G33IGWRFNAFTMBSTTNHKHXQTE/"
+          "title": "삼성전자 전영현·노태문, '투톱 겸직' 바뀔까…메모리·MX 수장 인선 촉각",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417900"
         },
         {
-          "title": "삼성 DX 타운홀 돌연 연기…성과급 격차가 키운 '노사 리스크'",
+          "title": "[ET톡] '호황' 속 재계 인사, 불황의 청구서까지 내다봐야",
           "source": "전자신문",
-          "url": "https://www.etnews.com/20261020000388"
+          "url": "https://www.etnews.com/20261021000197"
         },
         {
-          "title": "삼전 초기업노조, DS내 사업부별 성과급 격차 완화 추진…노조 81% 찬성",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05490726645615544"
-        }
-      ]
-    },
-    {
-      "title": "lakers vs clippers",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 21:10:00 -0700",
-      "news": [
-        {
-          "title": "Lakers player grades: Lakers get past Clippers, improve to 2-0",
-          "source": "Lakers Wire",
-          "url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/10/23/lakers-player-grades-lakers-get-past-clippers-improve-to-2-0/92411390007/"
-        },
-        {
-          "title": "How to watch Lakers vs Clippers: NBA, live stream, TV channel",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/watch-lakers-vs-clippers-nba-010000107.html"
-        },
-        {
-          "title": "Clippers Lakers Basketball",
-          "source": "Corsicana Daily Sun",
-          "url": "https://www.corsicanadailysun.com/sports/national_sports/clippers-lakers-basketball/image_7d2915a7-7223-53c7-8140-b598dd69d605.html"
-        }
-      ]
-    },
-    {
-      "title": "성심당",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "‘성심당 싹쓸이 논란’ 이지혜, 유튜브로 본격해명… 스태프 몫 합쳐 ‘총 7개’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610230006003"
-        },
-        {
-          "title": "이지혜, 성심당 '싹쓸이 논란' 직접 나섰다…영상 공개하며 '억울함' 토로 ('관종언니')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/MQ4DMMZSHFSGCYJWGMZDAMRWHA/"
-        },
-        {
-          "title": "이지혜, 성심당 케이크 7개 싹쓸이 논란?…“억울합니다”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261022/134893754/1"
+          "title": "[정해균의 Zoom-人] ‘각양강색’ 전문경영인 부회장...사업 총괄부터 회장 보좌까지",
+          "source": "뉴스인사이드",
+          "url": "https://www.newsinside.kr/news/articleView.html?idxno=5031215"
         }
       ]
     }
