@@ -1,8 +1,118 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T04:38:50+00:00",
+  "fetched_at": "2026-10-24T05:08:25+00:00",
   "items": [
+    {
+      "title": "성심당",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 21:00:00 -0700",
+      "news": [
+        {
+          "title": "‘성심당 싹쓸이 논란’ 이지혜, 유튜브로 본격해명… 스태프 몫 합쳐 ‘총 7개’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610230006003"
+        },
+        {
+          "title": "이지혜, 성심당 '싹쓸이 논란' 직접 나섰다…영상 공개하며 '억울함' 토로 ('관종언니')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/MQ4DMMZSHFSGCYJWGMZDAMRWHA/"
+        },
+        {
+          "title": "이지혜, 성심당 케이크 7개 싹쓸이 논란?…“억울합니다”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261022/134893754/1"
+        }
+      ]
+    },
+    {
+      "title": "신상출시 편스토랑",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 21:00:00 -0700",
+      "news": [
+        {
+          "title": "도경완, '120억 집' 관리비에 한숨…\"애들 변기 물도 못 내리게 해\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102411282968011"
+        },
+        {
+          "title": "“괜히 들어갔네” 도경완도 물렸다…고점 대비 89% 폭락한 이 상품",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02578086645615872&mediaCodeNo=257"
+        },
+        {
+          "title": "“하닉 왜 빠져” 도경완, 하닉 레버리지 수익률 -40% 공개",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625645"
+        }
+      ]
+    },
+    {
+      "title": "오윤아",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 21:00:00 -0700",
+      "news": [
+        {
+          "title": "'재혼' 오윤아, 웨딩드레스 자태 공개…\"고마워 여보\" 애정 과시 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102410563470516"
+        },
+        {
+          "title": "'재혼' 오윤아 웨딩드레스 입었다, 완벽 몸매·미모…\"고마워, 여보\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6329334"
+        },
+        {
+          "title": "이혼의 흉터를 훈장으로 바꾼 오윤아·최정윤·강성연의 ‘인생 리빌딩’",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260707520754"
+        }
+      ]
+    },
+    {
+      "title": "typhoon champi",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 20:50:00 -0700",
+      "news": [
+        {
+          "title": "Typhoon Champi forces concert postponements in Taiwan, including Jessica and PLAVE - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-entertainment/2026/10/24/IQWAFCGS4VDFPIF6PIIE6D3DFY/"
+        },
+        {
+          "title": "Typhoon Champhii (No. 30) moves from Taiwan to Japan...Rain expected mainly in southern Korea this weekend",
+          "source": "뉴스웍스",
+          "url": "https://www.newsworks.co.kr/en/articleView.html?idxno=900544"
+        },
+        {
+          "title": "'94 Injured' Typhoon Champi Passes Taiwan, Heads for Japan: \"Winds Strong Enough to Overturn Trucks\"",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/2026102319345404584"
+        }
+      ]
+    },
+    {
+      "title": "fc서울",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 20:40:00 -0700",
+      "news": [
+        {
+          "title": "'이기면 우승' FC서울 김기동 감독, 두 손 쥐고 \"오늘 끝내길\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024031000007"
+        },
+        {
+          "title": "'후이즈-클리말라 동시 출격' FC서울, '김대원 선발' 강원전 선발 라인업 공개...이기면 우승이다 [오!쎈 서울]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/10/24/GJTGCNLDGZRDQOBWG4YDCZBZMM/"
+        },
+        {
+          "title": "미운 오리에서 백조로…클리말라, 우승·득점왕 정조준",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261023232355Swv"
+        }
+      ]
+    },
     {
       "title": "이라크",
       "approx_traffic": "200+",
@@ -53,25 +163,25 @@
       "published": "Fri, 23 Oct 2026 19:50:00 -0700",
       "news": [
         {
-          "title": "뮌헨 콩파니 감독, 훈련장서 쓰러져 병원행…'안정적 상태'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024012200007"
-        },
-        {
-          "title": "'충격' 국가대표 수비수 김민재 사령탑, 훈련 중 갑자기 쓰러졌다→긴급 병원 이송... 뮌헨 공식 성명 - 머니투데이",
+          "title": "\"우승 잔칫집이지만 우리도 목표 있다\" 정경호 강원 감독, FC서울 우승 확정 저지 선언...\"상암 징크스 깨겠다\" [현장 인터뷰] - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/24/2026102408554051661"
+          "url": "https://www.mt.co.kr/sports/2026/10/24/202610241246772230O"
         },
         {
-          "title": "[공식발표] \"몸이 그만하라고 했다\" 콤파니 감독의 안타까운 고백, 결국 현실로...훈련장서 갑자기 쓰러져 병원 긴급 이송 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/football/2026/10/24/MY3TANRWGQ3TAZBTHFSWEOJUMY/"
+          "title": "주말 인천과 단두대 매치.. 제주SK \"반드시 파이널A 간다\"",
+          "source": "한라일보",
+          "url": "https://m.ihalla.com/article.php?aid=1792723663791947051"
+        },
+        {
+          "title": "정규 라운드 최종전 돌입하는 K리그…시즌 MVP 경쟁도 ‘후끈’",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105454"
         }
       ]
     },
     {
       "title": "한국대학신문",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Fri, 23 Oct 2026 19:40:00 -0700",
       "news": [
         {
@@ -105,111 +215,6 @@
           "title": "[온라인 라운지]교통안전공단, 김천김밥축제에서 교통안전 캠페인",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Society/article/all/20261023/134898128/1"
-        }
-      ]
-    },
-    {
-      "title": "typhoon champi (rosal)",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 19:30:00 -0700",
-      "news": [
-        {
-          "title": "Typhoon Champi sweeps past Taiwan, leaving 1 dead, 500 injured",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/environment/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured-2026-10-24/"
-        },
-        {
-          "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china"
-        },
-        {
-          "title": "Typhoon Champi shuts down Taiwan",
-          "source": "Taipei Times",
-          "url": "https://www.taipeitimes.com/News/front/archives/2026/10/24/2003866521"
-        }
-      ]
-    },
-    {
-      "title": "태풍 참피",
-      "approx_traffic": "20000+",
-      "published": "Fri, 23 Oct 2026 19:20:00 -0700",
-      "news": [
-        {
-          "title": "태풍 참피, 대만 이어 日열도로…\"트럭 전복 수준 강풍\" 우려(종합2보)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023090952009"
-        },
-        {
-          "title": "한라산에 139㎜ 폭우…여객선 일부 결항",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024111026mlj"
-        },
-        {
-          "title": "태풍 영향권 남부·제주 강한 비바람...\"피해 대비해야\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202610241054106544"
-        }
-      ]
-    },
-    {
-      "title": "연합 인 포맥스",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 19:20:00 -0700",
-      "news": [
-        {
-          "title": "금감원, '해외주식 현금성 마케팅' 원천 금지 추진",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440870"
-        },
-        {
-          "title": "\"국내 증시 급락은 적정 가격 찾는 과정…AI 버블 증거 부족\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440935"
-        },
-        {
-          "title": "실적 좋은데도 미장보다 더 크게 빠지는 국장…전문가 원인 분석은",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/stock/12184712"
-        }
-      ]
-    },
-    {
-      "title": "홍건희",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 19:10:00 -0700",
-      "news": [
-        {
-          "title": "프로야구 KIA, 고종욱·이창진·홍건희·김대유 방출",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023104200007"
-        },
-        {
-          "title": "'아직 35살인데' 65억 FA 보상선수 방출 왜? 넥센→SK→KT→LG→KIA, 16년 저니맨 라이프 중단 위기다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/24/MU4DSZDFMNSDQZTBGVRTGYTBMI/"
-        },
-        {
-          "title": "연봉 6억5000만원 받았는데, 고작 4이닝 던지고 방출…왜 15억 옵트 아웃 대모험 선택했었나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/24/202610232010776941O"
-        }
-      ]
-    },
-    {
-      "title": "캐시워크 정답",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 19:00:00 -0700",
-      "news": [
-        {
-          "title": "소이비랩 저당 검은콩두유 캐시워크 돈 버는 퀴즈, 정답은?",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20261022110443721"
-        },
-        {
-          "title": "[캐시워크 종합] 10월 23일 금요일 오전 9시 현재 출제되고 있는 모든 문제들의 정답은?",
-          "source": "비즈월드",
-          "url": "https://www.bizwnews.com/news/articleView.html?idxno=149759"
         }
       ]
     }
