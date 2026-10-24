@@ -1,11 +1,55 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T19:31:58+00:00",
+  "fetched_at": "2026-10-24T19:58:22+00:00",
   "items": [
     {
+      "title": "아틀레티코",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 11:40:00 -0700",
+      "news": [
+        {
+          "title": "이강인, 챔피언스리그 결장 후 라리가 선발 복귀…아틀레티코는 선두 추격 도전",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845223"
+        },
+        {
+          "title": "'대반전' 부상이라던 이강인, UCL 결장→단 4일 만에 선발 복귀 확정...시메오네, 라리가 6연승 도전 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/25/202610250401774133O"
+        },
+        {
+          "title": "한 달 넘게 침묵 중인 이강인, 데포르티보전서 공격포인트 정조준",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838811"
+        }
+      ]
+    },
+    {
+      "title": "losene keita",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 11:30:00 -0700",
+      "news": [
+        {
+          "title": "« Personne ne croyait en moi » : de « petit ami de Miss Belgique » en prison à star du MMA, le destin fabuleux de Losene Keita",
+          "source": "Le Parisien",
+          "url": "https://www.leparisien.fr/sports/mma/personne-ne-croyait-en-moi-de-petit-ami-de-miss-belgique-en-prison-a-star-du-mma-le-destin-fabuleux-de-losene-keita-24-10-2026-4JAVZLIBTJARZKQOQYUQ2NGQDU.php"
+        },
+        {
+          "title": "Losene Keita tombe dès le 1er round par TKO face à Aaron Pico lors de l’UFC 333",
+          "source": "ActuMMA",
+          "url": "https://www.actumma.com/losene-keita-tombe-des-le-1er-round-par-tko-face-a-aaron-pico-lors-de-lufc-333/194116/"
+        },
+        {
+          "title": "Aaron Pico affirme être \"très bien préparé\" pour un combat imprévu contre Losene Keita à l'UFC 333",
+          "source": "Boxemag",
+          "url": "https://boxemag.ouest-france.fr/ufc/aaron-pico-affirme-etre-tres-bien-prepare-pour-un-combat-imprevu-contre-losene-keita-a-lufc-333/"
+        }
+      ]
+    },
+    {
       "title": "프리미어리그",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sat, 24 Oct 2026 11:20:00 -0700",
       "news": [
         {
@@ -26,37 +70,10 @@
       ]
     },
     {
-      "title": "pl",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 11:10:00 -0700",
-      "news": [
-        {
-          "title": "Niesprawne czołgi w Braniewie? Agencja Uzbrojenia odpowiada",
-          "source": "Defence24",
-          "url": "https://defence24.pl/sily-zbrojne/niesprawne-czolgi-w-braniewie-agencja-uzbrojenia-odpowiada"
-        },
-        {
-          "title": "Polskie czołgi K2 na straży strategicznego odcinka granicy z Rosją. Co z usterkami maszyn?",
-          "source": "Zero.pl",
-          "url": "https://zero.pl/news/polskie-czolgi-k2-na-strazy-strategicznego-odcinka-granicy-z-rosja-co-z-usterkami-maszyn"
-        },
-        {
-          "title": "Czołgi za miliardy dla Polski popsute. Ok. 30 maszyn do naprawy. MON reaguje",
-          "source": "wnp.pl",
-          "url": "https://www.wnp.pl/bezpieczenstwo/czolgi-za-miliardy-dla-polski-popsute-ok-30-maszyn-do-naprawy-mon-reaguje,1112584.html"
-        }
-      ]
-    },
-    {
       "title": "lcp",
       "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 11:10:00 -0700",
       "news": [
-        {
-          "title": "TSW Eddie: \"Every Time We Go To Worlds, There's Always Something Missing.\"",
-          "source": "Hotspawn",
-          "url": "https://www.hotspawn.com/league-of-legends/news/tsw-eddie-worlds-2026-interview"
-        },
         {
           "title": "Worlds 2026: LYON Overcome Early Chaos to Stomp Team Secret Whales into 1-0 Bracket",
           "source": "EGamersWorld",
@@ -66,12 +83,39 @@
           "title": "TSW Eddie: \"Vietnamese teams are not just trying to win the LCP anymore\"",
           "source": "Sheep Esports",
           "url": "https://www.sheepesports.com/en/articles/tsw-eddie-vietnamese-teams-are-not-just-trying-to-win-the-lcp-anymore/en"
+        },
+        {
+          "title": "Lcp: Team Secret Whales vs. LYON closes day one of the 2026 Worlds Swiss Stage",
+          "source": "شبكة تواصل الإخبارية",
+          "url": "https://twaslnews1.twaslnews.com/6491664/"
+        }
+      ]
+    },
+    {
+      "title": "pl",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 11:10:00 -0700",
+      "news": [
+        {
+          "title": "Bogdan Borusewicz w Kijowie: jestem dziś tutaj, żeby ci ludzie nie czuli się osamotnieni",
+          "source": "Polska Agencja Prasowa SA",
+          "url": "https://www.pap.pl/aktualnosci/bogdan-borusewicz-w-kijowie-jestem-dzis-tutaj-zeby-ci-ludzie-nie-czuli-sie-osamotnieni"
+        },
+        {
+          "title": "Niesprawne czołgi w Braniewie? Agencja Uzbrojenia odpowiada",
+          "source": "Defence24",
+          "url": "https://defence24.pl/sily-zbrojne/niesprawne-czolgi-w-braniewie-agencja-uzbrojenia-odpowiada"
+        },
+        {
+          "title": "Polskie czołgi K2 na straży strategicznego odcinka granicy z Rosją. Co z usterkami maszyn?",
+          "source": "Zero.pl",
+          "url": "https://zero.pl/news/polskie-czolgi-k2-na-strazy-strategicznego-odcinka-granicy-z-rosja-co-z-usterkami-maszyn"
         }
       ]
     },
     {
       "title": "เชลซี พบ สเปอร์ส",
-      "approx_traffic": "500+",
+      "approx_traffic": "100+",
       "published": "Sat, 24 Oct 2026 11:10:00 -0700",
       "news": [
         {
@@ -97,19 +141,19 @@
       "published": "Sat, 24 Oct 2026 10:50:00 -0700",
       "news": [
         {
-          "title": "Skuld names new underwriting chief and CFO",
-          "source": "Business Insurance",
-          "url": "https://www.businessinsurance.com/skuld-names-new-underwriting-chief-and-cfo/"
+          "title": "Forgent Power Solutions Shares Plunge as CFO Exits Less Than a Year After IPO",
+          "source": "BigGo Finance",
+          "url": "https://finance.biggo.com/news/0de482ef-daae-4c17-8d71-ae3d0c76da67"
         },
         {
-          "title": "Skuld Positions Organisation for Future Growth",
-          "source": "The Maritime Executive",
-          "url": "https://maritime-executive.com/corporate/skuld-positions-organisation-for-future-growth"
+          "title": "FPS Stock Plunges To Record Low, Falls Below IPO Price After CFO Ryan Fiedler's Exit",
+          "source": "TradingView",
+          "url": "https://fr.tradingview.com/news/stocktwits:56733c67d094b:0-fps-stock-plunges-to-record-low-falls-below-ipo-price-after-cfo-ryan-fiedler-s-exit/"
         },
         {
-          "title": "Positioning Skuld for future growth",
-          "source": "Cyprus Shipping News",
-          "url": "https://cyprusshippingnews.com/2026/10/23/positioning-skuld-for-future-growth/"
+          "title": "Forgent Power CFO leaves after a year",
+          "source": "CFO Dive",
+          "url": "https://www.cfodive.com/news/forgent-power-cfo-leaves-one-year-ipo-comp/833872/"
         }
       ]
     },
@@ -127,6 +171,11 @@
           "title": "보루시아 도르트문트 vs 아인트라흐트 프랑크푸르트 예측: 선두 자리를 노릴 기회",
           "source": "Vietnam.vn",
           "url": "https://www.vietnam.vn/ko/nhan-dinh-borussia-dortmund-vs-eintracht-frankfurt-co-hoi-bam-duoi-ngoi-dau"
+        },
+        {
+          "title": "도르트문트, 프랑크푸르트와 격돌…선두 추격전 : 스포츠",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1047224"
         }
       ]
     },
@@ -171,50 +220,6 @@
           "title": "Bets for National Tight Ends Day: Props and picks for Sunday's games",
           "source": "ESPN",
           "url": "https://www.espn.com/espn/betting/story/_/id/50221073/nfl-week-7-odds-tight-ends-betting-props-preview"
-        }
-      ]
-    },
-    {
-      "title": "헐크",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 10:00:00 -0700",
-      "news": [
-        {
-          "title": "How The Infernal Hulk vs. The Avengers Sets Up a Massive 2027 Crossover",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/how-the-infernal-hulk-vs-the-avengers-sets-up-a-massive-2027-crossover"
-        },
-        {
-          "title": "The Infernal Hulk vs. The Avengers",
-          "source": "IGN Nordic",
-          "url": "https://nordic.ign.com/the-infernal-hulk-vs-the-avengers"
-        },
-        {
-          "title": "Mark Ruffalo says he’ll ‘Hulk out’ over voting rights",
-          "source": "KARK",
-          "url": "https://www.kark.com/news/national-news/mark-ruffalo-says-hell-hulk-out-over-voting-rights/?nxsparam=1"
-        }
-      ]
-    },
-    {
-      "title": "볼카노프스키",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 09:00:00 -0700",
-      "news": [
-        {
-          "title": "'타이틀전 최다승 도전' 볼카노프스키 화끈 도발 \"상대 패닉에 빠질 것... 피니시로 끝내주겠다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/24/2026102411132621685"
-        },
-        {
-          "title": "[격투기] '챔피언' 얀·'도전자' 드발리쉬빌리, 모두 계체량 통과…진정한 맞대결 남아",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261024000057"
-        },
-        {
-          "title": "볼카노프스키, ‘20승 도전자’ 넘고 페더급 GOAT 될까",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105460"
         }
       ]
     }
