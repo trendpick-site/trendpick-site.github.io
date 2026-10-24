@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T18:01:22+00:00",
+  "fetched_at": "2026-10-24T18:37:12+00:00",
   "items": [
+    {
+      "title": "tes",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 10:30:00 -0700",
+      "news": [
+        {
+          "title": "NFL Fantasy 2026 Start 'Em, Sit 'Em: Tight ends for Week 7",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-fantasy-2026-start-em-sit-em-tight-ends-for-week-7"
+        },
+        {
+          "title": "Week 7 Fantasy Football TE Rankings",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-week-7-start-sit-advice-tight-end-153811492.html"
+        },
+        {
+          "title": "Bets for National Tight Ends Day: Props and picks for Sunday's games",
+          "source": "ESPN",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50221073/nfl-week-7-odds-tight-ends-betting-props-preview"
+        }
+      ]
+    },
     {
       "title": "볼카노프스키",
       "approx_traffic": "100+",
@@ -31,19 +53,19 @@
       "published": "Sat, 24 Oct 2026 08:50:00 -0700",
       "news": [
         {
-          "title": "Chelsea–Tottenham: Penders set for test as Maddison remains a doubt · SNA",
-          "source": "Sport News Africa",
-          "url": "https://sportnewsafrica.com/en/news/chelsea-tottenham-penders-maddison-preview-24-october-2026/"
+          "title": "Chelsea 0-2 Tottenham: Cole Palmer is sent off as Spurs stun Stamford Bridge",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cwj0l7zr4pd9t"
         },
         {
-          "title": "Xabi Alonso delivers worrying injury update on in-form Joao Pedro as Chelsea face Tottenham without their top scorer",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-sa/news/xabi-alonso-delivers-worrying-injury-update-in-form-joao-pedro-chelsea-face-tottenham-without-top-scorer/blt43a2369ade99fc5d"
+          "title": "Premier League - Chelsea v Tottenham Hotspur",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/premier-league-chelsea-v-tottenham-hotspur/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQU8xRUc5V0s"
         },
         {
-          "title": "Roberto de Zerbi urges Tottenham Hotspur to use Stamford Bridge record as fuel against Chelsea",
-          "source": "thenational.co.za",
-          "url": "https://thenational.co.za/sport/2026-10-24-roberto-de-zerbi-urges-tottenham-hotspur-to-use-stamford-bridge-record-as-fuel-against-chelsea/"
+          "title": "Roberto De Zerbi reaction: What did Spurs boss say after rousing win at Chelsea?",
+          "source": "NBC Sports",
+          "url": "https://www.nbcsports.com/soccer/news/roberto-de-zerbi-reaction-what-did-spurs-boss-say-after-rousing-win-at-chelsea"
         }
       ]
     },
@@ -141,14 +163,14 @@
           "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99776"
         },
         {
+          "title": "이재성 시즌 1호골 기록…마인츠, 브레멘에 2-3 패배 : 스포츠",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1047108"
+        },
+        {
           "title": "[분데스 REVIEW] 이재성 시즌 1호골 터졌지만 빛바랬다! 추격의 헤더골로 반격 이끌었지만 역부족…마인츠, 브레멘에 2-3 패배",
           "source": "인터풋볼",
           "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697076"
-        },
-        {
-          "title": "[공식발표] ‘11월 A매치 앞두고 모레노호에 반가운 소식!’… 이재성, 브레멘전 선발 출격 확정!",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99770"
         }
       ]
     },
@@ -193,28 +215,6 @@
           "title": "주말에 잠수교서 치킨 먹을까, 김천서 김밥 먹을까…전국 미식 축제 ‘풍성’",
           "source": "www.dt.co.kr",
           "url": "https://www.dt.co.kr/article/12090881"
-        }
-      ]
-    },
-    {
-      "title": "아스날",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 07:40:00 -0700",
-      "news": [
-        {
-          "title": "왜 아스날은 이번 시즌 프리미어 리그에서 코너킥으로 득점하지 못했을까요?",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/vi-sao-arsenal-chua-ghi-ban-tu-phat-goc-tai-premier-league-mua-nay-1788514.ldo"
-        },
-        {
-          "title": "프리미어 리그 아스날 대 에버튼 점수 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-arsenal-vs-everton-tai-premier-league-1787984.ldo"
-        },
-        {
-          "title": "중앙 수비수들이 득점을 기록하며 아스널은 에버튼을 손쉽게 제압했다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/cap-trung-ve-ghi-ban-arsenal-thang-de-everton"
         }
       ]
     }
