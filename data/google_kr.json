@@ -1,22 +1,88 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T15:36:19+00:00",
+  "fetched_at": "2026-10-24T16:05:15+00:00",
   "items": [
+    {
+      "title": "파이널 테이블",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 08:00:00 -0700",
+      "news": [
+        {
+          "title": "오늘 첫 방송 '파이널 테이블', 안효섭은 누굴 위해 진수성찬 차리나? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102413337246340"
+        },
+        {
+          "title": "함재현, '파이널 테이블' 출연…이현균 곁 지키는 수셰프 변신",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261023001173"
+        },
+        {
+          "title": "[사진]정유진, '손하트 멋지게'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896716"
+        }
+      ]
+    },
+    {
+      "title": "잠수교",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 07:50:00 -0700",
+      "news": [
+        {
+          "title": "[르포] “마지막 추억 남기자”… 슈퍼카·오토바이 몰린 잠수교의 밤 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/10/23/HLG7PSAESFHBDHI6NFULH3KXDI/"
+        },
+        {
+          "title": "(카드뉴스) 잠수교! 서울 최초의 한강 보행전용교 된다!",
+          "source": "서울특별시",
+          "url": "https://mediahub.seoul.go.kr/archives/2019818"
+        },
+        {
+          "title": "주말에 잠수교서 치킨 먹을까, 김천서 김밥 먹을까…전국 미식 축제 ‘풍성’",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12090881"
+        }
+      ]
+    },
+    {
+      "title": "아스날",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 07:40:00 -0700",
+      "news": [
+        {
+          "title": "왜 아스날은 이번 시즌 프리미어 리그에서 코너킥으로 득점하지 못했을까요?",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/vi-sao-arsenal-chua-ghi-ban-tu-phat-goc-tai-premier-league-mua-nay-1788514.ldo"
+        },
+        {
+          "title": "아스널 공격수 사카, 허벅지 부상으로 최소 6주 이탈",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024015000007"
+        },
+        {
+          "title": "[EPL] 아스널 사카, 허벅지 부상으로 최소 6주 결장 전망",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261024000029"
+        }
+      ]
+    },
     {
       "title": "ufc",
       "approx_traffic": "2000+",
       "published": "Sat, 24 Oct 2026 07:30:00 -0700",
       "news": [
         {
-          "title": "Volkanovski Eyes Featherweight GOAT Status Against Unbeaten Challenger",
-          "source": "Seoul Economic Daily",
-          "url": "https://en.sedaily.com/sports/2026/10/24/volkanovski-eyes-featherweight-goat-status-against-unbeaten"
-        },
-        {
           "title": "UFC 333 ‘Volkanovski vs. Evloev’ play-by-play, results & round scoring",
           "source": "Sherdog",
           "url": "https://www.sherdog.com/news/news/UFC-333-Volkanovski-vs-Evloev-playbyplay-results-round-scoring-203314"
+        },
+        {
+          "title": "Volkanovski Eyes Featherweight GOAT Status Against Unbeaten Challenger",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/sports/2026/10/24/volkanovski-eyes-featherweight-goat-status-against-unbeaten"
         },
         {
           "title": "UFC 333 Predictions, Odds, Picks, Previews for Every Fight (October 24)",
@@ -27,23 +93,23 @@
     },
     {
       "title": "arsenal",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sat, 24 Oct 2026 07:30:00 -0700",
       "news": [
         {
-          "title": "Arsenal vs Everton: Premier League preview, team news, stats & head-to-head",
+          "title": "Premier League: Gabriel puts Arsenal 2-0 up against Everton, Fulham leading at Coventry",
           "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c6vgj4p7dzd7t"
+          "url": "https://www.bbc.com/sport/football/live/cm4gvy14w7q4t"
         },
         {
-          "title": "Live: Arsenal 1-0 Everton",
-          "source": "Everton FC",
-          "url": "https://www.evertonfc.com/news/2026/october/24/live-blog--arsenal-v-everton/"
+          "title": "Arsenal vs Everton LIVE! Premier League score updates, news, prediction and line-ups",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/13602324/arsenal-vs-everton-live-premier-league-score-updates-news-prediction-and-line-ups"
         },
         {
-          "title": "(((LIVESTREAM!!!))) EFC - Arsenal Match Live streams",
-          "source": "FC東京オフィシャルホームページ",
-          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5bmVwcHkuZ2l0aHViLmlvL2JhYnUvTWF0Y2hjcmFmdC54bWwiLz48L2tycGFubz4=&id=video-efc-arsenal-epl-820"
+          "title": "Team news: Eze one of five changes to face Everton",
+          "source": "Arsenal.com",
+          "url": "https://www.arsenal.com/news/team-news-eze-one-of-five-changes-to-face-everton-aZIZd3e0c1Yj"
         }
       ]
     },
@@ -97,6 +163,11 @@
       "published": "Sat, 24 Oct 2026 07:00:00 -0700",
       "news": [
         {
+          "title": "West Ham United vs Southampton: Championship stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cked35y808jjt"
+        },
+        {
           "title": "West Ham vs Southampton LIVE! Championship match updates, score and free highlights from 5.15pm",
           "source": "Sky Sports",
           "url": "https://www.skysports.com/football/live-blog/13602189/west-ham-vs-southampton-live-championship-match-updates-score-and-free-highlights-from-5-15pm"
@@ -105,11 +176,6 @@
           "title": "Press Conference part two: Eckert previews West Ham",
           "source": "Southampton FC Official Site",
           "url": "https://www.southamptonfc.com/en/video/press-conference-part-two-eckert-previews-west-ham"
-        },
-        {
-          "title": "'You want to be appreciated' – Azaz opens up on his performances ahead of West Ham",
-          "source": "Daily Echo",
-          "url": "https://www.dailyecho.co.uk/sport/26658555.southamptons-azaz-opens-performances-ahead-west-ham-trip/"
         }
       ]
     },
@@ -149,72 +215,6 @@
           "title": "Away improvement down to choosing right tools - Matos",
           "source": "Yahoo Sports",
           "url": "https://sports.yahoo.com/articles/away-improvement-down-choosing-tools-065626654.html"
-        }
-      ]
-    },
-    {
-      "title": "arsenal đấu với everton",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 07:00:00 -0700",
-      "news": [
-        {
-          "title": "Trực tiếp bóng đá Arsenal - Everton: \"Pháo thủ\" lấn lướt (Ngoại hạng Anh)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-arsenal-everton-phao-thu-quyet-gianh-3-diem-ngoai-hang-anh-c48a1805322.html"
-        },
-        {
-          "title": "Dự đoán vòng 8 Premier League: Man City đối mặt cạm bẫy, Arsenal dễ thắng Everton",
-          "source": "BÁO SÀI GÒN GIẢI PHÓNG",
-          "url": "https://thethao.sggp.org.vn/du-doan-vong-8-premier-league-man-city-doi-mat-cam-bay-arsenal-de-thang-everton-post878117.html"
-        },
-        {
-          "title": "Trực tiếp trước trận Arsenal vs Everton, Chelsea vs Tottenham, Aston Villa vs Man City",
-          "source": "Tạp chí Bóng đá",
-          "url": "https://bongdaplus.vn/video/truc-tiep-truoc-tran-arsenal-vs-everton-chelsea-vs-tottenham-aston-villa-vs-man-city-1030272610.html"
-        }
-      ]
-    },
-    {
-      "title": "반계리 은행나무",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 07:00:00 -0700",
-      "news": [
-        {
-          "title": "홍천·영월·삼척·횡성, 태맥 등 다채로운 가을 축제와 문화 행사 '풍성'",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/article/2026102310211219292"
-        },
-        {
-          "title": "반계리 은행나무, 실시간 영상으로 감상한다",
-          "source": "원주신문",
-          "url": "https://www.iwjnews.com/news/articleView.html?idxno=72403"
-        },
-        {
-          "title": "원주시, '원주 반계리 은행나무 축제' 26일 개막",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=798609"
-        }
-      ]
-    },
-    {
-      "title": "송강",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 07:00:00 -0700",
-      "news": [
-        {
-          "title": "이준혁, 10월 라이징 배우 브랜드평판 1위!",
-          "source": "아시아뉴스통신",
-          "url": "https://m.anewsa.com/article_sub3.php?number=3210486"
-        },
-        {
-          "title": "‘포핸즈’ 송강·이준영, 결국 해냈다…최종회 9.4% 자체 최고로 막 내렸다",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1168726"
-        },
-        {
-          "title": "'1%대 시청률 부진' 서강준, 송강에게 또 밀렸다…2개월 째 배우 브랜드평판 정상 탈환 실패",
-          "source": "텐아시아",
-          "url": "https://www.tenasia.co.kr/article/2026102020144"
         }
       ]
     }
