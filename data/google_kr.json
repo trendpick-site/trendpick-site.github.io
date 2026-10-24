@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T16:05:15+00:00",
+  "fetched_at": "2026-10-24T16:36:43+00:00",
   "items": [
+    {
+      "title": "첼시 대 토트넘",
+      "approx_traffic": "10000+",
+      "published": "Sat, 24 Oct 2026 08:30:00 -0700",
+      "news": [
+        {
+          "title": "첼시-토트넘 경기에서 실시간 얼굴인식 시스템 가동…범죄 예방인가, 관중 감시인가",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610221358003"
+        },
+        {
+          "title": "프리미어리그: ‘2연승’ 첼시, 안방서 토트넘 상대로 리그 첫 3연승 도전",
+          "source": "티스토리",
+          "url": "https://sbotopkr.tistory.com/2638"
+        },
+        {
+          "title": "데 제르비 감독은 토트넘이 스탬퍼드 브리지의 \"저주\"를 깨뜨리기를 희망한다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hlv-de-zerbi-hi-vong-tottenham-pha-bo-loi-nguyen-stamford-bridge"
+        }
+      ]
+    },
+    {
+      "title": "이재성",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 08:30:00 -0700",
+      "news": [
+        {
+          "title": "‘韓 국대’ 황희찬, 드디어 기회가 왔다···샬케04 감독 “HWANG은 좋은 옵션” 독일 현지는 “첫 선발 출...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610240808003"
+        },
+        {
+          "title": "대표팀 92-96 갈등?…이재성, 황희찬과 다정한 근황 \"아프지 말자\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/23/2026102308294438574"
+        },
+        {
+          "title": "\"황희찬, 최전방 스트라이커 선발 예상!\" 韓 국가대표 HWANG, 드디어 기회 왔다...\"첫 선발 출격 가능성 높아\"",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553641200"
+        }
+      ]
+    },
     {
       "title": "파이널 테이블",
       "approx_traffic": "200+",
@@ -75,7 +119,7 @@
       "published": "Sat, 24 Oct 2026 07:30:00 -0700",
       "news": [
         {
-          "title": "UFC 333 ‘Volkanovski vs. Evloev’ play-by-play, results & round scoring",
+          "title": "Live Now! UFC 333 ‘Volkanovski vs. Evloev’ play-by-play, results & round scoring",
           "source": "Sherdog",
           "url": "https://www.sherdog.com/news/news/UFC-333-Volkanovski-vs-Evloev-playbyplay-results-round-scoring-203314"
         },
@@ -88,28 +132,6 @@
           "title": "UFC 333 Predictions, Odds, Picks, Previews for Every Fight (October 24)",
           "source": "Yahoo Sports",
           "url": "https://sports.yahoo.com/articles/ufc-333-predictions-odds-picks-024804358.html"
-        }
-      ]
-    },
-    {
-      "title": "arsenal",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 07:30:00 -0700",
-      "news": [
-        {
-          "title": "Premier League: Gabriel puts Arsenal 2-0 up against Everton, Fulham leading at Coventry",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cm4gvy14w7q4t"
-        },
-        {
-          "title": "Arsenal vs Everton LIVE! Premier League score updates, news, prediction and line-ups",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13602324/arsenal-vs-everton-live-premier-league-score-updates-news-prediction-and-line-ups"
-        },
-        {
-          "title": "Team news: Eze one of five changes to face Everton",
-          "source": "Arsenal.com",
-          "url": "https://www.arsenal.com/news/team-news-eze-one-of-five-changes-to-face-everton-aZIZd3e0c1Yj"
         }
       ]
     },
@@ -129,9 +151,9 @@
           "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102418007219047"
         },
         {
-          "title": "'그것이 알고 싶다'(그알) 강서구 데이트 폭행 사망 사건 다룬다",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3731525"
+          "title": "[다시보기] 그것이 알고싶다 1509회",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000638667"
         }
       ]
     },
@@ -151,9 +173,9 @@
           "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2R1a2Vucmd5MTQ3LmdpdGh1Yi5pby9uZXdzLyIvPjwva3JwYW5vPg==&id=arsenal-evertonlive-th-hd-92376625"
         },
         {
-          "title": "น่าห่วง! พี่ต้าไม่รู้ น้องบี คัมแบ็กตอนไหนหลังเจ็บต้นขา ซัดตารางแข่งแน่นขนัดมากเกินไป | Soccersuck",
-          "source": "LINE TODAY",
-          "url": "https://today.line.me/th/v3/article/JPyr1MK"
+          "title": "ตารางคะแนนพรีเมียร์ลีกล่าสุด หลังอาร์เซนอลชนะ แมนซิตี้แพ้นัดแรก กระทบแมนยูด้วย",
+          "source": "Thairath",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2968129"
         }
       ]
     },
@@ -163,25 +185,25 @@
       "published": "Sat, 24 Oct 2026 07:00:00 -0700",
       "news": [
         {
-          "title": "West Ham United vs Southampton: Championship stats & head-to-head",
+          "title": "West Ham United 2-3 Southampton: James Bree scores stunning goal in Saints win",
           "source": "BBC",
           "url": "https://www.bbc.com/sport/football/live/cked35y808jjt"
         },
         {
-          "title": "West Ham vs Southampton LIVE! Championship match updates, score and free highlights from 5.15pm",
+          "title": "West Ham 2-3 Southampton: Saints claim thrilling win at the London Stadium",
           "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13602189/west-ham-vs-southampton-live-championship-match-updates-score-and-free-highlights-from-5-15pm"
+          "url": "https://www.skysports.com/football/news/13595431/west-ham-2-3-southampton-saints-claim-thrilling-win-at-the-london-stadium"
         },
         {
-          "title": "Press Conference part two: Eckert previews West Ham",
-          "source": "Southampton FC Official Site",
-          "url": "https://www.southamptonfc.com/en/video/press-conference-part-two-eckert-previews-west-ham"
+          "title": "EFL Championship LIVE: 11 games - team news, score updates, text commentary & match stats",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cqn747687zzyt"
         }
       ]
     },
     {
       "title": "한의사",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sat, 24 Oct 2026 07:00:00 -0700",
       "news": [
         {
@@ -193,28 +215,6 @@
           "title": "한의사가 가슴에 침, 90대 통증·호흡곤란→사망…벌금형",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261023_0003838695"
-        }
-      ]
-    },
-    {
-      "title": "qpr 대 스완지 시티",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 07:00:00 -0700",
-      "news": [
-        {
-          "title": "Queens Park Rangers vs Swansea City: Championship stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c6pvglrn2mj4t"
-        },
-        {
-          "title": "Queens Park Rangers v Swansea City | How to watch or listen",
-          "source": "Swansea City",
-          "url": "https://www.swanseacity.com/news/queens-park-rangers-v-swansea-city-how-watch-or-listen-1"
-        },
-        {
-          "title": "Away improvement down to choosing right tools - Matos",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/away-improvement-down-choosing-tools-065626654.html"
         }
       ]
     }
