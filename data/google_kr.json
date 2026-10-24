@@ -1,49 +1,115 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T15:04:17+00:00",
+  "fetched_at": "2026-10-24T15:36:19+00:00",
   "items": [
     {
-      "title": "웨스트 햄 대 사우샘프턴",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 07:00:00 -0700",
+      "title": "ufc",
+      "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 07:30:00 -0700",
       "news": [
         {
-          "title": "West Ham United vs Southampton LIVE Score Updates in EFL Championship Match",
-          "source": "VAVEL.com",
-          "url": "https://www.vavel.com/en-us/soccer/2026/10/24/1276613-west-ham-united-vs-southampton-live-score-efl-championship.html"
+          "title": "Volkanovski Eyes Featherweight GOAT Status Against Unbeaten Challenger",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/sports/2026/10/24/volkanovski-eyes-featherweight-goat-status-against-unbeaten"
         },
         {
-          "title": "!HERE’S!!! WAY TO WATCHSouthampton vs West Ham United LIVE STREAMS ON TV CHANNEL 24 October 2026",
-          "source": "小豆島町",
-          "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vc2Fnb3JtaWEwMDQ3LmdpdGh1Yi5pby9qb3JpbmEvZG9tLnhtbCIvPjwva3JwYW5vPg==&id=video-southampton-vs-west-ham-united-live-free-today-match-tv-ukkks0001-gt8hkeo"
+          "title": "UFC 333 ‘Volkanovski vs. Evloev’ play-by-play, results & round scoring",
+          "source": "Sherdog",
+          "url": "https://www.sherdog.com/news/news/UFC-333-Volkanovski-vs-Evloev-playbyplay-results-round-scoring-203314"
         },
         {
-          "title": "[FOOTBALL LIVE] West Ham United vs Southampton Live Stream and Match Updates",
-          "source": "FC東京オフィシャルホームページ",
-          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3ZlbXBpcmVzLmdpdGh1Yi5pby9BcnNlbmFsL3Z2ZC54bWwiLz48L2tycGFubz4=&id=west-ham-united-vs-southampton-live-fox-sports-bl611"
+          "title": "UFC 333 Predictions, Odds, Picks, Previews for Every Fight (October 24)",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/ufc-333-predictions-odds-picks-024804358.html"
         }
       ]
     },
     {
-      "title": "qpr 대 스완지 시티",
+      "title": "arsenal",
       "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "Arsenal vs Everton: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c6vgj4p7dzd7t"
+        },
+        {
+          "title": "Live: Arsenal 1-0 Everton",
+          "source": "Everton FC",
+          "url": "https://www.evertonfc.com/news/2026/october/24/live-blog--arsenal-v-everton/"
+        },
+        {
+          "title": "(((LIVESTREAM!!!))) EFC - Arsenal Match Live streams",
+          "source": "FC東京オフィシャルホームページ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5bmVwcHkuZ2l0aHViLmlvL2JhYnUvTWF0Y2hjcmFmdC54bWwiLz48L2tycGFubz4=&id=video-efc-arsenal-epl-820"
+        }
+      ]
+    },
+    {
+      "title": "강서 고문 살인 사건",
+      "approx_traffic": "1000+",
+      "published": "Sat, 24 Oct 2026 07:20:00 -0700",
+      "news": [
+        {
+          "title": "연인 3시간 넘게 고문·살해한 연하男…홈캠에 찍힌 잔혹한 진실",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6596450"
+        },
+        {
+          "title": "'그것이 알고싶다', 여친 장기 파열시켜 죽인 남친의 엽기 고문 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102418007219047"
+        },
+        {
+          "title": "'그것이 알고 싶다'(그알) 강서구 데이트 폭행 사망 사건 다룬다",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3731525"
+        }
+      ]
+    },
+    {
+      "title": "อาร์เซนอล พบ เอฟเวอร์ตัน",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 07:10:00 -0700",
+      "news": [
+        {
+          "title": "แฟนปืนลุ้นระทึก! อาร์เตต้าอัปเดตอาการซาก้า-สื่อคาดอาจพักยาว 6 สัปดาห์",
+          "source": "Head Topics",
+          "url": "https://th.headtopics.com/news/364936153609361203015-89140084"
+        },
+        {
+          "title": "++[ＬＩＶＥＳｔｒｅａｍ]NOW!!] อาร์เซนอล vs เอฟเวอร์ตัน LIVE Updates",
+          "source": "FC東京オフィシャルホームページ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2R1a2Vucmd5MTQ3LmdpdGh1Yi5pby9uZXdzLyIvPjwva3JwYW5vPg==&id=arsenal-evertonlive-th-hd-92376625"
+        },
+        {
+          "title": "น่าห่วง! พี่ต้าไม่รู้ น้องบี คัมแบ็กตอนไหนหลังเจ็บต้นขา ซัดตารางแข่งแน่นขนัดมากเกินไป | Soccersuck",
+          "source": "LINE TODAY",
+          "url": "https://today.line.me/th/v3/article/JPyr1MK"
+        }
+      ]
+    },
+    {
+      "title": "웨스트 햄 대 사우샘프턴",
+      "approx_traffic": "500+",
       "published": "Sat, 24 Oct 2026 07:00:00 -0700",
       "news": [
         {
-          "title": "Queens Park Rangers vs Swansea City: Championship stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c6pvglrn2mj4t"
+          "title": "West Ham vs Southampton LIVE! Championship match updates, score and free highlights from 5.15pm",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/13602189/west-ham-vs-southampton-live-championship-match-updates-score-and-free-highlights-from-5-15pm"
         },
         {
-          "title": "Away improvement down to choosing right tools - Matos",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/away-improvement-down-choosing-tools-065626654.html"
+          "title": "Press Conference part two: Eckert previews West Ham",
+          "source": "Southampton FC Official Site",
+          "url": "https://www.southamptonfc.com/en/video/press-conference-part-two-eckert-previews-west-ham"
         },
         {
-          "title": "QPR V Swansea City : Match day morning latest & team news",
-          "source": "FansNetwork.co.uk",
-          "url": "https://www.fansnetwork.co.uk/football/swanseacity/news/67099/qpr-v-swansea-city-match-day-morning-latest-and-team-news"
+          "title": "'You want to be appreciated' – Azaz opens up on his performances ahead of West Ham",
+          "source": "Daily Echo",
+          "url": "https://www.dailyecho.co.uk/sport/26658555.southamptons-azaz-opens-performances-ahead-west-ham-trip/"
         }
       ]
     },
@@ -65,24 +131,24 @@
       ]
     },
     {
-      "title": "은가은",
+      "title": "qpr 대 스완지 시티",
       "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 07:00:00 -0700",
       "news": [
         {
-          "title": "은가은, 행사장서 헛구역질…박현호 임신테스트기 꺼냈다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261024_0003839415"
+          "title": "Queens Park Rangers vs Swansea City: Championship stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c6pvglrn2mj4t"
         },
         {
-          "title": "은가은, 첫째 낳고 8개월만 헛구역질 설마?..母 뱀 태몽까지 진짜? ('살림남')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/24/HA3DAY3BHA4DCYLBGJQWGMTEGI/"
+          "title": "Queens Park Rangers v Swansea City | How to watch or listen",
+          "source": "Swansea City",
+          "url": "https://www.swanseacity.com/news/queens-park-rangers-v-swansea-city-how-watch-or-listen-1"
         },
         {
-          "title": "‘살림남’ 은가은, 엔믹스 설윤 실물에 감탄 “딸도 이렇게 얼굴 작았으면”",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522340"
+          "title": "Away improvement down to choosing right tools - Matos",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/away-improvement-down-choosing-tools-065626654.html"
         }
       ]
     },
@@ -97,14 +163,36 @@
           "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-arsenal-everton-phao-thu-quyet-gianh-3-diem-ngoai-hang-anh-c48a1805322.html"
         },
         {
-          "title": "Nhận định bóng đá Arsenal vs Everton, 21h00 ngày 24/10: Pháo thắng nhọc",
-          "source": "Tạp chí Bóng đá",
-          "url": "https://bongdaplus.vn/ngoai-hang-anh/nhan-dinh-bong-da-arsenal-vs-everton-21h00-ngay-24-10-phao-thang-nhoc-5268992610.html"
-        },
-        {
           "title": "Dự đoán vòng 8 Premier League: Man City đối mặt cạm bẫy, Arsenal dễ thắng Everton",
           "source": "BÁO SÀI GÒN GIẢI PHÓNG",
           "url": "https://thethao.sggp.org.vn/du-doan-vong-8-premier-league-man-city-doi-mat-cam-bay-arsenal-de-thang-everton-post878117.html"
+        },
+        {
+          "title": "Trực tiếp trước trận Arsenal vs Everton, Chelsea vs Tottenham, Aston Villa vs Man City",
+          "source": "Tạp chí Bóng đá",
+          "url": "https://bongdaplus.vn/video/truc-tiep-truoc-tran-arsenal-vs-everton-chelsea-vs-tottenham-aston-villa-vs-man-city-1030272610.html"
+        }
+      ]
+    },
+    {
+      "title": "반계리 은행나무",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 07:00:00 -0700",
+      "news": [
+        {
+          "title": "홍천·영월·삼척·횡성, 태맥 등 다채로운 가을 축제와 문화 행사 '풍성'",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/article/2026102310211219292"
+        },
+        {
+          "title": "반계리 은행나무, 실시간 영상으로 감상한다",
+          "source": "원주신문",
+          "url": "https://www.iwjnews.com/news/articleView.html?idxno=72403"
+        },
+        {
+          "title": "원주시, '원주 반계리 은행나무 축제' 26일 개막",
+          "source": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=798609"
         }
       ]
     },
@@ -127,94 +215,6 @@
           "title": "'1%대 시청률 부진' 서강준, 송강에게 또 밀렸다…2개월 째 배우 브랜드평판 정상 탈환 실패",
           "source": "텐아시아",
           "url": "https://www.tenasia.co.kr/article/2026102020144"
-        }
-      ]
-    },
-    {
-      "title": "반계리 은행나무",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 07:00:00 -0700",
-      "news": [
-        {
-          "title": "홍천·영월·삼척·횡성, 태맥 등 다채로운 가을 축제와 문화 행사 '풍성'",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/article/2026102310211219292"
-        },
-        {
-          "title": "반계리 은행나무, 실시간 영상으로 감상한다",
-          "source": "원주신문",
-          "url": "https://www.iwjnews.com/news/articleView.html?idxno=72403"
-        },
-        {
-          "title": "원주시, '원주 반계리 은행나무 축제' 26일 개막",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=798609"
-        }
-      ]
-    },
-    {
-      "title": "aston villa vs man city standings",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 06:50:00 -0700",
-      "news": [
-        {
-          "title": "'The other side' - David Moyes ponders what Mikel Arteta has taken from him",
-          "source": "Liverpool Echo",
-          "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/the-side-david-moyes-ponders-34809669"
-        },
-        {
-          "title": "Preview: Arsenal are back home for clash with Everton",
-          "source": "FotMob",
-          "url": "https://www.fotmob.com/topnews/30164-preview-arsenal-are-back-home-clash-everton?utm_source=fotmob"
-        },
-        {
-          "title": "Arsenal vs Everton: Projected lineups for the 2026-27 Premier League match",
-          "source": "World Soccer Talk",
-          "url": "https://worldsoccertalk.com/news/arsenal-vs-everton-projected-lineups-for-the-2026-27-premier-league-match/"
-        }
-      ]
-    },
-    {
-      "title": "전두환",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 06:50:00 -0700",
-      "news": [
-        {
-          "title": "3일 기다려 만난 전두환 실세... \"정의가 있나 싶어\"",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278003"
-        },
-        {
-          "title": "[스트레이트 예고] 5공 청산의 사각지대‥'허화평 재단'의 비밀 / '수시 먹통'의 그림자‥대학들의 '2백억 리베이트'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/straight/6858741_28993.html"
-        },
-        {
-          "title": "허화평이 20년 장악한 재단, 자산 700억의 실체",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16250372"
-        }
-      ]
-    },
-    {
-      "title": "본드걸",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 06:40:00 -0700",
-      "news": [
-        {
-          "title": "“차기 제임스 본드·본드걸, 이 중에 나오나”…최종 카메라 테스트 오른 후보 누구",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625898"
-        },
-        {
-          "title": "차기 ‘007 제임스 본드’, 최종 4인 압축… 잭 로던·칼룸 터너·조쉬 오코너 ‘격돌’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610230139003"
-        },
-        {
-          "title": "차기 제임스 본드는 누구…잭 로우든·칼럼 터너·조시 오코너 최종 후보",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1705693/%EC%B0%A8%EA%B8%B0-%EC%A0%9C%EC%9E%84%EC%8A%A4-%EB%B3%B8%EB%93%9C-%EB%88%84%EA%B5%AC%EC%9E%AD-%EB%A1%9C%EC%9A%B0%EB%93%A0%EC%B9%BC%EB%9F%BC-2026"
         }
       ]
     }
