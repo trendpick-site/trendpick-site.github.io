@@ -1,11 +1,89 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T09:06:24+00:00",
+  "fetched_at": "2026-10-24T09:36:04+00:00",
   "items": [
     {
-      "title": "안전",
+      "title": "메이저 리그 베이스볼",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 01:30:00 -0700",
+      "news": [
+        {
+          "title": "'날벼락' 김혜성에게 불똥 뛰었다…日 3관왕 영입 반대 이유? \"과거 실수 되풀이 말아야\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/23/GJSTOMDEGE4TAYJYMFTDMN3EGU/"
+        },
+        {
+          "title": "日 MVP-사와무라상 수상자-160km 파이어볼러도 ML 도전, 다저스 이번에도 참전 선언! \"이야기 나누길 기대 중\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014750"
+        },
+        {
+          "title": "\"오타니 이을 차세대 스타\"…日 3관왕 ML 관심 폭발! \"장타력 기근 마지막 퍼즐\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-10-22/202610220100143910009359"
+        }
+      ]
+    },
+    {
+      "title": "kia 타이거즈",
+      "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 01:20:00 -0700",
+      "news": [
+        {
+          "title": "프로야구 플레이오프 1차전 페덱 vs 네일 선발 투수 빅뱅",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023123700007"
+        },
+        {
+          "title": "“그냥 다 미쳤으면 좋겠다” 삼성 류지혁의 유쾌한 바람…“타선 전체가 터졌으면” [오!쎈 대구] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/24/202610241609779521O"
+        },
+        {
+          "title": "기다린 삼성, 달아오른 KIA…36년 만에 PO서 맞붙는다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/24/HBZSCXI4ANAHJJV4KQYYPYJFVA/"
+        }
+      ]
+    },
+    {
+      "title": "성희롱",
       "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 01:20:00 -0700",
+      "news": [
+        {
+          "title": "어기구 \"직장 내 성희롱 관련 신고 4년 사이 44% 증가\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023098400063"
+        },
+        {
+          "title": "“아내와 성관계 보고 싶다”는 직장 동료⋯신고했더니 '성폭행범' 맞신고?",
+          "source": "로톡뉴스",
+          "url": "https://lawtalknews.co.kr/article/22DTWQDC0SS6"
+        }
+      ]
+    },
+    {
+      "title": "소득세",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 01:00:00 -0700",
+      "news": [
+        {
+          "title": "60대 투자자 \"고배당주 분리과세 배당, 건보료도 제외되나요\"[세무 재테크 Q&A]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610231557269907"
+        },
+        {
+          "title": "[자산관리와 절세] 세금 냈으니 끝? 투자자의 11월은 다르다",
+          "source": "뷰어스",
+          "url": "https://theviewers.co.kr/View.aspx?No=4275972"
+        }
+      ]
+    },
+    {
+      "title": "안전",
+      "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 01:00:00 -0700",
       "news": [
         {
@@ -48,28 +126,6 @@
       ]
     },
     {
-      "title": "나이",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 00:50:00 -0700",
-      "news": [
-        {
-          "title": "끝나지 않는 ‘중수청장 국무회의 배석’ 논란…법조계 “위법 아니지만 독립성 고려해야”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610240600011"
-        },
-        {
-          "title": "진중권 “이재명의 최순실은 제미나이?…연설문도 써달라 하시지”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625679"
-        },
-        {
-          "title": "\"생중계로 투명하게\"‥\"기관 압박, 탄핵 사유\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6860289_36981.html"
-        }
-      ]
-    },
-    {
       "title": "사건반장",
       "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 00:50:00 -0700",
@@ -88,6 +144,28 @@
           "title": "이별 통보에 손발 묶고 강간…장모 살해범, 혼인신고도 강제였다 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/society/2026/10/22/2026102122561846990"
+        }
+      ]
+    },
+    {
+      "title": "나이",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 00:50:00 -0700",
+      "news": [
+        {
+          "title": "끝나지 않는 ‘중수청장 국무회의 배석’ 논란…법조계 “위법 아니지만 독립성 고려해야”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610240600011"
+        },
+        {
+          "title": "진중권 “이재명의 최순실은 제미나이?…연설문도 써달라 하시지”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625679"
+        },
+        {
+          "title": "\"생중계로 투명하게\"‥\"기관 압박, 탄핵 사유\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6860289_36981.html"
         }
       ]
     },
@@ -134,62 +212,6 @@
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16256509"
         }
       ]
-    },
-    {
-      "title": "미성년자",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 00:20:00 -0700",
-      "news": [
-        {
-          "title": "‘미성년자가 2억이 어디서 났을까?’…‘내 집가진 미성년자’ 작년보다 1.8배↑",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625880"
-        },
-        {
-          "title": "용산 18억 집 ‘내돈내산’한 10대···올해 집 산 미성년자, 작년의 두배",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610231014001"
-        },
-        {
-          "title": "전세 계약하려고 집주인 만났더니 18살…‘평균 2억’ 돈 어디서 구했나 봤더니",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105281"
-        }
-      ]
-    },
-    {
-      "title": "fc 서울 대 강원 fc 순위",
-      "approx_traffic": "10000+",
-      "published": "Sat, 24 Oct 2026 00:10:00 -0700",
-      "news": [
-        {
-          "title": "FC서울, 강원과 비기고 우승 축포…10년 만에 통산 7번째 우승(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024037400007"
-        },
-        {
-          "title": "슈퍼스타 떠난 서울…클리말라·정승원·김진수 완벽 융화[K리그1 우승③]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003838812"
-        },
-        {
-          "title": "김기동 감독, 서울서 첫 리그 챔피언…3년 차에 완성한 우승",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261024/134901123/1"
-        }
-      ]
-    },
-    {
-      "title": "고양 소노 대 부산 kcc",
-      "approx_traffic": "1000+",
-      "published": "Sat, 24 Oct 2026 00:10:00 -0700",
-      "news": []
-    },
-    {
-      "title": "울산 hd fc 대 포항 스틸러스 순위",
-      "approx_traffic": "1000+",
-      "published": "Sat, 24 Oct 2026 00:10:00 -0700",
-      "news": []
     }
   ]
 }
