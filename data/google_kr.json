@@ -1,8 +1,135 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T13:18:17+00:00",
+  "fetched_at": "2026-10-24T14:03:53+00:00",
   "items": [
+    {
+      "title": "연휴",
+      "approx_traffic": "1000+",
+      "published": "Sat, 24 Oct 2026 06:00:00 -0700",
+      "news": [
+        {
+          "title": "\"하루 연차로 12일 쉰다\"… 2027년 황금연휴 달력 총정리",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3731444"
+        },
+        {
+          "title": "2027년 추석 연차 2일 쓰면 9일 연속 쉰다",
+          "source": "비건뉴스",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=396632"
+        },
+        {
+          "title": "하노이시는 2027년 음력 설날 및 국경일 연휴 일정을 발표했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/ha-noi-thong-bao-ve-viec-nghi-tet-am-lich-nghi-le-quoc-khanh-nam-2027"
+        }
+      ]
+    },
+    {
+      "title": "마인츠 05 대 베르더",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 06:00:00 -0700",
+      "news": [
+        {
+          "title": "Confirmed lineups: Mainz 05 vs. Werder Bremen",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/confirmed-lineups-mainz-05-vs-122700521.html"
+        },
+        {
+          "title": "Mainz 05 - SV Werder LIVE. Bundesliga latest updates",
+          "source": "MARCA",
+          "url": "https://www.marca.com/en/soccer/bundesliga/mainz-05-sv-werder/2026/10/24/01_0108_20261024_810_171-live.html"
+        },
+        {
+          "title": "Preview: Mainz 05 vs Werder Bremen - prediction, team news, lineups",
+          "source": "Sports Mole",
+          "url": "https://www.sportsmole.co.uk/football/mainz-05/preview/mainz-vs-werder-bremen-prediction-team-news-lineups_607494.html"
+        }
+      ]
+    },
+    {
+      "title": "라이프치히 대 엘버스베르크",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 06:00:00 -0700",
+      "news": [
+        {
+          "title": "RB Leipzig - SV 07 Elversberg LIVE. Bundesliga latest updates",
+          "source": "MARCA",
+          "url": "https://www.marca.com/en/soccer/bundesliga/rb-leipzig-sv-07-elversberg/2026/10/24/01_0108_20261024_6339_4071-live.html"
+        },
+        {
+          "title": "!$[[RTE-LIVE]]]] Leipzig vs. Elversberg jetzt GRATIS im TV sehen live Übertragung 24. Oktober 2026",
+          "source": "FC東京オフィシャルホームページ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vcGFraGlwb2suZ2l0aHViLmlvL3NyLmVkdS94b2QueG1sIi8+PC9rcnBhbm8+&id=video-leipzig-vs-elversberg-jetzt-lie-en-neqcjpk"
+        },
+        {
+          "title": "(STREAMING ) ! Mainz vs Werder Watch Live Free German Bundesliga",
+          "source": "小豆島町",
+          "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9ib2thLyIvPjwva3JwYW5vPg==&id=video-streaming-mainz-vs-werder-watch-live-free-german-bundesliga-today"
+        }
+      ]
+    },
+    {
+      "title": "맨시티",
+      "approx_traffic": "1000+",
+      "published": "Sat, 24 Oct 2026 05:40:00 -0700",
+      "news": [
+        {
+          "title": "마레스카, “홀란드는 빌라 원정에 100% 출전할 수 있다”",
+          "source": "Manchester City FC",
+          "url": "https://kr.mancity.com/news/mens/enzo-maresca-aston-villa-away-press-conference-written-63928426"
+        },
+        {
+          "title": "맨체스터 시티 초대형 희소식! \"홀란드는 100% 출전할 수 있다\" 24일 애스턴 빌라전 복귀 예고",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553639727"
+        },
+        {
+          "title": "“7전 전승? 우린 아직도 배고프다!” EPL 선두 맨시티 마레스카 감독의 야망… ‘9경기 12골’ 홀란 복귀, 8연승 정조준",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313338"
+        }
+      ]
+    },
+    {
+      "title": "아카데미상",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 05:30:00 -0700",
+      "news": [
+        {
+          "title": "영화 1편에 550억 원…제작비 뛰어넘는 아카데미상 ‘쩐의 전쟁’",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026102221140004467"
+        },
+        {
+          "title": "[백승찬의 우회도로]이창동과 이길보라",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610211959015"
+        }
+      ]
+    },
+    {
+      "title": "안효섭",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 05:30:00 -0700",
+      "news": [
+        {
+          "title": "오늘 첫 방송 '파이널 테이블', 안효섭은 누굴 위해 진수성찬 차리나? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102413337246340"
+        },
+        {
+          "title": "함재현, '파이널 테이블' 출연…이현균 곁 지키는 수셰프 변신",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261023001173"
+        },
+        {
+          "title": "[사진]정유진, '손하트 멋지게'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896716"
+        }
+      ]
+    },
     {
       "title": "루턴 타운 대 레스터 시티",
       "approx_traffic": "200+",
@@ -31,25 +158,25 @@
       "published": "Sat, 24 Oct 2026 05:00:00 -0700",
       "news": [
         {
-          "title": "1247회 로또 1등 각 36.3억씩…자동 5명·수동 3명(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261024_0003839705"
+          "title": "로또 1247회 당첨번호 ‘8·14·21·22·42·45’…1등 당첨금 36억",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610242055001"
         },
         {
-          "title": "“한 곳서 수동 1등만 3장”...‘109억 잭팟 주인공’ 어디서 나왔나",
+          "title": "[속보] 1등 8명 나와 36억씩…당첨자 대박 터진 이번주 로또",
           "source": "경기일보",
           "url": "https://www.kyeonggi.com/article/20261024580163"
         },
         {
-          "title": "로또 1247회 당첨번호 ‘8·14·21·22·42·45’…1등 당첨금 36억",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610242055001"
+          "title": "1247회 로또 1등 8명…당첨금 각 36억4천만원(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024052300002"
         }
       ]
     },
     {
       "title": "잔나비",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 04:50:00 -0700",
       "news": [
         {
@@ -71,131 +198,9 @@
     },
     {
       "title": "이기혁",
-      "approx_traffic": "500+",
+      "approx_traffic": "10000+",
       "published": "Sat, 24 Oct 2026 04:40:00 -0700",
       "news": []
-    },
-    {
-      "title": "астон вилла – манчестер сити",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 04:40:00 -0700",
-      "news": [
-        {
-          "title": "«Астон Вилла» — «Ман Сити»: онлайн-трансляция матча 8-го тура АПЛ начнётся в 14:30 мск",
-          "source": "https://www.championat.ru/",
-          "url": "https://www.championat.ru/football/news-6670304-aston-villa-man-siti-onlajn-translyaciya-matcha-8-go-tura-apl-nachnyotsya-v-14-30-msk.html"
-        },
-        {
-          "title": "Астон Вилла – Манчестер Сити. Анонс и прогноз матча АПЛ на 24.10.2026",
-          "source": "UA-Football",
-          "url": "https://www.ua-football.com/predictions/apl/1792819573-aston-villa-manchester-siti-anons-i-prognoz-matcha-apl-na-24-10-2026.html"
-        },
-        {
-          "title": "8-й тур Премьер-Лиги. Анонс матчей субботы",
-          "source": "FAPL.ru",
-          "url": "https://fapl.ru/posts/125232/"
-        }
-      ]
-    },
-    {
-      "title": "허구연",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 04:40:00 -0700",
-      "news": [
-        {
-          "title": "이종훈 전 야구협회장, KBO 총재 불출마…KBO에 의사 전달",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024026000007"
-        },
-        {
-          "title": "이종훈 前야구협회장, KBO 총재 불출마…허구연 현 총재 단독 입후보 전망",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261024/134900766/1"
-        },
-        {
-          "title": "[프로야구] 이종훈 전 대한야구소프트볼협회장, KBO 총재 선거 불출마",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261024000037"
-        }
-      ]
-    },
-    {
-      "title": "이준수",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 04:40:00 -0700",
-      "news": [
-        {
-          "title": "전희철 둘째 딸 미모에 이종혁 아들 \"너무 예뻐\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003839083"
-        },
-        {
-          "title": "이종혁 아들 이준수, 전희철 딸 전지우와 데이트…“겹사돈?” (내새끼의연애3)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261023/134896455/1"
-        }
-      ]
-    },
-    {
-      "title": "당진시의회",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 04:20:00 -0700",
-      "news": [
-        {
-          "title": "당진시의회 산업건설위, 당진시산림조합과 현장 간담회 개최 - 보도자료 | 기사",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/releasecopy/2380293.htm"
-        },
-        {
-          "title": "박수현 충남지사 “산림조합은 든든한 동반자”",
-          "source": "한국임업신문",
-          "url": "https://www.kfnews.co.kr/news/articleView.html?idxno=6326"
-        }
-      ]
-    },
-    {
-      "title": "แอสตันวิลลา พบ แมนซิตี",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 04:10:00 -0700",
-      "news": [
-        {
-          "title": "การทำนายผลการแข่งขันระหว่างแอสตันวิลล่ากับแมนเชสเตอร์ซิตี้: การปะทะกันระหว่างสองทีมที่อยู่ในฟอร์มที่ดี",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-aston-villa-vs-manchester-city-man-so-tai-cua-hai-doi-vao-phom"
-        },
-        {
-          "title": "++[ＬＩＶＥＳｔｒｅａｍ]NOW!!] แอสตันวิลลา vs แมนซิตี LIVE Updates",
-          "source": "小豆島町",
-          "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2R1a2Vucmd5MTQ3LmdpdGh1Yi5pby9uZXdzLyIvPjwva3JwYW5vPg==&id=aston-manucity-live-th-ppt-26950084"
-        },
-        {
-          "title": "สถิติชนะรวดจะสะดุดมั้ย!! แมนซิตี้แพ้ตลอดเมื่อต้องมาเยือนวิลล่าใน3ฤดูกาลล่าสุด | Soccersuck",
-          "source": "LINE TODAY",
-          "url": "https://today.line.me/th/v3/article/PGz173M"
-        }
-      ]
-    },
-    {
-      "title": "aston villa đấu với man city",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 04:10:00 -0700",
-      "news": [
-        {
-          "title": "Trực tiếp bóng đá Aston Villa - Man City: \"Man xanh\" dốc toàn lực tấn công (Ngoại hạng Anh)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-aston-villa-man-city-sau-pep-emery-bat-nat-tiep-maresca-ngoai-hang-anh-c48a1805204.html"
-        },
-        {
-          "title": "Kết quả bóng đá Ngoại hạng Anh 2026/27 - Vòng 8 mới nhất",
-          "source": "Báo VietNamNet",
-          "url": "https://vietnamnet.vn/ket-qua-bong-da-ngoai-hang-anh-2026-27-vong-8-moi-nhat-2567703.html"
-        },
-        {
-          "title": "Unai Emery - 'Tiến sĩ tử thần' của Ngoại hạng Anh",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/unai-emery-tien-si-tu-than-cua-ngoai-hang-anh-5136415.html"
-        }
-      ]
     }
   ]
 }
