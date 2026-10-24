@@ -1,8 +1,80 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T23:31:22+00:00",
+  "fetched_at": "2026-10-24T23:57:27+00:00",
   "items": [
+    {
+      "title": "군수산업",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 15:50:00 -0700",
+      "news": []
+    },
+    {
+      "title": "rbny vs inter miami",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 15:40:00 -0700",
+      "news": [
+        {
+          "title": "New York Red Bulls vs Inter Miami: Lineups, Prediction, Odds & Bet Builder Tip",
+          "source": "WhoScored.com",
+          "url": "https://www.whoscored.com/articles/jcqQNk7VaEKe3hNYYUtCSw/show/cng111-20261024-new-york-red-bulls-vs-inter-miami-prediction-1792849046"
+        },
+        {
+          "title": "~!@!(𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋-𝐓𝐕) Joaquin Silva Faccio V Deric Davis Live FREE Tv Streams",
+          "source": "FC東京オフィシャルホームページ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVic3MuZ2l0aHViLmlvL2V2ZW50L3ZiLnhtbCIvPjwva3JwYW5vPg==&id=joaquin-silva-faccio-vs-deric-davis-cbs-sports-6a3pb"
+        },
+        {
+          "title": "Why is Lionel Messi not starting for Inter Miami vs New York Red Bulls in 2026 MLS?",
+          "source": "World Soccer Talk",
+          "url": "https://worldsoccertalk.com/news/why-is-lionel-messi-not-starting-for-inter-miami-vs-new-york-red-bulls-in-2026-mls/"
+        }
+      ]
+    },
+    {
+      "title": "젠지",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 15:40:00 -0700",
+      "news": [
+        {
+          "title": "[롤드컵] 'LCK 최강' 젠지, 내전서 29분만에 한화생명 압도… 파죽의 2연승 질주",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112897866"
+        },
+        {
+          "title": "[오!쎈 인터뷰] 롤드컵 데뷔전부터 짜릿한 역전승...'스매시' 신금재, \"다음엔 더 단단해진 경기력\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112897841"
+        },
+        {
+          "title": "LCK 4전 전승 속 2R 내전 성사…LPL은 1패조 벼랑 끝 승부",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261024110526"
+        }
+      ]
+    },
+    {
+      "title": "세균",
+      "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 15:30:00 -0700",
+      "news": [
+        {
+          "title": "“손 씻다가 슈퍼박테리아 퍼진다?”…병원 세면대의 뜻밖의 위험",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/It/article/all/20261023/134897068/2"
+        },
+        {
+          "title": "한 입 먹고 또 찍는 ‘더블 딥’…입 속 세균 옮겨갈까?",
+          "source": "레이디경향",
+          "url": "https://lady.khan.co.kr/health/article/202610231333001"
+        },
+        {
+          "title": "항생제도 소용없는 슈퍼세균, AI가 만든 바이러스로 잡는다?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/kid/kid_nie/kid_upper-grades/2026/10/23/OSL4DKRYJVHFDGLJ3LJDVQXF7I/"
+        }
+      ]
+    },
     {
       "title": "에코프로",
       "approx_traffic": "200+",
@@ -63,9 +135,9 @@
           "url": "https://www.bntnews.co.kr/article/view/bnt202610230063"
         },
         {
-          "title": "[단독]성리, 탑스타 행보 지속…이번 주만 6개 스케줄 '바쁘다 바빠'",
-          "source": "더퍼블릭",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=322944"
+          "title": "\"요새 운동할 새가 없어\"…성리, '무명전설' 우승 후 바쁜 스케줄 소화 중인 근황",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16250586"
         }
       ]
     },
@@ -97,19 +169,19 @@
       "published": "Sat, 24 Oct 2026 14:50:00 -0700",
       "news": [
         {
-          "title": "กรมอุตุฯ เตือน อากาศแปรปรวน อีสาน-เหนือ ลมแรง ภาคใต้ ฝนตกหนักมาก",
-          "source": "banmuang.co.th",
-          "url": "https://www.banmuang.co.th/news/region/495445"
-        },
-        {
-          "title": "รัฐกำชับกรมท่าอากาศยานเตรียมพร้อมสนามบินภาคใต้รับมือฝนตกหนัก 23-26 ต.ค.นี้ : อินโฟเควสท์",
-          "source": "สำนักข่าวอินโฟเควสท์",
-          "url": "https://www.infoquest.co.th/2026/668120"
-        },
-        {
-          "title": "ฝนขยายตัวต่อเนื่อง! ปทุมธานี–อยุธยา–สุพรรณบุรี จับตากลุ่มฝนช่วงบ่าย 📍 วันที่ 24 ตุลาคม 2569 เวลา 15.00 น. พบกลุ่มฝนปานกลางถึงหนักบางแห่งบริเวณนนทบุรี ปทุมธานี นครปฐม และพระนครศรีอยุธยา โดยกลุ่มฝนมีแนวโน้มขยายตัวเพิ่มขึ้น ↖️ กลุ่มฝนส่วนใหญ่เคลื่อนตัวไปทางทิศตะวันต",
+          "title": "📌อัปเดตข้อมูล ณ วันที่ 25 ต.ค. 69 เวลา 06.00 น. 📌พื้นที่เสี่ยงฝนตกหนัก - หนักมาก วันที่ 25 - 28 ต.ค. 69 ⛈️ ภาคใต้ยังมีฝนหนักถึงหนักมาก! ไทยตอนบนระวังฝนฟ้าคะนอง ลมกระโชกแรง และฟ้าผ่า 📢 ประกาศกรมอุตุนิยมวิทยา ฉ.4 | 25 ตุลาคม 2569 เวลา 05.00 น. มีผลกระทบช่วงวันที่ 25–2",
           "source": "Facebook",
-          "url": "https://www.facebook.com/tmd.go.th/posts/%E0%B8%9D%E0%B8%99%E0%B8%82%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5-%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%9D%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%9A%E0%B9%88%E0%B8%B2%E0%B8%A2-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-24-%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B2%E0%B8%84/1588725536632909/"
+          "url": "https://www.facebook.com/tmd.go.th/posts/%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%95%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5-%E0%B8%93-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-25-%E0%B8%95%E0%B8%84-69-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-0600-%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%9D%E0%B8%99%E0%B8%95%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%81-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-2/1589382679900528/"
+        },
+        {
+          "title": "สภาพอากาศวันนี้! ภาคใต้ฝนตกหนักถึงหนักมาก ไทยตอนบนอากาศแปรปรวน",
+          "source": "pptvhd36.com",
+          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/285805"
+        },
+        {
+          "title": "คมนาคม สั่งสนามบิน 10 จังหวัดภาคใต้ ทำแผนรับมือ ฝนถล่ม-น้ำท่วม",
+          "source": "ข่าวสด",
+          "url": "https://www.khaosod.co.th/economics/news_10448933"
         }
       ]
     },
@@ -132,94 +204,6 @@
           "title": "‘살림남’ 은가은, 엔믹스 설윤 실물에 감탄 “딸도 이렇게 얼굴 작았으면”",
           "source": "iMBC 연예",
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522340"
-        }
-      ]
-    },
-    {
-      "title": "앤트로픽",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "Anthropic의 고용 변화 - 신규 기술직 채용의 주니어 비중, 27%에서 9%로 감소",
-          "source": "GeekNews",
-          "url": "https://news.hada.io/topic?id=35600"
-        },
-        {
-          "title": "AI로 보고서·PPT 딸깍했더니…사람들 회의시간 20% 길어졌다는데",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/it/12179143"
-        },
-        {
-          "title": "앤트로픽 직원 91% “2030년 AI가 노벨상급 발견” 예측...일반인은 39%",
-          "source": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216398"
-        }
-      ]
-    },
-    {
-      "title": "이다해",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 14:10:00 -0700",
-      "news": [
-        {
-          "title": "이다해, '중국풍' 외모 지적에 \"조금씩 달라지는 내 모습 즐겨\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261024_0003839708"
-        },
-        {
-          "title": "\"2시간 만에 200억\"…이다해 출연한 中 광군제 라이브커머스 '대박'",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026102008105864202"
-        },
-        {
-          "title": "이다해, 출산 앞두고 난데없는 성형설..'중국인' 스태프 때문이었다 [핫피플]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/MU3TKMZYMJRGMM3FME2TCZRTME/"
-        }
-      ]
-    },
-    {
-      "title": "메이저 리그 사커",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "손흥민이 대단한 거였다…레반돕 MLS서 실패한 영입 평가, 6경기 연속 무득점 ‘대굴욕’",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99701"
-        },
-        {
-          "title": "손흥민보다 대단했다…미국서 18경기 13골 6도움 “입단 3개월만 팀 송두리째 바꿔놔”",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99696"
-        },
-        {
-          "title": "한 명은 손흥민 뛰어넘은 대활약, 한 명은 손흥민보다 수준 미달...MLS 적응 희비 엇갈린 '월클 공격수'",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-10-24/202610240100153170009995"
-        }
-      ]
-    },
-    {
-      "title": "대구날씨",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "대구·경북 흐리고 가끔 비…동해안 5∼40㎜",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261025002900053"
-        },
-        {
-          "title": "대구·경북 내일까지 비 10~50mm…아침 최저 12~15도",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694388"
-        },
-        {
-          "title": "'태풍 참피 영향' 대구·경북 25일까지 최고 60mm 비...강풍 '유의'",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261024000014"
         }
       ]
     }
