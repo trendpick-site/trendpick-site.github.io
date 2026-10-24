@@ -1,8 +1,96 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T08:37:00+00:00",
+  "fetched_at": "2026-10-24T09:06:24+00:00",
   "items": [
+    {
+      "title": "안전",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 01:00:00 -0700",
+      "news": [
+        {
+          "title": "안전 경영 외쳤지만…HD현대, 멈추지 않는 사망 사고",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105297"
+        },
+        {
+          "title": "\"안전펜스만 있었어도…\" 금속노조, HD현대일렉 추락 사망사고 처벌 촉구",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6596408"
+        },
+        {
+          "title": "울산 동구 변압기 공장 신축 현장에서 40대 작업자 추락사",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610191318508275"
+        }
+      ]
+    },
+    {
+      "title": "박지환",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 01:00:00 -0700",
+      "news": [
+        {
+          "title": "김대명·박지환, 동해안에 식당 개업… 파리만 날림 (맛길대)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261023/134894693/1"
+        },
+        {
+          "title": "‘맛잘알’ 김대명, 사장님 변신…‘해파랑 상회’ 베일 벗는다 (맛길대)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522284"
+        },
+        {
+          "title": "“여기에 연기 인생 걸려있나요?” 김대명, ‘맛따라 길따라 대명이따라’ 첫방부터 부담 폭발",
+          "source": "TopStarNews",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16256268"
+        }
+      ]
+    },
+    {
+      "title": "나이",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 00:50:00 -0700",
+      "news": [
+        {
+          "title": "끝나지 않는 ‘중수청장 국무회의 배석’ 논란…법조계 “위법 아니지만 독립성 고려해야”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610240600011"
+        },
+        {
+          "title": "진중권 “이재명의 최순실은 제미나이?…연설문도 써달라 하시지”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625679"
+        },
+        {
+          "title": "\"생중계로 투명하게\"‥\"기관 압박, 탄핵 사유\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6860289_36981.html"
+        }
+      ]
+    },
+    {
+      "title": "사건반장",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 00:50:00 -0700",
+      "news": [
+        {
+          "title": "‘장모 살해·아내 납치’ 김성우 송치… 접근금지 중에도 스토킹",
+          "source": "한겨레21",
+          "url": "https://h21.hani.co.kr/arti/society/society_general/60081.html"
+        },
+        {
+          "title": "장모 살인에도 등장한 흥신소…범죄 악용 우려에도 '불법 의뢰' 사각지대",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/incident-accident/6328798"
+        },
+        {
+          "title": "이별 통보에 손발 묶고 강간…장모 살해범, 혼인신고도 강제였다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/22/2026102122561846990"
+        }
+      ]
+    },
     {
       "title": "관광객",
       "approx_traffic": "2000+",
@@ -27,7 +115,7 @@
     },
     {
       "title": "플레이브",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 00:30:00 -0700",
       "news": [
         {
@@ -46,12 +134,6 @@
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16256509"
         }
       ]
-    },
-    {
-      "title": "인천 유나이티드 fc 대 제주 sk fc 순위",
-      "approx_traffic": "5000+",
-      "published": "Sat, 24 Oct 2026 00:20:00 -0700",
-      "news": []
     },
     {
       "title": "미성년자",
@@ -104,92 +186,10 @@
       "news": []
     },
     {
-      "title": "new zealand vs india",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 00:00:00 -0700",
-      "news": [
-        {
-          "title": "Live: Black Caps v India - second T20",
-          "source": "Stuff",
-          "url": "https://www.stuff.co.nz/sport/361048920/live-black-caps-v-india-second-t20"
-        },
-        {
-          "title": "IND vs NZ 2nd T20I: New Zealand reach 66 runs in 10 overs against Team India",
-          "source": "Mid-Day",
-          "url": "https://www.mid-day.com/sports/cricket/article/ind-vs-nz-2nd-t20i-new-zealand-reach-66-runs-in-10-overs-against-team-india-23656720"
-        },
-        {
-          "title": "NZ vs IND 2nd T20I live streaming: Where to watch today's cricket match?",
-          "source": "Business Standard",
-          "url": "https://www.business-standard.com/cricket/news/nz-vs-ind-2nd-t20i-live-streaming-where-to-watch-today-s-cricket-match-126102300353_1.html"
-        }
-      ]
-    },
-    {
-      "title": "육상 경기",
+      "title": "울산 hd fc 대 포항 스틸러스 순위",
       "approx_traffic": "1000+",
-      "published": "Sat, 24 Oct 2026 00:00:00 -0700",
-      "news": [
-        {
-          "title": "육상 장민호, 400m 세계신기록으로 장애인AG 2관왕…46초24",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/IPT20261023000017365"
-        },
-        {
-          "title": "충북 선수단, 아시안패러게임서 '메달 7개 수확'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261024_0003839585"
-        },
-        {
-          "title": "‘시각장애 스프린터’ 장민호, 세계신기록으로 2관왕",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694193"
-        }
-      ]
-    },
-    {
-      "title": "mlb",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 23:50:00 -0700",
-      "news": [
-        {
-          "title": "Brewers reach World Series after 44 years as Misierowski fans five and Yelich drives early run - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/10/24/LQ7WBJVJB5DBRCETGPP6NDVEXE/"
-        },
-        {
-          "title": "The Milwaukee Brewers, the home team, laughed in Game 1 of the World Series.Milwaukee beat the Tampa..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12184772"
-        },
-        {
-          "title": "A victory cigar courtesy of David Ortiz",
-          "source": "FOX Sports",
-          "url": "https://www.foxsports.com/watch-vertical/fmc-mqq8ldh4h4cv1gdo"
-        }
-      ]
-    },
-    {
-      "title": "jtbc",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 23:50:00 -0700",
-      "news": [
-        {
-          "title": "[Photo] Hong Hwa-Yeon invites you to ‘The Final Table’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/photos/12182919"
-        },
-        {
-          "title": "\"They infused drama into the cooking competition\"…'Final Table', an emotional showdown",
-          "source": "DIPE.CO.KR",
-          "url": "https://www.dipe.co.kr/2349647"
-        },
-        {
-          "title": "Jung Yu-jin, a model in her own right [★Photo]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/broadcast-drama/2026/10/22/2026102214294789176"
-        }
-      ]
+      "published": "Sat, 24 Oct 2026 00:10:00 -0700",
+      "news": []
     }
   ]
 }
