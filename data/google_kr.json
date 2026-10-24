@@ -1,27 +1,155 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T12:42:40+00:00",
+  "fetched_at": "2026-10-24T13:18:17+00:00",
   "items": [
+    {
+      "title": "루턴 타운 대 레스터 시티",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 05:10:00 -0700",
+      "news": [
+        {
+          "title": "Luton Town v Leicester City: League One stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cme3xyv2we2nt"
+        },
+        {
+          "title": "One change for Luton against Foxes as Mengi is named on the bench",
+          "source": "Luton Today",
+          "url": "https://www.lutontoday.co.uk/sport/football/luton-town/one-change-for-luton-against-foxes-as-mengi-is-named-on-the-bench-9307628"
+        },
+        {
+          "title": "Games like these",
+          "source": "Luton Town FC",
+          "url": "https://www.lutontown.co.uk/news/2026/october/23/games-like-these/"
+        }
+      ]
+    },
+    {
+      "title": "로또1247",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 05:00:00 -0700",
+      "news": [
+        {
+          "title": "1247회 로또 1등 각 36.3억씩…자동 5명·수동 3명(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839705"
+        },
+        {
+          "title": "“한 곳서 수동 1등만 3장”...‘109억 잭팟 주인공’ 어디서 나왔나",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261024580163"
+        },
+        {
+          "title": "로또 1247회 당첨번호 ‘8·14·21·22·42·45’…1등 당첨금 36억",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610242055001"
+        }
+      ]
+    },
+    {
+      "title": "잔나비",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 04:50:00 -0700",
+      "news": [
+        {
+          "title": "잔나비가 音으로 쌓은 가을밤 추억…“발라드만 불러도 재밌네요”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694221"
+        },
+        {
+          "title": "발라드인데 3시간 내내 뜨거웠다…잔나비가 빚어낸 가을밤의 마법[리뷰]",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02364886645616200&mediaCodeNo=257"
+        },
+        {
+          "title": "진하고 깊게 우려낸 잔나비 감성…가을, 발라드 콘서트, 최고의 선택 [리뷰]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610242385H"
+        }
+      ]
+    },
+    {
+      "title": "이기혁",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 04:40:00 -0700",
+      "news": []
+    },
+    {
+      "title": "астон вилла – манчестер сити",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 04:40:00 -0700",
+      "news": [
+        {
+          "title": "«Астон Вилла» — «Ман Сити»: онлайн-трансляция матча 8-го тура АПЛ начнётся в 14:30 мск",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6670304-aston-villa-man-siti-onlajn-translyaciya-matcha-8-go-tura-apl-nachnyotsya-v-14-30-msk.html"
+        },
+        {
+          "title": "Астон Вилла – Манчестер Сити. Анонс и прогноз матча АПЛ на 24.10.2026",
+          "source": "UA-Football",
+          "url": "https://www.ua-football.com/predictions/apl/1792819573-aston-villa-manchester-siti-anons-i-prognoz-matcha-apl-na-24-10-2026.html"
+        },
+        {
+          "title": "8-й тур Премьер-Лиги. Анонс матчей субботы",
+          "source": "FAPL.ru",
+          "url": "https://fapl.ru/posts/125232/"
+        }
+      ]
+    },
+    {
+      "title": "허구연",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 04:40:00 -0700",
+      "news": [
+        {
+          "title": "이종훈 전 야구협회장, KBO 총재 불출마…KBO에 의사 전달",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024026000007"
+        },
+        {
+          "title": "이종훈 前야구협회장, KBO 총재 불출마…허구연 현 총재 단독 입후보 전망",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261024/134900766/1"
+        },
+        {
+          "title": "[프로야구] 이종훈 전 대한야구소프트볼협회장, KBO 총재 선거 불출마",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261024000037"
+        }
+      ]
+    },
+    {
+      "title": "이준수",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 04:40:00 -0700",
+      "news": [
+        {
+          "title": "전희철 둘째 딸 미모에 이종혁 아들 \"너무 예뻐\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003839083"
+        },
+        {
+          "title": "이종혁 아들 이준수, 전희철 딸 전지우와 데이트…“겹사돈?” (내새끼의연애3)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261023/134896455/1"
+        }
+      ]
+    },
     {
       "title": "당진시의회",
       "approx_traffic": "100+",
       "published": "Sat, 24 Oct 2026 04:20:00 -0700",
       "news": [
         {
-          "title": "1인당 30만원 ‘530억 풀린다’… 설 명절 전 당진시민에게 경제회복지원금 지급",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261023580252"
+          "title": "당진시의회 산업건설위, 당진시산림조합과 현장 간담회 개최 - 보도자료 | 기사",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/releasecopy/2380293.htm"
         },
         {
-          "title": "당진시민 내년 설 전 30만원씩 받는다…조례안 시의회 통과",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023160900063"
-        },
-        {
-          "title": "당진 1인당 30만원 지급 첫 관문 통과…\"예산 심의 남아\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003839142"
+          "title": "박수현 충남지사 “산림조합은 든든한 동반자”",
+          "source": "한국임업신문",
+          "url": "https://www.kfnews.co.kr/news/articleView.html?idxno=6326"
         }
       ]
     },
@@ -41,9 +169,9 @@
           "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2R1a2Vucmd5MTQ3LmdpdGh1Yi5pby9uZXdzLyIvPjwva3JwYW5vPg==&id=aston-manucity-live-th-ppt-26950084"
         },
         {
-          "title": "ลิ้งค์ดูสด 'แอสตัน วิลล่า พบ แมนซิตี้' ดูบอลสด พรีเมียร์ลีก อังกฤษ",
-          "source": "bangkokbiznews",
-          "url": "https://www.bangkokbiznews.com/news/sport/1257726"
+          "title": "สถิติชนะรวดจะสะดุดมั้ย!! แมนซิตี้แพ้ตลอดเมื่อต้องมาเยือนวิลล่าใน3ฤดูกาลล่าสุด | Soccersuck",
+          "source": "LINE TODAY",
+          "url": "https://today.line.me/th/v3/article/PGz173M"
         }
       ]
     },
@@ -66,144 +194,6 @@
           "title": "Unai Emery - 'Tiến sĩ tử thần' của Ngoại hạng Anh",
           "source": "VnExpress",
           "url": "https://vnexpress.net/unai-emery-tien-si-tu-than-cua-ngoai-hang-anh-5136415.html"
-        }
-      ]
-    },
-    {
-      "title": "닷컴 버블",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 04:10:00 -0700",
-      "news": [
-        {
-          "title": "나스닥 2.6% 급락한 날, 버크셔는 사상 최고가 썼다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/10/23/CK4MPWSPN5CAPHOA2FUNJUCAUI/"
-        },
-        {
-          "title": "AI 반도체 추락과 대비되는 버크셔의 최고치 행진…17개월 만에 신고가 경신",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440522"
-        },
-        {
-          "title": "美 AI 반도체 급락·버크셔는 급등…닷컴버블 붕괴 후 첫 신호?",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/international-economy/6328408"
-        }
-      ]
-    },
-    {
-      "title": "파업",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 04:10:00 -0700",
-      "news": [
-        {
-          "title": "포스코노사 임금 교섭 결렬…노조, 다음달 2일 무기한 파업 예고",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024019100053"
-        },
-        {
-          "title": "이희근 포스코 사장 나섰지만…노조, 11월2일부터 무기한 파업",
-          "source": "디지털데일리",
-          "url": "https://m.ddaily.co.kr/page/view/2026102321241916609"
-        },
-        {
-          "title": "포스코 노사, 임금 협상 합의점 도출 실패…23일 교섭 재개",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/economy/2379976.htm"
-        }
-      ]
-    },
-    {
-      "title": "서식스 공작 해리",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 03:50:00 -0700",
-      "news": []
-    },
-    {
-      "title": "aston villa vs man city",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 03:40:00 -0700",
-      "news": [
-        {
-          "title": "Aston Villa vs Manchester City: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cj62ynzwg4pet"
-        },
-        {
-          "title": "Maresca says Haaland is 100% available for Villa trip",
-          "source": "Manchester City FC",
-          "url": "https://www.mancity.com/news/mens/enzo-maresca-aston-villa-away-press-conference-written-63928256"
-        },
-        {
-          "title": "City’s Perfect Start Faces First Real Test as Premier League Returns",
-          "source": "Dawan Africa",
-          "url": "https://www.dawan.africa/news/citys-perfect-start-faces-first-real-test-as-premier-league-returns"
-        }
-      ]
-    },
-    {
-      "title": "고우림",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 03:40:00 -0700",
-      "news": [
-        {
-          "title": "고우림♥김연아 결혼 4주년…日 여행 사진 공개",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261024_0003839589"
-        },
-        {
-          "title": "고우림♥김연아, 결혼 4주년 삿포로 떠났다..야경 속 달달한 근황",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/GI2WCZRQGA2DOYZVGFQTAODDGQ/"
-        },
-        {
-          "title": "김연아♥고우림, 3주년 ‘까죽커플’→4주년 밤 10시 22분 아내 뒤태",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12184551"
-        }
-      ]
-    },
-    {
-      "title": "애스턴 빌라 대 맨 시티",
-      "approx_traffic": "10000+",
-      "published": "Sat, 24 Oct 2026 03:30:00 -0700",
-      "news": [
-        {
-          "title": "Premier League live scores: Latest as Aston Villa lead through Jackson goal in first of today’s fixtures",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/live-blogs/premier-league-live-updates-scores-results-news/pMlD8IF5ULFh/"
-        },
-        {
-          "title": "Premier League live: score, updates and analysis",
-          "source": "The Times",
-          "url": "https://www.thetimes.com/sport/football/article/premier-league-live-score-analysis-commentary-latest-news-x9dp9w26k"
-        },
-        {
-          "title": "++[!LIVESTREAMs!]™ The Villans v Man City Match Live streaming free",
-          "source": "小豆島町",
-          "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5bmVwcHkuZ2l0aHViLmlvL2JhYnUvTWF0Y2hzdGFjay54bWwiLz48L2tycGFubz4=&id=video-the-villans-v-man-city-live-on-ustv-580"
-        }
-      ]
-    },
-    {
-      "title": "상동광산",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 03:30:00 -0700",
-      "news": [
-        {
-          "title": "[르포] 화약 냄새에 푸른 광맥 '반짝'…32년 만에 깬 영월 상동광산",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1180548"
-        },
-        {
-          "title": "33년 만에 부활한 '영월 상동광산'··· 24일 텅스텐 첫 상업 출하",
-          "source": "그린포스트코리아",
-          "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307805"
-        },
-        {
-          "title": "영월 상동광산 32년 만에 재가동 채굴 돌입 : 경제",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1045729"
         }
       ]
     }
