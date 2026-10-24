@@ -1,8 +1,74 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T09:36:04+00:00",
+  "fetched_at": "2026-10-24T10:06:01+00:00",
   "items": [
+    {
+      "title": "주식시장",
+      "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 02:00:00 -0700",
+      "news": [
+        {
+          "title": "미국 주식시장은 트럼프 1기 때를 닮아가고 있다 [조윤남의 사이클투자]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610191057i"
+        },
+        {
+          "title": "[주末머니]\"공화당 팔고 민주당 산다?\" 美 투자자 전략은",
+          "source": "아시아경제",
+          "url": "https://core.asiae.co.kr/article/2026102315321593503"
+        },
+        {
+          "title": "열흘 남은 美 중간선거…투자전략 어떻게",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1705520/%EC%97%B4%ED%9D%98-%EB%82%A8%EC%9D%80-%E7%BE%8E-%EC%A4%91%EA%B0%84%EC%84%A0%EA%B1%B0%ED%88%AC%EC%9E%90%EC%A0%84%EB%9E%B5-%EC%96%B4%EB%96%BB%EA%B2%8C-2026"
+        }
+      ]
+    },
+    {
+      "title": "지수",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 02:00:00 -0700",
+      "news": [
+        {
+          "title": "[뉴욕증시] 이번엔 우량주 순환 매도…다우 1.2%↓",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440932"
+        },
+        {
+          "title": "AI투자 불안에 하락했던 주요 지수 반등 시도",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6860295_36981.html"
+        },
+        {
+          "title": "美반도체 6.7% 급락 뒤 0.4% 반등 그쳐…유가 116달러·외국인 1조 매도, 삼성·하이닉스 부담",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=352922"
+        }
+      ]
+    },
+    {
+      "title": "동탄신도시",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 02:00:00 -0700",
+      "news": [
+        {
+          "title": "동탄 집값 급등에 다시 주목받는 '미래가치'…개발호재 지역 수요자 관심 ↑",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Real-Estate/2026/10/2026102208432368882aa6f4cdad_1"
+        },
+        {
+          "title": "경기남부 비규제지역 집값도 꿈틀...\"삼중규제 확대 신중\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202610240519297685_005.html"
+        },
+        {
+          "title": "사내대출-성과급에 ‘반도체 벨트’ 집값 상승, 경기 남부로 확산",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261023/134893540/2"
+        }
+      ]
+    },
     {
       "title": "메이저 리그 베이스볼",
       "approx_traffic": "200+",
@@ -41,9 +107,9 @@
           "url": "https://www.mt.co.kr/sports/2026/10/24/202610241609779521O"
         },
         {
-          "title": "기다린 삼성, 달아오른 KIA…36년 만에 PO서 맞붙는다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/24/HBZSCXI4ANAHJJV4KQYYPYJFVA/"
+          "title": "막강 ‘도나스’ 공략법? 최형우 “기복있는게 타격”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694191"
         }
       ]
     },
@@ -87,19 +153,19 @@
       "published": "Sat, 24 Oct 2026 01:00:00 -0700",
       "news": [
         {
-          "title": "안전 경영 외쳤지만…HD현대, 멈추지 않는 사망 사고",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105297"
+          "title": "예산 삭감에 쪼그라든 순직 소방관 추모식···‘소방 빨대’ 사과한 추미애 “처우 개선 약속”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610241437001"
         },
         {
-          "title": "\"안전펜스만 있었어도…\" 금속노조, HD현대일렉 추락 사망사고 처벌 촉구",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6596408"
+          "title": "열린도지사실",
+          "source": "경기도청",
+          "url": "https://www.gg.go.kr/governor/user/governor/TB00000026/BR00000087"
         },
         {
-          "title": "울산 동구 변압기 공장 신축 현장에서 40대 작업자 추락사",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610191318508275"
+          "title": "[속보]‘빨대’ 논란 추미애, ‘1억 삭감’으로 축소된 순직 소방관 추모행사 참석…“소방관이 지켜야 할 생명에는 소방관 자신의 생명도 포함”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625903"
         }
       ]
     },
@@ -144,72 +210,6 @@
           "title": "이별 통보에 손발 묶고 강간…장모 살해범, 혼인신고도 강제였다 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/society/2026/10/22/2026102122561846990"
-        }
-      ]
-    },
-    {
-      "title": "나이",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 00:50:00 -0700",
-      "news": [
-        {
-          "title": "끝나지 않는 ‘중수청장 국무회의 배석’ 논란…법조계 “위법 아니지만 독립성 고려해야”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610240600011"
-        },
-        {
-          "title": "진중권 “이재명의 최순실은 제미나이?…연설문도 써달라 하시지”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625679"
-        },
-        {
-          "title": "\"생중계로 투명하게\"‥\"기관 압박, 탄핵 사유\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6860289_36981.html"
-        }
-      ]
-    },
-    {
-      "title": "관광객",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 00:30:00 -0700",
-      "news": [
-        {
-          "title": "“K드라마 보고 한국 왔는데, 일본 여행보다 불편”···외국인 관광객 발목 잡은 ‘번호 인증·앱 차단’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610241414001"
-        },
-        {
-          "title": "'항공권 24시간 지나면 환불 불가?'…트립닷컴 국감서 질타받아",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023133500030"
-        },
-        {
-          "title": "김윤덕 의원, 외국인 관광객 불편 분석서 한국 디지털·교통·결제 문제 부각",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=20261024121901339204ead0791_12"
-        }
-      ]
-    },
-    {
-      "title": "플레이브",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 00:30:00 -0700",
-      "news": [
-        {
-          "title": "'버추얼 아이돌'의 한계는 없다…플레이브, 음반·음원 쌍끌이 흥행[초점S]",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014998"
-        },
-        {
-          "title": "'버추얼 돌' 플레이브, 신보 132만 장 대박 이어 '음악중심' 1위 등극",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3731481"
-        },
-        {
-          "title": "[뮤지션100] 플레이브 166점 반등…태풍에 대만 공연 연기",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16256509"
         }
       ]
     }
