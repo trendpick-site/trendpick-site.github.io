@@ -1,17 +1,100 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T03:37:02+00:00",
+  "fetched_at": "2026-10-24T04:09:52+00:00",
   "items": [
+    {
+      "title": "최형우",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 19:50:00 -0700",
+      "news": [
+        {
+          "title": "‘YS 최측근’ 최형우 전 내무부 장관 별세",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/politics_general/2026/10/24/OTTMOCWDNNGRPC7BD6NFO3J27M/"
+        },
+        {
+          "title": "'YS 오른팔' 최형우 전 의원 별세…장례위원장에 권노갑·김덕룡(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024016551704"
+        },
+        {
+          "title": "‘YS의 오른팔’ 최형우 전 장관 별세…향년 91세",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261024580036"
+        }
+      ]
+    },
+    {
+      "title": "축구 감독",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 19:50:00 -0700",
+      "news": [
+        {
+          "title": "뮌헨 콩파니 감독, 훈련장서 쓰러져 병원행…'안정적 상태'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024012200007"
+        },
+        {
+          "title": "김민재 소속팀 뮌헨 콩파니 감독, 훈련장서 쓰러져 병원 이송",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261024/134900347/1"
+        },
+        {
+          "title": "[공식발표] \"몸이 그만하라고 했다\" 콤파니 감독의 안타까운 고백, 결국 현실로...훈련장서 갑자기 쓰러져 병원 긴급 이송 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/football/2026/10/24/MY3TANRWGQ3TAZBTHFSWEOJUMY/"
+        }
+      ]
+    },
+    {
+      "title": "한국대학신문",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 19:40:00 -0700",
+      "news": [
+        {
+          "title": "설계부터 경기 전략까지 학생 손으로…서울 학생 280여명 경쟁",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261021000815"
+        },
+        {
+          "title": "서울교육청, ‘2026 제2회 서울 학생 로봇 대회(SSRC)’ 개최",
+          "source": "조선에듀",
+          "url": "https://edu.chosun.com/m/edu_article.html?contid=2026102180144"
+        }
+      ]
+    },
+    {
+      "title": "김천 김밥축제",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 19:40:00 -0700",
+      "news": [
+        {
+          "title": "수십만 명 모이는 김천 축제…TS, ‘오늘도 무사고’ 캠페인",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261024026030588"
+        },
+        {
+          "title": "김밥대장 정다현 : “김밥도 직업이 된다” 전국 800곳 누빈 덕후의 실행력",
+          "source": "롱블랙 LongBlack",
+          "url": "https://longblack.co/note/2153"
+        },
+        {
+          "title": "국토안전관리원, 김천 행사장서 안전체험 운영… 축제·시민체전 연계해 안전의식 높인다",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=20261023163331127907f28b58b8_12"
+        }
+      ]
+    },
     {
       "title": "typhoon champi (rosal)",
       "approx_traffic": "500+",
       "published": "Fri, 23 Oct 2026 19:30:00 -0700",
       "news": [
         {
-          "title": "Typhoon Champi sweeps past Taiwan, one dead and 500 injured",
+          "title": "Typhoon Champi sweeps past Taiwan, leaving 1 dead, 500 injured",
           "source": "Reuters",
-          "url": "https://www.reuters.com/business/environment/typhoon-champi-sweeps-past-taiwan-one-dead-500-injured-2026-10-24/"
+          "url": "https://www.reuters.com/business/environment/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured-2026-10-24/"
         },
         {
           "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
@@ -114,9 +197,9 @@
       "published": "Fri, 23 Oct 2026 18:40:00 -0700",
       "news": [
         {
-          "title": "Clippers Injury Report vs. Lakers: LA Continues to Be Without Several Key Contributors",
+          "title": "How to watch Lakers vs Clippers: NBA, live stream, TV channel",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/clippers-injury-report-vs-lakers-172913823.html"
+          "url": "https://sports.yahoo.com/articles/watch-lakers-vs-clippers-nba-010000107.html"
         },
         {
           "title": "Clippers vs Lakers Prediction, Picks & Best Bet for Tonight's NBA Game",
@@ -124,92 +207,9 @@
           "url": "https://www.covers.com/nba/clippers-vs-lakers-prediction-picks-odds-oct-23-2026"
         },
         {
-          "title": "Clippers vs. Lakers Preview: First Road Game of 2027 Season",
-          "source": "213hoops.com",
-          "url": "https://213hoops.com/clippers-vs-lakers-preview-first-road-game-of-2027-season/"
-        }
-      ]
-    },
-    {
-      "title": "이정후",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 18:40:00 -0700",
-      "news": [
-        {
-          "title": "“FXXX!” 이정후 향해 욕설 논란, 비극적 결말 맞다…팔꿈치 인대 파열→끝내 수술 “회복 기간만 9개월”",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261022084335751"
-        },
-        {
-          "title": "'이정후에 욕설→오타니와 불협화음' 다저스 러싱 수술대→복귀까지 9개월, 입지 더 좁아지나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/23/2026102311093766000"
-        },
-        {
-          "title": "8월엔 수술 필요 없다더니, PS도 못 뛰고 9개월 재활…다저스 '문제아 포수' 뒤늦은 결정에 팬들 분노",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/22/ME3GEMZUGNTGGNZYMQ2TINZWMY/"
-        }
-      ]
-    },
-    {
-      "title": "nba",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 18:40:00 -0700",
-      "news": [
-        {
-          "title": "Jayson Tatum News: Stuffs stat sheet in win",
-          "source": "RotoWire",
-          "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-stuffs-stat-sheet-in-win-535756"
-        },
-        {
-          "title": "Knicks become first defending NBA champions to begin season 0-2 in 15 years, lose 107-103 to Celtics",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/article/knicks-become-first-defending-nba-champions-to-begin-season-0-2-in-15-years-lose-107-103-to-celtics-015214731.html"
-        },
-        {
-          "title": "Miles McBride chips in with 20 points, six triples",
-          "source": "NBC Sports",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-23/miles-mcbride-chips-in-with-20-points-six-triples"
-        }
-      ]
-    },
-    {
-      "title": "미사일",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 18:10:00 -0700",
-      "news": [
-        {
-          "title": "ICAO \"북한, 이달 초 미사일 '무통보' 발사… 항공 안전 규정 준수해야\"",
-          "source": "VOA 한국어 홈페이지",
-          "url": "https://www.voakorea.com/a/icao-north-korea-s-unannounced-missile-102326/8214590.html"
-        },
-        {
-          "title": "사우디, 미사일 생산시설 확장…중국 기술 가능성",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023182900009"
-        }
-      ]
-    },
-    {
-      "title": "김수미",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 17:30:00 -0700",
-      "news": [
-        {
-          "title": "“인생 한 번뿐이야” 故 김수미가 세상에 남긴 마지막 독설",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261023508517"
-        },
-        {
-          "title": "故김수미 발인에 통곡한 '며느리' 서효림..2주기 앞두고 \"싱숭생숭하네요\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/GE2DCZRVG4ZGGNJRG5SWIZJVMM/"
-        },
-        {
-          "title": "서효림, 2주기 故 김수미에 대한 그리움 “김치 출시, 마음이 싱숭생숭”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610231805013"
+          "title": "How to watch Clippers vs. Lakers: TV channel and streaming options for October 23",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7718017/2026/10/23/clippers-vs-lakers-stream-how-to-watch-oct-23/"
         }
       ]
     }
