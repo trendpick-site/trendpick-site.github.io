@@ -1,27 +1,27 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T05:37:03+00:00",
+  "fetched_at": "2026-10-24T06:05:35+00:00",
   "items": [
     {
-      "title": "안양 대 전북",
-      "approx_traffic": "2000+",
-      "published": "Fri, 23 Oct 2026 21:20:00 -0700",
+      "title": "warriors vs grizzlies",
+      "approx_traffic": "100+",
+      "published": "Fri, 23 Oct 2026 21:50:00 -0700",
       "news": [
         {
-          "title": "\"힘들지만 둘 다 놓칠 수 없다\" K리그1와 ACLE 병행하는 정정용 감독, 두 마리 토끼 사냥 나선다 [SPO 현장]",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015093"
+          "title": "Memphis Grizzlies caught enemy Golden State Warriors in enemy territory.",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12184798"
         },
         {
-          "title": "티아고 시즌 10골+MVP 만들어준 이승우의 환상적인 노룩패스…“거기 있을 줄 알았어” '환상적인 케미 대폭발 [오!쎈 전주] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/football/2026/10/21/GA3GIMTFHA2WIMZRHFTDGM3DMY/"
+          "title": "Cedric Coward Injury: Won't play Friday",
+          "source": "RotoWire",
+          "url": "https://www.rotowire.com/basketball/headlines/cedric-coward-injury-wont-play-friday-535736"
         },
         {
-          "title": "'4경기 무승 탈출' 전북 2위 울산 턱밑 추격! 안양 상대로 2연승 도전...'3년 만에 두 자릿수 득점' 티아고 발끝에 기대",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026102322583608089"
+          "title": "Cameron Boozer hits go-ahead jumper with 20 seconds left, Grizzlies rally to beat Warriors 111-108",
+          "source": "ABC30 Fresno",
+          "url": "https://abc30.com/post/cameron-boozer-hits-go-ahead-jumper-20-seconds-left-grizzlies-rally-beat-warriors-111-108/19974815/"
         }
       ]
     },
@@ -41,11 +41,17 @@
           "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024140600Omk"
         },
         {
-          "title": "야고·클리말라 선두 다툼… 무고사도 추격, K리그1 득점왕 '안갯속'",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261023504046"
+          "title": "'후이즈-클리말라 동시 출격' FC서울, '김대원 선발' 강원전 선발 라인업 공개...이기면 우승이다 [오!쎈 서울]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/10/24/GJTGCNLDGZRDQOBWG4YDCZBZMM/"
         }
       ]
+    },
+    {
+      "title": "안양 대 전북",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 21:20:00 -0700",
+      "news": []
     },
     {
       "title": "인천 대 제주",
@@ -64,14 +70,14 @@
           "url": "https://www.donga.com/news/Inter/article/all/20261023/134899915/2"
         },
         {
-          "title": "’거대 잉어’ 업고 유유히…“공원 불법 낚시“·“외래종 제거“ 논쟁",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261021173732wVD"
-        },
-        {
           "title": "[와글와글] \"골칫거리 잡았는데?\"‥\"하면 안 되는 행동\"",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6860110_37012.html"
+        },
+        {
+          "title": "\"월척 잡았네\" 어깨에 잉어 메고 유유히…공원 발칵 뒤집혔다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/24/2026102408534264999"
         }
       ]
     },
@@ -86,14 +92,14 @@
           "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172654"
         },
         {
+          "title": "삼성전기, 4분기 영업익 8천억 돌파 전망 By 알파경제 alphabiz",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2138558"
+        },
+        {
           "title": "[단독] 빅테크, 첨단기판 못구해 발동동 … 韓·日공장 증설에 돈 쏟아부어",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/news/business/12183246"
-        },
-        {
-          "title": "부산에 엔비디아 전용 생산라인 선다(종합)",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261023.22008006709"
         }
       ]
     },
@@ -113,9 +119,9 @@
           "url": "https://unionilbo.com/2228778"
         },
         {
-          "title": "김천상무, 대전과 정규라운드 마지막 경기…할로윈 홈경기 이벤트 진행",
-          "source": "웹이코노미",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2344688"
+          "title": "[현장목소리] \"최대한 높은 곳까지 가보겠다\" 대전 황선홍 감독, 정규 시즌 '마지막 라운드' 김천전 앞두고 '의지 활활'",
+          "source": "Your Field",
+          "url": "https://yourfield.nexon.com/today/view/2025052909553641111?type=all"
         }
       ]
     },
@@ -147,41 +153,19 @@
       "published": "Fri, 23 Oct 2026 21:10:00 -0700",
       "news": [
         {
-          "title": "TST Images: Lakers defeat Clippers, 125-117, at Crypto.com Arena",
-          "source": "The Sporting Tribune",
-          "url": "https://www.thesportingtribune.com/2026/10/23/261023-clippers-at-lakers"
-        },
-        {
           "title": "Lakers player grades: Lakers get past Clippers, improve to 2-0",
           "source": "Lakers Wire",
           "url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/10/23/lakers-player-grades-lakers-get-past-clippers-improve-to-2-0/92411390007/"
         },
         {
+          "title": "How to watch Lakers vs Clippers: NBA, live stream, TV channel",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/watch-lakers-vs-clippers-nba-010000107.html"
+        },
+        {
           "title": "Clippers Lakers Basketball",
           "source": "Corsicana Daily Sun",
-          "url": "https://www.corsicanadailysun.com/sports/national_sports/clippers-lakers-basketball/image_edfccee6-abb1-52e9-a08b-76be9dd8ad91.html"
-        }
-      ]
-    },
-    {
-      "title": "신상출시 편스토랑",
-      "approx_traffic": "200+",
-      "published": "Fri, 23 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "도경완, '120억 집' 관리비에 한숨…\"애들 변기 물도 못 내리게 해\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102411282968011"
-        },
-        {
-          "title": "“괜히 들어갔네” 도경완도 물렸다…고점 대비 89% 폭락한 이 상품",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02578086645615872&mediaCodeNo=257"
-        },
-        {
-          "title": "“장윤정한테 미안해서 시작” 하닉 레버리지 ‘-40%’ 고백한 도경완…이런 개미들 손실 ‘6조 원’",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105212"
+          "url": "https://www.corsicanadailysun.com/sports/national_sports/clippers-lakers-basketball/image_7d2915a7-7223-53c7-8140-b598dd69d605.html"
         }
       ]
     },
