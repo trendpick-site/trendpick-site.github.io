@@ -1,11 +1,99 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T19:58:22+00:00",
+  "fetched_at": "2026-10-24T20:34:02+00:00",
   "items": [
     {
+      "title": "cblol",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 12:30:00 -0700",
+      "news": [
+        {
+          "title": "Worlds 2026: ''Eu nunca fugi do meta'', diz LOS Curse às vésperas da estreia",
+          "source": "Mais Esports",
+          "url": "https://maisesports.com.br/worlds-2026-eu-nunca-fugi-do-meta-diz-los-curse-as-vesperas-da-estreia"
+        },
+        {
+          "title": "LØS Duduhh: \"Foi apenas um jogo, o próximo vai ser diferente\"",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/pt/articles/los-duduhh-it-was-just-one-game-the-next-one-will-be-different/pt"
+        },
+        {
+          "title": "LOS estreia contra a T1 nesta sexta no Mundial de LoL 2026; veja onde assistir",
+          "source": "arenaesports.com.br",
+          "url": "https://arenaesports.com.br/league-of-legends/los-estreia-contra-a-t1-nesta-sexta-no-mundial-de-lol-2026-veja-onde-assistir/"
+        }
+      ]
+    },
+    {
+      "title": "kf-21 보라매",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 12:20:00 -0700",
+      "news": [
+        {
+          "title": "전투기는 국산인데 ‘심장’은 미국산…KF-21에 ‘한국 엔진’ 달면 생기는 일 [밀리터리+]",
+          "source": "나우뉴스",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261022601023"
+        },
+        {
+          "title": "MBC경남, 창사특집 다큐 '첨단 항공엔진이 온다' 22일 방송",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610211441398013"
+        },
+        {
+          "title": "독자개발 훈련기 '웅비'의 튀르키예 수출에 방위사업청이 당황한 이유",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026101913180001658"
+        }
+      ]
+    },
+    {
+      "title": "사랑이 온다",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 12:20:00 -0700",
+      "news": [
+        {
+          "title": "‘상속포기’ 하석진, ♥안희연 택했다… ‘사랑이 온다’ 폭풍 전야 예고",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610242122003"
+        },
+        {
+          "title": "[사랑이 온다] 안희연과 교제 조건으로 상속 포기 각서에 사인하는 하석진 “미련 없습니다”",
+          "source": "KBS연예",
+          "url": "https://kstar.kbs.co.kr/list_view.html?idx=413100"
+        },
+        {
+          "title": "‘사랑이 온다’ 하석진, 상속·증여 포기…”거렁뱅이 사랑할까?”",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=776074"
+        }
+      ]
+    },
+    {
+      "title": "천만송이국화축제",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 12:20:00 -0700",
+      "news": [
+        {
+          "title": "가을비 속 국화 향연...익산 '천만 송이' 국화 축제",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202610241540139540"
+        },
+        {
+          "title": "가을 정취 가득…익산 천만 송이 국화 축제",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024135947UbM"
+        },
+        {
+          "title": "국화주 띄우고 단풍 보러 가던 절기 ‘상강’…1000만송이 국화축제 막 올라 [여행+]",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261023505784"
+        }
+      ]
+    },
+    {
       "title": "아틀레티코",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 11:40:00 -0700",
       "news": [
         {
@@ -14,9 +102,9 @@
           "url": "https://www.jemin.com/news/articleView.html?idxno=845223"
         },
         {
-          "title": "'대반전' 부상이라던 이강인, UCL 결장→단 4일 만에 선발 복귀 확정...시메오네, 라리가 6연승 도전 - 머니투데이",
+          "title": "'이강인 부상 복귀하자마자 슈팅 폭발!' 전반에만 오른발·왼발 연속 시도...ATM, 데포르티보전 전반 0-0 마무리 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/25/202610250401774133O"
+          "url": "https://www.mt.co.kr/sports/2026/10/25/202610250404774398O"
         },
         {
           "title": "한 달 넘게 침묵 중인 이강인, 데포르티보전서 공격포인트 정조준",
@@ -49,23 +137,45 @@
     },
     {
       "title": "프리미어리그",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sat, 24 Oct 2026 11:20:00 -0700",
       "news": [
         {
-          "title": "프리미어 리그 리버풀 대 브라이튼 점수 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-liverpool-vs-brighton-tai-premier-league-1788534.ldo"
+          "title": "마레스카, “빌라전 패배, 결정력이 부족했다”",
+          "source": "Manchester City FC",
+          "url": "https://kr.mancity.com/news/mens/enzo-maresca-aston-villa-premier-league-reaction-october-2026-63928457"
         },
         {
-          "title": "리버풀 대 브라이튼 경기 프리뷰 및 예측: 막강한 공격력을 자랑하는 두 팀의 맞대결.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-du-doan-tran-dau-liverpool-vs-brighton-dai-chien-giua-hai-hang-cong"
+          "title": "'김민재 전 동료' 잭슨 원맨쇼! '멀티골' 맹활약, 아스톤 빌라 '중징계 위기' 맨체스터 시티 2-1 제압...7연승 행진 저지",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026102423274173084"
         },
         {
-          "title": "프리미어 리그 첼시 대 토트넘 생중계 링크",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-chelsea-vs-tottenham-tai-premier-league-1788618.ldo"
+          "title": "맨체스터 시티 초대형 희소식! \"홀란드는 100% 출전할 수 있다\" 24일 애스턴 빌라전 복귀 예고",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553639727"
+        }
+      ]
+    },
+    {
+      "title": "epl",
+      "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 11:20:00 -0700",
+      "news": [
+        {
+          "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates as it happens from across the Premier League",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cm4gvy14w7q4t"
+        },
+        {
+          "title": "Team news: Eze one of five changes to face Everton",
+          "source": "Arsenal.com",
+          "url": "https://www.arsenal.com/news/team-news-eze-one-of-five-changes-to-face-everton-aZIZd3e0c1Yj"
+        },
+        {
+          "title": "Arsenal 2-0 Everton, Coventry 0-1 Fulham: football clockwatch – as it happened",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/oct/24/tottenham-arsenal-wsl-premier-league-efl-football-clockwatch-live"
         }
       ]
     },
@@ -75,19 +185,19 @@
       "published": "Sat, 24 Oct 2026 11:10:00 -0700",
       "news": [
         {
-          "title": "Worlds 2026: LYON Overcome Early Chaos to Stomp Team Secret Whales into 1-0 Bracket",
-          "source": "EGamersWorld",
-          "url": "https://egamersworld.com/lol/news/37999/lyon-punish-team-secret-whales-to-close-out-worlds-aFBXTW8wn"
-        },
-        {
           "title": "TSW Eddie: \"Vietnamese teams are not just trying to win the LCP anymore\"",
           "source": "Sheep Esports",
           "url": "https://www.sheepesports.com/en/articles/tsw-eddie-vietnamese-teams-are-not-just-trying-to-win-the-lcp-anymore/en"
         },
         {
-          "title": "Lcp: Team Secret Whales vs. LYON closes day one of the 2026 Worlds Swiss Stage",
-          "source": "شبكة تواصل الإخبارية",
-          "url": "https://twaslnews1.twaslnews.com/6491664/"
+          "title": "Worlds 2026: LYON Overcome Early Chaos to Stomp Team Secret Whales into 1-0 Bracket",
+          "source": "EGamersWorld",
+          "url": "https://egamersworld.com/lol/news/37999/lyon-punish-team-secret-whales-to-close-out-worlds-aFBXTW8wn"
+        },
+        {
+          "title": "TSW Eddie: \"Every Time We Go To Worlds, There's Always Something Missing.\"",
+          "source": "Hotspawn",
+          "url": "https://www.hotspawn.com/league-of-legends/news/tsw-eddie-worlds-2026-interview"
         }
       ]
     },
@@ -97,129 +207,19 @@
       "published": "Sat, 24 Oct 2026 11:10:00 -0700",
       "news": [
         {
+          "title": "1,4% kontra 22,2%. Najnowsze dane z polskich powiatów dosłownie zaskakują",
+          "source": "Forsal.pl",
+          "url": "https://forsal.pl/gospodarka/bezrobocie/artykuly/11335743,14-kontra-222-najnowsze-dane-z-polskich-powiatow-doslownie-zaskakuja.html"
+        },
+        {
           "title": "Bogdan Borusewicz w Kijowie: jestem dziś tutaj, żeby ci ludzie nie czuli się osamotnieni",
           "source": "Polska Agencja Prasowa SA",
           "url": "https://www.pap.pl/aktualnosci/bogdan-borusewicz-w-kijowie-jestem-dzis-tutaj-zeby-ci-ludzie-nie-czuli-sie-osamotnieni"
         },
         {
-          "title": "Niesprawne czołgi w Braniewie? Agencja Uzbrojenia odpowiada",
-          "source": "Defence24",
-          "url": "https://defence24.pl/sily-zbrojne/niesprawne-czolgi-w-braniewie-agencja-uzbrojenia-odpowiada"
-        },
-        {
-          "title": "Polskie czołgi K2 na straży strategicznego odcinka granicy z Rosją. Co z usterkami maszyn?",
-          "source": "Zero.pl",
-          "url": "https://zero.pl/news/polskie-czolgi-k2-na-strazy-strategicznego-odcinka-granicy-z-rosja-co-z-usterkami-maszyn"
-        }
-      ]
-    },
-    {
-      "title": "เชลซี พบ สเปอร์ส",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 11:10:00 -0700",
-      "news": [
-        {
-          "title": "การคาดการณ์ผลการแข่งขันระหว่างเชลซีกับท็อตแนม: สถิติการพบกันเป็นข้อได้เปรียบที่สำคัญ",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-chelsea-vs-tottenham-diem-tua-tu-thanh-tich-doi-dau"
-        },
-        {
-          "title": "~^$+√#™(PPTV HD 36) ดู ทีมชาติสเปอร์ส พบ เชลซี ถ่ายทอดสดฟุตบอลวันนี้ ฟีฟ่า อาเซียน คัพ",
-          "source": "FC東京オフィシャルホームページ",
-          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2h1bWF5cmFrdGVyLmdpdGh1Yi5pby92aWRlby9zLnhtbCIvPjwva3JwYW5vPg==&id=video-chelsea-vs-spurs-liv-tid-01"
-        },
-        {
-          "title": "\"ไก่เดือยทอง\" แรงไม่หยุดบุกจิก \"สิงห์สำอาง\" 10 ตัวถึงถ้ำ",
-          "source": "เดลินิวส์",
-          "url": "https://www.dailynews.co.th/news/6302220/"
-        }
-      ]
-    },
-    {
-      "title": "cfo",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 10:50:00 -0700",
-      "news": [
-        {
-          "title": "Forgent Power Solutions Shares Plunge as CFO Exits Less Than a Year After IPO",
-          "source": "BigGo Finance",
-          "url": "https://finance.biggo.com/news/0de482ef-daae-4c17-8d71-ae3d0c76da67"
-        },
-        {
-          "title": "FPS Stock Plunges To Record Low, Falls Below IPO Price After CFO Ryan Fiedler's Exit",
-          "source": "TradingView",
-          "url": "https://fr.tradingview.com/news/stocktwits:56733c67d094b:0-fps-stock-plunges-to-record-low-falls-below-ipo-price-after-cfo-ryan-fiedler-s-exit/"
-        },
-        {
-          "title": "Forgent Power CFO leaves after a year",
-          "source": "CFO Dive",
-          "url": "https://www.cfodive.com/news/forgent-power-cfo-leaves-one-year-ipo-comp/833872/"
-        }
-      ]
-    },
-    {
-      "title": "도르트문트 대 아인트라흐트",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 10:50:00 -0700",
-      "news": [
-        {
-          "title": "분데스리가 도르트문트 대 프랑크푸르트 경기 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-dortmund-vs-frankfurt-tai-bundesliga-1788245.ldo"
-        },
-        {
-          "title": "보루시아 도르트문트 vs 아인트라흐트 프랑크푸르트 예측: 선두 자리를 노릴 기회",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-borussia-dortmund-vs-eintracht-frankfurt-co-hoi-bam-duoi-ngoi-dau"
-        },
-        {
-          "title": "도르트문트, 프랑크푸르트와 격돌…선두 추격전 : 스포츠",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1047224"
-        }
-      ]
-    },
-    {
-      "title": "2026 롤드컵",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 10:40:00 -0700",
-      "news": [
-        {
-          "title": "LCK 4전 전승 속 2R 내전 성사…LPL은 1패조 벼랑 끝 승부",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261024110526"
-        },
-        {
-          "title": "[고용준의 e스포츠 엿보기] 요란한 혜택보다 무거운 태극마크… '제카' 김건우가 보여준 프로의 진정성",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112897564"
-        },
-        {
-          "title": "[롤드컵 톡톡] '쵸비' 정지훈의 진심, \"월즈 탈락 아픔 깊이 고찰, 올해는 다른 모습 증명할 것\"",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261023113815311"
-        }
-      ]
-    },
-    {
-      "title": "tes",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 10:30:00 -0700",
-      "news": [
-        {
-          "title": "NFL Fantasy 2026 Start 'Em, Sit 'Em: Tight ends for Week 7",
-          "source": "NFL.com",
-          "url": "https://www.nfl.com/news/nfl-fantasy-2026-start-em-sit-em-tight-ends-for-week-7"
-        },
-        {
-          "title": "Week 7 Fantasy Football TE Rankings",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-week-7-start-sit-advice-tight-end-153811492.html"
-        },
-        {
-          "title": "Bets for National Tight Ends Day: Props and picks for Sunday's games",
-          "source": "ESPN",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50221073/nfl-week-7-odds-tight-ends-betting-props-preview"
+          "title": "Tusk upokarza Hołownię. Nawrocki atakuje Domańskiego. Kosiniak wściekły na Lewicę. Obajtek ścigany",
+          "source": "Wiadomości Onet",
+          "url": "https://wiadomosci.onet.pl/kraj/tusk-upokarza-holownie-nawrocki-atakuje-domanskiego-kosiniak-wsciekly-na-lewice/8esl8x0"
         }
       ]
     }
