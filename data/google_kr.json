@@ -1,11 +1,55 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T17:05:56+00:00",
+  "fetched_at": "2026-10-24T17:34:13+00:00",
   "items": [
     {
+      "title": "첼시",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 09:30:00 -0700",
+      "news": [
+        {
+          "title": "‘아스널 초비상!’ 2003년생 프랑스 국대 찍었는데 바르셀로나-첼시-PSG까지 달려들었다!…인터 밀란 MF 디우프 두고 대형 영입전 예고!",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99765"
+        },
+        {
+          "title": "첼시-토트넘 경기에서 실시간 얼굴인식 시스템 가동…범죄 예방인가, 관중 감시인가",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610221358003"
+        },
+        {
+          "title": "프리미어 리그 첼시 대 토트넘 생중계 링크",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-chelsea-vs-tottenham-tai-premier-league-1788618.ldo"
+        }
+      ]
+    },
+    {
+      "title": "볼카노프스키",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 09:00:00 -0700",
+      "news": [
+        {
+          "title": "'타이틀전 최다승 도전' 볼카노프스키 화끈 도발 \"상대 패닉에 빠질 것... 피니시로 끝내주겠다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/24/2026102411132621685"
+        },
+        {
+          "title": "[격투기] '챔피언' 얀·'도전자' 드발리쉬빌리, 모두 계체량 통과…진정한 맞대결 남아",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261024000057"
+        },
+        {
+          "title": "볼카노프스키, ‘20승 도전자’ 넘고 페더급 GOAT 될까",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105460"
+        }
+      ]
+    },
+    {
       "title": "chelsea vs spurs",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sat, 24 Oct 2026 08:50:00 -0700",
       "news": [
         {
@@ -14,14 +58,14 @@
           "url": "https://www.skysports.com/football/news/13602410/premier-league-predictions-and-jones-knows-best-bets-tottenham-vs-chelsea-brighton-vs-liverpool-man-utd-vs-bournemouth-and-much-more"
         },
         {
-          "title": "Alonso konfirmon mungesën e Martinezit",
-          "source": "Reporteri",
-          "url": "https://reporteri.net/en/sport/Alonso-confirms-Martinez%27s-absence/"
+          "title": "Video - Xabi Alonso Issued Chelsea Warning After Learning Spurs Setback Ultimatum",
+          "source": "roundtable.io",
+          "url": "https://roundtable.io/sports/soccer/premier-league/chelsea/video/xabi-alonso-issued-chelsea-warning-after-learning-spurs-setback-ultimatum"
         },
         {
-          "title": "Spurs’ poor Chelsea record fuels motivation",
-          "source": "Egyptian Gazette",
-          "url": "https://egyptian-gazette.com/sports/spurs-poor-chelsea-record-fuels-motivation/"
+          "title": "EPL: Gusto Fit for Tottenham Clash, Martinez Out for Weeks — Alonso",
+          "source": "Real Broadcasting Network",
+          "url": "https://therealmediang.com/sports/epl-gusto-fit-for-tottenham-clash-martinez-out-for-weeks-alonso"
         }
       ]
     },
@@ -109,6 +153,28 @@
       ]
     },
     {
+      "title": "이재성",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 08:30:00 -0700",
+      "news": [
+        {
+          "title": "[bundes.review] '모레노호에 반가운 소식! 이재성 헤더골 폭발'… 마인츠는 브레멘에 2-3 패배!",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99776"
+        },
+        {
+          "title": "[분데스 REVIEW] 이재성 시즌 1호골 터졌지만 빛바랬다! 추격의 헤더골로 반격 이끌었지만 역부족…마인츠, 브레멘에 2-3 패배",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697076"
+        },
+        {
+          "title": "[공식발표] ‘11월 A매치 앞두고 모레노호에 반가운 소식!’… 이재성, 브레멘전 선발 출격 확정!",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99770"
+        }
+      ]
+    },
+    {
       "title": "파이널 테이블",
       "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 08:00:00 -0700",
@@ -119,14 +185,14 @@
           "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102413337246340"
         },
         {
-          "title": "배우 정민성, 자연인 됐다..'파이널 테이블' 특별출연 [공식]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112897159"
+          "title": "함재현, '파이널 테이블' 출연…이현균 곁 지키는 수셰프 변신",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261023001173"
         },
         {
-          "title": "[TF초점] 매각 본격화 JTBC…'파이널 테이블', 분위기 반전 카드 될까",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/entertain/2380249.htm"
+          "title": "[사진]정유진, '손하트 멋지게'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896716"
         }
       ]
     },
@@ -149,72 +215,6 @@
           "title": "주말에 잠수교서 치킨 먹을까, 김천서 김밥 먹을까…전국 미식 축제 ‘풍성’",
           "source": "www.dt.co.kr",
           "url": "https://www.dt.co.kr/article/12090881"
-        }
-      ]
-    },
-    {
-      "title": "아스날",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 07:40:00 -0700",
-      "news": [
-        {
-          "title": "왜 아스날은 이번 시즌 프리미어 리그에서 코너킥으로 득점하지 못했을까요?",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/vi-sao-arsenal-chua-ghi-ban-tu-phat-goc-tai-premier-league-mua-nay-1788514.ldo"
-        },
-        {
-          "title": "아스널 공격수 사카, 허벅지 부상으로 최소 6주 이탈",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024015000007"
-        },
-        {
-          "title": "[EPL] 아스널 사카, 허벅지 부상으로 최소 6주 결장 전망",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261024000029"
-        }
-      ]
-    },
-    {
-      "title": "ufc",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 07:30:00 -0700",
-      "news": [
-        {
-          "title": "Alexander Volkanovski’s training partner scores huge upset at UFC 333",
-          "source": "talkSPORT",
-          "url": "https://talksport.com/mma/4664864/alexander-volkanovski-training-partner-win-ufc-333-colby-thicknesse/"
-        },
-        {
-          "title": "Battle between teammates of Petr Yan and Alexander Volkanovski ends in controversy at UFC 333",
-          "source": "Bloody Elbow",
-          "url": "https://bloodyelbow.com/2026/10/24/battle-between-teammates-of-petr-yan-and-alexander-volkanovski-ends-in-controversy-at-ufc-333/"
-        },
-        {
-          "title": "Alexander Volkov Explains How Second Loss To Ciryl Gane Almost Ended His Career",
-          "source": "Sportscape Magazine",
-          "url": "https://www.sportscapemagazine.com/blog/alexander-volkov-explains-how-second-loss-to-ciryl-gane-almost-ended-his-career"
-        }
-      ]
-    },
-    {
-      "title": "강서 고문 살인 사건",
-      "approx_traffic": "1000+",
-      "published": "Sat, 24 Oct 2026 07:20:00 -0700",
-      "news": [
-        {
-          "title": "연인 3시간 넘게 고문·살해한 연하男…홈캠에 찍힌 잔혹한 진실",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6596450"
-        },
-        {
-          "title": "'그것이 알고싶다', 여친 장기 파열시켜 죽인 남친의 엽기 고문 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102418007219047"
-        },
-        {
-          "title": "[다시보기] 그것이 알고싶다 1509회",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000638667"
         }
       ]
     }
