@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T22:02:54+00:00",
+  "fetched_at": "2026-10-24T22:33:58+00:00",
   "items": [
+    {
+      "title": "박현호",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "은가은♥박현호, 신나는 부부 동반 행사 | KBS 261024 방송",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026180240-01-000_MFSC3&program_code=T2016-0651&program_id=PS-2026180240-01-000&section_code=04&broadcast_complete_yn=N&section_id=10737"
+        },
+        {
+          "title": "은가은, 행사장서 헛구역질…박현호 임신테스트기 꺼냈다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839415"
+        },
+        {
+          "title": "‘살림남’ 은가은, 엔믹스 설윤 실물에 감탄 “딸도 이렇게 얼굴 작았으면”",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522340"
+        }
+      ]
+    },
+    {
+      "title": "이다해",
+      "approx_traffic": "1000+",
+      "published": "Sat, 24 Oct 2026 14:10:00 -0700",
+      "news": [
+        {
+          "title": "이다해, '중국풍' 외모 지적에 \"조금씩 달라지는 내 모습 즐겨\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839708"
+        },
+        {
+          "title": "\"2시간 만에 200억\"…이다해 출연한 中 광군제 라이브커머스 '대박'",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026102008105864202"
+        },
+        {
+          "title": "이다해, 출산 앞두고 난데없는 성형설..'중국인' 스태프 때문이었다 [핫피플]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/MU3TKMZYMJRGMM3FME2TCZRTME/"
+        }
+      ]
+    },
     {
       "title": "메이저 리그 사커",
       "approx_traffic": "200+",
@@ -58,14 +102,14 @@
           "url": "https://www.jemin.com/news/articleView.html?idxno=845223"
         },
         {
-          "title": "'이강인 부상 복귀하자마자 슈팅 폭발!' 전반에만 오른발·왼발 연속 시도...ATM, 데포르티보전 전반 0-0 마무리 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/25/202610250404774398O"
+          "title": "이강인, 부상 우려 씻고 67분 활약…아틀레티코 라리가 6연승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694453"
         },
         {
-          "title": "한 달 넘게 침묵 중인 이강인, 데포르티보전서 공격포인트 정조준",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003838811"
+          "title": "\"이강인, ATM서 돋보인 몇 안 되는 선수\" 스페인 현지도 인정... \"두 번이나 멋진 골에 가까웠다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102506433953233"
         }
       ]
     },
@@ -75,14 +119,14 @@
       "published": "Sat, 24 Oct 2026 13:50:00 -0700",
       "news": [
         {
+          "title": "“김장 양념이 남았네”…재료별 사용량 적어 구매량 조절",
+          "source": "비건뉴스",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=396589"
+        },
+        {
           "title": "괴산 절임배추 20㎏에 4만5000원…구로구에서 산다",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261023_0003839004"
-        },
-        {
-          "title": "구로구, 괴산군 절임배추 직거래행사…오는 26일부터 신청",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625681"
         },
         {
           "title": "“김치냉장고 채우러 가볼까”...전국 곳곳 ‘김장 축제’ 잇따라",
@@ -92,8 +136,30 @@
       ]
     },
     {
+      "title": "f1",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 13:50:00 -0700",
+      "news": [
+        {
+          "title": "Formula 1® United States Grand Prix™ streams live on Apple TV this weekend",
+          "source": "Apple",
+          "url": "https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/"
+        },
+        {
+          "title": "F1 United States GP: Follow FP3 at Austin with live timing",
+          "source": "Autosport",
+          "url": "https://www.autosport.com/f1/live-text/f1-united-states-gp-follow-fp3-at-austin-with-live-timing/1128106/"
+        },
+        {
+          "title": "Max Verstappen handed unequivocal backing ahead of United States GP qualifying",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/max-verstappen-handed-unequivocal-backing-ahead-of-united-states-gp-qualifying"
+        }
+      ]
+    },
+    {
       "title": "삼성전자",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Sat, 24 Oct 2026 13:40:00 -0700",
       "news": [
         {
@@ -151,75 +217,9 @@
           "url": "https://mydaily.co.kr/page/view/2026102122345748951"
         },
         {
-          "title": "[동포의 창] 한인청소년합창단, 손흥민 출전 경기서 美 국가 제창·K팝 공연",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020034800371"
-        }
-      ]
-    },
-    {
-      "title": "춘천마라톤",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 13:20:00 -0700",
-      "news": [
-        {
-          "title": "1946년 시작된 ‘가을의 전설’… 이번엔 선수·일반인 함께 달린다",
+          "title": "\"토트넘 떠날 때 나도 울었다\" 6살 꼬마 팬도 손흥민도 눈물...LAFC 이적 1년 후, 애틋한 고백 \"아마 내가 가장 열렬한 팬일 것\"",
           "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/10/24/5SLMTIUOTZCIJL64TJ5S2ZRG2I/"
-        },
-        {
-          "title": "청도경찰서, 청도반시 마라톤대회 앞두고 교통안전 점검",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/region/article/all/20261023/134894159/1"
-        },
-        {
-          "title": "춘천마라톤 25일 개최…의암호 달리고 도심 교통 일부 통제",
-          "source": "유스연합",
-          "url": "https://www.youthassembly.kr/news/1015638"
-        }
-      ]
-    },
-    {
-      "title": "창신메모리테크놀로지",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 13:20:00 -0700",
-      "news": [
-        {
-          "title": "CXMT 이어 YMTC까지… 삼전닉스 맹추격하는 중국 메모리의 공포 [반도체 투자 리포트]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261023512647"
-        },
-        {
-          "title": "26년 만에 만든 'CHIP' 전시관…'반도체 굴기' 다시 힘주는 중국? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/25/2026102310271946840"
-        },
-        {
-          "title": "中 지방 정부가 10년 동안 키운 CXMT… ‘회색 코뿔소’처럼 진격한다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/weeklybiz/2026/10/24/FVU5SGBEYVGLLIGAW5E3I2XH4Y/"
-        }
-      ]
-    },
-    {
-      "title": "황연주",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 13:10:00 -0700",
-      "news": [
-        {
-          "title": "황연주 터졌다..김연경, 한일전 뼈아픈 패배 딛고 '소름 돋는 용병술' ('신인감독2')",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112897675"
-        },
-        {
-          "title": "\"이제 진짜 시작\"…김연경, 일본 명문 배구단에 반격 예고(신인감독2)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522168"
-        },
-        {
-          "title": "김연경, 日 슈지츠 고교에 역전 노린다…황연주 활약 기대",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6330682"
+          "url": "https://www.chosun.com/sports/world-football/2026/10/19/HAYGCZJRMM2GMOLGMJRTIN3FGY/"
         }
       ]
     }
