@@ -1,27 +1,115 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T10:35:54+00:00",
+  "fetched_at": "2026-10-24T11:04:28+00:00",
   "items": [
+    {
+      "title": "경찰",
+      "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 03:00:00 -0700",
+      "news": [
+        {
+          "title": "\"또 털리느니\" 직접 무장 나섰다…프랑스 주말 ‘최대 분수령’",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12324569"
+        },
+        {
+          "title": "프랑스, 경찰 7만명 투입해 시위 대응…위기감↑",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024180837wyc"
+        },
+        {
+          "title": "[크랩] 교실에 나온 쥐 잡으려다 나라 뒤집힌 프랑스…대선 판까지 ‘출렁’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694254"
+        }
+      ]
+    },
+    {
+      "title": "정준하 아이스크림",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "‘놀면 뭐하니?’ 유재석·정준하, 주우재·곽범에 발끈…‘먹쪄 모임’ 뒤집은 막내들의 반란",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845185"
+        },
+        {
+          "title": "유재석, ‘먹쪄’ 계원들 먹성 폭주하자 ‘돈 싸대기’로 진압 (놀뭐)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522297"
+        },
+        {
+          "title": "유재석 \"사람들이 나 쓰러진 줄 알아\"…건강 이상설 해명",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839447"
+        }
+      ]
+    },
+    {
+      "title": "인플루엔자",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "제주도, 26일부터 보건소서 독감 무료 예방접종",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845175"
+        },
+        {
+          "title": "26일부터 제주서 인플루엔자 무료 예방 접종",
+          "source": "한라일보",
+          "url": "https://m.ihalla.com/article.php?aid=1792720837791946044"
+        },
+        {
+          "title": "괴산군, 독감·대상포진 등 예방접종 무료 지원 확대",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610211556069613"
+        }
+      ]
+    },
+    {
+      "title": "니케 4주년",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "레벨 인피니트, ‘승리의 여신: 니케’ 4주년 특별 방송 진행",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261023132652"
+        },
+        {
+          "title": "시프트업 '니케', 4주년 특별 방송 임박…'지상 탈환전' 새 국면 열리나",
+          "source": "스포츠한국",
+          "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942093"
+        },
+        {
+          "title": "[스토리] 무대는 클라이맥스로! 전원 집결 일러스트로 살펴본 인류의 전력",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322491"
+        }
+      ]
+    },
     {
       "title": "부산항",
       "approx_traffic": "5000+",
       "published": "Sat, 24 Oct 2026 02:30:00 -0700",
       "news": [
         {
-          "title": "[속보]이틀간 사라졌던 ‘부캉이’ 다시 나타나…최종 목격지점서 2㎞ 떨어진 곳서 유영",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625921"
-        },
-        {
-          "title": "아침부터 모습 감춘 상어 ‘부캉이’ 어디로 갔나···“잠영하며 바다 적응 하는 듯”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610231824001"
+          "title": "[속보] 다시만난 부캉이, 부산항 국제여객터미널 부근 항만서 유영 확인",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261024.99099006958"
         },
         {
           "title": "북항 해역 기름 유출‥자취 감춘 '부캉이'",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860336_37004.html"
+        },
+        {
+          "title": "아침부터 모습 감춘 상어 ‘부캉이’ 어디로 갔나···“잠영하며 바다 적응 하는 듯”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610231824001"
         }
       ]
     },
@@ -49,7 +137,7 @@
     },
     {
       "title": "호나우지뉴",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 02:30:00 -0700",
       "news": [
         {
@@ -66,28 +154,6 @@
           "title": "2002 월드컵 브라질 우승 주역 호나우지뉴, 11년 만에 그라운드 복귀",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_ln/0107_202610241437097183"
-        }
-      ]
-    },
-    {
-      "title": "놀면 뭐하니?",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 02:20:00 -0700",
-      "news": [
-        {
-          "title": "‘놀면 뭐하니?’ 유재석·정준하, 주우재·곽범에 발끈…‘먹쪄 모임’ 뒤집은 막내들의 반란",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845185"
-        },
-        {
-          "title": "유재석 \"사람들이 나 쓰러진 줄 알아\"…건강 이상설 해명",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261024_0003839447"
-        },
-        {
-          "title": "유재석, ‘먹쪄’ 계원들 먹성 폭주하자 ‘돈 싸대기’로 진압 (놀뭐)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522297"
         }
       ]
     },
@@ -114,28 +180,6 @@
       ]
     },
     {
-      "title": "여객",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "인천공항서 빵 봉지에 불 지른 60대 남성 검거",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693673"
-        },
-        {
-          "title": "새벽 인천공항 터미널서 라이터로 불…시민이 소화기로 끄고 제압",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261023580101"
-        },
-        {
-          "title": "인천공항 여객터미널서 빵 봉지에 불 지른 60대 검거…이용객이 진화",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261023001069"
-        }
-      ]
-    },
-    {
       "title": "김남춘",
       "approx_traffic": "100+",
       "published": "Sat, 24 Oct 2026 02:10:00 -0700",
@@ -158,68 +202,24 @@
       ]
     },
     {
-      "title": "설인아",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "임시완 “피부과 이렇게 열심히 간 건 태어나서 처음” (살롱드립)[어제TV]",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202610210706391710"
-        },
-        {
-          "title": "설인아 “숨이 안 쉬어져”⋯남장 위해 가슴에 한 ‘이것’, 소화까지 힘들었다고?",
-          "source": "코메디닷컴",
-          "url": "https://kormedi.com/2885829/"
-        },
-        {
-          "title": "설인아, 임시완 미모에 매일 감탄…장도연 “둘이 사귀어 주세요”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261020/134878922/1"
-        }
-      ]
-    },
-    {
-      "title": "이선민",
+      "title": "여객",
       "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 02:10:00 -0700",
       "news": [
         {
-          "title": "이선민, ‘모태 마름’ 코쿤 벌크업 나섰다…‘밥도둑 식단’ 도전",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261023/134896492/1"
+          "title": "인천공항서 빵 봉지에 불 지른 60대 남성 검거",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693673"
         },
         {
-          "title": "‘나혼산’ 코쿤-이선민 ‘산스장’ 접수→김민, 동두천시 운동회 출격",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522305"
+          "title": "새벽 인천공항 터미널서 라이터로 불…시민이 소화기로 끄고 제압",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261023580101"
         },
         {
-          "title": "이선민 \"고수 닮았다는 이야기 들어\"→구성환 '황당' \"건달인데 무슨\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/24/GIZTMZRTMQYDSM3DGM2WMMLGGM/"
-        }
-      ]
-    },
-    {
-      "title": "주식시장",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 02:00:00 -0700",
-      "news": [
-        {
-          "title": "미국 주식시장은 트럼프 1기 때를 닮아가고 있다 [조윤남의 사이클투자]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610191057i"
-        },
-        {
-          "title": "[주末머니]\"공화당 팔고 민주당 산다?\" 美 투자자 전략은",
-          "source": "아시아경제",
-          "url": "https://core.asiae.co.kr/article/2026102315321593503"
-        },
-        {
-          "title": "열흘 남은 美 중간선거…투자전략 어떻게",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1705520/%EC%97%B4%ED%9D%98-%EB%82%A8%EC%9D%80-%E7%BE%8E-%EC%A4%91%EA%B0%84%EC%84%A0%EA%B1%B0%ED%88%AC%EC%9E%90%EC%A0%84%EB%9E%B5-%EC%96%B4%EB%96%BB%EA%B2%8C-2026"
+          "title": "인천공항 여객터미널서 빵 봉지에 불 지른 60대 검거…이용객이 진화",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261023001069"
         }
       ]
     }
