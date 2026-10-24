@@ -1,8 +1,96 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T03:08:25+00:00",
+  "fetched_at": "2026-10-24T03:37:02+00:00",
   "items": [
+    {
+      "title": "typhoon champi (rosal)",
+      "approx_traffic": "500+",
+      "published": "Fri, 23 Oct 2026 19:30:00 -0700",
+      "news": [
+        {
+          "title": "Typhoon Champi sweeps past Taiwan, one dead and 500 injured",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/environment/typhoon-champi-sweeps-past-taiwan-one-dead-500-injured-2026-10-24/"
+        },
+        {
+          "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china"
+        },
+        {
+          "title": "Typhoon Champi shuts down Taiwan",
+          "source": "Taipei Times",
+          "url": "https://www.taipeitimes.com/News/front/archives/2026/10/24/2003866521"
+        }
+      ]
+    },
+    {
+      "title": "태풍 참피",
+      "approx_traffic": "20000+",
+      "published": "Fri, 23 Oct 2026 19:20:00 -0700",
+      "news": [
+        {
+          "title": "태풍 참피, 대만 이어 日열도로…\"트럭 전복 수준 강풍\" 우려(종합2보)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023090952009"
+        },
+        {
+          "title": "한라산에 139㎜ 폭우…여객선 일부 결항",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024111026mlj"
+        },
+        {
+          "title": "태풍 영향권 남부·제주 강한 비바람...\"피해 대비해야\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202610241054106544"
+        }
+      ]
+    },
+    {
+      "title": "연합 인 포맥스",
+      "approx_traffic": "1000+",
+      "published": "Fri, 23 Oct 2026 19:20:00 -0700",
+      "news": [
+        {
+          "title": "금감원, '해외주식 현금성 마케팅' 원천 금지 추진",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440870"
+        },
+        {
+          "title": "\"국내 증시 급락은 적정 가격 찾는 과정…AI 버블 증거 부족\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440935"
+        },
+        {
+          "title": "실적 좋은데도 미장보다 더 크게 빠지는 국장…전문가 원인 분석은",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/stock/12184712"
+        }
+      ]
+    },
+    {
+      "title": "홍건희",
+      "approx_traffic": "2000+",
+      "published": "Fri, 23 Oct 2026 19:10:00 -0700",
+      "news": [
+        {
+          "title": "프로야구 KIA, 고종욱·이창진·홍건희·김대유 방출",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023104200007"
+        },
+        {
+          "title": "연봉 6억5000만원 받았는데, 고작 4이닝 던지고 방출…왜 15억 옵트 아웃 대모험 선택했었나 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/24/202610232010776941O"
+        },
+        {
+          "title": "'아직 35살인데' 65억 FA 보상선수 방출 왜? 넥센→SK→KT→LG→KIA, 16년 저니맨 라이프 중단 위기다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/24/MU4DSZDFMNSDQZTBGVRTGYTBMI/"
+        }
+      ]
+    },
     {
       "title": "캐시워크 정답",
       "approx_traffic": "100+",
@@ -75,14 +163,14 @@
           "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-stuffs-stat-sheet-in-win-535756"
         },
         {
-          "title": "Knicks become first NBA champions to begin season 0-2 in 15 years, lose 107-103 to Celtics",
+          "title": "Knicks become first defending NBA champions to begin season 0-2 in 15 years, lose 107-103 to Celtics",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/article/knicks-become-first-nba-champions-to-begin-season-0-2-in-15-years-lose-107-103-to-celtics-015107047.html"
+          "url": "https://sports.yahoo.com/nba/article/knicks-become-first-defending-nba-champions-to-begin-season-0-2-in-15-years-lose-107-103-to-celtics-015214731.html"
         },
         {
-          "title": "Celtics Had No Answer For Deuce McBride, But Still Escaped With Win Over Knicks",
-          "source": "NESN",
-          "url": "https://nesn.com/boston-celtics/news/celtics-had-no-answer-deuce-mcbride-still-escaped-win-over-knicks/39ba20efc0fc5fdbf5878f48"
+          "title": "Miles McBride chips in with 20 points, six triples",
+          "source": "NBC Sports",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-23/miles-mcbride-chips-in-with-20-points-six-triples"
         }
       ]
     },
@@ -92,63 +180,14 @@
       "published": "Fri, 23 Oct 2026 18:10:00 -0700",
       "news": [
         {
+          "title": "ICAO \"북한, 이달 초 미사일 '무통보' 발사… 항공 안전 규정 준수해야\"",
+          "source": "VOA 한국어 홈페이지",
+          "url": "https://www.voakorea.com/a/icao-north-korea-s-unannounced-missile-102326/8214590.html"
+        },
+        {
           "title": "사우디, 미사일 생산시설 확장…중국 기술 가능성",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261023182900009"
-        },
-        {
-          "title": "“위성사진에 딱 걸렸다”…사우디가 중국 손잡고 몰래 만든 ‘비밀 미사일’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/world/12184595"
-        },
-        {
-          "title": "중국 기술로 후티에 반격…사우디, 미사일 생산시설 확장",
-          "source": "SBS Biz",
-          "url": "https://biz.sbs.co.kr/article/20000341905?division=NAVER"
-        }
-      ]
-    },
-    {
-      "title": "서울 날씨",
-      "approx_traffic": "100000+",
-      "published": "Fri, 23 Oct 2026 18:00:00 -0700",
-      "news": [
-        {
-          "title": "주말 태풍 ’참피’ 영향…제주 250㎜ 비바람",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261023220934mB5"
-        },
-        {
-          "title": "태풍 '참피' 북상에 남부 비…제주 최대 250㎜[오늘날씨]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003839277"
-        },
-        {
-          "title": "제주 산간 최대 250mm 폭우…비 그치면 기온 '뚝'",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812733"
-        }
-      ]
-    },
-    {
-      "title": "연합인포맥스",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 17:50:00 -0700",
-      "news": [
-        {
-          "title": "\"국내 증시 급락은 적정 가격 찾는 과정…AI 버블 증거 부족\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440935"
-        },
-        {
-          "title": "실적 좋은데도 미장보다 더 크게 빠지는 국장…전문가 원인 분석은",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/stock/12184712"
-        },
-        {
-          "title": "\"인니 증시 반값 됐다\"…상반기 1위서 '최저가'로, 코스피 바닥 논쟁",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610231657i"
         }
       ]
     },
@@ -171,50 +210,6 @@
           "title": "서효림, 2주기 故 김수미에 대한 그리움 “김치 출시, 마음이 싱숭생숭”",
           "source": "스포츠경향",
           "url": "https://sports.khan.co.kr/article/202610231805013"
-        }
-      ]
-    },
-    {
-      "title": "lcs",
-      "approx_traffic": "100+",
-      "published": "Fri, 23 Oct 2026 17:30:00 -0700",
-      "news": [
-        {
-          "title": "\"We had a pretty good draw, but CFO probably feels the same\": TL Quid ahead of Worlds 2026 Swiss Stage",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/we-had-a-pretty-good-draw-but-cfo-probably-feels-the-same-way-tl-quid-ahead-of-worlds-2026-swiss/en"
-        },
-        {
-          "title": "Worlds 2026: CTBC Flying Oyster Outfight Team Liquid Behind Double-Buff Finish",
-          "source": "EGamersWorld",
-          "url": "https://egamersworld.com/lol/news/37997/ctbc-flying-oyster-punish-late-team-liquid-mistake-2YRCv0OsT"
-        },
-        {
-          "title": "TL Yeon: \"We did ourselves a disservice today\"",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/tl-yeon-we-did-ourselves-a-disservice-today/en"
-        }
-      ]
-    },
-    {
-      "title": "삼성 갤럭시 s26",
-      "approx_traffic": "500+",
-      "published": "Fri, 23 Oct 2026 17:20:00 -0700",
-      "news": [
-        {
-          "title": "삼성 '갤럭시 M47·A26·A17' One UI 9 업데이트 배포…안드로이드 17 적용",
-          "source": "케이벤치",
-          "url": "https://kbench.com/?q=node/282738"
-        },
-        {
-          "title": "갤럭시 A56, 원 UI 8.5엔 없던 아이폰 에어드롭이 원 UI 9에서 열렸다",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1168181"
-        },
-        {
-          "title": "삼성전자, 갤럭시 S28에 '갤럭시 OS' 탑재 관측…소프트웨어 혁신 나서나",
-          "source": "이코노미트리뷴",
-          "url": "https://www.economytribune.co.kr/news/articleView.html?idxno=3904177"
         }
       ]
     }
