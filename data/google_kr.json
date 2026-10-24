@@ -1,30 +1,8 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T17:34:13+00:00",
+  "fetched_at": "2026-10-24T18:01:22+00:00",
   "items": [
-    {
-      "title": "첼시",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 09:30:00 -0700",
-      "news": [
-        {
-          "title": "‘아스널 초비상!’ 2003년생 프랑스 국대 찍었는데 바르셀로나-첼시-PSG까지 달려들었다!…인터 밀란 MF 디우프 두고 대형 영입전 예고!",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99765"
-        },
-        {
-          "title": "첼시-토트넘 경기에서 실시간 얼굴인식 시스템 가동…범죄 예방인가, 관중 감시인가",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610221358003"
-        },
-        {
-          "title": "프리미어 리그 첼시 대 토트넘 생중계 링크",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-chelsea-vs-tottenham-tai-premier-league-1788618.ldo"
-        }
-      ]
-    },
     {
       "title": "볼카노프스키",
       "approx_traffic": "100+",
@@ -53,19 +31,19 @@
       "published": "Sat, 24 Oct 2026 08:50:00 -0700",
       "news": [
         {
-          "title": "Premier League predictions & Jones Knows' best bets: Tottenham vs Chelsea, Brighton vs Liverpool, Man Utd vs Bournemouth and much more!",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/13602410/premier-league-predictions-and-jones-knows-best-bets-tottenham-vs-chelsea-brighton-vs-liverpool-man-utd-vs-bournemouth-and-much-more"
+          "title": "Chelsea–Tottenham: Penders set for test as Maddison remains a doubt · SNA",
+          "source": "Sport News Africa",
+          "url": "https://sportnewsafrica.com/en/news/chelsea-tottenham-penders-maddison-preview-24-october-2026/"
         },
         {
-          "title": "Video - Xabi Alonso Issued Chelsea Warning After Learning Spurs Setback Ultimatum",
-          "source": "roundtable.io",
-          "url": "https://roundtable.io/sports/soccer/premier-league/chelsea/video/xabi-alonso-issued-chelsea-warning-after-learning-spurs-setback-ultimatum"
+          "title": "Xabi Alonso delivers worrying injury update on in-form Joao Pedro as Chelsea face Tottenham without their top scorer",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en-sa/news/xabi-alonso-delivers-worrying-injury-update-in-form-joao-pedro-chelsea-face-tottenham-without-top-scorer/blt43a2369ade99fc5d"
         },
         {
-          "title": "EPL: Gusto Fit for Tottenham Clash, Martinez Out for Weeks — Alonso",
-          "source": "Real Broadcasting Network",
-          "url": "https://therealmediang.com/sports/epl-gusto-fit-for-tottenham-clash-martinez-out-for-weeks-alonso"
+          "title": "Roberto de Zerbi urges Tottenham Hotspur to use Stamford Bridge record as fuel against Chelsea",
+          "source": "thenational.co.za",
+          "url": "https://thenational.co.za/sport/2026-10-24-roberto-de-zerbi-urges-tottenham-hotspur-to-use-stamford-bridge-record-as-fuel-against-chelsea/"
         }
       ]
     },
@@ -132,7 +110,7 @@
     },
     {
       "title": "첼시 대 토트넘",
-      "approx_traffic": "10000+",
+      "approx_traffic": "20000+",
       "published": "Sat, 24 Oct 2026 08:30:00 -0700",
       "news": [
         {
@@ -215,6 +193,28 @@
           "title": "주말에 잠수교서 치킨 먹을까, 김천서 김밥 먹을까…전국 미식 축제 ‘풍성’",
           "source": "www.dt.co.kr",
           "url": "https://www.dt.co.kr/article/12090881"
+        }
+      ]
+    },
+    {
+      "title": "아스날",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 07:40:00 -0700",
+      "news": [
+        {
+          "title": "왜 아스날은 이번 시즌 프리미어 리그에서 코너킥으로 득점하지 못했을까요?",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/vi-sao-arsenal-chua-ghi-ban-tu-phat-goc-tai-premier-league-mua-nay-1788514.ldo"
+        },
+        {
+          "title": "프리미어 리그 아스날 대 에버튼 점수 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-arsenal-vs-everton-tai-premier-league-1787984.ldo"
+        },
+        {
+          "title": "중앙 수비수들이 득점을 기록하며 아스널은 에버튼을 손쉽게 제압했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/cap-trung-ve-ghi-ban-arsenal-thang-de-everton"
         }
       ]
     }
