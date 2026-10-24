@@ -1,11 +1,33 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-24T04:09:52+00:00",
+  "fetched_at": "2026-10-24T04:38:50+00:00",
   "items": [
     {
+      "title": "이라크",
+      "approx_traffic": "200+",
+      "published": "Fri, 23 Oct 2026 20:20:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 韓기업들, 이라크에 정유공장 지어주고 1조원 날릴 위기",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/10/23/5WRXTRQCDJDTZMFVLWPZQ3655I/"
+        },
+        {
+          "title": "현대건설 등 韓 기업 4곳, 이라크에 공장 지어주고 1조 못 받았다 … \"정부 나서야\"",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/23/2026102300311.html"
+        },
+        {
+          "title": "[단독] 한화, 이라크서 떼인 돈 1500억 먼저 받기로...\"철수하겠다\" 배수의 진 통해",
+          "source": "더구루",
+          "url": "https://theguru.co.kr/news/article.html?no=108405"
+        }
+      ]
+    },
+    {
       "title": "최형우",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Fri, 23 Oct 2026 19:50:00 -0700",
       "news": [
         {
@@ -19,9 +41,9 @@
           "url": "https://www.yna.co.kr/view/AKR20261024016551704"
         },
         {
-          "title": "‘YS의 오른팔’ 최형우 전 장관 별세…향년 91세",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261024580036"
+          "title": "‘YS 최측근’ 최형우 전 내무부 장관 별세…향년 91세",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610240902001"
         }
       ]
     },
@@ -36,9 +58,9 @@
           "url": "https://www.yna.co.kr/view/AKR20261024012200007"
         },
         {
-          "title": "김민재 소속팀 뮌헨 콩파니 감독, 훈련장서 쓰러져 병원 이송",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261024/134900347/1"
+          "title": "'충격' 국가대표 수비수 김민재 사령탑, 훈련 중 갑자기 쓰러졌다→긴급 병원 이송... 뮌헨 공식 성명 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/24/2026102408554051661"
         },
         {
           "title": "[공식발표] \"몸이 그만하라고 했다\" 콤파니 감독의 안타까운 고백, 결국 현실로...훈련장서 갑자기 쓰러져 병원 긴급 이송 - 조선비즈",
@@ -70,9 +92,9 @@
       "published": "Fri, 23 Oct 2026 19:40:00 -0700",
       "news": [
         {
-          "title": "수십만 명 모이는 김천 축제…TS, ‘오늘도 무사고’ 캠페인",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261024026030588"
+          "title": "카카오맵, ‘2026 김천김밥축제’ 축제 전용 지도 제공 …부스별 메뉴 확인부터 주문·픽업 한 번에",
+          "source": "카카오",
+          "url": "https://www.kakaocorp.com/page/detail/12177"
         },
         {
           "title": "김밥대장 정다현 : “김밥도 직업이 된다” 전국 800곳 누빈 덕후의 실행력",
@@ -80,9 +102,9 @@
           "url": "https://longblack.co/note/2153"
         },
         {
-          "title": "국토안전관리원, 김천 행사장서 안전체험 운영… 축제·시민체전 연계해 안전의식 높인다",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=20261023163331127907f28b58b8_12"
+          "title": "[온라인 라운지]교통안전공단, 김천김밥축제에서 교통안전 캠페인",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261023/134898128/1"
         }
       ]
     },
@@ -163,14 +185,14 @@
           "url": "https://www.yna.co.kr/view/AKR20261023104200007"
         },
         {
-          "title": "연봉 6억5000만원 받았는데, 고작 4이닝 던지고 방출…왜 15억 옵트 아웃 대모험 선택했었나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/24/202610232010776941O"
-        },
-        {
           "title": "'아직 35살인데' 65억 FA 보상선수 방출 왜? 넥센→SK→KT→LG→KIA, 16년 저니맨 라이프 중단 위기다",
           "source": "조선일보",
           "url": "https://www.chosun.com/sports/baseball/2026/10/24/MU4DSZDFMNSDQZTBGVRTGYTBMI/"
+        },
+        {
+          "title": "연봉 6억5000만원 받았는데, 고작 4이닝 던지고 방출…왜 15억 옵트 아웃 대모험 선택했었나 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/24/202610232010776941O"
         }
       ]
     },
@@ -188,28 +210,6 @@
           "title": "[캐시워크 종합] 10월 23일 금요일 오전 9시 현재 출제되고 있는 모든 문제들의 정답은?",
           "source": "비즈월드",
           "url": "https://www.bizwnews.com/news/articleView.html?idxno=149759"
-        }
-      ]
-    },
-    {
-      "title": "la 레이커스 대 la 클리퍼스",
-      "approx_traffic": "1000+",
-      "published": "Fri, 23 Oct 2026 18:40:00 -0700",
-      "news": [
-        {
-          "title": "How to watch Lakers vs Clippers: NBA, live stream, TV channel",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/watch-lakers-vs-clippers-nba-010000107.html"
-        },
-        {
-          "title": "Clippers vs Lakers Prediction, Picks & Best Bet for Tonight's NBA Game",
-          "source": "Covers.com",
-          "url": "https://www.covers.com/nba/clippers-vs-lakers-prediction-picks-odds-oct-23-2026"
-        },
-        {
-          "title": "How to watch Clippers vs. Lakers: TV channel and streaming options for October 23",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/7718017/2026/10/23/clippers-vs-lakers-stream-how-to-watch-oct-23/"
         }
       ]
     }
