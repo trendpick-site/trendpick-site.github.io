@@ -1,17 +1,67 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T19:09:40+00:00",
+  "fetched_at": "2026-10-25T19:34:35+00:00",
   "items": [
+    {
+      "title": "전국노래자랑",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 11:20:00 -0700",
+      "news": [
+        {
+          "title": "장한별, ‘전국노래자랑’ 첫 출연부터 엔딩 장식…‘그대는 나의 별이오’ 열창",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261025/134903735/1"
+        },
+        {
+          "title": "‘국민 트로트 스타’ 박상철, 폭발적인 가창력으로 창원특례시 흥겹게 물들여 (전국노래자랑)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610251451003"
+        },
+        {
+          "title": "‘전국노래자랑’ 경상남도 창원특례시 편... 박상철-류원정-김성환-전유진-장한별",
+          "source": "KBS연예",
+          "url": "https://kstar.kbs.co.kr/list_view.html?idx=412950"
+        }
+      ]
+    },
+    {
+      "title": "tes",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 11:10:00 -0700",
+      "news": [
+        {
+          "title": "TES 369: \"I will get to experience if Zeus or that Emerald player gives me more pressure\"",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/articles/tes-369-i-will-get-to-experience-if-zeus-or-that-emerald-player-gives-me-more-pressure/en"
+        },
+        {
+          "title": "LPL's First Seed Facing Early Elimination... AL Tarzan: \"I Won't Give Up Until the End\"",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/27672/lpls-first-seed-facing-early-elimination-al-tarzan-i-wont-give-up-until-the-end"
+        },
+        {
+          "title": "Top Esports defeat Anyone's Legend in bloody LPL showdown at Worlds 2026 Swiss Stage",
+          "source": "GosuGamers",
+          "url": "https://www.gosugamers.net/lol/news/79408-top-esports-defeat-anyone-s-legend-in-bloody-lpl-showdown-at-worlds-2026-swiss-stage"
+        }
+      ]
+    },
+    {
+      "title": "2026 월즈",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 11:00:00 -0700",
+      "news": []
+    },
     {
       "title": "롤드컵 2026",
       "approx_traffic": "200+",
       "published": "Sun, 25 Oct 2026 11:00:00 -0700",
       "news": [
         {
-          "title": "[오!쎈 인터뷰] '지도자로 첫 월즈' 젠지 류상욱 감독, \"목표 오직 롤드컵 우승, 이상적인 팀 만들 것\"",
+          "title": "[롤드컵 톡톡] '정규리그 아픈 기억이 보약'… '스매시', \"역전하는 법을 몸으로 배웠죠\"",
           "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112897876"
+          "url": "https://www.osen.co.kr/article/G1112898121"
         },
         {
           "title": "[롤드컵] 젠지·디플러스 기아, LCK 내전 승리로 8강행 성큼…한화생명·T1도 반격 노린다",
@@ -19,21 +69,21 @@
           "url": "https://www.chosun.com/sports/sports_general/2026/10/25/GYYTSMDBMMZDMZTDMUZTIM3EMQ/"
         },
         {
-          "title": "[오!쎈 인터뷰] 롤드컵 데뷔전부터 짜릿한 역전승...'스매시' 신금재, \"다음엔 더 단단해진 경기력\"",
+          "title": "[오!쎈 인터뷰] '지도자로 첫 월즈' 젠지 류상욱 감독, \"목표 오직 롤드컵 우승, 이상적인 팀 만들 것\"",
           "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261024141249191"
+          "url": "https://www.koreadaily.com/article/20261025022933126"
         }
       ]
     },
     {
       "title": "루키",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 25 Oct 2026 10:50:00 -0700",
       "news": []
     },
     {
       "title": "앙투안 그리즈만",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sun, 25 Oct 2026 10:20:00 -0700",
       "news": [
         {
@@ -50,7 +100,7 @@
     },
     {
       "title": "england cricket team vs pakistan national cricket team standings",
-      "approx_traffic": "200+",
+      "approx_traffic": "2000+",
       "published": "Sun, 25 Oct 2026 10:10:00 -0700",
       "news": [
         {
@@ -64,31 +114,31 @@
           "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-england-4th-match-1550716/ball-by-ball-commentary"
         },
         {
-          "title": "Pakistan beat England in thriller after 89-run last-wicket stand: tri-series one day international cricket – as it happened",
+          "title": "England stunned after Shadab Khan’s miraculous century delivers one-wicket win for Pakistan",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/sport/live/2026/oct/25/pakistan-v-england-tri-series-one-day-international-cricket-live"
+          "url": "https://www.theguardian.com/sport/2026/oct/25/england-pakistan-odi-match-report-cricket-shadab-khan"
         }
       ]
     },
     {
-      "title": "더샤이",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 10:10:00 -0700",
+      "title": "레알 바르샤",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 09:00:00 -0700",
       "news": [
         {
-          "title": "[롤드컵] '더샤이·루키 맹활약' IG, TSW 상대로 짜릿한 역전승… 대회 마수걸이 승리",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112897860"
+          "title": "레알 '비상'···비니시우스에 이어 '쿠르투아' 엘 클라시코 결장",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3732043"
         },
         {
-          "title": "[롤드컵] '3년 만의 복귀' IG 손대영 총감독, \"꿈의 무대 월즈, 실수 보완해 미국서 오래 머물 것\"",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261024001100886"
+          "title": "시즌 첫 엘클, 바르사 최전방은 ‘아스널서 밀린’ 제주스?…하피냐 컨디션이 변수",
+          "source": "MHN스포츠",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1610683"
         },
         {
-          "title": "[롤드컵] 한화생명, IG에 패하며 2패…험난해진 8강행",
-          "source": "게임뷰",
-          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61723"
+          "title": "“레알 마드리드가 바르셀로나를 응징할 것”… 친정팀에 대한 애정 드러낸 판데르 파르트, “팀이 승리하는 기계로 변모했다”",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313395"
         }
       ]
     },
@@ -103,9 +153,9 @@
           "url": "https://www.yna.co.kr/view/AKR20261025030800007"
         },
         {
-          "title": "'김민재 부상에 노이어까지 쓰러졌다' 콤파니 없는 바이에른, 주전 수비수·골키퍼 동시 이탈...프라이부르크 원정 비상",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898016"
+          "title": "'김민재 부상에 노이어까지 쓰러졌다' 콤파니 없는 바이에른, 주전 수비수·골키퍼 동시 이탈...프라이부르크 원정 비상 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/football/2026/10/25/GM2GCMRYGJRWEMZRGEZGGZTCGQ/"
         },
         {
           "title": "\"김민재 부상에 韓 대표팀도 철렁!\" 다행히 큰 부상 피했다... 뮌헨 코치 \"프라이부르크전 결장, 다음 주 복귀\" - 머니투데이",
@@ -125,80 +175,14 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8694569"
         },
         {
+          "title": "태풍을 피해서…",
+          "source": "한라일보",
+          "url": "https://app.ihalla.com/article.php?aid=1792954800791991059"
+        },
+        {
           "title": "참피 대만 앞 '한 바퀴 회전'‥'커진 피해' 日 할퀴고 북진",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/world/article/6860541_36925.html"
-        },
-        {
-          "title": "남해 바깥먼바다도 ’태풍경보’…역대 가장 늦은 태풍",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261025154537EDO"
-        }
-      ]
-    },
-    {
-      "title": "분만",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 08:00:00 -0700",
-      "news": [
-        {
-          "title": "고위험 산모 치료 정부 지원에도…응급시 정작 받아줄 병원·의사는 부족",
-          "source": "중부일보",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363740344"
-        },
-        {
-          "title": "산부인과의사회 '분만기관 1곳뿐인 60개 지역 유지비 지원해야' : 사회",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1048951"
-        },
-        {
-          "title": "\"분만 건수 넘어 '분만실 유지' 지원해야\"…분만 인프라 정책 전환 촉구",
-          "source": "경기메디뉴스",
-          "url": "https://www.ggmedinews.com/news/articleView.html?idxno=6964"
-        }
-      ]
-    },
-    {
-      "title": "pl",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 08:00:00 -0700",
-      "news": [
-        {
-          "title": "Donald Tusk rozpoczyna wizytę w Wietnamie. Wrzucił nagranie. \"Wedle rozkazu!\"",
-          "source": "TVN24",
-          "url": "https://tvn24.pl/polska/donald-tusk-rozpoczyna-wizyte-w-wietnamie-wrzucil-nagranie-wedle-rozkazu-st9303367"
-        },
-        {
-          "title": "Polska sprzeda swoje uzbrojenie za granicę? Nowe doniesienia ws. kontraktów",
-          "source": "Defence24",
-          "url": "https://defence24.pl/przemysl/polska-sprzeda-swoje-uzbrojenie-za-granice-nowe-doniesienia-ws-kontraktow"
-        },
-        {
-          "title": "Wietnam: Szłapka: Wietnam szansą dla polskich firm na rynkach Azji Południowo-Wschodniej",
-          "source": "wnp.pl",
-          "url": "https://www.wnp.pl/rynki/wietnam-szlapka-wietnam-szansa-dla-polskich-firm-na-rynkach-azji-poludniowo-wschodniej,1112545.html"
-        }
-      ]
-    },
-    {
-      "title": "셀타 비고 대 레알 베티스",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 07:50:00 -0700",
-      "news": [
-        {
-          "title": "Celta - Betis LIVE. LALIGA EA Sports latest updates",
-          "source": "MARCA",
-          "url": "https://www.marca.com/en/soccer/laliga-ea-sports/celta-betis/2026/10/25/01_0101_20261025_176_185-live.html"
-        },
-        {
-          "title": "4K-ONLINE!] RC CELTA VIGO REAL BETIS LIVE FREE Soccer EVENT 25 October 2026",
-          "source": "FC東京オフィシャルホームページ",
-          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vZXZlbnQvb2EueG1sIi8+PC9rcnBhbm8+&id=video-4k-online-rc-celta-vigo-real-15aelq3t"
-        },
-        {
-          "title": "Celta Vigo vs. Real Betis - Game Highlights",
-          "source": "ESPN India",
-          "url": "https://www.espn.in/video/clip/_/id/50278064/celta-vigo-vs-real-betis-game-highlights"
         }
       ]
     }
