@@ -1,8 +1,102 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T06:06:55+00:00",
+  "fetched_at": "2026-10-25T06:42:56+00:00",
   "items": [
+    {
+      "title": "k리그2",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 22:30:00 -0700",
+      "news": [
+        {
+          "title": "'오직 수원만 신경 쓴다' 이정효 감독 \"체력·기분 관계없이 일관성 보여야\" [성남 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102512413253348"
+        },
+        {
+          "title": "\"똥개도 안방에서는 50% 먹고 간다\" 김해운 감독, 수원전 화끈한 홈 승리 다짐 [성남 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102512421188713"
+        },
+        {
+          "title": "[K리그2 프리뷰]'서울E와 동률' 15경기 무패 수원FC, 한발 치고 나갈까...6연승 수원은 성남과 '마계 대전'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/10/23/GJRDMYJTGNSDGNRUGA3DAM3BMU/"
+        }
+      ]
+    },
+    {
+      "title": "프랑스",
+      "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 22:20:00 -0700",
+      "news": [
+        {
+          "title": "‘유럽, 정말 심상치않다’…스페인·프랑스·이탈리아·포르투갈 동시다발 시위 확산",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625952"
+        },
+        {
+          "title": "프랑스의 작은 학생 시위는 어떻게 전국 시위로 번졌나",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261025_0003839953"
+        },
+        {
+          "title": "프랑스 전역 41만명 시위…곳곳 충돌·약 1000명 체포",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12324699"
+        }
+      ]
+    },
+    {
+      "title": "선우용여",
+      "approx_traffic": "5000+",
+      "published": "Sat, 24 Oct 2026 22:20:00 -0700",
+      "news": [
+        {
+          "title": "81세 선우용여도 푹 빠졌다…아침마다 5060 몰리는 '이곳' [권용훈의 트렌드워치]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610253003i"
+        },
+        {
+          "title": "롯데호텔앤리조트, 조식 멤버십 '더 모닝' 출시 1년 맞아 혜택 확대",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261025_0003839796"
+        },
+        {
+          "title": "롯데호텔 ‘더 모닝’, 아침 먹으러 호텔 가는 사람들[PS]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/life/article/all/20261025/134903328/1"
+        }
+      ]
+    },
+    {
+      "title": "대한민국의 국토교통부 장관",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 22:20:00 -0700",
+      "news": []
+    },
+    {
+      "title": "안성시",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 21:50:00 -0700",
+      "news": [
+        {
+          "title": "김보라 안성시장, SK하이닉스 방류수 논란에 “시민께 심려 끼쳐 죄송”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261025580068"
+        },
+        {
+          "title": "용인 반도체 국가산단 착공 본격화…동탄 ‘아크메르 동탄’ 수혜 기대",
+          "source": "경상일보",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070442"
+        },
+        {
+          "title": "안성시, 용인 반도체 산단 환경·농업 피해 방지 총력…바이패스 등 재협상 추진",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334924"
+        }
+      ]
+    },
     {
       "title": "이세웅",
       "approx_traffic": "200+",
@@ -22,28 +116,6 @@
           "title": "이세웅 전 평북지사 재산 2759억…7개월 만에 1172억 늘어",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261022_0003837095"
-        }
-      ]
-    },
-    {
-      "title": "안성시",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "김보라 안성시장, SK하이닉스 방류수 논란에 “시민께 심려 끼쳐 죄송”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261025580068"
-        },
-        {
-          "title": "용인 반도체 국가산단 착공 본격화…동탄 ‘아크메르 동탄’ 수혜 기대",
-          "source": "경상일보",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070442"
-        },
-        {
-          "title": "안성시, 용인 반도체 산단 환경·농업 피해 방지 총력…바이패스 등 재협상 추진",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334924"
         }
       ]
     },
@@ -71,29 +143,29 @@
     },
     {
       "title": "석유",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sat, 24 Oct 2026 21:40:00 -0700",
       "news": [
         {
-          "title": "[단독] 책임 부담에… 석유 최고액 정산위, 감사원에 SOS",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/10/24/SO42KMMWHVG5PEBGQHCEYROHBY/"
+          "title": "“이제 한국도 산유국되나요?”…대나무 끓였더니 석유가 나왔다는데",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/it/12184980"
         },
         {
-          "title": "석유 최고가격제 언제 끝나나…재정 부담 우려도",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261025103040F4m"
+          "title": "“대나무 푹 끓였더니 석유가 나왔다!”…이게 말이 된다고?",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610250900011"
         },
         {
-          "title": "[사설] 돈 쓸 궁리만 하는 정부, 프랑스의 길 가려는가",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261023083437705"
+          "title": "대나무 연료는 배출량을 26배까지 줄일 수 있습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhien-lieu-tu-tre-co-the-giam-phat-thai-26-lan"
         }
       ]
     },
     {
       "title": "노화",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sat, 24 Oct 2026 21:40:00 -0700",
       "news": [
         {
@@ -132,94 +204,6 @@
           "title": "배드민턴: 안세영, 오쿠하라 꺾고 결승 진출 - 프랑스오픈 2026",
           "source": "Olympic Channel",
           "url": "https://www.olympics.com/ko/news/badminton-an-seyoung-reaches-final-france-open-2026"
-        }
-      ]
-    },
-    {
-      "title": "크리스티아누 호날두",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 21:30:00 -0700",
-      "news": [
-        {
-          "title": "982번째 골 이후 호날두의 예상치 못한 행동",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/the-thao/hanh-dong-bat-ngo-cua-ronaldo-sau-ban-thang-thu-982-1788299.ldo"
-        },
-        {
-          "title": "FIFA가 크리스티아누 호날두에게 좋지 않은 소식을 전했다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/fifa-bao-tin-khong-vui-voi-c-ronaldo"
-        },
-        {
-          "title": "호날두, 사우디 리그서 개인 통산 982호 골 작렬… 1000골까지 '18골' 남았다",
-          "source": "한국연예스포츠신문",
-          "url": "https://www.koreaes.com/news/articleView.html?idxno=406840"
-        }
-      ]
-    },
-    {
-      "title": "자산",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 21:20:00 -0700",
-      "news": [
-        {
-          "title": "靑, 가상자산 과세 재유예 결론…청년 여론·美 카프 등 고려",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105730"
-        },
-        {
-          "title": "청와대 ‘가상자산 과세 유예’ 검토…청년층 민심 고려",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610251444001"
-        },
-        {
-          "title": "'수익 250만 원 넘으면 22% 세금' 가상자산 과세, 네 번째 유예 기로",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610240522165469"
-        }
-      ]
-    },
-    {
-      "title": "kia 대 삼성",
-      "approx_traffic": "100000+",
-      "published": "Sat, 24 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "태풍 '참피'에 프로야구 플레이오프 1차전 취소…26일 재개",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261025024900007"
-        },
-        {
-          "title": "’종일 비’ 달빛시리즈 내일로 연기…이 시각 대구",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261025144515sN5"
-        },
-        {
-          "title": "KIA 플레이오프 1차전 선발투수 ‘네일’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694398"
-        }
-      ]
-    },
-    {
-      "title": "사고",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "고속도로 사고 10건 중 7건 발생시각 ‘깜깜이’…인지시간 0분 둔갑",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626031"
-        },
-        {
-          "title": "[2026국감] 고속도로 사고 10건 중 7건 발생시각 몰라",
-          "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313889"
-        },
-        {
-          "title": "\"고속도로 사고 10건 중 7건은 실제 발생시간 '확인 불가'\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023163400001"
         }
       ]
     }
