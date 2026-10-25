@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T16:36:55+00:00",
+  "fetched_at": "2026-10-25T17:06:49+00:00",
   "items": [
+    {
+      "title": "sc 프라이부르크 대 바이에른",
+      "approx_traffic": "2000+",
+      "published": "Sun, 25 Oct 2026 08:40:00 -0700",
+      "news": [
+        {
+          "title": "부상 김민재, 프라이부르크전 못 뛴다…뮌헨 \"큰 문제 아니지만\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261025030800007"
+        },
+        {
+          "title": "'김민재 부상에 노이어까지 쓰러졌다' 콤파니 없는 바이에른, 주전 수비수·골키퍼 동시 이탈...프라이부르크 원정 비상 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/football/2026/10/25/GM2GCMRYGJRWEMZRGEZGGZTCGQ/"
+        },
+        {
+          "title": "\"김민재 부상에 韓 대표팀도 철렁!\" 다행히 큰 부상 피했다... 뮌헨 코치 \"프라이부르크전 결장, 다음 주 복귀\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102518270183552"
+        }
+      ]
+    },
     {
       "title": "30호 태풍 참피",
       "approx_traffic": "1000+",
@@ -14,9 +36,9 @@
           "url": "https://imnews.imbc.com/news/2026/world/article/6860541_36925.html"
         },
         {
-          "title": "태풍 '참피' 영향…제주·남부지방 오전까지 비바람[오늘날씨]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261025_0003840225"
+          "title": "남쪽 해상 지나는 태풍 ‘참피’… 서울은 해 쨍쨍, 포항은 배 꽁꽁",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/10/26/JXP544EVZNHDHBU5VTJZZFBTEY/"
         },
         {
           "title": "남해 바깥먼바다도 ’태풍경보’…역대 가장 늦은 태풍",
@@ -48,25 +70,25 @@
       "published": "Sun, 25 Oct 2026 08:00:00 -0700",
       "news": [
         {
-          "title": "Polexit kosztowałby Polskę 90 mld euro rocznie. Nowe szacunki",
-          "source": "Rzeczpospolita",
-          "url": "https://www.rp.pl/gospodarka/art45392301-zpp-to-mit-ze-polska-jest-platnikiem-netto-ue-bilans-wynosi-58-7-mld-euro-na-plusie"
+          "title": "Widmo nowego podatku energetycznego zawisło nad Polską. To byłaby katastrofa",
+          "source": "Interia Wydarzenia",
+          "url": "https://wydarzenia.interia.pl/zagranica/news-widmo-nowego-podatku-energetycznego-zawislo-nad-polska-rosni,nId,23562917"
         },
         {
-          "title": "\"Rachunek\" za polexit. Tyle kosztowałoby Polskę wyjście z UE",
-          "source": "Money.pl",
-          "url": "https://www.money.pl/gospodarka/rachunek-za-polexit-tyle-kosztowaloby-polske-wyjscie-z-ue-7343868849555488a.html"
+          "title": "Co dalej z systemem ETS? Opozycja przestrzega przed skutkami gospodarczymi",
+          "source": "RadioMaryja.pl",
+          "url": "https://www.radiomaryja.pl/informacje/co-dalej-z-systemem-ets-opozycja-przestrzega-przed-skutkami-gospodarczymi/"
         },
         {
-          "title": "Od montowni do sterowni: ZPP podsumowuje 22 lata w UE i wzywa do budowy polskiego przywództwa w Europie. Nowy raport ZPP",
-          "source": "Związek Przedsiębiorców i Pracodawców",
-          "url": "https://zpp.net.pl/od-montowni-do-sterowni-zpp-podsumowuje-22-lata-w-ue-i-wzywa-do-budowy-polskiego-przywodztwa-w-europie-nowy-raport-zpp/"
+          "title": "Rachunki jak wyrok dla milionów Polaków. Policzyliśmy, ile może kosztować nowa, drakońska opłata, która wejdzie w 2028 roku",
+          "source": "Warszawa w Pigułce",
+          "url": "https://warszawawpigulce.pl/rachunki-jak-wyrok-dla-milionow-polakow-policzylismy-ile-moze-kosztowac-nowa-drakonska-oplata-ktora-wejdzie-w-2028-roku/"
         }
       ]
     },
     {
       "title": "셀타 비고 대 레알 베티스",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 25 Oct 2026 07:50:00 -0700",
       "news": [
         {
@@ -77,12 +99,34 @@
         {
           "title": "! [SOCCER-EL-CLASICOSTREAMS] CELTA VIGO - REAL BETIS LIVE Free Streams ON Tv Channel",
           "source": "FC東京オフィシャルホームページ",
-          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9qYWwvIi8+PC9rcnBhbm8+&id=video-soccer-el-clasicostreams-celta-vigo-real-betis-liv-new-live"
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vZXZlbnQvb2EueG1sIi8+PC9rcnBhbm8+&id=video-soccer-el-clasicostreams-cel-enidvc36"
         },
         {
-          "title": "[VIVO/TV]* Celta Vigo XI-Real Betis XI en vivo Y Directo online",
+          "title": "LIVESTREAMS FREE] Real Betis vs Celta Vigo LIVE fRee",
           "source": "FC東京オフィシャルホームページ",
-          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vY2ltYW5nby5naXRodWIuaW8vc2FuaS9lcHgueG1sIi8+PC9rcnBhbm8+&id=video-celta-vigo-xi-real-betis-xi-en-vivo-gratis-ver-tvc-0101-291"
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9qYWwvIi8+PC9rcnBhbm8+&id=video-livestreams-free-real-betis-vs-celta-vigo-live-fre-new-live"
+        }
+      ]
+    },
+    {
+      "title": "남양주시",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 07:50:00 -0700",
+      "news": [
+        {
+          "title": "가을 수놓은 남양주 '주민 화합의 장'…문화·체육으로 묶인 ‘이웃의 정’",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102517265611415"
+        },
+        {
+          "title": "남양주시 퇴계원읍, ‘2026년 한마음 체육대회’ 성황리 개최",
+          "source": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799181"
+        },
+        {
+          "title": "남양주 곳곳 축제·체육대회 성황...황금산·별내동·진건읍 주민 4,000여 명 참여",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3731930"
         }
       ]
     },
@@ -109,46 +153,24 @@
       ]
     },
     {
-      "title": "남양주시",
-      "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 07:50:00 -0700",
-      "news": [
-        {
-          "title": "가을 수놓은 남양주 '주민 화합의 장'…문화·체육으로 묶인 ‘이웃의 정’",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102517265611415"
-        },
-        {
-          "title": "남양주시 퇴계원읍, ‘2026년 한마음 체육대회’ 성황리 개최",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799181"
-        },
-        {
-          "title": "남양주 곳곳 축제·체육대회 성황...황금산·별내동·진건읍 주민 4,000여 명 참여",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3731930"
-        }
-      ]
-    },
-    {
       "title": "epl",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sun, 25 Oct 2026 07:40:00 -0700",
       "news": [
         {
-          "title": "Premier League: Fernandes left out by Man Utd plus Liverpool v Brighton & two more games",
+          "title": "Liverpool 2-0 Brighton: Alexander Isak scores again as Reds beat in-form Seagulls in Premier League",
           "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c5dj4kvpd4j9t"
+          "url": "https://www.bbc.com/sport/football/live/cmdx325w7gy6t"
         },
         {
-          "title": "Bruno Fernandes Omitted After Criticizing Carrick's Tactics",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/10/25/F22Z3WF46VFCVOQAI36BMWVAHA/"
+          "title": "Coventry City vs Sunderland: Kalshi Promo Code & $25 Bonus",
+          "source": "Squawka",
+          "url": "https://www.squawka.com/us/news/premier-league/kalshi-promo-code-coventry-city-vs-sunderland-31-10-26-premier-league/"
         },
         {
-          "title": "Bruno Fernandes left out by Man United after Michael Carrick criticism",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/50276044/bruno-fernandes-left-man-united-bournemouth"
+          "title": "Today's fixtures at Anfield and St Helens Stadium to go ahead",
+          "source": "Liverpool FC",
+          "url": "https://www.liverpoolfc.com/news/fixtures-at-anfield-and-st-helens-stadium-to-go-ahead"
         }
       ]
     },
@@ -163,58 +185,36 @@
           "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-liverpool-vs-brighton-tai-premier-league-1788808.ldo"
         },
         {
+          "title": "10월 25일 오후 9시, 프리미어 리그 8라운드 리버풀 대 브라이튼 경기 생중계 링크입니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/link-xem-truc-tiep-liverpool-vs-brighton-21h00-ngay-25-10-vong-8-ngoai-hang-anh"
+        },
+        {
           "title": "[오피셜] \"소보슬러이, 브라이튼전 결장 확정!\"…이라올라가 밝힌 리버풀 부상자 현황! 바르콜라 복귀 가능-무뇨스 출전 불투명",
           "source": "포포투",
           "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99780"
-        },
-        {
-          "title": "승점 16점 브라이튼, 안필드서 리버풀과 8R 격돌 : 스포츠",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1048923"
         }
       ]
     },
     {
-      "title": "fotmob",
-      "approx_traffic": "200+",
+      "title": "premier league",
+      "approx_traffic": "500+",
       "published": "Sun, 25 Oct 2026 07:30:00 -0700",
       "news": [
         {
-          "title": "Manchester United's Michael Carrick Faces Dismissal Risk Amid BBC Warning",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/10/25/7NUYBPJCWZCJDEJL2RCF7FJ5RA/"
-        },
-        {
-          "title": "Senne Lammens: Manchester United players are united and behind under-pressure boss Michael Carrick",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/13602864/senne-lammens-manchester-united-players-are-united-and-behind-under-pressure-boss-michael-carrick"
-        },
-        {
-          "title": "Man Utd not an unmanageable club - Carrick",
+          "title": "Premier League LIVE: Sunderland host Leeds after Michael Carrick's Man Utd lose to Bournemouth",
           "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/c9ly0dxxgp7lo"
-        }
-      ]
-    },
-    {
-      "title": "ลิเวอร์พูล พบ ไบรตัน",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 07:20:00 -0700",
-      "news": [
-        {
-          "title": "พรีวิวการแข่งขัน: ลิเวอร์พูล พบ ไบรท์ตัน เวลา 21:00 น. วันที่ 25 ตุลาคม: แอนฟิลด์ยังไม่ได้เฉลิมฉลอง",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-tran-dau-liverpool-vs-brighton-21h00-ngay-25-10-anfield-chua-mo-hoi"
+          "url": "https://www.bbc.com/sport/football/live/c5dj4kvpd4j9t"
         },
         {
-          "title": "'หงส์แดง' งานหนักเปิดบ้านซด 'นางนวล'",
-          "source": "Head Topics",
-          "url": "https://th.headtopics.com/news/393627359136263108751-89165838"
+          "title": "Farke: Sunderland's position at the bottom is false",
+          "source": "beIN SPORTS",
+          "url": "https://www.beinsports.com/en-nz/football/premier-league/articles/farke-sunderlands-position-at-the-bottom-is-false-2026-10-24"
         },
         {
-          "title": "++[ＬＩＶＥＳｔｒｅａｍ]NOW!!] ลิเวอร์พูล vs ไบรตัน LIVE Updates",
-          "source": "FC東京オフィシャルホームページ",
-          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2R1a2Vucmd5MTQ3LmdpdGh1Yi5pby9uZXdzLyIvPjwva3JwYW5vPg==&id=liverpool-brington-live-th-now-vs-47924338"
+          "title": "Noah Okafor hints at Leeds involvement with Sunderland post amid injury concern",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/en/news/noah-okafor-hints-at-leeds-involvement-with-sunderland-post-amid-injury-concern-43669712"
         }
       ]
     }
