@@ -1,7 +1,7 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T11:35:11+00:00",
+  "fetched_at": "2026-10-25T12:03:17+00:00",
   "items": [
     {
       "title": "노태문",
@@ -80,14 +80,14 @@
           "url": "https://www.yna.co.kr/view/AKR20261024014500007"
         },
         {
+          "title": "임오경 의원 \"KLPGA 이사회 17명 중 16명 자회사 겸직…견제·감독 구조 개선해야\"",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610231936188524f4ab64559d_12"
+        },
+        {
           "title": "[2026 국감] KLPGA 임원 17명 중 16명 자회사 겸직…'이해충돌' 우려 제기",
           "source": "뉴스핌",
           "url": "https://www.newspim.com/news/view/20261024000030"
-        },
-        {
-          "title": "KLPGA 이사회 17명 중 16명 자회사 겸직…\"견제·감독 구조 개선해야\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/golf/6329692"
         }
       ]
     },
@@ -119,19 +119,19 @@
       "published": "Sun, 25 Oct 2026 03:00:00 -0700",
       "news": [
         {
-          "title": "천안시티FC, 홈에서 안산에 승…시즌 첫 2연승",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261025_0003840182"
+          "title": "어수선한 대표팀…모레노 감독이 일주일 먼저 명단 발표하는 이유는",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/soccer/6330405"
         },
         {
-          "title": "첫 '2연승' 천안시티 박진섭 \"승리했지만 경기력에선 질책 받아야\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261025_0003840200"
+          "title": "최악의 내분·부상…아시안컵 여정까지 가시밭길",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024134139aKM"
         },
         {
-          "title": "“우리나라는 4백 쉽지 않다” 안산 최문식 감독의 소신 [케터뷰]",
-          "source": "풋볼리스트",
-          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216196"
+          "title": "[SPO 현장] '국대 불화 논란'에도 팬서비스는 활짝...머리 아플 모레노 감독, K리그 직접 찾아 관찰 → 팬들 요청도 흔쾌히 응했다",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015103"
         }
       ]
     },
@@ -147,9 +147,9 @@
       "published": "Sun, 25 Oct 2026 02:20:00 -0700",
       "news": [
         {
-          "title": "방사청, LIG D&A '소형무인기 대응사업' 방산업체 지정취소 검토",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261025020200504"
+          "title": "방사청, LIG D&A 방산업체 지정 취소 요청…무인기 대응 사업 수의계약도 막는다",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12324714"
         },
         {
           "title": "[단독] '방산 비리' LIG에 추가 제재‥'방산업체 지정 취소' 검토",
@@ -158,8 +158,8 @@
         },
         {
           "title": "LIG D＆A, 對드론 체계 양산 막히나…미래 성장동력 경고등",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1180756"
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261025032900003"
         }
       ]
     },
