@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T19:34:35+00:00",
+  "fetched_at": "2026-10-25T19:59:13+00:00",
   "items": [
+    {
+      "title": "thứ hạng của man utd gặp bournemouth",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 11:40:00 -0700",
+      "news": [
+        {
+          "title": "Trực tiếp bóng đá MU - Bournemouth: Mount cứa lòng (Ngoại hạng Anh) (Hết giờ)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-bournemouth-ap-luc-de-nangcarrick-ngoai-hang-anh-c48a1805543.html"
+        },
+        {
+          "title": "«Манчестер Юнайтед» потерпел неожиданное поражение от «Борнмута» на «Олд Траффорд».",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ru/mu-thua-soc-bournemouth-ngay-tai-old-trafford"
+        },
+        {
+          "title": "MU thảm bại 0-3, Carrick còn trụ được bao lâu?",
+          "source": "Tạp chí Saostar",
+          "url": "https://www.saostar.vn/sao-sport/mu-tham-bai-0-3-carrick-con-tru-duoc-bao-lau-202610252324338056.html"
+        }
+      ]
+    },
     {
       "title": "전국노래자랑",
       "approx_traffic": "100+",
@@ -59,11 +81,6 @@
       "published": "Sun, 25 Oct 2026 11:00:00 -0700",
       "news": [
         {
-          "title": "[롤드컵 톡톡] '정규리그 아픈 기억이 보약'… '스매시', \"역전하는 법을 몸으로 배웠죠\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898121"
-        },
-        {
           "title": "[롤드컵] 젠지·디플러스 기아, LCK 내전 승리로 8강행 성큼…한화생명·T1도 반격 노린다",
           "source": "조선일보",
           "url": "https://www.chosun.com/sports/sports_general/2026/10/25/GYYTSMDBMMZDMZTDMUZTIM3EMQ/"
@@ -100,7 +117,7 @@
     },
     {
       "title": "england cricket team vs pakistan national cricket team standings",
-      "approx_traffic": "2000+",
+      "approx_traffic": "200+",
       "published": "Sun, 25 Oct 2026 10:10:00 -0700",
       "news": [
         {
@@ -122,7 +139,7 @@
     },
     {
       "title": "레알 바르샤",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sun, 25 Oct 2026 09:00:00 -0700",
       "news": [
         {
@@ -148,11 +165,6 @@
       "published": "Sun, 25 Oct 2026 08:40:00 -0700",
       "news": [
         {
-          "title": "부상 김민재, 프라이부르크전 못 뛴다…뮌헨 \"큰 문제 아니지만\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261025030800007"
-        },
-        {
           "title": "'김민재 부상에 노이어까지 쓰러졌다' 콤파니 없는 바이에른, 주전 수비수·골키퍼 동시 이탈...프라이부르크 원정 비상 - 조선비즈",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/sports/football/2026/10/25/GM2GCMRYGJRWEMZRGEZGGZTCGQ/"
@@ -161,28 +173,11 @@
           "title": "\"김민재 부상에 韓 대표팀도 철렁!\" 다행히 큰 부상 피했다... 뮌헨 코치 \"프라이부르크전 결장, 다음 주 복귀\" - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/10/25/2026102518270183552"
-        }
-      ]
-    },
-    {
-      "title": "30호 태풍 참피",
-      "approx_traffic": "2000+",
-      "published": "Sun, 25 Oct 2026 08:20:00 -0700",
-      "news": [
-        {
-          "title": "역대 가장 늦은 태풍 특보…‘참피’ 비는 약해졌지만 강풍이 마지막 고비",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694569"
         },
         {
-          "title": "태풍을 피해서…",
-          "source": "한라일보",
-          "url": "https://app.ihalla.com/article.php?aid=1792954800791991059"
-        },
-        {
-          "title": "참피 대만 앞 '한 바퀴 회전'‥'커진 피해' 日 할퀴고 북진",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6860541_36925.html"
+          "title": "'모레노호 4선 기둥이 흔들린다' UCL 45분 만에 교체→분데스리가 결장 확정…11월 대표팀 소집도 불투명, 뮌헨 \"작은 문제가 있다\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015242"
         }
       ]
     }
