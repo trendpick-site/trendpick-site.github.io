@@ -1,8 +1,69 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T18:01:52+00:00",
+  "fetched_at": "2026-10-25T18:37:45+00:00",
   "items": [
+    {
+      "title": "앙투안 그리즈만",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 10:20:00 -0700",
+      "news": [
+        {
+          "title": "손흥민도 뛰어넘다니...\"유럽 최고 팀 갈 선수\" 그리즈만마저 푹 빠졌다, MLS에 나타난 19세 드리블 천재",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99794"
+        },
+        {
+          "title": "한 명은 손흥민 뛰어넘은 대활약, 한 명은 손흥민보다 수준 미달...MLS 적응 희비 엇갈린 '월클 공격수'",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-10-24/202610240100153170009995"
+        }
+      ]
+    },
+    {
+      "title": "더샤이",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 10:10:00 -0700",
+      "news": [
+        {
+          "title": "[롤드컵] '에이스만 세 번 헌납'...망가진 '파괴전차' 한화생명, 中 IG에 완패… 1승 2패 조 추락",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112898120"
+        },
+        {
+          "title": "[롤드컵 톡톡] 쉼표 떼고 돌아온 전설 '더샤이', \"과거 최고 퍼포먼스 재현하겠다\"",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261024224020108"
+        },
+        {
+          "title": "[롤드컵] '더샤이' 막지 못한 한화생명, iG에 패...1승 2패 조",
+          "source": "데일리e스포츠",
+          "url": "https://www.dailyesports.com/view.php?ud=202610260307357357b91e133c1f_27"
+        }
+      ]
+    },
+    {
+      "title": "england cricket team vs pakistan national cricket team standings",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 10:10:00 -0700",
+      "news": [
+        {
+          "title": "Pakistan vs England: Shadab Khan condemns Harry Brook's side to another improbable loss",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/cricket/articles/cq0mek4de4xno"
+        },
+        {
+          "title": "Ball by Ball Commentary & Live Score - PAK vs ENG, 4th Match",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-england-4th-match-1550716/ball-by-ball-commentary"
+        },
+        {
+          "title": "Pakistan beat England in thriller after 89-run last-wicket stand: tri-series one day international cricket – as it happened",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/25/pakistan-v-england-tri-series-one-day-international-cricket-live"
+        }
+      ]
+    },
     {
       "title": "sc 프라이부르크 대 바이에른",
       "approx_traffic": "5000+",
@@ -14,14 +75,14 @@
           "url": "https://www.yna.co.kr/view/AKR20261025030800007"
         },
         {
-          "title": "'김민재 부상에 노이어까지 쓰러졌다' 콤파니 없는 바이에른, 주전 수비수·골키퍼 동시 이탈...프라이부르크 원정 비상",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898016"
+          "title": "'김민재 부상에 노이어까지 쓰러졌다' 콤파니 없는 바이에른, 주전 수비수·골키퍼 동시 이탈...프라이부르크 원정 비상 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/football/2026/10/25/GM2GCMRYGJRWEMZRGEZGGZTCGQ/"
         },
         {
-          "title": "'김민재 부상 이탈' 대표팀+바이에른 모두 비상...프라이부르크전 결장 확정→11월 A매치 합류에도 변수",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/25/GAZGMNTDGU4TAMJYG42WEYLBMI/"
+          "title": "\"김민재 부상에 韓 대표팀도 철렁!\" 다행히 큰 부상 피했다... 뮌헨 코치 \"프라이부르크전 결장, 다음 주 복귀\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102518270183552"
         }
       ]
     },
@@ -58,9 +119,14 @@
           "url": "https://www.joongboo.com/news/articleView.html?idxno=363740344"
         },
         {
-          "title": "대한산부인과의사회 “분만 건수 아닌 분만실 ‘유지’에 보상하라”",
-          "source": "medicalworldnews.co.kr",
-          "url": "https://medicalworldnews.co.kr/m/view.php?idx=1510978058&mcode="
+          "title": "산부인과의사회 '분만기관 1곳뿐인 60개 지역 유지비 지원해야' : 사회",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1048951"
+        },
+        {
+          "title": "\"분만 건수 넘어 '분만실 유지' 지원해야\"…분만 인프라 정책 전환 촉구",
+          "source": "경기메디뉴스",
+          "url": "https://www.ggmedinews.com/news/articleView.html?idxno=6964"
         }
       ]
     },
@@ -70,19 +136,19 @@
       "published": "Sun, 25 Oct 2026 08:00:00 -0700",
       "news": [
         {
-          "title": "Polexit kosztowałby Polskę 90 mld euro rocznie. Nowe szacunki",
-          "source": "Rzeczpospolita",
-          "url": "https://www.rp.pl/gospodarka/art45392301-zpp-to-mit-ze-polska-jest-platnikiem-netto-ue-bilans-wynosi-58-7-mld-euro-na-plusie"
+          "title": "Potężna wichura w Karkonoszach. Zamknięte szlaki i połamane drzewa",
+          "source": "RMF24",
+          "url": "https://www.rmf24.pl/regiony/wroclaw/news-potezna-wichura-w-karkonoszach-zamkniete-szlaki-i-polamane-d,nIdn,1023316"
         },
         {
-          "title": "Ile kosztowałby polexit? Wystawili \"rachunek\"",
-          "source": "Money.pl",
-          "url": "https://www.money.pl/gospodarka/rachunek-za-polexit-tyle-kosztowaloby-polske-wyjscie-z-ue-7343868849555488a.html"
+          "title": "Nadciąga załamanie pogody. Wiatr do 100 km/h, zamknięte szlaki, odwołane promy",
+          "source": "Polskie Radio 24",
+          "url": "https://polskieradio24.pl/pogoda/nadciaga-zalamanie-pogody-wiatr-do-100-kmh-zamkniete-szlaki-odwolane-promy"
         },
         {
-          "title": "Od montowni do sterowni: ZPP podsumowuje 22 lata w UE i wzywa do budowy polskiego przywództwa w Europie. Nowy raport ZPP",
-          "source": "Związek Przedsiębiorców i Pracodawców",
-          "url": "https://zpp.net.pl/od-montowni-do-sterowni-zpp-podsumowuje-22-lata-w-ue-i-wzywa-do-budowy-polskiego-przywodztwa-w-europie-nowy-raport-zpp/"
+          "title": "\"Trudne warunki pogodowe\". Przez Karkonosze przechodzi wichura",
+          "source": "WP Wiadomości",
+          "url": "https://wiadomosci.wp.pl/trudne-warunki-pogodowe-przez-karkonosze-przechodzi-wichura-7343827520508993v"
         }
       ]
     },
@@ -97,14 +163,14 @@
           "url": "https://www.marca.com/en/soccer/laliga-ea-sports/celta-betis/2026/10/25/01_0101_20261025_176_185-live.html"
         },
         {
-          "title": "! [SOCCER-EL-CLASICOSTREAMS] CELTA VIGO - REAL BETIS LIVE Free Streams ON Tv Channel",
+          "title": "4K-ONLINE!] RC CELTA VIGO REAL BETIS LIVE FREE Soccer EVENT 25 October 2026",
           "source": "FC東京オフィシャルホームページ",
-          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vZXZlbnQvb2EueG1sIi8+PC9rcnBhbm8+&id=video-soccer-el-clasicostreams-cel-enidvc36"
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vZXZlbnQvb2EueG1sIi8+PC9rcnBhbm8+&id=video-4k-online-rc-celta-vigo-real-15aelq3t"
         },
         {
-          "title": "Celta Vigo 0-0 Real Betis: Valles stands tall in LaLiga",
-          "source": "Sofascore",
-          "url": "https://www.sofascore.com/news/celta-vigo-0-0-real-betis-valles-stands-tall-in-laliga"
+          "title": "Celta Vigo vs. Real Betis - Game Highlights",
+          "source": "ESPN India",
+          "url": "https://www.espn.in/video/clip/_/id/50278064/celta-vigo-vs-real-betis-game-highlights"
         }
       ]
     },
@@ -114,19 +180,19 @@
       "published": "Sun, 25 Oct 2026 07:50:00 -0700",
       "news": [
         {
-          "title": "가을 수놓은 남양주 '주민 화합의 장'…문화·체육으로 묶인 ‘이웃의 정’",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102517265611415"
+          "title": "[제민포럼] 농지 전수조사의 문제점과 대책",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845298"
         },
         {
-          "title": "남양주시 퇴계원읍, ‘2026년 한마음 체육대회’ 성황리 개최",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799181"
+          "title": "농지조사는 ‘개문발차’, 농협개혁은 ‘졸속’ 공방",
+          "source": "농업인신문",
+          "url": "https://www.nongupin.co.kr/news/articleView.html?idxno=208615"
         },
         {
-          "title": "남양주 곳곳 축제·체육대회 성황...황금산·별내동·진건읍 주민 4,000여 명 참여",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3731930"
+          "title": "남양주시, 농지 전수조사 관련 4대 개선안 제안",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038745"
         }
       ]
     },
@@ -136,7 +202,7 @@
       "published": "Sun, 25 Oct 2026 07:50:00 -0700",
       "news": [
         {
-          "title": "Kết quả bóng đá Liverpool - Brighton: Choáng váng 4 phút 2 bàn (Ngoại hạng Anh)",
+          "title": "Video bóng đá Liverpool - Brighton: Choáng váng 4 phút 2 bàn (Ngoại hạng Anh)",
           "source": "Tin tức 24h",
           "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-liverpool-brighton-choang-vang-4-phut-2-ban-ngoai-hang-anh-c48a1805546.html"
         },
@@ -149,72 +215,6 @@
           "title": "Bộ ba nguyên tử ở Liverpool bùng nổ và tài xoay tua của Iraola",
           "source": "yeuthethao.net.vn",
           "url": "https://yeuthethao.net.vn/bo-ba-nguyen-tu-o-liverpool-bung-no-va-tai-xoay-tua-cua-iraola-d900013.html"
-        }
-      ]
-    },
-    {
-      "title": "김치",
-      "approx_traffic": "2000+",
-      "published": "Sun, 25 Oct 2026 07:40:00 -0700",
-      "news": [
-        {
-          "title": "\"과자 끊고 안심했는데\"…사 먹는 김치에 '숨은 함정' 깜짝 [건강!톡]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102534267"
-        },
-        {
-          "title": "김치 사먹는 게 아이스크림보다 당분 섭취 많아",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/10/24/QOBFHLE76VEFTHTUW4EVJ5IHXA/"
-        },
-        {
-          "title": "“김장 귀찮아, 김치 사 먹어?”… ‘그 김치’ 너무 달아, 혈당 관리 어쩌나",
-          "source": "코메디닷컴",
-          "url": "https://kormedi.com/2891332/"
-        }
-      ]
-    },
-    {
-      "title": "epl",
-      "approx_traffic": "2000+",
-      "published": "Sun, 25 Oct 2026 07:40:00 -0700",
-      "news": [
-        {
-          "title": "Manchester United Collapse 0-3 at Home, Carrick's Exit Looms",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/10/26/DNJGFCZYSJGTBP4AGHK2R5WT6I/"
-        },
-        {
-          "title": "Team A v Team B: How the players rated",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/c9ly0mz745dno"
-        },
-        {
-          "title": "Man Utd 0-3 Bournemouth highlights, commentary & reaction",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13602630/man-utd-vs-bournemouth-live-premier-league-score-updates-news-prediction-lineups-and-how-to-watch-or-stream"
-        }
-      ]
-    },
-    {
-      "title": "리버풀",
-      "approx_traffic": "1000+",
-      "published": "Sun, 25 Oct 2026 07:40:00 -0700",
-      "news": [
-        {
-          "title": "프리미어 리그 리버풀 대 브라이튼 축구 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-liverpool-vs-brighton-tai-premier-league-1788808.ldo"
-        },
-        {
-          "title": "[오피셜] \"소보슬러이, 브라이튼전 결장 확정!\"…이라올라가 밝힌 리버풀 부상자 현황! 바르콜라 복귀 가능-무뇨스 출전 불투명",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99780"
-        },
-        {
-          "title": "승점 16점 브라이튼, 안필드서 리버풀과 8R 격돌 : 스포츠",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1048923"
         }
       ]
     }
