@@ -1,27 +1,154 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T15:04:24+00:00",
+  "fetched_at": "2026-10-25T15:36:15+00:00",
   "items": [
+    {
+      "title": "맨유",
+      "approx_traffic": "1000+",
+      "published": "Sun, 25 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "'7경기 무승-UCL 1-4 참패' 맨유는 감독들의 무덤인가...경질 위기 캐릭, 단 한마디로 반박 \"아니다\" - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/football/2026/10/25/GBTGMOJZGVQTOZBZG5SDEZJQGI/"
+        },
+        {
+          "title": "'맨유행 전권 요구? 사실 아닙니다' 콘테 직접 '오피셜', 공식입장 밝혔다...\"근거 없는 보도, 현재 진전된 협상 전혀 없어\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/24/202610242052779033O"
+        },
+        {
+          "title": "‘英 단독’ 맨체스터 유나이티드, 어디부터 고쳐야 할지 막막하다 “전술·성적 개선보다 ‘선수단 기강 잡기’가 우...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610240606003"
+        }
+      ]
+    },
+    {
+      "title": "premier league",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "Premier League: Carrick pressure grows as Man Utd 3-0 down, Liverpool in control and Newcastle ahead",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c5dj4kvpd4j9t"
+        },
+        {
+          "title": "Premier League live: score, updates and analysis",
+          "source": "The Times",
+          "url": "https://www.thetimes.com/sport/football/article/premier-league-live-score-analysis-commentary-latest-news-zjx5df7ql"
+        },
+        {
+          "title": "Liverpool vs Brighton & Hove Albion: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cmdx325w7gy6t"
+        }
+      ]
+    },
+    {
+      "title": "fotmob",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "Carrick denies Old Trafford manager graveyard claim amid seven-match winless run - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/25/UCF6FUT23ZF2DNMF56WMLG2HRA/"
+        },
+        {
+          "title": "Senne Lammens: Manchester United players are united and behind under-pressure boss Michael Carrick",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13602864/senne-lammens-manchester-united-players-are-united-and-behind-under-pressure-boss-michael-carrick"
+        },
+        {
+          "title": "Man Utd not an unmanageable club - Carrick",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/c9ly0dxxgp7lo"
+        }
+      ]
+    },
+    {
+      "title": "ลิเวอร์พูล พบ ไบรตัน",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 07:20:00 -0700",
+      "news": [
+        {
+          "title": "ลิเวอร์พูล เตรียมแผนดึงกองหลังดาวรุ่ง ไบรตัน เสริมแนวรับ | Khaosod",
+          "source": "LINE TODAY",
+          "url": "https://today.line.me/th/v3/article/aGpmEqP"
+        },
+        {
+          "title": "ลิเวอร์พูล เตรียมแผนดึงกองหลังดาวรุ่ง ไบรตัน เสริมแนวรับ",
+          "source": "ข่าวสด",
+          "url": "https://www.khaosod.co.th/sports/news_10449415"
+        }
+      ]
+    },
+    {
+      "title": "브라이튼",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 07:20:00 -0700",
+      "news": [
+        {
+          "title": "프리미어 리그 리버풀 대 브라이튼 축구 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-liverpool-vs-brighton-tai-premier-league-1788808.ldo"
+        },
+        {
+          "title": "10월 25일 오후 9시, 프리미어 리그 8라운드 리버풀 대 브라이튼 경기 생중계 링크입니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/link-xem-truc-tiep-liverpool-vs-brighton-21h00-ngay-25-10-vong-8-ngoai-hang-anh"
+        },
+        {
+          "title": "[if.preview] ‘라이버 버드’ 리버풀, ‘날아오르는 갈매기’ 브라이튼 막을 수 있을까?",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99807"
+        }
+      ]
+    },
+    {
+      "title": "테일러 프리츠",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 07:10:00 -0700",
+      "news": [
+        {
+          "title": "Musetti triumphs in Lyon, wins first title since 2022",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/fritz-musetti-lyon-2026-final-sunday"
+        },
+        {
+          "title": "[!WATCHLIVE]4K!] Musetti vs Fritz tennis final LIVE STreams",
+          "source": "FC東京オフィシャルホームページ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vdHJhdmlzLWF1c3Rpbi5naXRodWIuaW8vZW5tL2VudS54bWwiLz48L2tycGFubz4=&id=video-musetti-vs-fritz-tennis-final-lie-en-hmlyfua"
+        },
+        {
+          "title": "LIVE Lyon Open Final | Taylor Fritz’s fleeting ATP Finals hopes intact as Lorenzo Musetti eyes first title in four years",
+          "source": "Tennisuptodate.com",
+          "url": "https://tennisuptodate.com/atp/live-lyon-open-final-taylor-fritzs-fleeting-atp-finals-hopes-intact-as-lorenzo-musetti-eyes-first-title-in-four-years"
+        }
+      ]
+    },
     {
       "title": "liverpool vs brighton",
       "approx_traffic": "500+",
       "published": "Sun, 25 Oct 2026 06:50:00 -0700",
       "news": [
         {
-          "title": "Andoni Iraola Refuses to Tone Down Liverpool Intensity Despite Escalating Injury Concerns",
-          "source": "thenational.co.za",
-          "url": "https://thenational.co.za/sport/2026-10-25-andoni-iraola-refuses-to-tone-down-liverpool-intensity-despite-escalating-injury-concerns/"
+          "title": "[[WaTcH^LiVe]]Liverpool vs Brighton LIVE STreams ON TV Channel",
+          "source": "FC東京オフィシャルホームページ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vbWluaGFqYmVhci1nbGl0Y2guZ2l0aHViLmlvL2VkdS94b2wueG1sIi8+PC9rcnBhbm8+&id=video-watch-live-liverpool-vs-brighton-live-st-ali"
         },
         {
-          "title": "Coventry City vs Sunderland: Kalshi Promo Code & $25 Bonus",
-          "source": "Squawka",
-          "url": "https://www.squawka.com/us/news/premier-league/kalshi-promo-code-coventry-city-vs-sunderland-31-10-26-premier-league/"
+          "title": "Liverpool vs Brighton and Hove Albion live: Score and latest Premier League updates",
+          "source": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/football/2026/10/25/liverpool-vs-brighton-live-score-and-latest-premier-league/"
         },
         {
-          "title": "Vote now: Liverpool's Carlsberg Player of the Match against Brighton",
-          "source": "Liverpool FC",
-          "url": "https://www.liverpoolfc.com/news/vote-now-liverpool-player-of-the-match-brighton-premier-league"
+          "title": "™√♐️$[TRANSMISSAO HD]$ Brighton x Liverpool Ao Vivo Online",
+          "source": "FC東京オフィシャルホームページ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2xpdmVwbGF5My5naXRodWIuaW8vbmV3LyIvPjwva3JwYW5vPg==&id=liverpool-vs-brighton-live-updates-latest-score-teams-and-more004"
         }
       ]
     },
@@ -88,133 +215,6 @@
           "title": "MU vs Bournemouth: Thua là hết với Carrick",
           "source": "Znews",
           "url": "https://lifestyle.zingnews.vn/mu-vs-bournemouth-thua-la-het-voi-carrick-post1691778.html"
-        }
-      ]
-    },
-    {
-      "title": "미국",
-      "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 06:20:00 -0700",
-      "news": [
-        {
-          "title": "미국의 ‘AI 교육 포비아’…한국엔 기회[윤경환 특파원의 브레이킹 뉴욕]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105837"
-        },
-        {
-          "title": "초단편뉴스6",
-          "source": "브런치",
-          "url": "https://brunch.co.kr/@gulogulo/598"
-        },
-        {
-          "title": "'인공지능을 멈춰라' 미국 대규모 파업",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3727800"
-        }
-      ]
-    },
-    {
-      "title": "man utd vs bournemouth",
-      "approx_traffic": "1000+",
-      "published": "Sun, 25 Oct 2026 06:10:00 -0700",
-      "news": [
-        {
-          "title": "Man Utd vs Bournemouth LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13602630/man-utd-vs-bournemouth-live-premier-league-score-updates-news-prediction-lineups-and-how-to-watch-or-stream"
-        },
-        {
-          "title": "Carrick's team news for Cherries clash",
-          "source": "Manchester United",
-          "url": "https://www.manutd.com/en/news/carricks-team-news-for-man-utd-v-bournemouth-25-october"
-        },
-        {
-          "title": "Matchday Live – Premier League predictions, tips, accas and bookmaker offers",
-          "source": "Racing Post",
-          "url": "https://www.racingpost.com/sport/football-tips/premier-league/matchday-live-premier-league-predictions-tips-accas-and-bookmaker-offers-rEILm0Z5guel/"
-        }
-      ]
-    },
-    {
-      "title": "헐 시티 대 브렌트퍼드",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 06:10:00 -0700",
-      "news": [
-        {
-          "title": "Hull City vs Brentford LIVE! Premier League score updates, news, prediction, lineups and how to watch or stream",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13602625/hull-city-vs-brentford-live-premier-league-score-updates-news-prediction-lineups-and-how-to-watch-or-stream"
-        },
-        {
-          "title": "+![TOTAL SPORTEK]! Brentford vs Brentford EPL 𝐋𝐈𝐕𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 Ｆｒｅｅ On 25 October 2026",
-          "source": "FC東京オフィシャルホームページ",
-          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubyBvbnN0YXJ0PSJvcGVudXJsKCdodHRwczovL2RheWFuYW5hZGVyMS5naXRodWIuaW8vYWJjLmVkdS90b3RhbC1zcG9ydGVrLWJyZW50Zm9yZC12cy1icmVudGZvcmQtZXBsLWxpdmUtc3hrNjkuaHRtbCcsICdfc2VsZicpOyI+PC9rcnBhbm8+"
-        },
-        {
-          "title": "How to watch Hull City vs Brentford: Live stream details and TV channels as Tigers host Bees in Premier League",
-          "source": "FourFourTwo",
-          "url": "https://www.fourfourtwo.com/competition/watch-hull-city-vs-brentford-premier-league-2026-27"
-        }
-      ]
-    },
-    {
-      "title": "맨유 대 본머스",
-      "approx_traffic": "10000+",
-      "published": "Sun, 25 Oct 2026 06:00:00 -0700",
-      "news": [
-        {
-          "title": "맨유 대 본머스 축구 생중계 링크",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-man-united-vs-bournemouth-1789070.ldo"
-        },
-        {
-          "title": "맨유 대 본머스 경기 프리뷰 및 예측: 맨유는 패배를 면하기 어려울 것으로 예상됩니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-du-doan-tran-dau-mu-vs-bournemouth-quy-do-kho-thoat-hiem"
-        }
-      ]
-    },
-    {
-      "title": "감우성",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 06:00:00 -0700",
-      "news": [
-        {
-          "title": "[정수윤의 길을 걸으며] [51] ’100일의 거짓말’을 보는 마음",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/opinion/specialist_column/2026/10/23/XSRR7XTILNHZ7PEXWPPLQ6KEQA/"
-        },
-        {
-          "title": "‘100일의 거짓말’ 5회, 김유정에게 닥친 위기…밀정 임무와 엇갈리는 인물들의 선택",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845213"
-        },
-        {
-          "title": "'100일의 거짓말' 김유정·박진영, 서로의 마음 노린 이중 덫 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/25/2026102513407271433"
-        }
-      ]
-    },
-    {
-      "title": "벙커버스터",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "“미 항공모함, 벙커버스터 보충”…이란 재타격 ‘카운트다운?’ [이런뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694539"
-        },
-        {
-          "title": "美 중부사령부, 이란 공격안 보고…“중간선거 이후”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105911"
-        },
-        {
-          "title": "'게임오버' 트럼프의 충격적인 계획...전 세계는 다시 '초긴장' [자막뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202610251256385643"
         }
       ]
     }
