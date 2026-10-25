@@ -1,27 +1,182 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T23:31:20+00:00",
+  "fetched_at": "2026-10-25T23:57:44+00:00",
   "items": [
     {
-      "title": "부동산",
+      "title": "thứ hạng của barcelona gặp real madrid",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 15:50:00 -0700",
+      "news": [
+        {
+          "title": "Cú sốc cho Real Madrid ở El Clasico",
+          "source": "Znews",
+          "url": "https://lifestyle.zingnews.vn/cu-soc-cho-real-madrid-o-el-clasico-post1691988.html"
+        },
+        {
+          "title": "5 yếu tố định đoạt trận Siêu kinh điển giữa Barcelona và Real Madrid",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/5-yeu-to-dinh-doat-tran-sieu-kinh-dien-giua-barcelona-va-real-madrid-c48a1805392.html"
+        },
+        {
+          "title": "پخش زنده بارسلونا - رئال مادرید: بارسلونا مالکیت توپ را در اختیار دارد، هنوز گلی به ثمر نرسانده است.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/fa/truc-tieptruc-tiep-barcelona-vs-real-madrid-barcelona-chiem-uu-the-kiem-soat-bong-chua-co-ban-thang"
+        }
+      ]
+    },
+    {
+      "title": "барселона – реал мадрид турнирная таблица",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 15:50:00 -0700",
+      "news": [
+        {
+          "title": "Дубль Мбаппе принес «Реалу» победу над «Барселоной» в матче чемпионата Испании",
+          "source": "Спорт Mail",
+          "url": "https://sportmail.ru/news/football-foreign/72853558/"
+        },
+        {
+          "title": "Фото: эмоциональная реакция Моуринью на победный гол Мбаппе в матче «Реала» с «Барселоной»",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6672654-foto-emocionalnaya-reakciya-mourinyu-na-pobednyj-gol-mbappe-v-matche-reala-s-barselonoj.html"
+        },
+        {
+          "title": "Дубль Мбаппе принес \"Реалу\" победу над \"Барселоной\" в первом Эль-Класико сезона",
+          "source": "NUR.KZ",
+          "url": "https://www.nur.kz/sport/football/2447709-dubl-mbappe-prines-realu-pobedu-nad-barselonoy-v-pervom-el-klasiko-sezona/"
+        }
+      ]
+    },
+    {
+      "title": "김연경",
       "approx_traffic": "2000+",
+      "published": "Sun, 25 Oct 2026 15:50:00 -0700",
+      "news": [
+        {
+          "title": "김연경 \"감독 다신 안해\"..시즌3 거부 의사 밝혔다(신인감독2)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/GRRWGNTGG4YDGZRQGA3DMZBVG4/"
+        },
+        {
+          "title": "'신인감독' 백채림, 시즌2 지원 이유 \"슈지츠에 꼭 복수하고 싶었다\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112898094"
+        },
+        {
+          "title": "\"감독 다시는 안 해\"...김연경, 역전승에도 '신인감독3' 거부 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/26/2026102605235278223"
+        }
+      ]
+    },
+    {
+      "title": "열병합발전소",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 15:40:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 전력 부족한데…열병합발전, 낙찰 받고도 2년째 착공 못해",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102535691"
+        },
+        {
+          "title": "[단독] 전력 수요 느는데…낙찰된 LNG 열병합발전소 2년째 삽도 못 떠",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610217102i"
+        }
+      ]
+    },
+    {
+      "title": "베트남",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 15:40:00 -0700",
+      "news": [
+        {
+          "title": "롯데, 베트남 하노이 5개 명문대 찾아 인재 채용설명회",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610251455001"
+        },
+        {
+          "title": "롯데, 베트남 명문대 캠퍼스 리쿠르팅 진행...\"취업준비생 3천여 명 몰려\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610251131383983"
+        },
+        {
+          "title": "베트남 명문대생 3000명 줄 섰다…\"한국 회사 갈래요\" 열풍 [권용훈의 트렌드워치]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610253064i"
+        }
+      ]
+    },
+    {
+      "title": "이건희",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 15:40:00 -0700",
+      "news": [
+        {
+          "title": "젠슨 황·박세리 30년 후를 본 故 이건희 회장...삼성의 미래는 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/opinion/2026/10/25/2026102506442386466"
+        },
+        {
+          "title": "반도체 넘어 예술·의료지원까지...이건희 유산 재조명",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610250531313443"
+        },
+        {
+          "title": "고 이건희 선대회장 6주기 추도식…경영진 집결",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20261024001900038"
+        }
+      ]
+    },
+    {
+      "title": "klasemen fc barcelona vs real madrid",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 15:30:00 -0700",
+      "news": []
+    },
+    {
+      "title": "롯데백화점",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 15:30:00 -0700",
+      "news": [
+        {
+          "title": "롯데百, 잠실점 3천400평 식품관 10년 만에 전면 개편",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1180795"
+        },
+        {
+          "title": "\"럭셔리 미식 랜드마크를 잠실에\" 롯데百 잠실점, 식품관 새단장 착수",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261025_0003840154"
+        },
+        {
+          "title": "롯데백화점 잠실점, 본관 식품관 재편 착수…2028년 3400평 규모 완성",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610260806324561204ead0791_12"
+        }
+      ]
+    },
+    {
+      "title": "부동산",
+      "approx_traffic": "5000+",
       "published": "Sun, 25 Oct 2026 15:20:00 -0700",
       "news": [
         {
-          "title": "\"서울·경기 집 살 때 꼭 보세요\"…부동산 전문가가 짚은 '핵심' 기준",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261025_0003839900"
+          "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026010200011"
         },
         {
-          "title": "\"거래량 뚝 떨어졌다\"…서울 아파트값 속 확산하는 '위험 신호'",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610240030588652"
+          "title": "6억9341만원 vs 239만원···자산 상·하위 20% 집값 격차 290배 ‘최대’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610260805001"
         },
         {
-          "title": "내년 4월부턴 강남 집주인 마음 바뀐다…“급매 잡으려면 1~3월이 기회”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12182998"
+          "title": "하위 20% ‘239만원’ vs 상위 20% ‘6억9천341만원’… 집값 290배 격차",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261026580001"
         }
       ]
     },
@@ -44,182 +199,6 @@
           "title": "[롤드컵] 젠지·디플러스 기아, LCK 내전 승리로 8강행 성큼…한화생명·T1도 반격 노린다",
           "source": "조선일보",
           "url": "https://www.chosun.com/sports/sports_general/2026/10/25/GYYTSMDBMMZDMZTDMUZTIM3EMQ/"
-        }
-      ]
-    },
-    {
-      "title": "월즈 2026",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "게임·음악·굿즈…‘LoL 세상’ 열린다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610252053045"
-        },
-        {
-          "title": "롯데백화점, 롤 팝업스토어 연다…'페이커' 기념우표도 판매",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261025113104"
-        },
-        {
-          "title": "롯데백화점, 롯데월드몰서 LoL 음악·e스포츠 팝업 운영…페이커 기념우표 판매",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261025000024"
-        }
-      ]
-    },
-    {
-      "title": "fc barcelona vs real madrid standings",
-      "approx_traffic": "2000+",
-      "published": "Sun, 25 Oct 2026 15:10:00 -0700",
-      "news": [
-        {
-          "title": "Barcelona 1-2 Real Madrid: Kylian Mbappe scores twice to end La Liga leaders winning start",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cj3vqz410y42t"
-        },
-        {
-          "title": "Kylian Mbappé scores 100th goal for Real Madrid in dramatic Clásico win",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/50246032/kylian-mbappe-scores-100th-goal-real-madrid-dramatic-clasico-win"
-        },
-        {
-          "title": "Kylian Mbappe goals lead Real Madrid past Barcelona in El Clasico: Live updates, reaction",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/live-blogs/barcelona-vs-real-madrid-live-updates-el-clasico-predictions-team-news-and-more/cZB0CJqaIcUo/"
-        }
-      ]
-    },
-    {
-      "title": "라민 야말",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 15:10:00 -0700",
-      "news": [
-        {
-          "title": "케인은 발롱도르가 간절하다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/24/7W2S2575ZFEOLJ4PRZDZ5DYYVY/"
-        },
-        {
-          "title": "손흥민 ‘영혼단짝’ 케인, 발롱도르 수상 적극 응원 ‘GOAT+우승컵+1등 메달’ 함께 “그저 감탄만 나온다” ...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610231839003"
-        },
-        {
-          "title": "손흥민이 직접 댓글 달았다! 확실한 입장 표명 \"그저 와우\"…케인 미친 시즌 홍보, 발롱도르 앞두고 염소 이모티콘까지",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015038"
-        }
-      ]
-    },
-    {
-      "title": "스토킹",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 15:00:00 -0700",
-      "news": [
-        {
-          "title": "‘스토킹 신고’ 여성 또 숨져…40대 남성 검거",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694566"
-        },
-        {
-          "title": "전 연인 살해 후 해외 도주 시도…18시간 만에 강릉서 체포",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12324738"
-        },
-        {
-          "title": "한때 스마트워치도 있었지만‥신고 1년 만에 비극",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860586_37004.html"
-        }
-      ]
-    },
-    {
-      "title": "天気",
-      "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 15:00:00 -0700",
-      "news": [
-        {
-          "title": "今後3日間の天気予報 10月26日から28日まで、全国3地域",
-          "source": "Laodong.vn",
-          "url": "https://ja.laodong.vn/ban-tin/du-bao-thoi-tiet-3-ngay-toi-tu-2610-den-2810-o-ca-ba-mien-1789178.ldo"
-        },
-        {
-          "title": "10月26日～11月1日の週の天気予報",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ja/thoi-tiet-tuan-tu-ngay-26-10-1-11"
-        },
-        {
-          "title": "【動画】今夜と明日（2026年10月26日）の天気予報：ベトナム北部では気温がやや低下する一方、ベトナム南部では晴天が続くでしょう。",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ja/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-26-10-2026-bac-bo-nhiet-do-giam-nhe-nam-bo-ngay-nang"
-        }
-      ]
-    },
-    {
-      "title": "lyon",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "ATP - Lyon > Taylor Fritz à Lorenzo Musetti après sa défaite en finale : \"Tu mérites totalement cette victoire\"",
-          "source": "We Love Tennis",
-          "url": "https://www.welovetennis.fr/atp/atp-lyon/taylor-fritz-a-lorenzo-musetti-apres-sa-defaite-en-finale-tu-merites-totalement-cette-victoire"
-        },
-        {
-          "title": "ATP - Lyon: Lorenzo Musetti : «J'ai disputé quelques-uns de mes meilleurs matchs",
-          "source": "Tennis Actu",
-          "url": "https://www.tennisactu.net/news-atp-lyon-lorenzo-musetti-j-ai-dispute-quelques-uns-de-mes-meilleurs-matchs-127838.html"
-        },
-        {
-          "title": "Lorenzo Musetti, vainqueur du Grand Prix Auvergne-Rhône-Alpes : « L’un des meilleurs matches de ma carrière »",
-          "source": "Le Progrès",
-          "url": "https://www.leprogres.fr/sport/2026/10/25/lorenzo-musetti-l-un-des-meilleurs-matches-de-ma-carriere"
-        }
-      ]
-    },
-    {
-      "title": "บาร์ซา พบ เรอัลมาดริด",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "เอ็มบัปเป้เหมา 2! เรอัล มาดริด บุกเชือดบาร์ซ่า 2-1 มูรินโญ่ไร้พ่าย 6 เอล กลาซิโก้ติด",
-          "source": "Head Topics",
-          "url": "https://th.headtopics.com/news/364836293655361145453-89191787"
-        },
-        {
-          "title": "[สตรมความคมชดสง (HD)] บารเซโลนา พบ เรอล มาดรด",
-          "source": "FC東京オフィシャルホームページ",
-          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9ib2thLyIvPjwva3JwYW5vPg==&id=video-hd-newtv-03"
-        },
-        {
-          "title": "+![TOTAL SPORTEK]! บาร์เซโลน่า vs เรอัล มาดริด Barcelona vs Real Madrid ถ่ายทอดสด 25 ตุลาคม 2569",
-          "source": "Fabryka Norblina",
-          "url": "https://fabrykanorblina.pl/wp-content/uploads/spacer/index.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-vs-barcelona-vs-real-madrid-lie-en-hijrkgv"
-        }
-      ]
-    },
-    {
-      "title": "天气",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "Flash-flood threat continues in the Southwest, but outlook is improving",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://abcnews.com/US/flash-flood-threat-continues-southwest-midwest-outlook-improving/story?id=137550606"
-        },
-        {
-          "title": "US south-west braces for more storms after enduring days of rain and flooding",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms"
-        },
-        {
-          "title": "More flooding in Four Corners region after storms bring heavy rain and at least one tornado",
-          "source": "AP News",
-          "url": "https://apnews.com/article/four-corners-flooding-storm-961459bac9d5db8dc9e5260cac61aec3"
         }
       ]
     }
