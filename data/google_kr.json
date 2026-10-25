@@ -1,11 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T14:04:15+00:00",
+  "fetched_at": "2026-10-25T14:34:47+00:00",
   "items": [
     {
+      "title": "man utd đấu với bournemouth",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 06:30:00 -0700",
+      "news": [
+        {
+          "title": "Trực tiếp bóng đá MU - Bournemouth: Fernandes ngồi dự bị (Ngoại hạng Anh)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-bournemouth-ap-luc-de-nangcarrick-ngoai-hang-anh-c48a1805543.html"
+        },
+        {
+          "title": "Nhận định bóng đá MU vs Bournemouth, 21h00 ngày 25/10: Thử thách cực đại",
+          "source": "Tạp chí Bóng đá",
+          "url": "https://bongdaplus.vn/ngoai-hang-anh/nhan-dinh-bong-da-mu-vs-bournemouth-21h00-ngay-25-10-thu-thach-cuc-dai-5269632610.html"
+        },
+        {
+          "title": "Dự đoán tỉ số Ngoại hạng Anh: Man United 'chìm sâu' trong khủng hoảng",
+          "source": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/du-doan-ti-so-ngoai-hang-anh-man-united-chim-sau-trong-khung-hoang-100261024195226663.htm"
+        }
+      ]
+    },
+    {
+      "title": "man utd vs bournemouth",
+      "approx_traffic": "1000+",
+      "published": "Sun, 25 Oct 2026 06:10:00 -0700",
+      "news": [
+        {
+          "title": "Manchester United vs Bournemouth: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/ck62yqmle02mt"
+        },
+        {
+          "title": "Carrick's team news for Cherries clash",
+          "source": "Manchester United",
+          "url": "https://www.manutd.com/en/news/carricks-team-news-for-man-utd-v-bournemouth-25-october"
+        },
+        {
+          "title": "Matchday Live – Premier League predictions, tips, accas and bookmaker offers",
+          "source": "Racing Post",
+          "url": "https://www.racingpost.com/sport/football-tips/premier-league/matchday-live-premier-league-predictions-tips-accas-and-bookmaker-offers-rEILm0Z5guel/"
+        }
+      ]
+    },
+    {
+      "title": "헐 시티 대 브렌트퍼드",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 06:10:00 -0700",
+      "news": [
+        {
+          "title": "Hull City vs Brentford: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cxly4950egynt"
+        },
+        {
+          "title": "Hull City v Brentford - match preview, kick-off time and more",
+          "source": "Brentford FC",
+          "url": "https://www.brentfordfc.com/en/news/match-previews-hull-city-v-brentford-premier-league-25-10-2026"
+        },
+        {
+          "title": "Shorthanded Brentford braces for tough test at Hull City",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/soccer/news/shorthanded-brentford-braces-for-tough-test-at-hull-city/"
+        }
+      ]
+    },
+    {
       "title": "맨유 대 본머스",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Sun, 25 Oct 2026 06:00:00 -0700",
       "news": [
         {
@@ -31,9 +97,9 @@
           "url": "https://www.chosun.com/opinion/specialist_column/2026/10/23/XSRR7XTILNHZ7PEXWPPLQ6KEQA/"
         },
         {
-          "title": "‘100일의 거짓말’ 5회, 김유정에게 닥친 위기…밀정 임무와 엇갈리는 인물들의 선택",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845213"
+          "title": "‘100일의 거짓말’ 김유정, 참혹한 고문 목격 후 밀정 포기 선언",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261025/134901933/1"
         },
         {
           "title": "'100일의 거짓말' 김유정·박진영, 서로의 마음 노린 이중 덫 - 머니투데이",
@@ -53,14 +119,14 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8694539"
         },
         {
-          "title": "'게임오버' 트럼프의 충격적인 계획...전 세계는 다시 '초긴장' [자막뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202610251256385643"
+          "title": "美 중부사령부, 이란 공격안 보고…“중간선거 이후”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105911"
         },
         {
-          "title": "\"미군, 이란 공격안 국방장관에 보고…트럼프 승인 대기\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261025047900009"
+          "title": "미군, 중간선거 후 이란 공격 계획 보고…짙어지는 전운",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/arabafrica/1284091.html"
         }
       ]
     },
@@ -146,75 +212,9 @@
           "url": "https://www.newsis.com/view/NISX20261023_0003838757"
         },
         {
-          "title": "[AI 자본전쟁⑤] 돈줄 막히면 엔비디아·HBM도 흔들리나",
-          "source": "미디어펜",
-          "url": "https://www.mediapen.com/news/view/1132079"
-        }
-      ]
-    },
-    {
-      "title": "garudayaksa fc vs persib bandung",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 05:10:00 -0700",
-      "news": [
-        {
-          "title": "Link Live Streaming Garudayaksa vs Persib: Haye-Klok Kena Rotasi Tolic, Uilliam Barros Andalan Maung, Tayang di TV",
-          "source": "AFU.id",
-          "url": "https://afu.id/olahraga/link-live-streaming-garudayaksa-vs-persib-hayeklok-kena-rotasi-tolic-uilliam-barros-andalan-maung-tayang-di-tv"
-        },
-        {
-          "title": "Polsek Lembang siagakan personel, nobar Persib vs Garudayaksa FC dikawal ketat",
-          "source": "SUARA PAKTA",
-          "url": "https://www.suarapakta.com/2026/10/polsek-lembang-siagakan-personel-nobar.html"
-        },
-        {
-          "title": "BRI Super League 2026/2027: Tanpa Teja Paku Alam, Persib Optimistis Garudayaksa FC",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/id/berita/bri-super-league-20262027-tanpa-teja-paku-alam-persib-optimistis-garudayaksa-fc-43669685"
-        }
-      ]
-    },
-    {
-      "title": "신인감독 김연경 시즌2",
-      "approx_traffic": "2000+",
-      "published": "Sun, 25 Oct 2026 05:10:00 -0700",
-      "news": [
-        {
-          "title": "김연경, 시즌3 거부 의사 밝힌 이유는…\"감독 다시 안 한다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261025_0003840008"
-        },
-        {
-          "title": "황연주 터졌다..김연경, 한일전 뼈아픈 패배 딛고 '소름 돋는 용병술' ('신인감독2') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/24/HE3TEYLDHA3TQZDGGM2DCYTGGA/"
-        },
-        {
-          "title": "김연경 \"감독 다신 안해\"..시즌3 거부 의사 밝혔다(신인감독2)",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112897891"
-        }
-      ]
-    },
-    {
-      "title": "한국전력공사",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 05:00:00 -0700",
-      "news": [
-        {
-          "title": "한전, 사채 한도 19조 초과 위기…전기요금 인상론 재점화",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023178600003"
-        },
-        {
-          "title": "＂삼성·하이닉스에 25조 달라더니＂…한전이 꺼내려는 카드",
-          "source": "한국경제TV",
-          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610240016"
-        },
-        {
-          "title": "한전, 내년 말 사채 한도 19조원 초과 위기…’전기료 인상’ 재점화",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261024100307qrk"
+          "title": "“AI기업 호실적에도 피로감”…실적과 주가 사이, 삼전닉스 웃을까? [경제한방]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693746"
         }
       ]
     }
