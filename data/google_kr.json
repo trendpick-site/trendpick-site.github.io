@@ -1,11 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T07:22:36+00:00",
+  "fetched_at": "2026-10-25T08:05:26+00:00",
   "items": [
     {
-      "title": "kbo리그",
+      "title": "이동욱",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "배우 이동욱, ‘맥캘란 셰리 저니 익스피리언스’ 팝업 방문…셰리 캐스크 여정 체험",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610220755028"
+        },
+        {
+          "title": "이동욱, 셰리 저니 팝업서 댄디한 블랙 수트…위스키 체험 행보",
+          "source": "TopStarNews",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16255237"
+        },
+        {
+          "title": "“원액 그대로의 묵직한 타격감”… 롯데백화점, ‘맥캘란 110 프루프’ 팝업 개장",
+          "source": "지이코노미",
+          "url": "https://www.geconomy.co.kr/news/article.html?no=324629"
+        }
+      ]
+    },
+    {
+      "title": "부산항 국제여객터미널",
+      "approx_traffic": "5000+",
+      "published": "Sun, 25 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "[속보]이틀간 사라졌던 ‘부캉이’ 다시 나타나…최종 목격지점서 2㎞ 떨어진 곳서 유영",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625921"
+        },
+        {
+          "title": "수로 떠난 ‘부캉이’, 부산항 국제여객터미널서 이틀 연속 관측",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/regional/2026/10/25/FTYQQ4HF4VAAJGL6G253MRD7WE/"
+        },
+        {
+          "title": "[소셜＋] \"부캉이 자기결정권 보장하라\"…'무료 아쿠아리움'서 청원까지",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023135600505"
+        }
+      ]
+    },
+    {
+      "title": "전영현",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "[2027 정기 인사] 4대 그룹 “미래 핵심 사업 전략 역량에 방점”",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261023000260"
+        },
+        {
+          "title": "삼성전자 전영현·노태문, '투톱 겸직' 바뀔까…메모리·MX 수장 인선 촉각",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417900"
+        },
+        {
+          "title": "[정해균의 Zoom-人] ‘각양강색’ 전문경영인 부회장...사업 총괄부터 회장 보좌까지",
+          "source": "뉴스인사이드",
+          "url": "https://www.newsinside.kr/news/articleView.html?idxno=5031215"
+        }
+      ]
+    },
+    {
+      "title": "mlb",
+      "approx_traffic": "1000+",
+      "published": "Sun, 25 Oct 2026 00:00:00 -0700",
+      "news": [
+        {
+          "title": "Japanese National Team Manager Voices Concerns Over Tetsuaki Sato's MLB Posting",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/25/UKP2VJTVWJAJHM5LRDXRX4R3CA/"
+        },
+        {
+          "title": "NPB MVP, Triple Crown winner Sato to enter MLB posting system",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/teruaki-sato-mlb-posting-system"
+        },
+        {
+          "title": "Baseball: Hanshin's Triple Crown winner Sato to be posted for MLB move",
+          "source": "Japan Wire by Kyodo News",
+          "url": "https://english.kyodonews.net/articles/-/88703"
+        }
+      ]
+    },
+    {
+      "title": "중고",
       "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 23:30:00 -0700",
+      "news": [
+        {
+          "title": "시댁에 준 선물, 반값에 중고 거래 등장…판매자 알고 보니 '형님네'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6330113"
+        },
+        {
+          "title": "\"친정이 시댁에 보낸 선물, 당근에 반값으로\"…판매자 알고 보니 '형님네'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261025_0003839785"
+        },
+        {
+          "title": "“친정서 매번 정성 들여 시댁에 준 선물들이 반값 중고 거래... 판매자 알고 소름 돋았다”",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1168918"
+        }
+      ]
+    },
+    {
+      "title": "염소",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 23:20:00 -0700",
+      "news": [
+        {
+          "title": "일본 도심에 나타난 염소 두 마리…제초 작업 임무 부여",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261025/134902338/1"
+        },
+        {
+          "title": "일본 도심 한복판에 웬 염소 두 마리…’특별한 임무’ 뭐길래",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261023165330PvP"
+        },
+        {
+          "title": "도쿄 요쓰야역 공터에 염소 투입…친환경 제초 작업 : 중국/일본",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1048067"
+        }
+      ]
+    },
+    {
+      "title": "kbo리그",
+      "approx_traffic": "5000+",
       "published": "Sat, 24 Oct 2026 23:00:00 -0700",
       "news": [
         {
@@ -19,9 +151,9 @@
           "url": "https://www.mt.co.kr/sports/2026/10/24/202610232010776941O"
         },
         {
-          "title": "‘친정 복귀 1년 만에’ 홍건희, KIA서 방출…고종욱·이창진도 결별",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261023/134896489/1"
+          "title": "[오피셜] ‘1년 최대 7억’ 이렇게 끝날 줄이야…6년 만에 친정 유니폼 입은 홍건희, 3경기 등판→부상→끝내 방출",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553639957"
         }
       ]
     },
@@ -48,36 +180,14 @@
       ]
     },
     {
-      "title": "k리그2",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 22:30:00 -0700",
-      "news": [
-        {
-          "title": "'오직 수원만 신경 쓴다' 이정효 감독 \"체력·기분 관계없이 일관성 보여야\" [성남 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102512413253348"
-        },
-        {
-          "title": "\"똥개도 안방에서는 50% 먹고 간다\" 김해운 감독, 수원전 화끈한 홈 승리 다짐 [성남 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102512421188713"
-        },
-        {
-          "title": "[그래도 K리그] 김호·차범근도 못 넘은 ‘리그 7연승’...이정효의 수원삼성, 새 역사 쓸까",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/soccer/2379910.htm"
-        }
-      ]
-    },
-    {
       "title": "프랑스",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Sat, 24 Oct 2026 22:20:00 -0700",
       "news": [
         {
-          "title": "‘유럽, 정말 심상치않다’…스페인·프랑스·이탈리아·포르투갈 동시다발 시위 확산",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625952"
+          "title": "프랑스 반정부 시위가 남의 일이 아닌 이유 [연금 구조개혁]⑨",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694509"
         },
         {
           "title": "프랑스의 작은 학생 시위는 어떻게 전국 시위로 번졌나",
@@ -85,15 +195,15 @@
           "url": "https://www.newsis.com/view/NISX20261025_0003839953"
         },
         {
-          "title": "이탈리아 전역 시위 몸살... 콜로세움도 뚫렸다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/10/25/75KUGXJOBFE3NK77TY7CLYGVIQ/"
+          "title": "유럽 곳곳 '교육 문제·고물가' 항의 대규모 시위",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610251300560881"
         }
       ]
     },
     {
       "title": "선우용여",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Sat, 24 Oct 2026 22:20:00 -0700",
       "news": [
         {
@@ -110,84 +220,6 @@
           "title": "롯데호텔 ‘더 모닝’, 아침 먹으러 호텔 가는 사람들[PS]",
           "source": "스포츠동아",
           "url": "https://sports.donga.com/life/article/all/20261025/134903328/1"
-        }
-      ]
-    },
-    {
-      "title": "대한민국의 국토교통부 장관",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 22:20:00 -0700",
-      "news": []
-    },
-    {
-      "title": "서울 sk 대 수원 kt",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 22:10:00 -0700",
-      "news": []
-    },
-    {
-      "title": "안성시",
-      "approx_traffic": "1000+",
-      "published": "Sat, 24 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "김보라 안성시장, SK하이닉스 방류수 논란에 “시민께 심려 끼쳐 죄송”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261025580068"
-        },
-        {
-          "title": "용인 반도체 국가산단 착공 본격화…동탄 ‘아크메르 동탄’ 수혜 기대",
-          "source": "경상일보",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070442"
-        },
-        {
-          "title": "안성시, 용인 반도체 산단 환경·농업 피해 방지 총력…바이패스 등 재협상 추진",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334924"
-        }
-      ]
-    },
-    {
-      "title": "이세웅",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "\"삼전 들고 버텼더니\" 7개월 새 1172억 불린 전직 도지사 누구?",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02515766645615872&mediaCodeNo=257"
-        },
-        {
-          "title": "올해 주식으로 1170억 불린 퇴직 공무원…그가 들고있던 최애 종목은 [이번주인공]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12184913"
-        },
-        {
-          "title": "이세웅 전 평북지사 재산 2759억…7개월 만에 1172억 늘어",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003837095"
-        }
-      ]
-    },
-    {
-      "title": "석유",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 21:40:00 -0700",
-      "news": [
-        {
-          "title": "“대나무 푹 끓였더니 석유가 나왔다!”…이게 말이 된다고?",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610250900011"
-        },
-        {
-          "title": "“이제 한국도 산유국되나요?”…대나무 끓였더니 석유가 나왔다는데",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/it/12184980"
-        },
-        {
-          "title": "대나무 연료는 배출량을 26배까지 줄일 수 있습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhien-lieu-tu-tre-co-the-giam-phat-thai-26-lan"
         }
       ]
     }
