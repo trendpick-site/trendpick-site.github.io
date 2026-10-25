@@ -1,11 +1,160 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T13:18:07+00:00",
+  "fetched_at": "2026-10-25T14:04:15+00:00",
   "items": [
     {
-      "title": "garudayaksa fc vs persib bandung",
+      "title": "맨유 대 본머스",
+      "approx_traffic": "5000+",
+      "published": "Sun, 25 Oct 2026 06:00:00 -0700",
+      "news": [
+        {
+          "title": "맨유 대 본머스 축구 생중계 링크",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-man-united-vs-bournemouth-1789070.ldo"
+        },
+        {
+          "title": "경기 프리뷰: 맨체스터 유나이티드 vs 본머스, 10월 25일 오후 9시: 캐릭에게 심판의 날이 될까?",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-man-united-vs-bournemouth-21h00-ngay-25-10-ngay-phan-quyet-voi-carrick"
+        }
+      ]
+    },
+    {
+      "title": "감우성",
       "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 06:00:00 -0700",
+      "news": [
+        {
+          "title": "[정수윤의 길을 걸으며] [51] ’100일의 거짓말’을 보는 마음",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/opinion/specialist_column/2026/10/23/XSRR7XTILNHZ7PEXWPPLQ6KEQA/"
+        },
+        {
+          "title": "‘100일의 거짓말’ 5회, 김유정에게 닥친 위기…밀정 임무와 엇갈리는 인물들의 선택",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845213"
+        },
+        {
+          "title": "'100일의 거짓말' 김유정·박진영, 서로의 마음 노린 이중 덫 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/25/2026102513407271433"
+        }
+      ]
+    },
+    {
+      "title": "벙커버스터",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 05:30:00 -0700",
+      "news": [
+        {
+          "title": "“미 항공모함, 벙커버스터 보충”…이란 재타격 ‘카운트다운?’ [이런뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694539"
+        },
+        {
+          "title": "'게임오버' 트럼프의 충격적인 계획...전 세계는 다시 '초긴장' [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202610251256385643"
+        },
+        {
+          "title": "\"미군, 이란 공격안 국방장관에 보고…트럼프 승인 대기\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261025047900009"
+        }
+      ]
+    },
+    {
+      "title": "노태 문",
+      "approx_traffic": "1000+",
+      "published": "Sun, 25 Oct 2026 05:30:00 -0700",
+      "news": [
+        {
+          "title": "[사설] 재계 인사, '시계제로' 뚫고 활로 찾기를",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261023000318"
+        },
+        {
+          "title": "삼성전자 전영현·노태문, '투톱 겸직' 바뀔까…메모리·MX 수장 인선 촉각",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417900"
+        },
+        {
+          "title": "[정해균의 Zoom-人] ‘각양강색’ 전문경영인 부회장...사업 총괄부터 회장 보좌까지",
+          "source": "뉴스인사이드",
+          "url": "https://www.newsinside.kr/news/articleView.html?idxno=5031215"
+        }
+      ]
+    },
+    {
+      "title": "관광",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 05:30:00 -0700",
+      "news": [
+        {
+          "title": "라디오 방송으로 일본에 충남 관광 매력 알린다···특별 방송 제작",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610251216001"
+        },
+        {
+          "title": "충남 관광, 일본 라디오로 귀를 사로잡다",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261025500089"
+        },
+        {
+          "title": "충남도, 일본 규슈 라디오와 손잡고 충남관광 알린다",
+          "source": "경충일보",
+          "url": "https://www.kcilbo.com/articles/2026102573905"
+        }
+      ]
+    },
+    {
+      "title": "철도",
+      "approx_traffic": "2000+",
+      "published": "Sun, 25 Oct 2026 05:20:00 -0700",
+      "news": [
+        {
+          "title": "용인시 곳곳에서 온정의 손길 답지",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334976"
+        },
+        {
+          "title": "이상일, 경기남부광역철도 국가철도망 반영·신봉동백선 추진 의지 강조",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261025000105"
+        },
+        {
+          "title": "용인특례시, 더불어 사는 생활공동체 위해 나눔 손길",
+          "source": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799155"
+        }
+      ]
+    },
+    {
+      "title": "한국경제",
+      "approx_traffic": "5000+",
+      "published": "Sun, 25 Oct 2026 05:20:00 -0700",
+      "news": [
+        {
+          "title": "삼전닉스 빈자리 채울 종목 없다…한국 증시 발목 잡은 쏠림",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610191229i"
+        },
+        {
+          "title": "\"반도체, 주도주 역할 끝났다\"…전문가 \"AI 투자, 다른 분야도 봐야\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838757"
+        },
+        {
+          "title": "[AI 자본전쟁⑤] 돈줄 막히면 엔비디아·HBM도 흔들리나",
+          "source": "미디어펜",
+          "url": "https://www.mediapen.com/news/view/1132079"
+        }
+      ]
+    },
+    {
+      "title": "garudayaksa fc vs persib bandung",
+      "approx_traffic": "500+",
       "published": "Sun, 25 Oct 2026 05:10:00 -0700",
       "news": [
         {
@@ -19,9 +168,9 @@
           "url": "https://www.suarapakta.com/2026/10/polsek-lembang-siagakan-personel-nobar.html"
         },
         {
-          "title": "Live Garudayaksa vs Persib, Peralta Bikin Maung Bandung Unggul 0-1",
-          "source": "BeritaSatu.com",
-          "url": "https://www.beritasatu.com/sport/3036409/live-garudayaksa-vs-persib-peralta-bikin-maung-bandung-unggul-0-1"
+          "title": "BRI Super League 2026/2027: Tanpa Teja Paku Alam, Persib Optimistis Garudayaksa FC",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/id/berita/bri-super-league-20262027-tanpa-teja-paku-alam-persib-optimistis-garudayaksa-fc-43669685"
         }
       ]
     },
@@ -66,155 +215,6 @@
           "title": "한전, 내년 말 사채 한도 19조원 초과 위기…’전기료 인상’ 재점화",
           "source": "연합뉴스TV",
           "url": "https://www.yonhapnewstv.co.kr/news/AKR20261024100307qrk"
-        }
-      ]
-    },
-    {
-      "title": "inter vs fiorentina",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 04:40:00 -0700",
-      "news": [
-        {
-          "title": "Serie A official line-ups: Inter vs. Fiorentina",
-          "source": "Football Italia",
-          "url": "https://football-italia.net/serie-a-official-line-ups-inter-fiorentina/"
-        },
-        {
-          "title": "Oulai unfit, Vanoli turns to Brescianini: Dodo surprise in defence",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/oulai-unfit-vanoli-turns-to-brescianini-dodo-surprise-in-defence-43668732"
-        },
-        {
-          "title": "Italy Serie A Soccer",
-          "source": "WV News",
-          "url": "https://www.wvnews.com/sports/pro/italy-serie-a-soccer/image_ae6d3a99-8ce2-5efb-a8c8-43c98a260211.html"
-        }
-      ]
-    },
-    {
-      "title": "국민연금공단",
-      "approx_traffic": "2000+",
-      "published": "Sun, 25 Oct 2026 04:20:00 -0700",
-      "news": [
-        {
-          "title": "전업주부·무소득 청년 등 667만 명, 국민연금 편입 추진",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610242312322253"
-        },
-        {
-          "title": "\"결혼이 가른 여고 동창의 엇갈린 노후\"...전업주부 연금의 문, 13년 만에 다시 열린다",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610221609105688"
-        },
-        {
-          "title": "'무소득자 차별' 폐지…국민연금, 주부·청년 667만명 편입",
-          "source": "SBS Biz",
-          "url": "https://biz.sbs.co.kr/article/20000341680"
-        }
-      ]
-    },
-    {
-      "title": "건강",
-      "approx_traffic": "5000+",
-      "published": "Sun, 25 Oct 2026 04:10:00 -0700",
-      "news": [
-        {
-          "title": "부천시‘다시 함께 더 큰’민생행보 100일",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038760"
-        },
-        {
-          "title": "‘소문난 건강 도시’…은평구, 대한민국 건강도시상 ‘대상’",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626055"
-        }
-      ]
-    },
-    {
-      "title": "신두",
-      "approx_traffic": "5000+",
-      "published": "Sun, 25 Oct 2026 03:50:00 -0700",
-      "news": [
-        {
-          "title": "안세영, 프랑스오픈 3연패... 시즌 10번째 우승에 50연승",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/10/25/IYKALC2J6RBTFCXQDFG3C6RWZM/"
-        },
-        {
-          "title": "배드민턴 세계 최강 안세영 50연승 대기록 시즌 10번째 우승",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694595"
-        },
-        {
-          "title": "‘여제’ 안세영 손가락 10개로 ‘왕관’ 만들며 10승 자축",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261025/134904900/1"
-        }
-      ]
-    },
-    {
-      "title": "mma",
-      "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 03:30:00 -0700",
-      "news": [
-        {
-          "title": "Open Thread, Sunday, October 25: How we doing today, folks?",
-          "source": "MMA Mania",
-          "url": "https://www.mmamania.com/daily_mania_ufc_mma/481962/open-thread-sunday-october-25-how-we-doing-today-folks"
-        },
-        {
-          "title": "The power of the veteran, who was born in 1988, was great.Alexander Volkov won a unanimous decision",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12184906"
-        },
-        {
-          "title": "Dana White reacts to ‘absolute stud’ Alexander Volkanovski’s UFC 333 win - ‘Just f—king built different’",
-          "source": "MMA Mania",
-          "url": "https://www.mmamania.com/ufc-333-fight-card-start-time-live-stream-volkanovski-vs-evloev/481925/dana-white-reacts-to-absolute-stud-alexander-volkanovskis-ufc-333-win-just-f-king-built-different"
-        }
-      ]
-    },
-    {
-      "title": "도핑",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 03:20:00 -0700",
-      "news": [
-        {
-          "title": "도쿄올림픽 여자 마라톤 우승자, 도핑 적발…잠정 자격 정지",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694471"
-        },
-        {
-          "title": "도쿄올림픽 女마라톤 금메달리스, 도핑 적발로 잠정 자격정지",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626009"
-        },
-        {
-          "title": "올림픽 챔피언 제프치르치르, 경기 외 검사서 EPO 검출돼 잠정 출전 정지",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434805"
-        }
-      ]
-    },
-    {
-      "title": "한국여자프로골프협회",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 03:20:00 -0700",
-      "news": [
-        {
-          "title": "임오경 의원 \"KLPGA·KLPGT 임원 겸직, 이해 상충 우려\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024014500007"
-        },
-        {
-          "title": "임오경 의원 \"KLPGA 이사회 17명 중 16명 자회사 겸직…견제·감독 구조 개선해야\"",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202610231936188524f4ab64559d_12"
-        },
-        {
-          "title": "[2026 국감] KLPGA 임원 17명 중 16명 자회사 겸직…'이해충돌' 우려 제기",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261024000030"
         }
       ]
     }
