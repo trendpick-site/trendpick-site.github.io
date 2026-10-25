@@ -1,17 +1,105 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T11:04:58+00:00",
+  "fetched_at": "2026-10-25T11:35:11+00:00",
   "items": [
+    {
+      "title": "노태문",
+      "approx_traffic": "1000+",
+      "published": "Sun, 25 Oct 2026 03:30:00 -0700",
+      "news": [
+        {
+          "title": "[사설] 재계 인사, '시계제로' 뚫고 활로 찾기를",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261023000318"
+        },
+        {
+          "title": "삼성전자 전영현·노태문, '투톱 겸직' 바뀔까…메모리·MX 수장 인선 촉각",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417900"
+        },
+        {
+          "title": "[정해균의 Zoom-人] ‘각양강색’ 전문경영인 부회장...사업 총괄부터 회장 보좌까지",
+          "source": "뉴스인사이드",
+          "url": "https://www.newsinside.kr/news/articleView.html?idxno=5031215"
+        }
+      ]
+    },
+    {
+      "title": "mma",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 03:30:00 -0700",
+      "news": [
+        {
+          "title": "UFC 333: Alexander Volkanovski stops Movsar Evloev for record with ninth featherweight title win",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/ckvg7j2p471lo"
+        },
+        {
+          "title": "Alexander the Great smashed a 20-game undefeated challenger.Alexander Volkanovski won the second rou..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12184911"
+        },
+        {
+          "title": "Volkanovski Eyes Featherweight GOAT Status Against Unbeaten Challenger",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/sports/2026/10/24/volkanovski-eyes-featherweight-goat-status-against-unbeaten"
+        }
+      ]
+    },
+    {
+      "title": "도핑",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 03:20:00 -0700",
+      "news": [
+        {
+          "title": "도쿄올림픽 여자 마라톤 우승자, 도핑 적발…잠정 자격 정지",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694471"
+        },
+        {
+          "title": "도쿄올림픽 女마라톤 금메달리스, 도핑 적발로 잠정 자격정지",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626009"
+        },
+        {
+          "title": "올림픽 챔피언 제프치르치르, 경기 외 검사서 EPO 검출돼 잠정 출전 정지",
+          "source": "데일리스포츠한국",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434805"
+        }
+      ]
+    },
+    {
+      "title": "한국여자프로골프협회",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 03:20:00 -0700",
+      "news": [
+        {
+          "title": "임오경 의원 \"KLPGA·KLPGT 임원 겸직, 이해 상충 우려\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024014500007"
+        },
+        {
+          "title": "[2026 국감] KLPGA 임원 17명 중 16명 자회사 겸직…'이해충돌' 우려 제기",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261024000030"
+        },
+        {
+          "title": "KLPGA 이사회 17명 중 16명 자회사 겸직…\"견제·감독 구조 개선해야\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/golf/6329692"
+        }
+      ]
+    },
     {
       "title": "닥터x: 하얀 마피아의 시대",
       "approx_traffic": "5000+",
       "published": "Sun, 25 Oct 2026 03:00:00 -0700",
       "news": [
         {
-          "title": "5·18 다룬 ‘닥터X’, 방영 중단 청원 등장…“정치적 편향” 주장",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610250929003"
+          "title": "5·18 다룬 ‘닥터X’에 방영 중단 청원… 제작 CP는 “두려움 없다”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/25/VB35M2YCDFCS7OLBMGUHHN2QA4/"
         },
         {
           "title": "‘닥터X’ 6회만 19.5% 돌파…SBS 역대 금토극 공동 5위",
@@ -19,9 +107,9 @@
           "url": "https://www.mk.co.kr/news/hot-issues/12184920"
         },
         {
-          "title": "\"518 버스까지\" 잘 나가던 닥터X, 난데없는 정치 논란에 시끌",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102532667"
+          "title": "[스경X이슈] ‘암살자(들)’ 이어 또?…‘닥터X’ 5·18 소재 극화 ‘앗 뜨거워라!’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610250953003"
         }
       ]
     },
@@ -55,13 +143,13 @@
     },
     {
       "title": "lig 디펜스&에어로스페이스",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 25 Oct 2026 02:20:00 -0700",
       "news": [
         {
-          "title": "방사청, LIG D&A 방산업체 지정 취소 요청…무인기 대응 사업 수의계약도 막는다",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12324714"
+          "title": "방사청, LIG D&A '소형무인기 대응사업' 방산업체 지정취소 검토",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261025020200504"
         },
         {
           "title": "[단독] '방산 비리' LIG에 추가 제재‥'방산업체 지정 취소' 검토",
@@ -70,8 +158,8 @@
         },
         {
           "title": "LIG D＆A, 對드론 체계 양산 막히나…미래 성장동력 경고등",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261025032900003"
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1180756"
         }
       ]
     },
@@ -108,97 +196,9 @@
           "url": "https://www.sedaily.com/article/20105438"
         },
         {
-          "title": "에어비앤비 “투숙객에 퇴실전 청소 요구 전면 금지”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261023/134895959/1"
-        }
-      ]
-    },
-    {
-      "title": "eng vs pak",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 02:00:00 -0700",
-      "news": [
-        {
-          "title": "Pakistan eyeing final, England need lift after Pindi capitulation",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-england-4th-match-1550716/match-preview"
-        },
-        {
-          "title": "“The Future Is With Minhas Brothers”: Bashaar Syed After Arafat Minhas’ Performance Against England",
-          "source": "Sportscape Magazine",
-          "url": "https://www.sportscapemagazine.com/blog/the-future-is-with-minhas-brothers-bashaar-syed-after-arafat-minhas-performance-against-england"
-        },
-        {
-          "title": "Pakistan vs England, PAK vs ENG, ODI Tri-Series Live Score",
-          "source": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/pakistan-vs-england-pak-vs-eng-live-score-odi-tri-series-commentary-gaddafi-stadium-lahore/liveblog/135186803.cms"
-        }
-      ]
-    },
-    {
-      "title": "택시",
-      "approx_traffic": "1000+",
-      "published": "Sun, 25 Oct 2026 01:50:00 -0700",
-      "news": [
-        {
-          "title": "택시 사고 줄었는데 …'아車車!' 고령 기사 사고율은 치솟아",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12185211"
-        },
-        {
-          "title": "택시 타면 기사 절반은 65세 이상…대구·경북 40세 미만은 0.7%",
-          "source": "경북일보",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088420"
-        },
-        {
-          "title": "전국 택시 기사 절반이 65세 이상…고령 버스 기사도 5년 새 62% 증가",
-          "source": "부산일보",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026102010265124291"
-        }
-      ]
-    },
-    {
-      "title": "전현무",
-      "approx_traffic": "1000+",
-      "published": "Sun, 25 Oct 2026 01:50:00 -0700",
-      "news": [
-        {
-          "title": "\"유두에 점퍼 걸겠다\" 조롱에…전현무, 수술까지 고민 '고백' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/25/2026102511232730654"
-        },
-        {
-          "title": "전현무 \"첫 악플이 '유두도 비호감'…절제술 알아봤다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261025_0003839880"
-        },
-        {
-          "title": "'사당귀' 전현무 \"외모 악플에 유두 자르는 수술 알아봐\"",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522395"
-        }
-      ]
-    },
-    {
-      "title": "채무",
-      "approx_traffic": "5000+",
-      "published": "Sun, 25 Oct 2026 01:40:00 -0700",
-      "news": [
-        {
-          "title": "“아버지 병원비 내가 냈는데”…상속 때 ‘부모 빚’으로 인정받을 수 있나 [상속리포트]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261023/134884977/2"
-        },
-        {
-          "title": "\"가족 떠난 뒤 3개월 놓치면 빚까지 떠안는다\"…재산 조회부터 상속세까지 시기별 체크리스트",
-          "source": "경제시그널",
-          "url": "https://www.economicsignal.co.kr/news/articleView.html?idxno=1900"
-        },
-        {
-          "title": "20년 끊긴 아버지 빚 소송장 받은 자녀, 퇴직공제금이 발목 잡을까",
-          "source": "로톡뉴스",
-          "url": "https://lawtalknews.co.kr/article/4B8KRAQYRA3P"
+          "title": "\"호텔 갈꺼야\" 투숙객 불만에…에어비앤비 '이것' 금지[뉴스럽다]",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6596402"
         }
       ]
     }
