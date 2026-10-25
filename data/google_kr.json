@@ -1,8 +1,96 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T03:37:31+00:00",
+  "fetched_at": "2026-10-25T04:12:04+00:00",
   "items": [
+    {
+      "title": "즉석밥",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 20:00:00 -0700",
+      "news": [
+        {
+          "title": "[산업X파일] \"밥은 직접 해야\" 통념 깬 서른살 햇반, 미국인 식탁도 바꿀까",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/market_trend/2026/10/25/OOLGODML2ZBDLCBKYPE3DCZELQ/"
+        },
+        {
+          "title": "“반도체 공정 수준 무균화 기술”…보존료 없이도 9개월간 신선한 햇반의 비밀",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261024/134901381/2"
+        },
+        {
+          "title": "\"연 2.8억개 뚝딱, 반도체 공장 같네\" CJ표 '햇반' 9개월 유통기한 비결 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/10/25/2026102210020814370"
+        }
+      ]
+    },
+    {
+      "title": "김연경",
+      "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 19:50:00 -0700",
+      "news": [
+        {
+          "title": "김연경 “감독 다시 안 한다”…첫경기 만에 시즌3 거부 의사('신인감독 김연경')",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015177"
+        },
+        {
+          "title": "황연주 터졌다... 김연경, 한일전 뼈아픈 패배 딛고 ‘소름 돋는 용병술’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/24/GQ2GCYTFGIYDEYRWMY2GGYJUGA/"
+        },
+        {
+          "title": "감독 다신 안 해?! '신인감독 김연경2', 폭탄 발언에 '술렁'",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261025000027"
+        }
+      ]
+    },
+    {
+      "title": "삼성 엑시노스",
+      "approx_traffic": "20000+",
+      "published": "Sat, 24 Oct 2026 19:40:00 -0700",
+      "news": [
+        {
+          "title": "삼성 '엑시노스 2700', 성능 시험서 퀄컴 최신칩 앞서",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023080600003"
+        },
+        {
+          "title": "엑시노스 2700, 차세대 스냅드래곤 앞섰다…갤럭시 탑재 확대 기대",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313863"
+        },
+        {
+          "title": "삼성 ‘엑시노스 2700’, 내부 시험서 퀄컴 최신 AP 앞서…멀티코어 성능 약 20% 우위 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/it-science/ict/2026/10/25/LYNO7ACPWRECDA5UDZRHHMLA6E/"
+        }
+      ]
+    },
+    {
+      "title": "삼성라이온즈",
+      "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 19:40:00 -0700",
+      "news": [
+        {
+          "title": "KIA 플레이오프 1차전 선발투수 ‘네일’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694398"
+        },
+        {
+          "title": "[포토] 김도영 '비가 우리에게 도움' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102512493116214"
+        },
+        {
+          "title": "‘기다렸던 가을야구인데’…대구에 쏟아진 비, PO 1차전 하루 연기",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626018"
+        }
+      ]
+    },
     {
       "title": "스포츠조선",
       "approx_traffic": "500+",
@@ -85,9 +173,9 @@
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810717"
         },
         {
-          "title": "마동석·키아누 리브스, 만날까…‘악인전’ 할리우드 리메이크 논의 [N이슈]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/movie/6328054"
+          "title": "'아이언 피스트'와 '펜슬 킬러'의 대결",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nam-dam-thep-dung-do-sat-thu-but-chi"
         }
       ]
     },
@@ -102,20 +190,20 @@
           "url": "https://www.chosun.com/economy/economy_general/2026/10/25/2327C5MI5VHM7LFLKW5YI2ZMOA/"
         },
         {
-          "title": "한국 2분기 경상흑자 독일과 일본 합친 것보다 많았다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610251129001"
-        },
-        {
           "title": "한국 경상흑자, '제조업 대국' 독·일 합계보다 많아…사상 처음",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261024050300002"
+        },
+        {
+          "title": "한국 2분기 경상흑자 독일과 일본 합친 것보다 많았다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610251129001"
         }
       ]
     },
     {
       "title": "양부남",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sat, 24 Oct 2026 18:30:00 -0700",
       "news": [
         {
@@ -124,97 +212,14 @@
           "url": "https://www.chosun.com/politics/politics_general/2026/10/25/E6VAU7IPHVDEFDAYCK7LTM3M4M/"
         },
         {
-          "title": "법무부 장관 후임 인선 재검토…박균택·양부남 거론",
+          "title": "국민의힘, 법무장관 후보군 비판…“대통령 사법 리스크 검증해야”",
           "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799162"
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799169"
         },
         {
           "title": "차기 법무장관 인선 주목…장동혁 ’최장수’ 기록",
           "source": "연합뉴스TV",
           "url": "https://www.yonhapnewstv.co.kr/news/MYH202610251153385Pn"
-        }
-      ]
-    },
-    {
-      "title": "주얼리",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 18:30:00 -0700",
-      "news": [
-        {
-          "title": "'할머니 아이템' 이라더니…외국인들까지 '우르르' 대반전 [민은미의 파인주얼리]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610154032i"
-        },
-        {
-          "title": "유찬종 종로구청장 “종로 주얼리 세계화에 힘쓸 것”",
-          "source": "https://www.jongnonews.com/",
-          "url": "https://www.jongnonews.com/news/articleView.html?idxno=2509"
-        },
-        {
-          "title": "[인터뷰] 한국 웰니스 상품화로 주목받는 '옥산백'…와디즈 펀딩으로 성장 발판",
-          "source": "어패럴뉴스",
-          "url": "https://www.apparelnews.co.kr/news/news_view/?idx=228293&cat=CAT310"
-        }
-      ]
-    },
-    {
-      "title": "조진웅",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 18:20:00 -0700",
-      "news": [
-        {
-          "title": "조진웅 직격탄 맞은 ‘시그널2’ 측 “편성 확정된 것 없다” [공식]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12184952"
-        },
-        {
-          "title": "'시그널2' 12월 편성설…tvN \"확정된 바 없어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261025_0003839835"
-        },
-        {
-          "title": "'소년범 은퇴' 조진웅, ‘시그널2’ 12월 편성?..“확정된 바 없다” [공식입장]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/MI2DOZBWGVTGIYJXGQ3DOMJSGM/"
-        }
-      ]
-    },
-    {
-      "title": "에르메스",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 18:20:00 -0700",
-      "news": [
-        {
-          "title": "중동전쟁에 유럽시위 유탄까지…유럽 명품업계 주가 급락",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024003100085"
-        },
-        {
-          "title": "\"에르메스, 너마저\"…'-40%'에 명품업계 줄줄이 난리",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02361606645616200"
-        },
-        {
-          "title": "‘에르메스 너마저’ 고가품 마지막 보루마저 흔들… 올 들어 주가 40% 넘게 급락 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/international/international_economy/2026/10/25/HCDEQC4GOZFBZKL3WJCS5DPEJE/"
-        }
-      ]
-    },
-    {
-      "title": "엔비디아",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 18:10:00 -0700",
-      "news": [
-        {
-          "title": "'중국판 엔비디아' 캠브리콘, 매출 급등…\"국산화 노력 수혜\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261024160155"
-        },
-        {
-          "title": "[중국 특징주] PCB '광합과기', 광칩 '원걸반도체'…기관 관심도 집중",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261019000119"
         }
       ]
     }
