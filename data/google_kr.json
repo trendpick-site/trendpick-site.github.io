@@ -1,11 +1,33 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T16:05:39+00:00",
+  "fetched_at": "2026-10-25T16:36:55+00:00",
   "items": [
     {
+      "title": "30호 태풍 참피",
+      "approx_traffic": "1000+",
+      "published": "Sun, 25 Oct 2026 08:20:00 -0700",
+      "news": [
+        {
+          "title": "참피 대만 앞 '한 바퀴 회전'‥'커진 피해' 日 할퀴고 북진",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6860541_36925.html"
+        },
+        {
+          "title": "태풍 '참피' 영향…제주·남부지방 오전까지 비바람[오늘날씨]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261025_0003840225"
+        },
+        {
+          "title": "남해 바깥먼바다도 ’태풍경보’…역대 가장 늦은 태풍",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261025154537EDO"
+        }
+      ]
+    },
+    {
       "title": "분만",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 25 Oct 2026 08:00:00 -0700",
       "news": [
         {
@@ -22,23 +44,23 @@
     },
     {
       "title": "pl",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sun, 25 Oct 2026 08:00:00 -0700",
       "news": [
         {
-          "title": "\"Nadchodzi najdroższa zima w historii\". Czarnek zapowiada nowy projekt",
-          "source": "TVN24",
-          "url": "https://tvn24.pl/biznes/pieniadze/nadchodzi-najdrozsza-zima-w-historii-przemyslaw-czarnek-zapowiada-nowy-projekt-st9304052"
+          "title": "Polexit kosztowałby Polskę 90 mld euro rocznie. Nowe szacunki",
+          "source": "Rzeczpospolita",
+          "url": "https://www.rp.pl/gospodarka/art45392301-zpp-to-mit-ze-polska-jest-platnikiem-netto-ue-bilans-wynosi-58-7-mld-euro-na-plusie"
         },
         {
-          "title": "Polaków czeka droga zima? Prof. M. Andrzejewski o polityce energetycznej: Największe gospodarki na świecie śmieją się z Unii Europejskiej",
-          "source": "RadioMaryja.pl",
-          "url": "https://www.radiomaryja.pl/informacje/polakow-czeka-droga-zima-prof-m-andrzejewski-o-polityce-energetycznej-najwieksze-gospodarki-na-swiecie-smieja-sie-z-unii-europejskiej/"
+          "title": "\"Rachunek\" za polexit. Tyle kosztowałoby Polskę wyjście z UE",
+          "source": "Money.pl",
+          "url": "https://www.money.pl/gospodarka/rachunek-za-polexit-tyle-kosztowaloby-polske-wyjscie-z-ue-7343868849555488a.html"
         },
         {
-          "title": "Polaków czeka najdroższa zima w historii",
-          "source": "wGospodarce",
-          "url": "https://wgospodarce.pl/informacje/158806-polakow-czeka-najdrozsza-zima-w-historii"
+          "title": "Od montowni do sterowni: ZPP podsumowuje 22 lata w UE i wzywa do budowy polskiego przywództwa w Europie. Nowy raport ZPP",
+          "source": "Związek Przedsiębiorców i Pracodawców",
+          "url": "https://zpp.net.pl/od-montowni-do-sterowni-zpp-podsumowuje-22-lata-w-ue-i-wzywa-do-budowy-polskiego-przywodztwa-w-europie-nowy-raport-zpp/"
         }
       ]
     },
@@ -65,28 +87,6 @@
       ]
     },
     {
-      "title": "남양주시",
-      "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 07:50:00 -0700",
-      "news": [
-        {
-          "title": "가을 수놓은 남양주 '주민 화합의 장'…문화·체육으로 묶인 ‘이웃의 정’",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102517265611415"
-        },
-        {
-          "title": "남양주시 퇴계원읍, ‘2026년 한마음 체육대회’ 성황리 개최",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799181"
-        },
-        {
-          "title": "남양주 곳곳 축제·체육대회 성황...황금산·별내동·진건읍 주민 4,000여 명 참여",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3731930"
-        }
-      ]
-    },
-    {
       "title": "ngoại hạng anh",
       "approx_traffic": "100+",
       "published": "Sun, 25 Oct 2026 07:50:00 -0700",
@@ -105,6 +105,28 @@
           "title": "Ngôi sao 125 triệu bảng nói thẳng về tiềm năng vô hạn của Liverpool",
           "source": "Thể Thao 247",
           "url": "https://thethao247.vn/503-ngoi-sao-125-trieu-bang-noi-thang-ve-tiem-nang-vo-han-cua-liverpool-c2-d441958.html"
+        }
+      ]
+    },
+    {
+      "title": "남양주시",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 07:50:00 -0700",
+      "news": [
+        {
+          "title": "가을 수놓은 남양주 '주민 화합의 장'…문화·체육으로 묶인 ‘이웃의 정’",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102517265611415"
+        },
+        {
+          "title": "남양주시 퇴계원읍, ‘2026년 한마음 체육대회’ 성황리 개최",
+          "source": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799181"
+        },
+        {
+          "title": "남양주 곳곳 축제·체육대회 성황...황금산·별내동·진건읍 주민 4,000여 명 참여",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3731930"
         }
       ]
     },
@@ -141,14 +163,14 @@
           "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-liverpool-vs-brighton-tai-premier-league-1788808.ldo"
         },
         {
+          "title": "[오피셜] \"소보슬러이, 브라이튼전 결장 확정!\"…이라올라가 밝힌 리버풀 부상자 현황! 바르콜라 복귀 가능-무뇨스 출전 불투명",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99780"
+        },
+        {
           "title": "승점 16점 브라이튼, 안필드서 리버풀과 8R 격돌 : 스포츠",
           "source": "재경일보",
           "url": "https://news.jkn.co.kr/post/1048923"
-        },
-        {
-          "title": "[if.preview] ‘라이버 버드’ 리버풀, ‘날아오르는 갈매기’ 브라이튼 막을 수 있을까?",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99807"
         }
       ]
     },
@@ -180,36 +202,19 @@
       "published": "Sun, 25 Oct 2026 07:20:00 -0700",
       "news": [
         {
-          "title": "ลิเวอร์พูล เตรียมแผนดึงกองหลังดาวรุ่ง ไบรตัน เสริมแนวรับ | Khaosod",
-          "source": "LINE TODAY",
-          "url": "https://today.line.me/th/v3/article/aGpmEqP"
+          "title": "พรีวิวการแข่งขัน: ลิเวอร์พูล พบ ไบรท์ตัน เวลา 21:00 น. วันที่ 25 ตุลาคม: แอนฟิลด์ยังไม่ได้เฉลิมฉลอง",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-tran-dau-liverpool-vs-brighton-21h00-ngay-25-10-anfield-chua-mo-hoi"
         },
         {
-          "title": "ลิเวอร์พูล เตรียมแผนดึงกองหลังดาวรุ่ง ไบรตัน เสริมแนวรับ",
-          "source": "ข่าวสด",
-          "url": "https://www.khaosod.co.th/sports/news_10449415"
-        }
-      ]
-    },
-    {
-      "title": "테일러 프리츠",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 07:10:00 -0700",
-      "news": [
-        {
-          "title": "Musetti triumphs in Lyon, wins first title since 2022",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/news/fritz-musetti-lyon-2026-final-sunday"
+          "title": "'หงส์แดง' งานหนักเปิดบ้านซด 'นางนวล'",
+          "source": "Head Topics",
+          "url": "https://th.headtopics.com/news/393627359136263108751-89165838"
         },
         {
-          "title": "Sports News, Transfers, Scores | Watch Live Sport",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/tennis/watch/6393262050005995112/grand-prix-auvergne-rhone-alpes-2026"
-        },
-        {
-          "title": "+)HERE'S!!(* WAY TO WATCH Taylor Fritz vs Lorenzo Musetti Match Live free stream 25 october 2026",
+          "title": "++[ＬＩＶＥＳｔｒｅａｍ]NOW!!] ลิเวอร์พูล vs ไบรตัน LIVE Updates",
           "source": "FC東京オフィシャルホームページ",
-          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vdHJhdmlzLWF1c3Rpbi5naXRodWIuaW8vZW5tL2VudS54bWwiLz48L2tycGFubz4=&id=video-taylor-fritz-vs-lorenzo-musetti-lie-en-ebdvfck"
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2R1a2Vucmd5MTQ3LmdpdGh1Yi5pby9uZXdzLyIvPjwva3JwYW5vPg==&id=liverpool-brington-live-th-now-vs-47924338"
         }
       ]
     }
