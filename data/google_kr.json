@@ -1,33 +1,55 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T02:36:14+00:00",
+  "fetched_at": "2026-10-25T03:08:38+00:00",
   "items": [
     {
+      "title": "총파업",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 19:00:00 -0700",
+      "news": [
+        {
+          "title": "30일 경기 버스 총파업 예고…출근길 불편 우려",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261024/134900998/1"
+        },
+        {
+          "title": "파업 찬반 투표하는 경기지역자동차노조원들",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20261023053100061"
+        },
+        {
+          "title": "경기버스노조 파업 97.7% 찬성…30일 첫차 파업 예고",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334929"
+        }
+      ]
+    },
+    {
       "title": "경상수지",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sat, 24 Oct 2026 18:30:00 -0700",
       "news": [
+        {
+          "title": "韓 2분기 경상흑자 세계 2위...‘제조업 강국’ 독·일 합계마저 제쳐",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/10/25/2327C5MI5VHM7LFLKW5YI2ZMOA/"
+        },
+        {
+          "title": "한국 2분기 경상흑자 독일과 일본 합친 것보다 많았다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610251129001"
+        },
         {
           "title": "한국 경상흑자, '제조업 대국' 독·일 합계보다 많아…사상 처음",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261024050300002"
-        },
-        {
-          "title": "“독일·일본 다 합친 것보다 많아”...한국 경상흑자 ‘역대급’",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261025580001"
-        },
-        {
-          "title": "韓, 2분기 경상흑자 1166억 달러…독일·일본 합계 추월 ‘사상 처음’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261025/134902205/1"
         }
       ]
     },
     {
       "title": "양부남",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 18:30:00 -0700",
       "news": [
         {
@@ -36,20 +58,20 @@
           "url": "https://www.chosun.com/politics/politics_general/2026/10/25/E6VAU7IPHVDEFDAYCK7LTM3M4M/"
         },
         {
+          "title": "국민의힘, 법무장관 후보 ‘박균택·양부남’ 압축에 “대통령 죄 지우기 인선인가”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694472"
+        },
+        {
           "title": "법무장관 후보자 박균택·양부남 압축…청와대 “막판 고심 중”",
           "source": "한겨레",
           "url": "https://www.hani.co.kr/arti/politics/bluehouse/1283976.html"
-        },
-        {
-          "title": "이 대통령, 차기 법무부 장관에 민주당 박균택·양부남 의원 검토",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202610250923351762"
         }
       ]
     },
     {
       "title": "주얼리",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 18:30:00 -0700",
       "news": [
         {
@@ -97,6 +119,11 @@
       "published": "Sat, 24 Oct 2026 18:20:00 -0700",
       "news": [
         {
+          "title": "조진웅 직격탄 맞은 ‘시그널2’ 측 “편성 확정된 것 없다” [공식]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12184952"
+        },
+        {
           "title": "'시그널2' 12월 편성설…tvN \"확정된 바 없어\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261025_0003839835"
@@ -105,11 +132,6 @@
           "title": "'소년범 은퇴' 조진웅, ‘시그널2’ 12월 편성?..“확정된 바 없다” [공식입장]",
           "source": "조선일보",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/MI2DOZBWGVTGIYJXGQ3DOMJSGM/"
-        },
-        {
-          "title": "‘소년범 논란’ 조진웅의 ‘시그널2’, 12월 공개되나…“확정 아냐”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12184950"
         }
       ]
     },
@@ -132,7 +154,7 @@
     },
     {
       "title": "투수 코치",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sat, 24 Oct 2026 17:50:00 -0700",
       "news": [
         {
@@ -153,36 +175,14 @@
       ]
     },
     {
-      "title": "올랜도 시티 대 뉴욕 시티",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 17:50:00 -0700",
-      "news": [
-        {
-          "title": "🥈 Bullet header places Antoine Griezmann in MLS goalscoring pantheon",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bullet-header-places-antoine-griezmann-002800903.html"
-        },
-        {
-          "title": "Not good enough: NYCFC fails to beat Orlando City despite another comeback draw",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/not-good-enough-nycfc-fails-to-beat-orlando-city-despite-another-comeback-draw-43667562"
-        },
-        {
-          "title": "'Everybody knows what needs to be done' – Sands focused on NYCFC's playoff push",
-          "source": "beIN SPORTS",
-          "url": "https://www.beinsports.com/en-us/soccer/mls/articles/everybody-knows-what-needs-to-be-done--sands-focused-on-nycfcs-playoff-push-2026-10-23"
-        }
-      ]
-    },
-    {
       "title": "상장폐지",
       "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 17:50:00 -0700",
       "news": [
         {
-          "title": "주가 1000원 못 넘겨 ‘동전주 첫 상폐’ 수순",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/10/24/IWDPUSVYGVFA7OIAIPZUM55R6E/"
+          "title": "\"내일까지 1천 원 못 넘기면 퇴출\"... 코스닥 '동전주' 상장폐지 기로 [앵커리포트]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610212251248067"
         },
         {
           "title": "정치 테마주로 4배 뛴 형지글로벌…지금은 상폐 기로에[급등주 지금은]",
@@ -190,31 +190,31 @@
           "url": "https://www.newsis.com/view/NISX20261023_0003838822"
         },
         {
-          "title": "\"내일까지 1천 원 못 넘기면 퇴출\"... 코스닥 '동전주' 상장폐지 기로 [앵커리포트]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610212251248067"
+          "title": "주가 1000원 못 넘겨 ‘동전주 첫 상폐’ 수순",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/stock-finance/2026/10/24/IWDPUSVYGVFA7OIAIPZUM55R6E/"
         }
       ]
     },
     {
-      "title": "마산가고파국화축제",
+      "title": "올랜도 시티 대 뉴욕 시티",
       "approx_traffic": "100+",
       "published": "Sat, 24 Oct 2026 17:50:00 -0700",
       "news": [
         {
-          "title": "마산가고파국화축제 맞춰 창원시티투어버스 특별노선 운행",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023135400052"
+          "title": "Orlando City SC vs. New York City FC - Game Highlights",
+          "source": "ESPN",
+          "url": "https://www.espn.com/video/clip/_/id/50272937/orlando-city-sc-vs-new-york-city-fc-game-highlights"
         },
         {
-          "title": "마산 가을 품은 낭만 시티투어 뜬다",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3442840"
+          "title": "Jonathan Shore scores late in 2nd-half stoppage time to help NYCFC play Orlando City to 2-2 draw",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/newyork/news/nycfc-play-orlando-city-to-2-2-draw/"
         },
         {
-          "title": "밤바다에 불꽃이 떨어진다…마산가고파국화축제 31일 개막[창원톡톡]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105199"
+          "title": "🥈 Bullet header places Antoine Griezmann in MLS goalscoring pantheon",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/bullet-header-places-antoine-griezmann-002800903.html"
         }
       ]
     }
