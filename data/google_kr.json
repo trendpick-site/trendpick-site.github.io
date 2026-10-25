@@ -1,8 +1,118 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T21:03:38+00:00",
+  "fetched_at": "2026-10-25T21:34:39+00:00",
   "items": [
+    {
+      "title": "barcelona đấu với real madrid",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 13:30:00 -0700",
+      "news": [
+        {
+          "title": "5 yếu tố định đoạt trận Siêu kinh điển giữa Barcelona và Real Madrid",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/5-yeu-to-dinh-doat-tran-sieu-kinh-dien-giua-barcelona-va-real-madrid-c48a1805392.html"
+        },
+        {
+          "title": "Cú sốc cho Real Madrid ở El Clasico",
+          "source": "Znews",
+          "url": "https://lifestyle.zingnews.vn/cu-soc-cho-real-madrid-o-el-clasico-post1691988.html"
+        },
+        {
+          "title": "Trực tiếp Barcelona vs Real Madrid: Hiệp 2 bắt đầu, Real Madrid dẫn 1-0",
+          "source": "Báo Lâm Đồng",
+          "url": "https://baolamdong.vn/truc-tiep-barcelona-vs-real-madrid-hiep-2-bat-dau-real-madrid-dan-1-0-471365.html"
+        }
+      ]
+    },
+    {
+      "title": "барселона – реал мадрид",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 13:20:00 -0700",
+      "news": [
+        {
+          "title": "\"Барселона\" — \"Реал Мадрид\": стартовые составы, прямая трансляция",
+          "source": "Sport5.by",
+          "url": "https://sport5.by/news/football/ispaniya/Glavnoe-futbolnoe-protivostoyanie-v-mire-startovye-sostavy-na-ElKlasiko/"
+        },
+        {
+          "title": "«Барселона» — «Реал»: где смотреть бесплатно прямую трансляцию",
+          "source": "sport-express.net",
+          "url": "https://www.sport-express.net/football/spain/news/barselona-real-gde-smotret-besplatno-onlayn-pryamuyu-translyaciyu-el-klasiko-2467296/"
+        },
+        {
+          "title": "Куртуа не полетел на матч «Реала» с «Барселоной» из-за гриппа — Marca",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6672188-kurtua-ne-poletel-na-match-s-barselonoj-iz-za-grippa-marca.html"
+        }
+      ]
+    },
+    {
+      "title": "김하성",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 13:10:00 -0700",
+      "news": [
+        {
+          "title": "김하성 혹평·이정후 트레이드설…흔들리는 ’코리안 빅리거’",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261025193248EfV"
+        },
+        {
+          "title": "'대실패' 낙인 김하성, 결국 떠날 운명? 기정사실화된 ATL 유격수 교체…새 후보 또 거론",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/25/MQ2TOOJVG4YWCYRSGY2DMMBZMQ/"
+        },
+        {
+          "title": "“김하성, ATL 사상 최악의 FA 영입” 韓야구 자부심이었는데, 어쩌다 ‘265억 먹튀’ 전락했나…평점 F-가 더 충격이다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/26/202610251736776553O"
+        }
+      ]
+    },
+    {
+      "title": "천궁",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 13:10:00 -0700",
+      "news": [
+        {
+          "title": "사막에 꽂힌 12조 유도탄…독자 분업이 빚어낸 한국 방산의 역작",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610210644284270fbbec65dfb_1"
+        },
+        {
+          "title": "[K방산 오디세이] 조선 신기전의 후예…유럽과 중동 하늘을 뒤덮다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838558"
+        },
+        {
+          "title": "“패트리엇 10년 어떻게 기다려요?”…천궁-Ⅱ 중동 넘어 스위스까지? [경제한방]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8691327"
+        }
+      ]
+    },
+    {
+      "title": "la liga",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 13:10:00 -0700",
+      "news": [
+        {
+          "title": "Starting lineups for Real Madrid and Barcelona",
+          "source": "Real Madrid CF | Web Oficial",
+          "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/once-inicial-del-real-madrid-contra-el-barcelona-25-10-2026"
+        },
+        {
+          "title": "Countdown to the Clásico",
+          "source": "Official FC Barcelona Website",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4598175/countdown-to-the-clasico/featured"
+        },
+        {
+          "title": "Real Madrid lead Barcelona in tense Clásico clash",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/team-news-barcelona-host-real-193300486.html"
+        }
+      ]
+    },
     {
       "title": "라리가",
       "approx_traffic": "200+",
@@ -10,8 +120,8 @@
       "news": [
         {
           "title": "이강인, 부상 우려 씻고 67분 활약…아틀레티코 라리가 6연승",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694453"
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261025005400007"
         },
         {
           "title": "\"35분간 안 보이더니 1분 만에 평가 뒤집었다\"…이강인에 西언론 감탄 \"정말 좋은 선수\"",
@@ -26,30 +136,52 @@
       ]
     },
     {
-      "title": "real madrid",
-      "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 12:50:00 -0700",
+      "title": "바르셀로나",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 13:00:00 -0700",
       "news": [
         {
-          "title": "Courtois, baja de última hora",
-          "source": "Real Madrid CF | Web Oficial",
-          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/courtois-baja-de-ultima-hora-25-10-2026"
+          "title": "‘결승골’ 알바레스, 바르샤 이적 발언 사과 “말의 방식-시기 모두 잘못”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261025/134902700/1"
         },
         {
-          "title": "¡El Real Madrid consigue el récord histórico de triples!",
-          "source": "ACB",
-          "url": "https://acb.com/es/liga/noticias/el-real-madrid-consigue-el-record-historico-de-triples-146309"
+          "title": "바르셀로나 꿈 말했다가 야유받은 알바레스…골로 답하고 팬들에 사과",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610251039013"
         },
         {
-          "title": "Así queda la clasificación de la Liga Endesa tras la exhibición del Real Madrid en Lleida",
-          "source": "Mundo Deportivo",
-          "url": "https://www.mundodeportivo.com/baloncesto/acb/20261025/1004243136/asi-queda-clasificacion-liga-endesa-exhibicion-real-madrid-lleida.html"
+          "title": "\"사과드립니다, 정말 죄송합니다\" 태업 논란 휩싸였던 이강인 동료 마침내 입 열었다…\"내가 팬이어도 분노했을 것\"",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%89%E1%85%A1%E1%84%80%E1%85%AA%E1%84%83%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1-%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%86%E1%85%A1%E1%86%AF-%E1%84%8C%E1%85%AC%E1%84%89%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%B8%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1-%E1%84%90%E1%85%A2%E1%84%8B%E1%85%A5%E1%86%B8-%E1%84%82%E1%85%A9%E1%86%AB%E1%84%85%E1%85%A1%E1%86%AB-%E1%84%92%E1%85%B1%E1%86%B8%E1%84%8A%E1%85%A1%E1%84%8B%E1%85%A7%E1%86%BB%E1%84%83%E1%85%A5%E1%86%AB-%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%85%E1%85%AD-%E1%84%86%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%B7%E1%84%82%E1%85%A2-%E1%84%8B%E1%85%B5%E1%86%B8-%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%8B%E1%85%A5%E1%86%BB%E1%84%83%E1%85%A1--%E1%84%82%E1%85%A2%E1%84%80%E1%85%A1-%E1%84%91%E1%85%A2%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%83%E1%85%A9-%E1%84%87%E1%85%AE%E1%86%AB%E1%84%82%E1%85%A9%E1%84%92%E1%85%A2%E1%86%BB%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%80%E1%85%A5%E1%86%BA/blt9ad868e7cb6cc183"
+        }
+      ]
+    },
+    {
+      "title": "종합부동산세",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 13:00:00 -0700",
+      "news": [
+        {
+          "title": "재경위 “종부세·양도세 개편, 임차인 부담 전가·매물 잠김 우려”",
+          "source": "Daily NTN",
+          "url": "https://www.intn.co.kr/news/articleView.html?idxno=2054297"
+        },
+        {
+          "title": "종부세 올리면 세입자 부담…국회 “임대료 떠넘기기 우려”",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1180754"
+        },
+        {
+          "title": "재경위 \"주택 종부세율 올리면 임차인에 稅부담 전가 가능성\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024040700002"
         }
       ]
     },
     {
       "title": "f1",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sun, 25 Oct 2026 12:40:00 -0700",
       "news": [
         {
@@ -71,7 +203,7 @@
     },
     {
       "title": "정성호",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sun, 25 Oct 2026 12:30:00 -0700",
       "news": [
         {
@@ -88,138 +220,6 @@
           "title": "'한국 브래드 피트' 김홍표, 정성호가 사고 전 귀신 꿈 꿨다('동치미')",
           "source": "OSEN",
           "url": "https://www.osen.co.kr/article/G1112897824"
-        }
-      ]
-    },
-    {
-      "title": "롤드컵 스위스스테이지",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 12:30:00 -0700",
-      "news": [
-        {
-          "title": "[롤드컵] '스매시 펜타킬 피날레' DK, MKOI 상대로 기선 제압… 8강 진출 '청신호'",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898125"
-        },
-        {
-          "title": "[롤드컵 톡톡] '정규리그 아픈 기억이 보약'… '스매시', \"역전하는 법을 몸으로 배웠죠\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898121"
-        },
-        {
-          "title": "[롤드컵] 젠지·디플러스 기아, LCK 내전 승리로 8강행 성큼…한화생명·T1도 반격 노린다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/10/25/GYYTSMDBMMZDMZTDMUZTIM3EMQ/"
-        }
-      ]
-    },
-    {
-      "title": "barcelona vs real madrid",
-      "approx_traffic": "1000+",
-      "published": "Sun, 25 Oct 2026 12:20:00 -0700",
-      "news": [
-        {
-          "title": "Córners de Barcelona vs Real Madrid: cuántos tiros de esquina llevan",
-          "source": "365Scores",
-          "url": "https://www.365scores.com/es/news/corners-barcelona-vs-real-madrid-hoy/"
-        },
-        {
-          "title": "¿Cómo ver el partido Barcelona vs Real Madrid en TV y streaming?",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/es-us/como-ver-el-partido-barcelona-vs-real-madrid-en-tv-y-streaming-25-10-2026"
-        },
-        {
-          "title": "EL CLÁSICO EN VIVO: Raphinha tuvo el primero del Barça",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/es/noticias/el-clasico-en-vivo-raphinha-tuvo-el-primero-del-barca-43670821"
-        }
-      ]
-    },
-    {
-      "title": "정년",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 12:20:00 -0700",
-      "news": [
-        {
-          "title": "(28) 정년연장",
-          "source": "기계설비신문",
-          "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52415"
-        },
-        {
-          "title": "[홍기빈의 두 번째 의견]‘후반기 직업 시장’을 만들자",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610192014005"
-        },
-        {
-          "title": "청년유니온 '정년 연장 논의에 대한 입장' 발표",
-          "source": "전국구직노조신문",
-          "url": "https://www.kjln.co.kr/news/articleView.html?idxno=13358"
-        }
-      ]
-    },
-    {
-      "title": "바르셀로나 대 레알 마드리드",
-      "approx_traffic": "5000+",
-      "published": "Sun, 25 Oct 2026 12:10:00 -0700",
-      "news": [
-        {
-          "title": "레알 '비상'···비니시우스에 이어 '쿠르투아' 엘 클라시코 결장",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3732043"
-        },
-        {
-          "title": "바르셀로나가 킬리안 음바페를 막기 위한 계획을 발표했다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/barcelona-vach-ra-ke-hoach-ngan-chan-kylian-mbappe"
-        },
-        {
-          "title": "시즌 첫 엘클, 바르사 최전방은 ‘아스널서 밀린’ 제주스?…하피냐 컨디션이 변수",
-          "source": "MHN스포츠",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1610683"
-        }
-      ]
-    },
-    {
-      "title": "thứ hạng của man utd gặp bournemouth",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 11:40:00 -0700",
-      "news": [
-        {
-          "title": "Kết quả bóng đá MU - Bournemouth: Thảm họa hàng thủ (Ngoại hạng Anh)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-mu-bournemouth-tham-hoa-hang-thu-ngoai-hang-anh-c48a1805604.html"
-        },
-        {
-          "title": "曼联在老特拉福德球场爆冷负于伯恩茅斯。",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/zh-cn/mu-thua-soc-bournemouth-ngay-tai-old-trafford"
-        },
-        {
-          "title": "Carragher khuyên MU nên sa thải Carrick ngay đêm nay",
-          "source": "yeuthethao.net.vn",
-          "url": "https://yeuthethao.net.vn/carragher-khuyen-mu-nen-sa-thai-carrick-ngay-dem-nay-d900016.html"
-        }
-      ]
-    },
-    {
-      "title": "전국노래자랑",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 11:20:00 -0700",
-      "news": [
-        {
-          "title": "장한별, ‘전국노래자랑’ 첫 출연부터 엔딩 장식…‘그대는 나의 별이오’ 열창",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261025/134903735/1"
-        },
-        {
-          "title": "‘국민 트로트 스타’ 박상철, 폭발적인 가창력으로 창원특례시 흥겹게 물들여 (전국노래자랑)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610251451003"
-        },
-        {
-          "title": "‘전국노래자랑’ 경상남도 창원특례시 편... 박상철-류원정-김성환-전유진-장한별",
-          "source": "KBS연예",
-          "url": "https://kstar.kbs.co.kr/list_view.html?idx=412950"
         }
       ]
     }
