@@ -1,27 +1,115 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T19:59:13+00:00",
+  "fetched_at": "2026-10-25T20:33:35+00:00",
   "items": [
+    {
+      "title": "barcelona vs real madrid",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 12:20:00 -0700",
+      "news": [
+        {
+          "title": "¿Cómo ver el partido Barcelona vs Real Madrid en TV y streaming?",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/es-us/como-ver-el-partido-barcelona-vs-real-madrid-en-tv-y-streaming-25-10-2026"
+        },
+        {
+          "title": "[!LIVESTREAMs!]Tv] Barcelona vs Real Madrid El Clásico en vivo gratis futbol 25 de octubre 2026 Stream",
+          "source": "FC東京オフィシャルホームページ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5bmVwcHkuZ2l0aHViLmlvL2JhYnUvV2lzaHR2LnhtbCIvPjwva3JwYW5vPg==&id=video-barcelona-vs-real-madrid-el-cl%C3%A1sico-en-directo-online-mpnektl"
+        },
+        {
+          "title": "Cómo quedó Barcelona vs. Real Madrid hoy: Alineaciones, resultado y goles del Clásico por La Liga",
+          "source": "Sporting News",
+          "url": "https://www.sportingnews.com/es/futbol/news/como-quedo-barcelona-real-madrid-hoy-alineaciones-resultado-goles/a451ff313176f5b583e4f8e3"
+        }
+      ]
+    },
+    {
+      "title": "정년",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 12:20:00 -0700",
+      "news": [
+        {
+          "title": "(28) 정년연장",
+          "source": "기계설비신문",
+          "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52415"
+        },
+        {
+          "title": "[홍기빈의 두 번째 의견]‘후반기 직업 시장’을 만들자",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610192014005"
+        },
+        {
+          "title": "청년유니온 '정년 연장 논의에 대한 입장' 발표",
+          "source": "전국구직노조신문",
+          "url": "https://www.kjln.co.kr/news/articleView.html?idxno=13358"
+        }
+      ]
+    },
+    {
+      "title": "laliga",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 12:20:00 -0700",
+      "news": [
+        {
+          "title": "Swept Away by Waves... Typhoon Champi Hits Taiwan and Heads Toward Japan",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008813308"
+        },
+        {
+          "title": "Typhoon 'Champi' Moves North, Bringing Heavy Rain to Jeju... Up to 200 mm More Expected",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/2026102419394040575"
+        },
+        {
+          "title": "Typhoon Champi forces concert postponements in Taiwan, including Jessica and PLAVE - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-entertainment/2026/10/24/IQWAFCGS4VDFPIF6PIIE6D3DFY/"
+        }
+      ]
+    },
+    {
+      "title": "바르셀로나 대 레알 마드리드",
+      "approx_traffic": "2000+",
+      "published": "Sun, 25 Oct 2026 12:10:00 -0700",
+      "news": [
+        {
+          "title": "레알 '비상'···비니시우스에 이어 '쿠르투아' 엘 클라시코 결장",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3732043"
+        },
+        {
+          "title": "시즌 첫 엘클, 바르사 최전방은 ‘아스널서 밀린’ 제주스?…하피냐 컨디션이 변수",
+          "source": "MHN스포츠",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1610683"
+        },
+        {
+          "title": "“레알 마드리드가 바르셀로나를 응징할 것”… 친정팀에 대한 애정 드러낸 판데르 파르트, “팀이 승리하는 기계로 변모했다”",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313395"
+        }
+      ]
+    },
     {
       "title": "thứ hạng của man utd gặp bournemouth",
       "approx_traffic": "500+",
       "published": "Sun, 25 Oct 2026 11:40:00 -0700",
       "news": [
         {
-          "title": "Trực tiếp bóng đá MU - Bournemouth: Mount cứa lòng (Ngoại hạng Anh) (Hết giờ)",
+          "title": "Kết quả bóng đá MU - Bournemouth: Thảm họa hàng thủ (Ngoại hạng Anh)",
           "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-bournemouth-ap-luc-de-nangcarrick-ngoai-hang-anh-c48a1805543.html"
+          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-mu-bournemouth-tham-hoa-hang-thu-ngoai-hang-anh-c48a1805604.html"
         },
         {
-          "title": "«Манчестер Юнайтед» потерпел неожиданное поражение от «Борнмута» на «Олд Траффорд».",
+          "title": "曼联在老特拉福德球场爆冷负于伯恩茅斯。",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ru/mu-thua-soc-bournemouth-ngay-tai-old-trafford"
+          "url": "https://www.vietnam.vn/zh-cn/mu-thua-soc-bournemouth-ngay-tai-old-trafford"
         },
         {
-          "title": "MU thảm bại 0-3, Carrick còn trụ được bao lâu?",
-          "source": "Tạp chí Saostar",
-          "url": "https://www.saostar.vn/sao-sport/mu-tham-bai-0-3-carrick-con-tru-duoc-bao-lau-202610252324338056.html"
+          "title": "Carragher khuyên MU nên sa thải Carrick ngay đêm nay",
+          "source": "yeuthethao.net.vn",
+          "url": "https://yeuthethao.net.vn/carragher-khuyen-mu-nen-sa-thai-carrick-ngay-dem-nay-d900016.html"
         }
       ]
     },
@@ -70,16 +158,15 @@
       ]
     },
     {
-      "title": "2026 월즈",
-      "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 11:00:00 -0700",
-      "news": []
-    },
-    {
       "title": "롤드컵 2026",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 25 Oct 2026 11:00:00 -0700",
       "news": [
+        {
+          "title": "[롤드컵 톡톡] '정규리그 아픈 기억이 보약'… '스매시', \"역전하는 법을 몸으로 배웠죠\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112898121"
+        },
         {
           "title": "[롤드컵] 젠지·디플러스 기아, LCK 내전 승리로 8강행 성큼…한화생명·T1도 반격 노린다",
           "source": "조선일보",
@@ -93,93 +180,22 @@
       ]
     },
     {
+      "title": "2026 월즈",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 11:00:00 -0700",
+      "news": [
+        {
+          "title": "League of Legends Brand Collaboration Teased to Celebrate Worlds and K/DA Comeback",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/en/view.php?gid=1782203"
+        }
+      ]
+    },
+    {
       "title": "루키",
       "approx_traffic": "500+",
       "published": "Sun, 25 Oct 2026 10:50:00 -0700",
       "news": []
-    },
-    {
-      "title": "앙투안 그리즈만",
-      "approx_traffic": "1000+",
-      "published": "Sun, 25 Oct 2026 10:20:00 -0700",
-      "news": [
-        {
-          "title": "손흥민도 뛰어넘다니...\"유럽 최고 팀 갈 선수\" 그리즈만마저 푹 빠졌다, MLS에 나타난 19세 드리블 천재",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99794"
-        },
-        {
-          "title": "한 명은 손흥민 뛰어넘은 대활약, 한 명은 손흥민보다 수준 미달...MLS 적응 희비 엇갈린 '월클 공격수'",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-10-24/202610240100153170009995"
-        }
-      ]
-    },
-    {
-      "title": "england cricket team vs pakistan national cricket team standings",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 10:10:00 -0700",
-      "news": [
-        {
-          "title": "Pakistan vs England: Shadab Khan condemns Harry Brook's side to another improbable loss",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/cricket/articles/cq0mek4de4xno"
-        },
-        {
-          "title": "Ball by Ball Commentary & Live Score - PAK vs ENG, 4th Match",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-england-4th-match-1550716/ball-by-ball-commentary"
-        },
-        {
-          "title": "England stunned after Shadab Khan’s miraculous century delivers one-wicket win for Pakistan",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/sport/2026/oct/25/england-pakistan-odi-match-report-cricket-shadab-khan"
-        }
-      ]
-    },
-    {
-      "title": "레알 바르샤",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 09:00:00 -0700",
-      "news": [
-        {
-          "title": "레알 '비상'···비니시우스에 이어 '쿠르투아' 엘 클라시코 결장",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3732043"
-        },
-        {
-          "title": "시즌 첫 엘클, 바르사 최전방은 ‘아스널서 밀린’ 제주스?…하피냐 컨디션이 변수",
-          "source": "MHN스포츠",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1610683"
-        },
-        {
-          "title": "“레알 마드리드가 바르셀로나를 응징할 것”… 친정팀에 대한 애정 드러낸 판데르 파르트, “팀이 승리하는 기계로 변모했다”",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313395"
-        }
-      ]
-    },
-    {
-      "title": "sc 프라이부르크 대 바이에른",
-      "approx_traffic": "5000+",
-      "published": "Sun, 25 Oct 2026 08:40:00 -0700",
-      "news": [
-        {
-          "title": "'김민재 부상에 노이어까지 쓰러졌다' 콤파니 없는 바이에른, 주전 수비수·골키퍼 동시 이탈...프라이부르크 원정 비상 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/football/2026/10/25/GM2GCMRYGJRWEMZRGEZGGZTCGQ/"
-        },
-        {
-          "title": "\"김민재 부상에 韓 대표팀도 철렁!\" 다행히 큰 부상 피했다... 뮌헨 코치 \"프라이부르크전 결장, 다음 주 복귀\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102518270183552"
-        },
-        {
-          "title": "'모레노호 4선 기둥이 흔들린다' UCL 45분 만에 교체→분데스리가 결장 확정…11월 대표팀 소집도 불투명, 뮌헨 \"작은 문제가 있다\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015242"
-        }
-      ]
     }
   ]
 }
