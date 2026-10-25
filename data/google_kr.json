@@ -1,8 +1,140 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T09:07:05+00:00",
+  "fetched_at": "2026-10-25T09:36:56+00:00",
   "items": [
+    {
+      "title": "지진",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 01:30:00 -0700",
+      "news": [
+        {
+          "title": "日 태평양 오가사와라 해역서 규모 7.0 지진…＂쓰나미 우려없어＂",
+          "source": "한국경제TV",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261025022700073"
+        },
+        {
+          "title": "일본 시즈오카 현 인근 해역서 규모 7.0 심부 지진…국내 영향은 없어",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16257282"
+        },
+        {
+          "title": "일본에서 7도 지진 발생, 진앙 깊이 수백 km",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/the-gioi/dong-dat-7-do-rung-chuyen-tai-nhat-ban-tam-chan-sau-hang-tram-km-1788878.ldo"
+        }
+      ]
+    },
+    {
+      "title": "투자",
+      "approx_traffic": "10000+",
+      "published": "Sun, 25 Oct 2026 01:20:00 -0700",
+      "news": [
+        {
+          "title": "美 금리 고공행진에 … 맥 못추는 金",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1180286"
+        },
+        {
+          "title": "주식·금값 동시 하락 ‘이례적 동조화’ 패닉 빠진 투자자들 “안전자산 맞나”",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038771"
+        },
+        {
+          "title": "“한 돈 100만원 넘게 주고 샀는데 어떡해”…올해 무려 29% 폭락한 금값, 대체 왜?",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105618"
+        }
+      ]
+    },
+    {
+      "title": "훈련기",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 01:20:00 -0700",
+      "news": [
+        {
+          "title": "공중서 ‘쾅’…군용기 2대 충돌, 조종사 4명 전원 사망[아하필리핀]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625928"
+        },
+        {
+          "title": "[영상] 필리핀 공군기 2대, 훈련 중 공중 충돌…\"조종사 전원 사망\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20261025005700704"
+        },
+        {
+          "title": "필리핀 공군 훈련기 2대 공중 충돌…조종사 4명 사망",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694311"
+        }
+      ]
+    },
+    {
+      "title": "sk하이닉스",
+      "approx_traffic": "5000+",
+      "published": "Sun, 25 Oct 2026 01:10:00 -0700",
+      "news": [
+        {
+          "title": "솔리다임 IPO 중단 파장...주주 보호 VS 투자 딜레마 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/25/2026102514593855645"
+        },
+        {
+          "title": "“하닉 손실 중이시죠?” 보유 개미 74%의 공통점",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625852"
+        },
+        {
+          "title": "[마켓인사이트] 솔리다임 상장중단에 반전한 코스피…금주 향방은",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024024500008"
+        }
+      ]
+    },
+    {
+      "title": "성남 fc 대 수원 삼성 블루윙즈 순위",
+      "approx_traffic": "5000+",
+      "published": "Sun, 25 Oct 2026 01:10:00 -0700",
+      "news": [
+        {
+          "title": "K리그2 수원, 성남 꺾고 구단 신기록 7연승…1부 복귀 성큼",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261025580288"
+        },
+        {
+          "title": "K리그2 수원 삼성, 1부 리그 승격 눈 앞",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038777"
+        },
+        {
+          "title": "\"눈이 부어올라 보이질 않는다는데...\" 끝내 예기치 못한 선수 교체→아쉬움 토로한 김해운 감독 [성남 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102512421832638"
+        }
+      ]
+    },
+    {
+      "title": "england vs pakistan",
+      "approx_traffic": "1000+",
+      "published": "Sun, 25 Oct 2026 01:10:00 -0700",
+      "news": [
+        {
+          "title": "Pakistan eyeing final, England need lift after Pindi capitulation",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-england-4th-match-1550716/match-preview"
+        },
+        {
+          "title": "“The Future Is With Minhas Brothers”: Bashaar Syed After Arafat Minhas’ Performance Against England",
+          "source": "Sportscape Magazine",
+          "url": "https://www.sportscapemagazine.com/blog/the-future-is-with-minhas-brothers-bashaar-syed-after-arafat-minhas-performance-against-england"
+        },
+        {
+          "title": "Pakistan vs England, ODI tri-series LIVE! Latest cricket score, updates, video and analysis as Harry Brook's side target first win",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/cricket/live-blog/13603448/pakistan-vs-england-odi-tri-series-live-latest-cricket-score-updates-video-and-analysis-as-harry-brooks-side-target-first-win"
+        }
+      ]
+    },
     {
       "title": "최준희",
       "approx_traffic": "2000+",
@@ -14,14 +146,14 @@
           "url": "https://sports.khan.co.kr/article/202610251358003"
         },
         {
-          "title": "결혼 5개월 최준희, 결국 엄마에게 갔다…故최진실 묘 앞 “힘 받으러”",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1643950"
-        },
-        {
           "title": "\"힘 받으러\" 최준희, 故최진실 묘소 찾아 건넨 소주 한 병",
           "source": "스포츠조선",
           "url": "https://www.sportschosun.com/entertainment/2026-10-25/202610250100155600010168"
+        },
+        {
+          "title": "결혼 5개월 최준희, 결국 엄마에게 갔다…故최진실 묘 앞 “힘 받으러”",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1643950"
         }
       ]
     },
@@ -54,28 +186,6 @@
       ]
     },
     {
-      "title": "pak vs eng",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 00:50:00 -0700",
-      "news": [
-        {
-          "title": "Pakistan eyeing final, England need lift after Pindi capitulation",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-england-4th-match-1550716/match-preview"
-        },
-        {
-          "title": "Pakistan vs England: Sloppy visitors floored by Arafat Minhas in Rawalpindi",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/cricket/articles/c962ylv3l334o"
-        },
-        {
-          "title": "“The Future Is With Minhas Brothers”: Bashaar Syed After Arafat Minhas’ Performance Against England",
-          "source": "Sportscape Magazine",
-          "url": "https://www.sportscapemagazine.com/blog/the-future-is-with-minhas-brothers-bashaar-syed-after-arafat-minhas-performance-against-england"
-        }
-      ]
-    },
-    {
       "title": "이현중",
       "approx_traffic": "100+",
       "published": "Sun, 25 Oct 2026 00:50:00 -0700",
@@ -94,116 +204,6 @@
           "title": "'NBA 도전' 이현중 \"처절하게 부딪히겠습니다\"",
           "source": "SBS 뉴스",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813246"
-        }
-      ]
-    },
-    {
-      "title": "태풍 참피(태풍 30호)",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "참피 대만 앞 '한 바퀴 회전'‥'커진 피해' 日 할퀴고 북진",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6860541_36925.html"
-        },
-        {
-          "title": "[내일 날씨] 태풍 '참피' 영향에 제주·남부 비…일교차 10도 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/25/2026102517301588913"
-        },
-        {
-          "title": "남해 바깥먼바다도 ’태풍경보’…역대 가장 늦은 태풍",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261025154537EDO"
-        }
-      ]
-    },
-    {
-      "title": "군대",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "군 상관에 \"X패고싶다\" 했다가 1계급 강등…법원 \"과도한 징계\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024045500004"
-        },
-        {
-          "title": "軍상관에 “X 패고 싶다” 했다가 1계급 강등…法 “과도한 징계”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261025/134904546/2"
-        },
-        {
-          "title": "군 상관에 모욕적 발언으로 강등...\"과도한 징계\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610251057210971"
-        }
-      ]
-    },
-    {
-      "title": "서초구",
-      "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "\"같은 아파트인데 18억 차이\"…재건축초과이익 부담금에 시장 혼란",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261025105809uCs"
-        },
-        {
-          "title": "유예 끝났다, 재초환 강행… 서초구 연내 징수에 같은 84㎡ ‘18억 격차’ 기현상",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261025503562"
-        },
-        {
-          "title": "\"국평 50억은 거뜬\" 이촌 한강맨션 변수, 재초환 부담금만 6억대",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/10/23/2026102301775.html"
-        }
-      ]
-    },
-    {
-      "title": "차",
-      "approx_traffic": "1000+",
-      "published": "Sun, 25 Oct 2026 00:10:00 -0700",
-      "news": [
-        {
-          "title": "매일 마시는 차 “잘못 고르면 독 된다”…심장에 좋은 차는",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261024/134901257/1"
-        },
-        {
-          "title": "차 꾸준히 마시면 혈관질환 위험 11% 낮아진다…카페인 과다는 주의",
-          "source": "세계일보",
-          "url": "https://m.segye.com/view/20261023511185"
-        },
-        {
-          "title": "건강에 좋다던 차, ‘앗뜨뜨’ 뜨겁게 마셨더니 오히려 독됐다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610240700011"
-        }
-      ]
-    },
-    {
-      "title": "전영현",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 00:00:00 -0700",
-      "news": [
-        {
-          "title": "[사설] 재계 인사, '시계제로' 뚫고 활로 찾기를",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261023000318"
-        },
-        {
-          "title": "삼성전자 전영현·노태문, '투톱 겸직' 바뀔까…메모리·MX 수장 인선 촉각",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417900"
-        },
-        {
-          "title": "[정해균의 Zoom-人] ‘각양강색’ 전문경영인 부회장...사업 총괄부터 회장 보좌까지",
-          "source": "뉴스인사이드",
-          "url": "https://www.newsinside.kr/news/articleView.html?idxno=5031215"
         }
       ]
     }
