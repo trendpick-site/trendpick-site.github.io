@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T08:05:26+00:00",
+  "fetched_at": "2026-10-25T08:37:10+00:00",
   "items": [
+    {
+      "title": "차",
+      "approx_traffic": "1000+",
+      "published": "Sun, 25 Oct 2026 00:10:00 -0700",
+      "news": [
+        {
+          "title": "매일 마시는 차 “잘못 고르면 독 된다”…심장에 좋은 차는",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261024/134901257/1"
+        },
+        {
+          "title": "차 꾸준히 마시면 혈관질환 위험 11% 낮아진다…카페인 과다는 주의",
+          "source": "세계일보",
+          "url": "https://m.segye.com/view/20261023511185"
+        },
+        {
+          "title": "건강에 좋다던 차, ‘앗뜨뜨’ 뜨겁게 마셨더니 오히려 독됐다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610240700011"
+        }
+      ]
+    },
     {
       "title": "이동욱",
       "approx_traffic": "500+",
@@ -31,14 +53,14 @@
       "published": "Sun, 25 Oct 2026 00:00:00 -0700",
       "news": [
         {
-          "title": "[속보]이틀간 사라졌던 ‘부캉이’ 다시 나타나…최종 목격지점서 2㎞ 떨어진 곳서 유영",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625921"
+          "title": "‘부캉이 사라진 날’ 부산 북항 기름 띠 범인 잡아…미신고 유조선 적발",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12324733"
         },
         {
-          "title": "수로 떠난 ‘부캉이’, 부산항 국제여객터미널서 이틀 연속 관측",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/regional/2026/10/25/FTYQQ4HF4VAAJGL6G253MRD7WE/"
+          "title": "상어 '부캉이' 이틀째 부산항 여객터미널에서 관찰",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202610251518020150"
         },
         {
           "title": "[소셜＋] \"부캉이 자기결정권 보장하라\"…'무료 아쿠아리움'서 청원까지",
@@ -49,13 +71,13 @@
     },
     {
       "title": "전영현",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 25 Oct 2026 00:00:00 -0700",
       "news": [
         {
-          "title": "[2027 정기 인사] 4대 그룹 “미래 핵심 사업 전략 역량에 방점”",
+          "title": "[사설] 재계 인사, '시계제로' 뚫고 활로 찾기를",
           "source": "전자신문",
-          "url": "https://www.etnews.com/20261023000260"
+          "url": "https://www.etnews.com/20261023000318"
         },
         {
           "title": "삼성전자 전영현·노태문, '투톱 겸직' 바뀔까…메모리·MX 수장 인선 촉각",
@@ -114,6 +136,28 @@
       ]
     },
     {
+      "title": "인기가요",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 23:30:00 -0700",
+      "news": [
+        {
+          "title": "“많이 드세요”…이수만, A2O LITE 성공에 고깃집서 ‘골든벨’ 울렸다",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261023505163"
+        },
+        {
+          "title": "“이수만! 이수만!” 고깃집서 골든벨 울렸다…팔찌도 선물",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610251616001"
+        },
+        {
+          "title": "너도나도 만드는 'AI 영상'‥웃고 넘겨도 될까",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860476_37004.html"
+        }
+      ]
+    },
+    {
       "title": "염소",
       "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 23:20:00 -0700",
@@ -168,58 +212,14 @@
           "url": "https://www.newsis.com/view/NISX20261024_0003839696"
         },
         {
-          "title": "'데뷔 35년 만에 당일 녹화 첫 취소' 유재석…\"한 달 됐는데 아직도 문자 와\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6330791"
+          "title": "‘놀면 뭐하니?’ 유재석·정준하, 주우재·곽범에 발끈…‘먹쪄 모임’ 뒤집은 막내들의 반란",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845185"
         },
         {
           "title": "2054 시청률 土 예능 1위 '놀뭐?' 정준하, 자작시 '가을 전어'로 초토화",
           "source": "iMBC 연예",
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522377"
-        }
-      ]
-    },
-    {
-      "title": "프랑스",
-      "approx_traffic": "5000+",
-      "published": "Sat, 24 Oct 2026 22:20:00 -0700",
-      "news": [
-        {
-          "title": "프랑스 반정부 시위가 남의 일이 아닌 이유 [연금 구조개혁]⑨",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694509"
-        },
-        {
-          "title": "프랑스의 작은 학생 시위는 어떻게 전국 시위로 번졌나",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261025_0003839953"
-        },
-        {
-          "title": "유럽 곳곳 '교육 문제·고물가' 항의 대규모 시위",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610251300560881"
-        }
-      ]
-    },
-    {
-      "title": "선우용여",
-      "approx_traffic": "10000+",
-      "published": "Sat, 24 Oct 2026 22:20:00 -0700",
-      "news": [
-        {
-          "title": "81세 선우용여도 푹 빠졌다…아침마다 5060 몰리는 '이곳' [권용훈의 트렌드워치]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610253003i"
-        },
-        {
-          "title": "롯데호텔앤리조트, 조식 멤버십 '더 모닝' 출시 1년 맞아 혜택 확대",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261025_0003839796"
-        },
-        {
-          "title": "롯데호텔 ‘더 모닝’, 아침 먹으러 호텔 가는 사람들[PS]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/life/article/all/20261025/134903328/1"
         }
       ]
     }
