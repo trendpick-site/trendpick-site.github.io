@@ -1,27 +1,203 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T05:13:16+00:00",
+  "fetched_at": "2026-10-25T06:06:55+00:00",
   "items": [
+    {
+      "title": "이세웅",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 21:50:00 -0700",
+      "news": [
+        {
+          "title": "\"삼전 들고 버텼더니\" 7개월 새 1172억 불린 전직 도지사 누구?",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02515766645615872&mediaCodeNo=257"
+        },
+        {
+          "title": "올해 주식으로 1170억 불린 퇴직 공무원…그가 들고있던 최애 종목은 [이번주인공]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/politics/12184913"
+        },
+        {
+          "title": "이세웅 전 평북지사 재산 2759억…7개월 만에 1172억 늘어",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003837095"
+        }
+      ]
+    },
+    {
+      "title": "안성시",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 21:50:00 -0700",
+      "news": [
+        {
+          "title": "김보라 안성시장, SK하이닉스 방류수 논란에 “시민께 심려 끼쳐 죄송”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261025580068"
+        },
+        {
+          "title": "용인 반도체 국가산단 착공 본격화…동탄 ‘아크메르 동탄’ 수혜 기대",
+          "source": "경상일보",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070442"
+        },
+        {
+          "title": "안성시, 용인 반도체 산단 환경·농업 피해 방지 총력…바이패스 등 재협상 추진",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334924"
+        }
+      ]
+    },
+    {
+      "title": "서장훈",
+      "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 21:40:00 -0700",
+      "news": [
+        {
+          "title": "\"‘700억 갑부’ 서장훈 집은 35억, 소박하네\"…어딘가 봤더니[누구집]",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01131606645616528&mediaCodeNo=257"
+        },
+        {
+          "title": "강호동·전현무·서장훈 한자리에…SM C&C ‘핑크빛’ 워크숍",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12324594"
+        },
+        {
+          "title": "수지, 최고 분양가 400억대 고급 빌라 계약…블핑 지수·신세경도",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/realestate/general/6328928"
+        }
+      ]
+    },
+    {
+      "title": "석유",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 21:40:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 책임 부담에… 석유 최고액 정산위, 감사원에 SOS",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/10/24/SO42KMMWHVG5PEBGQHCEYROHBY/"
+        },
+        {
+          "title": "석유 최고가격제 언제 끝나나…재정 부담 우려도",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261025103040F4m"
+        },
+        {
+          "title": "[사설] 돈 쓸 궁리만 하는 정부, 프랑스의 길 가려는가",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261023083437705"
+        }
+      ]
+    },
+    {
+      "title": "노화",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 21:40:00 -0700",
+      "news": [
+        {
+          "title": "\"출산 후 회복 전 또 임신하면 노화 누적될 가능성\"",
+          "source": "DongA Science",
+          "url": "https://www.dongascience.com/ko/news/80497"
+        },
+        {
+          "title": "출산 후 너무 빨리 다시 임신하면 생물학적 노화에 영향",
+          "source": "메디컬투데이",
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=620597"
+        },
+        {
+          "title": "여성, 남성보다 노화에 긍정적…기억력 저하 나타나면 인식 역전",
+          "source": "메디컬투데이",
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=620644"
+        }
+      ]
+    },
+    {
+      "title": "배드민턴 프랑스오픈",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 21:30:00 -0700",
+      "news": [
+        {
+          "title": "세계 2위 잡은 日 돌풍 신예, 인도 배드민턴 여제 앞에서 멈췄다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/24/G5RTSNDCGE3WGNDFGQYTSMJXMY/"
+        },
+        {
+          "title": "'승률 98.5%' 배드민턴 안세영, 프랑스오픈 결승행…시즌 10승 눈앞",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839614"
+        },
+        {
+          "title": "배드민턴: 안세영, 오쿠하라 꺾고 결승 진출 - 프랑스오픈 2026",
+          "source": "Olympic Channel",
+          "url": "https://www.olympics.com/ko/news/badminton-an-seyoung-reaches-final-france-open-2026"
+        }
+      ]
+    },
+    {
+      "title": "크리스티아누 호날두",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 21:30:00 -0700",
+      "news": [
+        {
+          "title": "982번째 골 이후 호날두의 예상치 못한 행동",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/the-thao/hanh-dong-bat-ngo-cua-ronaldo-sau-ban-thang-thu-982-1788299.ldo"
+        },
+        {
+          "title": "FIFA가 크리스티아누 호날두에게 좋지 않은 소식을 전했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/fifa-bao-tin-khong-vui-voi-c-ronaldo"
+        },
+        {
+          "title": "호날두, 사우디 리그서 개인 통산 982호 골 작렬… 1000골까지 '18골' 남았다",
+          "source": "한국연예스포츠신문",
+          "url": "https://www.koreaes.com/news/articleView.html?idxno=406840"
+        }
+      ]
+    },
+    {
+      "title": "자산",
+      "approx_traffic": "500+",
+      "published": "Sat, 24 Oct 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "靑, 가상자산 과세 재유예 결론…청년 여론·美 카프 등 고려",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105730"
+        },
+        {
+          "title": "청와대 ‘가상자산 과세 유예’ 검토…청년층 민심 고려",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610251444001"
+        },
+        {
+          "title": "'수익 250만 원 넘으면 22% 세금' 가상자산 과세, 네 번째 유예 기로",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610240522165469"
+        }
+      ]
+    },
     {
       "title": "kia 대 삼성",
       "approx_traffic": "100000+",
       "published": "Sat, 24 Oct 2026 21:00:00 -0700",
       "news": [
         {
-          "title": "태풍 ‘참피’에 프로야구 플레이오프 1차전 취소…26일 재개",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694496"
-        },
-        {
-          "title": "[포토] 최형우 '제가 떠나도 잘하네요 KIA' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102513010010274"
-        },
-        {
-          "title": "프로야구 플레이오프 1차전 페덱 vs 네일 선발 투수 빅뱅",
+          "title": "태풍 '참피'에 프로야구 플레이오프 1차전 취소…26일 재개",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023123700007"
+          "url": "https://www.yna.co.kr/view/AKR20261025024900007"
+        },
+        {
+          "title": "’종일 비’ 달빛시리즈 내일로 연기…이 시각 대구",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261025144515sN5"
+        },
+        {
+          "title": "KIA 플레이오프 1차전 선발투수 ‘네일’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694398"
         }
       ]
     },
@@ -31,195 +207,19 @@
       "published": "Sat, 24 Oct 2026 21:00:00 -0700",
       "news": [
         {
-          "title": "인천서 노루 잡으려다 밭일하던 할아버지 쏜 60대 남성 조사",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6860424_36918.html"
-        },
-        {
-          "title": "노루 잡으려다 밭일 80대 노인에 발포…엽총 사고로 1명 부상",
+          "title": "고속도로 사고 10건 중 7건 발생시각 ‘깜깜이’…인지시간 0분 둔갑",
           "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626023"
+          "url": "https://www.munhwa.com/article/11626031"
         },
         {
-          "title": "‘유해 야생 동물’ 고라니 잡으려다 밭일 하던 주민 다치게 한 60대 엽사…과실치상 혐의로 조사",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334954"
-        }
-      ]
-    },
-    {
-      "title": "땅집고",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 20:40:00 -0700",
-      "news": [
-        {
-          "title": "\"목에 칼 들어와도 안 사\" 다주택자 개그맨, 3개월 뒤 '코스피' 보니",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/10/23/2026102301872.html"
-        },
-        {
-          "title": "“목에 칼이 들어와도 지금 투자 안해” 3개월 전 황현희 말 재조명",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11624418"
-        },
-        {
-          "title": "\"목에 칼 들어와도 지금 주식 안 산다\"…황현희 3개월 전 경고 섬뜩",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6324667"
-        }
-      ]
-    },
-    {
-      "title": "대나무",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 20:40:00 -0700",
-      "news": [
-        {
-          "title": "“대나무 푹 끓였더니 석유가 나왔다!”…이게 말이 된다고?",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610250900011"
-        },
-        {
-          "title": "“이제 한국도 산유국되나요?”…대나무 끓였더니 석유가 나왔다는데",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/it/12184980"
-        },
-        {
-          "title": "대나무 연료는 배출량을 26배까지 줄일 수 있습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhien-lieu-tu-tre-co-the-giam-phat-thai-26-lan"
-        }
-      ]
-    },
-    {
-      "title": "kbo",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 20:20:00 -0700",
-      "news": [
-        {
-          "title": "Samsung Lions turn to Lee Seung-min as closer after Kim Jae-yoon injury",
-          "source": "Korea JoongAng Daily",
-          "url": "https://www.koreajoongangdaily.com/sports/samsung-lions-turn-to-lee-seungmin-as-closer-after-kim-jaeyoon-injury/12936627"
-        },
-        {
-          "title": "Kim Jae-yoon injury sidelines closer despite 35-save season - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/10/25/FABU2LDEJJGCJK3MVTSC34C4YM/"
-        },
-        {
-          "title": "Lions reliever eager for shot at revenge in KBO postseason",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20261025003200315"
-        }
-      ]
-    },
-    {
-      "title": "이세돌",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 20:20:00 -0700",
-      "news": [
-        {
-          "title": "이세돌, 20kg 맥주통 메고 야구장 누벼",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261024501646"
-        },
-        {
-          "title": "[잇슈 컬처] 알파고 이긴 이세돌 취업 도전…KBS2 ‘백수 이세돌’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693181"
-        },
-        {
-          "title": "'알파고와 대국' 이세돌, AI로 대체 힘든 직업 찾았다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003839041"
-        }
-      ]
-    },
-    {
-      "title": "저수지",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 20:10:00 -0700",
-      "news": [
-        {
-          "title": "[속보]심야 저수지 낚시터서 초등학생 물에 빠져 숨져",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625965"
-        },
-        {
-          "title": "안성 낚시터서 초등생 물에 빠져 숨져…수색 3시간여 만에 발견",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261025/134902043/1"
-        },
-        {
-          "title": "가족과 저수지 낚시터 놀러왔다가 그만···초등생, 안성서 물에 빠져 숨져",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610250850001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-        }
-      ]
-    },
-    {
-      "title": "즉석밥",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 20:00:00 -0700",
-      "news": [
-        {
-          "title": "[산업X파일] \"밥은 직접 해야\" 통념 깬 서른살 햇반, 미국인 식탁도 바꿀까",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/market_trend/2026/10/25/OOLGODML2ZBDLCBKYPE3DCZELQ/"
-        },
-        {
-          "title": "“반도체 공정 수준 무균화 기술”…보존료 없이도 9개월간 신선한 햇반의 비밀",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261024/134901381/2"
-        },
-        {
-          "title": "\"연 2.8억개 뚝딱, 반도체 공장 같네\" CJ표 '햇반' 9개월 유통기한 비결 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/10/25/2026102210020814370"
-        }
-      ]
-    },
-    {
-      "title": "김연경",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 19:50:00 -0700",
-      "news": [
-        {
-          "title": "김연경 “감독 다시 안 한다”…첫경기 만에 시즌3 거부 의사('신인감독 김연경')",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015177"
-        },
-        {
-          "title": "황연주 터졌다... 김연경, 한일전 뼈아픈 패배 딛고 ‘소름 돋는 용병술’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/24/GQ2GCYTFGIYDEYRWMY2GGYJUGA/"
-        },
-        {
-          "title": "감독 다신 안 해?! '신인감독 김연경2', 폭탄 발언에 '술렁'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261025000027"
-        }
-      ]
-    },
-    {
-      "title": "삼성 엑시노스",
-      "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 19:40:00 -0700",
-      "news": [
-        {
-          "title": "삼성 ‘엑시노스 2700’, 내부 시험서 퀄컴 최신 AP 앞서…멀티코어 성능 약 20% 우위 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/10/25/LYNO7ACPWRECDA5UDZRHHMLA6E/"
-        },
-        {
-          "title": "삼성 '엑시노스 2700', 성능 시험서 퀄컴 최신칩 앞서",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023080600003"
-        },
-        {
-          "title": "엑시노스 2700, 차세대 스냅드래곤 앞섰다…갤럭시 탑재 확대 기대",
+          "title": "[2026국감] 고속도로 사고 10건 중 7건 발생시각 몰라",
           "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313863"
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313889"
+        },
+        {
+          "title": "\"고속도로 사고 10건 중 7건은 실제 발생시간 '확인 불가'\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023163400001"
         }
       ]
     }
