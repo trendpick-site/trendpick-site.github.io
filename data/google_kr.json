@@ -1,11 +1,11 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T17:06:49+00:00",
+  "fetched_at": "2026-10-25T17:34:18+00:00",
   "items": [
     {
       "title": "sc 프라이부르크 대 바이에른",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Sun, 25 Oct 2026 08:40:00 -0700",
       "news": [
         {
@@ -27,13 +27,13 @@
     },
     {
       "title": "30호 태풍 참피",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sun, 25 Oct 2026 08:20:00 -0700",
       "news": [
         {
-          "title": "참피 대만 앞 '한 바퀴 회전'‥'커진 피해' 日 할퀴고 북진",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6860541_36925.html"
+          "title": "역대 가장 늦은 태풍 특보…‘참피’ 비는 약해졌지만 강풍이 마지막 고비",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694569"
         },
         {
           "title": "남쪽 해상 지나는 태풍 ‘참피’… 서울은 해 쨍쨍, 포항은 배 꽁꽁",
@@ -41,9 +41,9 @@
           "url": "https://www.chosun.com/national/national_general/2026/10/26/JXP544EVZNHDHBU5VTJZZFBTEY/"
         },
         {
-          "title": "남해 바깥먼바다도 ’태풍경보’…역대 가장 늦은 태풍",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261025154537EDO"
+          "title": "참피 대만 앞 '한 바퀴 회전'‥'커진 피해' 日 할퀴고 북진",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6860541_36925.html"
         }
       ]
     },
@@ -70,19 +70,19 @@
       "published": "Sun, 25 Oct 2026 08:00:00 -0700",
       "news": [
         {
-          "title": "Widmo nowego podatku energetycznego zawisło nad Polską. To byłaby katastrofa",
-          "source": "Interia Wydarzenia",
-          "url": "https://wydarzenia.interia.pl/zagranica/news-widmo-nowego-podatku-energetycznego-zawislo-nad-polska-rosni,nId,23562917"
+          "title": "Przy zakupie F-35 Polska popełniła błąd. Teraz mamy szansę, by go nie powtórzyć",
+          "source": "Rzeczpospolita",
+          "url": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art45383711-polska-potrzebuje-nowego-mysliwca-nie-moze-powtorzyc-bledow-z-f-16-i-f-35"
+        },
+        {
+          "title": "Polska wróciła do walki o ETS2. Chce wykorzystać rewizję unijnych przepisów",
+          "source": "RMF24",
+          "url": "https://www.rmf24.pl/fakty/polska/news-polska-wrocila-do-walki-o-ets2-chce-wykorzystac-rewizje-unij,nIdn,1023206"
         },
         {
           "title": "Co dalej z systemem ETS? Opozycja przestrzega przed skutkami gospodarczymi",
           "source": "RadioMaryja.pl",
           "url": "https://www.radiomaryja.pl/informacje/co-dalej-z-systemem-ets-opozycja-przestrzega-przed-skutkami-gospodarczymi/"
-        },
-        {
-          "title": "Rachunki jak wyrok dla milionów Polaków. Policzyliśmy, ile może kosztować nowa, drakońska opłata, która wejdzie w 2028 roku",
-          "source": "Warszawa w Pigułce",
-          "url": "https://warszawawpigulce.pl/rachunki-jak-wyrok-dla-milionow-polakow-policzylismy-ile-moze-kosztowac-nowa-drakonska-oplata-ktora-wejdzie-w-2028-roku/"
         }
       ]
     },
@@ -102,9 +102,9 @@
           "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vZXZlbnQvb2EueG1sIi8+PC9rcnBhbm8+&id=video-soccer-el-clasicostreams-cel-enidvc36"
         },
         {
-          "title": "LIVESTREAMS FREE] Real Betis vs Celta Vigo LIVE fRee",
-          "source": "FC東京オフィシャルホームページ",
-          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9qYWwvIi8+PC9rcnBhbm8+&id=video-livestreams-free-real-betis-vs-celta-vigo-live-fre-new-live"
+          "title": "Celta Vigo 0-0 Real Betis: Valles stands tall in LaLiga",
+          "source": "Sofascore",
+          "url": "https://www.sofascore.com/news/celta-vigo-0-0-real-betis-valles-stands-tall-in-laliga"
         }
       ]
     },
@@ -142,13 +142,35 @@
         },
         {
           "title": "Tối 25-10, người hâm mộ có thể không được xem Premier League, vì sao?",
-          "source": "Tuổi Trẻ",
-          "url": "https://tuoitre.vn/toi-25-10-nguoi-ham-mo-co-the-khong-duoc-xem-premier-league-vi-sao-100261024123019224.htm"
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/toi-25-10-nguoi-ham-mo-co-the-khong-duoc-xem-premier-league-vi-sao"
         },
         {
-          "title": "Ngôi sao 125 triệu bảng nói thẳng về tiềm năng vô hạn của Liverpool",
-          "source": "Thể Thao 247",
-          "url": "https://thethao247.vn/503-ngoi-sao-125-trieu-bang-noi-thang-ve-tiem-nang-vo-han-cua-liverpool-c2-d441958.html"
+          "title": "Liverpool 2-0 Brighton: Wirtz bị đau và rời sân",
+          "source": "bongda.com.vn",
+          "url": "https://bongda.com.vn/liverpool-2-0-brighton-wirtz-bi-dau-va-roi-san-d852465.html"
+        }
+      ]
+    },
+    {
+      "title": "김치",
+      "approx_traffic": "2000+",
+      "published": "Sun, 25 Oct 2026 07:40:00 -0700",
+      "news": [
+        {
+          "title": "\"과자 끊고 안심했는데\"…사 먹는 김치에 '숨은 함정' 깜짝 [건강!톡]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102534267"
+        },
+        {
+          "title": "김치 사먹는 게 아이스크림보다 당분 섭취 많아",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/10/24/QOBFHLE76VEFTHTUW4EVJ5IHXA/"
+        },
+        {
+          "title": "“김장 귀찮아, 김치 사 먹어?”… ‘그 김치’ 너무 달아, 혈당 관리 어쩌나",
+          "source": "코메디닷컴",
+          "url": "https://kormedi.com/2891332/"
         }
       ]
     },
@@ -158,19 +180,19 @@
       "published": "Sun, 25 Oct 2026 07:40:00 -0700",
       "news": [
         {
-          "title": "Liverpool 2-0 Brighton: Alexander Isak scores again as Reds beat in-form Seagulls in Premier League",
+          "title": "Manchester United vs Bournemouth: Premier League preview, team news, stats & head-to-head",
           "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmdx325w7gy6t"
+          "url": "https://www.bbc.com/sport/football/live/ck62yqmle02mt"
         },
         {
-          "title": "Coventry City vs Sunderland: Kalshi Promo Code & $25 Bonus",
-          "source": "Squawka",
-          "url": "https://www.squawka.com/us/news/premier-league/kalshi-promo-code-coventry-city-vs-sunderland-31-10-26-premier-league/"
+          "title": "Manchester United 0-3 Bournemouth, Liverpool 2-0 Brighton and more: clockwatch – as it happened",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/oct/25/manchester-united-v-bournemouth-liverpool-v-brighton-and-more-premier-league-live"
         },
         {
-          "title": "Today's fixtures at Anfield and St Helens Stadium to go ahead",
-          "source": "Liverpool FC",
-          "url": "https://www.liverpoolfc.com/news/fixtures-at-anfield-and-st-helens-stadium-to-go-ahead"
+          "title": "Manchester United Collapse 0-3 at Home to Bournemouth",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/26/D6UGBVD7GRFXDH6VPWK4VUSZNU/"
         }
       ]
     },
@@ -180,41 +202,19 @@
       "published": "Sun, 25 Oct 2026 07:40:00 -0700",
       "news": [
         {
+          "title": "[PL REVEIW] 리버풀, 무실점 4전 전승 달리던 브라이튼에 2-0 승리...비르츠-이삭 활약",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697136"
+        },
+        {
+          "title": "승점 16점 브라이튼, 안필드서 리버풀과 8R 격돌 : 스포츠",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1048923"
+        },
+        {
           "title": "프리미어 리그 리버풀 대 브라이튼 축구 예측",
           "source": "Laodong.vn",
           "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-liverpool-vs-brighton-tai-premier-league-1788808.ldo"
-        },
-        {
-          "title": "10월 25일 오후 9시, 프리미어 리그 8라운드 리버풀 대 브라이튼 경기 생중계 링크입니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/link-xem-truc-tiep-liverpool-vs-brighton-21h00-ngay-25-10-vong-8-ngoai-hang-anh"
-        },
-        {
-          "title": "[오피셜] \"소보슬러이, 브라이튼전 결장 확정!\"…이라올라가 밝힌 리버풀 부상자 현황! 바르콜라 복귀 가능-무뇨스 출전 불투명",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99780"
-        }
-      ]
-    },
-    {
-      "title": "premier league",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 07:30:00 -0700",
-      "news": [
-        {
-          "title": "Premier League LIVE: Sunderland host Leeds after Michael Carrick's Man Utd lose to Bournemouth",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c5dj4kvpd4j9t"
-        },
-        {
-          "title": "Farke: Sunderland's position at the bottom is false",
-          "source": "beIN SPORTS",
-          "url": "https://www.beinsports.com/en-nz/football/premier-league/articles/farke-sunderlands-position-at-the-bottom-is-false-2026-10-24"
-        },
-        {
-          "title": "Noah Okafor hints at Leeds involvement with Sunderland post amid injury concern",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/noah-okafor-hints-at-leeds-involvement-with-sunderland-post-amid-injury-concern-43669712"
         }
       ]
     }
