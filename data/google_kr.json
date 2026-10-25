@@ -1,8 +1,97 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T22:01:30+00:00",
+  "fetched_at": "2026-10-25T22:32:38+00:00",
   "items": [
+    {
+      "title": "바르샤 레알",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 14:20:00 -0700",
+      "news": []
+    },
+    {
+      "title": "이다해",
+      "approx_traffic": "2000+",
+      "published": "Sun, 25 Oct 2026 14:10:00 -0700",
+      "news": [
+        {
+          "title": "이다해, '중국풍' 외모 지적에 \"조금씩 달라지는 내 모습 즐겨\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839708"
+        },
+        {
+          "title": "이다해, 성형 의혹…\"中 스태프와 작업한 새로운 내 모습\" 직접 해명",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6330864"
+        },
+        {
+          "title": "\"나에게도 낯선 모습\"…이다해, 성형설 직접 해명 나선 속사정 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102421295420245"
+        }
+      ]
+    },
+    {
+      "title": "손지창",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 14:00:00 -0700",
+      "news": [
+        {
+          "title": "손지창, 26년째 이벤트 회사 운영…\"최대 연 매출 60억\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261025_0003840218"
+        },
+        {
+          "title": "\"연 매출 60억\" 손지창, 배우 활동 뜸하더니...26년째 이벤트 회사 운영",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-25/202610250100157940010284"
+        }
+      ]
+    },
+    {
+      "title": "퇴직",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 14:00:00 -0700",
+      "news": [
+        {
+          "title": "입사 후도 퇴직 후도 차별? 도로공사 현장지원직 ‘이중고’",
+          "source": "매일노동뉴스",
+          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237388"
+        },
+        {
+          "title": "“그대로 옮긴다더니 강제 매도?”…퇴직연금 실물이전의 함정 [머니 트레이스]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105602"
+        },
+        {
+          "title": "\"돈 더 벌 줄 알았는데…\" 노후자금 성적표 받아보니 '의외네' [김연지의 연금빌드업]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102311016"
+        }
+      ]
+    },
+    {
+      "title": "장례",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 13:50:00 -0700",
+      "news": [
+        {
+          "title": "“지금 여야는 원수 중의 원수”…故최형우 빈소서 나온 정치권 자성",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02368166645616528&mediaCodeNo=257"
+        },
+        {
+          "title": "최형우가 남긴 ‘통합’ 메시지 [김태훈의 의미 또는 재미]",
+          "source": "세계일보",
+          "url": "https://m.segye.com/view/20261025502360"
+        },
+        {
+          "title": "\"자리 탐하지 마라, 돈은 흘려 보내라… 충고하던 모습이 아직도 아른거려\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/politics_general/2026/10/26/FOA7C5U35VB2DIAHTC54Y4OG3A/"
+        }
+      ]
+    },
     {
       "title": "박서진",
       "approx_traffic": "200+",
@@ -26,30 +115,8 @@
       ]
     },
     {
-      "title": "장례",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 13:50:00 -0700",
-      "news": [
-        {
-          "title": "“지금 여야는 원수 중의 원수”…故최형우 빈소서 나온 정치권 자성",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02368166645616528&mediaCodeNo=257"
-        },
-        {
-          "title": "여야 대표, ’YS 오른팔’ 故최형우 빈소 조문",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261026054617Igm"
-        },
-        {
-          "title": "질문에 답하는 오세훈 시장",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261025_0021503630"
-        }
-      ]
-    },
-    {
       "title": "며느리",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Sun, 25 Oct 2026 13:40:00 -0700",
       "news": [
         {
@@ -70,30 +137,8 @@
       ]
     },
     {
-      "title": "삼전 닉스",
-      "approx_traffic": "2000+",
-      "published": "Sun, 25 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "‘삼전닉스’ 실적에 주요국 금리 결정까지…이번주 ‘슈퍼위크’, 코스피 바닥 다지고 반등할까",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610260600081/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-        },
-        {
-          "title": "[미리보는 증시재료] 실마리 못 찾는 코스피…삼전닉스·美 빅테크 실적에 반등 기대",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261023000935"
-        },
-        {
-          "title": "[주간증시전망] 실적·FOMC ’슈퍼위크’…AI 수익성 우려 해소될까 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2140198"
-        }
-      ]
-    },
-    {
       "title": "조규성",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 25 Oct 2026 13:40:00 -0700",
       "news": [
         {
@@ -141,85 +186,19 @@
       "published": "Sun, 25 Oct 2026 13:30:00 -0700",
       "news": [
         {
-          "title": "5 yếu tố định đoạt trận Siêu kinh điển giữa Barcelona và Real Madrid",
+          "title": "Video bóng đá Barcelona - Real Madrid: Mbappe đánh sập Camp Nou (La Liga)",
           "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/5-yeu-to-dinh-doat-tran-sieu-kinh-dien-giua-barcelona-va-real-madrid-c48a1805392.html"
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-barcelona-real-madrid-mbappe-hoa-ga-son-la-liga-c48a1805634.html"
         },
         {
-          "title": "Cú sốc cho Real Madrid ở El Clasico",
-          "source": "Znews",
-          "url": "https://lifestyle.zingnews.vn/cu-soc-cho-real-madrid-o-el-clasico-post1691988.html"
+          "title": "Mbappe \"son bóng\" ghi bàn mở điểm El Clasico, Yamal vô duyên đến lạ",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/mbappe-son-bong-ghi-ban-mo-diem-el-clasico-yamal-vo-duyen-den-la-c48a1805627.html"
         },
         {
-          "title": "Mourinho tuyên bố Real không đổi kế hoạch vì Yamal",
-          "source": "yeuthethao.net.vn",
-          "url": "https://yeuthethao.net.vn/mourinho-tuyen-bo-real-khong-doi-ke-hoach-vi-yamal-d899978.html"
-        }
-      ]
-    },
-    {
-      "title": "김포시",
-      "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 13:30:00 -0700",
-      "news": [
-        {
-          "title": "김포시의회, 도로·복지·하수처리 현장 점검… “시민 체감도 향상 최우선”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261025580083"
-        },
-        {
-          "title": "[패트롤] 김포시의회-시흥시의회-연천군의회-하남시의회",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261024027040667"
-        },
-        {
-          "title": "김포시의회 행정복지·도시환경위, 주요 사업장 현장 중심 의정 활동",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261025506567"
-        }
-      ]
-    },
-    {
-      "title": "барселона – реал мадрид",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 13:20:00 -0700",
-      "news": [
-        {
-          "title": "«Барселона» — «Реал»: основная информация о матче",
-          "source": "sport-express.net",
-          "url": "https://www.sport-express.net/football/spain/reviews/barselona-real-madrid-vremya-nachala-sostavy-prognozy-i-gde-smotret-translyaciyu-el-klasiko-25-oktyabrya-2026-2467072/"
-        },
-        {
-          "title": "Кисляк: «Барселона» победит в «класико», а «Золотой мяч» выиграет Ямаль»",
-          "source": "Sportbox",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/spbnews_NI2379232_Kislak_Barselona_pobedit_v_klasiko_a_Zolotoj_mach_vyigrajet_Jamal"
-        },
-        {
-          "title": "Куртуа не полетел на матч «Реала» с «Барселоной» из-за гриппа — Marca",
-          "source": "https://www.championat.ru/",
-          "url": "https://www.championat.ru/football/news-6672188-kurtua-ne-poletel-na-match-s-barselonoj-iz-za-grippa-marca.html"
-        }
-      ]
-    },
-    {
-      "title": "김하성",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 13:10:00 -0700",
-      "news": [
-        {
-          "title": "김하성 혹평·이정후 트레이드설…흔들리는 ’코리안 빅리거’",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261025193248EfV"
-        },
-        {
-          "title": "'대실패' 낙인 김하성, 결국 떠날 운명? 기정사실화된 ATL 유격수 교체…새 후보 또 거론",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/25/MQ2TOOJVG4YWCYRSGY2DMMBZMQ/"
-        },
-        {
-          "title": "“김하성, ATL 사상 최악의 FA 영입” 韓야구 자부심이었는데, 어쩌다 ‘265억 먹튀’ 전락했나…평점 F-가 더 충격이다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/26/202610251736776553O"
+          "title": "Mourinho ra tay, Real Madrid xuất sắc đánh bại Barca",
+          "source": "Báo VietNamNet",
+          "url": "https://vietnamnet.vn/ket-qua-bong-da-barca-vs-real-madrid-vong-10-la-liga-2568259.html"
         }
       ]
     }
