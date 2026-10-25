@@ -1,27 +1,44 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T12:03:17+00:00",
+  "fetched_at": "2026-10-25T12:41:42+00:00",
   "items": [
     {
-      "title": "노태문",
-      "approx_traffic": "1000+",
-      "published": "Sun, 25 Oct 2026 03:30:00 -0700",
+      "title": "국민연금공단",
+      "approx_traffic": "2000+",
+      "published": "Sun, 25 Oct 2026 04:20:00 -0700",
       "news": [
         {
-          "title": "[사설] 재계 인사, '시계제로' 뚫고 활로 찾기를",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261023000318"
+          "title": "전업주부·무소득 청년 등 667만 명, 국민연금 편입 추진",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610242312322253"
         },
         {
-          "title": "삼성전자 전영현·노태문, '투톱 겸직' 바뀔까…메모리·MX 수장 인선 촉각",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417900"
+          "title": "\"결혼이 가른 여고 동창의 엇갈린 노후\"...전업주부 연금의 문, 13년 만에 다시 열린다",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610221609105688"
         },
         {
-          "title": "[정해균의 Zoom-人] ‘각양강색’ 전문경영인 부회장...사업 총괄부터 회장 보좌까지",
-          "source": "뉴스인사이드",
-          "url": "https://www.newsinside.kr/news/articleView.html?idxno=5031215"
+          "title": "'무소득자 차별' 폐지…국민연금, 주부·청년 667만명 편입",
+          "source": "SBS Biz",
+          "url": "https://biz.sbs.co.kr/article/20000341680"
+        }
+      ]
+    },
+    {
+      "title": "건강",
+      "approx_traffic": "2000+",
+      "published": "Sun, 25 Oct 2026 04:10:00 -0700",
+      "news": [
+        {
+          "title": "부천시‘다시 함께 더 큰’민생행보 100일",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038760"
+        },
+        {
+          "title": "‘소문난 건강 도시’…은평구, 대한민국 건강도시상 ‘대상’",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626055"
         }
       ]
     },
@@ -93,7 +110,7 @@
     },
     {
       "title": "닥터x: 하얀 마피아의 시대",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Sun, 25 Oct 2026 03:00:00 -0700",
       "news": [
         {
@@ -136,6 +153,28 @@
       ]
     },
     {
+      "title": "브라질 대선",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 03:00:00 -0700",
+      "news": [
+        {
+          "title": "초박빙 전망 브라질 대선…예측시장선 보우소나루 승리 확률 81%",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440957"
+        },
+        {
+          "title": "브라질 대선 결선투표 시작···첫 4선 대통령·첫 부자 대통령 갈림길",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610252019001"
+        },
+        {
+          "title": "[르포] 마치 카니발처럼…81세 룰라의 마지막 대선 유세",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261025012500087"
+        }
+      ]
+    },
+    {
       "title": "충주시",
       "approx_traffic": "200+",
       "published": "Sun, 25 Oct 2026 02:50:00 -0700",
@@ -157,48 +196,9 @@
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860474_37004.html"
         },
         {
-          "title": "LIG D＆A, 對드론 체계 양산 막히나…미래 성장동력 경고등",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261025032900003"
-        }
-      ]
-    },
-    {
-      "title": "스테이블코인",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 02:20:00 -0700",
-      "news": [
-        {
-          "title": "하나금융, 스테이블코인 생태계 구축 박차",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610251811487405"
-        },
-        {
-          "title": "업비트 지갑으로 결제·바로 정산…하나금융, 두나무와 기술검증",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023084200002"
-        }
-      ]
-    },
-    {
-      "title": "설거지",
-      "approx_traffic": "5000+",
-      "published": "Sun, 25 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "“청소비 냈는데 설거지에 쓰레기까지 치우라고?”…에어비앤비, 결국 규칙 바꿨다",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/international/2026/10/25/20261025500089"
-        },
-        {
-          "title": "돈 내고 숙박하는데 “빨래랑 설거지까지 하라고?”…집주인들 과한 요구에 에어비앤비 결국",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105438"
-        },
-        {
-          "title": "\"호텔 갈꺼야\" 투숙객 불만에…에어비앤비 '이것' 금지[뉴스럽다]",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6596402"
+          "title": "입찰제한 LIG D&A, 24.6조 수주잔고 뒤 '신규 계약' 변수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/WsyfaR5Ti9"
         }
       ]
     }
