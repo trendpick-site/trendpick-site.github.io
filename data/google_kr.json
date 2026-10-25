@@ -1,27 +1,137 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T20:33:35+00:00",
+  "fetched_at": "2026-10-25T21:03:38+00:00",
   "items": [
     {
-      "title": "barcelona vs real madrid",
+      "title": "라리가",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 13:00:00 -0700",
+      "news": [
+        {
+          "title": "이강인, 부상 우려 씻고 67분 활약…아틀레티코 라리가 6연승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694453"
+        },
+        {
+          "title": "\"35분간 안 보이더니 1분 만에 평가 뒤집었다\"…이강인에 西언론 감탄 \"정말 좋은 선수\"",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610251701376369"
+        },
+        {
+          "title": "\"이강인, 수비수 역할까지 해야 했다\" 스페인도 놀란 헌신... '답답한 ATM'서 홀로 번뜩였다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102514512961421"
+        }
+      ]
+    },
+    {
+      "title": "real madrid",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 12:50:00 -0700",
+      "news": [
+        {
+          "title": "Courtois, baja de última hora",
+          "source": "Real Madrid CF | Web Oficial",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/courtois-baja-de-ultima-hora-25-10-2026"
+        },
+        {
+          "title": "¡El Real Madrid consigue el récord histórico de triples!",
+          "source": "ACB",
+          "url": "https://acb.com/es/liga/noticias/el-real-madrid-consigue-el-record-historico-de-triples-146309"
+        },
+        {
+          "title": "Así queda la clasificación de la Liga Endesa tras la exhibición del Real Madrid en Lleida",
+          "source": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/baloncesto/acb/20261025/1004243136/asi-queda-clasificacion-liga-endesa-exhibicion-real-madrid-lleida.html"
+        }
+      ]
+    },
+    {
+      "title": "f1",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 12:40:00 -0700",
+      "news": [
+        {
+          "title": "Antonelli seizes pole position for the United States GP",
+          "source": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/antonelli-seizes-pole-position-ahead-of-verstappen-in-qualifying-at-the-united-states-gp.4xdH4w09GhNDOJdknowRAk"
+        },
+        {
+          "title": "Mercedes team principal Toto Wolff admits: “I’m struggling to understand it”",
+          "source": "SPEEDWEEK.com",
+          "url": "https://www.speedweek.com/en/a/formula-1/toto-wolff-surprise-antonelli-pole-austin"
+        },
+        {
+          "title": "Will Kimi Antonelli Win the F1 Championship? Driver Could Clinch Title in Austin – Here’s How!",
+          "source": "IMDb",
+          "url": "https://www.imdb.com/es/news/ni66078836/?ref_=nwc_art_perm"
+        }
+      ]
+    },
+    {
+      "title": "정성호",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 12:30:00 -0700",
+      "news": [
+        {
+          "title": "정성호, 탈북민 돕다가 방송국에 속았다 \"중공군·북한군·산적 있던 곳···잡힌 아이들은 세상 떠나\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/GRSTANTCMNTGIOLGGJTDGMDEGM/"
+        },
+        {
+          "title": "\"전신마취 수술만 8번\" 김홍표, 전성기 때 연기 중단한 사연 [헬스톡]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610251943403492"
+        },
+        {
+          "title": "'한국 브래드 피트' 김홍표, 정성호가 사고 전 귀신 꿈 꿨다('동치미')",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112897824"
+        }
+      ]
+    },
+    {
+      "title": "롤드컵 스위스스테이지",
       "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 12:30:00 -0700",
+      "news": [
+        {
+          "title": "[롤드컵] '스매시 펜타킬 피날레' DK, MKOI 상대로 기선 제압… 8강 진출 '청신호'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112898125"
+        },
+        {
+          "title": "[롤드컵 톡톡] '정규리그 아픈 기억이 보약'… '스매시', \"역전하는 법을 몸으로 배웠죠\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112898121"
+        },
+        {
+          "title": "[롤드컵] 젠지·디플러스 기아, LCK 내전 승리로 8강행 성큼…한화생명·T1도 반격 노린다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/25/GYYTSMDBMMZDMZTDMUZTIM3EMQ/"
+        }
+      ]
+    },
+    {
+      "title": "barcelona vs real madrid",
+      "approx_traffic": "1000+",
       "published": "Sun, 25 Oct 2026 12:20:00 -0700",
       "news": [
+        {
+          "title": "Córners de Barcelona vs Real Madrid: cuántos tiros de esquina llevan",
+          "source": "365Scores",
+          "url": "https://www.365scores.com/es/news/corners-barcelona-vs-real-madrid-hoy/"
+        },
         {
           "title": "¿Cómo ver el partido Barcelona vs Real Madrid en TV y streaming?",
           "source": "Sports Illustrated",
           "url": "https://www.si.com/es-us/como-ver-el-partido-barcelona-vs-real-madrid-en-tv-y-streaming-25-10-2026"
         },
         {
-          "title": "[!LIVESTREAMs!]Tv] Barcelona vs Real Madrid El Clásico en vivo gratis futbol 25 de octubre 2026 Stream",
-          "source": "FC東京オフィシャルホームページ",
-          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5bmVwcHkuZ2l0aHViLmlvL2JhYnUvV2lzaHR2LnhtbCIvPjwva3JwYW5vPg==&id=video-barcelona-vs-real-madrid-el-cl%C3%A1sico-en-directo-online-mpnektl"
-        },
-        {
-          "title": "Cómo quedó Barcelona vs. Real Madrid hoy: Alineaciones, resultado y goles del Clásico por La Liga",
-          "source": "Sporting News",
-          "url": "https://www.sportingnews.com/es/futbol/news/como-quedo-barcelona-real-madrid-hoy-alineaciones-resultado-goles/a451ff313176f5b583e4f8e3"
+          "title": "EL CLÁSICO EN VIVO: Raphinha tuvo el primero del Barça",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/es/noticias/el-clasico-en-vivo-raphinha-tuvo-el-primero-del-barca-43670821"
         }
       ]
     },
@@ -48,30 +158,8 @@
       ]
     },
     {
-      "title": "laliga",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 12:20:00 -0700",
-      "news": [
-        {
-          "title": "Swept Away by Waves... Typhoon Champi Hits Taiwan and Heads Toward Japan",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008813308"
-        },
-        {
-          "title": "Typhoon 'Champi' Moves North, Bringing Heavy Rain to Jeju... Up to 200 mm More Expected",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026102419394040575"
-        },
-        {
-          "title": "Typhoon Champi forces concert postponements in Taiwan, including Jessica and PLAVE - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/10/24/IQWAFCGS4VDFPIF6PIIE6D3DFY/"
-        }
-      ]
-    },
-    {
       "title": "바르셀로나 대 레알 마드리드",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Sun, 25 Oct 2026 12:10:00 -0700",
       "news": [
         {
@@ -80,14 +168,14 @@
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3732043"
         },
         {
+          "title": "바르셀로나가 킬리안 음바페를 막기 위한 계획을 발표했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/barcelona-vach-ra-ke-hoach-ngan-chan-kylian-mbappe"
+        },
+        {
           "title": "시즌 첫 엘클, 바르사 최전방은 ‘아스널서 밀린’ 제주스?…하피냐 컨디션이 변수",
           "source": "MHN스포츠",
           "url": "https://mhnse.com/news/articleView.html?idxno=1610683"
-        },
-        {
-          "title": "“레알 마드리드가 바르셀로나를 응징할 것”… 친정팀에 대한 애정 드러낸 판데르 파르트, “팀이 승리하는 기계로 변모했다”",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313395"
         }
       ]
     },
@@ -115,7 +203,7 @@
     },
     {
       "title": "전국노래자랑",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sun, 25 Oct 2026 11:20:00 -0700",
       "news": [
         {
@@ -134,68 +222,6 @@
           "url": "https://kstar.kbs.co.kr/list_view.html?idx=412950"
         }
       ]
-    },
-    {
-      "title": "tes",
-      "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 11:10:00 -0700",
-      "news": [
-        {
-          "title": "TES 369: \"I will get to experience if Zeus or that Emerald player gives me more pressure\"",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/tes-369-i-will-get-to-experience-if-zeus-or-that-emerald-player-gives-me-more-pressure/en"
-        },
-        {
-          "title": "LPL's First Seed Facing Early Elimination... AL Tarzan: \"I Won't Give Up Until the End\"",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/27672/lpls-first-seed-facing-early-elimination-al-tarzan-i-wont-give-up-until-the-end"
-        },
-        {
-          "title": "Top Esports defeat Anyone's Legend in bloody LPL showdown at Worlds 2026 Swiss Stage",
-          "source": "GosuGamers",
-          "url": "https://www.gosugamers.net/lol/news/79408-top-esports-defeat-anyone-s-legend-in-bloody-lpl-showdown-at-worlds-2026-swiss-stage"
-        }
-      ]
-    },
-    {
-      "title": "롤드컵 2026",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 11:00:00 -0700",
-      "news": [
-        {
-          "title": "[롤드컵 톡톡] '정규리그 아픈 기억이 보약'… '스매시', \"역전하는 법을 몸으로 배웠죠\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898121"
-        },
-        {
-          "title": "[롤드컵] 젠지·디플러스 기아, LCK 내전 승리로 8강행 성큼…한화생명·T1도 반격 노린다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/10/25/GYYTSMDBMMZDMZTDMUZTIM3EMQ/"
-        },
-        {
-          "title": "[오!쎈 인터뷰] '지도자로 첫 월즈' 젠지 류상욱 감독, \"목표 오직 롤드컵 우승, 이상적인 팀 만들 것\"",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261025022933126"
-        }
-      ]
-    },
-    {
-      "title": "2026 월즈",
-      "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 11:00:00 -0700",
-      "news": [
-        {
-          "title": "League of Legends Brand Collaboration Teased to Celebrate Worlds and K/DA Comeback",
-          "source": "게임메카",
-          "url": "https://www.gamemeca.com/en/view.php?gid=1782203"
-        }
-      ]
-    },
-    {
-      "title": "루키",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 10:50:00 -0700",
-      "news": []
     }
   ]
 }
