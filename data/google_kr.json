@@ -1,27 +1,93 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T03:08:38+00:00",
+  "fetched_at": "2026-10-25T03:37:31+00:00",
   "items": [
     {
-      "title": "총파업",
+      "title": "스포츠조선",
       "approx_traffic": "500+",
-      "published": "Sat, 24 Oct 2026 19:00:00 -0700",
+      "published": "Sat, 24 Oct 2026 19:30:00 -0700",
       "news": [
         {
-          "title": "30일 경기 버스 총파업 예고…출근길 불편 우려",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261024/134900998/1"
+          "title": "日 베스트셀러 작가 무라카미 류 별세",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/24/2LS3VUMCD5EDXLY5LI5LZ3IIII/"
         },
         {
-          "title": "파업 찬반 투표하는 경기지역자동차노조원들",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20261023053100061"
+          "title": "일본 사회 불안과 욕망을 해부한 소설가 무라카미 류 별세",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610231622011"
         },
         {
-          "title": "경기버스노조 파업 97.7% 찬성…30일 첫차 파업 예고",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334929"
+          "title": "일 작가 무라카미 류 별세...날카로운 사회 묘사 소설 집필",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610232121293757"
+        }
+      ]
+    },
+    {
+      "title": "kbs",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 19:20:00 -0700",
+      "news": [
+        {
+          "title": "Song Ga-in's Fusion Hanbok Shines at KBS Special",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/kpop-culture-en/2026/10/24/ORFJ2CLHA5AXRBUDHZHSN4HKEA/"
+        },
+        {
+          "title": "Lee Chan-won transforms into a history commentator… \"May you enjoy great fortune and prosperity\" moving greeting [Immortal Songs]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/broadcast-show/2026/10/24/2026102418491858955"
+        },
+        {
+          "title": "Song Gain stuns in fusion hanbok on KBS 'Immortal Songs' royal special - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-entertainment/2026/10/24/IERPBQEKZNCIBMBCKQPE7LKHUM/"
+        }
+      ]
+    },
+    {
+      "title": "네이마르",
+      "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 19:20:00 -0700",
+      "news": [
+        {
+          "title": "Simply unbelievable! Neymar sent off under the 'Vini Jr law'",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/simply-unbelievable-neymar-sent-off-014200731.html"
+        },
+        {
+          "title": "Unseen hero keeps Bahia on terms at Santos",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/en/news/unseen-hero-keeps-bahia-on-terms-at-santos-43667608"
+        },
+        {
+          "title": "Luan Peres rescues Santos with stoppage time header as Bahia held",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/en/news/luan-peres-rescues-santos-with-stoppage-time-header-as-bahia-held-43667606"
+        }
+      ]
+    },
+    {
+      "title": "할리우드",
+      "approx_traffic": "100+",
+      "published": "Sat, 24 Oct 2026 19:10:00 -0700",
+      "news": [
+        {
+          "title": "폭우 뒤 할리우드서 나무 쓰러져 차량 2대 파손",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261023163730726"
+        },
+        {
+          "title": "키아누 리브스, 마동석과 만날까…'악인전' 美 리메이크 출연 논의 중",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810717"
+        },
+        {
+          "title": "마동석·키아누 리브스, 만날까…‘악인전’ 할리우드 리메이크 논의 [N이슈]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/movie/6328054"
         }
       ]
     },
@@ -58,14 +124,14 @@
           "url": "https://www.chosun.com/politics/politics_general/2026/10/25/E6VAU7IPHVDEFDAYCK7LTM3M4M/"
         },
         {
-          "title": "국민의힘, 법무장관 후보 ‘박균택·양부남’ 압축에 “대통령 죄 지우기 인선인가”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694472"
+          "title": "법무부 장관 후임 인선 재검토…박균택·양부남 거론",
+          "source": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799162"
         },
         {
-          "title": "법무장관 후보자 박균택·양부남 압축…청와대 “막판 고심 중”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/bluehouse/1283976.html"
+          "title": "차기 법무장관 인선 주목…장동혁 ’최장수’ 기록",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610251153385Pn"
         }
       ]
     },
@@ -92,28 +158,6 @@
       ]
     },
     {
-      "title": "에르메스",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 18:20:00 -0700",
-      "news": [
-        {
-          "title": "중동전쟁에 유럽시위 유탄까지…유럽 명품업계 주가 급락",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024003100085"
-        },
-        {
-          "title": "\"에르메스, 너마저\"…'-40%'에 명품업계 줄줄이 난리",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02361606645616200"
-        },
-        {
-          "title": "‘에르메스 너마저’ 고가품 마지막 보루마저 흔들… 올 들어 주가 40% 넘게 급락 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/international/international_economy/2026/10/25/HCDEQC4GOZFBZKL3WJCS5DPEJE/"
-        }
-      ]
-    },
-    {
       "title": "조진웅",
       "approx_traffic": "200+",
       "published": "Sat, 24 Oct 2026 18:20:00 -0700",
@@ -136,8 +180,30 @@
       ]
     },
     {
-      "title": "엔비디아",
+      "title": "에르메스",
       "approx_traffic": "200+",
+      "published": "Sat, 24 Oct 2026 18:20:00 -0700",
+      "news": [
+        {
+          "title": "중동전쟁에 유럽시위 유탄까지…유럽 명품업계 주가 급락",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024003100085"
+        },
+        {
+          "title": "\"에르메스, 너마저\"…'-40%'에 명품업계 줄줄이 난리",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02361606645616200"
+        },
+        {
+          "title": "‘에르메스 너마저’ 고가품 마지막 보루마저 흔들… 올 들어 주가 40% 넘게 급락 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/international/international_economy/2026/10/25/HCDEQC4GOZFBZKL3WJCS5DPEJE/"
+        }
+      ]
+    },
+    {
+      "title": "엔비디아",
+      "approx_traffic": "500+",
       "published": "Sat, 24 Oct 2026 18:10:00 -0700",
       "news": [
         {
@@ -149,72 +215,6 @@
           "title": "[중국 특징주] PCB '광합과기', 광칩 '원걸반도체'…기관 관심도 집중",
           "source": "뉴스핌",
           "url": "https://www.newspim.com/news/view/20261019000119"
-        }
-      ]
-    },
-    {
-      "title": "투수 코치",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 17:50:00 -0700",
-      "news": [
-        {
-          "title": "‘류지현 체제’ 프로야구 한화, 김광삼 투수코치 영입",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693652"
-        },
-        {
-          "title": "\"너무 많이 얘기했더니 어질어질해\" 류지현 감독, 끝나지 않는 회의…한화 이글스 어떻게 달라질까",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/24/MM2DANZXHAYDOYZVME4DSMRTGA/"
-        },
-        {
-          "title": "류지현 감독은 \"희망 봤다\" 2루수 GG 다시 날개 펼까…정은원 \"과거는 잊고, 마지막 기회라는 각오로 준비\" [오!쎈 대전] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/24/202610240850779805O"
-        }
-      ]
-    },
-    {
-      "title": "상장폐지",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 17:50:00 -0700",
-      "news": [
-        {
-          "title": "\"내일까지 1천 원 못 넘기면 퇴출\"... 코스닥 '동전주' 상장폐지 기로 [앵커리포트]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610212251248067"
-        },
-        {
-          "title": "정치 테마주로 4배 뛴 형지글로벌…지금은 상폐 기로에[급등주 지금은]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003838822"
-        },
-        {
-          "title": "주가 1000원 못 넘겨 ‘동전주 첫 상폐’ 수순",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/10/24/IWDPUSVYGVFA7OIAIPZUM55R6E/"
-        }
-      ]
-    },
-    {
-      "title": "올랜도 시티 대 뉴욕 시티",
-      "approx_traffic": "100+",
-      "published": "Sat, 24 Oct 2026 17:50:00 -0700",
-      "news": [
-        {
-          "title": "Orlando City SC vs. New York City FC - Game Highlights",
-          "source": "ESPN",
-          "url": "https://www.espn.com/video/clip/_/id/50272937/orlando-city-sc-vs-new-york-city-fc-game-highlights"
-        },
-        {
-          "title": "Jonathan Shore scores late in 2nd-half stoppage time to help NYCFC play Orlando City to 2-2 draw",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/newyork/news/nycfc-play-orlando-city-to-2-2-draw/"
-        },
-        {
-          "title": "🥈 Bullet header places Antoine Griezmann in MLS goalscoring pantheon",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bullet-header-places-antoine-griezmann-002800903.html"
         }
       ]
     }
