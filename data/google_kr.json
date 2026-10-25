@@ -1,11 +1,55 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T04:43:03+00:00",
+  "fetched_at": "2026-10-25T05:13:16+00:00",
   "items": [
     {
+      "title": "kia 대 삼성",
+      "approx_traffic": "100000+",
+      "published": "Sat, 24 Oct 2026 21:00:00 -0700",
+      "news": [
+        {
+          "title": "태풍 ‘참피’에 프로야구 플레이오프 1차전 취소…26일 재개",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694496"
+        },
+        {
+          "title": "[포토] 최형우 '제가 떠나도 잘하네요 KIA' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102513010010274"
+        },
+        {
+          "title": "프로야구 플레이오프 1차전 페덱 vs 네일 선발 투수 빅뱅",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023123700007"
+        }
+      ]
+    },
+    {
+      "title": "사고",
+      "approx_traffic": "2000+",
+      "published": "Sat, 24 Oct 2026 21:00:00 -0700",
+      "news": [
+        {
+          "title": "인천서 노루 잡으려다 밭일하던 할아버지 쏜 60대 남성 조사",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6860424_36918.html"
+        },
+        {
+          "title": "노루 잡으려다 밭일 80대 노인에 발포…엽총 사고로 1명 부상",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626023"
+        },
+        {
+          "title": "‘유해 야생 동물’ 고라니 잡으려다 밭일 하던 주민 다치게 한 60대 엽사…과실치상 혐의로 조사",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334954"
+        }
+      ]
+    },
+    {
       "title": "땅집고",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sat, 24 Oct 2026 20:40:00 -0700",
       "news": [
         {
@@ -27,7 +71,7 @@
     },
     {
       "title": "대나무",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sat, 24 Oct 2026 20:40:00 -0700",
       "news": [
         {
@@ -53,9 +97,9 @@
       "published": "Sat, 24 Oct 2026 20:20:00 -0700",
       "news": [
         {
-          "title": "Lions reliever eager for shot at revenge in KBO postseason",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20261025003200315"
+          "title": "Samsung Lions turn to Lee Seung-min as closer after Kim Jae-yoon injury",
+          "source": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/sports/samsung-lions-turn-to-lee-seungmin-as-closer-after-kim-jaeyoon-injury/12936627"
         },
         {
           "title": "Kim Jae-yoon injury sidelines closer despite 35-save season - CHOSUNBIZ",
@@ -63,9 +107,9 @@
           "url": "https://biz.chosun.com/en/en-sports/2026/10/25/FABU2LDEJJGCJK3MVTSC34C4YM/"
         },
         {
-          "title": "[Official] Major setback for Samsung! Closer with 35 saves 'finally' excluded from final roster, batting champion Gu Ja-wook joins dramatically... KIA confirms 30-man PO roster 'including Kim Do-young'",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/sports/2026/10/24/2026102417530081672"
+          "title": "Lions reliever eager for shot at revenge in KBO postseason",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20261025003200315"
         }
       ]
     },
@@ -93,7 +137,7 @@
     },
     {
       "title": "저수지",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sat, 24 Oct 2026 20:10:00 -0700",
       "news": [
         {
@@ -110,28 +154,6 @@
           "title": "가족과 저수지 낚시터 놀러왔다가 그만···초등생, 안성서 물에 빠져 숨져",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202610250850001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-        }
-      ]
-    },
-    {
-      "title": "플레이오프",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 20:10:00 -0700",
-      "news": [
-        {
-          "title": "태풍 ‘참피’에 프로야구 플레이오프 1차전 취소…26일 재개",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694496"
-        },
-        {
-          "title": "대구 적신 비…프로야구 PO 1차전 우천 취소 [뉴시스Pic]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261025_0003839989"
-        },
-        {
-          "title": "[포토] 박진만 감독 '구자욱을 믿습니다' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102511395157323"
         }
       ]
     },
@@ -163,9 +185,9 @@
       "published": "Sat, 24 Oct 2026 19:50:00 -0700",
       "news": [
         {
-          "title": "김연경 \"감독 다신 안해\"..시즌3 거부 의사 밝혔다(신인감독2)",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112897891"
+          "title": "김연경 “감독 다시 안 한다”…첫경기 만에 시즌3 거부 의사('신인감독 김연경')",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015177"
         },
         {
           "title": "황연주 터졌다... 김연경, 한일전 뼈아픈 패배 딛고 ‘소름 돋는 용병술’",
@@ -173,17 +195,22 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/10/24/GQ2GCYTFGIYDEYRWMY2GGYJUGA/"
         },
         {
-          "title": "김연경, 한일전 설욕 위해 승부수…황연주 교체 투입 통할까 (신인감독 김연경2)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261024/134901019/1"
+          "title": "감독 다신 안 해?! '신인감독 김연경2', 폭탄 발언에 '술렁'",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261025000027"
         }
       ]
     },
     {
       "title": "삼성 엑시노스",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sat, 24 Oct 2026 19:40:00 -0700",
       "news": [
+        {
+          "title": "삼성 ‘엑시노스 2700’, 내부 시험서 퀄컴 최신 AP 앞서…멀티코어 성능 약 20% 우위 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/it-science/ict/2026/10/25/LYNO7ACPWRECDA5UDZRHHMLA6E/"
+        },
         {
           "title": "삼성 '엑시노스 2700', 성능 시험서 퀄컴 최신칩 앞서",
           "source": "연합뉴스",
@@ -193,33 +220,6 @@
           "title": "엑시노스 2700, 차세대 스냅드래곤 앞섰다…갤럭시 탑재 확대 기대",
           "source": "스트레이트뉴스",
           "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313863"
-        },
-        {
-          "title": "삼성 ‘엑시노스 2700’, 내부 시험서 퀄컴 최신 AP 앞서…멀티코어 성능 약 20% 우위 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/10/25/LYNO7ACPWRECDA5UDZRHHMLA6E/"
-        }
-      ]
-    },
-    {
-      "title": "스포츠조선",
-      "approx_traffic": "1000+",
-      "published": "Sat, 24 Oct 2026 19:30:00 -0700",
-      "news": [
-        {
-          "title": "日 베스트셀러 작가 무라카미 류 별세",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/24/2LS3VUMCD5EDXLY5LI5LZ3IIII/"
-        },
-        {
-          "title": "일본 사회 불안과 욕망을 해부한 소설가 무라카미 류 별세",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610231622011"
-        },
-        {
-          "title": "일 작가 무라카미 류 별세...날카로운 사회 묘사 소설 집필",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610232121293757"
         }
       ]
     }
