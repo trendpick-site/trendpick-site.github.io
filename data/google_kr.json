@@ -1,13 +1,139 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T22:32:38+00:00",
+  "fetched_at": "2026-10-25T23:00:35+00:00",
   "items": [
     {
-      "title": "바르샤 레알",
+      "title": "บาร์ซา พบ เรอัลมาดริด",
       "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 14:20:00 -0700",
-      "news": []
+      "published": "Sun, 25 Oct 2026 14:50:00 -0700",
+      "news": [
+        {
+          "title": "[สตรมความคมชดสง (HD)] บารเซโลนา พบ เรอล มาดรด",
+          "source": "FC東京オフィシャルホームページ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9ib2thLyIvPjwva3JwYW5vPg==&id=video-hd-newtv-03"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! บาร์เซโลน่า vs เรอัล มาดริด Barcelona vs Real Madrid ถ่ายทอดสด 25 ตุลาคม 2569",
+          "source": "Fabryka Norblina",
+          "url": "https://fabrykanorblina.pl/wp-content/uploads/spacer/index.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-vs-barcelona-vs-real-madrid-lie-en-hijrkgv"
+        },
+        {
+          "title": "[ชมฟร] การแขงขนระหวาง บารเซโลนา พบ เรอล มาดรด",
+          "source": "FC東京オフィシャルホームページ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9ib2thLyIvPjwva3JwYW5vPg==&id=video-%E0%B8%8A%E0%B8%A1%E0%B8%9F%E0%B8%A3-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%82%E0%B8%87%E0%B8%82%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%87-%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8B%E0%B9%82%E0%B8%A5%E0%B8%99%E0%B8%B2-%E0%B8%9E%E0%B8%9A-%E0%B9%80%E0%B8%A3%E0%B8%AD%E0%B8%A5-%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%A3%E0%B8%94-newtv"
+        }
+      ]
+    },
+    {
+      "title": "lyon",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 14:50:00 -0700",
+      "news": [
+        {
+          "title": "Musetti – Fritz : heure, chaîne TV et analyse de la finale ATP 250 de Lyon",
+          "source": "Univers Tennis",
+          "url": "https://www.universtennis.com/2026/10/24/atp-250-lyon-musetti-fritz-une-finale-de-haut-niveau-pour-la-premiere-du-tournoi/"
+        },
+        {
+          "title": "Lorenzo Musetti, vainqueur du Grand Prix Auvergne-Rhône-Alpes : « L’un des meilleurs matches de ma carrière »",
+          "source": "Le Progrès",
+          "url": "https://www.leprogres.fr/sport/2026/10/25/lorenzo-musetti-l-un-des-meilleurs-matches-de-ma-carriere"
+        },
+        {
+          "title": "ATP - Lyon: Lorenzo Musetti : «J'ai disputé quelques-uns de mes meilleurs matchs",
+          "source": "Tennis Actu",
+          "url": "https://www.tennisactu.net/news-atp-lyon-lorenzo-musetti-j-ai-dispute-quelques-uns-de-mes-meilleurs-matchs-127838.html"
+        }
+      ]
+    },
+    {
+      "title": "天气",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 14:50:00 -0700",
+      "news": [
+        {
+          "title": "US south-west braces for more storms after enduring days of rain and flooding",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms"
+        },
+        {
+          "title": "More flooding possible in Four Corners region after days of heavy rain",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/weather/storms/flooding-possible-four-corners-region-days-heavy-rain-rcna605577"
+        },
+        {
+          "title": "Flash-flood threat continues in the Southwest, but outlook is improving",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/US/flash-flood-threat-continues-southwest-midwest-outlook-improving/story?id=137550606"
+        }
+      ]
+    },
+    {
+      "title": "이시영",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "이시영, 수영복 입고 수유…\"제일 중요한 일과\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261025_0003840220"
+        },
+        {
+          "title": "‘이혼’ 이시영, 전 남편 동의없이 임신한 둘째 딸 럭셔리 돌잔치…행복한 세 식구[핫피플] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/26/MQ2WKZTBG43DIY3DMY2TAZDBGA/"
+        },
+        {
+          "title": "이시영, 수영복 입고 딸 분유 수유…품에 안고 엄마 미소 [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6331182"
+        }
+      ]
+    },
+    {
+      "title": "lcs",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "BB to run alternative to SWIFT for local LCs",
+          "source": "New Age BD",
+          "url": "https://www.newagebd.net/post/banking/319567/bb-to-run-alternative-to-swift-for-local-lcs"
+        },
+        {
+          "title": "KC Canna on LEC teams’ chances: \"Reaching the semifinals or beyond is a realistic possibility\"",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/articles/kc-canna-reaching-the-semifinals-or-beyond-is-a-realistic-possibility/en"
+        },
+        {
+          "title": "TL Josedeodo On The Struggles Vs BLG: \"We Never Forced The Situations.\"",
+          "source": "Hotspawn",
+          "url": "https://www.hotspawn.com/league-of-legends/news/tl-josedeodo-worlds-2026-interview"
+        }
+      ]
+    },
+    {
+      "title": "barca",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "Partita di calcio in diretta: Barcellona 0-0 Real Madrid: Occhio per occhio (Primo tempo)",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/it/truc-tiep-bong-da-barca-0-0-real-madrid-an-mieng-tra-mieng-h1"
+        },
+        {
+          "title": "📸 Comiche al Clásico! Il Barça regala il vantaggio a Ginocchio-lian Mbappé",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/it/notizie/comiche-al-clasico-il-barca-regala-il-vantaggio-a-ginocchio-lian-mbappe-43671935"
+        },
+        {
+          "title": "E' la notte di Mbappé, un Clasico da Pallone d'Oro: stende il Barcellona, fa 100 con il Real Madrid e \"batte\" Benzema e Cristiano Ronaldo",
+          "source": "Calciomercato",
+          "url": "https://www.calciomercato.com/liste/e-la-notte-di-mbappe-un-clasico-da-pallone-d-oro-stende-il-barcellona-fa-100-con-il-real-madrid-e-batte-benzema-e-cristiano-ronaldo/bltdb9af1935e4d108c"
+        }
+      ]
     },
     {
       "title": "이다해",
@@ -89,116 +215,6 @@
           "title": "\"자리 탐하지 마라, 돈은 흘려 보내라… 충고하던 모습이 아직도 아른거려\"",
           "source": "조선일보",
           "url": "https://www.chosun.com/politics/politics_general/2026/10/26/FOA7C5U35VB2DIAHTC54Y4OG3A/"
-        }
-      ]
-    },
-    {
-      "title": "박서진",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 13:50:00 -0700",
-      "news": [
-        {
-          "title": "박서진, 발목 부상 숨기고 21km 마라톤 뛰었다..황영조도 감동한 '완주' ('살림남')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/GZSTMNDFMY4WIMJYHEYWMYZTGQ/"
-        },
-        {
-          "title": "박서진, 5개월 만에 6kg 감량…하프 마라톤 완주 후 “눈물 날 것 같아”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261025/134901756/1"
-        },
-        {
-          "title": "재하, ‘살림남’서 생애 첫 하프마라톤 도전해 놀라운 반전 드라마 연출",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610251445003"
-        }
-      ]
-    },
-    {
-      "title": "며느리",
-      "approx_traffic": "5000+",
-      "published": "Sun, 25 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "시母 백옥자, 며느리 장정윤 생일에 '다이아 목걸이' 플렉스…가격 보고 \"어머머머\" 찐한숨 ('광산김씨패밀리')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/MFRDEY3DGY3GMMTEMQ2TENRWGM/"
-        },
-        {
-          "title": "김승현 母, 며느리 생일 선물 사다 욕심 폭발…“나 이거 안 뺄래”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261025/134906061/1"
-        },
-        {
-          "title": "'김승현♥' 장정윤, 시母에 '다이아 목걸이' 선물 받고 감격..\"생각 못 해\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-25/202610250100158190010297"
-        }
-      ]
-    },
-    {
-      "title": "조규성",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "미트윌란 조규성, 3경기 만에 득점포..시즌 5호골",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6860621_36946.html"
-        },
-        {
-          "title": "조규성 왼발 터닝슛 미쳤다! 선제골 폭발→59분 뛰고 '평점 7.7' 맹활약... 미트윌란도 3-2 승리 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/26/2026102602001427047"
-        },
-        {
-          "title": "조규성, 3경기 만에 골맛…미트윌란, 개막 12경기 무패로 선두",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/overseas-soccer/6331251"
-        }
-      ]
-    },
-    {
-      "title": "hd현대",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "HD현대사이트솔루션, 무인굴착기 디지털 트윈 국책과제 선정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261025013200003"
-        },
-        {
-          "title": "HD현대사이트솔루션, AI 기반 무인굴착기 기술 개발 국책 과제 선정 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/10/25/2026102509321291509"
-        },
-        {
-          "title": "HD현대사이트솔루션, 63억 규모...무인굴착기 고도화 국책과제 추진",
-          "source": "경상일보",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070518"
-        }
-      ]
-    },
-    {
-      "title": "barcelona đấu với real madrid",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 13:30:00 -0700",
-      "news": [
-        {
-          "title": "Video bóng đá Barcelona - Real Madrid: Mbappe đánh sập Camp Nou (La Liga)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-barcelona-real-madrid-mbappe-hoa-ga-son-la-liga-c48a1805634.html"
-        },
-        {
-          "title": "Mbappe \"son bóng\" ghi bàn mở điểm El Clasico, Yamal vô duyên đến lạ",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/mbappe-son-bong-ghi-ban-mo-diem-el-clasico-yamal-vo-duyen-den-la-c48a1805627.html"
-        },
-        {
-          "title": "Mourinho ra tay, Real Madrid xuất sắc đánh bại Barca",
-          "source": "Báo VietNamNet",
-          "url": "https://vietnamnet.vn/ket-qua-bong-da-barca-vs-real-madrid-vong-10-la-liga-2568259.html"
         }
       ]
     }
