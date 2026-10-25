@@ -1,27 +1,115 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T10:05:49+00:00",
+  "fetched_at": "2026-10-25T10:36:09+00:00",
   "items": [
+    {
+      "title": "lig 디펜스&에어로스페이스",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 02:20:00 -0700",
+      "news": [
+        {
+          "title": "방사청, LIG D&A 방산업체 지정 취소 요청…무인기 대응 사업 수의계약도 막는다",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12324714"
+        },
+        {
+          "title": "방사청, LIG D&A 방산업체 지정 취소 검토 요청…소형무인기 양산 수의계약 제동",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=352940"
+        },
+        {
+          "title": "[단독] '방산 비리' LIG에 추가 제재‥'방산업체 지정 취소' 검토",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860474_37004.html"
+        }
+      ]
+    },
+    {
+      "title": "스테이블코인",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 02:20:00 -0700",
+      "news": [
+        {
+          "title": "원화 스테이블코인 도입론 뜨거운데…사업성은?",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1705470/%EC%9B%90%ED%99%94-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8-%EB%8F%84%EC%9E%85%EB%A1%A0-%EB%9C%A8%EA%B1%B0%EC%9A%B4%EB%8D%B0%EC%82%AC%EC%97%85-2026"
+        },
+        {
+          "title": "SC제일은행, PB 고객 대상 디지털자산·자산관리 전략 소개",
+          "source": "에너지경제신문",
+          "url": "https://www.ekn.kr/web/view.php?key=20261023022530467"
+        },
+        {
+          "title": "도이체방크 \"스테이블코인, 덩치싸움 끝…이젠 '금융 배관' 경쟁\"",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01348086645616528&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "title": "설거지",
+      "approx_traffic": "2000+",
+      "published": "Sun, 25 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "“청소비 냈는데 설거지에 쓰레기까지 치우라고?”…에어비앤비, 결국 규칙 바꿨다",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/international/2026/10/25/20261025500089"
+        },
+        {
+          "title": "돈 내고 숙박하는데 “빨래랑 설거지까지 하라고?”…집주인들 과한 요구에 에어비앤비 결국",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105438"
+        },
+        {
+          "title": "에어비앤비 “투숙객에 퇴실전 청소 요구 전면 금지”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261023/134895959/1"
+        }
+      ]
+    },
+    {
+      "title": "eng vs pak",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 02:00:00 -0700",
+      "news": [
+        {
+          "title": "Pakistan eyeing final, England need lift after Pindi capitulation",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-england-4th-match-1550716/match-preview"
+        },
+        {
+          "title": "“The Future Is With Minhas Brothers”: Bashaar Syed After Arafat Minhas’ Performance Against England",
+          "source": "Sportscape Magazine",
+          "url": "https://www.sportscapemagazine.com/blog/the-future-is-with-minhas-brothers-bashaar-syed-after-arafat-minhas-performance-against-england"
+        },
+        {
+          "title": "Pakistan vs England, PAK vs ENG, ODI Tri-Series Live Score",
+          "source": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/pakistan-vs-england-pak-vs-eng-live-score-odi-tri-series-commentary-gaddafi-stadium-lahore/liveblog/135186803.cms"
+        }
+      ]
+    },
     {
       "title": "택시",
       "approx_traffic": "1000+",
       "published": "Sun, 25 Oct 2026 01:50:00 -0700",
       "news": [
         {
-          "title": "12시간 운전해도 월 200만원…대구 택시업계 짓누르는 ‘빈차’ 공포",
-          "source": "영남일보",
-          "url": "https://www.yeongnam.com/web/view.php?key=20261024022594665"
-        },
-        {
-          "title": "[현장] “기차 오면 줄이 끝이 없어요”…전주역 택시 대기 ‘언제까지’",
-          "source": "전북일보 인터넷신문",
-          "url": "https://www.jjan.kr/article/20261024500009"
-        },
-        {
           "title": "택시 사고 줄었는데 …'아車車!' 고령 기사 사고율은 치솟아",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/news/society/12185211"
+        },
+        {
+          "title": "택시 타면 기사 절반은 65세 이상…대구·경북 40세 미만은 0.7%",
+          "source": "경북일보",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088420"
+        },
+        {
+          "title": "전국 택시 기사 절반이 65세 이상…고령 버스 기사도 5년 새 62% 증가",
+          "source": "부산일보",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026102010265124291"
         }
       ]
     },
@@ -71,7 +159,7 @@
     },
     {
       "title": "록히드 마틴 f-35 라이트닝 ii",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sun, 25 Oct 2026 01:40:00 -0700",
       "news": [
         {
@@ -105,11 +193,6 @@
           "title": "에드워드 권 ‘랩24 바이 쿠무다’, 라리스트 2027 선정…9년 연속 세계 1000대 레스토랑 등재",
           "source": "BNT뉴스",
           "url": "https://www.bntnews.co.kr/article/view/bnt202610210215"
-        },
-        {
-          "title": "‘쌍별 셰프’ 손종원, 신세계그룹 임원 됐다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610232100001"
         }
       ]
     },
@@ -132,94 +215,6 @@
           "title": "일본에서 7도 지진 발생, 진앙 깊이 수백 km",
           "source": "Laodong.vn",
           "url": "https://ko.laodong.vn/the-gioi/dong-dat-7-do-rung-chuyen-tai-nhat-ban-tam-chan-sau-hang-tram-km-1788878.ldo"
-        }
-      ]
-    },
-    {
-      "title": "투자",
-      "approx_traffic": "10000+",
-      "published": "Sun, 25 Oct 2026 01:20:00 -0700",
-      "news": [
-        {
-          "title": "솔리다임 IPO 중단 파장...주주 보호 VS 투자 딜레마 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/25/2026102514593855645"
-        },
-        {
-          "title": "“하닉 손실 중이시죠?” 보유 개미 74%의 공통점",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625852"
-        },
-        {
-          "title": "[마켓인사이트] 솔리다임 상장중단에 반전한 코스피…금주 향방은",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024024500008"
-        }
-      ]
-    },
-    {
-      "title": "훈련기",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 01:20:00 -0700",
-      "news": [
-        {
-          "title": "공중서 ‘쾅’…군용기 2대 충돌, 조종사 4명 전원 사망[아하필리핀]",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625928"
-        },
-        {
-          "title": "[영상] 필리핀 공군기 2대, 훈련 중 공중 충돌…\"조종사 전원 사망\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20261025005700704"
-        },
-        {
-          "title": "필리핀 공군 훈련기 2대 공중 충돌…조종사 4명 사망",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694311"
-        }
-      ]
-    },
-    {
-      "title": "sk하이닉스",
-      "approx_traffic": "5000+",
-      "published": "Sun, 25 Oct 2026 01:10:00 -0700",
-      "news": [
-        {
-          "title": "180조원대 이익도 ‘예고된 호실적’…삼전·닉스, 시장에 ‘감동’ 줄까",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/10/25/2UHGWQHXAFADJADFNNWMTZHZKA/"
-        },
-        {
-          "title": "삼전닉스, 이번주 반등의 시간 올까 [한경 프리미엄9 TODAY]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102535061"
-        },
-        {
-          "title": "'삼전닉스' 3분기 확정실적 185조 원 예상...이번주 '슈퍼위크'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610251246009898"
-        }
-      ]
-    },
-    {
-      "title": "성남 fc 대 수원 삼성 블루윙즈 순위",
-      "approx_traffic": "5000+",
-      "published": "Sun, 25 Oct 2026 01:10:00 -0700",
-      "news": [
-        {
-          "title": "K리그2 수원, 성남 꺾고 구단 신기록 7연승…1부 복귀 성큼",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261025580288"
-        },
-        {
-          "title": "K리그2 수원 삼성, 1부 리그 승격 눈 앞",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038777"
-        },
-        {
-          "title": "'역사적 7연승'에도 냉철한 이정효 감독 \"K리그2 기록 무의미 해... 오직 승격만 목표\" [성남 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102512422336347"
         }
       ]
     }
