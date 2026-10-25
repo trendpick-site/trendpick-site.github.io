@@ -1,8 +1,168 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T08:37:10+00:00",
+  "fetched_at": "2026-10-25T09:07:05+00:00",
   "items": [
+    {
+      "title": "최준희",
+      "approx_traffic": "2000+",
+      "published": "Sun, 25 Oct 2026 01:00:00 -0700",
+      "news": [
+        {
+          "title": "최준희, 결혼 후 故 최진실 묘소 방문…엄마 따라 ‘턱 괴기’ 뭉클",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610251358003"
+        },
+        {
+          "title": "결혼 5개월 최준희, 결국 엄마에게 갔다…故최진실 묘 앞 “힘 받으러”",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1643950"
+        },
+        {
+          "title": "\"힘 받으러\" 최준희, 故최진실 묘소 찾아 건넨 소주 한 병",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-25/202610250100155600010168"
+        }
+      ]
+    },
+    {
+      "title": "충북청주 대 용인fc",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 01:00:00 -0700",
+      "news": []
+    },
+    {
+      "title": "유죄",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 00:50:00 -0700",
+      "news": [
+        {
+          "title": "대법 \"음주 측정 전 입 헹굴 물 안 주면 유죄 증거 못 써\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6860522_36918.html"
+        },
+        {
+          "title": "대법원 “입 헹굼 물 안 주고 음주 측정하면, 유죄 증거로 못써”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610251127001"
+        },
+        {
+          "title": "\"'입 헹굼 물' 안 준 음주측정 무효\"...대법, 파기환송",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610251006257854_005.html"
+        }
+      ]
+    },
+    {
+      "title": "pak vs eng",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 00:50:00 -0700",
+      "news": [
+        {
+          "title": "Pakistan eyeing final, England need lift after Pindi capitulation",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-england-4th-match-1550716/match-preview"
+        },
+        {
+          "title": "Pakistan vs England: Sloppy visitors floored by Arafat Minhas in Rawalpindi",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/cricket/articles/c962ylv3l334o"
+        },
+        {
+          "title": "“The Future Is With Minhas Brothers”: Bashaar Syed After Arafat Minhas’ Performance Against England",
+          "source": "Sportscape Magazine",
+          "url": "https://www.sportscapemagazine.com/blog/the-future-is-with-minhas-brothers-bashaar-syed-after-arafat-minhas-performance-against-england"
+        }
+      ]
+    },
+    {
+      "title": "이현중",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 00:50:00 -0700",
+      "news": [
+        {
+          "title": "'한국농구 에이스' 이현중, NBA 도전 위해 출국",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20261024014800038"
+        },
+        {
+          "title": "[스포츠 영상] 이현중, 미국 포틀랜드로 출국‥\"26일부터 G리그 합류\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860484_37004.html"
+        },
+        {
+          "title": "'NBA 도전' 이현중 \"처절하게 부딪히겠습니다\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813246"
+        }
+      ]
+    },
+    {
+      "title": "태풍 참피(태풍 30호)",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 00:40:00 -0700",
+      "news": [
+        {
+          "title": "참피 대만 앞 '한 바퀴 회전'‥'커진 피해' 日 할퀴고 북진",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6860541_36925.html"
+        },
+        {
+          "title": "[내일 날씨] 태풍 '참피' 영향에 제주·남부 비…일교차 10도 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/25/2026102517301588913"
+        },
+        {
+          "title": "남해 바깥먼바다도 ’태풍경보’…역대 가장 늦은 태풍",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261025154537EDO"
+        }
+      ]
+    },
+    {
+      "title": "군대",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 00:40:00 -0700",
+      "news": [
+        {
+          "title": "군 상관에 \"X패고싶다\" 했다가 1계급 강등…법원 \"과도한 징계\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024045500004"
+        },
+        {
+          "title": "軍상관에 “X 패고 싶다” 했다가 1계급 강등…法 “과도한 징계”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261025/134904546/2"
+        },
+        {
+          "title": "군 상관에 모욕적 발언으로 강등...\"과도한 징계\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610251057210971"
+        }
+      ]
+    },
+    {
+      "title": "서초구",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 00:40:00 -0700",
+      "news": [
+        {
+          "title": "\"같은 아파트인데 18억 차이\"…재건축초과이익 부담금에 시장 혼란",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261025105809uCs"
+        },
+        {
+          "title": "유예 끝났다, 재초환 강행… 서초구 연내 징수에 같은 84㎡ ‘18억 격차’ 기현상",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261025503562"
+        },
+        {
+          "title": "\"국평 50억은 거뜬\" 이촌 한강맨션 변수, 재초환 부담금만 6억대",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/10/23/2026102301775.html"
+        }
+      ]
+    },
     {
       "title": "차",
       "approx_traffic": "1000+",
@@ -26,50 +186,6 @@
       ]
     },
     {
-      "title": "이동욱",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 00:00:00 -0700",
-      "news": [
-        {
-          "title": "배우 이동욱, ‘맥캘란 셰리 저니 익스피리언스’ 팝업 방문…셰리 캐스크 여정 체험",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610220755028"
-        },
-        {
-          "title": "이동욱, 셰리 저니 팝업서 댄디한 블랙 수트…위스키 체험 행보",
-          "source": "TopStarNews",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16255237"
-        },
-        {
-          "title": "“원액 그대로의 묵직한 타격감”… 롯데백화점, ‘맥캘란 110 프루프’ 팝업 개장",
-          "source": "지이코노미",
-          "url": "https://www.geconomy.co.kr/news/article.html?no=324629"
-        }
-      ]
-    },
-    {
-      "title": "부산항 국제여객터미널",
-      "approx_traffic": "5000+",
-      "published": "Sun, 25 Oct 2026 00:00:00 -0700",
-      "news": [
-        {
-          "title": "‘부캉이 사라진 날’ 부산 북항 기름 띠 범인 잡아…미신고 유조선 적발",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12324733"
-        },
-        {
-          "title": "상어 '부캉이' 이틀째 부산항 여객터미널에서 관찰",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202610251518020150"
-        },
-        {
-          "title": "[소셜＋] \"부캉이 자기결정권 보장하라\"…'무료 아쿠아리움'서 청원까지",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023135600505"
-        }
-      ]
-    },
-    {
       "title": "전영현",
       "approx_traffic": "500+",
       "published": "Sun, 25 Oct 2026 00:00:00 -0700",
@@ -88,138 +204,6 @@
           "title": "[정해균의 Zoom-人] ‘각양강색’ 전문경영인 부회장...사업 총괄부터 회장 보좌까지",
           "source": "뉴스인사이드",
           "url": "https://www.newsinside.kr/news/articleView.html?idxno=5031215"
-        }
-      ]
-    },
-    {
-      "title": "mlb",
-      "approx_traffic": "1000+",
-      "published": "Sun, 25 Oct 2026 00:00:00 -0700",
-      "news": [
-        {
-          "title": "Japanese National Team Manager Voices Concerns Over Tetsuaki Sato's MLB Posting",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/10/25/UKP2VJTVWJAJHM5LRDXRX4R3CA/"
-        },
-        {
-          "title": "NPB MVP, Triple Crown winner Sato to enter MLB posting system",
-          "source": "MLB.com",
-          "url": "https://www.mlb.com/news/teruaki-sato-mlb-posting-system"
-        },
-        {
-          "title": "Baseball: Hanshin's Triple Crown winner Sato to be posted for MLB move",
-          "source": "Japan Wire by Kyodo News",
-          "url": "https://english.kyodonews.net/articles/-/88703"
-        }
-      ]
-    },
-    {
-      "title": "중고",
-      "approx_traffic": "2000+",
-      "published": "Sat, 24 Oct 2026 23:30:00 -0700",
-      "news": [
-        {
-          "title": "시댁에 준 선물, 반값에 중고 거래 등장…판매자 알고 보니 '형님네'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6330113"
-        },
-        {
-          "title": "\"친정이 시댁에 보낸 선물, 당근에 반값으로\"…판매자 알고 보니 '형님네'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261025_0003839785"
-        },
-        {
-          "title": "“친정서 매번 정성 들여 시댁에 준 선물들이 반값 중고 거래... 판매자 알고 소름 돋았다”",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1168918"
-        }
-      ]
-    },
-    {
-      "title": "인기가요",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 23:30:00 -0700",
-      "news": [
-        {
-          "title": "“많이 드세요”…이수만, A2O LITE 성공에 고깃집서 ‘골든벨’ 울렸다",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261023505163"
-        },
-        {
-          "title": "“이수만! 이수만!” 고깃집서 골든벨 울렸다…팔찌도 선물",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610251616001"
-        },
-        {
-          "title": "너도나도 만드는 'AI 영상'‥웃고 넘겨도 될까",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860476_37004.html"
-        }
-      ]
-    },
-    {
-      "title": "염소",
-      "approx_traffic": "200+",
-      "published": "Sat, 24 Oct 2026 23:20:00 -0700",
-      "news": [
-        {
-          "title": "일본 도심에 나타난 염소 두 마리…제초 작업 임무 부여",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261025/134902338/1"
-        },
-        {
-          "title": "일본 도심 한복판에 웬 염소 두 마리…’특별한 임무’ 뭐길래",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261023165330PvP"
-        },
-        {
-          "title": "도쿄 요쓰야역 공터에 염소 투입…친환경 제초 작업 : 중국/일본",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1048067"
-        }
-      ]
-    },
-    {
-      "title": "kbo리그",
-      "approx_traffic": "5000+",
-      "published": "Sat, 24 Oct 2026 23:00:00 -0700",
-      "news": [
-        {
-          "title": "KIA 때문에 KBO 9개 구단 바빠졌다… 명단 한번 화려하네, ‘방출 신화’로 KIA 겨눌까",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015158"
-        },
-        {
-          "title": "연봉 6억5000만원 받았는데, 고작 4이닝 던지고 방출…왜 15억 옵트 아웃 대모험 선택했었나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/24/202610232010776941O"
-        },
-        {
-          "title": "[오피셜] ‘1년 최대 7억’ 이렇게 끝날 줄이야…6년 만에 친정 유니폼 입은 홍건희, 3경기 등판→부상→끝내 방출",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553639957"
-        }
-      ]
-    },
-    {
-      "title": "정준하",
-      "approx_traffic": "1000+",
-      "published": "Sat, 24 Oct 2026 22:50:00 -0700",
-      "news": [
-        {
-          "title": "정준하, 7500원 아이스크림 가격 논란에…\"美 본사가 정한 가격\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261024_0003839696"
-        },
-        {
-          "title": "‘놀면 뭐하니?’ 유재석·정준하, 주우재·곽범에 발끈…‘먹쪄 모임’ 뒤집은 막내들의 반란",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845185"
-        },
-        {
-          "title": "2054 시청률 土 예능 1위 '놀뭐?' 정준하, 자작시 '가을 전어'로 초토화",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522377"
         }
       ]
     }
