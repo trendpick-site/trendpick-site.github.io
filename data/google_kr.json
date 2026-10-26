@@ -1,8 +1,184 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-25T23:57:44+00:00",
+  "fetched_at": "2026-10-26T00:59:31+00:00",
   "items": [
+    {
+      "title": "네이버",
+      "approx_traffic": "50000+",
+      "published": "Sun, 25 Oct 2026 16:40:00 -0700",
+      "news": [
+        {
+          "title": "인스파이어 아레나, '네이버 아레나'로 바뀐다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003840401"
+        },
+        {
+          "title": "'인스파이어 아레나'→'네이버 아레나 앳 인스파이어' 명명권 계약 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/10/26/2026102608095071676"
+        },
+        {
+          "title": "인스파이어 아레나, 12월부터 ‘네이버 아레나’로⋯네이버 결제·AR 기술 접목",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261026500098"
+        }
+      ]
+    },
+    {
+      "title": "조선일보",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 16:40:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 한미 관계, 민간까지 삐걱… 4명 중 1명 비자 거부 당해",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/politics_general/2026/10/26/VHVX3YKCFZGNFLNLOTOQPIUILQ/"
+        },
+        {
+          "title": "[천지일보 여론조사] 국민 58.7% “한미관계·안보 악영향 우려”… 43.6% “매우 우려”",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3441958"
+        },
+        {
+          "title": "이낙연 “이재명 정부 이런 동맹파열 처음…美 정청래 비자 허용→거부 등 보라”",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12089689"
+        }
+      ]
+    },
+    {
+      "title": "다음",
+      "approx_traffic": "10000+",
+      "published": "Sun, 25 Oct 2026 16:30:00 -0700",
+      "news": [
+        {
+          "title": "“삼전닉스 다음은 여기” ‘시총 3위’ 후보 나왔다…증권사가 뽑은 내년 주도주 4곳",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105750"
+        },
+        {
+          "title": "하나證 \"삼전닉스, 내년 1분기까지 코스피 반등 주도할 것\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/general-stock/6331383"
+        },
+        {
+          "title": "[동아광장/유재동]미리 쓰는 2026년 코스피 징비록",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261020/134878450/2"
+        }
+      ]
+    },
+    {
+      "title": "brazil election 2026",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 16:30:00 -0700",
+      "news": [
+        {
+          "title": "Brazil Election Live Updates: Lula Wins Re-Election, Fending Off Flávio Bolsonaro",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election"
+        },
+        {
+          "title": "Brazil's Lula wins presidential election in runoff vote",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"
+        },
+        {
+          "title": "The Left’s Last Great Survivor is Running Out of Road",
+          "source": "Politico",
+          "url": "https://www.politico.com/news/magazine/2026/10/25/lula-left-last-great-survivor-brazil-election-bolsonaro-01134543"
+        }
+      ]
+    },
+    {
+      "title": "구광모",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 16:30:00 -0700",
+      "news": [
+        {
+          "title": "[2027 산업] 반도체만 웃는다…불확실성 증폭에 업종기상도 '극과 극'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023166400003"
+        },
+        {
+          "title": "[2027 산업] 내년 사업계획 시동…AI '성과내기'·중국과는 생존경쟁",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1180595"
+        },
+        {
+          "title": "내년 산업별 희비 교차… 반도체 웃고 車·조선·석화는 부담",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3442916"
+        }
+      ]
+    },
+    {
+      "title": "폭죽",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 16:20:00 -0700",
+      "news": [
+        {
+          "title": "“아버지 향해 쏴”…강릉 해변서 남성들 쏜 폭죽에 父 화상 ‘분통’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261025/134902406/1"
+        },
+        {
+          "title": "폭죽을 하늘에 안 쏘고...\"아버지 화상입었다\", 무슨 일이 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/25/2026102519233978243"
+        },
+        {
+          "title": "\"아버지 손에 화상까지\"…강릉 해변서 폭죽 쏜 남성들에 '날벼락'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261025_0003840088"
+        }
+      ]
+    },
+    {
+      "title": "오클라호마시티 대 la 클리퍼스",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 16:10:00 -0700",
+      "news": [
+        {
+          "title": "Cason Wallace injury update: OKC Thunder guard exits early vs Clippers",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/cason-wallace-injury-okc-thunder-232851652.html"
+        },
+        {
+          "title": "Jaylin Williams (wrist) will not return Sunday",
+          "source": "NBC Sports",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-25/jaylin-williams-wrist-will-not-return-sunday"
+        },
+        {
+          "title": "Cason Wallace Injury: Won't return Sunday",
+          "source": "RotoWire",
+          "url": "https://www.rotowire.com/basketball/headlines/cason-wallace-injury-wont-return-sunday-536060"
+        }
+      ]
+    },
+    {
+      "title": "치매",
+      "approx_traffic": "1000+",
+      "published": "Sun, 25 Oct 2026 16:00:00 -0700",
+      "news": [
+        {
+          "title": "구로구, 'G-브로' 야간 실종 모의훈련 실시...지역사회 안전망 강화",
+          "source": "한국미디어뉴스",
+          "url": "https://www.kitvnews.co.kr/news/article.html?no=1680469"
+        },
+        {
+          "title": "오산시 대원1동, 치매안심센터와 건강캠페인·치매선별검사 실시",
+          "source": "경기중앙신문",
+          "url": "https://www.ggjapp.com/news/articleView.html?idxno=242487"
+        },
+        {
+          "title": "스마트태그로 지키는 어르신의 안전",
+          "source": "광주타임즈",
+          "url": "https://www.gjtnews.com/news/articleView.html?idxno=434082"
+        }
+      ]
+    },
     {
       "title": "thứ hạng của barcelona gặp real madrid",
       "approx_traffic": "500+",
@@ -14,191 +190,36 @@
           "url": "https://lifestyle.zingnews.vn/cu-soc-cho-real-madrid-o-el-clasico-post1691988.html"
         },
         {
-          "title": "5 yếu tố định đoạt trận Siêu kinh điển giữa Barcelona và Real Madrid",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/5-yeu-to-dinh-doat-tran-sieu-kinh-dien-giua-barcelona-va-real-madrid-c48a1805392.html"
-        },
-        {
           "title": "پخش زنده بارسلونا - رئال مادرید: بارسلونا مالکیت توپ را در اختیار دارد، هنوز گلی به ثمر نرسانده است.",
           "source": "Vietnam.vn",
           "url": "https://www.vietnam.vn/fa/truc-tieptruc-tiep-barcelona-vs-real-madrid-barcelona-chiem-uu-the-kiem-soat-bong-chua-co-ban-thang"
+        },
+        {
+          "title": "Mourinho bẻ gãy hệ thống chiến thuật của Barcelona như thế nào?",
+          "source": "bongda.com.vn",
+          "url": "https://bongda.com.vn/mourinho-be-gay-he-thong-chien-thuat-cua-barcelona-nhu-the-nao-d852529.html"
         }
       ]
     },
     {
       "title": "барселона – реал мадрид турнирная таблица",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sun, 25 Oct 2026 15:50:00 -0700",
       "news": [
+        {
+          "title": "Сенсационная победа «Реала» в «класико»! Уложили «Барсу» на её поле дублем Мбаппе",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/article-6672630-barselona-real-madrid-1-2-obzor-matcha-10-go-tura-la-ligi-goly-mbappe-rafinya-statistika-25-oktyabrya-2026.html"
+        },
         {
           "title": "Дубль Мбаппе принес «Реалу» победу над «Барселоной» в матче чемпионата Испании",
           "source": "Спорт Mail",
           "url": "https://sportmail.ru/news/football-foreign/72853558/"
         },
         {
-          "title": "Фото: эмоциональная реакция Моуринью на победный гол Мбаппе в матче «Реала» с «Барселоной»",
-          "source": "https://www.championat.ru/",
-          "url": "https://www.championat.ru/football/news-6672654-foto-emocionalnaya-reakciya-mourinyu-na-pobednyj-gol-mbappe-v-matche-reala-s-barselonoj.html"
-        },
-        {
-          "title": "Дубль Мбаппе принес \"Реалу\" победу над \"Барселоной\" в первом Эль-Класико сезона",
-          "source": "NUR.KZ",
-          "url": "https://www.nur.kz/sport/football/2447709-dubl-mbappe-prines-realu-pobedu-nad-barselonoy-v-pervom-el-klasiko-sezona/"
-        }
-      ]
-    },
-    {
-      "title": "김연경",
-      "approx_traffic": "2000+",
-      "published": "Sun, 25 Oct 2026 15:50:00 -0700",
-      "news": [
-        {
-          "title": "김연경 \"감독 다신 안해\"..시즌3 거부 의사 밝혔다(신인감독2)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/GRRWGNTGG4YDGZRQGA3DMZBVG4/"
-        },
-        {
-          "title": "'신인감독' 백채림, 시즌2 지원 이유 \"슈지츠에 꼭 복수하고 싶었다\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898094"
-        },
-        {
-          "title": "\"감독 다시는 안 해\"...김연경, 역전승에도 '신인감독3' 거부 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/26/2026102605235278223"
-        }
-      ]
-    },
-    {
-      "title": "열병합발전소",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 15:40:00 -0700",
-      "news": [
-        {
-          "title": "[단독] 전력 부족한데…열병합발전, 낙찰 받고도 2년째 착공 못해",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102535691"
-        },
-        {
-          "title": "[단독] 전력 수요 느는데…낙찰된 LNG 열병합발전소 2년째 삽도 못 떠",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610217102i"
-        }
-      ]
-    },
-    {
-      "title": "베트남",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 15:40:00 -0700",
-      "news": [
-        {
-          "title": "롯데, 베트남 하노이 5개 명문대 찾아 인재 채용설명회",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610251455001"
-        },
-        {
-          "title": "롯데, 베트남 명문대 캠퍼스 리쿠르팅 진행...\"취업준비생 3천여 명 몰려\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610251131383983"
-        },
-        {
-          "title": "베트남 명문대생 3000명 줄 섰다…\"한국 회사 갈래요\" 열풍 [권용훈의 트렌드워치]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610253064i"
-        }
-      ]
-    },
-    {
-      "title": "이건희",
-      "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 15:40:00 -0700",
-      "news": [
-        {
-          "title": "젠슨 황·박세리 30년 후를 본 故 이건희 회장...삼성의 미래는 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/opinion/2026/10/25/2026102506442386466"
-        },
-        {
-          "title": "반도체 넘어 예술·의료지원까지...이건희 유산 재조명",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610250531313443"
-        },
-        {
-          "title": "고 이건희 선대회장 6주기 추도식…경영진 집결",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20261024001900038"
-        }
-      ]
-    },
-    {
-      "title": "klasemen fc barcelona vs real madrid",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 15:30:00 -0700",
-      "news": []
-    },
-    {
-      "title": "롯데백화점",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 15:30:00 -0700",
-      "news": [
-        {
-          "title": "롯데百, 잠실점 3천400평 식품관 10년 만에 전면 개편",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1180795"
-        },
-        {
-          "title": "\"럭셔리 미식 랜드마크를 잠실에\" 롯데百 잠실점, 식품관 새단장 착수",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261025_0003840154"
-        },
-        {
-          "title": "롯데백화점 잠실점, 본관 식품관 재편 착수…2028년 3400평 규모 완성",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202610260806324561204ead0791_12"
-        }
-      ]
-    },
-    {
-      "title": "부동산",
-      "approx_traffic": "5000+",
-      "published": "Sun, 25 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026010200011"
-        },
-        {
-          "title": "6억9341만원 vs 239만원···자산 상·하위 20% 집값 격차 290배 ‘최대’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610260805001"
-        },
-        {
-          "title": "하위 20% ‘239만원’ vs 상위 20% ‘6억9천341만원’… 집값 290배 격차",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261026580001"
-        }
-      ]
-    },
-    {
-      "title": "젠지",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "[롤드컵] '오브젝트 꽁꽁 묶인' 젠지, 라이온과 스위스 3R 서전 완패",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898130"
-        },
-        {
-          "title": "[롤드컵] '3년의 악몽 극복' DK, MKOI 완파하고 스위스 스테이지 첫 8강行(종합)",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898126"
-        },
-        {
-          "title": "[롤드컵] 젠지·디플러스 기아, LCK 내전 승리로 8강행 성큼…한화생명·T1도 반격 노린다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/10/25/GYYTSMDBMMZDMZTDMUZTIM3EMQ/"
+          "title": "Ханси Флик объяснил поражение «Барселоны» от «Реала»",
+          "source": "Sports.kz",
+          "url": "https://www.sports.kz/news/hansi-flik-obyyasnil-porajenie-barselonyi-ot-reala"
         }
       ]
     }
