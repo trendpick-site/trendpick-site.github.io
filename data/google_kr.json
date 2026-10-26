@@ -1,8 +1,96 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T17:22:42+00:00",
+  "fetched_at": "2026-10-26T18:15:09+00:00",
   "items": [
+    {
+      "title": "라이엇게임즈",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 10:10:00 -0700",
+      "news": [
+        {
+          "title": "게임·음악·굿즈…‘LoL 세상’ 열린다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610252053045"
+        },
+        {
+          "title": "롯데백화점, 롤 팝업스토어 연다…'페이커' 기념우표도 판매",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261025113104"
+        },
+        {
+          "title": "[라이엇 스토어] Riot Games Music & Worlds 26 Popup Store에서 라이엇 스토어를 만나보세요!",
+          "source": "League of Legends",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/merch/riot-games-music-worlds-2026-popup-store/"
+        }
+      ]
+    },
+    {
+      "title": "t1",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 10:00:00 -0700",
+      "news": [
+        {
+          "title": "[롤드컵]젠지·DK 8강 직행…T1은 1승 남아, 한화생명 벼랑 끝",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003841430"
+        },
+        {
+          "title": "[롤드컵] '성난' 젠지, 오브젝트 독식하며 라이온에 2세트 반격...1-1 원점",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112898133"
+        },
+        {
+          "title": "[오!쎈 인터뷰] '지도자로 첫 월즈' 젠지 류상욱 감독, \"목표 오직 롤드컵 우승, 이상적인 팀 만들 것\"",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261025022933126"
+        }
+      ]
+    },
+    {
+      "title": "cfo",
+      "approx_traffic": "1000+",
+      "published": "Mon, 26 Oct 2026 09:40:00 -0700",
+      "news": [
+        {
+          "title": "FedEx appoints Jamere Jackson as chief financial officer By Reuters",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/fedex-appoints-jamere-jackson-as-chief-financial-officer-4972213"
+        },
+        {
+          "title": "FedEx taps AutoZone executive to be finance chief",
+          "source": "FreightWaves",
+          "url": "https://www.freightwaves.com/news/fedex-taps-autozone-executive-to-be-finance-chief"
+        },
+        {
+          "title": "FedEx names new Executive VP, CFO",
+          "source": "FOX13 Memphis",
+          "url": "https://www.fox13memphis.com/news/fedex-names-new-executive-vp-cfo/article_f420568d-c288-4916-9c65-f51722253194.html"
+        }
+      ]
+    },
+    {
+      "title": "학습",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 09:30:00 -0700",
+      "news": [
+        {
+          "title": "남양주시 유튜브 학습동아리 ‘N크레인’, 전국 평생학습 경연 최우수상",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719765"
+        },
+        {
+          "title": "군산시, 대한민국 평생학습도시 '좋은 정책상' 수상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20261026002500353"
+        },
+        {
+          "title": "‘배우고 성장하는 장성군’ 힘찬 출발!",
+          "source": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799282"
+        }
+      ]
+    },
     {
       "title": "블리치",
       "approx_traffic": "200+",
@@ -19,9 +107,9 @@
           "url": "https://hypebeast.com/2026/10/tite-kubo-bleach-hypebeast-magazine-issue-38-cover-story"
         },
         {
-          "title": "Bleach: Thousand-Year Blood War Finale Synopsis Reveals a Ten-Year Time Skip and a New Threat",
-          "source": "IGN India",
-          "url": "https://in.ign.com/bleach-thousand-year-blood-war/275311/bleach-thousand-year-blood-war-finale-synopsis-reveals-a-ten-year-time-skip-and-a-new-threat"
+          "title": "Bleach Anime Concludes After 22 Years with Special Ending Video",
+          "source": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/news/latest/2026/10/26/bleach-anime-concludes-after-22-years-with-special-ending-video"
         }
       ]
     },
@@ -31,19 +119,19 @@
       "published": "Mon, 26 Oct 2026 08:10:00 -0700",
       "news": [
         {
-          "title": "Preview: Besiktas vs Istanbul Basaksehir - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/besiktas/preview/besiktas-vs-istanbul-prediction-team-news-lineups_607618.html"
+          "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl"
         },
         {
-          "title": "ω [WATCHLIvE]HQ !] Beşiktaş vs Başakşehir LIVE FREE: Online Turkish Super Lig 26 october 2026",
-          "source": "小豆島町",
-          "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9qYWwvIi8+PC9rcnBhbm8+&id=video-watchlive-hq-besiktas-vs-basaksehir-live-free-onli-pro-tv"
+          "title": "Reports: Three killed, including girl, in IDF strike in southern Gaza",
+          "source": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/reports-three-killed-including-girl-in-idf-strike-in-southern-gaza/"
         },
         {
-          "title": "Beşiktaş vs Istanbul prediction: expert analysis, possible lineups, October 26, 2026",
-          "source": "RatingBet",
-          "url": "https://ratingbet.com/predictions/besiktas-vs-istanbul-prediction-expert-analysis-possible-lineups-october-26-2026/"
+          "title": "Reports: Israeli Strikes Kill Eight, Including Child, in Gaza Strip",
+          "source": "Haaretz",
+          "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
         }
       ]
     },
@@ -55,7 +143,7 @@
         {
           "title": "[이슈K] 보호막 뚫린 관계성 범죄…피해자 안전망, 어디에",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695447"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695447"
         },
         {
           "title": "김남희 “교제 폭력, 살인 전 막아야”…스토킹처벌법 개정 촉구",
@@ -70,8 +158,30 @@
       ]
     },
     {
+      "title": "손아섭",
+      "approx_traffic": "2000+",
+      "published": "Mon, 26 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "NC 우승 이끈 이동욱, 친정 롯데 사령탑으로… 단장엔 이택근",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/26/JISKW5I2JJCMJJJFBCSUXEBHWA/"
+        },
+        {
+          "title": "프로야구 롯데, 이동욱 감독·이택근 단장 동시 선임",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610262335182859"
+        },
+        {
+          "title": "똑똑한 ‘데이터 야구’와 수비 강화…개혁의 칼 뽑은 롯데",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261027.22014007453"
+        }
+      ]
+    },
+    {
       "title": "마린 칠리치",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 26 Oct 2026 07:30:00 -0700",
       "news": [
         {
@@ -102,124 +212,14 @@
           "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"
         },
         {
+          "title": "Apple Debuts $699 Water-Resistant iPad Mini With OLED Screen",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/apple-launches-699-water-resistant-ipad-mini-with-oled-screen"
+        },
+        {
           "title": "Apple updates the iPad Mini with a larger OLED display",
           "source": "The Verge",
           "url": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce"
-        },
-        {
-          "title": "Apple Updates The iPad Mini With An A20 Processor And OLED Display",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2296637/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/"
-        }
-      ]
-    },
-    {
-      "title": "시효",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 07:20:00 -0700",
-      "news": [
-        {
-          "title": "응우옌 두이 응옥 씨는 행정 위반 사항을 처리하는 데 과학 기술을 적용하는 것에 대해 이야기했습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/ong-nguyen-duy-ngoc-noi-ve-ap-dung-khoa-hoc-ky-thuat-de-xu-ly-vi-pham-hanh-chinh"
-        },
-        {
-          "title": "사람들은 국경 검문소에 도착했을 때 일시적인 여행 금지 조치에 대해 통보받아야 할 뿐만 아니라, 그 이상의 조치를 받아야 합니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/khong-nen-de-nguoi-dan-chi-biet-bi-tam-hoan-xuat-canh-khi-den-cua-khau"
-        },
-        {
-          "title": "디지털 환경에 대한 집행 조치를 추가하는 제안.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/de-xuat-bo-sung-bien-phap-cuong-che-doi-voi-moi-truong-so"
-        }
-      ]
-    },
-    {
-      "title": "냉장고를 부탁해",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 07:20:00 -0700",
-      "news": [
-        {
-          "title": "‘냉부’, 팬 초대한다면서 사진·방송 경력 내라니...난데없는 자격 논란",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/26/MYYTMYRTGIZDSNZTGRRTKOLGHE/"
-        },
-        {
-          "title": "\"자격 요건이 셀럽?\"…SNS·방송 경력 묻는 '냉부', 팬 여론 싸늘 [이슈in]",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522498"
-        },
-        {
-          "title": "'냉장고를 부탁해' 2주년 특집 '직관 데이' 개최",
-          "source": "비즈엔터",
-          "url": "https://m.enter.etoday.co.kr/view/news_view.php?varAtcId=304302"
-        }
-      ]
-    },
-    {
-      "title": "반려견",
-      "approx_traffic": "2000+",
-      "published": "Mon, 26 Oct 2026 07:00:00 -0700",
-      "news": [
-        {
-          "title": "'개한테 물려 죽을 뻔!' 50바늘 넘게 꿰맸다...'충격 사고' 前 리버풀 스타, 상처 공개 \"반려견이 내 목숨 구했어\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/27/202610261614775856O"
-        },
-        {
-          "title": "충격! 리버풀 출신 스타, 맹견 물려 50바늘 넘게 꿰맸다…그런데 \"신고 안해\" 아찔했던 사연은",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/27/MY3TCMRWMYZDOMTFMMYDGYTBHA/"
-        },
-        {
-          "title": "\"다리 물어뜯겨 50바늘 넘게 꿰맸다!\" 前 PL 스타, 산책 중 개에게 습격당해 중상...반려견이 목숨 구했다",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553645129"
-        }
-      ]
-    },
-    {
-      "title": "이태원 참사",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 06:50:00 -0700",
-      "news": [
-        {
-          "title": "[이태원 참사 4주기] 이태원 참사 '미공개 파일'... 실패한 국가의 초상",
-          "source": "뉴스타파",
-          "url": "https://newstapa.org/article/RqjHb"
-        },
-        {
-          "title": "보랏빛으로 물든 서울광장",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261024000106"
-        },
-        {
-          "title": "[이태원참사 4주기]더딘 책임자 처벌, 끝나지 않은 조사···진상규명 어디까지 왔나",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610260600071"
-        }
-      ]
-    },
-    {
-      "title": "dazn",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 06:40:00 -0700",
-      "news": [
-        {
-          "title": "Foxtel’s billionaire owner extends Dazn funding lifeline another year",
-          "source": "AFR",
-          "url": "https://www.afr.com/companies/media-and-marketing/foxtel-s-billionaire-owner-extends-dazn-funding-lifeline-another-year-20261026-p618n6"
-        },
-        {
-          "title": "Billionaire Len Blavatnik’s Access Industries Backs DAZN for Another 12 Months",
-          "source": "CEOWORLD magazine",
-          "url": "https://ceoworld.biz/2026/10/26/billionaire-len-blavatniks-access-industries-backs-dazn-for-another-12-months/"
-        },
-        {
-          "title": "DAZN loses $979.7m on $3.8bn revenue in first consolidated UK accounts",
-          "source": "PPC Land",
-          "url": "https://ppc.land/dazn-loses-979-7m-on-3-8bn-revenue-in-first-consolidated-uk-accounts/"
         }
       ]
     }
