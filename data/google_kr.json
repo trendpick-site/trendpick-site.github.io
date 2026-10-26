@@ -1,12 +1,100 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T10:20:55+00:00",
+  "fetched_at": "2026-10-26T11:17:00+00:00",
   "items": [
     {
-      "title": "샘 올트먼",
+      "title": "jyp",
       "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 02:10:00 -0700",
+      "published": "Mon, 26 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "Twice’s Jihyo officially leaves JYP Entertainment after 21 years",
+          "source": "CNA Lifestyle",
+          "url": "https://cnalifestyle.channelnewsasia.com/entertainment/twice-jihyo-leaves-jyp-entertainment-590661"
+        },
+        {
+          "title": "Jihyo's Daring Photos Mark New Chapter With EMITHAUS",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/kpop-culture-en/2026/10/22/RPBGDTTOIVBP3JEC6KJMDHKJLA/"
+        },
+        {
+          "title": "Why K-Pop Idols Are Leaving Big Agencies to Build Their Own Empires",
+          "source": "Dojeon Media",
+          "url": "https://www.dojeonmedia.com/post/why-k-pop-idols-are-leaving-big-agencies-to-build-their-own-empires"
+        }
+      ]
+    },
+    {
+      "title": "강남이별녀",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "소리지르고 울면서…출근길 강남대로 활보한 만취녀",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261026/134912934/1"
+        },
+        {
+          "title": "차로 한복판 점령해 오열한 #강남이별녀…경찰 출동까지 \"민폐\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/26/2026102611161825669"
+        },
+        {
+          "title": "\"소리지르고 울면서\"…출근길 강남대로 '만취 활보'",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815607"
+        }
+      ]
+    },
+    {
+      "title": "미래에셋 생명",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "미래에셋생명, 사이버 침해사고로 개인정보 유출... “전사적 비상대응 가동”",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146752"
+        },
+        {
+          "title": "미래에셋생명서 보험사 첫 해킹 유출‥금감원, 긴급 현장점검",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6860824_36932.html"
+        },
+        {
+          "title": "미래에셋생명, 사이버 공격으로 고객정보 유출...대상·항목 파악 중",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353026"
+        }
+      ]
+    },
+    {
+      "title": "kbo",
+      "approx_traffic": "1000+",
+      "published": "Mon, 26 Oct 2026 03:00:00 -0700",
+      "news": [
+        {
+          "title": "[Photo] Lee Beom-ho conducts interview - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/10/26/2X4IN5XFWNGPDPMHRAPYZAXQGM/"
+        },
+        {
+          "title": "Rainout may have also washed away Lions' rest advantage over Tigers",
+          "source": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/sports/rainout-may-have-also-washed-away-lions-rest-advantage-over-tigers/12939045"
+        },
+        {
+          "title": "‘Oh Eun-young Report’ Canceled Today (the 26th) Due to Telecast of KIA vs. Samsung Playoff Game 1",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/broadcasting-service/12185710"
+        }
+      ]
+    },
+    {
+      "title": "샘 올 트먼",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 03:00:00 -0700",
       "news": [
         {
           "title": "AGI 선점해 경쟁사 GPU까지 파괴…알트먼 “끔찍한 시나리오”",
@@ -26,81 +114,53 @@
       ]
     },
     {
-      "title": "npl",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 02:00:00 -0700",
+      "title": "강준혁",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 03:00:00 -0700",
       "news": [
         {
-          "title": "NPL set to kick off with bigger stars and Rs1.5 billion in sight",
-          "source": "The Kathmandu Post",
-          "url": "https://kathmandupost.com/sports/2026/10/25/npl-set-to-kick-off-with-bigger-stars-and-rs1-5-billion-in-sight"
-        },
-        {
-          "title": "FanCode secures exclusive digital streaming rights for Nepal Premier League season 3",
-          "source": "SportsMint Media",
-          "url": "https://sportsmintmedia.com/fancode-secures-exclusive-digital-streaming-rights-for-nepal-premier-league-season-3/"
-        },
-        {
-          "title": "NPL 3 champions to receive Rs 15 million in prize money",
-          "source": "myRepublica",
-          "url": "https://myrepublica.nagariknetwork.com/news/npl-3-champions-to-receive-rs-15-million-in-prize-money-19-40.html"
-        }
-      ]
-    },
-    {
-      "title": "기아 삼성",
-      "approx_traffic": "10000+",
-      "published": "Mon, 26 Oct 2026 01:50:00 -0700",
-      "news": [
-        {
-          "title": "잔디 예초는 2㎝로…KBO, PO 1차전 앞두고 그라운드 점검",
+          "title": "볼다툼 벌이는 이상민과 고영준",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026160300007"
+          "url": "https://www.yna.co.kr/view/PYH20261024033400013"
         },
         {
-          "title": "김선빈까지 나서서 해결사 주문, 김도영 부담 백배?...이범호 손사래 \"이런 걸 즐기는 것 같다\" [PO1] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/10/26/GM2GCZBYHE3GEZBVG44WEZJXGI/"
+          "title": "동점골 터뜨린 강준혁",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8176803"
         },
         {
-          "title": "[뉴스in뉴스] 프로야구 삼성:KIA 비는 누구의 편일까?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695149"
+          "title": "강원 어쩌나... 황문기, 서울전 부상으로 시즌 아웃···“수술 후 2~3개월 재활 필요” [MK피플]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12185023"
         }
       ]
     },
     {
-      "title": "조세호",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 01:50:00 -0700",
+      "title": "그랜드 테프트 오토 vi",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 02:50:00 -0700",
       "news": [
         {
-          "title": "조세호, ‘고정無’ 최대 위기... 아내 SNS 내조 돌파구 될까",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/celebrity/2026/10/26/HFSWIMZVHFSGINRYG5RWGNLDMI/"
+          "title": "'GTA 6' 출시에 앞서 현실로 다가온 '그랜드 테프트 오토' 맥주",
+          "source": "Hypebeast.KR",
+          "url": "https://hypebeast.kr/2026/10/grand-theft-auto-beers-may-be-coming-to-life-ahead-of-gta-6-irl-merch-reports"
         },
         {
-          "title": "조세호 유일한 고정이었는데…'도라이버', 시즌6 끝으로 종영 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/25/2026102521030187073"
+          "title": "GTA 6의 Burgers and Fried Chicken, 실제 매장 오픈 및 가격 정보",
+          "source": "games.gg",
+          "url": "https://games.gg/ko/news/gta-6%EC%9D%98-burgers-and-fried-chicken-%EC%8B%A4%EC%A0%9C-%EB%A7%A4%EC%9E%A5-%EC%98%A4%ED%94%88-%EB%B0%8F-%EA%B0%80%EA%B2%A9-%EC%A0%95%EB%B3%B4/"
         },
         {
-          "title": "조세호와 끝까지 함께한 예능 '도라이버', 5년 여정 마침표 [N이슈]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6331379"
+          "title": "정부 데이터베이스로 확인된 GTA 6의 Pißwasser 맥주 실체",
+          "source": "games.gg",
+          "url": "https://games.gg/ko/news/%EC%A0%95%EB%B6%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%ED%86%B5%ED%95%B4-%ED%99%95%EC%9D%B8%EB%90%9C-gta-6%EC%9D%98-pi%C3%9Fwasser-%EB%A7%A5%EC%A3%BC-%EC%8B%A4%EC%B2%B4/"
         }
       ]
     },
     {
-      "title": "치어리더",
+      "title": "민생회복 소비쿠폰",
       "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 01:50:00 -0700",
-      "news": []
-    },
-    {
-      "title": "당진시의회",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 01:40:00 -0700",
+      "published": "Mon, 26 Oct 2026 02:50:00 -0700",
       "news": [
         {
           "title": "\"설 전에 30만원씩 쏜다\"…전 시민에 지원금 푸는 '이곳'",
@@ -120,90 +180,46 @@
       ]
     },
     {
-      "title": "상장지수 펀드",
+      "title": "우주 쓰레기",
       "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 01:40:00 -0700",
+      "published": "Mon, 26 Oct 2026 02:50:00 -0700",
       "news": [
         {
-          "title": "SK하이닉스 레버리지 ETF, 미국 상장 석 달 만에 청산",
+          "title": "우주판 '승리호' 뜬다‥내년 누리호로 우주쓰레기 포획위성 발사",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6860776_36925.html"
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6860828_36932.html"
         },
         {
-          "title": "AI 투자열기 주춤… SK하이닉스 美 레버리지 ETF 2종 청산",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172815"
+          "title": "'우주쓰레기 청소선 '승리호'가 현실로' 우주물체 능동제어 위성 조립 전 최종상태 점검",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=453424"
         },
         {
-          "title": "“하이닉스로 두 배 먹자” 미국서 ‘상폐 엔딩’…처참한 수익률, 한국에서는? [내가샀다]",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/economy/securities/2026/10/26/20261026500307"
+          "title": "SF 영화 '승리호' 현실로…韓, 우주쓰레기 직접 포획·제거 나선다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003841718"
         }
       ]
     },
     {
-      "title": "스페이스x",
-      "approx_traffic": "10000+",
-      "published": "Mon, 26 Oct 2026 01:30:00 -0700",
+      "title": "보행자",
+      "approx_traffic": "1000+",
+      "published": "Mon, 26 Oct 2026 02:40:00 -0700",
       "news": [
         {
-          "title": "머스크,\"네오클라우드 대규모 도태\"… 전력·매출에 흔들리는 AI 데이터센터 [김주완의 글로벌머니 X파일]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610265574i"
+          "title": "광주서 80대 치어 숨지게 한 뺑소니 운전자 추적",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026062100054"
         },
         {
-          "title": "스페이스X, 53조 부채로 GPU 확보...\"네오클라우드는 도산 위기\"",
-          "source": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216640"
+          "title": "80대 보행자 치어 숨지게 한 뺑소니 30대 경찰 조사",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003841723"
         },
         {
-          "title": "머스크, AI 반도체 사려 53조원 조달…\"돈줄 막힌 AI 클라우드 업체 대거 도산할 것\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/10/26/RTKEBCAFAREXBBQIMQ3ET4MVC4/"
-        }
-      ]
-    },
-    {
-      "title": "피겨 ai",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 01:30:00 -0700",
-      "news": [
-        {
-          "title": "Figure AI's Robot Endures 13-Day Walk, 200-Hour Sorting Test",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/industry-en/2026/10/26/PWEXG3OIKVAM7N2O7YP6O6T5II/"
-        },
-        {
-          "title": "It keeps going and going … Figure 03 robot covers 560 km",
-          "source": "heise online",
-          "url": "https://www.heise.de/en/news/It-keeps-going-and-going-Figure-03-robot-covers-560-km-11493464.html"
-        },
-        {
-          "title": "Humanoid robot walks 1.2 million steps in a grueling 9-day treadmill stress test",
-          "source": "Interesting Engineering",
-          "url": "https://interestingengineering.com/ai-robotics/figure-03-humanoid-robot-treadmill-test"
-        }
-      ]
-    },
-    {
-      "title": "현대 넥쏘",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 01:30:00 -0700",
-      "news": [
-        {
-          "title": "'유재석 車' 입소문 나더니…국내서 5만대 넘게 팔렸다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610264451g"
-        },
-        {
-          "title": "현대차 수소차 5만대 돌파…기아도 2029년 ‘수소 카니발’로 합류",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172827"
-        },
-        {
-          "title": "‘넥쏘’ 출시 8년만에… 국내 수소차 판매량 5만대 돌파",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626241"
+          "title": "사망사고 뺑소니 운전자, 하루뒤 자진 출석…동승자 “나만 술 마셨다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261026/134910184/1"
         }
       ]
     }
