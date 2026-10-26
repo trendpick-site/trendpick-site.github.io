@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T00:59:31+00:00",
+  "fetched_at": "2026-10-26T01:50:02+00:00",
   "items": [
     {
-      "title": "네이버",
-      "approx_traffic": "50000+",
-      "published": "Sun, 25 Oct 2026 16:40:00 -0700",
-      "news": [
-        {
-          "title": "인스파이어 아레나, '네이버 아레나'로 바뀐다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003840401"
-        },
-        {
-          "title": "'인스파이어 아레나'→'네이버 아레나 앳 인스파이어' 명명권 계약 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/10/26/2026102608095071676"
-        },
-        {
-          "title": "인스파이어 아레나, 12월부터 ‘네이버 아레나’로⋯네이버 결제·AR 기술 접목",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261026500098"
-        }
-      ]
-    },
-    {
-      "title": "조선일보",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 16:40:00 -0700",
-      "news": [
-        {
-          "title": "[단독] 한미 관계, 민간까지 삐걱… 4명 중 1명 비자 거부 당해",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/politics_general/2026/10/26/VHVX3YKCFZGNFLNLOTOQPIUILQ/"
-        },
-        {
-          "title": "[천지일보 여론조사] 국민 58.7% “한미관계·안보 악영향 우려”… 43.6% “매우 우려”",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3441958"
-        },
-        {
-          "title": "이낙연 “이재명 정부 이런 동맹파열 처음…美 정청래 비자 허용→거부 등 보라”",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12089689"
-        }
-      ]
-    },
-    {
-      "title": "다음",
-      "approx_traffic": "10000+",
-      "published": "Sun, 25 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "“삼전닉스 다음은 여기” ‘시총 3위’ 후보 나왔다…증권사가 뽑은 내년 주도주 4곳",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105750"
-        },
-        {
-          "title": "하나證 \"삼전닉스, 내년 1분기까지 코스피 반등 주도할 것\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/general-stock/6331383"
-        },
-        {
-          "title": "[동아광장/유재동]미리 쓰는 2026년 코스피 징비록",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261020/134878450/2"
-        }
-      ]
-    },
-    {
-      "title": "brazil election 2026",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "Brazil Election Live Updates: Lula Wins Re-Election, Fending Off Flávio Bolsonaro",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election"
-        },
-        {
-          "title": "Brazil's Lula wins presidential election in runoff vote",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"
-        },
-        {
-          "title": "The Left’s Last Great Survivor is Running Out of Road",
-          "source": "Politico",
-          "url": "https://www.politico.com/news/magazine/2026/10/25/lula-left-last-great-survivor-brazil-election-bolsonaro-01134543"
-        }
-      ]
-    },
-    {
-      "title": "구광모",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "[2027 산업] 반도체만 웃는다…불확실성 증폭에 업종기상도 '극과 극'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023166400003"
-        },
-        {
-          "title": "[2027 산업] 내년 사업계획 시동…AI '성과내기'·중국과는 생존경쟁",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1180595"
-        },
-        {
-          "title": "내년 산업별 희비 교차… 반도체 웃고 車·조선·석화는 부담",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3442916"
-        }
-      ]
-    },
-    {
-      "title": "폭죽",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 16:20:00 -0700",
-      "news": [
-        {
-          "title": "“아버지 향해 쏴”…강릉 해변서 남성들 쏜 폭죽에 父 화상 ‘분통’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261025/134902406/1"
-        },
-        {
-          "title": "폭죽을 하늘에 안 쏘고...\"아버지 화상입었다\", 무슨 일이 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/25/2026102519233978243"
-        },
-        {
-          "title": "\"아버지 손에 화상까지\"…강릉 해변서 폭죽 쏜 남성들에 '날벼락'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261025_0003840088"
-        }
-      ]
-    },
-    {
-      "title": "오클라호마시티 대 la 클리퍼스",
+      "title": "빌 게이츠",
       "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 16:10:00 -0700",
+      "published": "Sun, 25 Oct 2026 17:40:00 -0700",
       "news": [
         {
-          "title": "Cason Wallace injury update: OKC Thunder guard exits early vs Clippers",
+          "title": "“코딩실력 쓸모없어, 향후 20년 인류 가장 혼란”…빌 게이츠, 경고",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/world/12185333"
+        },
+        {
+          "title": "빌 게이츠 “20년 내 AI가 인간 앞설 것”…수학·생물학·설계 지목",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261026/134906612/1"
+        },
+        {
+          "title": "‘AI 회의론자’ 빌 게이츠 “향후 20년 인류 최대 혼란 빚어질 것”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694695"
+        }
+      ]
+    },
+    {
+      "title": "시내버스",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 17:40:00 -0700",
+      "news": [
+        {
+          "title": "75세 이상 시내버스 무료 지원 ‘i+실버패스’ 일단 멈춤",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038773"
+        },
+        {
+          "title": "인천연구원 \"고령층 이동특성 분석\"…교통정책 재설계 시급",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3732205"
+        },
+        {
+          "title": "인천 75세 이상 고령층, '5km 이내' 이동 집중…교통정책도 달라져야",
+          "source": "쓰담미디어",
+          "url": "https://www.newsenc.com/news/articleView.html?idxno=5333"
+        }
+      ]
+    },
+    {
+      "title": "탈세",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 17:30:00 -0700",
+      "news": [
+        {
+          "title": "라이브방송으로 '18억 돈방석' 앉더니…유명 인플루언서의 최후 [차이나 워치]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610242427i"
+        },
+        {
+          "title": "사무실도 직원도 없는 회사…팔로워 600만 왕훙의 '세금 꼼수'",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102608295586328"
+        },
+        {
+          "title": "[이슈체크] 5개 게임사 ‘탈세 사실무근'…韓소비자 호구? 구글 리베이트‧수수료 논란",
+          "source": "조세금융신문",
+          "url": "https://www.tfmedia.co.kr/news/article.html?no=208316"
+        }
+      ]
+    },
+    {
+      "title": "우리은행",
+      "approx_traffic": "1000+",
+      "published": "Sun, 25 Oct 2026 17:30:00 -0700",
+      "news": [
+        {
+          "title": "\"금리 낮춘다더니 할인은 더 줄였다?\"…국감서 뭇매 맞은 은행 '꼼수' 뭐길래[금알못]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003839029"
+        },
+        {
+          "title": "은행권 우대금리 공시 확대 부담 커지나",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610251811430461"
+        },
+        {
+          "title": "경남·제주銀·케뱅, 법정비용 빼랬더니 가산금리 올려 [재계톡톡]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12184238"
+        }
+      ]
+    },
+    {
+      "title": "엘에이 fc 대 la 갤럭시",
+      "approx_traffic": "20000+",
+      "published": "Sun, 25 Oct 2026 17:10:00 -0700",
+      "news": [
+        {
+          "title": "LAFC vs. LA Galaxy: Preview, How to Watch It on TV, & Predicted Lineups",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/cason-wallace-injury-okc-thunder-232851652.html"
+          "url": "https://sports.yahoo.com/articles/lafc-vs-la-galaxy-preview-200002238.html"
         },
         {
-          "title": "Jaylin Williams (wrist) will not return Sunday",
-          "source": "NBC Sports",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-25/jaylin-williams-wrist-will-not-return-sunday"
+          "title": "Los Angeles vs LA Galaxy: Major League Soccer stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c8p3gxe34edqt"
         },
         {
-          "title": "Cason Wallace Injury: Won't return Sunday",
-          "source": "RotoWire",
-          "url": "https://www.rotowire.com/basketball/headlines/cason-wallace-injury-wont-return-sunday-536060"
+          "title": "Son Heung-min of Los Angeles FC faces a team with good memories again.Son Heung-min was expected to",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12185444"
         }
       ]
     },
     {
-      "title": "치매",
-      "approx_traffic": "1000+",
-      "published": "Sun, 25 Oct 2026 16:00:00 -0700",
+      "title": "국민은행",
+      "approx_traffic": "2000+",
+      "published": "Sun, 25 Oct 2026 17:10:00 -0700",
       "news": [
         {
-          "title": "구로구, 'G-브로' 야간 실종 모의훈련 실시...지역사회 안전망 강화",
-          "source": "한국미디어뉴스",
-          "url": "https://www.kitvnews.co.kr/news/article.html?no=1680469"
+          "title": "KB국민은행, 40년 금융시스템 혁신 가속…가계대출 심사도 클라우드로 전환",
+          "source": "경인방송 뉴스",
+          "url": "https://news.ifm.kr/news/articleView.html?idxno=482481"
         },
         {
-          "title": "오산시 대원1동, 치매안심센터와 건강캠페인·치매선별검사 실시",
-          "source": "경기중앙신문",
-          "url": "https://www.ggjapp.com/news/articleView.html?idxno=242487"
-        },
-        {
-          "title": "스마트태그로 지키는 어르신의 안전",
-          "source": "광주타임즈",
-          "url": "https://www.gjtnews.com/news/articleView.html?idxno=434082"
+          "title": "KB국민은행, 코어뱅킹 현대화 2단계 추진…2027년 4분기 오픈 목표",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261021500252"
         }
       ]
     },
     {
-      "title": "thứ hạng của barcelona gặp real madrid",
+      "title": "빅테크",
       "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 15:50:00 -0700",
+      "published": "Sun, 25 Oct 2026 17:10:00 -0700",
       "news": [
         {
-          "title": "Cú sốc cho Real Madrid ở El Clasico",
-          "source": "Znews",
-          "url": "https://lifestyle.zingnews.vn/cu-soc-cho-real-madrid-o-el-clasico-post1691988.html"
+          "title": "[FOMC 폴] 10월 '매파적 동결' 관측…12월 인상 가능성",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441060"
         },
         {
-          "title": "پخش زنده بارسلونا - رئال مادرید: بارسلونا مالکیت توپ را در اختیار دارد، هنوز گلی به ثمر نرسانده است.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/fa/truc-tieptruc-tiep-barcelona-vs-real-madrid-barcelona-chiem-uu-the-kiem-soat-bong-chua-co-ban-thang"
+          "title": "금리 '슈퍼위크' 시작…美·EU·日 금리 동결 전망",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102607433987612"
         },
         {
-          "title": "Mourinho bẻ gãy hệ thống chiến thuật của Barcelona như thế nào?",
-          "source": "bongda.com.vn",
-          "url": "https://bongda.com.vn/mourinho-be-gay-he-thong-chien-thuat-cua-barcelona-nhu-the-nao-d852529.html"
+          "title": "유가 116달러에 FOMC·빅테크 실적까지…월가 '운명의 한 주'",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01554726645616528"
         }
       ]
     },
     {
-      "title": "барселона – реал мадрид турнирная таблица",
-      "approx_traffic": "1000+",
-      "published": "Sun, 25 Oct 2026 15:50:00 -0700",
+      "title": "트럭",
+      "approx_traffic": "2000+",
+      "published": "Sun, 25 Oct 2026 17:00:00 -0700",
       "news": [
         {
-          "title": "Сенсационная победа «Реала» в «класико»! Уложили «Барсу» на её поле дублем Мбаппе",
-          "source": "https://www.championat.ru/",
-          "url": "https://www.championat.ru/football/article-6672630-barselona-real-madrid-1-2-obzor-matcha-10-go-tura-la-ligi-goly-mbappe-rafinya-statistika-25-oktyabrya-2026.html"
+          "title": "중부내륙고속도로서 추돌뒤 화재…20대 남녀 사망",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261026/134906509/1"
         },
         {
-          "title": "Дубль Мбаппе принес «Реалу» победу над «Барселоной» в матче чемпионата Испании",
-          "source": "Спорт Mail",
-          "url": "https://sportmail.ru/news/football-foreign/72853558/"
+          "title": "경기 양평나들목서 승합차가 14톤 화물차 들이받아..2명 숨져",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6860631_36918.html"
         },
         {
-          "title": "Ханси Флик объяснил поражение «Барселоны» от «Реала»",
-          "source": "Sports.kz",
-          "url": "https://www.sports.kz/news/hansi-flik-obyyasnil-porajenie-barselonyi-ot-reala"
+          "title": "[속보]중부내륙고속도로서 트럭-승합차 추돌…20대 남녀 사망",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626114"
+        }
+      ]
+    },
+    {
+      "title": "lula",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 17:00:00 -0700",
+      "news": [
+        {
+          "title": "TSE declara Lula matematicamente eleito presidente do Brasil",
+          "source": "BBC",
+          "url": "https://www.bbc.com/portuguese/articles/cmj47lgljwj0o"
+        },
+        {
+          "title": "Kassio explica demora em decidir sobre extensão de horário nas eleições",
+          "source": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/kassio-explica-demora-em-decidir-sobre-extensao-de-horario-nas-eleicoes"
+        },
+        {
+          "title": "O epílogo eleitoral de Lula: do boato de que desistiria até a virada histórica",
+          "source": "VEJA",
+          "url": "https://veja.abril.com.br/politica/o-epilogo-eleitoral-de-lula-do-boato-de-que-desistiria-ate-a-virada-historica/"
+        }
+      ]
+    },
+    {
+      "title": "brazil election",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 17:00:00 -0700",
+      "news": [
+        {
+          "title": "Kim visits China ahead of possible Trump summit",
+          "source": "동아일보",
+          "url": "https://www.donga.com/en/article/all/20261026/6432964/1"
+        },
+        {
+          "title": "[Breaking] Brazil Election Commission: \"Lula Elected\"... Wins Fourth Term",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/2026102609200284186"
+        },
+        {
+          "title": "NK leader meets Chinese FM",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/PYH20261025028900320?section=image/nk"
         }
       ]
     }
