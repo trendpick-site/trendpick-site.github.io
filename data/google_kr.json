@@ -1,8 +1,113 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T01:50:02+00:00",
+  "fetched_at": "2026-10-26T02:40:08+00:00",
   "items": [
+    {
+      "title": "cve-2026-111497",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 18:20:00 -0700",
+      "news": [
+        {
+          "title": "Following PHP, Concerns Grow Over Node.js Website Hacking Vulnerabilities",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008814662"
+        },
+        {
+          "title": "An emergency light was turned on on a server that operates an Internet shopping mall or a corporate",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/it/12185526"
+        },
+        {
+          "title": "Node2Shell Brotli vuln (CVE-2026-111497) evolves to HTTP2Shell, as libraries and apps using HTTP are affected.",
+          "source": "Aikido Security",
+          "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
+        }
+      ]
+    },
+    {
+      "title": "필리핀",
+      "approx_traffic": "1000+",
+      "published": "Sun, 25 Oct 2026 18:10:00 -0700",
+      "news": [
+        {
+          "title": "대자연이 숨 쉬는 섬, 필리핀 보홀로 떠나는 가을 여정",
+          "source": "이트레블뉴스",
+          "url": "https://www.momonews.com/81675"
+        },
+        {
+          "title": "필리핀 관광부, 초콜릿힐·안경원숭이·바다거북·반딧불이 강 등 섬 전체가 유네스코 지질공원 '보홀' 소개",
+          "source": "이로운뉴스",
+          "url": "https://www.erounews.kr/news/articleView.html?idxno=5470"
+        },
+        {
+          "title": "[비즈 트래블] 초콜릿빛 언덕 지나, 원시의 바다로…필리핀 보홀에서 찾은 휴식",
+          "source": "비즈월드",
+          "url": "https://www.bizwnews.com/news/articleView.html?idxno=149695"
+        }
+      ]
+    },
+    {
+      "title": "넾다세일",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 18:00:00 -0700",
+      "news": [
+        {
+          "title": "네이버, '넾다세일' 2주간 진행…1000만 개 상품 특가 판매",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/it-science/internet-platform/6331376"
+        },
+        {
+          "title": "네이버, 상품 1000만개 풀고 할인 더한다… ‘넾다세일’ 개막",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261026500093"
+        },
+        {
+          "title": "네이버, 하반기 ‘넾다세일’ 2주간 연다…약 1000만 개 상품 할인",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261026/134907640/1"
+        }
+      ]
+    },
+    {
+      "title": "인플루언서",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 18:00:00 -0700",
+      "news": [
+        {
+          "title": "[리얼]“35층서 추락했는데 살았어” 미녀 인플루언서, 17개월 만에 복귀",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626058"
+        },
+        {
+          "title": "\"35층서 추락하고도 기적적 생존\"...14시간 수술 끝에 기적 만든 20대女 [헬스톡]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610232009045699"
+        }
+      ]
+    },
+    {
+      "title": "카드뉴스",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 17:50:00 -0700",
+      "news": [
+        {
+          "title": "\"AI가 엘비스 프레슬리 노래 무단 학습\"...앤트로픽 540억 원 피소",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610260854459158"
+        },
+        {
+          "title": "[AI는 지금] 엘비스 노래 274곡도 AI 학습에?…앤트로픽 또 저작권 소송",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261026100141"
+        },
+        {
+          "title": "앨비스 프레슬리 노래를 무단 학습?...\"1곡당 2억 원\" 앤트로픽 피소",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR2026102610441521H"
+        }
+      ]
+    },
     {
       "title": "빌 게이츠",
       "approx_traffic": "500+",
@@ -14,14 +119,14 @@
           "url": "https://www.mk.co.kr/news/world/12185333"
         },
         {
+          "title": "빌게이츠 \"내 코딩 능력도 쓸모없어져…향후 20년 AI 큰 혼란\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/26/2026102609580627388"
+        },
+        {
           "title": "빌 게이츠 “20년 내 AI가 인간 앞설 것”…수학·생물학·설계 지목",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Inter/article/all/20261026/134906612/1"
-        },
-        {
-          "title": "‘AI 회의론자’ 빌 게이츠 “향후 20년 인류 최대 혼란 빚어질 것”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694695"
         }
       ]
     },
@@ -49,7 +154,7 @@
     },
     {
       "title": "탈세",
-      "approx_traffic": "200+",
+      "approx_traffic": "1000+",
       "published": "Sun, 25 Oct 2026 17:30:00 -0700",
       "news": [
         {
@@ -75,25 +180,25 @@
       "published": "Sun, 25 Oct 2026 17:30:00 -0700",
       "news": [
         {
-          "title": "\"금리 낮춘다더니 할인은 더 줄였다?\"…국감서 뭇매 맞은 은행 '꼼수' 뭐길래[금알못]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003839029"
+          "title": "하나증권 “우리금융지주, 3분기 실적 기대치 충족…주주환원도 기대”",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1180844"
         },
         {
-          "title": "은행권 우대금리 공시 확대 부담 커지나",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610251811430461"
+          "title": "우리금융지주, 자기자본이익률 전망치 하향…목표가↓-키움 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/26/2026102608205017609"
         },
         {
-          "title": "경남·제주銀·케뱅, 법정비용 빼랬더니 가산금리 올려 [재계톡톡]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12184238"
+          "title": "\"우리금융지주, 순이자마진 하락에도 대손비용 개선…배당 매력 부각\"-SK증권",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02335366645616856"
         }
       ]
     },
     {
       "title": "엘에이 fc 대 la 갤럭시",
-      "approx_traffic": "20000+",
+      "approx_traffic": "50000+",
       "published": "Sun, 25 Oct 2026 17:10:00 -0700",
       "news": [
         {
@@ -107,114 +212,9 @@
           "url": "https://www.bbc.com/sport/football/live/c8p3gxe34edqt"
         },
         {
-          "title": "Son Heung-min of Los Angeles FC faces a team with good memories again.Son Heung-min was expected to",
+          "title": "Can Son Heung-min seal playoff spot in Los Angeles FC, Derby with local rivals?LAFC will play LA Gal..",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12185444"
-        }
-      ]
-    },
-    {
-      "title": "국민은행",
-      "approx_traffic": "2000+",
-      "published": "Sun, 25 Oct 2026 17:10:00 -0700",
-      "news": [
-        {
-          "title": "KB국민은행, 40년 금융시스템 혁신 가속…가계대출 심사도 클라우드로 전환",
-          "source": "경인방송 뉴스",
-          "url": "https://news.ifm.kr/news/articleView.html?idxno=482481"
-        },
-        {
-          "title": "KB국민은행, 코어뱅킹 현대화 2단계 추진…2027년 4분기 오픈 목표",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261021500252"
-        }
-      ]
-    },
-    {
-      "title": "빅테크",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 17:10:00 -0700",
-      "news": [
-        {
-          "title": "[FOMC 폴] 10월 '매파적 동결' 관측…12월 인상 가능성",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441060"
-        },
-        {
-          "title": "금리 '슈퍼위크' 시작…美·EU·日 금리 동결 전망",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102607433987612"
-        },
-        {
-          "title": "유가 116달러에 FOMC·빅테크 실적까지…월가 '운명의 한 주'",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01554726645616528"
-        }
-      ]
-    },
-    {
-      "title": "트럭",
-      "approx_traffic": "2000+",
-      "published": "Sun, 25 Oct 2026 17:00:00 -0700",
-      "news": [
-        {
-          "title": "중부내륙고속도로서 추돌뒤 화재…20대 남녀 사망",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261026/134906509/1"
-        },
-        {
-          "title": "경기 양평나들목서 승합차가 14톤 화물차 들이받아..2명 숨져",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6860631_36918.html"
-        },
-        {
-          "title": "[속보]중부내륙고속도로서 트럭-승합차 추돌…20대 남녀 사망",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626114"
-        }
-      ]
-    },
-    {
-      "title": "lula",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 17:00:00 -0700",
-      "news": [
-        {
-          "title": "TSE declara Lula matematicamente eleito presidente do Brasil",
-          "source": "BBC",
-          "url": "https://www.bbc.com/portuguese/articles/cmj47lgljwj0o"
-        },
-        {
-          "title": "Kassio explica demora em decidir sobre extensão de horário nas eleições",
-          "source": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/manoela-alcantara/kassio-explica-demora-em-decidir-sobre-extensao-de-horario-nas-eleicoes"
-        },
-        {
-          "title": "O epílogo eleitoral de Lula: do boato de que desistiria até a virada histórica",
-          "source": "VEJA",
-          "url": "https://veja.abril.com.br/politica/o-epilogo-eleitoral-de-lula-do-boato-de-que-desistiria-ate-a-virada-historica/"
-        }
-      ]
-    },
-    {
-      "title": "brazil election",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 17:00:00 -0700",
-      "news": [
-        {
-          "title": "Kim visits China ahead of possible Trump summit",
-          "source": "동아일보",
-          "url": "https://www.donga.com/en/article/all/20261026/6432964/1"
-        },
-        {
-          "title": "[Breaking] Brazil Election Commission: \"Lula Elected\"... Wins Fourth Term",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026102609200284186"
-        },
-        {
-          "title": "NK leader meets Chinese FM",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/PYH20261025028900320?section=image/nk"
+          "url": "https://www.mk.co.kr/en/sports/12185320"
         }
       ]
     }
