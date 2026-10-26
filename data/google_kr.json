@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T11:17:00+00:00",
+  "fetched_at": "2026-10-26T13:59:39+00:00",
   "items": [
     {
-      "title": "jyp",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 03:10:00 -0700",
+      "title": "군인",
+      "approx_traffic": "2000+",
+      "published": "Mon, 26 Oct 2026 05:30:00 -0700",
       "news": [
         {
-          "title": "Twice’s Jihyo officially leaves JYP Entertainment after 21 years",
-          "source": "CNA Lifestyle",
-          "url": "https://cnalifestyle.channelnewsasia.com/entertainment/twice-jihyo-leaves-jyp-entertainment-590661"
+          "title": "단독 국방부, '지뢰부상' 전상 입증 책임 덜어준다...법안 마련 착수",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610240451066761"
         },
         {
-          "title": "Jihyo's Daring Photos Mark New Chapter With EMITHAUS",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/kpop-culture-en/2026/10/22/RPBGDTTOIVBP3JEC6KJMDHKJLA/"
-        },
-        {
-          "title": "Why K-Pop Idols Are Leaving Big Agencies to Build Their Own Empires",
-          "source": "Dojeon Media",
-          "url": "https://www.dojeonmedia.com/post/why-k-pop-idols-are-leaving-big-agencies-to-build-their-own-empires"
-        }
-      ]
-    },
-    {
-      "title": "강남이별녀",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "소리지르고 울면서…출근길 강남대로 활보한 만취녀",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261026/134912934/1"
-        },
-        {
-          "title": "차로 한복판 점령해 오열한 #강남이별녀…경찰 출동까지 \"민폐\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/26/2026102611161825669"
-        },
-        {
-          "title": "\"소리지르고 울면서\"…출근길 강남대로 '만취 활보'",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815607"
-        }
-      ]
-    },
-    {
-      "title": "미래에셋 생명",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "미래에셋생명, 사이버 침해사고로 개인정보 유출... “전사적 비상대응 가동”",
-          "source": "보안뉴스",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146752"
-        },
-        {
-          "title": "미래에셋생명서 보험사 첫 해킹 유출‥금감원, 긴급 현장점검",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6860824_36932.html"
-        },
-        {
-          "title": "미래에셋생명, 사이버 공격으로 고객정보 유출...대상·항목 파악 중",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353026"
-        }
-      ]
-    },
-    {
-      "title": "kbo",
-      "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 03:00:00 -0700",
-      "news": [
-        {
-          "title": "[Photo] Lee Beom-ho conducts interview - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-photo-spo/2026/10/26/2X4IN5XFWNGPDPMHRAPYZAXQGM/"
-        },
-        {
-          "title": "Rainout may have also washed away Lions' rest advantage over Tigers",
-          "source": "Korea JoongAng Daily",
-          "url": "https://www.koreajoongangdaily.com/sports/rainout-may-have-also-washed-away-lions-rest-advantage-over-tigers/12939045"
-        },
-        {
-          "title": "‘Oh Eun-young Report’ Canceled Today (the 26th) Due to Telecast of KIA vs. Samsung Playoff Game 1",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/broadcasting-service/12185710"
-        }
-      ]
-    },
-    {
-      "title": "샘 올 트먼",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 03:00:00 -0700",
-      "news": [
-        {
-          "title": "AGI 선점해 경쟁사 GPU까지 파괴…알트먼 “끔찍한 시나리오”",
-          "source": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216469"
-        },
-        {
-          "title": "[심층분석] OpenAI·폴란드 NASK 협력의 의미, 안전 명분과 주권·투명성 충돌",
-          "source": "데일리연합",
-          "url": "https://dailyan.com/news/article.html?no=782285"
-        },
-        {
-          "title": "엘리저 유드코프스키, AI에 대한 공포를 베스트셀러로 만든 팬픽션 작가",
-          "source": "Martin Cid Magazine",
-          "url": "https://ko.martincid.com/books-ko/%EC%97%98%EB%A6%AC%EC%A0%80-%EC%9C%A0%EB%93%9C%EC%BD%94%ED%94%84%EC%8A%A4%ED%82%A4-ai%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%B5%ED%8F%AC%EB%A5%BC/"
-        }
-      ]
-    },
-    {
-      "title": "강준혁",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 03:00:00 -0700",
-      "news": [
-        {
-          "title": "볼다툼 벌이는 이상민과 고영준",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20261024033400013"
-        },
-        {
-          "title": "동점골 터뜨린 강준혁",
+          "title": "[국감] 질의에 답하는 이주은 퍼플하트 사무국장",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8176803"
+          "url": "https://www.news1.kr/photos/8179465"
         },
         {
-          "title": "강원 어쩌나... 황문기, 서울전 부상으로 시즌 아웃···“수술 후 2~3개월 재활 필요” [MK피플]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12185023"
+          "title": "이언주 의원, 지뢰피해 군인 보상 강화 3법 발의",
+          "source": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799326"
         }
       ]
     },
     {
-      "title": "그랜드 테프트 오토 vi",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 02:50:00 -0700",
+      "title": "기소",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 05:30:00 -0700",
       "news": [
         {
-          "title": "'GTA 6' 출시에 앞서 현실로 다가온 '그랜드 테프트 오토' 맥주",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/10/grand-theft-auto-beers-may-be-coming-to-life-ahead-of-gta-6-irl-merch-reports"
-        },
-        {
-          "title": "GTA 6의 Burgers and Fried Chicken, 실제 매장 오픈 및 가격 정보",
-          "source": "games.gg",
-          "url": "https://games.gg/ko/news/gta-6%EC%9D%98-burgers-and-fried-chicken-%EC%8B%A4%EC%A0%9C-%EB%A7%A4%EC%9E%A5-%EC%98%A4%ED%94%88-%EB%B0%8F-%EA%B0%80%EA%B2%A9-%EC%A0%95%EB%B3%B4/"
-        },
-        {
-          "title": "정부 데이터베이스로 확인된 GTA 6의 Pißwasser 맥주 실체",
-          "source": "games.gg",
-          "url": "https://games.gg/ko/news/%EC%A0%95%EB%B6%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%ED%86%B5%ED%95%B4-%ED%99%95%EC%9D%B8%EB%90%9C-gta-6%EC%9D%98-pi%C3%9Fwasser-%EB%A7%A5%EC%A3%BC-%EC%8B%A4%EC%B2%B4/"
-        }
-      ]
-    },
-    {
-      "title": "민생회복 소비쿠폰",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 02:50:00 -0700",
-      "news": [
-        {
-          "title": "\"설 전에 30만원씩 쏜다\"…전 시민에 지원금 푸는 '이곳'",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02669926645616856&mediaCodeNo=257"
-        },
-        {
-          "title": "추석 때 무산됐던 당진시 '30만원 지원금', 설 전에 쏜다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/26/2026102610401566538"
-        },
-        {
-          "title": "추석 때 무산된 ‘30만원 지원금’, 결국 모든 시민에 지급 결정…내년 설 전에 준다는 '이곳'",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102615381550390"
-        }
-      ]
-    },
-    {
-      "title": "우주 쓰레기",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 02:50:00 -0700",
-      "news": [
-        {
-          "title": "우주판 '승리호' 뜬다‥내년 누리호로 우주쓰레기 포획위성 발사",
+          "title": "국힘 \"조희대 탄핵 시도하면 장외투쟁으로 맞서 싸울것\"",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6860828_36932.html"
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6860827_36911.html"
         },
         {
-          "title": "'우주쓰레기 청소선 '승리호'가 현실로' 우주물체 능동제어 위성 조립 전 최종상태 점검",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=453424"
+          "title": "'오세훈 무죄' 놓고도 격돌...\"조희대 탄핵\"·\"제정신인가\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610262206599331"
         },
         {
-          "title": "SF 영화 '승리호' 현실로…韓, 우주쓰레기 직접 포획·제거 나선다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003841718"
+          "title": "[주장] '차근차근' 하겠단 민주당, '단호함'이 필요하다",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278583"
         }
       ]
     },
     {
-      "title": "보행자",
+      "title": "조상우",
       "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 02:40:00 -0700",
+      "published": "Mon, 26 Oct 2026 05:20:00 -0700",
       "news": [
         {
-          "title": "광주서 80대 치어 숨지게 한 뺑소니 운전자 추적",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026062100054"
+          "title": "[포토] 사토시 '달구벌 스나이퍼' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/26/2026102621324158035"
         },
         {
-          "title": "80대 보행자 치어 숨지게 한 뺑소니 30대 경찰 조사",
+          "title": "7회초 등판한 김태훈",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8180092"
+        },
+        {
+          "title": "[사진]이승민 역투",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/10/26/MQ4TAM3EME4WEN3DHE4TIMJSGQ/"
+        }
+      ]
+    },
+    {
+      "title": "이세돌",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 05:20:00 -0700",
+      "news": [
+        {
+          "title": "이세돌, 20kg 맥주통 메고 야구장 누벼",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261024501646"
+        },
+        {
+          "title": "[리뷰M] '백수 이세돌', 바둑돌 대신 맥주컵으로 놓은 신의 한 수★★★☆",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/M/Detail/522492"
+        },
+        {
+          "title": "'알파고와 대국' 이세돌, AI로 대체 힘든 직업 찾았다",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003841723"
+          "url": "https://nwww.newsis.com/view/NISX20261023_0003839041"
+        }
+      ]
+    },
+    {
+      "title": "여행경보",
+      "approx_traffic": "1000+",
+      "published": "Mon, 26 Oct 2026 05:10:00 -0700",
+      "news": [
+        {
+          "title": "\"혼자 가지 마세요\"... 여행경보 국가 한국인 피해 폭증 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202610260801346735"
         },
         {
-          "title": "사망사고 뺑소니 운전자, 하루뒤 자진 출석…동승자 “나만 술 마셨다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261026/134910184/1"
+          "title": "“해외여행 전 확인하세요”…한국인 사건·사고 48% 급증",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12185331"
+        },
+        {
+          "title": "‘진짜 위험하네’ 한국인 납치·감금 급증…여행경보발령 10개국 ‘비상’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261026580073"
+        }
+      ]
+    },
+    {
+      "title": "jyp 엔터테인먼트",
+      "approx_traffic": "1000+",
+      "published": "Mon, 26 Oct 2026 05:10:00 -0700",
+      "news": [
+        {
+          "title": "주가 치솟자 \"지분 인수 제안받은 적 없어\" JYP 선 그었다...무슨 일? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/26/2026102621513944984"
+        },
+        {
+          "title": "일본계 투자사 \"JYP 지분 25∼50% 인수추진\"…JYP \"제안 無\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261026223007zyZ"
+        },
+        {
+          "title": "[공식] JYP엔터테인먼트, 日지분 인수설에 \"제안 받은 바 없다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/26/G44WEYJQMEYTQNZZMQ2TCYRXGI/"
+        }
+      ]
+    },
+    {
+      "title": "ballon d'or",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 05:10:00 -0700",
+      "news": [
+        {
+          "title": "Ballon d'Or predictions: Will Lamine Yamal, Harry Kane, Kylian Mbappe or Lionel Messi win?",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/cqjdmn0ndxjxo"
+        },
+        {
+          "title": "Haaland and Bouaddi in running for 2026 men's Ballon d’Or awards",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/en/news/haaland-and-bouaddi-in-running-for-2026-mens-ballon-dor-awards-43674217"
+        },
+        {
+          "title": "Why is 2026 Ballon d'Or ceremony being held in London?",
+          "source": "London Evening Standard",
+          "url": "https://www.standard.co.uk/sport/football/why-is-ballon-dor-ceremony-in-london-b1301740.html"
+        }
+      ]
+    },
+    {
+      "title": "persija jakarta vs persik",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 05:00:00 -0700",
+      "news": [
+        {
+          "title": "Persija Jakarta vs Persik Kediri Live Score Today, October 26, 2026: Latest Score, Lineups, and Match Updates",
+          "source": "Aktualita.co",
+          "url": "https://aktualita.co/en/sports/persija-jakarta-vs-persik-kediri-live-score-today-october-26-2026-latest-score-lineups-and-match-updates"
+        },
+        {
+          "title": "Live Streaming Link for Persija Jakarta vs Persik Kediri Tonight, October 26, 2026: Indosiar and Vidio Broadcast Schedule",
+          "source": "Aktualita.co",
+          "url": "https://aktualita.co/en/sports/live-streaming-link-for-persija-jakarta-vs-persik-kediri-tonight-october-26-2026-indosiar-and-vidio-broadcast-schedule"
+        }
+      ]
+    },
+    {
+      "title": "ai 버블",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 04:50:00 -0700",
+      "news": [
+        {
+          "title": "[단독 한국 역대급 수출에도 車·철강 한파 … 위태로운 '반도체 독주'",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12186126"
+        },
+        {
+          "title": "\"AI 붐 붕괴 시 증시 20조달러·채권 2천억달러 손실\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441082"
+        },
+        {
+          "title": "\"AI 거품·고금리 여파…11월 이후 신용 리스크 본격화 우려\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838939"
+        }
+      ]
+    },
+    {
+      "title": "대한전선",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 04:50:00 -0700",
+      "news": [
+        {
+          "title": "김대헌 의장·송종민 대표 '투트랙'...호반건설, 정비사업서 반등 해법 찾는다",
+          "source": "뉴스웨이",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026102610325793007"
+        },
+        {
+          "title": "대한전선, 해외 계약 확대 속 설비 투자 부담도 증가",
+          "source": "폴리뉴스 Polinews",
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=746854"
+        },
+        {
+          "title": "대한전선 인수한 호반, 2세 김대헌 전면에…확장보다 ‘수주 성과’가 먼저",
+          "source": "https://www.ppss.kr/",
+          "url": "https://www.ppss.kr/news/articleView.html?idxno=317302"
         }
       ]
     }
