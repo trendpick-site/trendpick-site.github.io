@@ -1,22 +1,44 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T16:30:45+00:00",
+  "fetched_at": "2026-10-26T17:22:42+00:00",
   "items": [
     {
+      "title": "블리치",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 09:00:00 -0700",
+      "news": [
+        {
+          "title": "Bleach: Popular anime series officially ends as fans say goodbye",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c8p3g73ep520o"
+        },
+        {
+          "title": "'BLEACH' Creator Tite Kubo: Blood, Sweat, Tears, and Ink (Cover Story)",
+          "source": "Hypebeast",
+          "url": "https://hypebeast.com/2026/10/tite-kubo-bleach-hypebeast-magazine-issue-38-cover-story"
+        },
+        {
+          "title": "Bleach: Thousand-Year Blood War Finale Synopsis Reveals a Ten-Year Time Skip and a New Threat",
+          "source": "IGN India",
+          "url": "https://in.ign.com/bleach-thousand-year-blood-war/275311/bleach-thousand-year-blood-war-finale-synopsis-reveals-a-ten-year-time-skip-and-a-new-threat"
+        }
+      ]
+    },
+    {
       "title": "베식타시 대 이스탄불 바샥셰히르",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Mon, 26 Oct 2026 08:10:00 -0700",
       "news": [
         {
-          "title": "Beşiktaş vs İstanbul Başakşehir: Turkish Süper Lig stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/sport/football/live/cmx23dp2ggkvt"
+          "title": "Preview: Besiktas vs Istanbul Basaksehir - prediction, team news, lineups",
+          "source": "Sports Mole",
+          "url": "https://www.sportsmole.co.uk/football/besiktas/preview/besiktas-vs-istanbul-prediction-team-news-lineups_607618.html"
         },
         {
-          "title": "Besiktas vs Istanbul Basaksehir Prediction and Betting Tips - 26 October 2026",
-          "source": "Betfred Insights",
-          "url": "https://insights.betfred.com/football/besiktas-vs-istanbul-basaksehir-prediction-betting-tips-monday-26-october-2026/"
+          "title": "ω [WATCHLIvE]HQ !] Beşiktaş vs Başakşehir LIVE FREE: Online Turkish Super Lig 26 october 2026",
+          "source": "小豆島町",
+          "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9qYWwvIi8+PC9rcnBhbm8+&id=video-watchlive-hq-besiktas-vs-basaksehir-live-free-onli-pro-tv"
         },
         {
           "title": "Beşiktaş vs Istanbul prediction: expert analysis, possible lineups, October 26, 2026",
@@ -26,46 +48,24 @@
       ]
     },
     {
-      "title": "북한 자주포",
-      "approx_traffic": "2000+",
-      "published": "Mon, 26 Oct 2026 08:00:00 -0700",
-      "news": [
-        {
-          "title": "접경으로 남하한 북한 자주포…안보리엔 “한국의 자작극” 서한",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695590"
-        },
-        {
-          "title": "韓 카메라에 찍힐만큼 내려온 북한군 자주포…접경지 긴장고조",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261025045900504"
-        },
-        {
-          "title": "접경지에서 북한 자주포 포착...포신 작동하며 훈련",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202610261423034735"
-        }
-      ]
-    },
-    {
       "title": "범죄",
-      "approx_traffic": "2000+",
+      "approx_traffic": "1000+",
       "published": "Mon, 26 Oct 2026 07:50:00 -0700",
       "news": [
         {
-          "title": "김수현 측 \"故김새론 모친 등 범죄 혐의 인정…검찰 송치\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6597037"
+          "title": "[이슈K] 보호막 뚫린 관계성 범죄…피해자 안전망, 어디에",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695447"
         },
         {
-          "title": "경찰, 고 김새론 유족 '김수현 명예훼손' 혐의 송치",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610262318392519"
+          "title": "김남희 “교제 폭력, 살인 전 막아야”…스토킹처벌법 개정 촉구",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1773395"
         },
         {
-          "title": "김수현측 “故김새론 모친·이모 사칭한 공범도 송치”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261026/134912319/2"
+          "title": "휴대폰 뺏고 가족도 차단?…판결문 속 범행 전 '위험 신호'",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815704"
         }
       ]
     },
@@ -93,7 +93,7 @@
     },
     {
       "title": "apple",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 26 Oct 2026 07:30:00 -0700",
       "news": [
         {
@@ -102,36 +102,36 @@
           "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"
         },
         {
-          "title": "OLED iPad mini: Apple adds an A20 Pro, IP67 and an 8.5-inch screen",
-          "source": "The Next Web",
-          "url": "https://thenextweb.com/news/apple-oled-ipad-mini-a20-pro-ip67"
+          "title": "Apple updates the iPad Mini with a larger OLED display",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce"
         },
         {
-          "title": "Apple just revealed the iPad Mini I’ve always wanted. But is it worth the new price?",
-          "source": "CNN",
-          "url": "https://www.cnn.com/cnn-underscored/electronics/ipad-mini-8"
+          "title": "Apple Updates The iPad Mini With An A20 Processor And OLED Display",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2296637/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/"
         }
       ]
     },
     {
       "title": "시효",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 26 Oct 2026 07:20:00 -0700",
       "news": [
         {
-          "title": "응에안성 출신 국회의원들은 데이터 및 전자신분증 관련 규제를 강화할 것을 제안했습니다.",
+          "title": "응우옌 두이 응옥 씨는 행정 위반 사항을 처리하는 데 과학 기술을 적용하는 것에 대해 이야기했습니다.",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/dai-bieu-quoc-hoi-tinh-nghe-an-de-nghi-siet-quy-dinh-ve-du-lieu-dinh-danh-dien-tu"
+          "url": "https://www.vietnam.vn/ko/ong-nguyen-duy-ngoc-noi-ve-ap-dung-khoa-hoc-ky-thuat-de-xu-ly-vi-pham-hanh-chinh"
         },
         {
-          "title": "국회, 데이터 보안법 초안 논의",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/thoi-su/quoc-hoi-thao-luan-ve-du-an-luat-an-ninh-du-lieu-1789190.ldo"
+          "title": "사람들은 국경 검문소에 도착했을 때 일시적인 여행 금지 조치에 대해 통보받아야 할 뿐만 아니라, 그 이상의 조치를 받아야 합니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/khong-nen-de-nguoi-dan-chi-biet-bi-tam-hoan-xuat-canh-khi-den-cua-khau"
         },
         {
-          "title": "국제 항공 운송 운영에 영향을 미치는 장애물 제거.",
+          "title": "디지털 환경에 대한 집행 조치를 추가하는 제안.",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/thao-go-cac-vuong-mac-anh-huong-den-hoat-dong-van-tai-hang-khong-quoc-te"
+          "url": "https://www.vietnam.vn/ko/de-xuat-bo-sung-bien-phap-cuong-che-doi-voi-moi-truong-so"
         }
       ]
     },
@@ -159,7 +159,7 @@
     },
     {
       "title": "반려견",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Mon, 26 Oct 2026 07:00:00 -0700",
       "news": [
         {
@@ -168,14 +168,14 @@
           "url": "https://www.mt.co.kr/sports/2026/10/27/202610261614775856O"
         },
         {
+          "title": "충격! 리버풀 출신 스타, 맹견 물려 50바늘 넘게 꿰맸다…그런데 \"신고 안해\" 아찔했던 사연은",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/27/MY3TCMRWMYZDOMTFMMYDGYTBHA/"
+        },
+        {
           "title": "\"다리 물어뜯겨 50바늘 넘게 꿰맸다!\" 前 PL 스타, 산책 중 개에게 습격당해 중상...반려견이 목숨 구했다",
           "source": "스포탈코리아",
           "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553645129"
-        },
-        {
-          "title": "충격! 리버풀 출신 스타, 맹견 물려 50바늘 넘게 꿰맸다…그런데 \"신고 안해\" 아찔했던 사연은",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-10-27/202610270100167190010916"
         }
       ]
     },
@@ -207,19 +207,19 @@
       "published": "Mon, 26 Oct 2026 06:40:00 -0700",
       "news": [
         {
-          "title": "Devin Haney inks multifight deal with DAZN, wants 'biggest challenges'",
-          "source": "ESPN",
-          "url": "https://www.espn.com/boxing/story/_/id/50260336/haney-inks-multifight-deal-dazn-wants-biggest-challenges"
+          "title": "Foxtel’s billionaire owner extends Dazn funding lifeline another year",
+          "source": "AFR",
+          "url": "https://www.afr.com/companies/media-and-marketing/foxtel-s-billionaire-owner-extends-dazn-funding-lifeline-another-year-20261026-p618n6"
         },
         {
-          "title": "Devin Haney rejects Dana White’s Zuffa Boxing to sign bumper deal with DAZN",
-          "source": "talkSPORT",
-          "url": "https://talksport.com/boxing/4662570/devin-haney-dana-white-zuffa-boxing-dazn/"
+          "title": "Billionaire Len Blavatnik’s Access Industries Backs DAZN for Another 12 Months",
+          "source": "CEOWORLD magazine",
+          "url": "https://ceoworld.biz/2026/10/26/billionaire-len-blavatniks-access-industries-backs-dazn-for-another-12-months/"
         },
         {
-          "title": "Sources: Haney, Paro agree to welterweight title unification",
-          "source": "The Ring",
-          "url": "https://www.ringmagazine.com/news/sources-haney-paro-agree-to-welterweight-title-unification-XHwslKzof7wLNMDmDEIGc"
+          "title": "DAZN loses $979.7m on $3.8bn revenue in first consolidated UK accounts",
+          "source": "PPC Land",
+          "url": "https://ppc.land/dazn-loses-979-7m-on-3-8bn-revenue-in-first-consolidated-uk-accounts/"
         }
       ]
     }
