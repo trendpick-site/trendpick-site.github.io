@@ -1,27 +1,159 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T13:59:39+00:00",
+  "fetched_at": "2026-10-26T15:39:19+00:00",
   "items": [
+    {
+      "title": "마린 칠리치",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "2014년 US오픈 우승자 마린 칠리치, ATP 125 서울오픈 1회전 탈락",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335178"
+        },
+        {
+          "title": "'1번 시드' 칠리치, 서올오픈 챌린저 테니스 1회전 탈락",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026159600007"
+        },
+        {
+          "title": "\"세계적인 스타보다 권순우 형이 더 놀랍다!\" 韓 기대주 솔직 고백... 정말 일냈다 \"한국 테니스 잘해 나도 힘난다\" [서울오픈 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/26/2026102514510758021"
+        }
+      ]
+    },
+    {
+      "title": "시효",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 07:20:00 -0700",
+      "news": [
+        {
+          "title": "응에안성 출신 국회의원들은 데이터 및 전자신분증 관련 규제를 강화할 것을 제안했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/dai-bieu-quoc-hoi-tinh-nghe-an-de-nghi-siet-quy-dinh-ve-du-lieu-dinh-danh-dien-tu"
+        },
+        {
+          "title": "국회, 데이터 보안법 초안 논의",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/thoi-su/quoc-hoi-thao-luan-ve-du-an-luat-an-ninh-du-lieu-1789190.ldo"
+        },
+        {
+          "title": "국제 항공 운송 운영에 영향을 미치는 장애물 제거.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/thao-go-cac-vuong-mac-anh-huong-den-hoat-dong-van-tai-hang-khong-quoc-te"
+        }
+      ]
+    },
+    {
+      "title": "냉장고를 부탁해",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 07:20:00 -0700",
+      "news": [
+        {
+          "title": "‘냉부’, 팬 초대한다면서 사진·방송 경력 내라니...난데없는 자격 논란",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/26/MYYTMYRTGIZDSNZTGRRTKOLGHE/"
+        },
+        {
+          "title": "\"자격 요건이 셀럽?\"…SNS·방송 경력 묻는 '냉부', 팬 여론 싸늘 [이슈in]",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522498"
+        },
+        {
+          "title": "'냉장고를 부탁해' 2주년 특집 '직관 데이' 개최",
+          "source": "비즈엔터",
+          "url": "https://m.enter.etoday.co.kr/view/news_view.php?varAtcId=304302"
+        }
+      ]
+    },
+    {
+      "title": "반려견",
+      "approx_traffic": "1000+",
+      "published": "Mon, 26 Oct 2026 07:00:00 -0700",
+      "news": [
+        {
+          "title": "반려견 뒷다리 잡고 5층 창 밖으로…영상 속 남성, 알고 보니?",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261026140542hf7"
+        },
+        {
+          "title": "자전거 탄 반려견",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8179519"
+        },
+        {
+          "title": "'역시 슈퍼스타' 김도영, 또 기록 불러냈다…투수 피 말린다, 26년 묵은 기록 소환 [PO1]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/26/MIYGIYRYGM3TINDDGFTDOMDGME/"
+        }
+      ]
+    },
+    {
+      "title": "이태원 참사",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 06:50:00 -0700",
+      "news": [
+        {
+          "title": "[이태원 참사 4주기] 이태원 참사 '미공개 파일'... 실패한 국가의 초상",
+          "source": "뉴스타파",
+          "url": "https://newstapa.org/article/RqjHb"
+        },
+        {
+          "title": "보랏빛으로 물든 서울광장",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261024000106"
+        },
+        {
+          "title": "[이태원참사 4주기]더딘 책임자 처벌, 끝나지 않은 조사···진상규명 어디까지 왔나",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610260600071"
+        }
+      ]
+    },
+    {
+      "title": "dazn",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "Devin Haney inks multifight deal with DAZN, wants 'biggest challenges'",
+          "source": "ESPN",
+          "url": "https://www.espn.com/boxing/story/_/id/50260336/haney-inks-multifight-deal-dazn-wants-biggest-challenges"
+        },
+        {
+          "title": "Devin Haney rejects Dana White’s Zuffa Boxing to sign bumper deal with DAZN",
+          "source": "talkSPORT",
+          "url": "https://talksport.com/boxing/4662570/devin-haney-dana-white-zuffa-boxing-dazn/"
+        },
+        {
+          "title": "Sources: Haney, Paro agree to welterweight title unification",
+          "source": "The Ring",
+          "url": "https://www.ringmagazine.com/news/sources-haney-paro-agree-to-welterweight-title-unification-XHwslKzof7wLNMDmDEIGc"
+        }
+      ]
+    },
     {
       "title": "군인",
       "approx_traffic": "2000+",
       "published": "Mon, 26 Oct 2026 05:30:00 -0700",
       "news": [
         {
-          "title": "단독 국방부, '지뢰부상' 전상 입증 책임 덜어준다...법안 마련 착수",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202610240451066761"
+          "title": "야시장부터 축제 벤치마킹까지…화천군의회 현장 소통",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261026102021377"
         },
         {
-          "title": "[국감] 질의에 답하는 이주은 퍼플하트 사무국장",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8179465"
+          "title": "[의회중계석] “제설 방식별 경제성 비교 합리적 대책 마련해야”",
+          "source": "강원도민일보",
+          "url": "https://www.kado.net/news/curationView.html?idxno=2080268"
         },
         {
-          "title": "이언주 의원, 지뢰피해 군인 보상 강화 3법 발의",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799326"
+          "title": "화천군의회 “유용미생물 공급 홍보 강화·주민 혜택 확대”",
+          "source": "강원일보",
+          "url": "https://www.kwnews.co.kr/article/20261019501495"
         }
       ]
     },
@@ -31,47 +163,25 @@
       "published": "Mon, 26 Oct 2026 05:30:00 -0700",
       "news": [
         {
-          "title": "국힘 \"조희대 탄핵 시도하면 장외투쟁으로 맞서 싸울것\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6860827_36911.html"
+          "title": "“70대 노모에 19차례 연락”…문재인 뇌물 수사에 검찰총장 대행 “뼈 발라내는 수사”",
+          "source": "시사저널",
+          "url": "https://www.sisajournal.com/news/articleView.html?idxno=391353"
         },
         {
-          "title": "'오세훈 무죄' 놓고도 격돌...\"조희대 탄핵\"·\"제정신인가\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202610262206599331"
-        },
-        {
-          "title": "[주장] '차근차근' 하겠단 민주당, '단호함'이 필요하다",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278583"
-        }
-      ]
-    },
-    {
-      "title": "조상우",
-      "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 05:20:00 -0700",
-      "news": [
-        {
-          "title": "[포토] 사토시 '달구벌 스나이퍼' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/26/2026102621324158035"
-        },
-        {
-          "title": "7회초 등판한 김태훈",
+          "title": "공소청 미제 적체·중수청 인프라 구축…檢폐지 과제 남긴 국감",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8180092"
+          "url": "https://www.news1.kr/society/court-prosecution/6330300"
         },
         {
-          "title": "[사진]이승민 역투",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/10/26/MQ4TAM3EME4WEN3DHE4TIMJSGQ/"
+          "title": "[단독] 與 “文 뇌물 공소취소하라” 수사 검사 “국감서 운운할 일 아냐”",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25472450"
         }
       ]
     },
     {
       "title": "이세돌",
-      "approx_traffic": "200+",
+      "approx_traffic": "100+",
       "published": "Mon, 26 Oct 2026 05:20:00 -0700",
       "news": [
         {
@@ -85,15 +195,15 @@
           "url": "https://enews.imbc.com/M/Detail/522492"
         },
         {
-          "title": "'알파고와 대국' 이세돌, AI로 대체 힘든 직업 찾았다",
-          "source": "뉴시스",
-          "url": "https://nwww.newsis.com/view/NISX20261023_0003839041"
+          "title": "[백수 이세돌] 출입문 비밀번호 잊은 선배 당황 순간에 이세돌 따뜻한 격려 “인간적인 모습 좋았다”",
+          "source": "KBS연예",
+          "url": "https://kstar.kbs.co.kr/list_view.html?idx=413055"
         }
       ]
     },
     {
       "title": "여행경보",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Mon, 26 Oct 2026 05:10:00 -0700",
       "news": [
         {
@@ -110,111 +220,6 @@
           "title": "‘진짜 위험하네’ 한국인 납치·감금 급증…여행경보발령 10개국 ‘비상’",
           "source": "경기일보",
           "url": "https://www.kyeonggi.com/article/20261026580073"
-        }
-      ]
-    },
-    {
-      "title": "jyp 엔터테인먼트",
-      "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 05:10:00 -0700",
-      "news": [
-        {
-          "title": "주가 치솟자 \"지분 인수 제안받은 적 없어\" JYP 선 그었다...무슨 일? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/26/2026102621513944984"
-        },
-        {
-          "title": "일본계 투자사 \"JYP 지분 25∼50% 인수추진\"…JYP \"제안 無\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261026223007zyZ"
-        },
-        {
-          "title": "[공식] JYP엔터테인먼트, 日지분 인수설에 \"제안 받은 바 없다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/26/G44WEYJQMEYTQNZZMQ2TCYRXGI/"
-        }
-      ]
-    },
-    {
-      "title": "ballon d'or",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 05:10:00 -0700",
-      "news": [
-        {
-          "title": "Ballon d'Or predictions: Will Lamine Yamal, Harry Kane, Kylian Mbappe or Lionel Messi win?",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/cqjdmn0ndxjxo"
-        },
-        {
-          "title": "Haaland and Bouaddi in running for 2026 men's Ballon d’Or awards",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/haaland-and-bouaddi-in-running-for-2026-mens-ballon-dor-awards-43674217"
-        },
-        {
-          "title": "Why is 2026 Ballon d'Or ceremony being held in London?",
-          "source": "London Evening Standard",
-          "url": "https://www.standard.co.uk/sport/football/why-is-ballon-dor-ceremony-in-london-b1301740.html"
-        }
-      ]
-    },
-    {
-      "title": "persija jakarta vs persik",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 05:00:00 -0700",
-      "news": [
-        {
-          "title": "Persija Jakarta vs Persik Kediri Live Score Today, October 26, 2026: Latest Score, Lineups, and Match Updates",
-          "source": "Aktualita.co",
-          "url": "https://aktualita.co/en/sports/persija-jakarta-vs-persik-kediri-live-score-today-october-26-2026-latest-score-lineups-and-match-updates"
-        },
-        {
-          "title": "Live Streaming Link for Persija Jakarta vs Persik Kediri Tonight, October 26, 2026: Indosiar and Vidio Broadcast Schedule",
-          "source": "Aktualita.co",
-          "url": "https://aktualita.co/en/sports/live-streaming-link-for-persija-jakarta-vs-persik-kediri-tonight-october-26-2026-indosiar-and-vidio-broadcast-schedule"
-        }
-      ]
-    },
-    {
-      "title": "ai 버블",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 04:50:00 -0700",
-      "news": [
-        {
-          "title": "[단독 한국 역대급 수출에도 車·철강 한파 … 위태로운 '반도체 독주'",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12186126"
-        },
-        {
-          "title": "\"AI 붐 붕괴 시 증시 20조달러·채권 2천억달러 손실\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441082"
-        },
-        {
-          "title": "\"AI 거품·고금리 여파…11월 이후 신용 리스크 본격화 우려\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003838939"
-        }
-      ]
-    },
-    {
-      "title": "대한전선",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 04:50:00 -0700",
-      "news": [
-        {
-          "title": "김대헌 의장·송종민 대표 '투트랙'...호반건설, 정비사업서 반등 해법 찾는다",
-          "source": "뉴스웨이",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026102610325793007"
-        },
-        {
-          "title": "대한전선, 해외 계약 확대 속 설비 투자 부담도 증가",
-          "source": "폴리뉴스 Polinews",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=746854"
-        },
-        {
-          "title": "대한전선 인수한 호반, 2세 김대헌 전면에…확장보다 ‘수주 성과’가 먼저",
-          "source": "https://www.ppss.kr/",
-          "url": "https://www.ppss.kr/news/articleView.html?idxno=317302"
         }
       ]
     }
