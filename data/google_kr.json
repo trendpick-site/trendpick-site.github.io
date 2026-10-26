@@ -1,27 +1,115 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T20:42:53+00:00",
+  "fetched_at": "2026-10-26T21:14:46+00:00",
   "items": [
     {
+      "title": "추미애",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 13:10:00 -0700",
+      "news": [
+        {
+          "title": "추미애 “오세훈 똑 닮아” 비판에 “장애인 예산 세심하게 살필 것”",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1773417"
+        },
+        {
+          "title": "민주 서미화, 추미애에 “‘오세훈 똑 닯았다’ 비난, 민주당 감당 어려워”",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610262339001"
+        },
+        {
+          "title": "\"동료 30명 해고\"..'다운증후군 작가' 서은혜 오열 \"예산 127억→0원 삭감\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/24/GBRTMNJRGI2DKZBUGEZDGOJYGI/"
+        }
+      ]
+    },
+    {
+      "title": "배구",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 13:10:00 -0700",
+      "news": [
+        {
+          "title": "'V-리그가 일상 속으로' 한국배구연맹, 페스티버와 손잡고 모바일 액세서리 컬렉션 출시",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112898179"
+        },
+        {
+          "title": "'V리그 14개 구단이 휴대폰 속으로' KOVO, 페스티버와 협업 컬렉션 출시→26일 공개 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/26/2026102609362357756"
+        },
+        {
+          "title": "V-리그와 배구 문화 `일상에서 만난다`…KOVO, 페스티버와 협업 컬렉션 출시",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026102612255319388"
+        }
+      ]
+    },
+    {
+      "title": "보조금",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 13:00:00 -0700",
+      "news": [
+        {
+          "title": "수소차 키우는 현대차… 국내 5만대 넘었다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/27/2026102619595333125"
+        },
+        {
+          "title": "수소차 5만대 시대 열렸는데…정부는 지원 축소, 수소 생태계 '우려'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003841754"
+        },
+        {
+          "title": "'유재석 車' 입소문 나더니…국내서 5만대 넘게 팔렸다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610264451g"
+        }
+      ]
+    },
+    {
+      "title": "이차 전지",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 12:40:00 -0700",
+      "news": [
+        {
+          "title": "지아이텍, KCC글라스와 32억 규모 공급 계약 체결",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03099606645616856"
+        },
+        {
+          "title": "지아이텍, 자동차 유리 검사장비 신규 수주…“전방산업 다변화 성과”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626187"
+        },
+        {
+          "title": "지아이텍, 32억 규모 원판 글래스 검사기 계약",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003840747"
+        }
+      ]
+    },
+    {
       "title": "주가",
-      "approx_traffic": "5000+",
+      "approx_traffic": "1000+",
       "published": "Mon, 26 Oct 2026 12:30:00 -0700",
       "news": [
         {
-          "title": "SK하닉, 최대 60조원 주주환원 카드 꺼낸다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20106258"
+          "title": "10월 소비심리 1.2p↓…“증시 조정·중동 불안 영향”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695862"
         },
         {
-          "title": "'184조' 벌고도...\"주가는 왜 역주행?\" 삼전닉스 역사적 저평가 - 머니투데이",
+          "title": "주가 떨어지자 소비심리도 꺾였다…경기·고용 기대 동반 하락 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/27/2026102620094547941"
+          "url": "https://www.mt.co.kr/economy/2026/10/27/2026102616492784293"
         },
         {
-          "title": "삼성전자·SK하이닉스 영업이익 180조 전망...주주환원책 '주목'",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202610261109104242"
+          "title": "주가 하락이 끌어내리는 소비 심리…한 달 만에 하락 전환",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/10/27/FNKRS6BP6BGJVKLWTYNLCP6NAA/"
         }
       ]
     },
@@ -49,35 +137,40 @@
     },
     {
       "title": "사업",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Mon, 26 Oct 2026 12:10:00 -0700",
       "news": [
         {
-          "title": "이천 온천교·북부광장 등 보안등 103곳 교체",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003841480"
+          "title": "국토부, 노후 산업단지 재생사업 대상지 3곳 공모",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026131700003"
         },
         {
-          "title": "이천시 온천교, 사계절 빛으로 물든다…야간경관 개선사업 준공",
-          "source": "서울경제TV",
-          "url": "https://www.sentv.co.kr/article/view/sentv202610260239"
+          "title": "노후 산단 재생사업 3곳 공모…최대 500억 지원·지방 가점",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/realestate/general/6332177"
+        },
+        {
+          "title": "노후 산단 재생사업 3곳 공모…지방에 가점·태양광 지원",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610261409474781"
         }
       ]
     },
     {
       "title": "추위",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Mon, 26 Oct 2026 12:10:00 -0700",
       "news": [
-        {
-          "title": "[날씨] 내일 전국 강한 찬바람…수요일 아침 한파, 곳곳 영하권",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261026202321CBZ"
-        },
         {
           "title": "오늘 대체로 맑지만, 찬 바람 불면서 추워져",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8695854"
+        },
+        {
+          "title": "[날씨] 찬바람 쌩쌩…내일 아침 ’가을 한파’ 올가을 가장 추워",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610270538057a6"
         },
         {
           "title": "지각태풍 지난 뒤 오늘 강풍, 내일 한파",
@@ -127,94 +220,6 @@
           "title": "리그 1 PSG 대 리옹 경기 예측",
           "source": "Laodong.vn",
           "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-psg-vs-lyon-tai-ligue-1-1789313.ldo"
-        }
-      ]
-    },
-    {
-      "title": "부고",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 11:40:00 -0700",
-      "news": [
-        {
-          "title": "[부고]강순출 별세 外",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/People/article/all/20261027/134913538/2"
-        },
-        {
-          "title": "[부고]박창수(연합뉴스 부산취재본부 부장) 씨 모친상",
-          "source": "부산일보",
-          "url": "https://mobile.busan.com/view/election/view.php?code=2026102615472463961"
-        },
-        {
-          "title": "[부고] 박창수 씨(연합뉴스 부산취재본부 부장) 모친상",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/life-culture/press/6332417"
-        }
-      ]
-    },
-    {
-      "title": "페이커",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 10:50:00 -0700",
-      "news": [
-        {
-          "title": "게임·음악·굿즈…‘LoL 세상’ 열린다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610252053045"
-        },
-        {
-          "title": "롯데백화점, 롤 팝업스토어 연다…'페이커' 기념우표도 판매",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261025113104"
-        },
-        {
-          "title": "[라이엇 스토어] Riot Games Music & Worlds 26 Popup Store에서 라이엇 스토어를 만나보세요!",
-          "source": "League of Legends",
-          "url": "https://www.leagueoflegends.com/ko-kr/news/merch/riot-games-music-worlds-2026-popup-store/"
-        }
-      ]
-    },
-    {
-      "title": "리그오브레전드",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 10:50:00 -0700",
-      "news": [
-        {
-          "title": "리그 오브 레전드 초대 월드 챔피언이 31세의 나이로 세상을 떠났습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nha-vo-dich-lien-minh-huyen-thoai-the-gioi-dau-tien-qua-doi-o-tuoi-31"
-        },
-        {
-          "title": "프나틱 출신 롤드컵 초대 우승 정글러 '사이나이드' 라우리 하포넨, 향년 31세로 별세",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/kr/articles/cyanide-former-fnatic-jungler-and-lol-world-champion-dies-aged-31/kr"
-        },
-        {
-          "title": "[롤드컵 톡톡] '루키' 송의진, \"한화생명, LPL 팀 같은 공격성… 익숙한 양상서 승리\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898122"
-        }
-      ]
-    },
-    {
-      "title": "도란",
-      "approx_traffic": "2000+",
-      "published": "Mon, 26 Oct 2026 10:30:00 -0700",
-      "news": [
-        {
-          "title": "[롤드컵 톡톡] '커리어' 오형석, \"첫 월즈여도 자신감 정말 넘쳐\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898139"
-        },
-        {
-          "title": "[롤드컵]젠지·DK 8강 직행…T1은 1승 남아, 한화생명 벼랑 끝",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003841430"
-        },
-        {
-          "title": "[롤드컵] 젠지와 디플러스 기아, 8강 선착…한화생명은 2패째로 탈락 위기",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/10/26/MM4TGYRXG5TDKMTGGIYTGZBVG4/"
         }
       ]
     }
