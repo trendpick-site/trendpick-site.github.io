@@ -1,8 +1,69 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T19:23:49+00:00",
+  "fetched_at": "2026-10-26T20:10:08+00:00",
   "items": [
+    {
+      "title": "psg 대 리옹",
+      "approx_traffic": "1000+",
+      "published": "Mon, 26 Oct 2026 12:00:00 -0700",
+      "news": [
+        {
+          "title": "이번 월요일 PSG-리옹전: 지하철·RER 이용 및 파르크 데 프랭스 경기장 접근 정보",
+          "source": "Sortir à Paris",
+          "url": "https://www.sortiraparis.com/ko/sosig/palieseo/articles/355845-ibeon-wol-yoil-psg-liongjeon-jihacheol-rer-mich-paleukeu-de-peulaengseu-jeobgeun-jeongbo"
+        },
+        {
+          "title": "파리 생제르맹 vs 리옹 경기 예측: 홈팀이 연승 행진을 이어갈 수 있을까?",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-paris-saint-germain-vs-lyon-chu-nha-noi-dai-mach-thang-hoa"
+        },
+        {
+          "title": "리그 1 PSG 대 리옹 경기 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-psg-vs-lyon-tai-ligue-1-1789313.ldo"
+        }
+      ]
+    },
+    {
+      "title": "부고",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 11:40:00 -0700",
+      "news": [
+        {
+          "title": "[부고]김성훈 문화일보 기자 숙부상",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626368"
+        },
+        {
+          "title": "오늘의 부고-김유일 코람코자산운용 부회장 모친상 외",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610261538011"
+        }
+      ]
+    },
+    {
+      "title": "페이커",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 10:50:00 -0700",
+      "news": [
+        {
+          "title": "게임·음악·굿즈…‘LoL 세상’ 열린다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610252053045"
+        },
+        {
+          "title": "롯데백화점, 롤 팝업스토어 연다…'페이커' 기념우표도 판매",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261025113104"
+        },
+        {
+          "title": "[라이엇 스토어] Riot Games Music & Worlds 26 Popup Store에서 라이엇 스토어를 만나보세요!",
+          "source": "League of Legends",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/merch/riot-games-music-worlds-2026-popup-store/"
+        }
+      ]
+    },
     {
       "title": "리그오브레전드",
       "approx_traffic": "200+",
@@ -26,30 +87,8 @@
       ]
     },
     {
-      "title": "월즈",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 10:40:00 -0700",
-      "news": [
-        {
-          "title": "게임·음악·굿즈…‘LoL 세상’ 열린다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610252053045"
-        },
-        {
-          "title": "롯데백화점, 롤 팝업스토어 연다…'페이커' 기념우표도 판매",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261025113104"
-        },
-        {
-          "title": "[라이엇 스토어] Riot Games Music & Worlds 26 Popup Store에서 라이엇 스토어를 만나보세요!",
-          "source": "League of Legends",
-          "url": "https://www.leagueoflegends.com/ko-kr/news/merch/riot-games-music-worlds-2026-popup-store/"
-        }
-      ]
-    },
-    {
-      "title": "도란",
-      "approx_traffic": "1000+",
+      "title": "2026 롤드컵",
+      "approx_traffic": "2000+",
       "published": "Mon, 26 Oct 2026 10:30:00 -0700",
       "news": [
         {
@@ -88,28 +127,6 @@
           "title": "Worlds 2026: Dplus KIA Ace T1 at Elder Dragon to Secure 2-0 Pool",
           "source": "EGamersWorld",
           "url": "https://egamersworld.com/lol/news/38026/dplus-kia-steal-impossible-comeback-win-over-t1-at-qCGVOV79J"
-        }
-      ]
-    },
-    {
-      "title": "t1",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 10:00:00 -0700",
-      "news": [
-        {
-          "title": "T1 Defeat CFO Behind Bot Duo's Performance to Reach 2 Wins",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/27718/t1-defeat-cfo-behind-bot-duos-performance-to-reach-2-wins"
-        },
-        {
-          "title": "T1 Hosts 256-Player 'Riftbound' Tournament, Largest in South Korea",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/10/26/EGDLYDB4LNFPRLQWTHQM35SIZ4/"
-        },
-        {
-          "title": "T1 to Host 256-Player Riftbound Tournament 'T1 Trials'",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/27690/t1-to-host-256-player-riftbound-tournament-t1-trials"
         }
       ]
     },
@@ -198,28 +215,6 @@
           "title": "삼계 각지에서 유하바하와의 마지막 혈전이 시작된다… 『블리치 천년혈전 편 : 화진담』 49화 줄거리 및 선행 컷 공개",
           "source": "ABEMA TIMES",
           "url": "https://times.abema.tv/ko/articles/-/10281920"
-        }
-      ]
-    },
-    {
-      "title": "베식타시 대 이스탄불 바샥셰히르",
-      "approx_traffic": "2000+",
-      "published": "Mon, 26 Oct 2026 08:10:00 -0700",
-      "news": [
-        {
-          "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl"
-        },
-        {
-          "title": "Reports: Three killed, including girl, in IDF strike in southern Gaza",
-          "source": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog_entry/reports-three-killed-including-girl-in-idf-strike-in-southern-gaza/"
-        },
-        {
-          "title": "Israeli fire kills four people in Gaza, medics say",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/israeli-fire-kills-four-people-gaza-medics-say-2026-10-22/"
         }
       ]
     }
