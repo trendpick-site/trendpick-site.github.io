@@ -1,11 +1,116 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T20:10:08+00:00",
+  "fetched_at": "2026-10-26T20:42:53+00:00",
   "items": [
     {
+      "title": "주가",
+      "approx_traffic": "5000+",
+      "published": "Mon, 26 Oct 2026 12:30:00 -0700",
+      "news": [
+        {
+          "title": "SK하닉, 최대 60조원 주주환원 카드 꺼낸다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20106258"
+        },
+        {
+          "title": "'184조' 벌고도...\"주가는 왜 역주행?\" 삼전닉스 역사적 저평가 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/27/2026102620094547941"
+        },
+        {
+          "title": "삼성전자·SK하이닉스 영업이익 180조 전망...주주환원책 '주목'",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202610261109104242"
+        }
+      ]
+    },
+    {
+      "title": "실업급여",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 12:30:00 -0700",
+      "news": [
+        {
+          "title": "강레오“실업급여로 日여행 청년들…사진 거절했다”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626132"
+        },
+        {
+          "title": "강레오 셰프 “실업급여로 日 여행 온 청년들, 사진 거부” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/26/FEUDZE2YBZHDROT7KHED7DHWQU/"
+        },
+        {
+          "title": "\"취직하면 사진 찍어줄게\" 실업급여로 日여행 간 청년에 강레오 '일침'",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102610514862720"
+        }
+      ]
+    },
+    {
+      "title": "사업",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 12:10:00 -0700",
+      "news": [
+        {
+          "title": "이천 온천교·북부광장 등 보안등 103곳 교체",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003841480"
+        },
+        {
+          "title": "이천시 온천교, 사계절 빛으로 물든다…야간경관 개선사업 준공",
+          "source": "서울경제TV",
+          "url": "https://www.sentv.co.kr/article/view/sentv202610260239"
+        }
+      ]
+    },
+    {
+      "title": "추위",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 12:10:00 -0700",
+      "news": [
+        {
+          "title": "[날씨] 내일 전국 강한 찬바람…수요일 아침 한파, 곳곳 영하권",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261026202321CBZ"
+        },
+        {
+          "title": "오늘 대체로 맑지만, 찬 바람 불면서 추워져",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695854"
+        },
+        {
+          "title": "지각태풍 지난 뒤 오늘 강풍, 내일 한파",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261027/134913115/2"
+        }
+      ]
+    },
+    {
+      "title": "나 혼자 산다",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 12:10:00 -0700",
+      "news": [
+        {
+          "title": "‘대세’ 차우민, 지큐 코리아 화보 공개…강렬한 스타일링부터 진솔한 고민까지",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261026/134907172/1"
+        },
+        {
+          "title": "MBC '나 혼자 산다', 2054 시청률 4주 연속 예능 1위 기염",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522468"
+        },
+        {
+          "title": "차우민 “반려뱀, 골든 리트리버 상이다”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261024501607"
+        }
+      ]
+    },
+    {
       "title": "psg 대 리옹",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Mon, 26 Oct 2026 12:00:00 -0700",
       "news": [
         {
@@ -31,14 +136,19 @@
       "published": "Mon, 26 Oct 2026 11:40:00 -0700",
       "news": [
         {
-          "title": "[부고]김성훈 문화일보 기자 숙부상",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626368"
+          "title": "[부고]강순출 별세 外",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/People/article/all/20261027/134913538/2"
         },
         {
-          "title": "오늘의 부고-김유일 코람코자산운용 부회장 모친상 외",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610261538011"
+          "title": "[부고]박창수(연합뉴스 부산취재본부 부장) 씨 모친상",
+          "source": "부산일보",
+          "url": "https://mobile.busan.com/view/election/view.php?code=2026102615472463961"
+        },
+        {
+          "title": "[부고] 박창수 씨(연합뉴스 부산취재본부 부장) 모친상",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/life-culture/press/6332417"
         }
       ]
     },
@@ -87,134 +197,24 @@
       ]
     },
     {
-      "title": "2026 롤드컵",
+      "title": "도란",
       "approx_traffic": "2000+",
       "published": "Mon, 26 Oct 2026 10:30:00 -0700",
       "news": [
+        {
+          "title": "[롤드컵 톡톡] '커리어' 오형석, \"첫 월즈여도 자신감 정말 넘쳐\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112898139"
+        },
         {
           "title": "[롤드컵]젠지·DK 8강 직행…T1은 1승 남아, 한화생명 벼랑 끝",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261026_0003841430"
         },
         {
-          "title": "[롤드컵] '성난' 젠지, 오브젝트 독식하며 라이온에 2세트 반격...1-1 원점",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898133"
-        },
-        {
-          "title": "[오!쎈 인터뷰] '지도자로 첫 월즈' 젠지 류상욱 감독, \"목표 오직 롤드컵 우승, 이상적인 팀 만들 것\"",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261025022933126"
-        }
-      ]
-    },
-    {
-      "title": "lck",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 10:20:00 -0700",
-      "news": [
-        {
-          "title": "Dplus, Gen.G, LYON, Movistar KOI improve to 2-0 at LoL Worlds",
-          "source": "The Daily News | Texas' Oldest Newspaper",
-          "url": "https://www.galvnews.com/news_reuters/sports/dplus-gen-g-lyon-movistar-koi-improve-to-2-0-at-lol-worlds/article_c1de5a5c-ac3d-5f00-a4f3-4c4b14b64ff2.html"
-        },
-        {
-          "title": "[LOL Meme] \"Ending in 2 minutes\" DK catches T1 with a one-shot turnaround",
-          "source": "게임메카",
-          "url": "https://www.gamemeca.com/en/view.php?gid=1782369"
-        },
-        {
-          "title": "Worlds 2026: Dplus KIA Ace T1 at Elder Dragon to Secure 2-0 Pool",
-          "source": "EGamersWorld",
-          "url": "https://egamersworld.com/lol/news/38026/dplus-kia-steal-impossible-comeback-win-over-t1-at-qCGVOV79J"
-        }
-      ]
-    },
-    {
-      "title": "cfo",
-      "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 09:40:00 -0700",
-      "news": [
-        {
-          "title": "FedEx appoints Jamere Jackson as chief financial officer By Reuters",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/fedex-appoints-jamere-jackson-as-chief-financial-officer-4972213"
-        },
-        {
-          "title": "FedEx's CFO hiring could spark more cash returns to shareholders",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/seekingalpha:18ee69d17094b:0-fedex-s-cfo-hiring-could-spark-more-cash-returns-to-shareholders/"
-        },
-        {
-          "title": "FedEx taps AutoZone executive to be finance chief",
-          "source": "FreightWaves",
-          "url": "https://www.freightwaves.com/news/fedex-taps-autozone-executive-to-be-finance-chief"
-        }
-      ]
-    },
-    {
-      "title": "학습",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 09:30:00 -0700",
-      "news": [
-        {
-          "title": "남양주시 유튜브 학습동아리 ‘N크레인’, 전국 평생학습 경연 최우수상",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719765"
-        },
-        {
-          "title": "군산시, 대한민국 평생학습도시 '좋은 정책상' 수상",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20261026002500353"
-        },
-        {
-          "title": "‘배우고 성장하는 장성군’ 힘찬 출발!",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799282"
-        }
-      ]
-    },
-    {
-      "title": "세르비아",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 09:20:00 -0700",
-      "news": [
-        {
-          "title": "'14년 권좌' 부치치 끌어내린 학생들…유럽 시위 파장 주목",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026173900108"
-        },
-        {
-          "title": "EU, 세르비아 정권 교체 환영…“EU 가입 지원할 것”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695572"
-        },
-        {
-          "title": "'총선 패배' 버려진 부치치 전대통령 포스터",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261026_0002273378"
-        }
-      ]
-    },
-    {
-      "title": "블리치",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 09:00:00 -0700",
-      "news": [
-        {
-          "title": "‘블리치: 천년혈전 편 - 상극담’의 최종 예고편 공개",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/10/bleach-thousand-year-blood-war-the-calamity-last-teaser-trailer-final-two-episodes-release-info"
-        },
-        {
-          "title": "[Ent+] '블리치' 애니메이션, 최종화와 함께 22년만에 종영",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322585"
-        },
-        {
-          "title": "삼계 각지에서 유하바하와의 마지막 혈전이 시작된다… 『블리치 천년혈전 편 : 화진담』 49화 줄거리 및 선행 컷 공개",
-          "source": "ABEMA TIMES",
-          "url": "https://times.abema.tv/ko/articles/-/10281920"
+          "title": "[롤드컵] 젠지와 디플러스 기아, 8강 선착…한화생명은 2패째로 탈락 위기",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/26/MM4TGYRXG5TDKMTGGIYTGZBVG4/"
         }
       ]
     }
