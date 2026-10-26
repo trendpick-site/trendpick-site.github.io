@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T21:14:46+00:00",
+  "fetched_at": "2026-10-26T22:10:44+00:00",
   "items": [
     {
-      "title": "추미애",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 13:10:00 -0700",
-      "news": [
-        {
-          "title": "추미애 “오세훈 똑 닮아” 비판에 “장애인 예산 세심하게 살필 것”",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1773417"
-        },
-        {
-          "title": "민주 서미화, 추미애에 “‘오세훈 똑 닯았다’ 비난, 민주당 감당 어려워”",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610262339001"
-        },
-        {
-          "title": "\"동료 30명 해고\"..'다운증후군 작가' 서은혜 오열 \"예산 127억→0원 삭감\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/24/GBRTMNJRGI2DKZBUGEZDGOJYGI/"
-        }
-      ]
-    },
-    {
-      "title": "배구",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 13:10:00 -0700",
-      "news": [
-        {
-          "title": "'V-리그가 일상 속으로' 한국배구연맹, 페스티버와 손잡고 모바일 액세서리 컬렉션 출시",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898179"
-        },
-        {
-          "title": "'V리그 14개 구단이 휴대폰 속으로' KOVO, 페스티버와 협업 컬렉션 출시→26일 공개 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/26/2026102609362357756"
-        },
-        {
-          "title": "V-리그와 배구 문화 `일상에서 만난다`…KOVO, 페스티버와 협업 컬렉션 출시",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026102612255319388"
-        }
-      ]
-    },
-    {
-      "title": "보조금",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 13:00:00 -0700",
-      "news": [
-        {
-          "title": "수소차 키우는 현대차… 국내 5만대 넘었다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/10/27/2026102619595333125"
-        },
-        {
-          "title": "수소차 5만대 시대 열렸는데…정부는 지원 축소, 수소 생태계 '우려'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003841754"
-        },
-        {
-          "title": "'유재석 車' 입소문 나더니…국내서 5만대 넘게 팔렸다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610264451g"
-        }
-      ]
-    },
-    {
-      "title": "이차 전지",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 12:40:00 -0700",
-      "news": [
-        {
-          "title": "지아이텍, KCC글라스와 32억 규모 공급 계약 체결",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03099606645616856"
-        },
-        {
-          "title": "지아이텍, 자동차 유리 검사장비 신규 수주…“전방산업 다변화 성과”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626187"
-        },
-        {
-          "title": "지아이텍, 32억 규모 원판 글래스 검사기 계약",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003840747"
-        }
-      ]
-    },
-    {
-      "title": "주가",
+      "title": "자동차",
       "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 12:30:00 -0700",
+      "published": "Mon, 26 Oct 2026 14:00:00 -0700",
       "news": [
         {
-          "title": "10월 소비심리 1.2p↓…“증시 조정·중동 불안 영향”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695862"
+          "title": "中서 몰락하는 유럽차... 獨3사 지난달 판매량 죄다 1만대 미달 [정다은의 차이나코어]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20103871"
         },
         {
-          "title": "주가 떨어지자 소비심리도 꺾였다…경기·고용 기대 동반 하락 - 머니투데이",
+          "title": "희비 엇갈린 독일과 중국 자동차 … 알고보니 車 서스펜션이 갈랐다",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/world/12186111"
+        },
+        {
+          "title": "중국차, 독일차, 한국차[차이나는 중국] - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/10/27/2026102616492784293"
-        },
-        {
-          "title": "주가 하락이 끌어내리는 소비 심리…한 달 만에 하락 전환",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/10/27/FNKRS6BP6BGJVKLWTYNLCP6NAA/"
+          "url": "https://www.mt.co.kr/opinion/2026/10/18/2026101514593115511"
         }
       ]
     },
     {
-      "title": "실업급여",
+      "title": "psg vs ol",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 14:00:00 -0700",
+      "news": [
+        {
+          "title": "PSG 2-0 OL, Ligue 1 : Le PSG vire seul en tête !",
+          "source": "L'Équipe",
+          "url": "https://www.lequipe.fr/Football/match-direct/ligue-1/2026-2027/psg-lyon-live/690328"
+        },
+        {
+          "title": "INFO RMC SPORT. Pourquoi les autorités envisagent un report de la rencontre PSG-OL",
+          "source": "RMC Sport",
+          "url": "https://rmcsport.bfmtv.com/football/ligue-1/info-rmc-sport-pourquoi-les-autorites-envisagent-un-report-de-la-rencontre-psg-ol_AV-202610210739.html"
+        },
+        {
+          "title": "Les compositions pour le match Paris SG - Lyon",
+          "source": "20 Minutes",
+          "url": "https://www.20minutes.fr/sport/football/ligue-1/4257804-20261026-paris-sg-lyon-composition-officielle-8e-journee-ligue-1-2027"
+        }
+      ]
+    },
+    {
+      "title": "비야디",
       "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 12:30:00 -0700",
+      "published": "Mon, 26 Oct 2026 14:00:00 -0700",
       "news": [
         {
-          "title": "강레오“실업급여로 日여행 청년들…사진 거절했다”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626132"
+          "title": "중국산 전기차에 여야 ‘생산 세액공제’ 맞불…한국GM 부평공장 살릴까",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335113"
         },
         {
-          "title": "강레오 셰프 “실업급여로 日 여행 온 청년들, 사진 거부” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/26/FEUDZE2YBZHDROT7KHED7DHWQU/"
+          "title": "값싼 中 전기차 1위 올랐지만…BYD, 서비스망·수리비가 복병",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20106353"
         },
         {
-          "title": "\"취직하면 사진 찍어줄게\" 실업급여로 日여행 간 청년에 강레오 '일침'",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102610514862720"
+          "title": "[ET단상] 전기차 국내 생산 지원, 자동차 부품산업의 버팀목",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261026000106"
         }
       ]
     },
     {
-      "title": "사업",
-      "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 12:10:00 -0700",
+      "title": "스테이블코인",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 13:50:00 -0700",
       "news": [
         {
-          "title": "국토부, 노후 산업단지 재생사업 대상지 3곳 공모",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026131700003"
+          "title": "\"흔들리는 달러 시대…다음 주인공은 비트코인\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003840590"
         },
         {
-          "title": "노후 산단 재생사업 3곳 공모…최대 500억 지원·지방 가점",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/realestate/general/6332177"
-        },
-        {
-          "title": "노후 산단 재생사업 3곳 공모…지방에 가점·태양광 지원",
+          "title": "고금리인데 비트코인은 왜 오를까…美 정부가 '스테이블코인' 미는 이유",
           "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610261409474781"
+          "url": "https://www.fnnews.com/news/202610250001056656"
+        },
+        {
+          "title": "＂누가 발행하느냐, 제대로 갚을 수 있느냐＂…韓코인 논쟁에 美변수",
+          "source": "한국경제TV",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610230159"
         }
       ]
     },
     {
-      "title": "추위",
+      "title": "미스터트롯4",
       "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 12:10:00 -0700",
+      "published": "Mon, 26 Oct 2026 13:40:00 -0700",
       "news": [
         {
-          "title": "오늘 대체로 맑지만, 찬 바람 불면서 추워져",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695854"
-        },
-        {
-          "title": "[날씨] 찬바람 쌩쌩…내일 아침 ’가을 한파’ 올가을 가장 추워",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610270538057a6"
-        },
-        {
-          "title": "지각태풍 지난 뒤 오늘 강풍, 내일 한파",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261027/134913115/2"
-        }
-      ]
-    },
-    {
-      "title": "나 혼자 산다",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 12:10:00 -0700",
-      "news": [
-        {
-          "title": "‘대세’ 차우민, 지큐 코리아 화보 공개…강렬한 스타일링부터 진솔한 고민까지",
+          "title": "[공식] 안정환·황신혜, ‘미스터트롯4’ 마스터 합류…12월 방송",
           "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261026/134907172/1"
+          "url": "https://sports.donga.com/ent/article/all/20261026/134906896/1"
         },
         {
-          "title": "MBC '나 혼자 산다', 2054 시청률 4주 연속 예능 1위 기염",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522468"
-        },
-        {
-          "title": "차우민 “반려뱀, 골든 리트리버 상이다”",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261024501607"
+          "title": "안정환·황신혜, ‘미스터트롯 4’ 마스터 합류…또 다른 임영웅, 안성훈, 김용빈 찾는다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610260912003"
         }
       ]
     },
     {
-      "title": "psg 대 리옹",
-      "approx_traffic": "2000+",
-      "published": "Mon, 26 Oct 2026 12:00:00 -0700",
+      "title": "이다해",
+      "approx_traffic": "1000+",
+      "published": "Mon, 26 Oct 2026 13:40:00 -0700",
       "news": [
         {
-          "title": "이번 월요일 PSG-리옹전: 지하철·RER 이용 및 파르크 데 프랭스 경기장 접근 정보",
-          "source": "Sortir à Paris",
-          "url": "https://www.sortiraparis.com/ko/sosig/palieseo/articles/355845-ibeon-wol-yoil-psg-liongjeon-jihacheol-rer-mich-paleukeu-de-peulaengseu-jeobgeun-jeongbo"
+          "title": "이다해, '중국풍' 외모 지적에 \"조금씩 달라지는 내 모습 즐겨\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839708"
         },
         {
-          "title": "파리 생제르맹 vs 리옹 경기 예측: 홈팀이 연승 행진을 이어갈 수 있을까?",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-paris-saint-germain-vs-lyon-chu-nha-noi-dai-mach-thang-hoa"
+          "title": "'200억' 실적 이다해, 확 달라진 얼굴에 성형 의혹…\"中 스타일링 때문\"",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610251714077708"
         },
         {
-          "title": "리그 1 PSG 대 리옹 경기 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-psg-vs-lyon-tai-ligue-1-1789313.ldo"
+          "title": "이다해, 갑작스러운 성형설에 \"중국 스태프와 작업… 저도 새로운 모습\"",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026102610370003129"
+        }
+      ]
+    },
+    {
+      "title": "지연수",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "\"오빠 저 기억하세요?\"…지연수, 서태지와 인연 공개 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/26/2026102619330349730"
+        },
+        {
+          "title": "지연수, 옷가게 알바로 새 출발…“일당백 알바생”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261026/134912523/1"
+        },
+        {
+          "title": "곰탕집 그만둔 지연수, 새 일자리 찾고 활짝 웃었다 “예뻐지는 느낌 들어”(연수롭다) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/26/GM3WMMLFGIZDQMLEMNTDIYJQGI/"
+        }
+      ]
+    },
+    {
+      "title": "원자력 잠수함",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "中-日 갈등 고조와 中 해군력 강화 대응?…日 핵잠수함 보유 논란",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003840845"
+        },
+        {
+          "title": "주일 美대사 \"일본, 인도태평양 지역 드론 생산 거점돼야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261025036000073"
+        },
+        {
+          "title": "‘일본도 힘들다’…미국 ‘방위비 증액’ 압박에 AI·인프라 예산까지 방위비에 포함",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11625997"
+        }
+      ]
+    },
+    {
+      "title": "lg화학",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 13:30:00 -0700",
+      "news": [
+        {
+          "title": "Kukdo Chemical to Buy LG Chem's Daesan BPA Business for 78.4 Billion Won",
+          "source": "THE ELEC, Korea Electronics Industry Media",
+          "url": "https://www.thelec.net/news/articleView.html?idxno=14931"
+        },
+        {
+          "title": "Kukdo Chemical Co To Buy Lg Chem's Bpa Manufacturing Facility And Business Unit For 78.4 Billion Won",
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46A0D3:0-kukdo-chemical-co-to-buy-lg-chem-s-bpa-manufacturing-facility-and-business-unit-for-78-4-billion-won/"
+        },
+        {
+          "title": "LG Chem agrees to sell Daesan BPA business to Kukdo Chemical, final deal imminent",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/en/industry/2026/10/22/2026102218164110913"
+        }
+      ]
+    },
+    {
+      "title": "수출",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 13:30:00 -0700",
+      "news": [
+        {
+          "title": "\"EU 포장규제, 수출기업 83％ '잘 몰라'…맞춤형 지원 필요\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026154800003"
+        },
+        {
+          "title": "무역협회 \"韓 기업 83%, EU 포장규제 대응 미흡…맞춤 지원 강화해야\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003841558"
+        },
+        {
+          "title": "수출은 했는데 라벨 하나에 막혔다…K-푸드 가로막는 비관세장벽",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/economy/trend/6330382"
         }
       ]
     }
