@@ -1,11 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T05:15:11+00:00",
+  "fetched_at": "2026-10-26T06:13:06+00:00",
   "items": [
     {
-      "title": "홈플러스",
+      "title": "나솔",
+      "approx_traffic": "2000+",
+      "published": "Sun, 25 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "'나솔' 31기 변호사 상철, 결혼한다…'순자 왕따 기수'서 나온 첫 경사",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015294"
+        },
+        {
+          "title": "'나는 솔로' 31기, 상철 결혼 앞두고 단체 모임…옥순·영숙 등 불참에 불화설 재조명",
+          "source": "세계뉴스통신",
+          "url": "https://www.segyenewsagency.com/news/articleView.html?idxno=643370"
+        },
+        {
+          "title": "'뒷담화 논란 기수' 31기 상철, 결혼한다..청첩장 모임에 순자→옥순 불참",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/broadcast-show/2026/10/26/2026102614022119891"
+        }
+      ]
+    },
+    {
+      "title": "불가리아",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 21:50:00 -0700",
+      "news": [
+        {
+          "title": "태권도계 충격…'국기원 前 이사' 협회장, 자택서 총격 피살",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6596714"
+        },
+        {
+          "title": "불가리아 태권도협회장 자택서 총격 피살…용의자 3명 검거",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261026/134906522/2"
+        },
+        {
+          "title": "불가리아 태권도협회장, 소피아 자택 총격 피살…무장 용의자 3명 체포",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003840274"
+        }
+      ]
+    },
+    {
+      "title": "보트",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 21:50:00 -0700",
+      "news": [
+        {
+          "title": "‘파도에 뒤집혀 2명 사망’ 영종도 모터보트 운항자, 알고 보니 ‘무면허’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261026580014"
+        },
+        {
+          "title": "'전복돼 2명 사망' 모터보트 운항자, '기준미달' 2급면허만 보유",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023097300065"
+        },
+        {
+          "title": "모터보트 전복돼 2명 사망케 한 선장, 무자격자였다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261026/134907548/1"
+        }
+      ]
+    },
+    {
+      "title": "부캉이 이모티콘",
       "approx_traffic": "1000+",
+      "published": "Sun, 25 Oct 2026 21:40:00 -0700",
+      "news": [
+        {
+          "title": "‘부캉이 사라진 날’ 부산 북항 기름 띠 범인 잡아…미신고 유조선 적발",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12324733"
+        },
+        {
+          "title": "오늘은 모습 감춘 '부캉이'...부산시, 이모티콘 배포",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202610261431488988"
+        },
+        {
+          "title": "흑상어 ‘부캉이’ 북항과 헤어질 결심 못 했나…",
+          "source": "부산일보",
+          "url": "https://mobile.busan.com/view/busan/view.php?code=2026102518082556573"
+        }
+      ]
+    },
+    {
+      "title": "dl이앤씨",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 21:30:00 -0700",
+      "news": [
+        {
+          "title": "주택 공급 대안 떠오른 모듈러…통계도 지원법도 미비",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105887"
+        },
+        {
+          "title": "李 ‘닥공’에 판 커진 모듈러…건설사 기술전쟁",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261025010008282"
+        },
+        {
+          "title": "내실 다진 박상신, 다음은 외형 성장... DL이앤씨 3개 본부장 시험대",
+          "source": "인사이트",
+          "url": "https://www.insight.co.kr/news/578975"
+        }
+      ]
+    },
+    {
+      "title": "윤하",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 21:30:00 -0700",
+      "news": [
+        {
+          "title": "윤하, C9엔터에 전속계약 해지 통보…“정산금 미지급 문제”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695044"
+        },
+        {
+          "title": "아름다운 이별은 없었다…윤하, ‘정산금 갈등’ 끝에 14년 소속사와 결국 결별",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20106101"
+        },
+        {
+          "title": "윤하, 정산금 미지급에 씨나인이엔티와 전속계약 해지…소송 제기",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261026000424"
+        }
+      ]
+    },
+    {
+      "title": "공장",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 21:30:00 -0700",
+      "news": [
+        {
+          "title": "아우디, 美 조지아에 첫 완성차 공장 설립…40억 달러 투자",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261026000213"
+        },
+        {
+          "title": "트럼프 \"아우디 5.6조 투자, 관세 덕\" vs 오바마 \"車 산업 타격\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/25/2026102515403529720"
+        },
+        {
+          "title": "아우디, 관세 부담에 미국 현지화…조지아 첫 공장 추진",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261026110219"
+        }
+      ]
+    },
+    {
+      "title": "알렉산더 볼카노프스키",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "'명실상부 페더급 GOAT' 볼카노프스키, 전인미답 '9번째 타이틀 방어' 성공... 예블로예프 완벽 제압 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102509582749926"
+        },
+        {
+          "title": "‘표트르 대제’의 밴텀급 지배는 계속된다! 얀, ‘머신’ 메랍과 3차전서 또 승리…타이틀 1차 방어 성공 [UFC]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12184907"
+        },
+        {
+          "title": "'알렉산더 대제'는 역시 강했다...볼카노프스키, 무패 도전자에 TKO승",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01125046645616528&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "title": "홍수",
+      "approx_traffic": "200+",
+      "published": "Sun, 25 Oct 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "홍수를 예방하기 위해 준설에 집중해야 합니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/tap-trung-nao-vet-de-chong-ngap"
+        },
+        {
+          "title": "개구리 턱이 드러난 흙벽이 다낭 부지아 강변 주민들의 삶을 둘러싸고 있습니다",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/video/nhung-vach-dat-ho-ham-ech-bua-vay-cuoc-song-nguoi-dan-ven-song-vu-gia-da-nang-1787116.ldo"
+        },
+        {
+          "title": "인프라 투자 단계적 시행",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/phan-ky-dau-tu-ha-tang"
+        }
+      ]
+    },
+    {
+      "title": "홈플러스",
+      "approx_traffic": "2000+",
       "published": "Sun, 25 Oct 2026 21:00:00 -0700",
       "news": [
         {
@@ -22,204 +220,6 @@
           "title": "전기료 못 낸 홈플러스 6곳, 이달 말 단전 위기… 입점업체도 발 동동",
           "source": "브릿지경제",
           "url": "https://www.viva100.com/article/20261026500689"
-        }
-      ]
-    },
-    {
-      "title": "파인엠텍",
-      "approx_traffic": "500+",
-      "published": "Sun, 25 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "아이폰 듀오, 전세계 품절 대란… “몇번 펼치니 쩍” 내구성 논란도",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261025/134905037/2"
-        },
-        {
-          "title": "파인엠텍 \"폴더블 품질 이슈, 공급 부품과 무관\"…허위정보엔 법적 대응 검토",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610261021024330"
-        },
-        {
-          "title": "애플, 첫 폴더블폰 품질 논란…삼성 '7년 내공'으로 수성 굳히나",
-          "source": "블로터",
-          "url": "https://www.bloter.net/news/articleView.html?idxno=676673"
-        }
-      ]
-    },
-    {
-      "title": "중수청",
-      "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 20:50:00 -0700",
-      "news": [
-        {
-          "title": "“진상 규명하라” 李가 지시한 사건마다 ‘무혐의’ ‘업무상 과오’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/10/26/S7LC6ERVLFE5PESJDG3RAPEYO4/"
-        },
-        {
-          "title": "자료 보는 김지용 중수청장",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261026_0021504647"
-        },
-        {
-          "title": "靑 ＂李대통령, AI를 팩트찾는 도구로 쓴것…국정 기대는것 아냐＂",
-          "source": "울산종합일보",
-          "url": "https://www.ujnews.co.kr/news/newsview.php?ncode=1065579937910762"
-        }
-      ]
-    },
-    {
-      "title": "arirang",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 20:40:00 -0700",
-      "news": [
-        {
-          "title": "BTS The City ARIRANG Comes To Singapore This December",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/laurasirikul/2026/10/19/bts-the-city-arirang-comes-to-singapore-this-december/"
-        },
-        {
-          "title": "BTS picks Singapore for citywide project",
-          "source": "The Korea Herald",
-          "url": "https://www.koreaherald.com/article/10907117"
-        },
-        {
-          "title": "Singapore edition of BTS The City Arirang will have light and music show, art trail, fireworks display and more",
-          "source": "CNA Lifestyle",
-          "url": "https://cnalifestyle.channelnewsasia.com/entertainment/bts-city-arirang-singapore-activities-590536"
-        }
-      ]
-    },
-    {
-      "title": "로스앤젤레스 fc 대 로스앤젤레스 갤럭시 순위",
-      "approx_traffic": "50000+",
-      "published": "Sun, 25 Oct 2026 20:20:00 -0700",
-      "news": [
-        {
-          "title": "손흥민, 오프사이드에 막힌 득점포… LA FC, PO 출전권 확보",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626286"
-        },
-        {
-          "title": "'손흥민 골 취소' LA FC, LA 더비 무승부…PO 출전권은 확보",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815086"
-        },
-        {
-          "title": "‘손흥민 골취소’ LAFC, LA 더비서 2-2무...PO 출전권은 확보",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261025204411721"
-        }
-      ]
-    },
-    {
-      "title": "섬",
-      "approx_traffic": "1000+",
-      "published": "Sun, 25 Oct 2026 20:20:00 -0700",
-      "news": [
-        {
-          "title": "화폭 가득 여수 바다의 푸른 꿈 ‘우중 스케치’",
-          "source": "세계일보",
-          "url": "https://m.segye.com/view/20261025509267"
-        },
-        {
-          "title": "여수시, 세계섬박람회장 사후 활용계획은…시민 의견 수렴",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/gwangju-jeonnam/6331843"
-        },
-        {
-          "title": "[포토뉴스]100년에 한 번 피는 소철꽃",
-          "source": "부산일보",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026102010495914692"
-        }
-      ]
-    },
-    {
-      "title": "mlb",
-      "approx_traffic": "1000+",
-      "published": "Sun, 25 Oct 2026 20:20:00 -0700",
-      "news": [
-        {
-          "title": "MLB Mourns as Veteran Baseball Journalist Passes Away at 89",
-          "source": "EssentiallySports",
-          "url": "https://www.essentiallysports.com/mlb-baseball-news-mlb-mourns-as-veteran-baseball-journalist-passes-away-at-eight-nine/"
-        },
-        {
-          "title": "Dodgers Mourn Sudden Death of Beloved Figure",
-          "source": "Heavy.com",
-          "url": "https://heavy.com/sports/mlb/los-angeles-dodgers/mourn-sudden-death-beloved-baseball-figure/"
-        },
-        {
-          "title": "MLB check-swing controversies spotlight need for Korea-style video review - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/10/26/KXX3RTBII5F3NLWXH73QIZADSI/"
-        }
-      ]
-    },
-    {
-      "title": "존리",
-      "approx_traffic": "1000+",
-      "published": "Sun, 25 Oct 2026 20:10:00 -0700",
-      "news": [
-        {
-          "title": "\"오를까봐 퇴직금 3억 몰빵\"…존리, 50대 男에 뼈때리는 조언",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102642137"
-        },
-        {
-          "title": "\"퇴직금 3억으로 주식했는데 날렸다\" 눈물…존리 조언은?",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01836806645616856&mediaCodeNo=257"
-        },
-        {
-          "title": "\"주가 계속 오르길래\"…퇴직금 3억원 투자한 50대, 한 달 만에 손실",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610250938017018"
-        }
-      ]
-    },
-    {
-      "title": "미국 증권거래위원회",
-      "approx_traffic": "1000+",
-      "published": "Sun, 25 Oct 2026 20:10:00 -0700",
-      "news": [
-        {
-          "title": "“2030년까지 20배 오른다”…SEC 우회로 올라탈 코인 4개 [코인랩 ③]",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25472602"
-        },
-        {
-          "title": "에이펙스그룹 CEO \"美 클래리티법 지연, 아시아·중동에 기회\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/blockchain-fintech/6331708"
-        },
-        {
-          "title": "‘클래리티법’ 없는 美…아시아·중동이 토큰화 판 키우나",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1705799/%E2%80%98%ED%81%B4%EB%9E%98%EB%A6%AC%ED%8B%B0%EB%B2%95%E2%80%99-%EC%97%86%EB%8A%94-%E7%BE%8E%EC%95%84%EC%8B%9C%EC%95%84%EC%A4%91%EB%8F%99-%ED%86%A0%ED%81%B0-2026"
-        }
-      ]
-    },
-    {
-      "title": "실업급여",
-      "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 20:10:00 -0700",
-      "news": [
-        {
-          "title": "강레오“실업급여로 日여행 청년들…사진 거절했다”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626132"
-        },
-        {
-          "title": "“사진 찍어주세요” 청년 거절한 강레오…“세금으로 해외여행, 열받아”",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/society/2026/10/26/20261026500101"
-        },
-        {
-          "title": "강레오 셰프 “실업급여로 日 여행 온 청년들, 사진 거부” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/26/FEUDZE2YBZHDROT7KHED7DHWQU/"
         }
       ]
     }
