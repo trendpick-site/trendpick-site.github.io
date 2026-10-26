@@ -1,12 +1,34 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T18:15:09+00:00",
+  "fetched_at": "2026-10-26T19:23:49+00:00",
   "items": [
     {
-      "title": "라이엇게임즈",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 10:10:00 -0700",
+      "title": "리그오브레전드",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 10:50:00 -0700",
+      "news": [
+        {
+          "title": "리그 오브 레전드 초대 월드 챔피언이 31세의 나이로 세상을 떠났습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nha-vo-dich-lien-minh-huyen-thoai-the-gioi-dau-tien-qua-doi-o-tuoi-31"
+        },
+        {
+          "title": "프나틱 출신 롤드컵 초대 우승 정글러 '사이나이드' 라우리 하포넨, 향년 31세로 별세",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/kr/articles/cyanide-former-fnatic-jungler-and-lol-world-champion-dies-aged-31/kr"
+        },
+        {
+          "title": "[롤드컵 톡톡] '루키' 송의진, \"한화생명, LPL 팀 같은 공격성… 익숙한 양상서 승리\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112898122"
+        }
+      ]
+    },
+    {
+      "title": "월즈",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 10:40:00 -0700",
       "news": [
         {
           "title": "게임·음악·굿즈…‘LoL 세상’ 열린다",
@@ -26,9 +48,9 @@
       ]
     },
     {
-      "title": "t1",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 10:00:00 -0700",
+      "title": "도란",
+      "approx_traffic": "1000+",
+      "published": "Mon, 26 Oct 2026 10:30:00 -0700",
       "news": [
         {
           "title": "[롤드컵]젠지·DK 8강 직행…T1은 1승 남아, 한화생명 벼랑 끝",
@@ -48,6 +70,50 @@
       ]
     },
     {
+      "title": "lck",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 10:20:00 -0700",
+      "news": [
+        {
+          "title": "Dplus, Gen.G, LYON, Movistar KOI improve to 2-0 at LoL Worlds",
+          "source": "The Daily News | Texas' Oldest Newspaper",
+          "url": "https://www.galvnews.com/news_reuters/sports/dplus-gen-g-lyon-movistar-koi-improve-to-2-0-at-lol-worlds/article_c1de5a5c-ac3d-5f00-a4f3-4c4b14b64ff2.html"
+        },
+        {
+          "title": "[LOL Meme] \"Ending in 2 minutes\" DK catches T1 with a one-shot turnaround",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/en/view.php?gid=1782369"
+        },
+        {
+          "title": "Worlds 2026: Dplus KIA Ace T1 at Elder Dragon to Secure 2-0 Pool",
+          "source": "EGamersWorld",
+          "url": "https://egamersworld.com/lol/news/38026/dplus-kia-steal-impossible-comeback-win-over-t1-at-qCGVOV79J"
+        }
+      ]
+    },
+    {
+      "title": "t1",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 10:00:00 -0700",
+      "news": [
+        {
+          "title": "T1 Defeat CFO Behind Bot Duo's Performance to Reach 2 Wins",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/27718/t1-defeat-cfo-behind-bot-duos-performance-to-reach-2-wins"
+        },
+        {
+          "title": "T1 Hosts 256-Player 'Riftbound' Tournament, Largest in South Korea",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/26/EGDLYDB4LNFPRLQWTHQM35SIZ4/"
+        },
+        {
+          "title": "T1 to Host 256-Player Riftbound Tournament 'T1 Trials'",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/27690/t1-to-host-256-player-riftbound-tournament-t1-trials"
+        }
+      ]
+    },
+    {
       "title": "cfo",
       "approx_traffic": "1000+",
       "published": "Mon, 26 Oct 2026 09:40:00 -0700",
@@ -58,20 +124,20 @@
           "url": "https://www.investing.com/news/stock-market-news/fedex-appoints-jamere-jackson-as-chief-financial-officer-4972213"
         },
         {
+          "title": "FedEx's CFO hiring could spark more cash returns to shareholders",
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/news/seekingalpha:18ee69d17094b:0-fedex-s-cfo-hiring-could-spark-more-cash-returns-to-shareholders/"
+        },
+        {
           "title": "FedEx taps AutoZone executive to be finance chief",
           "source": "FreightWaves",
           "url": "https://www.freightwaves.com/news/fedex-taps-autozone-executive-to-be-finance-chief"
-        },
-        {
-          "title": "FedEx names new Executive VP, CFO",
-          "source": "FOX13 Memphis",
-          "url": "https://www.fox13memphis.com/news/fedex-names-new-executive-vp-cfo/article_f420568d-c288-4916-9c65-f51722253194.html"
         }
       ]
     },
     {
       "title": "학습",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 26 Oct 2026 09:30:00 -0700",
       "news": [
         {
@@ -92,24 +158,46 @@
       ]
     },
     {
+      "title": "세르비아",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 09:20:00 -0700",
+      "news": [
+        {
+          "title": "'14년 권좌' 부치치 끌어내린 학생들…유럽 시위 파장 주목",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026173900108"
+        },
+        {
+          "title": "EU, 세르비아 정권 교체 환영…“EU 가입 지원할 것”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695572"
+        },
+        {
+          "title": "'총선 패배' 버려진 부치치 전대통령 포스터",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261026_0002273378"
+        }
+      ]
+    },
+    {
       "title": "블리치",
       "approx_traffic": "200+",
       "published": "Mon, 26 Oct 2026 09:00:00 -0700",
       "news": [
         {
-          "title": "Bleach: Popular anime series officially ends as fans say goodbye",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c8p3g73ep520o"
+          "title": "‘블리치: 천년혈전 편 - 상극담’의 최종 예고편 공개",
+          "source": "Hypebeast.KR",
+          "url": "https://hypebeast.kr/2026/10/bleach-thousand-year-blood-war-the-calamity-last-teaser-trailer-final-two-episodes-release-info"
         },
         {
-          "title": "'BLEACH' Creator Tite Kubo: Blood, Sweat, Tears, and Ink (Cover Story)",
-          "source": "Hypebeast",
-          "url": "https://hypebeast.com/2026/10/tite-kubo-bleach-hypebeast-magazine-issue-38-cover-story"
+          "title": "[Ent+] '블리치' 애니메이션, 최종화와 함께 22년만에 종영",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322585"
         },
         {
-          "title": "Bleach Anime Concludes After 22 Years with Special Ending Video",
-          "source": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/news/latest/2026/10/26/bleach-anime-concludes-after-22-years-with-special-ending-video"
+          "title": "삼계 각지에서 유하바하와의 마지막 혈전이 시작된다… 『블리치 천년혈전 편 : 화진담』 49화 줄거리 및 선행 컷 공개",
+          "source": "ABEMA TIMES",
+          "url": "https://times.abema.tv/ko/articles/-/10281920"
         }
       ]
     },
@@ -129,97 +217,9 @@
           "url": "https://www.timesofisrael.com/liveblog_entry/reports-three-killed-including-girl-in-idf-strike-in-southern-gaza/"
         },
         {
-          "title": "Reports: Israeli Strikes Kill Eight, Including Child, in Gaza Strip",
-          "source": "Haaretz",
-          "url": "https://www.haaretz.com/gaza/2026-10-25/ty-article/.premium/reports-israeli-strikes-kill-eight-including-child-in-gaza-strip/000001a1-72a7-d34e-a1b9-feef93c10000"
-        }
-      ]
-    },
-    {
-      "title": "범죄",
-      "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 07:50:00 -0700",
-      "news": [
-        {
-          "title": "[이슈K] 보호막 뚫린 관계성 범죄…피해자 안전망, 어디에",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695447"
-        },
-        {
-          "title": "김남희 “교제 폭력, 살인 전 막아야”…스토킹처벌법 개정 촉구",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1773395"
-        },
-        {
-          "title": "휴대폰 뺏고 가족도 차단?…판결문 속 범행 전 '위험 신호'",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815704"
-        }
-      ]
-    },
-    {
-      "title": "손아섭",
-      "approx_traffic": "2000+",
-      "published": "Mon, 26 Oct 2026 07:30:00 -0700",
-      "news": [
-        {
-          "title": "NC 우승 이끈 이동욱, 친정 롯데 사령탑으로… 단장엔 이택근",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/26/JISKW5I2JJCMJJJFBCSUXEBHWA/"
-        },
-        {
-          "title": "프로야구 롯데, 이동욱 감독·이택근 단장 동시 선임",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610262335182859"
-        },
-        {
-          "title": "똑똑한 ‘데이터 야구’와 수비 강화…개혁의 칼 뽑은 롯데",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261027.22014007453"
-        }
-      ]
-    },
-    {
-      "title": "마린 칠리치",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 07:30:00 -0700",
-      "news": [
-        {
-          "title": "2014년 US오픈 우승자 마린 칠리치, ATP 125 서울오픈 1회전 탈락",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335178"
-        },
-        {
-          "title": "'1번 시드' 칠리치, 서올오픈 챌린저 테니스 1회전 탈락",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026159600007"
-        },
-        {
-          "title": "\"세계적인 스타보다 권순우 형이 더 놀랍다!\" 韓 기대주 솔직 고백... 정말 일냈다 \"한국 테니스 잘해 나도 힘난다\" [서울오픈 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/26/2026102514510758021"
-        }
-      ]
-    },
-    {
-      "title": "apple",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 07:30:00 -0700",
-      "news": [
-        {
-          "title": "Apple gives iPad mini its biggest update ever",
-          "source": "Apple",
-          "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"
-        },
-        {
-          "title": "Apple Debuts $699 Water-Resistant iPad Mini With OLED Screen",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-26/apple-launches-699-water-resistant-ipad-mini-with-oled-screen"
-        },
-        {
-          "title": "Apple updates the iPad Mini with a larger OLED display",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce"
+          "title": "Israeli fire kills four people in Gaza, medics say",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israeli-fire-kills-four-people-gaza-medics-say-2026-10-22/"
         }
       ]
     }
