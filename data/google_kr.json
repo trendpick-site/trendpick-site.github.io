@@ -1,11 +1,55 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T22:42:43+00:00",
+  "fetched_at": "2026-10-26T23:12:11+00:00",
   "items": [
     {
-      "title": "이차전지",
+      "title": "제네시스 gv80",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 15:00:00 -0700",
+      "news": [
+        {
+          "title": "韓골프 자존심 지킨 신상훈, 공동 4위로 마무리...우승은 가쓰라가와 [KPGA]",
+          "source": "스포츠 & 골프",
+          "url": "https://programs.sbs.co.kr/sbsgolf/26kpga/article/88987/G20000002565"
+        },
+        {
+          "title": "김시우, 제네시스 챔피언십 공동 4위 “내년엔 우승 노려볼 것”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261026/134906376/1"
+        },
+        {
+          "title": "GV80 받은 가쓰라가와 유토",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8177988"
+        }
+      ]
+    },
+    {
+      "title": "광명시",
       "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 14:40:00 -0700",
+      "news": [
+        {
+          "title": "은평구, 30일 산불·인파사고 가정 '재난대응 훈련'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026129000004"
+        },
+        {
+          "title": "구조물 붕괴에서 전기차 화재까지…연쇄 재난 대응 훈련",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692969"
+        },
+        {
+          "title": "중구, 2026년 재난대응 안전한국훈련 실시",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261026.99099007608"
+        }
+      ]
+    },
+    {
+      "title": "이차전지",
+      "approx_traffic": "1000+",
       "published": "Mon, 26 Oct 2026 14:30:00 -0700",
       "news": [
         {
@@ -22,6 +66,50 @@
           "title": "지아이텍, 32억 규모 원판 글래스 검사기 계약",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261026_0003840747"
+        }
+      ]
+    },
+    {
+      "title": "al",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "Democracy at Stake? More Newsmakers & Superlatives from Down in Alabama",
+          "source": "AL.com",
+          "url": "https://www.al.com/news/2026/10/democracy-at-stake-more-newsmakers-superlatives-from-down-in-alabama.html"
+        },
+        {
+          "title": "Can you win a Twitter war?: Down in Alabama",
+          "source": "AL.com",
+          "url": "https://www.al.com/news/2026/10/can-you-win-a-twitter-war-down-in-alabama.html"
+        },
+        {
+          "title": "Alabama post office shut down just before election to remain open, congresswoman announces",
+          "source": "AL.com",
+          "url": "https://www.al.com/news/2026/10/alabama-post-office-shut-down-just-before-election-to-remain-open-congresswoman-announces.html"
+        }
+      ]
+    },
+    {
+      "title": "quả bóng vàng 2026",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "CHÍNH THỨC: Mbappe đi vào lịch sử Quả bóng Vàng ở năm 2026",
+          "source": "Thể Thao 247",
+          "url": "https://thethao247.vn/461-chinh-thuc-mbappe-di-vao-lich-su-qua-bong-vang-o-nam-2026-c2-d442388.html"
+        },
+        {
+          "title": "Lamine Yamal lần thứ ba liên tiếp giành Kopa Trophy",
+          "source": "Tạp chí Bóng đá",
+          "url": "https://bongdaplus.vn/bong-da-the-gioi/lamine-yamal-lan-thu-ba-lien-tiep-gianh-kopa-trophy-5272882610.html"
+        },
+        {
+          "title": "Hôm nay trao Quả Bóng Vàng 2026",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/hom-nay-trao-qua-bong-vang-2026-5136731.html"
         }
       ]
     },
@@ -48,24 +136,68 @@
       ]
     },
     {
-      "title": "quả bóng vàng 2026",
+      "title": "알나스르 대 알와슬",
       "approx_traffic": "100+",
       "published": "Mon, 26 Oct 2026 14:30:00 -0700",
       "news": [
         {
-          "title": "Hôm nay trao Quả Bóng Vàng 2026",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/hom-nay-trao-qua-bong-vang-2026-5136731.html"
+          "title": "AFC postpones Al Nassr-Al Wasl Champions League Elite clash in Riyadh",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/sports/soccer/afc-postpones-al-nassr-al-wasl-champions-league-elite-clash-riyadh-2026-10-25/"
         },
         {
-          "title": "Gala trao giải Quả bóng vàng 2026: Yamal được vinh danh",
-          "source": "Znews",
-          "url": "https://lifestyle.zingnews.vn/gala-trao-giai-qua-bong-vang-2026-yamal-duoc-vinh-danh-post1692256.html"
+          "title": "Al-Hilal board ‘want parity applied’ after Al-Nassr vs Al-Wasl postponement",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/en/news/al-hilal-board-want-parity-applied-after-al-nassr-vs-al-wasl-postponement-43671096"
         },
         {
-          "title": "Quả bóng vàng cho Kane, cơ hội rửa hận của Bayern Munich",
-          "source": "yeuthethao.net.vn",
-          "url": "https://yeuthethao.net.vn/qua-bong-vang-cho-kane-co-hoi-rua-han-cua-bayern-munich-d900142.html"
+          "title": "Cristiano Ronaldo’s Al Nassr match postponed indefinitely and Joao Felix wants to leave",
+          "source": "foot.mundo",
+          "url": "https://footmundo.co.uk/ronaldo-al-nassr-al-wasl-postponed-joao-felix-europe/"
+        }
+      ]
+    },
+    {
+      "title": "치이카와",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "Everything K-POP and More! - 위버스 매거진",
+          "source": "Weverse Magazine",
+          "url": "https://magazine.weverse.io/article/view/1995?lang=ko"
+        },
+        {
+          "title": "치이카와·A20·닥터X·100일의거짓말, 1위 [한눈에 보는 엔터차트]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6332111"
+        },
+        {
+          "title": "일본 애니메이션 ‘치이카와’ 3주 연속 박스오피스 1위…‘타짜4’ 200만 돌파",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694953"
+        }
+      ]
+    },
+    {
+      "title": "스티브 승준 유",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "유승준 비자발급 취소 소송 또 대법원 판단...LA 총영사 상고",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610262315217323"
+        },
+        {
+          "title": "'병역기피' 유승준 세번째 비자 소송 대법으로…LA총영사측 상고",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026161500004"
+        },
+        {
+          "title": "유승준 세 번째 비자소송도 대법 간다…주LA총영사관 상고",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003841399"
         }
       ]
     },
@@ -88,138 +220,6 @@
           "title": "SK hynix weighs $12.1 billion special dividend, newspaper says",
           "source": "The Korea Herald",
           "url": "https://www.koreaherald.com/article/10914252"
-        }
-      ]
-    },
-    {
-      "title": "tsla",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "Tesla stock leaves rest of the Magnificent 7 in the dust, surging to October’s top spot",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/tesla-stock-leaves-rest-of-the-magnificent-7-in-the-dust-surging-to-octobers-top-spot-172356059.html"
-        },
-        {
-          "title": "Canaccord Analyst Keeps $442 Tesla Target, Says Call Critics Are Wrong",
-          "source": "TeslaNorth.com",
-          "url": "https://teslanorth.com/2026/10/26/canaccord-tesla-442-price-target/"
-        },
-        {
-          "title": "Tesla Stocks Rise 5.34% After Barclays Lifts Target to $450",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/gurufocus:250d2c2c1094b:0-tesla-stocks-rise-5-34-after-barclays-lifts-target-to-450/"
-        }
-      ]
-    },
-    {
-      "title": "치이카와",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "Everything K-POP and More! - 위버스 매거진",
-          "source": "Weverse Magazine",
-          "url": "https://magazine.weverse.io/article/view/1995?lang=ko"
-        },
-        {
-          "title": "치이카와·A20·닥터X·100일의거짓말, 1위 [한눈에 보는 엔터차트]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6332111"
-        },
-        {
-          "title": "일본 애니메이션 ‘치이카와’ 3주 연속 박스오피스 1위…‘타짜4’ 200만 돌파",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694953"
-        }
-      ]
-    },
-    {
-      "title": "콜 오브 듀티: 모던 워페어 4",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 14:10:00 -0700",
-      "news": [
-        {
-          "title": "정치권 \"해보라\"던 '북한 기습 남침' 게임...기자가 해보니",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0106_202610262305207032"
-        },
-        {
-          "title": "“모던 워페어4가 2030년 한반도 통일 예언?”…김여정까지 등장한 예언설",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610240800031"
-        },
-        {
-          "title": "[동영상] \"국군 이병의 기상천외한 북벌\" 콜옵 모던워페어 사의 돌풍",
-          "source": "게임동아",
-          "url": "https://game.donga.com/124829/"
-        }
-      ]
-    },
-    {
-      "title": "자동차",
-      "approx_traffic": "2000+",
-      "published": "Mon, 26 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "中서 몰락하는 유럽차... 獨3사 지난달 판매량 죄다 1만대 미달 [정다은의 차이나코어]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20103871"
-        },
-        {
-          "title": "희비 엇갈린 독일과 중국 자동차 … 알고보니 車 서스펜션이 갈랐다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/world/12186111"
-        },
-        {
-          "title": "중국차, 독일차, 한국차[차이나는 중국] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/opinion/2026/10/18/2026101514593115511"
-        }
-      ]
-    },
-    {
-      "title": "psg vs ol",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "PSG 2-0 OL, Ligue 1 : Le PSG vire seul en tête !",
-          "source": "L'Équipe",
-          "url": "https://www.lequipe.fr/Football/match-direct/ligue-1/2026-2027/psg-lyon-live/690328"
-        },
-        {
-          "title": "INFO RMC SPORT. Pourquoi les autorités envisagent un report de la rencontre PSG-OL",
-          "source": "RMC Sport",
-          "url": "https://rmcsport.bfmtv.com/football/ligue-1/info-rmc-sport-pourquoi-les-autorites-envisagent-un-report-de-la-rencontre-psg-ol_AV-202610210739.html"
-        },
-        {
-          "title": "[DIRECT]GRATUIT!!] PSG - Lyon match de Ligue 1 en direct gratuit",
-          "source": "NYC Health + Hospitals",
-          "url": "https://www.nychealthandhospitals.org/gouverneur-virtual-tour/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3ZlbXBpcmVzLmdpdGh1Yi5pby9EeW5hbW8vamtvLnhtbCIvPjwva3JwYW5vPg==&id=direct-gratuit-psg-lyon-match-de-fox-sports-jxs2r"
-        }
-      ]
-    },
-    {
-      "title": "비야디",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "중국산 전기차에 여야 ‘생산 세액공제’ 맞불…한국GM 부평공장 살릴까",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335113"
-        },
-        {
-          "title": "값싼 中 전기차 1위 올랐지만…BYD, 서비스망·수리비가 복병",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20106353"
-        },
-        {
-          "title": "[ET단상] 전기차 국내 생산 지원, 자동차 부품산업의 버팀목",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261026000106"
         }
       ]
     }
