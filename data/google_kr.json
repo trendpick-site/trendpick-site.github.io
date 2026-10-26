@@ -1,8 +1,74 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T15:39:19+00:00",
+  "fetched_at": "2026-10-26T16:30:45+00:00",
   "items": [
+    {
+      "title": "베식타시 대 이스탄불 바샥셰히르",
+      "approx_traffic": "1000+",
+      "published": "Mon, 26 Oct 2026 08:10:00 -0700",
+      "news": [
+        {
+          "title": "Beşiktaş vs İstanbul Başakşehir: Turkish Süper Lig stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/live/cmx23dp2ggkvt"
+        },
+        {
+          "title": "Besiktas vs Istanbul Basaksehir Prediction and Betting Tips - 26 October 2026",
+          "source": "Betfred Insights",
+          "url": "https://insights.betfred.com/football/besiktas-vs-istanbul-basaksehir-prediction-betting-tips-monday-26-october-2026/"
+        },
+        {
+          "title": "Beşiktaş vs Istanbul prediction: expert analysis, possible lineups, October 26, 2026",
+          "source": "RatingBet",
+          "url": "https://ratingbet.com/predictions/besiktas-vs-istanbul-prediction-expert-analysis-possible-lineups-october-26-2026/"
+        }
+      ]
+    },
+    {
+      "title": "북한 자주포",
+      "approx_traffic": "2000+",
+      "published": "Mon, 26 Oct 2026 08:00:00 -0700",
+      "news": [
+        {
+          "title": "접경으로 남하한 북한 자주포…안보리엔 “한국의 자작극” 서한",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695590"
+        },
+        {
+          "title": "韓 카메라에 찍힐만큼 내려온 북한군 자주포…접경지 긴장고조",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261025045900504"
+        },
+        {
+          "title": "접경지에서 북한 자주포 포착...포신 작동하며 훈련",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610261423034735"
+        }
+      ]
+    },
+    {
+      "title": "범죄",
+      "approx_traffic": "2000+",
+      "published": "Mon, 26 Oct 2026 07:50:00 -0700",
+      "news": [
+        {
+          "title": "김수현 측 \"故김새론 모친 등 범죄 혐의 인정…검찰 송치\"",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6597037"
+        },
+        {
+          "title": "경찰, 고 김새론 유족 '김수현 명예훼손' 혐의 송치",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610262318392519"
+        },
+        {
+          "title": "김수현측 “故김새론 모친·이모 사칭한 공범도 송치”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261026/134912319/2"
+        }
+      ]
+    },
     {
       "title": "마린 칠리치",
       "approx_traffic": "100+",
@@ -22,6 +88,28 @@
           "title": "\"세계적인 스타보다 권순우 형이 더 놀랍다!\" 韓 기대주 솔직 고백... 정말 일냈다 \"한국 테니스 잘해 나도 힘난다\" [서울오픈 현장] - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/10/26/2026102514510758021"
+        }
+      ]
+    },
+    {
+      "title": "apple",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "Apple gives iPad mini its biggest update ever",
+          "source": "Apple",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"
+        },
+        {
+          "title": "OLED iPad mini: Apple adds an A20 Pro, IP67 and an 8.5-inch screen",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/apple-oled-ipad-mini-a20-pro-ip67"
+        },
+        {
+          "title": "Apple just revealed the iPad Mini I’ve always wanted. But is it worth the new price?",
+          "source": "CNN",
+          "url": "https://www.cnn.com/cnn-underscored/electronics/ipad-mini-8"
         }
       ]
     },
@@ -75,25 +163,25 @@
       "published": "Mon, 26 Oct 2026 07:00:00 -0700",
       "news": [
         {
-          "title": "반려견 뒷다리 잡고 5층 창 밖으로…영상 속 남성, 알고 보니?",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261026140542hf7"
+          "title": "'개한테 물려 죽을 뻔!' 50바늘 넘게 꿰맸다...'충격 사고' 前 리버풀 스타, 상처 공개 \"반려견이 내 목숨 구했어\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/27/202610261614775856O"
         },
         {
-          "title": "자전거 탄 반려견",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8179519"
+          "title": "\"다리 물어뜯겨 50바늘 넘게 꿰맸다!\" 前 PL 스타, 산책 중 개에게 습격당해 중상...반려견이 목숨 구했다",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553645129"
         },
         {
-          "title": "'역시 슈퍼스타' 김도영, 또 기록 불러냈다…투수 피 말린다, 26년 묵은 기록 소환 [PO1]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/26/MIYGIYRYGM3TINDDGFTDOMDGME/"
+          "title": "충격! 리버풀 출신 스타, 맹견 물려 50바늘 넘게 꿰맸다…그런데 \"신고 안해\" 아찔했던 사연은",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-10-27/202610270100167190010916"
         }
       ]
     },
     {
       "title": "이태원 참사",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 26 Oct 2026 06:50:00 -0700",
       "news": [
         {
@@ -115,7 +203,7 @@
     },
     {
       "title": "dazn",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 26 Oct 2026 06:40:00 -0700",
       "news": [
         {
@@ -132,94 +220,6 @@
           "title": "Sources: Haney, Paro agree to welterweight title unification",
           "source": "The Ring",
           "url": "https://www.ringmagazine.com/news/sources-haney-paro-agree-to-welterweight-title-unification-XHwslKzof7wLNMDmDEIGc"
-        }
-      ]
-    },
-    {
-      "title": "군인",
-      "approx_traffic": "2000+",
-      "published": "Mon, 26 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "야시장부터 축제 벤치마킹까지…화천군의회 현장 소통",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20261026102021377"
-        },
-        {
-          "title": "[의회중계석] “제설 방식별 경제성 비교 합리적 대책 마련해야”",
-          "source": "강원도민일보",
-          "url": "https://www.kado.net/news/curationView.html?idxno=2080268"
-        },
-        {
-          "title": "화천군의회 “유용미생물 공급 홍보 강화·주민 혜택 확대”",
-          "source": "강원일보",
-          "url": "https://www.kwnews.co.kr/article/20261019501495"
-        }
-      ]
-    },
-    {
-      "title": "기소",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "“70대 노모에 19차례 연락”…문재인 뇌물 수사에 검찰총장 대행 “뼈 발라내는 수사”",
-          "source": "시사저널",
-          "url": "https://www.sisajournal.com/news/articleView.html?idxno=391353"
-        },
-        {
-          "title": "공소청 미제 적체·중수청 인프라 구축…檢폐지 과제 남긴 국감",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/court-prosecution/6330300"
-        },
-        {
-          "title": "[단독] 與 “文 뇌물 공소취소하라” 수사 검사 “국감서 운운할 일 아냐”",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25472450"
-        }
-      ]
-    },
-    {
-      "title": "이세돌",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 05:20:00 -0700",
-      "news": [
-        {
-          "title": "이세돌, 20kg 맥주통 메고 야구장 누벼",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261024501646"
-        },
-        {
-          "title": "[리뷰M] '백수 이세돌', 바둑돌 대신 맥주컵으로 놓은 신의 한 수★★★☆",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/M/Detail/522492"
-        },
-        {
-          "title": "[백수 이세돌] 출입문 비밀번호 잊은 선배 당황 순간에 이세돌 따뜻한 격려 “인간적인 모습 좋았다”",
-          "source": "KBS연예",
-          "url": "https://kstar.kbs.co.kr/list_view.html?idx=413055"
-        }
-      ]
-    },
-    {
-      "title": "여행경보",
-      "approx_traffic": "2000+",
-      "published": "Mon, 26 Oct 2026 05:10:00 -0700",
-      "news": [
-        {
-          "title": "\"혼자 가지 마세요\"... 여행경보 국가 한국인 피해 폭증 [자막뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202610260801346735"
-        },
-        {
-          "title": "“해외여행 전 확인하세요”…한국인 사건·사고 48% 급증",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12185331"
-        },
-        {
-          "title": "‘진짜 위험하네’ 한국인 납치·감금 급증…여행경보발령 10개국 ‘비상’",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261026580073"
         }
       ]
     }
