@@ -1,11 +1,165 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T22:10:44+00:00",
+  "fetched_at": "2026-10-26T22:42:43+00:00",
   "items": [
     {
+      "title": "이차전지",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "지아이텍, KCC글라스와 32억 규모 공급 계약 체결",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03099606645616856"
+        },
+        {
+          "title": "지아이텍, 자동차 유리 검사장비 신규 수주…“전방산업 다변화 성과”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626187"
+        },
+        {
+          "title": "지아이텍, 32억 규모 원판 글래스 검사기 계약",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003840747"
+        }
+      ]
+    },
+    {
+      "title": "이범호",
+      "approx_traffic": "5000+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "박진만 삼성 감독 \"페덱이 KIA 중심타선 못 잡은 게 아쉽다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026172600007"
+        },
+        {
+          "title": "“웃돈 줬는데 환불도 안돼”... ‘가을 야구’ 우천 취소에 우는 암표 구매자들",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/10/27/YO3K27J54BB6VL4TIZMAIIJIAQ/"
+        },
+        {
+          "title": "'달빛시리즈' 시작...'PO 1차전을 잡아라'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610261705060392"
+        }
+      ]
+    },
+    {
+      "title": "quả bóng vàng 2026",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "Hôm nay trao Quả Bóng Vàng 2026",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/hom-nay-trao-qua-bong-vang-2026-5136731.html"
+        },
+        {
+          "title": "Gala trao giải Quả bóng vàng 2026: Yamal được vinh danh",
+          "source": "Znews",
+          "url": "https://lifestyle.zingnews.vn/gala-trao-giai-qua-bong-vang-2026-yamal-duoc-vinh-danh-post1692256.html"
+        },
+        {
+          "title": "Quả bóng vàng cho Kane, cơ hội rửa hận của Bayern Munich",
+          "source": "yeuthethao.net.vn",
+          "url": "https://yeuthethao.net.vn/qua-bong-vang-cho-kane-co-hoi-rua-han-cua-bayern-munich-d900142.html"
+        }
+      ]
+    },
+    {
+      "title": "skhy",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "SK hynix Readies Up to 60 Trillion Won in New Shareholder Returns",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/10/26/sk-hynix-readies-up-to-60-trillion-won-in-new-shareholder"
+        },
+        {
+          "title": "SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report"
+        },
+        {
+          "title": "SK hynix weighs $12.1 billion special dividend, newspaper says",
+          "source": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10914252"
+        }
+      ]
+    },
+    {
+      "title": "tsla",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "Tesla stock leaves rest of the Magnificent 7 in the dust, surging to October’s top spot",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/tesla-stock-leaves-rest-of-the-magnificent-7-in-the-dust-surging-to-octobers-top-spot-172356059.html"
+        },
+        {
+          "title": "Canaccord Analyst Keeps $442 Tesla Target, Says Call Critics Are Wrong",
+          "source": "TeslaNorth.com",
+          "url": "https://teslanorth.com/2026/10/26/canaccord-tesla-442-price-target/"
+        },
+        {
+          "title": "Tesla Stocks Rise 5.34% After Barclays Lifts Target to $450",
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/news/gurufocus:250d2c2c1094b:0-tesla-stocks-rise-5-34-after-barclays-lifts-target-to-450/"
+        }
+      ]
+    },
+    {
+      "title": "치이카와",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "Everything K-POP and More! - 위버스 매거진",
+          "source": "Weverse Magazine",
+          "url": "https://magazine.weverse.io/article/view/1995?lang=ko"
+        },
+        {
+          "title": "치이카와·A20·닥터X·100일의거짓말, 1위 [한눈에 보는 엔터차트]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6332111"
+        },
+        {
+          "title": "일본 애니메이션 ‘치이카와’ 3주 연속 박스오피스 1위…‘타짜4’ 200만 돌파",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694953"
+        }
+      ]
+    },
+    {
+      "title": "콜 오브 듀티: 모던 워페어 4",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 14:10:00 -0700",
+      "news": [
+        {
+          "title": "정치권 \"해보라\"던 '북한 기습 남침' 게임...기자가 해보니",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0106_202610262305207032"
+        },
+        {
+          "title": "“모던 워페어4가 2030년 한반도 통일 예언?”…김여정까지 등장한 예언설",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610240800031"
+        },
+        {
+          "title": "[동영상] \"국군 이병의 기상천외한 북벌\" 콜옵 모던워페어 사의 돌풍",
+          "source": "게임동아",
+          "url": "https://game.donga.com/124829/"
+        }
+      ]
+    },
+    {
       "title": "자동차",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Mon, 26 Oct 2026 14:00:00 -0700",
       "news": [
         {
@@ -41,9 +195,9 @@
           "url": "https://rmcsport.bfmtv.com/football/ligue-1/info-rmc-sport-pourquoi-les-autorites-envisagent-un-report-de-la-rencontre-psg-ol_AV-202610210739.html"
         },
         {
-          "title": "Les compositions pour le match Paris SG - Lyon",
-          "source": "20 Minutes",
-          "url": "https://www.20minutes.fr/sport/football/ligue-1/4257804-20261026-paris-sg-lyon-composition-officielle-8e-journee-ligue-1-2027"
+          "title": "[DIRECT]GRATUIT!!] PSG - Lyon match de Ligue 1 en direct gratuit",
+          "source": "NYC Health + Hospitals",
+          "url": "https://www.nychealthandhospitals.org/gouverneur-virtual-tour/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3ZlbXBpcmVzLmdpdGh1Yi5pby9EeW5hbW8vamtvLnhtbCIvPjwva3JwYW5vPg==&id=direct-gratuit-psg-lyon-match-de-fox-sports-jxs2r"
         }
       ]
     },
@@ -66,155 +220,6 @@
           "title": "[ET단상] 전기차 국내 생산 지원, 자동차 부품산업의 버팀목",
           "source": "전자신문",
           "url": "https://www.etnews.com/20261026000106"
-        }
-      ]
-    },
-    {
-      "title": "스테이블코인",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 13:50:00 -0700",
-      "news": [
-        {
-          "title": "\"흔들리는 달러 시대…다음 주인공은 비트코인\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003840590"
-        },
-        {
-          "title": "고금리인데 비트코인은 왜 오를까…美 정부가 '스테이블코인' 미는 이유",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610250001056656"
-        },
-        {
-          "title": "＂누가 발행하느냐, 제대로 갚을 수 있느냐＂…韓코인 논쟁에 美변수",
-          "source": "한국경제TV",
-          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610230159"
-        }
-      ]
-    },
-    {
-      "title": "미스터트롯4",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "[공식] 안정환·황신혜, ‘미스터트롯4’ 마스터 합류…12월 방송",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261026/134906896/1"
-        },
-        {
-          "title": "안정환·황신혜, ‘미스터트롯 4’ 마스터 합류…또 다른 임영웅, 안성훈, 김용빈 찾는다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610260912003"
-        }
-      ]
-    },
-    {
-      "title": "이다해",
-      "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "이다해, '중국풍' 외모 지적에 \"조금씩 달라지는 내 모습 즐겨\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261024_0003839708"
-        },
-        {
-          "title": "'200억' 실적 이다해, 확 달라진 얼굴에 성형 의혹…\"中 스타일링 때문\"",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610251714077708"
-        },
-        {
-          "title": "이다해, 갑작스러운 성형설에 \"중국 스태프와 작업… 저도 새로운 모습\"",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026102610370003129"
-        }
-      ]
-    },
-    {
-      "title": "지연수",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "\"오빠 저 기억하세요?\"…지연수, 서태지와 인연 공개 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/26/2026102619330349730"
-        },
-        {
-          "title": "지연수, 옷가게 알바로 새 출발…“일당백 알바생”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261026/134912523/1"
-        },
-        {
-          "title": "곰탕집 그만둔 지연수, 새 일자리 찾고 활짝 웃었다 “예뻐지는 느낌 들어”(연수롭다) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/26/GM3WMMLFGIZDQMLEMNTDIYJQGI/"
-        }
-      ]
-    },
-    {
-      "title": "원자력 잠수함",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "中-日 갈등 고조와 中 해군력 강화 대응?…日 핵잠수함 보유 논란",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003840845"
-        },
-        {
-          "title": "주일 美대사 \"일본, 인도태평양 지역 드론 생산 거점돼야\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261025036000073"
-        },
-        {
-          "title": "‘일본도 힘들다’…미국 ‘방위비 증액’ 압박에 AI·인프라 예산까지 방위비에 포함",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625997"
-        }
-      ]
-    },
-    {
-      "title": "lg화학",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 13:30:00 -0700",
-      "news": [
-        {
-          "title": "Kukdo Chemical to Buy LG Chem's Daesan BPA Business for 78.4 Billion Won",
-          "source": "THE ELEC, Korea Electronics Industry Media",
-          "url": "https://www.thelec.net/news/articleView.html?idxno=14931"
-        },
-        {
-          "title": "Kukdo Chemical Co To Buy Lg Chem's Bpa Manufacturing Facility And Business Unit For 78.4 Billion Won",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46A0D3:0-kukdo-chemical-co-to-buy-lg-chem-s-bpa-manufacturing-facility-and-business-unit-for-78-4-billion-won/"
-        },
-        {
-          "title": "LG Chem agrees to sell Daesan BPA business to Kukdo Chemical, final deal imminent",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/en/industry/2026/10/22/2026102218164110913"
-        }
-      ]
-    },
-    {
-      "title": "수출",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 13:30:00 -0700",
-      "news": [
-        {
-          "title": "\"EU 포장규제, 수출기업 83％ '잘 몰라'…맞춤형 지원 필요\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026154800003"
-        },
-        {
-          "title": "무역협회 \"韓 기업 83%, EU 포장규제 대응 미흡…맞춤 지원 강화해야\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003841558"
-        },
-        {
-          "title": "수출은 했는데 라벨 하나에 막혔다…K-푸드 가로막는 비관세장벽",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/economy/trend/6330382"
         }
       ]
     }
