@@ -1,11 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T03:15:08+00:00",
+  "fetched_at": "2026-10-26T04:15:47+00:00",
   "items": [
     {
+      "title": "존리",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 20:10:00 -0700",
+      "news": [
+        {
+          "title": "\"오를까봐 퇴직금 3억 몰빵\"…존리, 50대 男에 뼈때리는 조언",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102642137"
+        },
+        {
+          "title": "“퇴직금 3억으로 주식했다 날렸다” 존리의 조언",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626198"
+        },
+        {
+          "title": "\"주가 계속 오르길래\"…퇴직금 3억원 투자한 50대, 한 달 만에 손실",
+          "source": "부산파이낸셜뉴스",
+          "url": "https://busan.fnnews.com/news/202610250938017018?pg=mny"
+        }
+      ]
+    },
+    {
+      "title": "미국 증권거래위원회",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 20:10:00 -0700",
+      "news": [
+        {
+          "title": "美상장사 22곳 “토큰화 안된다”…토큰주식 출발부터 ‘난항’",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01961446645616856"
+        },
+        {
+          "title": "MS·구글도 반대했다… 美 주식 토큰화에 무슨 일?",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172619"
+        },
+        {
+          "title": "토큰화 주식 반대 기업 22곳으로 급증…웰스파고·시스코까지 가세",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/265120"
+        }
+      ]
+    },
+    {
+      "title": "실업급여",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 20:10:00 -0700",
+      "news": [
+        {
+          "title": "강레오“실업급여로 日여행 청년들…사진 거절했다”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626132"
+        },
+        {
+          "title": "“사진 찍어주세요” 청년 거절한 강레오…“세금으로 해외여행, 열받아”",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/2026/10/26/20261026500101"
+        },
+        {
+          "title": "강레오 셰프 “실업급여로 日 여행 온 청년들, 사진 거부” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/26/FEUDZE2YBZHDROT7KHED7DHWQU/"
+        }
+      ]
+    },
+    {
       "title": "인파",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Sun, 25 Oct 2026 19:10:00 -0700",
       "news": [
         {
@@ -16,7 +82,7 @@
         {
           "title": "[날씨] 태풍 약화했지만 강풍·풍랑 남아...모레 서울 2℃ '뚝'",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202610261018127889"
+          "url": "https://www.ytn.co.kr/_ln/0108_202610261140241545"
         },
         {
           "title": "태풍 ‘참피’ 온대저기압으로 약화…제주 강풍·풍랑 주의",
@@ -27,7 +93,7 @@
     },
     {
       "title": "k2 흑표",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sun, 25 Oct 2026 19:10:00 -0700",
       "news": [
         {
@@ -43,7 +109,29 @@
         {
           "title": "\"K2 엔진 결함으로 일시 중단\"…정작 폴란드 반응은 '무덤덤' 왜?",
           "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026102610013980502"
+          "url": "https://view.asiae.co.kr/article/2026102610013980502"
+        }
+      ]
+    },
+    {
+      "title": "김동선",
+      "approx_traffic": "500+",
+      "published": "Sun, 25 Oct 2026 19:10:00 -0700",
+      "news": [
+        {
+          "title": "벤슨, 출범 1년 반 만에 매장 27곳…내년 100곳 확대 목표",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026064300030"
+        },
+        {
+          "title": "아이스크림 '벤슨', 갤러리아서 아워홈으로…내년 100개 점포 목표",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441095"
+        },
+        {
+          "title": "벤슨, 아워홈 합류해 가맹사업 본격화…\"내년 상반기 가맹점 모집\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/distribution/6331608"
         }
       ]
     },
@@ -70,30 +158,52 @@
       ]
     },
     {
-      "title": "김동선",
-      "approx_traffic": "200+",
+      "title": "76ers vs pistons",
+      "approx_traffic": "100+",
       "published": "Sun, 25 Oct 2026 19:10:00 -0700",
       "news": [
         {
-          "title": "벤슨, 출범 1년 반 만에 매장 27곳…내년 100곳 확대 목표",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026064300030"
+          "title": "Sixers fall to 3-1 as Pistons shut down Jaylen Brown, Philadelphia offense",
+          "source": "PHLY Sports",
+          "url": "https://allphly.com/76ers/sixers-pistons-recap-tyrese-maxey-lebron-james/"
         },
         {
-          "title": "아이스크림 '벤슨', 갤러리아서 아워홈으로…내년 100개 점포 목표",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441095"
+          "title": "Cade Cunningham News: Scores 26 points with full line in win",
+          "source": "RotoWire",
+          "url": "https://www.rotowire.com/basketball/headlines/cade-cunningham-news-scores-26-points-with-full-line-in-win-536087"
         },
         {
-          "title": "[단독] '김동선 아이스크림' 벤슨, 갤러리아에서 아워홈으로 … 가맹사업도 시동",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600046.html"
+          "title": "See Detroit Pistons take on LeBron James and the 76ers in Philadelphia",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/news/slideshows/see-detroit-pistons-lebron-james-003532697.html"
+        }
+      ]
+    },
+    {
+      "title": "진태현",
+      "approx_traffic": "100+",
+      "published": "Sun, 25 Oct 2026 19:00:00 -0700",
+      "news": [
+        {
+          "title": "진태현, 항생제 부작용으로 마라톤 기권 “아프면 달리지 말아야”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261026/134906390/1"
+        },
+        {
+          "title": "진태현, 러너들에 소신발언 \"아픈데 왜 뛰냐…진통제 먹으면서 달리지 말라\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/HFSDONZSGZQTKZRUGE2TQZJWG4/"
+        },
+        {
+          "title": "진태현, 건강 문제로 마라톤 기권…\"아프면 달리지 마라\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261026000090"
         }
       ]
     },
     {
       "title": "냉장고",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Sun, 25 Oct 2026 18:40:00 -0700",
       "news": [
         {
@@ -102,119 +212,14 @@
           "url": "https://www.donga.com/news/Economy/article/all/20261026/134908522/1"
         },
         {
-          "title": "LG 디오스 AI 오브제컬렉션 스템 얼음정수 냉장고 론칭",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626271"
+          "title": "LG전자, 서랍형 냉동고·AI 기능 갖춘 '스템' 냉장고 출시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026020200003"
         },
         {
-          "title": "LG전자, AI·서랍형 냉동고 기능 '디오스 AI 스템 얼음정수 냉장고' 출시",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261026091513"
-        }
-      ]
-    },
-    {
-      "title": "cve-2026-111497",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 18:20:00 -0700",
-      "news": [
-        {
-          "title": "Following PHP, Concerns Grow Over Node.js Website Hacking Vulnerabilities",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008814662"
-        },
-        {
-          "title": "An emergency light was turned on on a server that operates an Internet shopping mall or a corporate",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/it/12185526"
-        },
-        {
-          "title": "Node2Shell Brotli vuln (CVE-2026-111497) evolves to HTTP2Shell, as libraries and apps using HTTP are affected.",
-          "source": "Aikido Security",
-          "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
-        }
-      ]
-    },
-    {
-      "title": "필리핀",
-      "approx_traffic": "2000+",
-      "published": "Sun, 25 Oct 2026 18:10:00 -0700",
-      "news": [
-        {
-          "title": "F-16 돌려보낸 필리핀…KF-21 40대설에 서명은 '아직'",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610260650437050fbbec65dfb_1"
-        },
-        {
-          "title": "대자연이 숨 쉬는 섬, 필리핀 보홀로 떠나는 가을 여정",
-          "source": "이트레블뉴스",
-          "url": "https://www.momonews.com/81675"
-        },
-        {
-          "title": "필리핀 관광부, 초콜릿힐·안경원숭이·바다거북·반딧불이 강 등 섬 전체가 유네스코 지질공원 '보홀' 소개",
-          "source": "이로운뉴스",
-          "url": "https://www.erounews.kr/news/articleView.html?idxno=5470"
-        }
-      ]
-    },
-    {
-      "title": "넾다세일",
-      "approx_traffic": "100+",
-      "published": "Sun, 25 Oct 2026 18:00:00 -0700",
-      "news": [
-        {
-          "title": "네이버, '넾다세일' 2주간 진행…1000만 개 상품 특가 판매",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/it-science/internet-platform/6331376"
-        },
-        {
-          "title": "네이버, 상품 1000만개 풀고 할인 더한다… ‘넾다세일’ 개막",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261026500093"
-        },
-        {
-          "title": "네이버, 하반기 ‘넾다세일’ 2주간 연다…약 1000만 개 상품 할인",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261026/134907640/1"
-        }
-      ]
-    },
-    {
-      "title": "인플루언서",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 18:00:00 -0700",
-      "news": [
-        {
-          "title": "[리얼]“35층서 추락했는데 살았어” 미녀 인플루언서, 17개월 만에 복귀",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626058"
-        },
-        {
-          "title": "\"35층서 추락하고도 기적적 생존\"...14시간 수술 끝에 기적 만든 20대女 [헬스톡]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610232009045699"
-        }
-      ]
-    },
-    {
-      "title": "카드뉴스",
-      "approx_traffic": "200+",
-      "published": "Sun, 25 Oct 2026 17:50:00 -0700",
-      "news": [
-        {
-          "title": "앨비스 프레슬리 노래를 무단 학습?...\"1곡당 2억 원\" 앤트로픽 피소",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR2026102610441521H"
-        },
-        {
-          "title": "\"AI가 엘비스 프레슬리 노래 무단 학습\"...앤트로픽 540억 원 피소",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610260854459158"
-        },
-        {
-          "title": "[AI는 지금] 엘비스 노래 274곡 AI 학습에?…앤트로픽 또 저작권 침해 공방",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261026100141"
+          "title": "LG전자, 냉동·냉장 전환되는 AI 냉장고 출시",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172756"
         }
       ]
     }
