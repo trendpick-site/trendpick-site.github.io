@@ -1,220 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T09:21:57+00:00",
+  "fetched_at": "2026-10-26T10:20:55+00:00",
   "items": [
     {
-      "title": "사과",
-      "approx_traffic": "2000+",
-      "published": "Mon, 26 Oct 2026 01:10:00 -0700",
-      "news": [
-        {
-          "title": "사과 향기 가득한 가을, 제11회 함양수동사과축제 개최",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20261026004000353"
-        },
-        {
-          "title": "함양수동사과축제, 31일 개최…사과따기 등 체험행사 풍성",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003841348"
-        },
-        {
-          "title": "홍천군, 내달 6일 사과 축제…상자당 5000원 특별 할인 판매",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/kangwon/6331668"
-        }
-      ]
-    },
-    {
-      "title": "박현경",
+      "title": "샘 올트먼",
       "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 01:10:00 -0700",
+      "published": "Mon, 26 Oct 2026 02:10:00 -0700",
       "news": [
         {
-          "title": "일본에서 흐름 바꾼 박현경, 제주도에서 국내 시즌 첫 우승 도전 [KLPGA]",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022422"
+          "title": "AGI 선점해 경쟁사 GPU까지 파괴…알트먼 “끔찍한 시나리오”",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216469"
         },
         {
-          "title": "박현경, 첫 회원 자격 JLPGA 대회에서 공동 6위…마지막 날 보기 없이 버디만 4개",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610251425003"
+          "title": "[심층분석] OpenAI·폴란드 NASK 협력의 의미, 안전 명분과 주권·투명성 충돌",
+          "source": "데일리연합",
+          "url": "https://dailyan.com/news/article.html?no=782285"
         },
         {
-          "title": "박현경, 일본 노부타그룹 대회 6위로 '톱10'…신지애 30위로 마쳐 [JLPGA]",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022398"
+          "title": "엘리저 유드코프스키, AI에 대한 공포를 베스트셀러로 만든 팬픽션 작가",
+          "source": "Martin Cid Magazine",
+          "url": "https://ko.martincid.com/books-ko/%EC%97%98%EB%A6%AC%EC%A0%80-%EC%9C%A0%EB%93%9C%EC%BD%94%ED%94%84%EC%8A%A4%ED%82%A4-ai%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%B5%ED%8F%AC%EB%A5%BC/"
         }
       ]
     },
     {
-      "title": "명성교회",
+      "title": "npl",
       "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 01:10:00 -0700",
+      "published": "Mon, 26 Oct 2026 02:00:00 -0700",
       "news": [
         {
-          "title": "밤새 끓인 국밥 6만 그릇…명성교회 추수감사절 나눔행사",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626200"
+          "title": "NPL set to kick off with bigger stars and Rs1.5 billion in sight",
+          "source": "The Kathmandu Post",
+          "url": "https://kathmandupost.com/sports/2026/10/25/npl-set-to-kick-off-with-bigger-stars-and-rs1-5-billion-in-sight"
         },
         {
-          "title": "명성교회, 이웃과 함께하는 2026 추수감사절 : 목회/신학",
-          "source": "크리스천투데이",
-          "url": "https://www.christiantoday.co.kr/news/378135"
+          "title": "FanCode secures exclusive digital streaming rights for Nepal Premier League season 3",
+          "source": "SportsMint Media",
+          "url": "https://sportsmintmedia.com/fancode-secures-exclusive-digital-streaming-rights-for-nepal-premier-league-season-3/"
         },
         {
-          "title": "명성교회, 추수감사절 맞이 지역 주민들과 국밥 6만 그릇 나눔",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/life/religion-news/2026/10/26/20261026500116"
+          "title": "NPL 3 champions to receive Rs 15 million in prize money",
+          "source": "myRepublica",
+          "url": "https://myrepublica.nagariknetwork.com/news/npl-3-champions-to-receive-rs-15-million-in-prize-money-19-40.html"
         }
       ]
     },
     {
-      "title": "항공사",
-      "approx_traffic": "2000+",
-      "published": "Mon, 26 Oct 2026 00:50:00 -0700",
-      "news": [
-        {
-          "title": "올겨울 국제 항공편 주 5천353회로 7.6%↑…일본·중국 증편",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261025016000003"
-        },
-        {
-          "title": "제주~인천 주 3회 운항·스좌장 노선 개설",
-          "source": "한라일보",
-          "url": "https://m.ihalla.com/article.php?aid=1792910706791985010"
-        },
-        {
-          "title": "부산에서 광저우·샤먼으로 가는 직항 하늘길 처음 열렸다",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261025.99099007004"
-        }
-      ]
-    },
-    {
-      "title": "코스피",
+      "title": "기아 삼성",
       "approx_traffic": "10000+",
-      "published": "Mon, 26 Oct 2026 00:50:00 -0700",
+      "published": "Mon, 26 Oct 2026 01:50:00 -0700",
       "news": [
         {
-          "title": "\"외인들이 또\"…7000억 매도 폭탄에 코스피 5500 깨졌다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102656696"
+          "title": "잔디 예초는 2㎝로…KBO, PO 1차전 앞두고 그라운드 점검",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026160300007"
         },
         {
-          "title": "코스피, 1%대 내려 5,400선…코스닥 3%↓",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261026160524hBV"
+          "title": "김선빈까지 나서서 해결사 주문, 김도영 부담 백배?...이범호 손사래 \"이런 걸 즐기는 것 같다\" [PO1] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/baseball/2026/10/26/GM2GCZBYHE3GEZBVG44WEZJXGI/"
         },
         {
-          "title": "코스피 5,400선 마감...약 7개월 만에 최저치",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610261722303664"
-        }
-      ]
-    },
-    {
-      "title": "전영현",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 00:50:00 -0700",
-      "news": [
-        {
-          "title": "삼성·SK, 내년 2월 HBM4 8단 양산 출하...엔비디아향 공급",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261026115227"
-        },
-        {
-          "title": "맞춤형 HBM 시대 본격 개막...반도체 ‘적과의 동침’ ‘합종연횡’ 가속화",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/10/26/2GTP3RHN2FF7NFDA75HI2SIM7E/"
-        }
-      ]
-    },
-    {
-      "title": "로또",
-      "approx_traffic": "2000+",
-      "published": "Mon, 26 Oct 2026 00:30:00 -0700",
-      "news": [
-        {
-          "title": "1247회 로또, 제주시 연동서 1명 2등 당첨...6553만원 행운",
-          "source": "헤드라인제주",
-          "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601001"
-        },
-        {
-          "title": "“한 곳서 수동 1등만 3장”...‘109억 잭팟 주인공’ 어디서 나왔나",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261024580163"
-        },
-        {
-          "title": "\"복권 3장이 모두 1등…당첨금 109억 원\" 깜짝",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814189"
-        }
-      ]
-    },
-    {
-      "title": "안경",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 00:20:00 -0700",
-      "news": [
-        {
-          "title": "’AI 안경’ 쓰고 수능 풀어보니…10초 만에 정답",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261025092034s8X"
-        },
-        {
-          "title": "[단독] 교육부 “중·고교 ‘AI 안경’ 부정행위 전수조사”",
+          "title": "[뉴스in뉴스] 프로야구 삼성:KIA 비는 누구의 편일까?",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695212"
-        },
-        {
-          "title": "너도나도 쓰더니…\"회사에선 벗으세요\" 기업들 난리 난 이유 [김대영의 노무스쿨]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610231385g"
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695149"
         }
       ]
     },
     {
-      "title": "전도연",
+      "title": "조세호",
       "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 00:10:00 -0700",
+      "published": "Mon, 26 Oct 2026 01:50:00 -0700",
       "news": [
         {
-          "title": "\"전도연, 오스카 주연상 후보 가능성\"‥외신 '가능한 사랑' 주목",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6860624_36925.html"
+          "title": "조세호, ‘고정無’ 최대 위기... 아내 SNS 내조 돌파구 될까",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/10/26/HFSWIMZVHFSGINRYG5RWGNLDMI/"
         },
         {
-          "title": "美 유력 영화 매체 “전도연, 한국 최초 아카데미 여우주연상 후보 될 것”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261026/134910617/1"
+          "title": "조세호 유일한 고정이었는데…'도라이버', 시즌6 끝으로 종영 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/25/2026102521030187073"
         },
         {
-          "title": "\"전도연 아닌 배우 상상하기 어려워\"…한국 최초 오스카 주연상 후보 되나 [지금이뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0545_202610260950016628"
+          "title": "조세호와 끝까지 함께한 예능 '도라이버', 5년 여정 마침표 [N이슈]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6331379"
         }
       ]
     },
     {
-      "title": "하태경",
-      "approx_traffic": "20000+",
-      "published": "Mon, 26 Oct 2026 00:00:00 -0700",
+      "title": "치어리더",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 01:50:00 -0700",
+      "news": []
+    },
+    {
+      "title": "당진시의회",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 01:40:00 -0700",
       "news": [
         {
-          "title": "국힘, 5·18 다룬 드라마 '닥터X' 두고 \"진영의 무기 삼지 말라\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6860780_36911.html"
+          "title": "\"설 전에 30만원씩 쏜다\"…전 시민에 지원금 푸는 '이곳'",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02669926645616856&mediaCodeNo=257"
         },
         {
-          "title": "\"'닥터X' 방영 중단하라\" 국민 청원 등장...\"의학 드라마에 5·18?\" [앵커리포트]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610260828424764"
-        },
-        {
-          "title": "유해진 이어 '닥터X' 김지원도 악플 몸살...\"정치적 편향\" 주장 - 머니투데이",
+          "title": "추석 때 무산됐던 당진시 '30만원 지원금', 설 전에 쏜다 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/26/2026102609490263478"
+          "url": "https://www.mt.co.kr/society/2026/10/26/2026102610401566538"
+        },
+        {
+          "title": "추석 때 무산된 ‘30만원 지원금’, 결국 모든 시민에 지급 결정…내년 설 전에 준다는 '이곳'",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102615381550390"
+        }
+      ]
+    },
+    {
+      "title": "상장지수 펀드",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "SK하이닉스 레버리지 ETF, 미국 상장 석 달 만에 청산",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6860776_36925.html"
+        },
+        {
+          "title": "AI 투자열기 주춤… SK하이닉스 美 레버리지 ETF 2종 청산",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172815"
+        },
+        {
+          "title": "“하이닉스로 두 배 먹자” 미국서 ‘상폐 엔딩’…처참한 수익률, 한국에서는? [내가샀다]",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/economy/securities/2026/10/26/20261026500307"
+        }
+      ]
+    },
+    {
+      "title": "스페이스x",
+      "approx_traffic": "10000+",
+      "published": "Mon, 26 Oct 2026 01:30:00 -0700",
+      "news": [
+        {
+          "title": "머스크,\"네오클라우드 대규모 도태\"… 전력·매출에 흔들리는 AI 데이터센터 [김주완의 글로벌머니 X파일]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610265574i"
+        },
+        {
+          "title": "스페이스X, 53조 부채로 GPU 확보...\"네오클라우드는 도산 위기\"",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216640"
+        },
+        {
+          "title": "머스크, AI 반도체 사려 53조원 조달…\"돈줄 막힌 AI 클라우드 업체 대거 도산할 것\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/26/RTKEBCAFAREXBBQIMQ3ET4MVC4/"
+        }
+      ]
+    },
+    {
+      "title": "피겨 ai",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 01:30:00 -0700",
+      "news": [
+        {
+          "title": "Figure AI's Robot Endures 13-Day Walk, 200-Hour Sorting Test",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/industry-en/2026/10/26/PWEXG3OIKVAM7N2O7YP6O6T5II/"
+        },
+        {
+          "title": "It keeps going and going … Figure 03 robot covers 560 km",
+          "source": "heise online",
+          "url": "https://www.heise.de/en/news/It-keeps-going-and-going-Figure-03-robot-covers-560-km-11493464.html"
+        },
+        {
+          "title": "Humanoid robot walks 1.2 million steps in a grueling 9-day treadmill stress test",
+          "source": "Interesting Engineering",
+          "url": "https://interestingengineering.com/ai-robotics/figure-03-humanoid-robot-treadmill-test"
+        }
+      ]
+    },
+    {
+      "title": "현대 넥쏘",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 01:30:00 -0700",
+      "news": [
+        {
+          "title": "'유재석 車' 입소문 나더니…국내서 5만대 넘게 팔렸다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610264451g"
+        },
+        {
+          "title": "현대차 수소차 5만대 돌파…기아도 2029년 ‘수소 카니발’로 합류",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172827"
+        },
+        {
+          "title": "‘넥쏘’ 출시 8년만에… 국내 수소차 판매량 5만대 돌파",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626241"
         }
       ]
     }
