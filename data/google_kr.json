@@ -1,49 +1,121 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T12:17:31+00:00",
+  "fetched_at": "2026-10-27T13:31:10+00:00",
   "items": [
     {
+      "title": "대전 하나 시티즌 대 비셀 고베 순위",
+      "approx_traffic": "5000+",
+      "published": "Tue, 27 Oct 2026 05:00:00 -0700",
+      "news": [
+        {
+          "title": "[AFC축구 전적] 고베 1-0 대전",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027184200007"
+        },
+        {
+          "title": "K리그1 대전, ACLE서 일본 고베에 0-1 덜미…3경기 만에 첫 패",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003843594"
+        },
+        {
+          "title": "'일본 킬러' 황선홍 감독, 'K리그 킬러' 고베까지 잡을 수 있을까",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/10/26/G5RGINTDGBQWGZRSGU4GEMBRGQ/"
+        }
+      ]
+    },
+    {
+      "title": "잇섭",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 04:50:00 -0700",
+      "news": [
+        {
+          "title": "“접었더니 화면 쩍” 아이폰 듀오 파손 확산에···‘결함’ 인정한 애플, 무상교체 밝혔지만 재고 부족",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610271351001"
+        },
+        {
+          "title": "강하게 구부리자 화면에 금이 쩍‥아이폰 '크랙게이트' 논란",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861150_37004.html"
+        },
+        {
+          "title": "화면 결함에 중국서 아이폰 듀오 재판매 시장 '웃돈' 급감",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027117000089"
+        }
+      ]
+    },
+    {
+      "title": "송가인",
+      "approx_traffic": "5000+",
+      "published": "Tue, 27 Oct 2026 04:30:00 -0700",
+      "news": [
+        {
+          "title": "“묶어불기 전에 가만히 있어”…송가인, 공연 방해 관객에 호통",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12186914"
+        },
+        {
+          "title": "송가인, 취객 난동에 사이다 대처…\"묶어버리기 전에 가만히 있어\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003843101"
+        },
+        {
+          "title": "송가인 \"철창에 묶어버리기 전에\" 관객에 일침, 무슨 일? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102718492060752"
+        }
+      ]
+    },
+    {
+      "title": "afc 챔스",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 04:30:00 -0700",
+      "news": []
+    },
+    {
       "title": "이재명",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Tue, 27 Oct 2026 04:10:00 -0700",
       "news": [
         {
-          "title": "\"리디아고 아니라는데?\" 질문 쏟아지자…주진우 \"난 떳떳\" [현장영상]",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325025"
+          "title": "이 대통령 \"지속가능한 성장 중요…내수 활성화에 정부 역량 모아야\"",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974358"
         },
         {
-          "title": "\"리디아 고한테 사과 안 해요?\" 주진우 반응 봤더니",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861159_37004.html"
+          "title": "李대통령 \"유럽 반면교사로, 지속성장 중요…주택착공 재정지원\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027068300001"
         },
         {
-          "title": "'김 여사 골프' 공방 확전...\"고장난 스피커\" \"특감해야\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202610271811062382_005.html"
+          "title": "이재명 대통령 민생 회복 지시와 성장률 전망까지 이시각 주요뉴스",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441320"
         }
       ]
     },
     {
       "title": "파주시",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Tue, 27 Oct 2026 04:10:00 -0700",
       "news": [
         {
-          "title": "옥승철 파주시의원, 청년 창업기업 간담회…공간·투자 지원 논의",
-          "source": "메트로신문",
-          "url": "https://www.metroseoul.co.kr/article/20261027500220"
+          "title": "[패트롤]경상북도개발공사-남부지방산림청",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261027020541731"
         },
         {
-          "title": "최정호 익산시장 “저는 숙성된 청년, 청년들의 동반자 될 것”",
-          "source": "전북일보 인터넷신문",
-          "url": "https://www.jjan.kr/article/20261025500059"
+          "title": "[구례소식] 구례군, 2년 연속 SNS 대상 '최우수상'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027172300054"
         },
         {
-          "title": "익산시, 청년창업가 25명과 간담회…기업 성장 지원방안 논의",
-          "source": "신아일보",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075544"
+          "title": "[경북소식]도 SNS대상 4년 연속 수상 등",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003843113"
         }
       ]
     },
@@ -92,24 +164,24 @@
       ]
     },
     {
-      "title": "npl season 3",
-      "approx_traffic": "200+",
+      "title": "플레이오프",
+      "approx_traffic": "500+",
       "published": "Tue, 27 Oct 2026 03:50:00 -0700",
       "news": [
         {
-          "title": "FanCode secures exclusive digital streaming rights for Nepal Premier League season 3",
-          "source": "SportsMint Media",
-          "url": "https://sportsmintmedia.com/fancode-secures-exclusive-digital-streaming-rights-for-nepal-premier-league-season-3/"
+          "title": "[엠빅뉴스] [PO1차전] 사소한 차이가 결과를 만든다! 카스트로와 디아즈",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/original/mbig/6861023_29041.html"
         },
         {
-          "title": "Licensable picture: Drone View of NPL Season 3 Cricket match in Kathmandu",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/drone-view-of-npl-season-3-cricket-match-in-kathmandu/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBMTE9NMUg"
+          "title": "[포토] 이의리 '직구로 승부' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/27/2026102720212545477"
         },
         {
-          "title": "Chitwan Rhinos set 158 run target to Biratnagar Kings",
-          "source": "The Rising Nepal",
-          "url": "https://risingnepaldaily.com/news/88109"
+          "title": "'퇴장 변수' 지운 이범호·'원태인 불펜' 박진만…PS 지략 전쟁",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027062700007"
         }
       ]
     },
@@ -132,94 +204,6 @@
           "title": "'나는 자연인' 재방료 얼마길래 부동산 샀다..윤택 \"하루 80회 재방송\"(라스)",
           "source": "조선일보",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/10/27/GNRWGNJXMY3DINRXGVTDGNTFMQ/"
-        }
-      ]
-    },
-    {
-      "title": "외환시장",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 03:40:00 -0700",
-      "news": [
-        {
-          "title": "‘킹달러 가고 강원화’ 환율 1,200원대까지 내려간다고?",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3791_3_C1"
-        },
-        {
-          "title": "[외환-마감] 팽팽한 수급에 1,320원 초중반대 횡보…0.60원↑",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441429"
-        },
-        {
-          "title": "\"이러다 환율 1200원대\" … 달러 강세·유가 급등도 못 꺾은 '원화 기세'",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600235.html"
-        }
-      ]
-    },
-    {
-      "title": "황산공원",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 03:40:00 -0700",
-      "news": [
-        {
-          "title": "가을 분위기 물씬",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8181284"
-        },
-        {
-          "title": "붉게 물든 댑싸리… 만추 만끽",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261027516160"
-        },
-        {
-          "title": "경남 청년 페스타, 31일부터 이틀간 양산 황산공원서 개최",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003841857"
-        }
-      ]
-    },
-    {
-      "title": "크보",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 03:40:00 -0700",
-      "news": [
-        {
-          "title": "Oller exits after allowing fourth-inning comeback, Lee Yi-ri replaces him in KBO playoff game",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/10/27/ZNAKIDVGAVBI5BCJF5ESORNNOE/"
-        },
-        {
-          "title": "Lee Eui-ri's Control Issues Spark Crisis in Relief",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/10/27/HCD4I3E3MNBZJFAJSZ3SPEIKHQ/"
-        },
-        {
-          "title": "Lee Eui-ri issues walks, costs KIA lead in playoff loss to Samsung",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/10/27/OK7KGPFTINCW7NMWDRJTPPAZHI/"
-        }
-      ]
-    },
-    {
-      "title": "한준수",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 03:40:00 -0700",
-      "news": [
-        {
-          "title": "연일 장타 때리는 KIA 한준수, \"포수로 팀 승리 이끌고파\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027170400007"
-        },
-        {
-          "title": "대구 1이닝 8실점 대참사 아픈 기억, 포수는 단 한마디도 꺼내지 못했다 \"오늘은 정말 잘 던질거라 믿어\" [PO2]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/27/MZSWGMTFMZTGEYJRGFRTSNJRMI/"
-        },
-        {
-          "title": "[AI그래픽] KBO PO 1차전, KIA 한준수 4회 5-0으로 벌리는 솔로포",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261026001239"
         }
       ]
     }
