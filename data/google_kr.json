@@ -1,27 +1,93 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T18:18:43+00:00",
+  "fetched_at": "2026-10-27T19:24:59+00:00",
   "items": [
     {
-      "title": "홈런",
-      "approx_traffic": "2000+",
-      "published": "Tue, 27 Oct 2026 09:40:00 -0700",
+      "title": "s",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 11:20:00 -0700",
       "news": [
         {
-          "title": "최형우 가을야구 최고령 홈런... 삼성, 플레이오프 2차전서 웃었다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/27/XOYWIEZGCFAP3AXGMS6BTZKBWM/"
+          "title": "Don’t expect supersize profits from Anthropic soon",
+          "source": "The Economist",
+          "url": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-soon"
         },
+        {
+          "title": "Amid the Anthropic IPO excitement, don't forget about earnings season",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/amid-the-anthropic-ipo-excitement-dont-forget-about-earnings-season-181333611.html"
+        },
+        {
+          "title": "From bioweapons to blackmail, here’s what’s in Anthropic’s nearly 100-page list of risks, including ‘risks to humanity’",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/10/27/tech/anthropic-ipo-risks-bioweapons-blackmail-vis"
+        }
+      ]
+    },
+    {
+      "title": "fomc",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 11:10:00 -0700",
+      "news": [
+        {
+          "title": "米国の中間選挙を控えているうえ、 FOMC金利引き上げの負担 ETFだけで1兆ウォンの純流出",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/jp/stock/12187460"
+        },
+        {
+          "title": "円ステーブルコインGYENが終幕へ、コインベースがUSDCに自動転換",
+          "source": "CRYPTO TIMES",
+          "url": "https://crypto-times.jp/news-gmo-gyen-stablecoin-redemption/"
+        },
+        {
+          "title": "Bitcoin現物ETF、週間で資金純流入 相場は8万ドル台に低迷",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/jp/view/119238/bitcoin-spot-etfs-return-to-weekly-net-inflows-price-weak-in-80000s"
+        }
+      ]
+    },
+    {
+      "title": "홈런",
+      "approx_traffic": "5000+",
+      "published": "Tue, 27 Oct 2026 09:40:00 -0700",
+      "news": [
         {
           "title": "'후라도 6.2이닝 2실점 호투' 삼성, KIA 꺾고 플레이오프 2차전 승리",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/sports/article/6861177_36946.html"
         },
         {
-          "title": "[포토] 달빛시리즈, 승부는 원점 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/27/2026102722013610139"
+          "title": "\"감독님께 전화 드려야겠다\" 이제는 '엄살'이 됐다…8년 만에 낀 글러브, 삼성 도파민 제대로 터졌다 [PO]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/28/G4ZWMMRXHA4WKMLDMMYGCN3BHE/"
+        },
+        {
+          "title": "최형우가 돌아왔다…사자들이 일어났다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610272223005"
+        }
+      ]
+    },
+    {
+      "title": "청송군",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 09:30:00 -0700",
+      "news": [
+        {
+          "title": "청송황금사과 맛보세요…서울 주요 거점서 판매 행사",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027126900053"
+        },
+        {
+          "title": "청송군, ‘청송황금사과’ 서울 직판으로 수도권 판로 확대",
+          "source": "뉴데일리 대구경북",
+          "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/27/2026102700394.html"
+        },
+        {
+          "title": "민원 챙기던 군의원, 주민과의 약속 위해 운동화 끈 조였다",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026102613210805694"
         }
       ]
     },
@@ -36,14 +102,14 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8695320"
         },
         {
+          "title": "'애플 잘 안 접혀?' 광고 재소환‥\"우리 건 달라\" 날선 신경전",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6861036_36932.html"
+        },
+        {
           "title": "“접었더니 화면 쩍” 아이폰 듀오 파손 확산에···‘결함’ 인정한 애플, 무상교체 밝혔지만 재고 부족",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202610271351001"
-        },
-        {
-          "title": "강하게 구부리자 화면에 금이 쩍‥아이폰 '크랙게이트' 논란",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861150_37004.html"
         }
       ]
     },
@@ -53,11 +119,6 @@
       "published": "Tue, 27 Oct 2026 08:30:00 -0700",
       "news": [
         {
-          "title": "PBA 팀리그 ‘전통강호’ 웰컴저축은행, T.응우옌 강유진 ‘추가 선발’",
-          "source": "mkbn.mk.co.kr",
-          "url": "https://mkbn.mk.co.kr/news/sports/12187610"
-        },
-        {
           "title": "PBA 팀리그 웰컴저축은행, T.응우옌·강유진 추가 영입",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261027150800007"
@@ -66,28 +127,11 @@
           "title": "PBA 팀리그 웰컴저축은행, T.응우옌-강유진 '추가 선발'",
           "source": "뉴스1",
           "url": "https://www.news1.kr/sports/general-sport/6333294"
-        }
-      ]
-    },
-    {
-      "title": "승리 결혼",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 07:40:00 -0700",
-      "news": [
-        {
-          "title": "빅뱅 출신 승리, 아빠 된다...내년 1월 출산 후 결혼 예정 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/27/2026102722402430531"
         },
         {
-          "title": "前 빅뱅 승리, 20대女 혼전 임신 [스타이슈]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/star/2026/10/27/2026102723053592129"
-        },
-        {
-          "title": "\"빅뱅 출신 승리, 내년 1월 아빠 된다\"…20대 여친과 결혼 준비설",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6334023"
+          "title": "‘PBA 뉴 챔프’ 응우옌쩐타인타오·‘LPBA 준우승’ 강유진, PBA 팀리그 합류…웰컴저축은행 추가 선발",
+          "source": "빌리어즈",
+          "url": "https://www.thebilliards.kr/news/articleView.html?idxno=32286"
         }
       ]
     },
@@ -110,6 +154,28 @@
           "title": "경기 프리뷰: 플리트우드 타운 vs 아스널, 10월 28일 오전 3시: 아스널이 쉽게 무너지지 않을 것으로 예상됩니다.",
           "source": "Vietnam.vn",
           "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-fleetwood-town-vs-arsenal-3h00-ngay-28-10-ve-kho-thoat-khoi-tay-phao"
+        }
+      ]
+    },
+    {
+      "title": "승리 결혼",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 07:40:00 -0700",
+      "news": [
+        {
+          "title": "빅뱅 출신 승리, 아빠 된다...내년 1월 출산 후 결혼 예정 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/27/2026102722402430531"
+        },
+        {
+          "title": "前 빅뱅 승리, 20대女 혼전 임신 [스타이슈]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/10/27/2026102723053592129"
+        },
+        {
+          "title": "\"빅뱅 출신 승리, 내년 1월 아빠 된다\"…20대 여친과 결혼 준비설",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6334023"
         }
       ]
     },
@@ -146,75 +212,14 @@
           "url": "https://www.mt.co.kr/entertainment/2026/10/26/2026102616175270937"
         },
         {
-          "title": "'결혼 5일 만에 불륜설' 양홍원, 또 다른 주장 나왔다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003840451"
-        },
-        {
           "title": "‘양홍원 불륜 의혹’ 제기자, 고소 카드 나오자 돌연 ‘사과’…“진심으로 미안해”",
           "source": "서울경제",
           "url": "https://www.sedaily.com/article/20106428"
-        }
-      ]
-    },
-    {
-      "title": "전쟁",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 07:20:00 -0700",
-      "news": [
-        {
-          "title": "국방장관 ‘미군 믿을수 있냐’ 발언에…국방부 “신뢰강조 취지”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626706"
         },
         {
-          "title": "[사설]“美 믿을 수 있나” “전작권 독자 환수”… 동맹 관리부터 섬세하게",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261027/134920991/2"
-        },
-        {
-          "title": "강신철 \"김정은 방중 시점 예상하고 군사회담 제의\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202610262313401155"
-        }
-      ]
-    },
-    {
-      "title": "3기신도시 남양주 왕숙지구",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 07:00:00 -0700",
-      "news": [
-        {
-          "title": "강동하남남양주선 2·5공구 4차례 유찰…경기도·도의회, 지연 최소화 대책 논의",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335195"
-        },
-        {
-          "title": "왕숙3기신도시 ‘선교통, 후입주’ 실현…전철9호선 착공 속도낼까",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03444006645617184&mediaCodeNo=257"
-        }
-      ]
-    },
-    {
-      "title": "우주발사체",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 06:50:00 -0700",
-      "news": [
-        {
-          "title": "'고흥 우주발사체' 국가산업단지 조성…2032년 준공",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974355"
-        },
-        {
-          "title": "국토부, 고흥 우주발사체 국가산단 계획 심의…내년 보상 절차 착수",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=373968"
-        },
-        {
-          "title": "고흥 우주발사체 국가산단 조성 본격화…발사체 생태계 구축",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20106641"
+          "title": "'결혼 5일 만에 불륜설' 양홍원, 또 다른 주장 나왔다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003840451"
         }
       ]
     }
