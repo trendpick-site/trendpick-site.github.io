@@ -1,12 +1,12 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T15:26:06+00:00",
+  "fetched_at": "2026-10-27T16:26:13+00:00",
   "items": [
     {
-      "title": "승리",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 07:20:00 -0700",
+      "title": "승리 결혼",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 07:40:00 -0700",
       "news": [
         {
           "title": "빅뱅 출신 승리, 아빠 된다...내년 1월 출산 후 결혼 예정 - 머니투데이",
@@ -14,14 +14,80 @@
           "url": "https://www.mt.co.kr/society/2026/10/27/2026102722402430531"
         },
         {
-          "title": "“역시 승리답다” 승리, 특수폭행 피소 와중에 ‘혼전 임신·결혼’ 발표",
+          "title": "승리, 내년 1월 아빠되나? 20대 여친과 결혼 준비설",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12187763"
+          "url": "https://www.mk.co.kr/news/hot-issues/12187746"
         },
         {
-          "title": "\"빅뱅 출신 승리, 내년 1월 아빠 된다\"…20대 여친과 결혼 준비설",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6334023"
+          "title": "'연예계 퇴출' 승리, 아빠 되나…특수폭행혐의 피소 중 알려져",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102790747"
+        }
+      ]
+    },
+    {
+      "title": "리그컵",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 07:40:00 -0700",
+      "news": [
+        {
+          "title": "카라바오컵 본머스 대 아스톤 빌라 축구 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-bournemouth-vs-aston-villa-tai-carabao-cup-1790133.ldo"
+        },
+        {
+          "title": "카라바오컵 플리트우드 타운 대 아스날 경기 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-fleetwood-town-vs-arsenal-tai-carabao-cup-1789887.ldo"
+        },
+        {
+          "title": "플리트우드 타운 vs 아스널 예측: 승리 시 다음 라운드 진출",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-fleetwood-town-vs-arsenal-thang-de-di-tiep"
+        }
+      ]
+    },
+    {
+      "title": "카를로스 알카라스",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "권순우·정현 출격 한국 테니스, ‘데이비스컵 파이널 8’ 첫 4강 신화 도전…8강서 ‘디펜딩 챔피언’ 이탈리아와 격돌",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335189"
+        },
+        {
+          "title": "야닉 시너, 시즌 종료 선언 뒤 복귀 결정⋯12월 '식스 킹스 슬램' 출전",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2640421"
+        },
+        {
+          "title": "알카라스, 선봉!…스페인, 데이비스컵 7년 만의 정상 탈환 노린다",
+          "source": "테니스코리아",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54123"
+        }
+      ]
+    },
+    {
+      "title": "엄태웅",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "윤혜진, 딸 엄지온 선화예중 합격 당시 회상 \"길거리서 울어\"",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610240746156508"
+        },
+        {
+          "title": "엄태웅, ♥윤혜진·'178cm 성악 천재' 딸 향한 애정..감각적인 가족 사진",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-25/202610250100155880010184"
+        },
+        {
+          "title": "‘엄태웅♥’ 윤혜진, “비명에 오열”…딸 예고 합격 당시 회상→딸 지온도 울었다 [RE:뷰]",
+          "source": "TV리포트",
+          "url": "https://tvreport.co.kr/entertainment/article/1085829/"
         }
       ]
     },
@@ -31,9 +97,9 @@
       "published": "Tue, 27 Oct 2026 07:20:00 -0700",
       "news": [
         {
-          "title": "국방장관 ‘미군 믿을수 있냐’ 발언에…국방부 “신뢰강조 취지”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626706"
+          "title": "\"그런 미군 믿을 수 있느냐\" 강신철 발언에 국방부 \"전체 맥락 봐야\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6861010_36911.html"
         },
         {
           "title": "[사설]“美 믿을 수 있나” “전작권 독자 환수”… 동맹 관리부터 섬세하게",
@@ -41,9 +107,9 @@
           "url": "https://www.donga.com/news/Opinion/article/all/20261027/134920991/2"
         },
         {
-          "title": "강신철 \"김정은 방중 시점 예상하고 군사회담 제의\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202610262313401155"
+          "title": "한동훈·유승민 “국방장관, 대한민국 위험하게 만들어” 직격",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261027580124"
         }
       ]
     },
@@ -51,7 +117,18 @@
       "title": "3기신도시 남양주 왕숙지구",
       "approx_traffic": "200+",
       "published": "Tue, 27 Oct 2026 07:00:00 -0700",
-      "news": []
+      "news": [
+        {
+          "title": "강동하남남양주선 2·5공구 4차례 유찰…경기도·도의회, 지연 최소화 대책 논의",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335195"
+        },
+        {
+          "title": "왕숙3기신도시 ‘선교통, 후입주’ 실현…전철9호선 착공 속도낼까",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03444006645617184&mediaCodeNo=257"
+        }
+      ]
     },
     {
       "title": "우주발사체",
@@ -76,6 +153,28 @@
       ]
     },
     {
+      "title": "송가 인",
+      "approx_traffic": "10000+",
+      "published": "Tue, 27 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "“묶어불기 전에 가만히 있어”…송가인, 공연 방해 관객에 호통",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12186914"
+        },
+        {
+          "title": "취객난동 그 후..송가인, 다시 평온한 일상 찾았다 '먹방'까지 쏘쿨!",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/27/GI4WMZRWGFRDCOBWMI3TQYRSGQ/"
+        },
+        {
+          "title": "송가인, 공연 중 취객 난동에 \"아버님, 묶어불기 전에 가만히\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610278107H"
+        }
+      ]
+    },
+    {
       "title": "앤 트로픽",
       "approx_traffic": "1000+",
       "published": "Tue, 27 Oct 2026 06:40:00 -0700",
@@ -86,14 +185,14 @@
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861146_37004.html"
         },
         {
+          "title": "'2조 달러' 앤트로픽 상장...92쪽짜리 '경고장'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610280055219913"
+        },
+        {
           "title": "[유미's 픽] 'AI 재앙' 경고한 앤트로픽, 삼성·SK HBM 의존 안고 상장 도전",
           "source": "지디넷코리아",
           "url": "https://zdnet.co.kr/view/?no=20261027113417"
-        },
-        {
-          "title": "삼전닉스 5% 껑충, 코스피까지 끌어올린 '이 소식'은?",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3800_3_C1"
         }
       ]
     },
@@ -116,94 +215,6 @@
           "title": "잠실 올림픽공원 시위서 경찰에 침 뱉은 40대 여성 1심서 징역 10개월 선고",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/society/article/6861094_36918.html"
-        }
-      ]
-    },
-    {
-      "title": "나의 유죄인간",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 06:00:00 -0700",
-      "news": [
-        {
-          "title": "설인아 재벌 가족 모임…임시완 후계자 자리 위기 (나의 유죄인간)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261027/134916529/1"
-        },
-        {
-          "title": "'나의 유죄인간' 설인아, 액션 연기 진가 발휘",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189449"
-        },
-        {
-          "title": "임시완, 천년의 이상형 만났나? 각종 사고 막아낸 '백마 탄 여기사' 설인아 의심('유죄인간')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/27/GYZWIYJQGM4DMN3BMQZTIZTBGU/"
-        }
-      ]
-    },
-    {
-      "title": "관광",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 05:50:00 -0700",
-      "news": [
-        {
-          "title": "구례군, 2년 연속 대한민국 SNS대상 최우수상",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20261027005600353"
-        },
-        {
-          "title": "KTL, 대한민국 SNS대상 '최우수상'",
-          "source": "경남매일",
-          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=597431"
-        },
-        {
-          "title": "[패트롤]경상북도개발공사-남부지방산림청",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261027020541731"
-        }
-      ]
-    },
-    {
-      "title": "단발",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "[사진]장원영 '바비인형 캣워크'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/10/27/MFSTCZBYGIZWINLBMFRTEZLFHE/"
-        },
-        {
-          "title": "[포토]재민, 하트에 심쿵",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/photos/12187005"
-        },
-        {
-          "title": "[포토] 장원영 '빛나는 미모'",
-          "source": "세계일보",
-          "url": "https://m.segye.com/daumview/20261027508810"
-        }
-      ]
-    },
-    {
-      "title": "충주시장",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "“충북도청 충주로” 도보 행진까지…충북도·타 시군 ‘난색’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8696011"
-        },
-        {
-          "title": "1박2일 도보행진 마친 이동석 충주시장 \"도청 이전 설득나설 것\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027129700064"
-        },
-        {
-          "title": "충주시, 충북도청 충주 환원 도보 대장정 출정식 개최",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719709"
         }
       ]
     }
