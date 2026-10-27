@@ -1,8 +1,102 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T14:28:02+00:00",
+  "fetched_at": "2026-10-27T15:26:06+00:00",
   "items": [
+    {
+      "title": "승리",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 07:20:00 -0700",
+      "news": [
+        {
+          "title": "빅뱅 출신 승리, 아빠 된다...내년 1월 출산 후 결혼 예정 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/27/2026102722402430531"
+        },
+        {
+          "title": "“역시 승리답다” 승리, 특수폭행 피소 와중에 ‘혼전 임신·결혼’ 발표",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12187763"
+        },
+        {
+          "title": "\"빅뱅 출신 승리, 내년 1월 아빠 된다\"…20대 여친과 결혼 준비설",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6334023"
+        }
+      ]
+    },
+    {
+      "title": "전쟁",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 07:20:00 -0700",
+      "news": [
+        {
+          "title": "국방장관 ‘미군 믿을수 있냐’ 발언에…국방부 “신뢰강조 취지”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626706"
+        },
+        {
+          "title": "[사설]“美 믿을 수 있나” “전작권 독자 환수”… 동맹 관리부터 섬세하게",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261027/134920991/2"
+        },
+        {
+          "title": "강신철 \"김정은 방중 시점 예상하고 군사회담 제의\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610262313401155"
+        }
+      ]
+    },
+    {
+      "title": "3기신도시 남양주 왕숙지구",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 07:00:00 -0700",
+      "news": []
+    },
+    {
+      "title": "우주발사체",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 06:50:00 -0700",
+      "news": [
+        {
+          "title": "'고흥 우주발사체' 국가산업단지 조성…2032년 준공",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974355"
+        },
+        {
+          "title": "국토부, 고흥 우주발사체 국가산단 계획 심의…내년 보상 절차 착수",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373968"
+        },
+        {
+          "title": "고흥 우주발사체 국가산단 조성 본격화…발사체 생태계 구축",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20106641"
+        }
+      ]
+    },
+    {
+      "title": "앤 트로픽",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "'몸값 2조 달러' 앤트로픽‥시장에서 통할까",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861146_37004.html"
+        },
+        {
+          "title": "[유미's 픽] 'AI 재앙' 경고한 앤트로픽, 삼성·SK HBM 의존 안고 상장 도전",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261027113417"
+        },
+        {
+          "title": "삼전닉스 5% 껑충, 코스피까지 끌어올린 '이 소식'은?",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3800_3_C1"
+        }
+      ]
+    },
     {
       "title": "잠실",
       "approx_traffic": "200+",
@@ -19,15 +113,15 @@
           "url": "https://www.khan.co.kr/article/202610271507001"
         },
         {
-          "title": "[속보] 개표소 시위서 경찰에 침뱉은 40대 징역 10개월",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261027144331KxP"
+          "title": "잠실 올림픽공원 시위서 경찰에 침 뱉은 40대 여성 1심서 징역 10개월 선고",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861094_36918.html"
         }
       ]
     },
     {
       "title": "나의 유죄인간",
-      "approx_traffic": "200+",
+      "approx_traffic": "100+",
       "published": "Tue, 27 Oct 2026 06:00:00 -0700",
       "news": [
         {
@@ -36,20 +130,20 @@
           "url": "https://sports.donga.com/ent/article/all/20261027/134916529/1"
         },
         {
+          "title": "'나의 유죄인간' 설인아, 액션 연기 진가 발휘",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189449"
+        },
+        {
           "title": "임시완, 천년의 이상형 만났나? 각종 사고 막아낸 '백마 탄 여기사' 설인아 의심('유죄인간')",
           "source": "조선일보",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/10/27/GYZWIYJQGM4DMN3BMQZTIZTBGU/"
-        },
-        {
-          "title": "용의자가 납골당에?…‘나의 유죄인간’ 설인아, 임시완 예측불가 행보에 ‘혼란’",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261026500685"
         }
       ]
     },
     {
       "title": "관광",
-      "approx_traffic": "1000+",
+      "approx_traffic": "500+",
       "published": "Tue, 27 Oct 2026 05:50:00 -0700",
       "news": [
         {
@@ -71,7 +165,7 @@
     },
     {
       "title": "단발",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Tue, 27 Oct 2026 05:40:00 -0700",
       "news": [
         {
@@ -80,9 +174,14 @@
           "url": "https://www.chosun.com/entertainments/entertain_photo/2026/10/27/MFSTCZBYGIZWINLBMFRTEZLFHE/"
         },
         {
-          "title": "[포토]현재, 우월한 피지컬",
+          "title": "[포토]재민, 하트에 심쿵",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/photos/12186995"
+          "url": "https://www.mk.co.kr/news/photos/12187005"
+        },
+        {
+          "title": "[포토] 장원영 '빛나는 미모'",
+          "source": "세계일보",
+          "url": "https://m.segye.com/daumview/20261027508810"
         }
       ]
     },
@@ -105,100 +204,6 @@
           "title": "충주시, 충북도청 충주 환원 도보 대장정 출정식 개최",
           "source": "뉴스타운",
           "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719709"
-        }
-      ]
-    },
-    {
-      "title": "서울 지하철 7호선",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "지하철 7호선, 의정부·양주를 지나 포천까지! 도봉산-옥정 연장선",
-          "source": "서울특별시",
-          "url": "https://mediahub.seoul.go.kr/archives/2019857"
-        },
-        {
-          "title": "서울교통공사 거부에…7호선 연장 '도봉산옥정선' 민간 위탁 운영 가닥",
-          "source": "경인방송 뉴스",
-          "url": "https://news.ifm.kr/news/articleView.html?idxno=482335"
-        },
-        {
-          "title": "[서울시 팩트브리핑] 대폐차 대상 전동차 8대의 임대차 가능 여부 등 구체적인 내용은 실무협의 중으로 결정된 바 없습니다",
-          "source": "서울특별시",
-          "url": "https://mediahub.seoul.go.kr/archives/2019853"
-        }
-      ]
-    },
-    {
-      "title": "잇섭",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 04:50:00 -0700",
-      "news": [
-        {
-          "title": "강하게 구부리자 화면에 금이 쩍‥아이폰 '크랙게이트' 논란",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861150_37004.html"
-        },
-        {
-          "title": "“접었더니 화면 쩍” 아이폰 듀오 파손 확산에···‘결함’ 인정한 애플, 무상교체 밝혔지만 재고 부족",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610271351001"
-        },
-        {
-          "title": "화면 결함에 중국서 아이폰 듀오 재판매 시장 '웃돈' 급감",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027117000089"
-        }
-      ]
-    },
-    {
-      "title": "송가인",
-      "approx_traffic": "5000+",
-      "published": "Tue, 27 Oct 2026 04:30:00 -0700",
-      "news": [
-        {
-          "title": "송가인, 공연 중 취객 난동에 \"아버님, 묶어불기 전에 가만히\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610278107H"
-        },
-        {
-          "title": "“묶어불기 전에 가만히 있어”…송가인, 공연 방해 관객에 호통",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12186914"
-        },
-        {
-          "title": "송가인 \"철창에 묶어버리기 전에\" 관객에 일침, 무슨 일? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102718492060752"
-        }
-      ]
-    },
-    {
-      "title": "afc 챔스",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 04:30:00 -0700",
-      "news": []
-    },
-    {
-      "title": "이재명",
-      "approx_traffic": "10000+",
-      "published": "Tue, 27 Oct 2026 04:10:00 -0700",
-      "news": [
-        {
-          "title": "이 대통령 \"지속가능한 성장 중요…내수 활성화에 정부 역량 모아야\"",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974358"
-        },
-        {
-          "title": "李대통령 \"유럽 반면교사로, 지속성장 중요…주택착공 재정지원\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027068300001"
-        },
-        {
-          "title": "이재명 대통령 민생 회복 지시와 성장률 전망까지 이시각 주요뉴스",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441320"
         }
       ]
     }
