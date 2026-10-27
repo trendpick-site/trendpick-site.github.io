@@ -1,22 +1,132 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T01:47:37+00:00",
+  "fetched_at": "2026-10-27T02:37:25+00:00",
   "items": [
+    {
+      "title": "급여",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 18:00:00 -0700",
+      "news": [
+        {
+          "title": "강레오 셰프 “실업급여로 日 여행 온 청년들, 사진 거부”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/26/FEUDZE2YBZHDROT7KHED7DHWQU/"
+        },
+        {
+          "title": "강레오“실업급여로 日여행 청년들…사진 거절했다”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626132"
+        },
+        {
+          "title": "\"취직하면 사진 찍어줄게\" 실업급여로 日여행 간 청년에 강레오 '일침'",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102610514862720"
+        }
+      ]
+    },
+    {
+      "title": "정가은",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 18:00:00 -0700",
+      "news": [
+        {
+          "title": "정가은, 결혼반지 팔러 갔다가 충격…\"가품 확률 90%\" 허탈",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003842003"
+        },
+        {
+          "title": "'132억 사기 이혼' 정가은, 결혼반지 감정 맡겼는데..\"가품 확률 90%\"",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261026042410355"
+        },
+        {
+          "title": "“양육비도 못 받았는데”…정가은, 결혼반지 가품 가능성에 분노",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12186553"
+        }
+      ]
+    },
+    {
+      "title": "관광지",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 18:00:00 -0700",
+      "news": [
+        {
+          "title": "경북문화관광공사, 계절에 상관없이 즐기는 관광지 소개",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261027500216"
+        },
+        {
+          "title": "\"폭염·한파·비 와도 OK\"…경북문화관광公, 사계절 실내 관광지 선정",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3733482"
+        },
+        {
+          "title": "춥거나 비 와도 즐기는 경북 여행…실내·체험 관광지 4개 테마 제안",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03470246645617184&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "title": "충청타임즈",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 17:50:00 -0700",
+      "news": [
+        {
+          "title": "진천군청년센터, '나만의 이모티콘 만들기' 참여자 30일까지 모집",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3733497"
+        },
+        {
+          "title": "진천, ‘내가 만드는 나의 첫 이모티콘’",
+          "source": "K-Life TV",
+          "url": "https://www.k-lifetv.co.kr/news/articleView.html?idxno=39751"
+        },
+        {
+          "title": "진천군 청년센터, 맞춤형 지원으로 청년 취업 경쟁력 강화",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261020500091"
+        }
+      ]
+    },
+    {
+      "title": "로켓",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 17:50:00 -0700",
+      "news": [
+        {
+          "title": "전투기로 12시간 걸리는 거리… 미군, 우주 거쳐 1시간 ‘로켓 배송’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/10/27/CJCHLHF2FJADHF3DNEFNX6AK4U/"
+        },
+        {
+          "title": "우주 로켓 화물 조달 현실화…美 우주군, 스타폴에 실제 군 보급품 싣고 재진입 성공",
+          "source": "조달경제신문",
+          "url": "https://www.jodaleconomy.com/news/articleView.html?idxno=3467"
+        },
+        {
+          "title": "진짜 '로켓배송' 시대 올까…우주 통한 지구 배송 첫 검증",
+          "source": "DongA Science",
+          "url": "https://www.dongascience.com/ko/news/80552"
+        }
+      ]
+    },
     {
       "title": "node.js 취약점",
       "approx_traffic": "500+",
       "published": "Mon, 26 Oct 2026 17:40:00 -0700",
       "news": [
         {
-          "title": "[PHP 파장] “PHP2셸, 위험하다면 내 비트코인 훔쳐봐”... 19시간만에 진짜 털렸다",
-          "source": "보안뉴스",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146747"
-        },
-        {
           "title": "\"서버 생태계 전반 위협\"...PHP 이어 노드.js서도 보안 취약점 발견",
           "source": "지디넷코리아",
           "url": "https://zdnet.co.kr/view/?no=20261027060701"
+        },
+        {
+          "title": "브로틀리 보안 결함, Node.js 넘어 파이썬·닷넷 확산... 원격코드실행 위험",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146757"
         },
         {
           "title": "PHP 이어 Node.js도 보안 취약점…웹 서버 보안 비상",
@@ -71,9 +181,20 @@
     },
     {
       "title": "삼성역",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Mon, 26 Oct 2026 17:00:00 -0700",
-      "news": []
+      "news": [
+        {
+          "title": "GTX-A 운정중앙-서울, 평일 승객 6.4만명…예측 대비 128% [PICK]",
+          "source": "철도경제신문",
+          "url": "https://www.redaily.co.kr/news/articleView.html?idxno=17958"
+        },
+        {
+          "title": "“20분이면 될 걸 1시간 걸려”…GTX-A 삼성역 무정차, 언제쯤?",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261026130103719"
+        }
+      ]
     },
     {
       "title": "브루어스 대 레이스",
@@ -86,124 +207,14 @@
           "url": "https://www.segye.com/newsView/20261025509438"
         },
         {
-          "title": "‘파죽지세’ 밀워키, ‘창단 첫 월드시리즈 우승’ 3차전서 사실상 끝내나",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261027/134913940/1"
-        },
-        {
           "title": "월드시리즈 2패 몰린 레이스, 안방에서 30년 만의 역전극 노린다",
           "source": "데일리스포츠한국",
           "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434830"
-        }
-      ]
-    },
-    {
-      "title": "배드민턴",
-      "approx_traffic": "20000+",
-      "published": "Mon, 26 Oct 2026 16:20:00 -0700",
-      "news": [
-        {
-          "title": "배드민턴 세계 최강 안세영 50연승 대기록 시즌 10번째 우승",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694595"
         },
         {
-          "title": "올해 딱 한 번 지고 66번 이겼다",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261027.22014007386"
-        },
-        {
-          "title": "프랑스오픈 우승컵에 입 맞추는 안세영",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261026_0002273814"
-        }
-      ]
-    },
-    {
-      "title": "군의관",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 16:10:00 -0700",
-      "news": [
-        {
-          "title": "“36개월 군의관보단 18개월 현역병”…의대생 현역병 입영 4년새 13배로 증가",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105888"
-        },
-        {
-          "title": "강신철 \"국군의무사관학교 설립 필요…의료계 협의 조금씩 열려\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6331789"
-        },
-        {
-          "title": "해군 군의관 1년 새 43명 감소…군 의료인력 확보 비상",
-          "source": "경남도민일보",
-          "url": "https://www.idomin.com/news/articleView.html?idxno=2017730"
-        }
-      ]
-    },
-    {
-      "title": "이지훈",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 16:10:00 -0700",
-      "news": [
-        {
-          "title": "'이지훈♥' 아야네, 둘째 만삭 화보 공개…딸 루희까지 '비주얼가족'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/GZSDGMJVGBSDSNDEG4ZTSN3EHA/"
-        },
-        {
-          "title": "'이지훈♥' 아야네, 만삭에 낙상 사고…\"아이 지키려다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003842404"
-        },
-        {
-          "title": "'이지훈♥' 아야네, 만삭에 계단 '낙상사고' 어쩌나..\"무사해' 안도",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261026064216343"
-        }
-      ]
-    },
-    {
-      "title": "연비",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 16:10:00 -0700",
-      "news": [
-        {
-          "title": "年 연료비 60만원 이상 절감… KGM 뉴 토레스·액티언 HEV - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/car/2026/10/23/BZFXJTCUXJHIFNG7ZUWAZ2WQVM/"
-        },
-        {
-          "title": "\"편하게 달리면 30km/l\"... 평점 9.45점, 체감연비 만점 하이브리드 SUV",
-          "source": "오토트리뷴",
-          "url": "https://www.autotribune.co.kr/news/articleView.html?idxno=46897"
-        },
-        {
-          "title": "“시내서 21km/L”… 액티언 하이브리드 오너 평가 9.54점, 갈린 조건",
-          "source": "뉴스와",
-          "url": "https://www.news-wa.com/article/automobiles/new-car/2026/10/25/20261025500048"
-        }
-      ]
-    },
-    {
-      "title": "월즈 2026",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 16:10:00 -0700",
-      "news": [
-        {
-          "title": "게임·음악·굿즈…‘LoL 세상’ 열린다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610252053045"
-        },
-        {
-          "title": "[라이엇 스토어] Riot Games Music & Worlds 26 Popup Store에서 라이엇 스토어를 만나보세요!",
-          "source": "League of Legends",
-          "url": "https://www.leagueoflegends.com/ko-kr/news/merch/riot-games-music-worlds-2026-popup-store/"
-        },
-        {
-          "title": "롯데백화점, 롤 팝업스토어 연다…'페이커' 기념우표도 판매",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261025113104"
+          "title": "홈런 가뭄·도루 폭발…MLB 맞아? ‘스몰볼’의 빅매치, 월드시리즈가 달라졌다",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/sport/baseball/baseball-world/2026/10/26/20261026500316"
         }
       ]
     }
