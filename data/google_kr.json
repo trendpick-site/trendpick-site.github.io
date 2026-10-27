@@ -1,49 +1,198 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T06:57:33+00:00",
+  "fetched_at": "2026-10-27T07:50:47+00:00",
   "items": [
     {
-      "title": "안민석",
+      "title": "아리엘 후라도",
       "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 22:40:00 -0700",
+      "published": "Mon, 26 Oct 2026 23:40:00 -0700",
       "news": [
         {
-          "title": "안민석 경기도교육감, 평택·안성서 교육 현안 논의",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/national/2380960.htm"
+          "title": "'8실점 악몽' 지운 KIA 올러 \"버릇 읽혔던 탓…이번엔 다를 것\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027023300007"
         },
         {
-          "title": "안민석 경기교육감 \"체험학습 교사 부담 줄인다\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610266099h"
+          "title": "KIA 84%? 삼성 31%? 2차전에 운명이 걸렸다…후라도 믿는 삼성, 6연승 노리는 KIA [PO2]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/27/G42TAMDFHEYTAMZWGNRDKZJYGY/"
         },
         {
-          "title": "안민석 교육감, 평택·안성서 학부모 400여 명과 소통...체험학습 제도개선 추진",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20261026174701124"
+          "title": "PO 2차전 KBS 2TV 중계…KIA 올러 VS 삼성 후라도",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695810"
         }
       ]
     },
     {
-      "title": "정유경",
+      "title": "시어머니",
+      "approx_traffic": "2000+",
+      "published": "Mon, 26 Oct 2026 23:30:00 -0700",
+      "news": [
+        {
+          "title": "결혼 한달만에 식물인간 된 며느리…17년 돌본 시모, 기적을 만들다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261027/134916900/2"
+        },
+        {
+          "title": "결혼식 한달만 식물인간 된 며느리...병수발 17년만 시모에게 \"엄마\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/27/2026102709554679198"
+        },
+        {
+          "title": "\"내 자식과 마찬가지\"…식물인간 며느리 17년 간 돌본 中 시어머니 사연",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102708145013250"
+        }
+      ]
+    },
+    {
+      "title": "유해진",
       "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 23:30:00 -0700",
+      "news": [
+        {
+          "title": "김지원 SNS에 \"멸공\"…'암살자(들)' 이어 '닥터X' 도 넘은 비난",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6597549"
+        },
+        {
+          "title": "잘나갈수록 쏟아지는 ‘청원과 고발’…‘닥터X’도 못 피한 흥행의 반대급부",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261027/134914294/1"
+        },
+        {
+          "title": "시청률 고공행진 ’닥터X’…’5.18’ 논란",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261027052841iKP"
+        }
+      ]
+    },
+    {
+      "title": "netherlands vs oman",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 23:30:00 -0700",
+      "news": [
+        {
+          "title": "NED vs OMAN, 141st Match, ICC Cricket World Cup League Two 2023-27 - Commentary",
+          "source": "Cricbuzz",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/176342/ned-vs-oman-141st-match-icc-cricket-world-cup-league-two-2023-27"
+        },
+        {
+          "title": "Oman on the brink of ODI World Cup Qualifier berth",
+          "source": "Times of Oman",
+          "url": "https://timesofoman.com/article/178387-oman-on-the-brink-of-odi-world-cup-qualifier-berth"
+        },
+        {
+          "title": "Netherlands vs Oman: Live Streaming: When And Where To Watch ICC Cricket World Cup League 2 Match Live In India",
+          "source": "NDTV Profit",
+          "url": "https://www.ndtvprofit.com/sports/netherlands-vs-oman-live-streaming-when-and-where-to-watch-icc-cricket-world-cup-league-2-match-live-in-india-12239984"
+        }
+      ]
+    },
+    {
+      "title": "복권위원회",
+      "approx_traffic": "1000+",
+      "published": "Mon, 26 Oct 2026 23:20:00 -0700",
+      "news": [
+        {
+          "title": "대금 계좌이체 거부 반복하는 복권 판매점 계약 해지한다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027037400002"
+        },
+        {
+          "title": "로또판매점 우선계약 대상, 참전유공자 배우자 등 14만 명 확대",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8696092"
+        },
+        {
+          "title": "전자복권 당첨권 분산배치 은폐…위약벌 3000만원에 감사 청구도",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003842125"
+        }
+      ]
+    },
+    {
+      "title": "기후동행카드",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 23:20:00 -0700",
+      "news": [
+        {
+          "title": "\"매달 교통비 수만 원 절약\"… K-패스 vs 기후동행카드, 나에게 맞는 카드는?",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3733956"
+        },
+        {
+          "title": "서울 교통비, K-패스와 기후동행패스 비교 달라졌다",
+          "source": "비건뉴스",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=397516"
+        }
+      ]
+    },
+    {
+      "title": "울릉도",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 23:20:00 -0700",
+      "news": [
+        {
+          "title": "유튜버의 사냥감이 된 울릉도",
+          "source": "영남일보",
+          "url": "https://www.yeongnam.com/web/view.php?key=20261026024006945"
+        },
+        {
+          "title": "“30만원어치 안 사면 울릉도에서 못 나가” 수상한 유튜브 영상, 반박 나왔다",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/2026/10/27/20261027500229"
+        },
+        {
+          "title": "울릉도를 ‘감금의 섬’으로 만든 한 유트브의 영상은 ‘자작극’이었다…엄벌해야",
+          "source": "경북매일",
+          "url": "https://www.kbmaeil.com/article/20261026500120"
+        }
+      ]
+    },
+    {
+      "title": "구조조정",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 23:00:00 -0700",
+      "news": [
+        {
+          "title": "MS조차 AI發 구조조정... 6만명에 희망퇴직 실시",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/27/DIPVDFTWQNE6TCQ4N3OZTGKEU4/"
+        },
+        {
+          "title": "Microsoft, 전체 직원 약 4분의 1인 6만 명에게 희망퇴직 제안",
+          "source": "GeekNews",
+          "url": "https://news.hada.io/topic?id=36051"
+        },
+        {
+          "title": "“퇴직금 챙겨줄 때 나가실 분?”…직원 무려 6만명에 ‘희망퇴직’ 권한 MS",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12186959"
+        }
+      ]
+    },
+    {
+      "title": "안민석",
+      "approx_traffic": "500+",
       "published": "Mon, 26 Oct 2026 22:40:00 -0700",
       "news": [
         {
-          "title": "[현장에서] '애니 엄마' 정유경 회장에게 지난 한 주간 벌어진 일",
-          "source": "뉴스타파",
-          "url": "https://newstapa.org/article/eiU83"
+          "title": "경기 교사 10명 중 7명 “역사 수업 어려워”…왜곡 콘텐츠·문해력 부족 호소",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335105"
         },
         {
-          "title": "올데이프로젝트 애니, 연습실 셀카로 전한 차분 근황",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16259327"
+          "title": "황현필 강연 논란에 역사 교사들 \"정치 개입 자제해야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026151400061"
         },
         {
-          "title": "'신세계 장녀' 애니, 母 백화점 전광판에 떴다…팔짱 끼고 인증",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003835919"
+          "title": "[단독]\"6·25전쟁, 미국이 일으킨 전쟁\" 역사왜곡 논란 유튜버 초청한 경기교육청",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/education/2026/10/21/SIPHS3VXSVDURL6SRADVWXSSHU/"
         }
       ]
     },
@@ -66,144 +215,6 @@
           "title": "팬들의 '최강한화' 떳떳하게 듣고 싶었다…한화 떠나는 손혁 단장 \"앞으로 더 강한 팀 될 거라 믿는다\" - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/10/27/202610271258778772O"
-        }
-      ]
-    },
-    {
-      "title": "우천취소",
-      "approx_traffic": "5000+",
-      "published": "Mon, 26 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "박진만 삼성 감독 \"페덱이 KIA 중심타선 못 잡은 게 아쉽다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026172600007"
-        },
-        {
-          "title": "'구자욱-최형우 공존 불가'→결과는 2안타 완패, \"타선 변화주겠다\" 박진만 감독 '외야수 최형우' 라인업에 올릴까 [PO2] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/27/2026102713491133632"
-        },
-        {
-          "title": "'달빛시리즈' 시작...'PO 1차전을 잡아라'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610261705060392"
-        }
-      ]
-    },
-    {
-      "title": "김새론",
-      "approx_traffic": "2000+",
-      "published": "Mon, 26 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "김수현 측 \"故김새론 모친 등 범죄 혐의 인정…검찰 송치\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6597037"
-        },
-        {
-          "title": "배우 김수현, 복귀 탄력 받나…“故김새론 모친·유족 측 변호사 등 검찰 송치” [공식입장]",
-          "source": "TWIG",
-          "url": "https://www.twig24.com/news/world/2026/10/26/20261026500150"
-        },
-        {
-          "title": "경찰, 故 김새론 모친·변호인 등 공소청 송치…\"김수현 관련 허위사실 유포\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/10/26/EWC5IU5U65BHRHNHEFADBUKNWI/"
-        }
-      ]
-    },
-    {
-      "title": "야마모토 요시노부",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 22:30:00 -0700",
-      "news": [
-        {
-          "title": "\"야마모토 몸값 8500억까지 치솟는다\" 다저스 초비상, 12년 계약했는데 결별 걱정…샐러리캡 도입 최대 변수",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015595"
-        },
-        {
-          "title": "MLB 샐러리 캡 도입 논리 깨지나? 4대 프로스포츠 우승팀 숫자 들여다 보니",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-10-27/202610270100168800011032"
-        },
-        {
-          "title": "ML 직장폐쇄 영향이 KBO리그에도?→‘대박 외국인 선수’ 쏟아질까",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261021/134880661/1"
-        }
-      ]
-    },
-    {
-      "title": "nh농협은행",
-      "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 22:20:00 -0700",
-      "news": [
-        {
-          "title": "광주은행, 곡성·구례·진도지점 개설 올해 사실상 무산",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027047800054"
-        },
-        {
-          "title": "'연간 2조3천억 관리' 세종시 1금고 하나·2금고 농협은행 선정",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1181930"
-        },
-        {
-          "title": "농협銀, 전남광주 '25조 곳간' 열쇠 지켰다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/10/27/2026102619594944387"
-        }
-      ]
-    },
-    {
-      "title": "부산광역시",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 22:20:00 -0700",
-      "news": []
-    },
-    {
-      "title": "강진군",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 22:20:00 -0700",
-      "news": [
-        {
-          "title": "AI로 농·축산·관광 바꾼다…강진군, 4차산업혁명 전략위 '재부팅'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003842587"
-        },
-        {
-          "title": "추미애, “인공지능(AI)시대 행정혁신분야 무궁무진. 경기도가 선도하자”",
-          "source": "경기도뉴스포털",
-          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71817"
-        },
-        {
-          "title": "강진군, '제4차산업혁명 전략수립위원회' 정기회의 개최 - 보도자료 | 기사",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/releasecopy/2381061.htm"
-        }
-      ]
-    },
-    {
-      "title": "일교차",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 22:20:00 -0700",
-      "news": [
-        {
-          "title": "일교차 15도, 출근길 아우터 대체 뭐 입냐면요",
-          "source": "엘르 코리아 │ ELLE KOREA",
-          "url": "https://www.elle.co.kr/article/1911965"
-        },
-        {
-          "title": "\"아저씨 등산복인 줄 알았는데\"…돌변한 2030, '이 패딩'에 지갑 연다",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102610440044080"
-        },
-        {
-          "title": "“더 추워지기 전에 사자”···가을 건너뛰고 겨울 옷으로, 큰 일교차에 패딩 매출 5배 ‘껑충’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610270600051"
         }
       ]
     }
