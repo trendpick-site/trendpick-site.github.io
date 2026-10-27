@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T17:25:06+00:00",
+  "fetched_at": "2026-10-27T18:18:43+00:00",
   "items": [
+    {
+      "title": "홈런",
+      "approx_traffic": "2000+",
+      "published": "Tue, 27 Oct 2026 09:40:00 -0700",
+      "news": [
+        {
+          "title": "최형우 가을야구 최고령 홈런... 삼성, 플레이오프 2차전서 웃었다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/27/XOYWIEZGCFAP3AXGMS6BTZKBWM/"
+        },
+        {
+          "title": "'후라도 6.2이닝 2실점 호투' 삼성, KIA 꺾고 플레이오프 2차전 승리",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6861177_36946.html"
+        },
+        {
+          "title": "[포토] 달빛시리즈, 승부는 원점 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/27/2026102722013610139"
+        }
+      ]
+    },
     {
       "title": "크랙",
       "approx_traffic": "500+",
@@ -14,14 +36,14 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8695320"
         },
         {
-          "title": "\"금 간 아이폰 듀오 무상 교체\"…애플, 이례적 결함 인정",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817875"
-        },
-        {
           "title": "“접었더니 화면 쩍” 아이폰 듀오 파손 확산에···‘결함’ 인정한 애플, 무상교체 밝혔지만 재고 부족",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202610271351001"
+        },
+        {
+          "title": "강하게 구부리자 화면에 금이 쩍‥아이폰 '크랙게이트' 논란",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861150_37004.html"
         }
       ]
     },
@@ -63,9 +85,9 @@
           "url": "https://www.starnewskorea.com/star/2026/10/27/2026102723053592129"
         },
         {
-          "title": "승리, 내년 1월 아빠되나? 20대 여친과 결혼 준비설",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12187746"
+          "title": "\"빅뱅 출신 승리, 내년 1월 아빠 된다\"…20대 여친과 결혼 준비설",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6334023"
         }
       ]
     },
@@ -107,9 +129,9 @@
           "url": "https://www.etoday.co.kr/news/view/2640421"
         },
         {
-          "title": "알카라스, 선봉!…스페인, 데이비스컵 7년 만의 정상 탈환 노린다",
+          "title": "[김종석의 그라운드] 시너는 사우디로, 한국은 볼로냐로…데이비스컵 8강 상대 이탈리아 명단 발표",
           "source": "테니스코리아",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54123"
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54134"
         }
       ]
     },
@@ -117,7 +139,23 @@
       "title": "엄태웅",
       "approx_traffic": "200+",
       "published": "Tue, 27 Oct 2026 07:30:00 -0700",
-      "news": []
+      "news": [
+        {
+          "title": "양홍원 불륜 폭로자 \"정신과 약 때문\" 돌연 사과…악플러엔 경고 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/26/2026102616175270937"
+        },
+        {
+          "title": "'결혼 5일 만에 불륜설' 양홍원, 또 다른 주장 나왔다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003840451"
+        },
+        {
+          "title": "‘양홍원 불륜 의혹’ 제기자, 고소 카드 나오자 돌연 ‘사과’…“진심으로 미안해”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20106428"
+        }
+      ]
     },
     {
       "title": "전쟁",
@@ -130,14 +168,14 @@
           "url": "https://www.munhwa.com/article/11626706"
         },
         {
-          "title": "국방부 일일 정례 브리핑",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156786626"
-        },
-        {
           "title": "[사설]“美 믿을 수 있나” “전작권 독자 환수”… 동맹 관리부터 섬세하게",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Opinion/article/all/20261027/134920991/2"
+        },
+        {
+          "title": "강신철 \"김정은 방중 시점 예상하고 군사회담 제의\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610262313401155"
         }
       ]
     },
@@ -177,28 +215,6 @@
           "title": "고흥 우주발사체 국가산단 조성 본격화…발사체 생태계 구축",
           "source": "서울경제",
           "url": "https://www.sedaily.com/article/20106641"
-        }
-      ]
-    },
-    {
-      "title": "송가 인",
-      "approx_traffic": "10000+",
-      "published": "Tue, 27 Oct 2026 06:40:00 -0700",
-      "news": [
-        {
-          "title": "“묶어불기 전에 가만히 있어”…송가인, 공연 방해 관객에 호통",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12186914"
-        },
-        {
-          "title": "송가인, 공연 중 취객 난동에 \"아버님, 묶어불기 전에 가만히\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610278107H"
-        },
-        {
-          "title": "송가인, 축제무대 중 취객 난동에 경고 “가만히 있어!”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610271413003"
         }
       ]
     }
