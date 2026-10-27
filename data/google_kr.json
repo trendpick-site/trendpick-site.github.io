@@ -1,209 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T22:14:04+00:00",
+  "fetched_at": "2026-10-27T23:10:53+00:00",
   "items": [
     {
-      "title": "쾰른 대 우니온 베를린",
+      "title": "묀헨글라트바흐 대 카를스루에",
       "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 14:10:00 -0700",
+      "published": "Tue, 27 Oct 2026 15:00:00 -0700",
       "news": [
         {
-          "title": "Confirmed DFB-Pokal Lineups: 1. FC Köln vs. 1. FC Union Berlin",
+          "title": "DFB-Pokal: Ten-man Gladbach advance after efficient performance against Karlsruhe",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/confirmed-dfb-pokal-lineups-1-184800822.html"
+          "url": "https://sports.yahoo.com/articles/dfb-pokal-ten-man-gladbach-214100742.html"
         },
         {
-          "title": "Preview: FC Koln vs Union Berlin - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/fc-koln/dfb-pokal/preview/fc-koln-vs-union-berlin-prediction-team-news-lineups_607694.html"
+          "title": "Borussia M'gladbach vs Karlsruher SC: German DFB Pokal stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cjqlnk3e6gp5t"
         },
         {
-          "title": "🔥 El Mala rocks Cologne: FC Köln tear Union to pieces",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/el-mala-rocks-cologne-fc-koeln-tear-union-to-pieces-43683028"
+          "title": "Licensable picture: DFB-Pokal, 2. Runde, Borussia Mönchengladbach - Karlsruher SC",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/dfb-pokal-2-runde-borussia-monchengladbach-karlsruher-sc/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBMWkNYS04"
         }
       ]
     },
     {
-      "title": "대한민국 국세청",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 14:10:00 -0700",
-      "news": []
-    },
-    {
-      "title": "나스닥 100",
+      "title": "창신메모리테크놀로지",
       "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 14:10:00 -0700",
+      "published": "Tue, 27 Oct 2026 15:00:00 -0700",
       "news": [
         {
-          "title": "야누스 헨더슨, 나스닥 라이선스 토큰화 펀드 최초 출시",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/ko/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund"
-        },
-        {
-          "title": "야누스 헨더슨, 나스닥100 토큰화 펀드 JQQQ 출시 보도",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/breaking/428052"
-        },
-        {
-          "title": "나스닥-100, 제이너스 헨더슨 JQQQ로 토큰화 펀드 시대 개막",
-          "source": "Bitcoin News",
-          "url": "https://news.bitcoin.com/ko/finance/nasdak-100-jeineoseu-hendeoseun-jqqq-ro-tokeunhwa-peondeu-sidae-gaemak/"
-        }
-      ]
-    },
-    {
-      "title": "박수홍",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "'비행기 민폐 논란' 박수홍, 이번엔 둘만...\"육아 탈출\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102709221290895"
-        },
-        {
-          "title": "박수홍, 다홍이와 함께 근황 전했다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003841918"
-        },
-        {
-          "title": "박수홍♥김다예, 이번엔 딸 두고 비행기 탑승..뉴질랜드서 둘만의 여행 “육아 탈출”(행복해다홍)",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/26/MQ4GINRVGBRDCZBUMVSWKOBUGQ/"
-        }
-      ]
-    },
-    {
-      "title": "뇌",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "파킨슨병 뇌파 변화 ‘순간포착’ 인공지능 분석 기술 개발···치료 정확도↑ 기대",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610271506011"
-        },
-        {
-          "title": "뇌 신호 속 ‘배경’은 걷어내고, ‘리듬’만 정확하게... 파킨슨병 뇌파 변화 순간 포착하는 AI 분석 기술 개발",
-          "source": "BRIC",
-          "url": "https://www.ibric.org/bric/trend/results-of-research.do?mode=view&articleNo=10061661&article.offset=0&articleLimit=15"
-        },
-        {
-          "title": "\"어느 발 먼저 내디딜까?\"…파킨슨병 환자 뇌 읽는 AI 나왔다 [헬스LAB]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610271530037056"
-        }
-      ]
-    },
-    {
-      "title": "농협은행",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "전남광주시 일반회계금고 NH농협은행 선정",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695673"
-        },
-        {
-          "title": "광주은행, 곡성·구례·진도지점 개설 올해 사실상 무산",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027047800054"
-        },
-        {
-          "title": "세종시, 하나은행·농협은행과 시금고 파트너십 체결",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261027500730"
-        }
-      ]
-    },
-    {
-      "title": "sk하이닉스",
-      "approx_traffic": "2000+",
-      "published": "Tue, 27 Oct 2026 13:50:00 -0700",
-      "news": [
-        {
-          "title": "[단독] 삼전닉스, 역대급 주주환원…210조 이상 푼다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610278090i"
-        },
-        {
-          "title": "SK하닉 3분기에도 ’깜짝 실적’ 낼까…오늘 발표",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261028051106Cna"
-        },
-        {
-          "title": "SK하이닉스 내일 3분기 실적 발표...주주환원 관심",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610271104143578"
-        }
-      ]
-    },
-    {
-      "title": "오늘의 운세",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 13:50:00 -0700",
-      "news": [
-        {
-          "title": "[오늘의 운세/10월 28일]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261027/134920890/2"
-        },
-        {
-          "title": "[속보] 구로구 주택가 시신 유기혐의로 80대 남성 등 2명 긴급체포",
+          "title": "[단독] \"AI, 중국칩만으론 불안\"… 고성능 한국 D램 구하기 '혈안'",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12187439"
+          "url": "https://www.mk.co.kr/news/business/12187432"
         },
         {
-          "title": "[오늘의 운세] 10월 28일 수요일 (음력 9월 18일) 띠별 운세",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261026580262"
+          "title": "[뉴스 저격] \"中으로 몰리는 글로벌 자금… 로봇·전기차는 세계 최고, 반도체 자립도 빨라져\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/money/2026/10/28/SECPATNDQFAPPKO57HBTIIOBVY/"
+        },
+        {
+          "title": "“CXMT, 애플의 공급 제안 거절”…중국 “메모리 자급자족”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697026"
         }
       ]
     },
     {
-      "title": "fleetwood đấu với arsenal",
+      "title": "기온",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 15:00:00 -0700",
+      "news": [
+        {
+          "title": "내일 아침 출근길 곳곳 영하권‥올가을 들어 가장 춥다",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861152_37004.html"
+        },
+        {
+          "title": "[날씨] 서울 '체감 영하권' 추위...곳곳 올가을 최저 경신",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202610280653511256"
+        },
+        {
+          "title": "한파주의보 내려진 전북…낮 기온 10∼15도로 추워",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028009700055"
+        }
+      ]
+    },
+    {
+      "title": "수험",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 14:50:00 -0700",
+      "news": [
+        {
+          "title": "용인특례시, 수능 마친 수험생 위한 특별 프로그램 운영",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335097"
+        },
+        {
+          "title": "수능 끝나면 오세요…용인 포은아트홀서 ‘수험생 힐링 콘서트’",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626458"
+        },
+        {
+          "title": "용인시, 수능 마친 수험생에 쉼표…‘도서관서 재충전’ 프로그램",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102609100406789"
+        }
+      ]
+    },
+    {
+      "title": "정준하",
       "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 13:40:00 -0700",
+      "published": "Tue, 27 Oct 2026 14:50:00 -0700",
       "news": [
         {
-          "title": "Nhận định bóng đá Fleetwood vs Arsenal, 03h00 ngày 28/10: Sức đâu cản Pháo?",
-          "source": "Tạp chí Bóng đá",
-          "url": "https://bongdaplus.vn/cup-lien-doan-anh/nhan-dinh-bong-da-fleetwood-vs-arsenal-03h00-ngay-28-10-suc-dau-can-phao-5271702610.html"
+          "title": "정형돈, 돈가스집 '바지사장' 의심받자…\"지분 25%\" 해명 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102720555639903"
         },
         {
-          "title": "플리트우드 타운 대 아스널 ​​경기 생중계: 후반전 시작, 플리트우드 타운 1-0 리드",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-fleetwood-town-vs-arsenal-hiep-2-bat-dau-fleetwood-town-dan-1-0"
+          "title": "정준하, 月 4억 매출에도 만류했는데…정형돈 돈까스집 오픈",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102790547"
         },
         {
-          "title": "Lịch thi đấu bóng đá hôm nay 27/10: CAHN làm khách trước Shanghai Port",
-          "source": "Thể Thao 247",
-          "url": "https://thethao247.vn/63-lich-thi-dau-bong-da-hom-nay-27-10-cahn-lam-khach-truoc-shanghai-port-c2-d442400.html"
+          "title": "“등심 함량 표기 논란이었다니…”정형돈, 직접 밝힌 13년 전 돈가스 사건",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12187697"
         }
       ]
     },
     {
-      "title": "산삼",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 13:40:00 -0700",
+      "title": "압수수색",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 14:40:00 -0700",
       "news": [
         {
-          "title": "‘심 봤다!’ 감정가 2억7천만원…순천서 100년 천종산삼 18뿌리 발견",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261026580212"
+          "title": "압색 받은 소아응급 교수 7명 사직 의사…정은경 \"경찰과 협의\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027166051530"
         },
         {
-          "title": "“심봤다” 순천 모후산서 천종산삼 18뿌리…감정가 2억7000만원",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261026/134908034/2"
+          "title": "사과 안 하는 경찰 본 아주대 소아응급실 의사 7명 '사직' 결정",
+          "source": "의협신문",
+          "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=166981"
         },
         {
-          "title": "순천 모후산서 100년 이상 천종삼산 18뿌리 발견…감정가 2.7억",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/gwangju-jeonnam/6331967"
+          "title": "\"극심한 무력감·분노\"…경찰 '압수수색 사과 거부'에 아주대병원 소아응급센터 교수 7명 사직",
+          "source": "MEDI:GATE NEWS",
+          "url": "https://www.medigatenews.com/news/666187207"
+        }
+      ]
+    },
+    {
+      "title": "박성현",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 14:40:00 -0700",
+      "news": [
+        {
+          "title": "LPGA 7승 박성현, 11월 KLPGA 투어 시드전 예선 도전",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027170200007"
+        },
+        {
+          "title": "결단도 ‘남달라!’ 여자골프 최고스타 박성현 ‘KLPGA투어 컴백’ 도전! “잘하고 올게요”",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1644694"
+        },
+        {
+          "title": "박성현, 국내 유턴…KLPGA 투어 시드전 예선 신청",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102718534621796"
+        }
+      ]
+    },
+    {
+      "title": "토리노 대 코모",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "세리에 A 토리노 대 코모 경기 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-torino-vs-como-tai-serie-a-1790125.ldo"
+        },
+        {
+          "title": "사수올로 vs 라치오 예측: 선두 자리를 노릴 기회",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-sassuolo-vs-lazio-co-hoi-bam-duoi-ngoi-dau"
+        },
+        {
+          "title": "세리에 A: ‘원정 4연승’ 라치오, 사수올로 원정서 선두 수성 도전",
+          "source": "티스토리",
+          "url": "https://sbotopkr.tistory.com/2648"
+        }
+      ]
+    },
+    {
+      "title": "fm",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "S. Korea withdraws 8 diplomatic personnel from Ukraine: FM Cho",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20261027010000315"
+        },
+        {
+          "title": "[K-Women Talk] When a Leader's Anger Dominates Diplomacy",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/2026102008403205704"
+        },
+        {
+          "title": "South Korea has recalled its diplomats from Ukraine amid a dispute over prisoners of war from North Korea",
+          "source": "UA.NEWS",
+          "url": "https://ua.news/en/ukraine/pivdenna-koreia-vidklikala-z-ukrayini-diplomativ-cherez-superechku-shchodo-viiskovopolonenikh-iz-kndr"
+        }
+      ]
+    },
+    {
+      "title": "한화 이글스",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 14:20:00 -0700",
+      "news": [
+        {
+          "title": "'슈퍼스타 다 됐네' 왕옌청, 대만서 대규모 기자회견…그런데 또 눈물 펑펑 터뜨렸다, 무슨 사연이길래? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/28/202610271801771021O"
+        },
+        {
+          "title": "'깜짝 고백' 한화 다년 계약 거절한 이유 있었다 \"사실 내 꿈은 ML진출\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/28/MM3TCNJRMJSTEMRTHBSTMOJXGE/"
+        },
+        {
+          "title": "\"왕옌청, 확실히 다르더라\" 류지현 감독도 첫눈에 알아봤다…상대편에서 식구로, 11승 아시아쿼터 잔류에 '미소'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112898294"
         }
       ]
     }
