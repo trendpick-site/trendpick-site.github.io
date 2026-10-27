@@ -1,44 +1,149 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T13:31:10+00:00",
+  "fetched_at": "2026-10-27T14:28:02+00:00",
   "items": [
     {
-      "title": "대전 하나 시티즌 대 비셀 고베 순위",
-      "approx_traffic": "5000+",
-      "published": "Tue, 27 Oct 2026 05:00:00 -0700",
+      "title": "잠실",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 06:10:00 -0700",
       "news": [
         {
-          "title": "[AFC축구 전적] 고베 1-0 대전",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027184200007"
+          "title": "경찰에 침 뱉은 ‘잠실 개표소’ 여성 징역 10개월…\"공권력 무시\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325032"
         },
         {
-          "title": "K리그1 대전, ACLE서 일본 고베에 0-1 덜미…3경기 만에 첫 패",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003843594"
+          "title": "경찰관에 침 뱉은 ‘올공 시위’ 여성에 징역 10개월 선고···“준법 의식 미약, 재범 우려”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610271507001"
         },
         {
-          "title": "'일본 킬러' 황선홍 감독, 'K리그 킬러' 고베까지 잡을 수 있을까",
+          "title": "[속보] 개표소 시위서 경찰에 침뱉은 40대 징역 10개월",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261027144331KxP"
+        }
+      ]
+    },
+    {
+      "title": "나의 유죄인간",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 06:00:00 -0700",
+      "news": [
+        {
+          "title": "설인아 재벌 가족 모임…임시완 후계자 자리 위기 (나의 유죄인간)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261027/134916529/1"
+        },
+        {
+          "title": "임시완, 천년의 이상형 만났나? 각종 사고 막아낸 '백마 탄 여기사' 설인아 의심('유죄인간')",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/26/G5RGINTDGBQWGZRSGU4GEMBRGQ/"
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/27/GYZWIYJQGM4DMN3BMQZTIZTBGU/"
+        },
+        {
+          "title": "용의자가 납골당에?…‘나의 유죄인간’ 설인아, 임시완 예측불가 행보에 ‘혼란’",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261026500685"
+        }
+      ]
+    },
+    {
+      "title": "관광",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 05:50:00 -0700",
+      "news": [
+        {
+          "title": "구례군, 2년 연속 대한민국 SNS대상 최우수상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20261027005600353"
+        },
+        {
+          "title": "KTL, 대한민국 SNS대상 '최우수상'",
+          "source": "경남매일",
+          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=597431"
+        },
+        {
+          "title": "[패트롤]경상북도개발공사-남부지방산림청",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261027020541731"
+        }
+      ]
+    },
+    {
+      "title": "단발",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 05:40:00 -0700",
+      "news": [
+        {
+          "title": "[사진]장원영 '바비인형 캣워크'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/10/27/MFSTCZBYGIZWINLBMFRTEZLFHE/"
+        },
+        {
+          "title": "[포토]현재, 우월한 피지컬",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/photos/12186995"
+        }
+      ]
+    },
+    {
+      "title": "충주시장",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 05:40:00 -0700",
+      "news": [
+        {
+          "title": "“충북도청 충주로” 도보 행진까지…충북도·타 시군 ‘난색’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8696011"
+        },
+        {
+          "title": "1박2일 도보행진 마친 이동석 충주시장 \"도청 이전 설득나설 것\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027129700064"
+        },
+        {
+          "title": "충주시, 충북도청 충주 환원 도보 대장정 출정식 개최",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719709"
+        }
+      ]
+    },
+    {
+      "title": "서울 지하철 7호선",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 05:30:00 -0700",
+      "news": [
+        {
+          "title": "지하철 7호선, 의정부·양주를 지나 포천까지! 도봉산-옥정 연장선",
+          "source": "서울특별시",
+          "url": "https://mediahub.seoul.go.kr/archives/2019857"
+        },
+        {
+          "title": "서울교통공사 거부에…7호선 연장 '도봉산옥정선' 민간 위탁 운영 가닥",
+          "source": "경인방송 뉴스",
+          "url": "https://news.ifm.kr/news/articleView.html?idxno=482335"
+        },
+        {
+          "title": "[서울시 팩트브리핑] 대폐차 대상 전동차 8대의 임대차 가능 여부 등 구체적인 내용은 실무협의 중으로 결정된 바 없습니다",
+          "source": "서울특별시",
+          "url": "https://mediahub.seoul.go.kr/archives/2019853"
         }
       ]
     },
     {
       "title": "잇섭",
-      "approx_traffic": "1000+",
+      "approx_traffic": "100+",
       "published": "Tue, 27 Oct 2026 04:50:00 -0700",
       "news": [
-        {
-          "title": "“접었더니 화면 쩍” 아이폰 듀오 파손 확산에···‘결함’ 인정한 애플, 무상교체 밝혔지만 재고 부족",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610271351001"
-        },
         {
           "title": "강하게 구부리자 화면에 금이 쩍‥아이폰 '크랙게이트' 논란",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861150_37004.html"
+        },
+        {
+          "title": "“접었더니 화면 쩍” 아이폰 듀오 파손 확산에···‘결함’ 인정한 애플, 무상교체 밝혔지만 재고 부족",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610271351001"
         },
         {
           "title": "화면 결함에 중국서 아이폰 듀오 재판매 시장 '웃돈' 급감",
@@ -53,14 +158,14 @@
       "published": "Tue, 27 Oct 2026 04:30:00 -0700",
       "news": [
         {
+          "title": "송가인, 공연 중 취객 난동에 \"아버님, 묶어불기 전에 가만히\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610278107H"
+        },
+        {
           "title": "“묶어불기 전에 가만히 있어”…송가인, 공연 방해 관객에 호통",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/news/hot-issues/12186914"
-        },
-        {
-          "title": "송가인, 취객 난동에 사이다 대처…\"묶어버리기 전에 가만히 있어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003843101"
         },
         {
           "title": "송가인 \"철창에 묶어버리기 전에\" 관객에 일침, 무슨 일? - 머니투데이",
@@ -77,7 +182,7 @@
     },
     {
       "title": "이재명",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Tue, 27 Oct 2026 04:10:00 -0700",
       "news": [
         {
@@ -94,116 +199,6 @@
           "title": "이재명 대통령 민생 회복 지시와 성장률 전망까지 이시각 주요뉴스",
           "source": "연합인포맥스",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441320"
-        }
-      ]
-    },
-    {
-      "title": "파주시",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 04:10:00 -0700",
-      "news": [
-        {
-          "title": "[패트롤]경상북도개발공사-남부지방산림청",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261027020541731"
-        },
-        {
-          "title": "[구례소식] 구례군, 2년 연속 SNS 대상 '최우수상'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027172300054"
-        },
-        {
-          "title": "[경북소식]도 SNS대상 4년 연속 수상 등",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003843113"
-        }
-      ]
-    },
-    {
-      "title": "강지영",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 04:00:00 -0700",
-      "news": [
-        {
-          "title": "강지영, 파격 등 노출에 볼륨감까지…팬심 설레게 하는 섹시 미모",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261027/134914114/1"
-        },
-        {
-          "title": "강지영, 일본 휘어잡은 비주얼",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026102712203819343"
-        },
-        {
-          "title": "강지영, 가슴·등 라인 드러낸 블랙 홀터넥…도쿄국제영화제 레드카펫 압도한 드레스 자태",
-          "source": "스타패션",
-          "url": "https://www.kstarfashion.com/ko-kr/articles/256310"
-        }
-      ]
-    },
-    {
-      "title": "파워리프팅",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 03:50:00 -0700",
-      "news": [
-        {
-          "title": "63-year-old Sask. powerlifter achieves world championship gold in Poland",
-          "source": "CBC",
-          "url": "https://www.cbc.ca/news/canada/saskatchewan/cormier-powerlifting-world-championship-9.7396964"
-        },
-        {
-          "title": "Cormier takes international gold in World Powerlifting and Bench Press Championships",
-          "source": "SwiftCurrentOnline",
-          "url": "https://www.swiftcurrentonline.com/articles/cormier-takes-international-gold-in-world-powerlifting-and-bench-press-championships"
-        },
-        {
-          "title": "Beyond the viral 140kg lift, Keyaa Banerji has bigger goals in powerlifting",
-          "source": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/beyond-the-viral-140kg-lift-keyaa-banerji-has-bigger-goals-in-powerlifting/articleshow/135226856.cms"
-        }
-      ]
-    },
-    {
-      "title": "플레이오프",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 03:50:00 -0700",
-      "news": [
-        {
-          "title": "[엠빅뉴스] [PO1차전] 사소한 차이가 결과를 만든다! 카스트로와 디아즈",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/original/mbig/6861023_29041.html"
-        },
-        {
-          "title": "[포토] 이의리 '직구로 승부' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/27/2026102720212545477"
-        },
-        {
-          "title": "'퇴장 변수' 지운 이범호·'원태인 불펜' 박진만…PS 지략 전쟁",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027062700007"
-        }
-      ]
-    },
-    {
-      "title": "윤택",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 03:40:00 -0700",
-      "news": [
-        {
-          "title": "윤택 재방 출연료 억소리 나겠네 “‘자연인’ 하루 80회 재방” (라스)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261027/134917998/1"
-        },
-        {
-          "title": "윤택, 꼽등이·개구리알·말벌 애벌레까지 먹었다…상상초월 자연인 체험담",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6333281"
-        },
-        {
-          "title": "'나는 자연인' 재방료 얼마길래 부동산 샀다..윤택 \"하루 80회 재방송\"(라스)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/27/GNRWGNJXMY3DINRXGVTDGNTFMQ/"
         }
       ]
     }
