@@ -1,11 +1,199 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T08:47:22+00:00",
+  "fetched_at": "2026-10-27T09:45:00+00:00",
   "items": [
     {
-      "title": "정종철",
+      "title": "한국경제",
       "approx_traffic": "2000+",
+      "published": "Tue, 27 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "박현주 \"삼전닉스 없으면 엔비디아도 스톱\"…'반도체 고점론' 직격",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610278372i"
+        },
+        {
+          "title": "미래에셋, 이번주 日증권사 인수 발표",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1182205"
+        },
+        {
+          "title": "박현주 미래에셋회장, 일본 증권회사 M&A 예고…29일 발표(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027154951008?section=economy/finance"
+        }
+      ]
+    },
+    {
+      "title": "중위소득",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "경실련 \"불투명한 중위소득 산정에 복지 사각…현실 반영해야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027124000004"
+        },
+        {
+          "title": "[2026 국감] 정은경 복지부 장관 \"기준 중위소득 산정 개선방안 검토\"",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102715001579865"
+        },
+        {
+          "title": "“기준 중위소득 낮춰 3.8만가구 생계급여 탈락”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626597"
+        }
+      ]
+    },
+    {
+      "title": "원태인",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "삼성 임시 마무리 원태인 \"오승환 선배께 조언 구하려 했다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027156500007"
+        },
+        {
+          "title": "‘PS 앞두고 부상이라니’ 228세이브 베테랑도 낙심한 충격 부상 “야구 인생 이런 적은 처음, KS 등판은…”",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112898359"
+        },
+        {
+          "title": "삼성 배수진 원태인 마무리 기용, 전날 예상한 이범호 감독 \"올라오는 일 없어야 한다\" [PO2] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/27/202610271710770587O"
+        }
+      ]
+    },
+    {
+      "title": "암",
+      "approx_traffic": "5000+",
+      "published": "Tue, 27 Oct 2026 01:30:00 -0700",
+      "news": [
+        {
+          "title": "세종시장, 국회 찾아 양성자 암치료센터 등 국비 지원 요청",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027056100063"
+        },
+        {
+          "title": "양성자 암치료센터·AI정부… 조상호 국회 찾아 예산 확보전",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003843080"
+        },
+        {
+          "title": "세종시, 지자체 디지털 수준진단 전국 광역시 상위 3위권",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261026000087"
+        }
+      ]
+    },
+    {
+      "title": "응급실",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 01:20:00 -0700",
+      "news": [
+        {
+          "title": "영천시의회, 임시회 폐회…조례안 등 20건 의결",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003841504"
+        },
+        {
+          "title": "영천시의회 윤영한 의원, 드론 통합관제·농업용 드론 임대 촉구",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3732791"
+        },
+        {
+          "title": "영천시의회 제255회 임시회 폐회… 행정사무감사 계획서 채택",
+          "source": "중도일보",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261026010007495"
+        }
+      ]
+    },
+    {
+      "title": "정년",
+      "approx_traffic": "2000+",
+      "published": "Tue, 27 Oct 2026 01:10:00 -0700",
+      "news": [
+        {
+          "title": "공무원연금 수령 시기 60세→65세 상향…헌재, 4대4로 ‘합헌’ 결정",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610271508021"
+        },
+        {
+          "title": "[결정] 공무원 60세 정년퇴직해도 연금은 62~65세부터… 헌재 “합헌”",
+          "source": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228307"
+        },
+        {
+          "title": "헌재 \"공무원 퇴직연금 수령 나이 65세 상향은 합헌\"‥4대 4 의견 갈려",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6860987_36918.html"
+        }
+      ]
+    },
+    {
+      "title": "pakistan vs sri lanka",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 01:00:00 -0700",
+      "news": [
+        {
+          "title": "Win-from-anywhere Pakistan face 430-conquerors Sri Lanka at high-scoring Lahore",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-sri-lanka-5th-match-1550717/match-preview"
+        },
+        {
+          "title": "Pakistan vs. Sri Lanka free live stream: How to watch Pakistan ODI tri-series clash in India",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/pakistan-vs-sri-lanka-free-200001789.html"
+        },
+        {
+          "title": "Sri Lanka wins toss, elects to field in cricket tri-series ODI against Pakistan",
+          "source": "KVUE",
+          "url": "https://www.kvue.com/article/syndication/associatedpress/sri-lanka-wins-toss-elects-to-field-in-cricket-tri-series-odi-against-pakistan/616-5e645ec3-391b-4af7-b44c-d9a065559c49"
+        }
+      ]
+    },
+    {
+      "title": "고려대",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 00:50:00 -0700",
+      "news": [
+        {
+          "title": "Korea University President Resigns to Run for President",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/national-en/2026/10/27/TIQWKDJPL5AWRKOOGP4BGDRYPM/"
+        }
+      ]
+    },
+    {
+      "title": "전주사랑상품권",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 00:50:00 -0700",
+      "news": [
+        {
+          "title": "전주사랑상품권 충전, 내달부터 새벽→오후 3시로 변경",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027047600055"
+        },
+        {
+          "title": "전주돼지카드 11월부터 충전시간 0시15분→오후 3시 변경",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003842579"
+        },
+        {
+          "title": "전주사랑상품권 온라인 충전 오후 3시로 변경…시민 불편 해소",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734376"
+        }
+      ]
+    },
+    {
+      "title": "정종철",
+      "approx_traffic": "5000+",
       "published": "Tue, 27 Oct 2026 00:40:00 -0700",
       "news": [
         {
@@ -14,207 +202,14 @@
           "url": "https://www.hankyung.com/article/202610277941H"
         },
         {
-          "title": "정종철, 일산 아파트 팔고 강남行…“아내가 안가면 이혼한다고”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261027/134917354/1"
-        },
-        {
           "title": "'45억 건물주' 정종철, 일산 아파트 판 사연…\"아내가 이혼한다고\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261027_0003842746"
-        }
-      ]
-    },
-    {
-      "title": "pak vs sl",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "Win-from-anywhere Pakistan face 430-conquerors Sri Lanka at high-scoring Lahore",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-sri-lanka-5th-match-1550717/match-preview"
         },
         {
-          "title": "Pakistan vs Sri Lanka LIVE score, Tri-Nation Series: Sri Lanka wins toss, elects to field",
-          "source": "Sportstar",
-          "url": "https://sportstar.thehindu.com/cricket/pakistan-vs-sri-lanka-live-score-updates-tri-nation-series-scorecard-matchcentre-odi-pak-v-sl-highlights/article71630200.ece"
-        },
-        {
-          "title": "Sri Lanka wins toss, elects to field in cricket tri-series ODI against Pakistan",
-          "source": "Bozeman Daily Chronicle",
-          "url": "https://www.bozemandailychronicle.com/wire/sports/sri-lanka-wins-toss-elects-to-field-in-cricket-tri-series-odi-against-pakistan/article_f9ca0841-6729-5f8e-a46d-86dac4b24389.html"
-        }
-      ]
-    },
-    {
-      "title": "상장폐지",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "형지글로벌, ‘동전주’ 상장폐지 가처분 신청…거래소 상폐 유예 ‘정책 실효성’ 논란",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261026580658"
-        },
-        {
-          "title": "형지그룹 상장3사 상폐 위기 일단 모면, '오너2세' 최준호·최혜원 기업가치 회복 승부수는",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450415"
-        },
-        {
-          "title": "[기자수첩] 자본시장 건전화의 부메랑 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/opinion/2026/10/26/2026102309070942423"
-        }
-      ]
-    },
-    {
-      "title": "몸매",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 00:30:00 -0700",
-      "news": [
-        {
-          "title": "티아라 효민, 과감 숏팬츠 숨은 노력 있었다…군살 없는 몸매",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261026/134907296/1"
-        },
-        {
-          "title": "AI보다 더 하네…티아라 효민, 대만 가오슝서 뽐낸 ‘마네킹 인형 미모’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/G44DSMRZMRQTKNZWGUZDOYZWME/"
-        },
-        {
-          "title": "티아라 효민, 여전한 아이돌 아우라…세련미 넘치는 공항 패션 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6331225"
-        }
-      ]
-    },
-    {
-      "title": "박승수",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 00:20:00 -0700",
-      "news": [
-        {
-          "title": "\"정신 못 차렸냐?\" '환상적인 골 넣었는데 욕설·조롱 폭발' 박승수, 뉴캐슬 팬들 앞에서 존재감 증명...한국 팬들은 여전히 '전역모 논란' 비판 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/27/202610271354779792O"
-        },
-        {
-          "title": "'전역모 쓰고 경례 논란' 박승수, 英 무대 복귀하자마자 환상골 폭발! 교체 투입 3분 만에 동점골…뉴캐슬 감독 앞에서 '눈도장'",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015611"
-        },
-        {
-          "title": "'17분 뛰고 전역모 착용' 논란의 신성 박승수, '후루룩 짭짭 라면 세리머니' 시전…뉴캐슬 U-21 경기서 환상골 폭발, 구단 \"아릅답다\" 찬사",
+          "title": "정종철, 일산 70평 팔고 '강남 45억 건물주'된 전말…\"마누라가 이혼한다고\"",
           "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-10-27/202610270100169360011164"
-        }
-      ]
-    },
-    {
-      "title": "닛케이 평균주가",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 00:20:00 -0700",
-      "news": [
-        {
-          "title": "[유미's 픽] 'AI 재앙' 경고한 앤트로픽, 삼성·SK HBM 의존 안고 상장 도전",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261027113417"
-        },
-        {
-          "title": "앤트로픽 IPO에 웃는 아마존·구글…수백조원 지분가치 기대",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/10/27/JOQDZB3OE5AGNF2HTRCUKIV2L4/"
-        },
-        {
-          "title": "앤트로픽, 초대형 상장 추진에 코스피 3% 상승 마감",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610271703001"
-        }
-      ]
-    },
-    {
-      "title": "구룡마을",
-      "approx_traffic": "10000+",
-      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
-      "news": [
-        {
-          "title": "[속보] '서울 강남 판자촌' 구룡마을 큰불...대응 2단계",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610271649385492_005.html"
-        },
-        {
-          "title": "[속보] 서울 강남 구룡마을서 불‥소방, 대응 2단계 발령",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861099_36918.html"
-        },
-        {
-          "title": "[속보]강남 구룡마을 화재…대모지하차도 옆 전면통제",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261027/134918342/2"
-        }
-      ]
-    },
-    {
-      "title": "전현무계획",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
-      "news": [
-        {
-          "title": "\"알려지길 원치 않아\" 촬영 거부한 식당 노출한 '전현무 계획' 논란 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/26/2026102608235429706"
-        },
-        {
-          "title": "‘전현무계획4’, 74세 자영업자 외면...진짜 ‘무계획’ 강조하다 역풍 [SC이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/10/26/GZRTMM3FGUYDINZSGFRDGMZWGQ/"
-        }
-      ]
-    },
-    {
-      "title": "데스티니 차일드",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
-      "news": [
-        {
-          "title": "컴투스, ‘데스티니 차일드: 어셈블’ 공개…2027년 상반기 출시",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261027161125"
-        },
-        {
-          "title": "컴투스, '데스티니 차일드' 10주년 기념 차기작 예고",
-          "source": "주간한국",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7190952"
-        },
-        {
-          "title": "10주년 맞은 `데스티니 차일드`, 방치형 RPG로 귀환 예고",
-          "source": "디지털데일리",
-          "url": "https://www.ddaily.co.kr/page/view/2026102713321321581"
-        }
-      ]
-    },
-    {
-      "title": "국민 총소득",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 00:10:00 -0700",
-      "news": [
-        {
-          "title": "3분기 경제성장률 1.0%…올해 3% 중반 성장 가능성 높아져",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974354"
-        },
-        {
-          "title": "3분기 성장률 1.0%···연간 성장률 4%도 가시권",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610271630001"
-        },
-        {
-          "title": "반도체 호황에 3분기 실질 GDP 1% '깜짝 성장'...연 4%도 가시권",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610271102022434"
+          "url": "https://www.sportschosun.com/entertainment/2026-10-27/202610270100169050011153"
         }
       ]
     }
