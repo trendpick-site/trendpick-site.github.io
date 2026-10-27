@@ -1,8 +1,113 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-26T23:41:21+00:00",
+  "fetched_at": "2026-10-27T00:07:31+00:00",
   "items": [
+    {
+      "title": "지게차",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 15:50:00 -0700",
+      "news": [
+        {
+          "title": "[르포]\"시신 운구차에 남편 장화가…\" 지게차 참변에 유족들 울분",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6596866"
+        },
+        {
+          "title": "제주 축사서 숨진 40대도 지게차 무면허…경찰, 업체 과실 수사",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026124200056"
+        },
+        {
+          "title": "제주 구좌읍 지게차 사고 무면허 묵인 의혹",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845394"
+        }
+      ]
+    },
+    {
+      "title": "psg vs olympique lyon standings",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 15:50:00 -0700",
+      "news": [
+        {
+          "title": "Paris Saint-Germain vs Olympique Lyonnais: French Ligue 1 stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/ckpqg5048n7qt"
+        },
+        {
+          "title": "How to watch PSG vs. Lyon online for free",
+          "source": "Mashable",
+          "url": "https://mashable.com/entertainment/psg-lyon-ligue-1-2026-live-stream-for-free"
+        },
+        {
+          "title": "Why is Ousmane Dembele Not Playing Today For PSG vs. Lyon?",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/why-ousmane-dembele-not-playing-191728030.html"
+        }
+      ]
+    },
+    {
+      "title": "병역 기피",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 15:40:00 -0700",
+      "news": [
+        {
+          "title": "유승준 비자발급 취소 소송 또 대법원 판단...LA 총영사 상고",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610262315217323"
+        },
+        {
+          "title": "'병역기피' 유승준 세번째 비자 소송 대법으로…LA총영사측 상고",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026161500004"
+        },
+        {
+          "title": "유승준 세 번째 비자소송도 대법 간다…주LA총영사관 상고",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003841399"
+        }
+      ]
+    },
+    {
+      "title": "욕망의 덫",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 15:40:00 -0700",
+      "news": [
+        {
+          "title": "‘욕망의 덫’ 장세현 죽음에 전혜원 오열…“나만 믿어라” 결국 복수 칼 뺐다",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1169353"
+        },
+        {
+          "title": "'욕망의 덫' 장서희, 비밀 합의서 포착… 과거 교통사고 추적한다",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3728551"
+        },
+        {
+          "title": "“남편 죽은 날 다 기억 나” 박소연, 유태웅 은폐 시도 폭로…’욕망의 덫’ 최고 긴장감",
+          "source": "MHN스포츠",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1603324"
+        }
+      ]
+    },
+    {
+      "title": "고현항",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 15:30:00 -0700",
+      "news": [
+        {
+          "title": "거제 고현항 재개발 4단계 중단에 기약없는 문화공원·주차장",
+          "source": "경남도민일보",
+          "url": "https://www.idomin.com/news/articleView.html?idxno=2017945"
+        },
+        {
+          "title": "고현항 문화공원·주차장, 누가 완성하나…기존 사업자 지정 취소 절차",
+          "source": "거제뉴스광장",
+          "url": "https://www.gjnewsplaza.com/news/articleView.html?idxno=33230"
+        }
+      ]
+    },
     {
       "title": "체포",
       "approx_traffic": "200+",
@@ -14,14 +119,14 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8695877"
         },
         {
-          "title": "프랑스 \"온라인 대입 시스템 개편·교원 확충\"‥학생 단체 \"시위 계속\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6860909_36925.html"
+          "title": "\"교사 늘리고 대입 플랫폼 개선\"...핼러윈 시위 '강행'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610270801156017"
         },
         {
-          "title": "\"무슨 미래가 있냐\"...유럽에 퍼지는 분노의 물결 [자막뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202610261049255802"
+          "title": "佛 극우후보 르펜 ‘구국영웅 잔다르크’ 이미지로 대선 출정식",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261026/134909118/1"
         }
       ]
     },
@@ -41,37 +146,37 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8695913"
         },
         {
-          "title": "운명의 이스라엘 총선 돌입...'트럼프 입김' 결과 가르나?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610270632497960"
+          "title": "네타냐후, 선거 막판 ’트럼프 마케팅’…“비비 뽑으세요“",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027055308r7Z"
         }
       ]
     },
     {
       "title": "제네시스 gv80",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Mon, 26 Oct 2026 15:00:00 -0700",
       "news": [
         {
-          "title": "韓골프 자존심 지킨 신상훈, 공동 4위로 마무리...우승은 가쓰라가와 [KPGA]",
-          "source": "스포츠 & 골프",
-          "url": "https://programs.sbs.co.kr/sbsgolf/26kpga/article/88987/G20000002565"
+          "title": "제네시스 GV80 Hybrid 후륜 기반 2.5 터보 하이브리드 시스템 주요 특징 인포그래픽",
+          "source": "Genesis Newsroom",
+          "url": "https://newsroom.genesis.com/ko-ko/%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4-%EC%B5%9C%EC%B4%88%EC%9D%98-%ED%9B%84%EB%A5%9C-%EA%B8%B0%EB%B0%98-2-.5-%ED%84%B0%EB%B3%B4-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C/"
         },
         {
-          "title": "\"부상으로 받은 GV80 HEV, 직접 타보고 싶다\"..'제네시스 챔피언십' 성료 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/10/26/2026102608451756066"
+          "title": "주행거리 840㎞… 엔진 작동 뒤에도 매끄러운 승차감",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/auto/2026/10/27/5NSWWGTKXREJNAOIVDBXNGM2V4/"
         },
         {
-          "title": "우승자 가쓰라가와 “일본서 GV80 하이브리드 타보겠다”...‘환대’로 차별화한 ‘2026 제네시스 챔피언십’",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898160"
+          "title": "[시승기] 제네시스 첫 두 개의 심장 'GV80 하이브리드', 고성능에 연비도 잡았다",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450289"
         }
       ]
     },
     {
       "title": "광명시",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Mon, 26 Oct 2026 14:40:00 -0700",
       "news": [
         {
@@ -110,116 +215,6 @@
           "title": "지아이텍, 32억 규모 원판 글래스 검사기 계약",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261026_0003840747"
-        }
-      ]
-    },
-    {
-      "title": "al",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "Shelby County homeowner expects Alabama Power to start clearing land on his property",
-          "source": "AL.com",
-          "url": "https://www.al.com/news/2026/10/shelby-county-homeowner-expects-alabama-power-to-start-clearing-land-on-his-property.html"
-        },
-        {
-          "title": "Alabama Power crews return to Fenn Church’s Calera property",
-          "source": "WBMA",
-          "url": "https://abc3340.com/news/local/alabama-power-crews-return-to-fenn-churchs-calera-property"
-        },
-        {
-          "title": "A Homeowner’s Last Stand Against Alabama Power",
-          "source": "Inside Climate News",
-          "url": "https://insideclimatenews.org/news/23102026/a-homeowners-last-stand-against-alabama-power/"
-        }
-      ]
-    },
-    {
-      "title": "quả bóng vàng 2026",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "Harry Kane giành Quả Bóng Vàng 2026",
-          "source": "Tạp chí Bóng đá",
-          "url": "https://bongdaplus.vn/bong-da-the-gioi/harry-kane-gianh-qua-bong-vang-2026-5272902610.html"
-        },
-        {
-          "title": "Vượt mặt Yamal và Mabppe, Harry Kane đoạt Quả bóng vàng 2026",
-          "source": "Tuổi Trẻ",
-          "url": "https://tuoitre.vn/truc-tuyen-qua-bong-vang-2026-ban-to-chuc-cong-bo-top-10-100261027025807746.htm"
-        },
-        {
-          "title": "CHÍNH THỨC: Mbappe đi vào lịch sử Quả bóng Vàng ở năm 2026",
-          "source": "Thể Thao 247",
-          "url": "https://thethao247.vn/461-chinh-thuc-mbappe-di-vao-lich-su-qua-bong-vang-o-nam-2026-c2-d442388.html"
-        }
-      ]
-    },
-    {
-      "title": "이범호",
-      "approx_traffic": "20000+",
-      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "KIA, 플레이오프 1차전서 삼성 5대1로 잡고 가을야구 4전 전승",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/26/L7S2HXSOGFG3PJLYOYY4LBBAYA/"
-        },
-        {
-          "title": "“그동안 마이너스였잖아요”…157㎞ 좌완 이의리 우려 씻은 호투, PO 1차전 언성 히어로",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261027/134913361/1"
-        },
-        {
-          "title": "‘도루하는 홈런왕’ 김도영, 발로 삼성 잡았다…KIA, 1차전 5대 1로 기선제압",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610262211001"
-        }
-      ]
-    },
-    {
-      "title": "알나스르 대 알와슬",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "AFC postpones Al Nassr-Al Wasl Champions League Elite clash in Riyadh",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/sports/soccer/afc-postpones-al-nassr-al-wasl-champions-league-elite-clash-riyadh-2026-10-25/"
-        },
-        {
-          "title": "Al-Hilal board ‘want parity applied’ after Al-Nassr vs Al-Wasl postponement",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/al-hilal-board-want-parity-applied-after-al-nassr-vs-al-wasl-postponement-43671096"
-        },
-        {
-          "title": "Cristiano Ronaldo’s Al Nassr match postponed indefinitely and Joao Felix wants to leave",
-          "source": "foot.mundo",
-          "url": "https://footmundo.co.uk/ronaldo-al-nassr-al-wasl-postponed-joao-felix-europe/"
-        }
-      ]
-    },
-    {
-      "title": "치이카와",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "Everything K-POP and More! - 위버스 매거진",
-          "source": "Weverse Magazine",
-          "url": "https://magazine.weverse.io/article/view/1995?lang=ko"
-        },
-        {
-          "title": "치이카와·A20·닥터X·100일의거짓말, 1위 [한눈에 보는 엔터차트]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6332111"
-        },
-        {
-          "title": "[박스오피스] '치이카와' 3주째 1위…누적 224만여명",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026046700005"
         }
       ]
     }
