@@ -1,8 +1,140 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T05:13:19+00:00",
+  "fetched_at": "2026-10-27T06:12:31+00:00",
   "items": [
+    {
+      "title": "인천마라톤",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "[영상] 제14회 정서진아라뱃길 마라톤 성료…달리기 열풍 속 5000여명의 러너들 결집",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335093"
+        },
+        {
+          "title": "[제14회 정서진아라뱃길 전국마라톤대회] 여자 10㎞ 부문 우승자 윤선미 “작년보다 1분 단축해 뿌듯”",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335010"
+        },
+        {
+          "title": "[제14회 정서진아라뱃길 전국마라톤대회] 달리기 문화 선봉들, 가을 정취 만끽",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335040"
+        }
+      ]
+    },
+    {
+      "title": "민방위",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "서해구, 보훈회관 화재 대응 강화…비상벨·소화기 실습 진행",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719670"
+        },
+        {
+          "title": "경남도의회, 의원·직원 참여 재난 대비 민방위 훈련",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20261026500595"
+        },
+        {
+          "title": "[포토뉴스] 대전시교육청, 둔산소방서와 합동소방훈련 실시",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1418460"
+        }
+      ]
+    },
+    {
+      "title": "천안교도소",
+      "approx_traffic": "1000+",
+      "published": "Mon, 26 Oct 2026 21:50:00 -0700",
+      "news": [
+        {
+          "title": "수형자가 유유히 교도소 정문 걸어나갔다? 천안서 '황당' 해프닝",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027046700063"
+        },
+        {
+          "title": "\"안 잡네?\" 교도소 밖으로 걸어 나간 수형자…교도관 2명 '경고' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/27/2026102710460544121"
+        },
+        {
+          "title": "교도소 밖으로 제지없이 걸어 나온 수형자? 천안 교도소서 무슨 일이…",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261027580061"
+        }
+      ]
+    },
+    {
+      "title": "가스 폭발",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 21:40:00 -0700",
+      "news": [
+        {
+          "title": "인천 검단 상가건물서 가스 폭발…4명 부상",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610271026001"
+        },
+        {
+          "title": "인천 마전동 상가에서 폭발 사고...4명 부상",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610271033190716_005.html"
+        },
+        {
+          "title": "음식점 인테리어 작업 중 가스 폭발…4명 부상(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027052051065"
+        }
+      ]
+    },
+    {
+      "title": "yaxel lendeborg",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "Flawless Stephen Curry finally gives Warriors a win after Dubs’ ugly start to season",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/flawless-stephen-curry-finally-gives-045202806.html"
+        },
+        {
+          "title": "What we learned as Yaxel Lendeborg dominates vs. Nuggets in Warriors' first win",
+          "source": "NBC Sports Bay Area & California",
+          "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/yaxel-lendeborg-steph-curry-denver-nuggets/1974756/?partner=yahoo"
+        },
+        {
+          "title": "Game Recap: Warriors 134, Nuggets 114",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/watch/video/game-recap-warriors-134-nuggets-114?plsrc=nba&collection=2026-27-game-recaps"
+        }
+      ]
+    },
+    {
+      "title": "nuggets vs warriors",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "Predict.fun Market Gives Warriors 30% Chance to Beat Nuggets",
+          "source": "www.tokenpost.com",
+          "url": "https://www.tokenpost.com/news/investing/41513"
+        },
+        {
+          "title": "Golden State vs Denver: Points",
+          "source": "Coinbase",
+          "url": "https://www.coinbase.com/predictions/event/KXNBAPTS-26OCT26GSWDEN"
+        },
+        {
+          "title": "How to watch Warriors vs Nuggets: NBA, live stream, TV channel",
+          "source": "The Big Lead",
+          "url": "https://www.thebiglead.com/how-to-watch-warriors-vs-nuggets-nba-live-stream-tv-channel/"
+        }
+      ]
+    },
     {
       "title": "아시아나",
       "approx_traffic": "200+",
@@ -22,6 +154,28 @@
           "title": "대한항공-아시아나항공,교육기부·안전체험 지원으로 미래세대 꿈 응원",
           "source": "기호일보",
           "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038961"
+        }
+      ]
+    },
+    {
+      "title": "그래픽 카드",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 20:50:00 -0700",
+      "news": [
+        {
+          "title": "엔비디아는 RTX 5090 단종설 부인, 그래픽카드 제조사는 '대기주문'도 불가?",
+          "source": "케이벤치",
+          "url": "https://kbench.com/?q=node/282797"
+        },
+        {
+          "title": "RTX 5090 공급 부족으로 GeForce RTX 5080 가격이 1899달러까지 치솟았습니다.",
+          "source": "GameGPU",
+          "url": "https://ko.gamegpu.com/news/zhelezo/tseny-na-geforce-rtx-5080-dostigli-usd1899-iz-za-defitsita-rtx-5090"
+        },
+        {
+          "title": "[루머] RTX 5090 및 RTX 5080 16GB, 내년 1월 생산 중단 > 그래픽카드",
+          "source": "쿨엔조이",
+          "url": "https://coolenjoy.net/bbs/28/4864580"
         }
       ]
     },
@@ -49,148 +203,9 @@
     },
     {
       "title": "양산시",
-      "approx_traffic": "100+",
+      "approx_traffic": "500+",
       "published": "Mon, 26 Oct 2026 20:50:00 -0700",
       "news": []
-    },
-    {
-      "title": "hd현대중공업",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 20:40:00 -0700",
-      "news": [
-        {
-          "title": "HD현대중공업 임단협 마무리될까···노조 2차 잠정합의안 찬반 투표 돌입",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610271015001"
-        },
-        {
-          "title": "中 세계 선박 수주 76% 싹쓸이…K-조선은 파업 몸살",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20106070"
-        },
-        {
-          "title": "K조선 노사협상 희비…HD현대重 막바지, 한화오션 난항",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610251145114569"
-        }
-      ]
-    },
-    {
-      "title": "자산",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 20:40:00 -0700",
-      "news": [
-        {
-          "title": "(보도설명) 디지털자산시장거래소 등 디지털자산업자에 대한 교육세 과세 여부는 전혀 검토된 바 없습니다.",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148974323"
-        },
-        {
-          "title": "코인 과세, 국세청은 30일 고시 의견수렴…청와대는 유예로 기울었다",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353086"
-        },
-        {
-          "title": "‘소득 있는 곳에 과세’ 실종…신뢰 잃는 조세정책",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610262200015"
-        }
-      ]
-    },
-    {
-      "title": "교도관",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 20:30:00 -0700",
-      "news": [
-        {
-          "title": "수형자가 유유히 교도소 정문 걸어나갔다? 천안서 '황당' 해프닝",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027046700063"
-        },
-        {
-          "title": "\"안 잡네?\" 교도소 밖으로 걸어 나간 수형자…교도관 2명 '경고' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/27/2026102710460544121"
-        },
-        {
-          "title": "교도소 밖으로 제지없이 걸어 나온 수형자? 천안 교도소서 무슨 일이…",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261027580061"
-        }
-      ]
-    },
-    {
-      "title": "양서류",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 20:30:00 -0700",
-      "news": [
-        {
-          "title": "[사이테크+] 바다에서만 산 양서류 있었다…\"뼈 갑옷으로 염분 장벽 극복\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261025051500017"
-        },
-        {
-          "title": "개구리는 못사는 바다… 2억3700만년 전 ‘갑옷 입은 양서류’ 살았다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/science/2026/10/27/X3I4JRQTBJBBHJBXHJJ3RDXGBQ/"
-        },
-        {
-          "title": "2억3700만년 전 바닷속 몸길이 70cm '갑옷개구리' 살았을까",
-          "source": "DongA Science",
-          "url": "https://www.dongascience.com/ko/news/80542"
-        }
-      ]
-    },
-    {
-      "title": "이상순",
-      "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 20:20:00 -0700",
-      "news": [
-        {
-          "title": "이효리, 이상순과 함께 반신욕 즐겨... \"얼마나 좋은데\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102705363812075"
-        },
-        {
-          "title": "남편 이상순 아팠던 이효리 \"남편 없으면 다 의미 없다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003842028"
-        }
-      ]
-    },
-    {
-      "title": "제민일보",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 20:20:00 -0700",
-      "news": [
-        {
-          "title": "오늘의 운세 10월 26일(음력 9월 16일)",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845242"
-        }
-      ]
-    },
-    {
-      "title": "이마트",
-      "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 20:10:00 -0700",
-      "news": [
-        {
-          "title": "초저가 생활용품 전문점 ‘와우샵’ 본격 운영",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626491"
-        },
-        {
-          "title": "치킨 값보다 싸네?…1만원짜리 가전 내놓자 다이소 '긴장' [박수림의 요즘 여기]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610231857g"
-        },
-        {
-          "title": "고물가에 유통업계 초저가 경쟁…용량 따른 ‘착시 효과’ 따져봐야",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261025026560812"
-        }
-      ]
     }
   ]
 }
