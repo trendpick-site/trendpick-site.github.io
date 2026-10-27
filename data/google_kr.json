@@ -1,225 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T11:41:29+00:00",
+  "fetched_at": "2026-10-27T12:17:31+00:00",
   "items": [
     {
-      "title": "디아즈",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 03:30:00 -0700",
-      "news": [
-        {
-          "title": "디아즈, 투런포",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261027_0021507122"
-        },
-        {
-          "title": "'2사 후에 무슨 일이?' 박승규 동점타→구자욱 역전타→디아즈 투런 아치…삼성, 3회에만 4득점 대폭발 [PO2]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/10/27/GUYWEYLDMRTGKMTGHBRGENDGGI/"
-        },
-        {
-          "title": "[AI그래픽] KBO PO 2차전, 삼성 디아즈 3회 4-1으로 벌리는 2점 홈런",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261027001468"
-        }
-      ]
-    },
-    {
-      "title": "구자욱",
+      "title": "이재명",
       "approx_traffic": "2000+",
-      "published": "Tue, 27 Oct 2026 03:30:00 -0700",
+      "published": "Tue, 27 Oct 2026 04:10:00 -0700",
       "news": [
         {
-          "title": "박진만 삼성 감독 \"공격력 극대화 위해 경험 많은 최형우 출장\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027156100007"
-        },
-        {
-          "title": "KIA-삼성 플레이오프 1차전 오늘 열려",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694992"
-        },
-        {
-          "title": "선발 변화로 승부수...최형우·김호령 선발 출전",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610271802453559"
-        }
-      ]
-    },
-    {
-      "title": "삼성 야구",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 03:30:00 -0700",
-      "news": [
-        {
-          "title": "[엠빅뉴스] [PO1차전] 네일이 퇴장이라고? 어깨 몇 번 풀더니 불 꺼버린 소방수 정해영!!",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/original/mbig/6861035_29041.html"
-        },
-        {
-          "title": "열띤 응원전",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261027_0021507013"
-        },
-        {
-          "title": "[영상] 천재성을 또 보여준 김도영…천재가 혼난 이유는?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8696362"
-        }
-      ]
-    },
-    {
-      "title": "박승규",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 03:30:00 -0700",
-      "news": [
-        {
-          "title": "\"내일 없는 것처럼\"…삼성 박승규, 헤드샷에도 멈추지 않은 투혼",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027029000007"
-        },
-        {
-          "title": "[사진]'나 구자욱이야'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/10/27/MQ3GGNDBGUYTOMLCMY4TQYRQMU/"
-        },
-        {
-          "title": "아픔도 기쁨도 잊고 '추격'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8180084"
-        }
-      ]
-    },
-    {
-      "title": "아파트",
-      "approx_traffic": "5000+",
-      "published": "Tue, 27 Oct 2026 03:20:00 -0700",
-      "news": [
-        {
-          "title": "[오늘과 내일/김재영]부동산 ‘전쟁’의 민간 희생자들",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261026/134913170/2"
-        },
-        {
-          "title": "서울 중저가 전셋값, 고가보다 더 뛰었다…올해 10%대 상승",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003842711"
-        },
-        {
-          "title": "노원·도봉까지 '들썩'…강북 아파트 평균 매매가 12억 ·전세가 6억 돌파 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/27/2026102712560575661"
-        }
-      ]
-    },
-    {
-      "title": "긴급 체포",
-      "approx_traffic": "5000+",
-      "published": "Tue, 27 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "서울 구로구 주택가 쓰레기 더미서 미라화된 시신 발견",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861091_36918.html"
-        },
-        {
-          "title": "[속보]구로 주택가 시신유기 80대·60대 남성 등 2명 체포",
+          "title": "\"리디아고 아니라는데?\" 질문 쏟아지자…주진우 \"난 떳떳\" [현장영상]",
           "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325111"
+          "url": "https://news.jtbc.co.kr/article/NB12325025"
         },
         {
-          "title": "[속보] 경찰 \"서울 구로구에서 시체 유기한 혐의로 2명 체포\"",
+          "title": "\"리디아 고한테 사과 안 해요?\" 주진우 반응 봤더니",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861159_37004.html"
+        },
+        {
+          "title": "'김 여사 골프' 공방 확전...\"고장난 스피커\" \"특감해야\"",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610271725135676_005.html"
+          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202610271811062382_005.html"
         }
       ]
     },
     {
-      "title": "사미자",
-      "approx_traffic": "10000+",
-      "published": "Tue, 27 Oct 2026 02:50:00 -0700",
-      "news": [
-        {
-          "title": "\"저렇게 싸가지 없나\"…사미자, 뇌경색 간병한 며느리에 독설 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102717292271304"
-        },
-        {
-          "title": "사미자 “며느리, 마음 곱지만 가끔은 정말 냉정해”…35년 고부의 속내",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261027/134919041/2"
-        },
-        {
-          "title": "사미자, 뇌경색·아들 암투병 간호한 며느리에 “저렇게 싸가지가 없을까” 독설 왜 (오미자)",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202610271457145710"
-        }
-      ]
-    },
-    {
-      "title": "트로트",
+      "title": "파주시",
       "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 02:50:00 -0700",
+      "published": "Tue, 27 Oct 2026 04:10:00 -0700",
       "news": [
         {
-          "title": "김의영, 1위 꽉 잡았다…K탑스타 5주 연속 ‘황금빛 질주’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12185523"
+          "title": "옥승철 파주시의원, 청년 창업기업 간담회…공간·투자 지원 논의",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20261027500220"
         },
         {
-          "title": "김다현·금잔디 제쳤다…김의영, 가을옷 쇼핑하고 싶은 여자 트로트 가수 1위 [TEN차트]",
-          "source": "텐아시아",
-          "url": "https://www.tenasia.co.kr/article/2026102789164"
+          "title": "최정호 익산시장 “저는 숙성된 청년, 청년들의 동반자 될 것”",
+          "source": "전북일보 인터넷신문",
+          "url": "https://www.jjan.kr/article/20261025500059"
         },
         {
-          "title": "김의영, ‘팬앤스타’ 여자스타 랭킹 6주 연속 1위…독주 체제 이어간다",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/stars/read/starwars/2379372.htm"
+          "title": "익산시, 청년창업가 25명과 간담회…기업 성장 지원방안 논의",
+          "source": "신아일보",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075544"
         }
       ]
     },
     {
-      "title": "tving",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 02:50:00 -0700",
-      "news": [
-        {
-          "title": "Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Get Caught Up In A Dangerous Deal In “The Substitute” Teaser",
-          "source": "Soompi",
-          "url": "https://www.soompi.com/article/1881499wpp/watch-bae-hyeon-seong-cha-kang-yoon-and-park-yoon-ho-get-caught-up-in-a-dangerous-deal-in-the-substitute-teaser"
-        },
-        {
-          "title": "TVING Original ‘The Substitute’ Unveils Teaser for Bae Hyun-sung, Cha Kang-yoon and Park Yoon-ho’s Dangerous Deal",
-          "source": "씨네플레이",
-          "url": "https://www.cineplay.co.kr/en-us/articles/30479"
-        },
-        {
-          "title": "Bae Hyun-sung, Cha Kang-yoon and Park Yoon-ho’s ‘The Substitute’ Unveils Teaser Trailer for Uncontrollable Crime Thriller",
-          "source": "씨네플레이",
-          "url": "https://www.cineplay.co.kr/en-us/articles/30434"
-        }
-      ]
-    },
-    {
-      "title": "김선빈",
+      "title": "강지영",
       "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 02:50:00 -0700",
+      "published": "Tue, 27 Oct 2026 04:00:00 -0700",
       "news": [
         {
-          "title": "\"니가 다 쳐야 한다\"… '타격 보조' 자처한 베테랑과 '강심장' 슈퍼스타의 절묘한 케미스트리, 77.1% 선사[PO1 현장]",
+          "title": "강지영, 파격 등 노출에 볼륨감까지…팬심 설레게 하는 섹시 미모",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261027/134914114/1"
+        },
+        {
+          "title": "강지영, 일본 휘어잡은 비주얼",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026102712203819343"
+        },
+        {
+          "title": "강지영, 가슴·등 라인 드러낸 블랙 홀터넥…도쿄국제영화제 레드카펫 압도한 드레스 자태",
+          "source": "스타패션",
+          "url": "https://www.kstarfashion.com/ko-kr/articles/256310"
+        }
+      ]
+    },
+    {
+      "title": "파워리프팅",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 03:50:00 -0700",
+      "news": [
+        {
+          "title": "63-year-old Sask. powerlifter achieves world championship gold in Poland",
+          "source": "CBC",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/cormier-powerlifting-world-championship-9.7396964"
+        },
+        {
+          "title": "Cormier takes international gold in World Powerlifting and Bench Press Championships",
+          "source": "SwiftCurrentOnline",
+          "url": "https://www.swiftcurrentonline.com/articles/cormier-takes-international-gold-in-world-powerlifting-and-bench-press-championships"
+        },
+        {
+          "title": "Beyond the viral 140kg lift, Keyaa Banerji has bigger goals in powerlifting",
+          "source": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/beyond-the-viral-140kg-lift-keyaa-banerji-has-bigger-goals-in-powerlifting/articleshow/135226856.cms"
+        }
+      ]
+    },
+    {
+      "title": "npl season 3",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 03:50:00 -0700",
+      "news": [
+        {
+          "title": "FanCode secures exclusive digital streaming rights for Nepal Premier League season 3",
+          "source": "SportsMint Media",
+          "url": "https://sportsmintmedia.com/fancode-secures-exclusive-digital-streaming-rights-for-nepal-premier-league-season-3/"
+        },
+        {
+          "title": "Licensable picture: Drone View of NPL Season 3 Cricket match in Kathmandu",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/drone-view-of-npl-season-3-cricket-match-in-kathmandu/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBMTE9NMUg"
+        },
+        {
+          "title": "Chitwan Rhinos set 158 run target to Biratnagar Kings",
+          "source": "The Rising Nepal",
+          "url": "https://risingnepaldaily.com/news/88109"
+        }
+      ]
+    },
+    {
+      "title": "윤택",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 03:40:00 -0700",
+      "news": [
+        {
+          "title": "윤택 재방 출연료 억소리 나겠네 “‘자연인’ 하루 80회 재방” (라스)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261027/134917998/1"
+        },
+        {
+          "title": "윤택, 꼽등이·개구리알·말벌 애벌레까지 먹었다…상상초월 자연인 체험담",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6333281"
+        },
+        {
+          "title": "'나는 자연인' 재방료 얼마길래 부동산 샀다..윤택 \"하루 80회 재방송\"(라스)",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/27/MEYDQMTGGIYTGMRYGFSGEYZXMU/"
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/27/GNRWGNJXMY3DINRXGVTDGNTFMQ/"
+        }
+      ]
+    },
+    {
+      "title": "외환시장",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 03:40:00 -0700",
+      "news": [
+        {
+          "title": "‘킹달러 가고 강원화’ 환율 1,200원대까지 내려간다고?",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3791_3_C1"
         },
         {
-          "title": "\"어? 타격 훈련을 하네\" 2년 전 가을처럼 근면 성실...대구 찾은 .588 KS MVP, 터지면 부담백배 타선된다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112897995"
+          "title": "[외환-마감] 팽팽한 수급에 1,320원 초중반대 횡보…0.60원↑",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441429"
         },
         {
-          "title": "\"김도영만 과도하게 경계하다간 역효과 난다\"…윤석민 \"꼽은 키플레이어는 김도영보단 이 선수\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-10-25/202610250100157070010239"
+          "title": "\"이러다 환율 1200원대\" … 달러 강세·유가 급등도 못 꺾은 '원화 기세'",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600235.html"
+        }
+      ]
+    },
+    {
+      "title": "황산공원",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 03:40:00 -0700",
+      "news": [
+        {
+          "title": "가을 분위기 물씬",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8181284"
+        },
+        {
+          "title": "붉게 물든 댑싸리… 만추 만끽",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261027516160"
+        },
+        {
+          "title": "경남 청년 페스타, 31일부터 이틀간 양산 황산공원서 개최",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261026_0003841857"
+        }
+      ]
+    },
+    {
+      "title": "크보",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 03:40:00 -0700",
+      "news": [
+        {
+          "title": "Oller exits after allowing fourth-inning comeback, Lee Yi-ri replaces him in KBO playoff game",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/27/ZNAKIDVGAVBI5BCJF5ESORNNOE/"
+        },
+        {
+          "title": "Lee Eui-ri's Control Issues Spark Crisis in Relief",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/27/HCD4I3E3MNBZJFAJSZ3SPEIKHQ/"
+        },
+        {
+          "title": "Lee Eui-ri issues walks, costs KIA lead in playoff loss to Samsung",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/27/OK7KGPFTINCW7NMWDRJTPPAZHI/"
+        }
+      ]
+    },
+    {
+      "title": "한준수",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 03:40:00 -0700",
+      "news": [
+        {
+          "title": "연일 장타 때리는 KIA 한준수, \"포수로 팀 승리 이끌고파\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027170400007"
+        },
+        {
+          "title": "대구 1이닝 8실점 대참사 아픈 기억, 포수는 단 한마디도 꺼내지 못했다 \"오늘은 정말 잘 던질거라 믿어\" [PO2]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/27/MZSWGMTFMZTGEYJRGFRTSNJRMI/"
+        },
+        {
+          "title": "[AI그래픽] KBO PO 1차전, KIA 한준수 4회 5-0으로 벌리는 솔로포",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261026001239"
         }
       ]
     }
