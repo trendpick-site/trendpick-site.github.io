@@ -1,11 +1,178 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T04:14:41+00:00",
+  "fetched_at": "2026-10-27T05:13:19+00:00",
   "items": [
     {
-      "title": "이마트",
+      "title": "아시아나",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 21:10:00 -0700",
+      "news": [
+        {
+          "title": "대한항공·아시아나항공, 청소년 진로교육·안전체험 지원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027033300003"
+        },
+        {
+          "title": "대한항공·아시아나항공, 청소년 대상 항공 진로 특강 3회 실시",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261027500149"
+        },
+        {
+          "title": "대한항공-아시아나항공,교육기부·안전체험 지원으로 미래세대 꿈 응원",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038961"
+        }
+      ]
+    },
+    {
+      "title": "강남대로",
       "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 20:50:00 -0700",
+      "news": [
+        {
+          "title": "출근길 강남대로 ’만취녀 소동’…경찰이 사지 잡아 끌어내",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027092323Yne"
+        },
+        {
+          "title": "출근길 강남대로에서 만취한 채 '엉엉' 활보한 여성 [앵커리포트]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610270635014207"
+        },
+        {
+          "title": "\"위험한 이별, 울면서 차선 하나 점령\"…강남대로 한복판 여성 끌려 나왔다[영상]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6331934"
+        }
+      ]
+    },
+    {
+      "title": "양산시",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 20:50:00 -0700",
+      "news": []
+    },
+    {
+      "title": "hd현대중공업",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 20:40:00 -0700",
+      "news": [
+        {
+          "title": "HD현대중공업 임단협 마무리될까···노조 2차 잠정합의안 찬반 투표 돌입",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610271015001"
+        },
+        {
+          "title": "中 세계 선박 수주 76% 싹쓸이…K-조선은 파업 몸살",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20106070"
+        },
+        {
+          "title": "K조선 노사협상 희비…HD현대重 막바지, 한화오션 난항",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610251145114569"
+        }
+      ]
+    },
+    {
+      "title": "자산",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 20:40:00 -0700",
+      "news": [
+        {
+          "title": "(보도설명) 디지털자산시장거래소 등 디지털자산업자에 대한 교육세 과세 여부는 전혀 검토된 바 없습니다.",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148974323"
+        },
+        {
+          "title": "코인 과세, 국세청은 30일 고시 의견수렴…청와대는 유예로 기울었다",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353086"
+        },
+        {
+          "title": "‘소득 있는 곳에 과세’ 실종…신뢰 잃는 조세정책",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610262200015"
+        }
+      ]
+    },
+    {
+      "title": "교도관",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 20:30:00 -0700",
+      "news": [
+        {
+          "title": "수형자가 유유히 교도소 정문 걸어나갔다? 천안서 '황당' 해프닝",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027046700063"
+        },
+        {
+          "title": "\"안 잡네?\" 교도소 밖으로 걸어 나간 수형자…교도관 2명 '경고' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/27/2026102710460544121"
+        },
+        {
+          "title": "교도소 밖으로 제지없이 걸어 나온 수형자? 천안 교도소서 무슨 일이…",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261027580061"
+        }
+      ]
+    },
+    {
+      "title": "양서류",
+      "approx_traffic": "100+",
+      "published": "Mon, 26 Oct 2026 20:30:00 -0700",
+      "news": [
+        {
+          "title": "[사이테크+] 바다에서만 산 양서류 있었다…\"뼈 갑옷으로 염분 장벽 극복\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261025051500017"
+        },
+        {
+          "title": "개구리는 못사는 바다… 2억3700만년 전 ‘갑옷 입은 양서류’ 살았다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/science/2026/10/27/X3I4JRQTBJBBHJBXHJJ3RDXGBQ/"
+        },
+        {
+          "title": "2억3700만년 전 바닷속 몸길이 70cm '갑옷개구리' 살았을까",
+          "source": "DongA Science",
+          "url": "https://www.dongascience.com/ko/news/80542"
+        }
+      ]
+    },
+    {
+      "title": "이상순",
+      "approx_traffic": "1000+",
+      "published": "Mon, 26 Oct 2026 20:20:00 -0700",
+      "news": [
+        {
+          "title": "이효리, 이상순과 함께 반신욕 즐겨... \"얼마나 좋은데\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102705363812075"
+        },
+        {
+          "title": "남편 이상순 아팠던 이효리 \"남편 없으면 다 의미 없다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003842028"
+        }
+      ]
+    },
+    {
+      "title": "제민일보",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 20:20:00 -0700",
+      "news": [
+        {
+          "title": "오늘의 운세 10월 26일(음력 9월 16일)",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845242"
+        }
+      ]
+    },
+    {
+      "title": "이마트",
+      "approx_traffic": "1000+",
       "published": "Mon, 26 Oct 2026 20:10:00 -0700",
       "news": [
         {
@@ -22,204 +189,6 @@
           "title": "고물가에 유통업계 초저가 경쟁…용량 따른 ‘착시 효과’ 따져봐야",
           "source": "에너지경제신문",
           "url": "https://m.ekn.kr/view.php?key=20261025026560812"
-        }
-      ]
-    },
-    {
-      "title": "마라톤",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 19:50:00 -0700",
-      "news": [
-        {
-          "title": "옥천군청 김현진 선수, 전국 마라톤 대회 하프 부문 '우승'",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3733488"
-        },
-        {
-          "title": "옥천군청 김현진, 전국 마라톤 하프 여자부 우승",
-          "source": "아이뉴스24",
-          "url": "https://www.inews24.com/view/2019325"
-        },
-        {
-          "title": "옥천군청 김현진, 전국 마라톤 하프 부문 우승",
-          "source": "웹이코노미",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2349332"
-        }
-      ]
-    },
-    {
-      "title": "카카오모빌리티",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 19:50:00 -0700",
-      "news": [
-        {
-          "title": "카카오택시 호출료 어디로 갔나...대전·울산 일부 기사 '미지급'",
-          "source": "충남일보",
-          "url": "https://www.chungnamilbo.co.kr/news/articleView.html?idxno=916954"
-        },
-        {
-          "title": "“목적지도 모르고 콜 수락”…카카오T 자동배차, 기사들 “갑질 아니냐”",
-          "source": "위메이크뉴스",
-          "url": "https://wemakenews.co.kr/news/view.php?no=26681"
-        },
-        {
-          "title": "택시 호출료 배분 불투명 논란…황운하·택시노조, 전면 실태조사 촉구",
-          "source": "충청매일",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1107121"
-        }
-      ]
-    },
-    {
-      "title": "姆巴佩",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 19:10:00 -0700",
-      "news": [
-        {
-          "title": "东鹏饮料等迅速切割姆巴佩，昂跑刚深度绑定",
-          "source": "中华网财经",
-          "url": "https://finance.china.com/xiaofei/13004691/20261027/49820752.html"
-        },
-        {
-          "title": "蒙牛乳业：终止与姆巴佩的全部合作",
-          "source": "www.caiwennews.com",
-          "url": "https://www.caiwennews.com/article/1669552.shtml"
-        },
-        {
-          "title": "姆巴佩因「辱华」被中国封杀！ 小粉红网民气炸了",
-          "source": "文学城",
-          "url": "https://www.wenxuecity.com/news/2026/10/26/126817390.html"
-        }
-      ]
-    },
-    {
-      "title": "소방관",
-      "approx_traffic": "10000+",
-      "published": "Mon, 26 Oct 2026 19:00:00 -0700",
-      "news": [
-        {
-          "title": "경기도, 소방 현장 안전·처우개선 TF 첫 회의 열고 종합대책 마련 착수",
-          "source": "경기도뉴스포털",
-          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71826"
-        },
-        {
-          "title": "\"소방관 개꿀…출동 없으면 꿀잠, 빨대 맞다\" 공무원글 논란 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/27/2026102710324848343"
-        },
-        {
-          "title": "구부렸다 다시 뻣뻣해진 추미애, 의도는 다른 곳에 있는데 예산으로 논란? (261026 월요일 클립) 강수영 이정주",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/video/article/202610262200001"
-        }
-      ]
-    },
-    {
-      "title": "임성근",
-      "approx_traffic": "1000+",
-      "published": "Mon, 26 Oct 2026 19:00:00 -0700",
-      "news": [
-        {
-          "title": "'채상병 순직 책임' 임성근 징역 3년 확정",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6861021_36967.html"
-        },
-        {
-          "title": "‘해병대원 순직’ 임성근 전 사단장, 대법서 징역 3년 확정...사고 발생 3년 3개월 만",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/10/27/2NDQX5EZ2VH45HZ5E5VJOAY774/"
-        },
-        {
-          "title": "[이시각헤드라인] 10월 27일 뉴스센터",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261027113646CAf"
-        }
-      ]
-    },
-    {
-      "title": "gpt-6.1",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 18:40:00 -0700",
-      "news": [
-        {
-          "title": "GPT-6.1 Terra in GitHub Copilot",
-          "source": "The GitHub Blog",
-          "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot/"
-        },
-        {
-          "title": "OpenAI unveils GPT-6.1 Terra, cutting API prices in half",
-          "source": "파이낸셜뉴스",
-          "url": "https://en.fnnews.com/news/202610271024152411"
-        },
-        {
-          "title": "GPT-6.1 Terra makes a strong case for being OpenAI's best bang for your AI buck",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/gpt-6-1-terra-3728234/"
-        }
-      ]
-    },
-    {
-      "title": "농성",
-      "approx_traffic": "200+",
-      "published": "Mon, 26 Oct 2026 18:10:00 -0700",
-      "news": [
-        {
-          "title": "반도체 주52시간제 예외… 시행령 땜질한다는 정부",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261027/134913313/2"
-        },
-        {
-          "title": "메가특구 ‘특별연장근로 보완’… 내일 사회적 대화서 논의할듯",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626632"
-        },
-        {
-          "title": "[기획] 호남팹이 ‘재벌 특혜’라는 李 지지층",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12091307"
-        }
-      ]
-    },
-    {
-      "title": "정가은",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 18:00:00 -0700",
-      "news": [
-        {
-          "title": "‘이혼’ 정가은, 결혼반지 팔러 갔다가 당황…“정품 아닐 확률 90% 이상”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261027/134914815/2"
-        },
-        {
-          "title": "'132억 사기 이혼' 정가은, 결혼반지 감정 맡겼는데..\"가품 확률 90%\"",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261026042410355"
-        },
-        {
-          "title": "“양육비도 못 받았는데”…정가은, 결혼반지 가품 가능성에 분노",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12186553"
-        }
-      ]
-    },
-    {
-      "title": "급여",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 18:00:00 -0700",
-      "news": [
-        {
-          "title": "강레오 셰프 “실업급여로 日 여행 온 청년들, 사진 거부”",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/26/FEUDZE2YBZHDROT7KHED7DHWQU/"
-        },
-        {
-          "title": "\"실업급여로 日 여행? 취직하면 사진 찍자\"...강레오 분통 터트리게 한 청년들",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610270637469396"
-        },
-        {
-          "title": "강레오“실업급여로 日여행 청년들…사진 거절했다”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626132"
         }
       ]
     }
