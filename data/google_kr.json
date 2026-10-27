@@ -1,11 +1,83 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T00:50:00+00:00",
+  "fetched_at": "2026-10-27T01:47:37+00:00",
   "items": [
     {
+      "title": "node.js 취약점",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 17:40:00 -0700",
+      "news": [
+        {
+          "title": "[PHP 파장] “PHP2셸, 위험하다면 내 비트코인 훔쳐봐”... 19시간만에 진짜 털렸다",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146747"
+        },
+        {
+          "title": "\"서버 생태계 전반 위협\"...PHP 이어 노드.js서도 보안 취약점 발견",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261027060701"
+        },
+        {
+          "title": "PHP 이어 Node.js도 보안 취약점…웹 서버 보안 비상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026045900017"
+        }
+      ]
+    },
+    {
+      "title": "al 탈락",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 17:40:00 -0700",
+      "news": [
+        {
+          "title": "[롤드컵] '369 특급 캐리' 中 TES, '유럽 맹주' G2 꺾고 2승 1패 조 합류",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112898124"
+        },
+        {
+          "title": "LPL 또 망신…1시드 AL, 3전 전패 탈락 [롤드컵]",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202610270017"
+        },
+        {
+          "title": "[롤드컵] LPL 내전의 승자는 TES, 30분대에 1번 시드 AL 꺾고 대회 첫 승",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261024110237985"
+        }
+      ]
+    },
+    {
+      "title": "특수부대",
+      "approx_traffic": "200+",
+      "published": "Mon, 26 Oct 2026 17:10:00 -0700",
+      "news": [
+        {
+          "title": "레쑤언 티엔, 마란도, 꾸옥안은 모두 \"삭숲 특수부대\"에 출연했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/le-xuan-tien-ma-ran-do-va-quoc-anh-cung-gop-mat-trong-dac-cong-rung-sac"
+        },
+        {
+          "title": "Cần Giờ에서 영화 '롱삭 숲의 특수부대' 촬영이 공식적으로 시작됩니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/chinh-thuc-khai-may-phim-dien-anh-dac-cong-rung-sac-tai-can-gio"
+        },
+        {
+          "title": "'룽삭 숲 특수부대' 촬영 시작",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/phim-dac-cong-rung-sac-khai-may"
+        }
+      ]
+    },
+    {
+      "title": "삼성역",
+      "approx_traffic": "500+",
+      "published": "Mon, 26 Oct 2026 17:00:00 -0700",
+      "news": []
+    },
+    {
       "title": "브루어스 대 레이스",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Mon, 26 Oct 2026 16:30:00 -0700",
       "news": [
         {
@@ -31,9 +103,9 @@
       "published": "Mon, 26 Oct 2026 16:20:00 -0700",
       "news": [
         {
-          "title": "'이럴 수가!' 안세영 1위가 아니다 '2위 랭크' 50연승에 승률 98.5%인데...日 야마구치에 밀린 이유",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015393"
+          "title": "배드민턴 세계 최강 안세영 50연승 대기록 시즌 10번째 우승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694595"
         },
         {
           "title": "올해 딱 한 번 지고 66번 이겼다",
@@ -49,7 +121,7 @@
     },
     {
       "title": "군의관",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 26 Oct 2026 16:10:00 -0700",
       "news": [
         {
@@ -80,9 +152,9 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/GZSDGMJVGBSDSNDEG4ZTSN3EHA/"
         },
         {
-          "title": "'이지훈♥' 아야네, 둘째 출산 앞두고 만삭 화보 공개",
+          "title": "'이지훈♥' 아야네, 만삭에 낙상 사고…\"아이 지키려다\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261025_0003840239"
+          "url": "https://www.newsis.com/view/NISX20261027_0003842404"
         },
         {
           "title": "'이지훈♥' 아야네, 만삭에 계단 '낙상사고' 어쩌나..\"무사해' 안도",
@@ -115,7 +187,7 @@
     },
     {
       "title": "월즈 2026",
-      "approx_traffic": "500+",
+      "approx_traffic": "200+",
       "published": "Mon, 26 Oct 2026 16:10:00 -0700",
       "news": [
         {
@@ -124,102 +196,14 @@
           "url": "https://www.khan.co.kr/article/202610252053045"
         },
         {
-          "title": "롯데백화점, 롤 팝업스토어 연다…'페이커' 기념우표도 판매",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261025113104"
-        },
-        {
           "title": "[라이엇 스토어] Riot Games Music & Worlds 26 Popup Store에서 라이엇 스토어를 만나보세요!",
           "source": "League of Legends",
           "url": "https://www.leagueoflegends.com/ko-kr/news/merch/riot-games-music-worlds-2026-popup-store/"
-        }
-      ]
-    },
-    {
-      "title": "더존비즈온",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 16:00:00 -0700",
-      "news": [
-        {
-          "title": "과기정통부 “더존비즈온 2차례 침해사고, 민관합동조사단 조사 착수”",
-          "source": "보안뉴스",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146738"
         },
         {
-          "title": "토종 1위 ERP 더존비즈온 해킹…\"고객사 민감정보 유출 가능성\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/it-science/security-hacking/6331870"
-        },
-        {
-          "title": "더존비즈온, 침해사고 후속 조치 공개…\"160억원 보안 투자 진행\"",
+          "title": "롯데백화점, 롤 팝업스토어 연다…'페이커' 기념우표도 판매",
           "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261026155850"
-        }
-      ]
-    },
-    {
-      "title": "지게차",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 15:50:00 -0700",
-      "news": [
-        {
-          "title": "[르포]\"시신 운구차에 남편 장화가…\" 지게차 참변에 유족들 울분",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6596866"
-        },
-        {
-          "title": "제주 축사서 숨진 40대도 지게차 무면허…경찰, 업체 과실 수사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026124200056"
-        },
-        {
-          "title": "제주 구좌읍 지게차 사고 무면허 묵인 의혹",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845394"
-        }
-      ]
-    },
-    {
-      "title": "psg vs olympique lyon standings",
-      "approx_traffic": "100+",
-      "published": "Mon, 26 Oct 2026 15:50:00 -0700",
-      "news": [
-        {
-          "title": "Paris Saint-Germain vs Olympique Lyonnais: French Ligue 1 stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/ckpqg5048n7qt"
-        },
-        {
-          "title": "How to watch PSG vs. Lyon online for free",
-          "source": "Mashable",
-          "url": "https://mashable.com/entertainment/psg-lyon-ligue-1-2026-live-stream-for-free"
-        },
-        {
-          "title": "Why is Ousmane Dembele Not Playing Today For PSG vs. Lyon?",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/why-ousmane-dembele-not-playing-191728030.html"
-        }
-      ]
-    },
-    {
-      "title": "병역 기피",
-      "approx_traffic": "500+",
-      "published": "Mon, 26 Oct 2026 15:40:00 -0700",
-      "news": [
-        {
-          "title": "유승준 비자발급 취소 소송 또 대법원 판단...LA 총영사 상고",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610262315217323"
-        },
-        {
-          "title": "'병역기피' 유승준 세번째 비자 소송 대법으로…LA총영사측 상고",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026161500004"
-        },
-        {
-          "title": "유승준 세 번째 비자소송도 대법 간다…주LA총영사관 상고",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003841399"
+          "url": "https://zdnet.co.kr/view/?no=20261025113104"
         }
       ]
     }
