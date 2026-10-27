@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T16:26:13+00:00",
+  "fetched_at": "2026-10-27T17:25:06+00:00",
   "items": [
+    {
+      "title": "크랙",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 08:40:00 -0700",
+      "news": [
+        {
+          "title": "“330만 원짜리가 이 모양?”…돈값 못하는 아이폰 듀오 굴욕 [이코노픽]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695320"
+        },
+        {
+          "title": "\"금 간 아이폰 듀오 무상 교체\"…애플, 이례적 결함 인정",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817875"
+        },
+        {
+          "title": "“접었더니 화면 쩍” 아이폰 듀오 파손 확산에···‘결함’ 인정한 애플, 무상교체 밝혔지만 재고 부족",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610271351001"
+        }
+      ]
+    },
+    {
+      "title": "pba 팀리그",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 08:30:00 -0700",
+      "news": [
+        {
+          "title": "PBA 팀리그 ‘전통강호’ 웰컴저축은행, T.응우옌 강유진 ‘추가 선발’",
+          "source": "mkbn.mk.co.kr",
+          "url": "https://mkbn.mk.co.kr/news/sports/12187610"
+        },
+        {
+          "title": "PBA 팀리그 웰컴저축은행, T.응우옌·강유진 추가 영입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027150800007"
+        },
+        {
+          "title": "PBA 팀리그 웰컴저축은행, T.응우옌-강유진 '추가 선발'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/general-sport/6333294"
+        }
+      ]
+    },
     {
       "title": "승리 결혼",
       "approx_traffic": "1000+",
@@ -14,14 +58,14 @@
           "url": "https://www.mt.co.kr/society/2026/10/27/2026102722402430531"
         },
         {
+          "title": "前 빅뱅 승리, 20대女 혼전 임신 [스타이슈]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/10/27/2026102723053592129"
+        },
+        {
           "title": "승리, 내년 1월 아빠되나? 20대 여친과 결혼 준비설",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/news/hot-issues/12187746"
-        },
-        {
-          "title": "'연예계 퇴출' 승리, 아빠 되나…특수폭행혐의 피소 중 알려져",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102790747"
         }
       ]
     },
@@ -31,11 +75,6 @@
       "published": "Tue, 27 Oct 2026 07:40:00 -0700",
       "news": [
         {
-          "title": "카라바오컵 본머스 대 아스톤 빌라 축구 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-bournemouth-vs-aston-villa-tai-carabao-cup-1790133.ldo"
-        },
-        {
           "title": "카라바오컵 플리트우드 타운 대 아스날 경기 예측",
           "source": "Laodong.vn",
           "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-fleetwood-town-vs-arsenal-tai-carabao-cup-1789887.ldo"
@@ -44,6 +83,11 @@
           "title": "플리트우드 타운 vs 아스널 예측: 승리 시 다음 라운드 진출",
           "source": "Vietnam.vn",
           "url": "https://www.vietnam.vn/ko/nhan-dinh-fleetwood-town-vs-arsenal-thang-de-di-tiep"
+        },
+        {
+          "title": "경기 프리뷰: 플리트우드 타운 vs 아스널, 10월 28일 오전 3시: 아스널이 쉽게 무너지지 않을 것으로 예상됩니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-fleetwood-town-vs-arsenal-3h00-ngay-28-10-ve-kho-thoat-khoi-tay-phao"
         }
       ]
     },
@@ -71,45 +115,29 @@
     },
     {
       "title": "엄태웅",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Tue, 27 Oct 2026 07:30:00 -0700",
-      "news": [
-        {
-          "title": "윤혜진, 딸 엄지온 선화예중 합격 당시 회상 \"길거리서 울어\"",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610240746156508"
-        },
-        {
-          "title": "엄태웅, ♥윤혜진·'178cm 성악 천재' 딸 향한 애정..감각적인 가족 사진",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-25/202610250100155880010184"
-        },
-        {
-          "title": "‘엄태웅♥’ 윤혜진, “비명에 오열”…딸 예고 합격 당시 회상→딸 지온도 울었다 [RE:뷰]",
-          "source": "TV리포트",
-          "url": "https://tvreport.co.kr/entertainment/article/1085829/"
-        }
-      ]
+      "news": []
     },
     {
       "title": "전쟁",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Tue, 27 Oct 2026 07:20:00 -0700",
       "news": [
         {
-          "title": "\"그런 미군 믿을 수 있느냐\" 강신철 발언에 국방부 \"전체 맥락 봐야\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6861010_36911.html"
+          "title": "국방장관 ‘미군 믿을수 있냐’ 발언에…국방부 “신뢰강조 취지”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626706"
+        },
+        {
+          "title": "국방부 일일 정례 브리핑",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156786626"
         },
         {
           "title": "[사설]“美 믿을 수 있나” “전작권 독자 환수”… 동맹 관리부터 섬세하게",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Opinion/article/all/20261027/134920991/2"
-        },
-        {
-          "title": "한동훈·유승민 “국방장관, 대한민국 위험하게 만들어” 직격",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261027580124"
         }
       ]
     },
@@ -163,58 +191,14 @@
           "url": "https://www.mk.co.kr/news/hot-issues/12186914"
         },
         {
-          "title": "취객난동 그 후..송가인, 다시 평온한 일상 찾았다 '먹방'까지 쏘쿨!",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/27/GI4WMZRWGFRDCOBWMI3TQYRSGQ/"
-        },
-        {
           "title": "송가인, 공연 중 취객 난동에 \"아버님, 묶어불기 전에 가만히\"",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/202610278107H"
-        }
-      ]
-    },
-    {
-      "title": "앤 트로픽",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 06:40:00 -0700",
-      "news": [
-        {
-          "title": "'몸값 2조 달러' 앤트로픽‥시장에서 통할까",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861146_37004.html"
         },
         {
-          "title": "'2조 달러' 앤트로픽 상장...92쪽짜리 '경고장'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610280055219913"
-        },
-        {
-          "title": "[유미's 픽] 'AI 재앙' 경고한 앤트로픽, 삼성·SK HBM 의존 안고 상장 도전",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261027113417"
-        }
-      ]
-    },
-    {
-      "title": "잠실",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 06:10:00 -0700",
-      "news": [
-        {
-          "title": "경찰에 침 뱉은 ‘잠실 개표소’ 여성 징역 10개월…\"공권력 무시\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325032"
-        },
-        {
-          "title": "경찰관에 침 뱉은 ‘올공 시위’ 여성에 징역 10개월 선고···“준법 의식 미약, 재범 우려”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610271507001"
-        },
-        {
-          "title": "잠실 올림픽공원 시위서 경찰에 침 뱉은 40대 여성 1심서 징역 10개월 선고",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861094_36918.html"
+          "title": "송가인, 축제무대 중 취객 난동에 경고 “가만히 있어!”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610271413003"
         }
       ]
     }
