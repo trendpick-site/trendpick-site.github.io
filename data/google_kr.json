@@ -1,215 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T09:45:00+00:00",
+  "fetched_at": "2026-10-27T10:43:20+00:00",
   "items": [
     {
-      "title": "한국경제",
+      "title": "서울 sk 대 부산 kcc",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "전희철 SK 감독 “KCC는 공격 고점 높은 팀…해법은 리바운드와 속도”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610271902013"
+        },
+        {
+          "title": "프로농구 오늘(27일) 경기 일정…서울 SK VS 부산 KCC, 중계 채널→현재 순위?",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16258820"
+        },
+        {
+          "title": "‘충격 5연패’ KCC, 허훈은 ‘커리어 하이’ 기세→허웅이 살아야 팀이 산다 [SS시선집중]",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1643930"
+        }
+      ]
+    },
+    {
+      "title": "야구중계",
       "approx_traffic": "2000+",
-      "published": "Tue, 27 Oct 2026 01:40:00 -0700",
+      "published": "Tue, 27 Oct 2026 02:40:00 -0700",
       "news": [
         {
-          "title": "박현주 \"삼전닉스 없으면 엔비디아도 스톱\"…'반도체 고점론' 직격",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610278372i"
-        },
-        {
-          "title": "미래에셋, 이번주 日증권사 인수 발표",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1182205"
-        },
-        {
-          "title": "박현주 미래에셋회장, 일본 증권회사 M&A 예고…29일 발표(종합)",
+          "title": "이범호 KIA 감독 \"최형우 선발 출전 예상…우리는 나쁘지 않아\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027154951008?section=economy/finance"
-        }
-      ]
-    },
-    {
-      "title": "중위소득",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 01:40:00 -0700",
-      "news": [
-        {
-          "title": "경실련 \"불투명한 중위소득 산정에 복지 사각…현실 반영해야\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027124000004"
+          "url": "https://www.yna.co.kr/view/AKR20261027166100007"
         },
         {
-          "title": "[2026 국감] 정은경 복지부 장관 \"기준 중위소득 산정 개선방안 검토\"",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102715001579865"
-        },
-        {
-          "title": "“기준 중위소득 낮춰 3.8만가구 생계급여 탈락”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626597"
-        }
-      ]
-    },
-    {
-      "title": "원태인",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 01:40:00 -0700",
-      "news": [
-        {
-          "title": "삼성 임시 마무리 원태인 \"오승환 선배께 조언 구하려 했다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027156500007"
-        },
-        {
-          "title": "‘PS 앞두고 부상이라니’ 228세이브 베테랑도 낙심한 충격 부상 “야구 인생 이런 적은 처음, KS 등판은…”",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898359"
-        },
-        {
-          "title": "삼성 배수진 원태인 마무리 기용, 전날 예상한 이범호 감독 \"올라오는 일 없어야 한다\" [PO2] - 머니투데이",
+          "title": "[포토] 하주석, 기분 째지는 선제 득점 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/27/202610271710770587O"
+          "url": "https://www.mt.co.kr/sports/2026/10/27/2026102719225188558"
+        },
+        {
+          "title": "중심 타선이 승부 갈랐다...2차전 후라도 vs 올러 맞대결",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610271711462487"
         }
       ]
     },
     {
-      "title": "암",
-      "approx_traffic": "5000+",
-      "published": "Tue, 27 Oct 2026 01:30:00 -0700",
-      "news": [
-        {
-          "title": "세종시장, 국회 찾아 양성자 암치료센터 등 국비 지원 요청",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027056100063"
-        },
-        {
-          "title": "양성자 암치료센터·AI정부… 조상호 국회 찾아 예산 확보전",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003843080"
-        },
-        {
-          "title": "세종시, 지자체 디지털 수준진단 전국 광역시 상위 3위권",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261026000087"
-        }
-      ]
-    },
-    {
-      "title": "응급실",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 01:20:00 -0700",
-      "news": [
-        {
-          "title": "영천시의회, 임시회 폐회…조례안 등 20건 의결",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261026_0003841504"
-        },
-        {
-          "title": "영천시의회 윤영한 의원, 드론 통합관제·농업용 드론 임대 촉구",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3732791"
-        },
-        {
-          "title": "영천시의회 제255회 임시회 폐회… 행정사무감사 계획서 채택",
-          "source": "중도일보",
-          "url": "https://m.joongdo.co.kr/view.php?key=20261026010007495"
-        }
-      ]
-    },
-    {
-      "title": "정년",
-      "approx_traffic": "2000+",
-      "published": "Tue, 27 Oct 2026 01:10:00 -0700",
-      "news": [
-        {
-          "title": "공무원연금 수령 시기 60세→65세 상향…헌재, 4대4로 ‘합헌’ 결정",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610271508021"
-        },
-        {
-          "title": "[결정] 공무원 60세 정년퇴직해도 연금은 62~65세부터… 헌재 “합헌”",
-          "source": "법률신문",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228307"
-        },
-        {
-          "title": "헌재 \"공무원 퇴직연금 수령 나이 65세 상향은 합헌\"‥4대 4 의견 갈려",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6860987_36918.html"
-        }
-      ]
-    },
-    {
-      "title": "pakistan vs sri lanka",
+      "title": "야구 중계",
       "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 01:00:00 -0700",
+      "published": "Tue, 27 Oct 2026 02:40:00 -0700",
       "news": [
         {
-          "title": "Win-from-anywhere Pakistan face 430-conquerors Sri Lanka at high-scoring Lahore",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-sri-lanka-5th-match-1550717/match-preview"
+          "title": "선발 변화로 승부수...최형우·김호령 선발 출전",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610271802453559"
         },
         {
-          "title": "Pakistan vs. Sri Lanka free live stream: How to watch Pakistan ODI tri-series clash in India",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/pakistan-vs-sri-lanka-free-200001789.html"
-        },
-        {
-          "title": "Sri Lanka wins toss, elects to field in cricket tri-series ODI against Pakistan",
-          "source": "KVUE",
-          "url": "https://www.kvue.com/article/syndication/associatedpress/sri-lanka-wins-toss-elects-to-field-in-cricket-tri-series-odi-against-pakistan/616-5e645ec3-391b-4af7-b44c-d9a065559c49"
-        }
-      ]
-    },
-    {
-      "title": "고려대",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 00:50:00 -0700",
-      "news": [
-        {
-          "title": "Korea University President Resigns to Run for President",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/national-en/2026/10/27/TIQWKDJPL5AWRKOOGP4BGDRYPM/"
-        }
-      ]
-    },
-    {
-      "title": "전주사랑상품권",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 00:50:00 -0700",
-      "news": [
-        {
-          "title": "전주사랑상품권 충전, 내달부터 새벽→오후 3시로 변경",
+          "title": "박진만 삼성 감독 \"공격력 극대화 위해 경험 많은 최형우 출장\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027047600055"
+          "url": "https://www.yna.co.kr/view/AKR20261027156100007"
         },
         {
-          "title": "전주돼지카드 11월부터 충전시간 0시15분→오후 3시 변경",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003842579"
-        },
-        {
-          "title": "전주사랑상품권 온라인 충전 오후 3시로 변경…시민 불편 해소",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734376"
+          "title": "승리팀, KS 진출 확률 77.1%…이 시각 플레이오프 1차전",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695569"
         }
       ]
     },
     {
-      "title": "정종철",
-      "approx_traffic": "5000+",
-      "published": "Tue, 27 Oct 2026 00:40:00 -0700",
+      "title": "김지찬",
+      "approx_traffic": "2000+",
+      "published": "Tue, 27 Oct 2026 02:30:00 -0700",
       "news": [
         {
-          "title": "\"강남 작은 집이라도 가자\"…정종철, 일산 70평 아파트 던진 사연",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610277941H"
+          "title": "[엠빅뉴스] [PO1차전] 네일이 퇴장이라고? 어깨 몇 번 풀더니 불 꺼버린 소방수 정해영!!",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/original/mbig/6861035_29041.html"
         },
         {
-          "title": "'45억 건물주' 정종철, 일산 아파트 판 사연…\"아내가 이혼한다고\"",
+          "title": "열띤 응원전",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003842746"
+          "url": "https://mobile.newsis.com/photo/NISI20261027_0021507013"
         },
         {
-          "title": "정종철, 일산 70평 팔고 '강남 45억 건물주'된 전말…\"마누라가 이혼한다고\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-27/202610270100169050011153"
+          "title": "[영상] 천재성을 또 보여준 김도영…천재가 혼난 이유는?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8696362"
+        }
+      ]
+    },
+    {
+      "title": "오승환",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 02:30:00 -0700",
+      "news": [
+        {
+          "title": "'돌부처'에서 '아들 바보'로…아들 안고 인터뷰 한 오승환",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027179100007"
+        },
+        {
+          "title": "'PO 2차전' 꼭 이겨줘",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8182344"
+        },
+        {
+          "title": "“시구 말고 9회에 올라와야 하는 거 아냐?” 끝판대장 돌아오자 팬들 술렁…후배들 위해 지갑까지 열었다 [PO2] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/27/202610271910771655O"
+        }
+      ]
+    },
+    {
+      "title": "리그 오브 레전드 월드 챔피언십",
+      "approx_traffic": "2000+",
+      "published": "Tue, 27 Oct 2026 02:20:00 -0700",
+      "news": [
+        {
+          "title": "페이커 뛰어넘은 새 ‘어시스트 킹’ 탄생··· ‘케리아’ 류민석, 1022개로 롤드컵 통산 최다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610271216001"
+        },
+        {
+          "title": "DK 신인 '커리어'의 무서운 성장",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2640746"
+        },
+        {
+          "title": "[롤드컵] T1, 4연패 향한 8강 눈앞…한화생명은 G2와 벼랑 끝 승부",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/27/MU3DAYZRGY4WENJVHFRTCNBZMI/"
+        }
+      ]
+    },
+    {
+      "title": "그랜드 테프트 오토 v",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 02:20:00 -0700",
+      "news": [
+        {
+          "title": "GTA 6 Will Feature Lots Of Small Details Like Red Dead’s Dynamic Horse Testicle Physics",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gta-6-will-feature-lots-of-small-details-like-red-deads-dynamic-horse-testicle-physics/"
+        },
+        {
+          "title": "'There's No One Person That Has This Whole Thing in Their Head' — GTA 6 Devs Had Freedom to Add Cool Features Just Like RDR2's Horse Balls",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/theres-no-one-person-that-has-this-whole-thing-in-their-head-gta-6-devs-had-freedom-to-add-cool-features-just-like-rdr2s-horse-balls"
+        },
+        {
+          "title": "GTA 6 Weapon System: Weapon Limits, Gunplay Changes, and Confirmed Weapons",
+          "source": "MMOEXP",
+          "url": "https://www.mmoexp.com/News/gta-6-weapon-system-weapon-limits-gunplay-changes-and-confirmed-weapons.html"
+        }
+      ]
+    },
+    {
+      "title": "연차",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "\"5인미만 사업장 부당해고 구제 제외는 위헌\" 헌법소원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027064900004"
+        },
+        {
+          "title": "\"5인 미만 사업장 노동자도 근로기준법 보호해야\"…헌법소원",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003843208"
+        },
+        {
+          "title": "[단독] 5인 미만 사업장에 ‘연차’ 생기면…산업재해 905명 감소 추정",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1284265.html"
+        }
+      ]
+    },
+    {
+      "title": "대전 대 비셀 고베",
+      "approx_traffic": "2000+",
+      "published": "Tue, 27 Oct 2026 02:00:00 -0700",
+      "news": [
+        {
+          "title": "'일본 킬러' 황선홍 감독, 'K리그 킬러' 고베까지 잡을 수 있을까",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/10/26/G5RGINTDGBQWGZRSGU4GEMBRGQ/"
+        },
+        {
+          "title": "대전하나시티즌, 안방서 고베 상대 ACLE 무패 행진 도전",
+          "source": "디트NEWS24",
+          "url": "https://www.dtnews24.com/news/articleView.html?idxno=816446"
+        },
+        {
+          "title": "“더 간절한 팀이 이기는 게 축구” 日 고베 막아설 대전의 방패 안톤···“최근 극적인 승리들이 팀에 자신감 더해줘” [MK대전]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12186863"
+        }
+      ]
+    },
+    {
+      "title": "의성군",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 02:00:00 -0700",
+      "news": [
+        {
+          "title": "의성군, `2026 의성 지오하이킹` 성황리에 마무리",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026102713300940585"
+        },
+        {
+          "title": "의성군, '2026 지오하이킹' 성료…비 속 특별한 트레킹 경험",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734472"
+        },
+        {
+          "title": "의성의 지질과 가을을 걷다!",
+          "source": "데일리대구경북뉴스",
+          "url": "https://www.dailydgnews.com/news/article.html?no=267176"
         }
       ]
     }
