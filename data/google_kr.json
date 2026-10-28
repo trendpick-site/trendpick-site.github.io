@@ -1,210 +1,193 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T02:50:42+00:00",
+  "fetched_at": "2026-10-28T03:48:46+00:00",
   "items": [
     {
-      "title": "팔란티어 테크놀로지",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 18:10:00 -0700",
+      "title": "음바페 마오쩌둥",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 19:40:00 -0700",
       "news": [
         {
-          "title": "엔비디아·팔란티어 다음으로 오를 AI 주식 10개",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/money/2026/10/28/PTFCVPTUWBELDBEHX5M44XX5VI/"
+          "title": "中서 음바페 '마오쩌둥 희화화' 논란…광고·중계 중단에 '사과'(종합2보)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027169552083"
         },
+        {
+          "title": "中 잇단 손절에 결국…음바페 \"모독 의도 없었다\" 사과",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04303366645617512"
+        },
+        {
+          "title": "[이 시각 세계] 음바페 '마오쩌둥 희화화' 논란‥중국 '발칵'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6861231_37012.html"
+        }
+      ]
+    },
+    {
+      "title": "골프 존 홀딩스",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 19:30:00 -0700",
+      "news": []
+    },
+    {
+      "title": "은마아파트",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 19:20:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 은마아파트 피한 GTX-C…이번엔 옆 단지 주민 “날벼락” 반발",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12187459"
+        },
+        {
+          "title": "GTX-C 실착공 ‘순항’…국토부, 토지보상 착수",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/article/2026102616115615731"
+        },
+        {
+          "title": "양주 덕정역 1,7호선에 GTX-C ‘트리플 역세권’… 계약 축하금 1000만 원",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261022/134884899/2"
+        }
+      ]
+    },
+    {
+      "title": "순위",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 19:10:00 -0700",
+      "news": [
+        {
+          "title": "IBK, 여자배구 신인 드래프트 1순위로 재미교포 오드리 박 지명",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6861294_36946.html"
+        },
+        {
+          "title": "2026~2027 KOVO 여자부 신인선수 드래프트 1라운드 지명 선수들",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261028_0021508022"
+        },
+        {
+          "title": "V-리그 ‘최대어’ 윤경에 꽂힌 男 7개팀",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626547"
+        }
+      ]
+    },
+    {
+      "title": "월드시리즈",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 19:10:00 -0700",
+      "news": [
+        {
+          "title": "밀워키, 창단 첫 우승까지 1승 남았다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261028/134920886/2"
+        },
+        {
+          "title": "3-0 WS, 사실상 끝? TB에 남은 건 기적 뿐…그러나 '리버스 스윕' 역사 없었던 건 아니라는데",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/27/MJQTKNDGMRQTAYJSMVRGENRQGE/"
+        },
+        {
+          "title": "[스포츠 영상] 밀워키, 탬파베이에 대승‥첫 월드시리즈 우승까지 '1승'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861171_37004.html"
+        }
+      ]
+    },
+    {
+      "title": "국민비서",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 19:10:00 -0700",
+      "news": [
+        {
+          "title": "더 다양해진 국민비서 서비스를 만나보세요! - 카드/한컷 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974282"
+        },
+        {
+          "title": "행정안전부, 더 다양해진 국민비서 서비스를 만나보세요!",
+          "source": "케이에스피뉴스",
+          "url": "https://www.kspnews.com/2858014"
+        },
+        {
+          "title": "행정안전부, 더 다양해진 국민비서 서비스를 만나보세요!",
+          "source": "정필",
+          "url": "https://www.jeongpil.com/2728254"
+        }
+      ]
+    },
+    {
+      "title": "어머니",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 19:00:00 -0700",
+      "news": []
+    },
+    {
+      "title": "돈",
+      "approx_traffic": "2000+",
+      "published": "Tue, 27 Oct 2026 18:50:00 -0700",
+      "news": [
+        {
+          "title": "전현무 \"돈이 많으니 돈으로 기선 제압\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003844180"
+        },
+        {
+          "title": "“돈이면 다 해결” ‘건물주’ 정승제, 역대급 합숙소 공개 (재수전쟁)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610280922003"
+        },
+        {
+          "title": "티처스3 재수전쟁, 정승제 건물 내준 합숙 미션…15인 중 6명 추가 탈락 예고",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16260154"
+        }
+      ]
+    },
+    {
+      "title": "하이닉스 배당",
+      "approx_traffic": "5000+",
+      "published": "Tue, 27 Oct 2026 18:40:00 -0700",
+      "news": [
+        {
+          "title": "SK하이닉스, 2026년 3분기 경영실적 발표",
+          "source": "SK hynix",
+          "url": "https://news.skhynix.co.kr/q3-2026-business-results/"
+        },
+        {
+          "title": "[컨콜 종합] SK하이닉스, 반도체 고점론에 성장 자신감…HBM4·장기계약 승부 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2144713"
+        },
+        {
+          "title": "SK하이닉스 3분기 영업이익 83조 3천억…분기매출 100조 돌파",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697198"
+        }
+      ]
+    },
+    {
+      "title": "팔란티어 테크놀로지",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 18:10:00 -0700",
+      "news": [
         {
           "title": "'1등株 + 공급망' 쓸어담은 ETF 전성시대",
           "source": "매일경제 마켓",
           "url": "https://stock.mk.co.kr/news/view/1182201"
         },
         {
+          "title": "엔비디아·팔란티어 다음으로 오를 AI 주식 10개",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/money/2026/10/28/PTFCVPTUWBELDBEHX5M44XX5VI/"
+        },
+        {
           "title": "삼성액티브운용, '코리아TOP5플러스채권혼합50액티브' ETF 상장",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261027043300008"
-        }
-      ]
-    },
-    {
-      "title": "디에이치 반포124",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 17:30:00 -0700",
-      "news": [
-        {
-          "title": "11월 전국 아파트 5.6만가구...지난해 比 89.1% 급증",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610281004255756"
-        },
-        {
-          "title": "'디에이치 반포124'부터 지방 대단지까지···11월 아파트 5만6천가구 공급",
-          "source": "스마트비즈",
-          "url": "https://www.smartbizn.com/news/articleView.html?idxno=157729"
-        }
-      ]
-    },
-    {
-      "title": "골든 조이스틱 어워드",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 17:10:00 -0700",
-      "news": [
-        {
-          "title": "[공지사항] 붉은사막을 Golden Joystick Awards 2026의 Ultimate Game of the Year로 투표해 주세요! | 붉은사막",
-          "source": "펄어비스 공식 홈페이지",
-          "url": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice/Detail?_boardNo=139"
-        },
-        {
-          "title": "펄어비스 ‘붉은사막’, 첫 DLC로 장기 흥행 시동",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261028091019"
-        },
-        {
-          "title": "펄어비스 '붉은사막', 골든 조이스틱 어워드 최고상 후보에",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027050800017"
-        }
-      ]
-    },
-    {
-      "title": "그랜드 테프트 오토 vi",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 17:00:00 -0700",
-      "news": [
-        {
-          "title": "“게임 하나 때문에 150만명 결근?”…1조원 손실 전망까지 나온 美, 무슨 일",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20106659"
-        },
-        {
-          "title": "GTA6 - 게임 캘린더",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/calendar/game/11934"
-        },
-        {
-          "title": "[기획] 성기 노출에도 국내 유통 허가 ‘GTA 6’…청불등급 이유는",
-          "source": "서울경제TV",
-          "url": "https://www.sentv.co.kr/article/view/sentv202610260199"
-        }
-      ]
-    },
-    {
-      "title": "sk하이닉스 ir",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 17:00:00 -0700",
-      "news": [
-        {
-          "title": "블룸버그 \"솔리다임, 미국에 60조원 낸드공장 추진\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028011300009"
-        },
-        {
-          "title": "곽노정 SK하이닉스 사장 “솔리다임 IPO 중단…성장 투자는 지속” By 인포스탁데일리",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2144645"
-        },
-        {
-          "title": "\"미국 공장 지을 테니 중국 공장 규제 풀어라\"...솔리다임의 '빅딜'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610280917074364"
-        }
-      ]
-    },
-    {
-      "title": "대신증권",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 16:50:00 -0700",
-      "news": [
-        {
-          "title": "증권사도 뚫렸다…대신증권 “해킹에 고객정보 3만건 유출, 2차 피해 없어”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610280902001"
-        },
-        {
-          "title": "빗썸, 사내 모바일 시스템 침해로 개인정보 유출…\"분석 중\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028043951002"
-        },
-        {
-          "title": "대신증권, 해킹 사고 발생…금융권 해킹 증권업계로 확산(상보)",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441503"
-        }
-      ]
-    },
-    {
-      "title": "도박",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 16:50:00 -0700",
-      "news": [
-        {
-          "title": "4900억 불법도박사이트 운영진 단합대회 사진",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626691"
-        },
-        {
-          "title": "워크숍에 해외 여행도 지원...기업처럼 운영한 4900억 도박사이트 조직 적발",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/regional/2026/10/27/LIENDL3NNFCFVH6UGRSDJ3AJFI/"
-        },
-        {
-          "title": "서울 강남 고급 아파트에는 ‘20대 조폭’이 산다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261027/134915279/1"
-        }
-      ]
-    },
-    {
-      "title": "아주대 소아 응급실",
-      "approx_traffic": "5000+",
-      "published": "Tue, 27 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "\"손 떨려서 진료 못 해\"...압색 받은 소아응급 교수 7명 사직 결정",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325204"
-        },
-        {
-          "title": "\"극심한 무력감·분노\"…경찰 '압수수색 사과 거부'에 아주대병원 소아응급센터 교수 7명 사직",
-          "source": "MEDI:GATE NEWS",
-          "url": "https://www.medigatenews.com/news/666187207"
-        }
-      ]
-    },
-    {
-      "title": "국민연금",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "[목멱칼럼]기초연금, 그때는 맞고 지금은 틀리다",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01410406645616856&mediaCodeNo=257"
-        },
-        {
-          "title": "국민연금 100만원도 못 받는데 기초연금 깎였다...왜?",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12185610"
-        },
-        {
-          "title": "한번 늘어난 복지지출, 줄이기 힘든 이유",
-          "source": "생글생글",
-          "url": "https://sgsg.hankyung.com/article/202610265205m"
-        }
-      ]
-    },
-    {
-      "title": "어닝콜",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "오늘 하이닉스 실적 발표, 네이버 검색서 들어볼까…AI 요약도 한눈에",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003843584"
-        },
-        {
-          "title": "네이버, 상장사 85곳 어닝콜 생중계…AI로 실적 핵심까지 요약",
-          "source": "메트로신문",
-          "url": "https://www.metroseoul.co.kr/article/20261028500204"
         }
       ]
     }
