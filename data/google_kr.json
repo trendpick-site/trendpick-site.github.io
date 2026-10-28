@@ -1,22 +1,61 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T04:50:16+00:00",
+  "fetched_at": "2026-10-28T05:47:01+00:00",
   "items": [
     {
-      "title": "bangladesh vs west indies",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 20:40:00 -0700",
+      "title": "ott 서비스",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 21:20:00 -0700",
       "news": [
+        {
+          "title": "호텔서 OTT 이어 뉴스까지…엑세스·연합뉴스 손잡았다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026148200017"
+        },
+        {
+          "title": "엑세스 콘텐츠큐브 계약…호텔 6만 객실 뉴스 공급 : 영화",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1051971"
+        }
+      ]
+    },
+    {
+      "title": "하사",
+      "approx_traffic": "2000+",
+      "published": "Tue, 27 Oct 2026 20:50:00 -0700",
+      "news": [
+        {
+          "title": "병장이 150만원 받는데 하사 213만원…“누가 부사관 하겠습니까?”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/politics/12188198"
+        },
+        {
+          "title": "민홍철 의원, 하사 4년 새 1만5700명 감소…초급간부 처우 개선 촉구",
+          "source": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799934"
+        },
+        {
+          "title": "군 하사 운영 병력 4년새 36.5% 감소…부사관 충원률도 하락",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6333904"
+        }
+      ]
+    },
+    {
+      "title": "ban vs wi",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 20:50:00 -0700",
+      "news": [
+        {
+          "title": "Bangladesh wins the toss and bats against West Indies in the first cricket test",
+          "source": "iNFOnews.ca",
+          "url": "https://infonews.ca/news/7965212/bangladesh-wins-the-toss-and-bats-against-west-indies-in-the-first-cricket-test/"
+        },
         {
           "title": "Mushfiqur out with 'contusion injury', expected to be fit for second Test against West Indies",
           "source": "Cricinfo",
           "url": "https://www.cricinfo.com/story/ban-vs-wi-1st-test-mushfiqur-rahim-out-with-contusion-injury-expected-to-be-fit-for-second-test-1560370"
-        },
-        {
-          "title": "Bangladesh wins the toss and bats against West Indies in the first cricket test",
-          "source": "KVUE",
-          "url": "https://www.kvue.com/article/syndication/associatedpress/bangladesh-wins-the-toss-and-bats-against-west-indies-in-the-first-cricket-test/616-5ca3ec95-1695-46fd-bae6-1e86e40c3ecd"
         },
         {
           "title": "What to watch on TV today (28 Oct, 2026)",
@@ -26,58 +65,58 @@
       ]
     },
     {
-      "title": "부사관",
+      "title": "lakers vs trail blazers",
       "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 20:40:00 -0700",
+      "published": "Tue, 27 Oct 2026 20:50:00 -0700",
       "news": [
         {
-          "title": "병장이 150만원 받는데 하사 213만원…“누가 부사관 하겠습니까?”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12188198"
+          "title": "NBA Best Bets for Lakers vs Trail Blazers on Tuesday, October 27",
+          "source": "Action Network",
+          "url": "https://www.actionnetwork.com/nba/nba-predictions-picks-8-best-bets-for-tuesday-october-27"
         },
         {
-          "title": "군 하사 운영 병력 4년새 36.5% 감소…부사관 충원률도 하락",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/busan-gyeongnam/6333904"
+          "title": "Scoot Henderson is Questionable Against Lakers",
+          "source": "Yahoo",
+          "url": "https://ca.sports.yahoo.com/news/scoot-henderson-questionable-against-lakers-002727084.html"
         },
         {
-          "title": "하사 운영 병력 4년 새 36.5% 감소, 초급 부사관 확보 비상",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20261027171532049"
+          "title": "Trail Blazers vs. Lakers final predictions, odds and best bets: Unbeaten Portland meets Luka Doncic in Los Angeles",
+          "source": "OregonLive.com",
+          "url": "https://www.oregonlive.com/betting/2026/10/trail-blazers-vs-lakers-final-predictions-odds-and-best-bets-unbeaten-portland-meets-luka-doncic-in-los-angeles.html"
         }
       ]
     },
     {
       "title": "학비",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Tue, 27 Oct 2026 20:30:00 -0700",
       "news": []
     },
     {
       "title": "옌스 카스트로프",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Tue, 27 Oct 2026 20:20:00 -0700",
       "news": [
+        {
+          "title": "‘모레노호 승선’ 가능할까…‘혼혈 국대’ 옌스, 끝내 복귀 불발→5개월 만의 태극마크 불투명",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202610280014"
+        },
+        {
+          "title": "‘어깨 부상 회복’ 카스트로프, 3개월 만에 교체 명단 복귀…11월 A매치 승선할까",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610281340003"
+        },
         {
           "title": "'韓 초대형 호재' 혼혈 국대 카스트로프 초스피드 복귀. 아시안컵 출전 가능...모레노 감독 바로 뽑을까",
           "source": "스포츠조선",
           "url": "https://www.sportschosun.com/football/2026-10-28/202610280100177270011740"
-        },
-        {
-          "title": "모레노호 부름 받나...'혼혈 국가대표' 카스트로프 어깨 부상 회복 완료! 컵대회 '교체 명단' 포함...내년 1월 '아시안컵 출전' 기대",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026102806240460484"
-        },
-        {
-          "title": "‘모레노의 구세주 될까’ 혼혈 태극전사 카스트로프, 부상 털고 소속팀 엔트리 합류! 빠른 실전투입 노린다",
-          "source": "풋볼리스트",
-          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216258"
         }
       ]
     },
     {
       "title": "카를로스 카라스코",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Tue, 27 Oct 2026 20:20:00 -0700",
       "news": [
         {
@@ -89,11 +128,6 @@
           "title": "'로베르토 클레멘테 상' 수상 소감 밝히는 린도어",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISI20261027_0002274521"
-        },
-        {
-          "title": "[MLB] WS에 등장한 LG 유니폼…카라스코의 '월클' 모먼트 화제",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261028000414"
         }
       ]
     },
@@ -121,7 +155,7 @@
     },
     {
       "title": "음바페 마오쩌둥",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Tue, 27 Oct 2026 19:40:00 -0700",
       "news": [
         {
@@ -130,9 +164,9 @@
           "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6861231_37012.html"
         },
         {
-          "title": "中서 음바페 ’마오쩌둥 희화화’ 논란…결국 사과",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261028125900dNz"
+          "title": "음바페 사과로 끝나지 않았다…중국, 레알 마드리드에도 \"사과하라\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/28/2026102813352773267"
         }
       ]
     },
@@ -147,58 +181,14 @@
           "url": "https://www.chosun.com/economy/market_trend/2026/10/28/BYX4VZTV7NCBPA2456J2BLEYBI/"
         },
         {
-          "title": "홈플러스에 이어 골프존까지 먹튀 논란 MBK...\"신규인수자와 충돌 우려\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/10/27/2026102716485388139"
+          "title": "더시에나그룹, 골프존카운티 인수…MBK와 SPA 체결",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/28/2026102880024.html"
         },
         {
-          "title": "골프존홀딩스 \"MBK 골프존카운티 매각추진 반대\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003844325"
-        }
-      ]
-    },
-    {
-      "title": "은마아파트",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 19:20:00 -0700",
-      "news": [
-        {
-          "title": "[단독] 은마아파트 피한 GTX-C…이번엔 옆 단지 주민 “날벼락” 반발",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12187459"
-        },
-        {
-          "title": "GTX-C 실착공 ‘순항’…국토부, 토지보상 착수",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/article/2026102616115615731"
-        },
-        {
-          "title": "양주 덕정역 1,7호선에 GTX-C ‘트리플 역세권’… 계약 축하금 1000만 원",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261022/134884899/2"
-        }
-      ]
-    },
-    {
-      "title": "순위",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 19:10:00 -0700",
-      "news": [
-        {
-          "title": "IBK, 여자배구 신인 드래프트 1순위 행운…교포 오드리 박 지명",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028081600007"
-        },
-        {
-          "title": "2라운드 2순위로 흥국생명에 지명된 한봄고 강민주",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261028_0021508250"
-        },
-        {
-          "title": "V-리그 ‘최대어’ 윤경에 꽂힌 男 7개팀",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626547"
+          "title": "골프존홀딩스 \"MBK의 골프존카운티 매각 추진 반대, 임대계약 시정·법적 대응 검토\"",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450515"
         }
       ]
     }
