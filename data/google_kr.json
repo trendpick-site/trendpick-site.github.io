@@ -1,11 +1,33 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T18:52:34+00:00",
+  "fetched_at": "2026-10-28T19:51:15+00:00",
   "items": [
     {
+      "title": "맨 시티 대 브라이턴",
+      "approx_traffic": "1000+",
+      "published": "Wed, 28 Oct 2026 11:40:00 -0700",
+      "news": [
+        {
+          "title": "City make nine changes for Brighton Carabao Cup clash",
+          "source": "Manchester City FC",
+          "url": "https://www.mancity.com/news/mens/city-v-brighton-carabao-cup-team-news-63928805"
+        },
+        {
+          "title": "Man City vs Brighton LIVE! Carabao Cup updates, news, prediction, line-ups and how to watch or stream",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/13604062/man-city-vs-brighton-live-carabao-cup-updates-news-prediction-line-ups-and-how-to-watch-or-stream"
+        },
+        {
+          "title": "Man City vs. Brighton: Preview, Predictions and Lineups",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/man-city-vs-brighton-preview-predictions-lineups-10-28-26"
+        }
+      ]
+    },
+    {
       "title": "sc 프라이부르크 대 볼프스부르크",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Wed, 28 Oct 2026 10:40:00 -0700",
       "news": [
         {
@@ -14,36 +36,14 @@
           "url": "https://www.bbc.com/sport/football/live/cq62ynwkdxryt"
         },
         {
-          "title": "Preview: Freiburg vs Wolfsburg - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/freiburg/dfb-pokal/preview/freiburg-vs-wolfsburg-prediction-team-news-lineups_607757.html"
-        },
-        {
           "title": "Fond memories",
           "source": "VfL Wolfsburg",
           "url": "https://www.vfl-wolfsburg.de/en/newsdetails/news-detail/detail/news/fond-memories"
-        }
-      ]
-    },
-    {
-      "title": "애플",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 10:20:00 -0700",
-      "news": [
-        {
-          "title": "Apple, M6를 탑재한 신규 MacBook Pro 14 공개",
-          "source": "Apple",
-          "url": "https://www.apple.com/kr/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
         },
         {
-          "title": "애플, 터치스크린 OLED 디스플레이 탑재 맥북 프로 공개",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2146525"
-        },
-        {
-          "title": "애플, M6칩 탑재로 AI성능 높인 신형 맥북프로·아이맥 공개",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028002500091"
+          "title": "Preview: Freiburg vs Wolfsburg - prediction, team news, lineups",
+          "source": "Sports Mole",
+          "url": "https://www.sportsmole.co.uk/football/freiburg/dfb-pokal/preview/freiburg-vs-wolfsburg-prediction-team-news-lineups_607757.html"
         }
       ]
     },
@@ -53,7 +53,7 @@
       "published": "Wed, 28 Oct 2026 10:20:00 -0700",
       "news": [
         {
-          "title": "Apple Unveils Its First Touch-Screen Laptop Computer",
+          "title": "Apple Unveils Its First Touch-Screen MacBook Pro",
           "source": "The New York Times",
           "url": "https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html"
         },
@@ -80,14 +80,14 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/10/28/G5TDEMRRHEZTGMDEGRSGKZJQGE/"
         },
         {
+          "title": "은지원, 재혼 후 180도 달라졌다…\"상상도 안 돼\" [소셜in]",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/M/Detail/522744"
+        },
+        {
           "title": "“은지원 상상 안 가” ♥9살 연하 코디 재혼 후 달라졌다 증언, 와이프와 캠핑 多(이승기2)",
           "source": "뉴스엔",
           "url": "https://m.newsen.com/news_view.php?uid=202610281257092110"
-        },
-        {
-          "title": "은지원, 집돌이 벗고 ♥9살 연하 아내와 캠핑...재혼 후 확 달라진 일상",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-28/202610280100176700011708"
         }
       ]
     },
@@ -97,11 +97,6 @@
       "published": "Wed, 28 Oct 2026 08:40:00 -0700",
       "news": [
         {
-          "title": "LG화학, LG엔솔 지분 2.5조 매각… 4000억은 주주환원",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261028/134928243/2"
-        },
-        {
           "title": "LG화학, LG엔솔 지분 2.5조 처분…자사주 3천억원 매입·소각",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261028159600003"
@@ -110,6 +105,11 @@
           "title": "LG화학, LG엔솔 지분 2.5조 PRS로 유동화…4천억은 주주환원",
           "source": "매일경제 마켓",
           "url": "https://stock.mk.co.kr/news/view/1183285"
+        },
+        {
+          "title": "[속보] LG화학, 3,000억 원 자사주 취득 신탁계약 체결...전량 소각 예정",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/global-filings/article-93CH-2144928"
         }
       ]
     },
@@ -125,19 +125,19 @@
       "published": "Wed, 28 Oct 2026 08:10:00 -0700",
       "news": [
         {
-          "title": "이 대통령 ‘외국인노동자 경제에 크게 도움 안 돼’ 발언 논란…전문가들 “맥락 고려해도 정당화 안돼”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610281550001"
+          "title": "李 \"외국인 노동자, 경제에 크게 도움 안 돼\"… 진보진영 \"사과하라\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/10/28/N3OFGB6CWNEWNBD7Y4MOKKWWEQ/"
+        },
+        {
+          "title": "이 대통령 '외국인 노동자·다문화' 발언 논란...진보진영 반발",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610282211528176"
         },
         {
           "title": "'일당 13만원' 불체자도 바글바글…\"외국인 없으면 다 멈출 판\"",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/2026102813991"
-        },
-        {
-          "title": "[이슈분석]月 500만원 준다는 '농촌 일자리'…1만명에 1500억, 효과는 미지수",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05703926645617512&mediaCodeNo=257"
         }
       ]
     },
@@ -152,14 +152,14 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8697648"
         },
         {
-          "title": "\"애플한테 1원도 안 받았다\"…잇섭, 아이폰 듀오 검증 악플에 '강력 대응' 경고",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003844671"
-        },
-        {
           "title": "‘듀오’ 결함 인정…흠집 난 애플",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202610272056005"
+        },
+        {
+          "title": "출시 사흘 만에 결함 인정…\"금 가는 아이폰 무상 교체\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818084"
         }
       ]
     },
