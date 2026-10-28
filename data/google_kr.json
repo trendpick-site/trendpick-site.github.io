@@ -1,8 +1,47 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T16:55:52+00:00",
+  "fetched_at": "2026-10-28T17:50:04+00:00",
   "items": [
+    {
+      "title": "김소연",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 09:20:00 -0700",
+      "news": [
+        {
+          "title": "46세 김소연, 결혼 9년 만에 다시 웨딩드레스 입었다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261028/134924991/1"
+        },
+        {
+          "title": "이상우 깜짝 놀라겠네…♥김소연 웨딩드레스 무슨 일? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/28/2026102816451026072"
+        }
+      ]
+    },
+    {
+      "title": "은지원",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 09:10:00 -0700",
+      "news": [
+        {
+          "title": "'집돌이' 은지원, 재혼 후 변했다..\"♥9살 연하 아내와 캠핑 즐겨\" 깜짝",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/28/G5TDEMRRHEZTGMDEGRSGKZJQGE/"
+        },
+        {
+          "title": "은지원, 재혼 후 180도 달라졌다…\"상상도 안 돼\" [소셜in]",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/M/Detail/522744"
+        },
+        {
+          "title": "“은지원 상상 안 가” ♥9살 연하 코디 재혼 후 달라졌다 증언, 와이프와 캠핑 多(이승기2)",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202610281257092110"
+        }
+      ]
+    },
     {
       "title": "lg에너지솔루션",
       "approx_traffic": "200+",
@@ -37,14 +76,14 @@
       "published": "Wed, 28 Oct 2026 08:10:00 -0700",
       "news": [
         {
-          "title": "李 \"외국인 노동자, 경제에 크게 도움 안 돼\"… 진보진영 \"사과하라\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/10/28/N3OFGB6CWNEWNBD7Y4MOKKWWEQ/"
+          "title": "이 대통령 ‘외국인노동자 경제에 크게 도움 안 돼’ 발언 논란…전문가들 “맥락 고려해도 정당화 안돼”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610281550001"
         },
         {
-          "title": "이 대통령 '외국인 노동자·다문화' 발언 논란...진보진영 반발",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202610290113370672"
+          "title": "[이슈분석]月 500만원 준다는 '농촌 일자리'…1만명에 1500억, 효과는 미지수",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05703926645617512&mediaCodeNo=257"
         },
         {
           "title": "'일당 13만원' 불체자도 바글바글…\"외국인 없으면 다 멈출 판\"",
@@ -59,14 +98,14 @@
       "published": "Wed, 28 Oct 2026 08:00:00 -0700",
       "news": [
         {
-          "title": "“혁신은 멈췄고 완성도는 깨졌다”…애플 ‘완벽주의’가 무너진다 [핫클립]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697648"
-        },
-        {
           "title": "애플의 ‘크랙 게이트’[횡설수설/김재영]",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Opinion/article/all/20261028/134928752/2"
+        },
+        {
+          "title": "\"애플한테 1원도 안 받았다\"…잇섭, 아이폰 듀오 검증 악플에 '강력 대응' 경고",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003844671"
         },
         {
           "title": "‘듀오’ 결함 인정…흠집 난 애플",
@@ -92,14 +131,14 @@
         },
         {
           "title": "日 지바현서 규모 5.4 지진…최대 진도 5약·쓰나미 우려 없어",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261029_0003845535"
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261029/134929337/1"
         }
       ]
     },
     {
       "title": "서울반도체",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Wed, 28 Oct 2026 07:40:00 -0700",
       "news": [
         {
@@ -113,9 +152,9 @@
           "url": "https://zdnet.co.kr/view/?no=20261028183723"
         },
         {
-          "title": "서울반도체, '희토류 필요없는' 초소형 백색 LED 최초 개발 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/10/28/2026102817174980304"
+          "title": "서울반도체, 無희토류 3세대 광반도체 개발",
+          "source": "아시아타임즈",
+          "url": "https://www.asiatime.co.kr/article/20261028500414"
         }
       ]
     },
@@ -143,7 +182,7 @@
     },
     {
       "title": "메달",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Wed, 28 Oct 2026 07:30:00 -0700",
       "news": [
         {
@@ -152,48 +191,14 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8694518"
         },
         {
-          "title": "쇼트트랙 남자 계주, 월드투어 1차대회에서 역전극으로 금메달",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6860738_36946.html"
-        },
-        {
           "title": "'마지막 코너서 대역전' 이정민, 쇼트트랙 월드투어 계주 금메달 견인",
           "source": "이데일리",
           "url": "https://www.edaily.co.kr/News/Read?newsId=03329206645616856&mediaCodeNo=257"
-        }
-      ]
-    },
-    {
-      "title": "올림픽파크 포레온",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 07:30:00 -0700",
-      "news": [
-        {
-          "title": "\"집주인 온다\"… 떨고 있는 올파포 세입자",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12188624"
-        }
-      ]
-    },
-    {
-      "title": "이계인",
-      "approx_traffic": "1000+",
-      "published": "Wed, 28 Oct 2026 07:10:00 -0700",
-      "news": [
-        {
-          "title": "“50억원 줘도 안 팔아”…이계인이 31년째 남양주 주택 지키는 이유",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261028510953"
         },
         {
-          "title": "\"10년 동거 내연남 숨기고 결혼\"…이계인이 고백한 '사기 결혼' 상처",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610271110084416"
-        },
-        {
-          "title": "양수리 105평 이계인도 거절했는데 누가 “송강호 매니저가 샀대, 30억 벌었대”(그리구라)",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202610271729402110"
+          "title": "인코스 장인'의 짜릿한 역전극…남자 계주 '금빛 질주'",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815723"
         }
       ]
     }
