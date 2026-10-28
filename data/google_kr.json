@@ -1,193 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T12:57:46+00:00",
+  "fetched_at": "2026-10-28T14:02:15+00:00",
   "items": [
     {
-      "title": "persib bandung vs melbourne victory",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 04:50:00 -0700",
-      "news": [
-        {
-          "title": "Verify to continue - Katadata.co.id",
-          "source": "Katadata.co.id",
-          "url": "https://katadata.co.id/lifestyle/varia/6ae0b29d2982d/prediksi-persib-bandung-vs-melbourne-victory-lengkap-head-to-head"
-        },
-        {
-          "title": "ACL TWO TALK: Victory’s Savarese and Lockyer preview Persib fixture",
-          "source": "Melbourne Victory Football Club",
-          "url": "https://melbournevictory.com.au/news/acl-two-talk-victorys-savarese-and-lockyer-preview-persib-fixture/"
-        },
-        {
-          "title": "Injury sidelines Victory star for clash in Indonesia",
-          "source": "The Australian",
-          "url": "https://www.theaustralian.com.au/breaking-news/joshua-inserra-ruled-out-of-melbourne-victorys-asian-champions-league-clash-with-injury/news-story/a9104b9d382baf5b0e5edbf229011cc8"
-        }
-      ]
-    },
-    {
-      "title": "weather tomorrow",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 04:40:00 -0700",
-      "news": [
-        {
-          "title": "Kauai Weather Forecast for October 28, 2026",
-          "source": "Kauai Now",
-          "url": "https://kauainownews.com/2026/10/27/kauai-weather-forecast-for-october-28-2026-2/"
-        },
-        {
-          "title": "Kauai Weather Forecast for October 27, 2026",
-          "source": "Kauai Now",
-          "url": "https://kauainownews.com/2026/10/26/kauai-weather-forecast-for-october-27-2026/"
-        },
-        {
-          "title": "Kauai Weather Forecast for October 23, 2026",
-          "source": "Kauai Now",
-          "url": "https://kauainownews.com/2026/10/22/kauai-weather-forecast-for-october-23-2026/"
-        }
-      ]
-    },
-    {
-      "title": "신진서",
-      "approx_traffic": "1000+",
-      "published": "Wed, 28 Oct 2026 04:40:00 -0700",
-      "news": [
-        {
-          "title": "신진서 9단, 한국바둑리그 1억 4천만 원에 GS칼텍스 지명",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697523"
-        },
-        {
-          "title": "24회 맞은 바둑리그, 대국·보수·선발·후원사까지 싹 바뀐다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028152400007"
-        },
-        {
-          "title": "‘드래프트 폐지·주장전 신설’…하나은행과 함께 출발하는 한국바둑리그, 새판 짠다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610281619003"
-        }
-      ]
-    },
-    {
-      "title": "김미영 팀장",
+      "title": "하림",
       "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 04:40:00 -0700",
+      "published": "Wed, 28 Oct 2026 05:50:00 -0700",
       "news": [
         {
-          "title": "'돌연 연차' 홀로 모텔 간 30대‥\"이 남자 피해자야\" 경찰 급투입",
+          "title": "[오늘Who] 김홍국 왜 하림산업 부동산·식품 나누나, '양재 개발·식품 적자' 핀포인트로 돌파구 찾기",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450424"
+        },
+        {
+          "title": "하림, 식품 전문법인 '하림식품' 신설…하림산업은 양재 물류단지 집중",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261027000021"
+        },
+        {
+          "title": "하림산업, 부동산·식품 사업 인적분할…하림식품 신설",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10915529"
+        }
+      ]
+    },
+    {
+      "title": "노원구",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 05:40:00 -0700",
+      "news": [
+        {
+          "title": "서울 노원구 아파트서 불‥70대 남성 숨져",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861346_36918.html"
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861457_36918.html"
         },
         {
-          "title": "검사 사칭에 속아 모텔 ‘셀프 감금’…반성문 쓰고 수천만 원 송금",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697918"
-        },
-        {
-          "title": "중국 유명 떡볶이 프랜차이즈…보이스피싱 조직이 자금줄이었다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610281101001"
-        }
-      ]
-    },
-    {
-      "title": "погода завтра",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 04:40:00 -0700",
-      "news": []
-    },
-    {
-      "title": "윤대열",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 04:30:00 -0700",
-      "news": [
-        {
-          "title": "폭발 현장 달려가 가스통 밸브 잠근 시민…알고보니 배우(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028149151065"
-        },
-        {
-          "title": "가스 폭발 현장서 밸브 잠근 시민 영웅, 배우 윤대열이었다",
+          "title": "서울 중계동 아파트에 화재…70대 주민 1명 사망",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261028/134927530/1"
+          "url": "https://www.donga.com/news/Society/article/all/20261028/134928903/1"
         },
         {
-          "title": "[현장] 굉음과 함께 유리창 와르르…검단 상가 폭발에 가슴 쓸어내린 주민들",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335240"
+          "title": "서울 노원구 아파트서 불…70대 남성 숨져",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698043"
         }
       ]
     },
     {
-      "title": "lg화학",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 04:20:00 -0700",
+      "title": "acl two",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 05:30:00 -0700",
       "news": [
         {
-          "title": "LG화학, LG엔솔 지분 2.5조 추가 유동화…PRS 계약 체결",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/28/2026102880148.html"
+          "title": "AFC Champions League 2: Al Rayyan Aim to Return to Winning Ways Against Oman's Al Nahda",
+          "source": "Fana News -",
+          "url": "https://www.fananews.com/language/en/afc-champions-league-2-al-rayyan-aim-to-return-to-winning-ways-against-omans-al-nahda/"
         },
         {
-          "title": "LG화학, LG엔솔 지분 2.5조 처분…자사주 3천억원 매입·소각",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028159600003"
+          "title": "Al Rayyan target victory against Oman's Al Nahda in ACL Two",
+          "source": "The Peninsula Qatar",
+          "url": "https://thepeninsulaqatar.com/article/28/10/2026/al-rayyan-target-victory-against-omans-al-nahda-in-acl-two"
         },
         {
-          "title": "[속보] LG화학, 3,000억 원 자사주 취득 신탁계약 체결...전량 소각 예정",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/global-filings/article-93CH-2144928"
+          "title": "Kikianis: Playing for Adelaide in Asia a dream come true",
+          "source": "Adelaide United",
+          "url": "https://adelaideunited.com.au/news/kikianis-playing-for-adelaide-in-asia-a-dream-come-true/"
         }
       ]
     },
     {
-      "title": "수질",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 04:10:00 -0700",
+      "title": "주거",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 05:30:00 -0700",
       "news": [
         {
-          "title": "추미애, 삼성전자·SK하이닉스에 행정지도···“방류수 수질 개선 요구”",
+          "title": "\"목숨만 건졌어\" 마지막 터전마저 '잿더미'‥구룡마을 가보니",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861421_37004.html"
+        },
+        {
+          "title": "다닥다닥 길 좁은 판자촌...강풍까지 겹쳐 겨우 진화",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610282211386420"
+        },
+        {
+          "title": "화재 취약 가건물 다닥다닥…“소화기 있어도 무용지물”",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610281454001"
-        },
-        {
-          "title": "시민단체, 용인 반도체 국가산단 공사 중단 촉구…농성 돌입",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028151000061"
-        },
-        {
-          "title": "[사설] 지자체들 하천 관리 더욱 신경써야",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039098"
+          "url": "https://www.khan.co.kr/article/202610282059025"
         }
       ]
     },
     {
-      "title": "랴오닝 호 항공 모함",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 03:50:00 -0700",
-      "news": []
-    },
-    {
-      "title": "설기현",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 03:20:00 -0700",
+      "title": "마약",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 05:30:00 -0700",
       "news": [
         {
-          "title": "김해FC, 설기현 감독 선임…\"젊고 빠른 색깔 있는 팀 만들 것\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028116600052"
+          "title": "[단독] '마약 운전' 안산 버스기사와 함께 투약...지인 3명도 송치",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610281711577001_005.html"
         },
         {
-          "title": "김해FC, 신임 사령탑에 설기현 선임…\"간절한 선수들과 힘내겠다\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261028171631K8w"
+          "title": "‘마약 투약 뒤 버스 운전’ 버스기사 지인 3명도 공소청 넘겨져",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261028580574"
         },
         {
-          "title": "손현준 감독과 결별한 김해, 설기현 신임 감독 선임…다음달 2일부터 팀 지휘",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/article/all/20261028/134924273/1"
+          "title": "‘마약 투약 버스 운전기사’ 지인 3명도 송치",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1773609"
+        }
+      ]
+    },
+    {
+      "title": "삼성",
+      "approx_traffic": "10000+",
+      "published": "Wed, 28 Oct 2026 05:20:00 -0700",
+      "news": [
+        {
+          "title": "중장년 여행도 간편하게 ‘갤럭시 하나면 해외 결제 끝’",
+          "source": "이투데이",
+          "url": "https://bravo.etoday.co.kr/view/atc_view/20368"
+        },
+        {
+          "title": "우리은행·삼성전자, ‘삼성월렛 머니’ 해외결제 개시…“전세계 가맹점에서 사용”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610281609011"
+        },
+        {
+          "title": "카드·환전 필요없다…시중은행도 ‘해외 앱 결제’ 뛰어들어",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261028/134925590/1"
+        }
+      ]
+    },
+    {
+      "title": "3 일치 식량",
+      "approx_traffic": "2000+",
+      "published": "Wed, 28 Oct 2026 05:20:00 -0700",
+      "news": [
+        {
+          "title": "\"남은 시간 딱 1000일\"…물 9리터·비상식량 쓸어 담아라 경고 나왔다",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/visual-news/article/2026102710111373618"
+        },
+        {
+          "title": "영국·프랑스·일본 “3일치 비상식량 쌓아두라” 전쟁 임박?···생필품 준비 권고하는 주요국, 달라진 위기 대응법 [이윤정 기자의 소소월드]",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610280946001"
+        }
+      ]
+    },
+    {
+      "title": "오윤아",
+      "approx_traffic": "2000+",
+      "published": "Wed, 28 Oct 2026 05:20:00 -0700",
+      "news": [
+        {
+          "title": "오윤아 아들 민이, 프로 수영선수 됐다…\"기적 같은 일\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/28/2026102810424833388"
+        },
+        {
+          "title": "'재혼' 오윤아, 발달장애 아들 민이 근황 공개…\"수영선수로 취업 기적\" 감격",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6334529"
+        },
+        {
+          "title": "오윤아 \"♥남편, '발달장애' 아들과 목욕탕까지\" 눈물..재혼후 달라진 일상(편스토랑)",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/GY4GIYLBHAZGCMBZMEZDKM3GGQ/"
+        }
+      ]
+    },
+    {
+      "title": "대한 광통신",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 05:20:00 -0700",
+      "news": [
+        {
+          "title": "대한광통신 주가, 10월 28일 14,980원 9.34% 상승",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16260728"
+        },
+        {
+          "title": "특징주, 한국첨단소재-광통신(광케이블/광섬유 등) 테마 상승세에 6.25% ↑",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1182749"
+        },
+        {
+          "title": "대한광통신 주가 7.81% 급등…광통신 테마 강세 : 한국증시",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1054977"
+        }
+      ]
+    },
+    {
+      "title": "태풍 경로",
+      "approx_traffic": "20000+",
+      "published": "Wed, 28 Oct 2026 05:10:00 -0700",
+      "news": [
+        {
+          "title": "점점 강해지는 태풍 '인파'…한반도 영향 가능성은",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05497286645617184&mediaCodeNo=257"
+        },
+        {
+          "title": "태풍 악몽 가시기 전 또 북상…제주 긴장 고조",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845479"
+        },
+        {
+          "title": "가을 태풍 줄줄이…다시 추위 온다",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695917"
         }
       ]
     }
