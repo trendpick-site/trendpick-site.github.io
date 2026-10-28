@@ -1,8 +1,80 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T10:50:22+00:00",
+  "fetched_at": "2026-10-28T11:48:09+00:00",
   "items": [
+    {
+      "title": "가스 폭발",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 03:20:00 -0700",
+      "news": [
+        {
+          "title": "가스 폭발 현장서 밸브 잠근 시민 영웅, 배우 윤대열이었다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261028/134927530/1"
+        },
+        {
+          "title": "\"'펑' 소리에 달려가 가스 밸브 잠가\"…20년차 조연배우의 선행[오따뉴] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/28/2026102820064646849"
+        },
+        {
+          "title": "[현장] 굉음과 함께 유리창 와르르…검단 상가 폭발에 가슴 쓸어내린 주민들",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335240"
+        }
+      ]
+    },
+    {
+      "title": "이용우",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "기념품 50개 협찬에 선거법 위반 혐의···이용우 부여군수 송치",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610281716001"
+        },
+        {
+          "title": "이용우 부여군수, 소상공인 행사에 기념품 협찬 혐의 송치",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028097500063"
+        },
+        {
+          "title": "‘소상공인 행사 기념품 협찬’ 이용우 부여군수, 공직선거법 위반 혐의 송치",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626994"
+        }
+      ]
+    },
+    {
+      "title": "대구 한국가스공사 대 원주 db",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 02:50:00 -0700",
+      "news": []
+    },
+    {
+      "title": "레인보우로보틱스",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "아이엘, 피지컬AI 운영 데이터 플랫폼 '피데이텀' 공개",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261026000209"
+        },
+        {
+          "title": "특징주, 엠에스바이오-2026 하반기 신규상장 테마 상승세에 20.43% ↑",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1181047"
+        },
+        {
+          "title": "빅웨이브로보틱스 주가, 상한가... 이유는?",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189089"
+        }
+      ]
+    },
     {
       "title": "이재성",
       "approx_traffic": "200+",
@@ -22,6 +94,28 @@
           "title": "차범근-손흥민 다음은 이재성! 구자철 넘어섰다...브레멘전 분데스리가 통산 '29호골' 폭발, 韓 득점 단독 3위 등극",
           "source": "마이데일리",
           "url": "https://www.mydaily.co.kr/page/view/2026102621450122592"
+        }
+      ]
+    },
+    {
+      "title": "고종현",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "'수원 고종현 팔꿈치 가격, 퇴장감'…축구협회 오심 인정(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028074351007"
+        },
+        {
+          "title": "[공식발표] '상대 얼굴 팔꿈치 가격→경고만?' 수원 고종현, 결국 2경기 출장정지...주심·VAR 모두 '명백한 오심' 인정 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/28/202610281816770356O"
+        },
+        {
+          "title": "\"정승용 안와골절 당했는데 퇴장도 안 줬다고?\" 고종현 팔꿈치 가격 논란…축구협회 오심 인정, 한국심판 수준 드러났다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/10/28/MZTGEN3GMZSWCYTDGAYWGMBYGA/"
         }
       ]
     },
@@ -48,6 +142,28 @@
       ]
     },
     {
+      "title": "간이식",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 02:30:00 -0700",
+      "news": [
+        {
+          "title": "\"최고 의사는 한국에\"…美자선사업가, 한국서 '17시간 간이식' 성공",
+          "source": "DongA Science",
+          "url": "https://www.dongascience.com/ko/news/80572"
+        },
+        {
+          "title": "1만㎞ 날아온 미국 자선사업가··· 한국서 간이식으로 새 생명 얻어",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610281459001"
+        },
+        {
+          "title": "\"생체 간이식은 한국뿐\"…1만㎞ 날아온 미국인",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003844415"
+        }
+      ]
+    },
+    {
       "title": "천천히 강렬하게",
       "approx_traffic": "200+",
       "published": "Wed, 28 Oct 2026 02:30:00 -0700",
@@ -66,7 +182,7 @@
     },
     {
       "title": "진성준",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Wed, 28 Oct 2026 02:20:00 -0700",
       "news": [
         {
@@ -75,130 +191,14 @@
           "url": "https://www.chosun.com/politics/assembly/2026/10/28/ZHBUXVI2QJCGVJVJYA3ALYBBYI/"
         },
         {
+          "title": "진성준 국방위원장 미국 비자 발급 거절‥\"강력 유감\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6861406_36911.html"
+        },
+        {
           "title": "“우리도 스티븐 유 입국 제한” 정청래 美 비자 지연 본 이준석의 말",
           "source": "문화일보",
           "url": "https://www.munhwa.com/article/11626698"
-        },
-        {
-          "title": "“중국인보다 한국인이 더 많이 거절당했다” 미국 비자 거절률 급등…무슨 일",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20106089"
-        }
-      ]
-    },
-    {
-      "title": "줍줍",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 02:20:00 -0700",
-      "news": [
-        {
-          "title": "\"당첨 즉시 10억원 시세차익\"…'과천 디에트르 퍼스티지' 줍줍",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102895046"
-        },
-        {
-          "title": "과천서 8억원대 ‘로또 청약’ 2가구 나온다… ‘10억’ 시세차익 기대감",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261028500480"
-        },
-        {
-          "title": "\"주변보다 10억 낮다\"…과천서 8억대 '줍줍' 2가구 나온다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/28/2026102811500379844"
-        }
-      ]
-    },
-    {
-      "title": "chuyển khoản",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 02:20:00 -0700",
-      "news": [
-        {
-          "title": "Cảnh giác: Xuất hiện hoạt động tìm kiếm, mua bán ứng dụng ngân hàng giả mạo",
-          "source": "Công An tỉnh Cao Bằng",
-          "url": "https://congan.caobang.gov.vn/canh-bao-toi-pham/canh-giac-xuat-hien-hoat-dong-tim-kiem-mua-ban-ung-dung-ngan-hang-gia-mao-1082334"
-        },
-        {
-          "title": "Cục An ninh mạng: Người dân sẽ bị truy cứu trách nhiệm hình sự nếu chuyển khoản trong trường hợp sau",
-          "source": "nguoiquansat.vn",
-          "url": "https://nguoiquansat.vn/cuc-an-ninh-mang-nguoi-dan-se-bi-truy-cuu-trach-nhiem-hinh-su-neu-chuyen-khoan-trong-truong-hop-sau-324615.html"
-        },
-        {
-          "title": "Công an sẽ điều tra nếu phát hiện sử dụng các ứng dụng sau để chuyển khoản thanh toán",
-          "source": "CafeBiz",
-          "url": "https://cafebiz.vn/cong-an-se-dieu-tra-neu-phat-hien-su-dung-cac-ung-dung-sau-de-chuyen-khoan-thanh-toan-176261028143324054.chn"
-        }
-      ]
-    },
-    {
-      "title": "가시마 앤틀러스 대 포항",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 02:10:00 -0700",
-      "news": []
-    },
-    {
-      "title": "대탈출",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "[방송소식] 티빙 '대탈출: 도시괴담' 12월 공개",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028042100005"
-        },
-        {
-          "title": "‘대탈출 : 도시괴담’, 6인 탈출러 확정…12월 티빙서 공개",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261028500749"
-        },
-        {
-          "title": "[공식] 김종민·신동 복귀→승관 합류 ‘대탈출6’, 12월 2일 첫 공개",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261028/134922074/1"
-        }
-      ]
-    },
-    {
-      "title": "ai 버블",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "AI 자금난 우려에도…GPU 렌탈값은 뛴다",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441246"
-        },
-        {
-          "title": "빅테크 직원 1인당 이익률 30%… 나머지 S&P500 기업은 10% 수준",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/10/28/OEHXOC7J3JBABKOT6S5H7PEYGM/"
-        },
-        {
-          "title": "[GAM] AI 투자 지형이 바뀐다 ① AI 지출 회의론에 반도체·하드웨어주 약세",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261027000004"
-        }
-      ]
-    },
-    {
-      "title": "과징금",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "방미통위, '인앱결제 강요' 구글·애플 과징금 637억 원 부과",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6861372_36932.html"
-        },
-        {
-          "title": "[속보] 구글 429억원·애플 208억원 과징금…방미통위,시정명령 의결",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627016"
-        },
-        {
-          "title": "제46차 방송미디어통신위원회 전체회의 브리핑",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156786888"
         }
       ]
     }
