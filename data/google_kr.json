@@ -1,220 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T20:47:33+00:00",
+  "fetched_at": "2026-10-28T21:45:06+00:00",
   "items": [
     {
-      "title": "본머스 대 애스턴 빌라",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 12:30:00 -0700",
+      "title": "김하성",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 13:40:00 -0700",
       "news": [
         {
-          "title": "카라바오컵 본머스 대 아스톤 빌라 축구 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-bournemouth-vs-aston-villa-tai-carabao-cup-1790133.ldo"
-        },
-        {
-          "title": "본머스 vs 아스톤 빌라 예측: 승리 시 다음 라운드 진출",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-bournemouth-vs-aston-villa-thang-de-di-tiep"
-        },
-        {
-          "title": "경기 프리뷰: 본머스 vs 아스톤 빌라, 10월 29일 오전 2시 45분: 다음 라운드 진출을 위한 예측 불가능한 티켓.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-bournemouth-vs-aston-villa-2h45-ngay-29-10-tam-ve-kho-luong"
-        }
-      ]
-    },
-    {
-      "title": "김혜성",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 12:30:00 -0700",
-      "news": [
-        {
-          "title": "\"김혜성 주전은 최악\"이라더니…美 매체 하루 만에 정반대 평가 \"노쇠한 다저스에 정확히 필요한 선수\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/29/GBRDKMZTHFSDQMLCGUYDGNBTGE/"
-        },
-        {
-          "title": "\"성장 못하면 설자리 잃을 수도\" 김혜성 향한 다저스 기대감 여전히 크지만, 증명 못하면 칼바람이다",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015987"
-        },
-        {
-          "title": "김혜성 충격 트레이드설 떴다, 다저스 파격 결단 내리나…\"KIM 다저스 떠날까, 초특급 유망주 기회 주려면 보내야\"",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20261022n03639?issue_sq=9298"
-        }
-      ]
-    },
-    {
-      "title": "소송",
-      "approx_traffic": "1000+",
-      "published": "Wed, 28 Oct 2026 12:20:00 -0700",
-      "news": [
-        {
-          "title": "정부, 엘리엇 국제투자분쟁 최종 패소‥1천530억 배상책임 확정",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861343_36918.html"
-        },
-        {
-          "title": "8년 넘게 다툰 ‘엘리엇 배상’…정부, 1530억원 패소 판정 수용",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325252"
-        }
-      ]
-    },
-    {
-      "title": "리버풀 대 첼시",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 12:10:00 -0700",
-      "news": [
-        {
-          "title": "[오피셜] '벼랑 끝' 맨유 대형 호재! '첼시 NO.9' 주앙 페드로, 허벅지 부상으로 이탈...알론소 \"몇 주 동안 경기 출전 불가\"",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697357"
-        },
-        {
-          "title": "토트넘전 패배도 서러운데 ‘최다 득점자’도 부상이라니… 난관 봉착한 첼시 알론소 감독, “변명 아닌 해결책 찾아야 한다”",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313539"
-        },
-        {
-          "title": "사비 알론소, 안필드 복귀: 리버풀과의 미완의 인연",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/xabi-alonso-tro-lai-anfield-moi-luong-duyen-dang-do-voi-liverpool-1790764.ldo"
-        }
-      ]
-    },
-    {
-      "title": "황희찬",
-      "approx_traffic": "1000+",
-      "published": "Wed, 28 Oct 2026 12:00:00 -0700",
-      "news": [
-        {
-          "title": "모레노, 11월 마지막 시험대에 '96라인' 부를까?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610282320079932"
-        },
-        {
-          "title": "'풀타임 소화' 황희찬, '부상 복귀' 김민재, 11월 A매치 소집될까...오늘(29일) 명단 발표",
+          "title": "김하성 한국 돌아와야 하나, 265억 먹튀 논란→美 역대급 혹평 떴다 “KIM 최악의 FA 영입 사례, 재계약 반대한다”",
           "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112900014"
+          "url": "https://www.osen.co.kr/article/G1112898862"
         },
         {
-          "title": "'은퇴 소동' 그냥 덮고 갈 수 없다... 한 달 만에 입 여는 모레노, 손흥민·김민재 등 '갈등 논란'에 어떤 답 내놓을까 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102904324360862"
+          "title": "\"265억 유격수, 차라리 없는게 낫다\" 부상보다 더 큰 교훈? 한층 더 차가워진 김하성 현지 여론",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/27/G5QTCZBWGRRGIMBZMMYWKNLDHE/"
+        },
+        {
+          "title": "'또 한국 선수 괴롭히나' 트레이드 영입 강력 주장, \"270억짜리 실책\" 김하성 위험하다",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-10-29/202610290100183660012418"
         }
       ]
     },
     {
-      "title": "바이에른 대 fc 마그데부르크",
+      "title": "메이저 리그 베이스볼",
       "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 11:50:00 -0700",
+      "published": "Wed, 28 Oct 2026 13:40:00 -0700",
       "news": [
         {
-          "title": "Preview: Bayern, vs. 1. FC Magdeburg, DFB Cup",
-          "source": "FC Bayern",
-          "url": "https://fcbayern.com/en/news/matchpreviews/2026/10/preview-bayern-vs.-magdeburg-dfb-cup-second-round"
+          "title": "Rays' comeback extra-innings victory in World Series Game 4 gives team kernel of hope, history shows | OutKick",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/outkick-sports/rays-comeback-extra-innings-victory-world-series-game-4-gives-team-kernel-hope-history-shows"
         },
         {
-          "title": "Bayern Munich vs. Magdeburg Lineups, Live Streaming, How & Where to Watch DFB-Pokal on TV",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bayern-munich-vs-magdeburg-lineups-170000648.html"
+          "title": "Rays 4-3 Brewers (Oct 27, 2026) Game Recap",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mlb/recap?gameId=401908045"
         },
         {
-          "title": "Bayern Munich vs Magdeburg: German DFB Pokal stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cqe9l1yej078t"
+          "title": "Rays Bounce Into Game 5 After 12-Inning Thriller",
+          "source": "FanGraphs",
+          "url": "https://blogs.fangraphs.com/rays-bounce-into-game-5-after-12-inning-thriller/"
         }
       ]
     },
     {
-      "title": "국채",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 11:50:00 -0700",
+      "title": "자동차",
+      "approx_traffic": "2000+",
+      "published": "Wed, 28 Oct 2026 13:30:00 -0700",
       "news": [
         {
-          "title": "“한국 49년 만에 최대 매도”…美 국채 자존심 구겼다",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05474326645617512&mediaCodeNo=257"
+          "title": "삼성전자 브랜드 가치 7년 연속 세계 5위",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/28/OVWUUTAMFFCX7GCSEHZH2LNYQ4/"
         },
         {
-          "title": "美 우방들도 미국채 안샀다…한국, 1977년 이후 최대 순매도",
+          "title": "현대차 브랜드 가치 33조원…글로벌 브랜드 29위·첫 자동차 4위",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028135500009"
+          "url": "https://www.yna.co.kr/view/AKR20261028051600003"
         },
         {
-          "title": "“믿었던 한국마저”…美 국채 파는 동맹들, 트럼프 어쩌나 [이슈+]",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261028026092210"
+          "title": "완성차 넘어 기술기업으로 인정받은 현대차…글로벌 브랜드 20위권 첫 진입",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261028/134925822/1"
         }
       ]
     },
     {
-      "title": "맨 시티 대 브라이턴",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 11:40:00 -0700",
-      "news": [
-        {
-          "title": "EFL Cup: Liverpool equalise, Brighton ahead at Man City, Bournemouth and Sunderland winning",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/crz98pe8v2gqt"
-        },
-        {
-          "title": "Man City vs Brighton LIVE! Carabao Cup updates, news, prediction, line-ups and how to watch or stream",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13604062/man-city-vs-brighton-live-carabao-cup-updates-news-prediction-line-ups-and-how-to-watch-or-stream"
-        },
-        {
-          "title": "Man City vs. Brighton: Preview, Predictions and Lineups",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/soccer/man-city-vs-brighton-preview-predictions-lineups-10-28-26"
-        }
-      ]
-    },
-    {
-      "title": "sc 프라이부르크 대 볼프스부르크",
+      "title": "풀럼 대 크리스털 팰리스",
       "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 10:40:00 -0700",
+      "published": "Wed, 28 Oct 2026 13:30:00 -0700",
       "news": [
         {
-          "title": "Freiburg vs Wolfsburg: German DFB Pokal stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cq62ynwkdxryt"
+          "title": "카라바오컵 풀럼 대 크리스탈 팰리스 경기 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-fulham-vs-crystal-palace-tai-carabao-cup-1790701.ldo"
         },
         {
-          "title": "Late Knockout",
-          "source": "VfL Wolfsburg",
-          "url": "https://www.vfl-wolfsburg.de/en/newsdetails/news-detail/detail/news/late-knockout"
+          "title": "경기 프리뷰: 풀럼 vs 크리스탈 팰리스, 10월 29일 오전 2시 45분: 더비 경기가 예상치 못한 방향으로 흘러간다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-fulham-vs-crystal-palace-2h45-ngay-29-10-derby-doi-chieu"
         },
         {
-          "title": "Preview: Freiburg vs Wolfsburg - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/freiburg/dfb-pokal/preview/freiburg-vs-wolfsburg-prediction-team-news-lineups_607757.html"
+          "title": "EFL컵: 풀럼은 축배를 들 수 있을 것인가?",
+          "source": "티스토리",
+          "url": "https://sbotopkr.tistory.com/2645"
         }
       ]
     },
     {
-      "title": "apple",
+      "title": "iphone",
       "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 10:20:00 -0700",
+      "published": "Wed, 28 Oct 2026 13:30:00 -0700",
       "news": [
         {
-          "title": "Apple Unveils Its First Touch-Screen MacBook Pro",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html"
+          "title": "‘I Felt Blind Panic.’ They Opened Their New $2,000 iPhone Duo—and It Broke.",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/tech/personal-tech/iphone-duo-broken-hinge-screen-31b2b28a"
         },
         {
-          "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced"
+          "title": "iPhone Duo owners say Apple's new foldable phone broke within hours of purchase",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/iphone-duo-owners-report-cracked-screens-apple-foldable/"
         },
         {
-          "title": "Apple introduces the new 14-inch MacBook Pro with M6",
-          "source": "Apple",
-          "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+          "title": "Apple says it will replace iPhone Duo units showing screen problems",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/media-telecom/apple-says-it-will-replace-iphone-duo-units-showing-screen-problems-2026-10-26/"
+        }
+      ]
+    },
+    {
+      "title": "경찰",
+      "approx_traffic": "10000+",
+      "published": "Wed, 28 Oct 2026 13:30:00 -0700",
+      "news": [
+        {
+          "title": "소아응급실 지켰던 이주영 의원 \"절망적 현실, 참담하다\"",
+          "source": "의협신문",
+          "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=166986"
+        },
+        {
+          "title": "‘진료중 응급센터 압수수색’ 경찰에 항의… 아주대병원 소아전문의 7명 사직 의사",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261029/134928721/2"
+        },
+        {
+          "title": "野, 소아응급의 사의표명에 \"警수사 감찰해야…의료현장 공포로\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028186000001"
+        }
+      ]
+    },
+    {
+      "title": "새마을금고",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 13:20:00 -0700",
+      "news": []
+    },
+    {
+      "title": "liverpool vs chelsea",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 13:10:00 -0700",
+      "news": [
+        {
+          "title": "Liverpool vs Chelsea: League Cup stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c69wz7x4jq71t"
+        },
+        {
+          "title": "Alonso: ‘I support my team and fight for my club’ | News | Official Site",
+          "source": "Chelsea Football Club",
+          "url": "https://www.chelseafc.com/en/news/article/alonso-i-support-my-team-and-fight-for-my-club"
+        },
+        {
+          "title": "Liverpool boss Andoni Iraola reveals 'addictive' taste for victory ahead of Carabao Cup clash with Xabi Alonso's Chelsea",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en-sa/news/liverpool-andoni-iraola-carabao-cup-xabi-alonso-chelsea/bltfa756a3fc8f86324"
+        }
+      ]
+    },
+    {
+      "title": "단풍",
+      "approx_traffic": "1000+",
+      "published": "Wed, 28 Oct 2026 13:10:00 -0700",
+      "news": [
+        {
+          "title": "숲길 따라 꽃길 따라, 율곡수목원과 율곡습지공원에서 만나는 가을",
+          "source": "경기도뉴스포털",
+          "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202610270030483807C056&s_code=C056"
+        },
+        {
+          "title": "(라이프) 우리 동네 단풍은 언제? ‘2026 단풍지도·한반도 단풍절정 검색서비스’로 고민 해결",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373881"
+        },
+        {
+          "title": "단풍과 가을꽃, 축제가 있는 수목원으로 오세요",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/special/special_section/2026/10/28/6BAETGVR7FGR5HCY35JT2F6SWY/"
+        }
+      ]
+    },
+    {
+      "title": "ลิเวอร์พูล พบ เชลซี",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 13:10:00 -0700",
+      "news": [
+        {
+          "title": "ทำนายผลการแข่งขันลิเวอร์พูล vs เชลซี: ชนะเพื่อผ่านเข้ารอบ",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-liverpool-vs-chelsea-thang-de-di-tiep"
+        },
+        {
+          "title": "บอลวันนี้ โปรแกรมบอล ดูบอลสด ถ่ายทอดสด วันพุธที่ 28 ต.ค. 69",
+          "source": "posttoday",
+          "url": "https://www.posttoday.com/lifestyle/751034"
+        },
+        {
+          "title": "\"อีราโอล่า\" ลุ้น \"โฟลเรียน เวียร์ตซ์\" สลัดเดี้ยงที่ข้อเท้า ช่วยหงส์บู๊ เชลซี บิ๊กแมตช์ คาราบาว คัพ",
+          "source": "Mainstand",
+          "url": "https://mainstand.co.th/th/news/1/article/27358"
         }
       ]
     }
