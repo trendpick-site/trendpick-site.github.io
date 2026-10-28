@@ -1,27 +1,138 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T03:48:46+00:00",
+  "fetched_at": "2026-10-28T04:50:16+00:00",
   "items": [
+    {
+      "title": "bangladesh vs west indies",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 20:40:00 -0700",
+      "news": [
+        {
+          "title": "Mushfiqur out with 'contusion injury', expected to be fit for second Test against West Indies",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/story/ban-vs-wi-1st-test-mushfiqur-rahim-out-with-contusion-injury-expected-to-be-fit-for-second-test-1560370"
+        },
+        {
+          "title": "Bangladesh wins the toss and bats against West Indies in the first cricket test",
+          "source": "KVUE",
+          "url": "https://www.kvue.com/article/syndication/associatedpress/bangladesh-wins-the-toss-and-bats-against-west-indies-in-the-first-cricket-test/616-5ca3ec95-1695-46fd-bae6-1e86e40c3ecd"
+        },
+        {
+          "title": "What to watch on TV today (28 Oct, 2026)",
+          "source": "The Daily Star",
+          "url": "https://www.thedailystar.net/sports/more-sports/news/what-watch-tv-today-28-oct-2026-4309481"
+        }
+      ]
+    },
+    {
+      "title": "부사관",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 20:40:00 -0700",
+      "news": [
+        {
+          "title": "병장이 150만원 받는데 하사 213만원…“누가 부사관 하겠습니까?”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/politics/12188198"
+        },
+        {
+          "title": "군 하사 운영 병력 4년새 36.5% 감소…부사관 충원률도 하락",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6333904"
+        },
+        {
+          "title": "하사 운영 병력 4년 새 36.5% 감소, 초급 부사관 확보 비상",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261027171532049"
+        }
+      ]
+    },
+    {
+      "title": "학비",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 20:30:00 -0700",
+      "news": []
+    },
+    {
+      "title": "옌스 카스트로프",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 20:20:00 -0700",
+      "news": [
+        {
+          "title": "'韓 초대형 호재' 혼혈 국대 카스트로프 초스피드 복귀. 아시안컵 출전 가능...모레노 감독 바로 뽑을까",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-10-28/202610280100177270011740"
+        },
+        {
+          "title": "모레노호 부름 받나...'혼혈 국가대표' 카스트로프 어깨 부상 회복 완료! 컵대회 '교체 명단' 포함...내년 1월 '아시안컵 출전' 기대",
+          "source": "마이데일리",
+          "url": "https://www.mydaily.co.kr/page/view/2026102806240460484"
+        },
+        {
+          "title": "‘모레노의 구세주 될까’ 혼혈 태극전사 카스트로프, 부상 털고 소속팀 엔트리 합류! 빠른 실전투입 노린다",
+          "source": "풋볼리스트",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216258"
+        }
+      ]
+    },
+    {
+      "title": "카를로스 카라스코",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 20:20:00 -0700",
+      "news": [
+        {
+          "title": "메츠 내야수 린도어, MLB 최고 사회공헌상 수상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027075700007"
+        },
+        {
+          "title": "'로베르토 클레멘테 상' 수상 소감 밝히는 린도어",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261027_0002274521"
+        },
+        {
+          "title": "[MLB] WS에 등장한 LG 유니폼…카라스코의 '월클' 모먼트 화제",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261028000414"
+        }
+      ]
+    },
+    {
+      "title": "징역형",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 20:00:00 -0700",
+      "news": [
+        {
+          "title": "엘리베이터서 '미성년자 강제추행' 60대 남성, 1심서 징역형 집행유예 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/28/2026102810111460230"
+        },
+        {
+          "title": "12세 남아 추행 60대男, 피해자와 합의 못했지만 '집유'",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04286966645617512&mediaCodeNo=257"
+        },
+        {
+          "title": "‘이별 통보’ 전 연인에 흉기 휘두른 10대 징역 장기 7년·단기 4년",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610271505001"
+        }
+      ]
+    },
     {
       "title": "음바페 마오쩌둥",
       "approx_traffic": "100+",
       "published": "Tue, 27 Oct 2026 19:40:00 -0700",
       "news": [
         {
-          "title": "中서 음바페 '마오쩌둥 희화화' 논란…광고·중계 중단에 '사과'(종합2보)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027169552083"
-        },
-        {
-          "title": "中 잇단 손절에 결국…음바페 \"모독 의도 없었다\" 사과",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04303366645617512"
-        },
-        {
           "title": "[이 시각 세계] 음바페 '마오쩌둥 희화화' 논란‥중국 '발칵'",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6861231_37012.html"
+        },
+        {
+          "title": "中서 음바페 ’마오쩌둥 희화화’ 논란…결국 사과",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261028125900dNz"
         }
       ]
     },
@@ -29,11 +140,27 @@
       "title": "골프 존 홀딩스",
       "approx_traffic": "1000+",
       "published": "Tue, 27 Oct 2026 19:30:00 -0700",
-      "news": []
+      "news": [
+        {
+          "title": "국내 최대 골프장社 골프존카운티, 더시에나에 팔린다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/market_trend/2026/10/28/BYX4VZTV7NCBPA2456J2BLEYBI/"
+        },
+        {
+          "title": "홈플러스에 이어 골프존까지 먹튀 논란 MBK...\"신규인수자와 충돌 우려\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/10/27/2026102716485388139"
+        },
+        {
+          "title": "골프존홀딩스 \"MBK 골프존카운티 매각추진 반대\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003844325"
+        }
+      ]
     },
     {
       "title": "은마아파트",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Tue, 27 Oct 2026 19:20:00 -0700",
       "news": [
         {
@@ -55,139 +182,23 @@
     },
     {
       "title": "순위",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Tue, 27 Oct 2026 19:10:00 -0700",
       "news": [
         {
-          "title": "IBK, 여자배구 신인 드래프트 1순위로 재미교포 오드리 박 지명",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6861294_36946.html"
+          "title": "IBK, 여자배구 신인 드래프트 1순위 행운…교포 오드리 박 지명",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028081600007"
         },
         {
-          "title": "2026~2027 KOVO 여자부 신인선수 드래프트 1라운드 지명 선수들",
+          "title": "2라운드 2순위로 흥국생명에 지명된 한봄고 강민주",
           "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261028_0021508022"
+          "url": "https://mobile.newsis.com/photo/NISI20261028_0021508250"
         },
         {
           "title": "V-리그 ‘최대어’ 윤경에 꽂힌 男 7개팀",
           "source": "문화일보",
           "url": "https://www.munhwa.com/article/11626547"
-        }
-      ]
-    },
-    {
-      "title": "월드시리즈",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 19:10:00 -0700",
-      "news": [
-        {
-          "title": "밀워키, 창단 첫 우승까지 1승 남았다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261028/134920886/2"
-        },
-        {
-          "title": "3-0 WS, 사실상 끝? TB에 남은 건 기적 뿐…그러나 '리버스 스윕' 역사 없었던 건 아니라는데",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/27/MJQTKNDGMRQTAYJSMVRGENRQGE/"
-        },
-        {
-          "title": "[스포츠 영상] 밀워키, 탬파베이에 대승‥첫 월드시리즈 우승까지 '1승'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861171_37004.html"
-        }
-      ]
-    },
-    {
-      "title": "국민비서",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 19:10:00 -0700",
-      "news": [
-        {
-          "title": "더 다양해진 국민비서 서비스를 만나보세요! - 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974282"
-        },
-        {
-          "title": "행정안전부, 더 다양해진 국민비서 서비스를 만나보세요!",
-          "source": "케이에스피뉴스",
-          "url": "https://www.kspnews.com/2858014"
-        },
-        {
-          "title": "행정안전부, 더 다양해진 국민비서 서비스를 만나보세요!",
-          "source": "정필",
-          "url": "https://www.jeongpil.com/2728254"
-        }
-      ]
-    },
-    {
-      "title": "어머니",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 19:00:00 -0700",
-      "news": []
-    },
-    {
-      "title": "돈",
-      "approx_traffic": "2000+",
-      "published": "Tue, 27 Oct 2026 18:50:00 -0700",
-      "news": [
-        {
-          "title": "전현무 \"돈이 많으니 돈으로 기선 제압\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003844180"
-        },
-        {
-          "title": "“돈이면 다 해결” ‘건물주’ 정승제, 역대급 합숙소 공개 (재수전쟁)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610280922003"
-        },
-        {
-          "title": "티처스3 재수전쟁, 정승제 건물 내준 합숙 미션…15인 중 6명 추가 탈락 예고",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16260154"
-        }
-      ]
-    },
-    {
-      "title": "하이닉스 배당",
-      "approx_traffic": "5000+",
-      "published": "Tue, 27 Oct 2026 18:40:00 -0700",
-      "news": [
-        {
-          "title": "SK하이닉스, 2026년 3분기 경영실적 발표",
-          "source": "SK hynix",
-          "url": "https://news.skhynix.co.kr/q3-2026-business-results/"
-        },
-        {
-          "title": "[컨콜 종합] SK하이닉스, 반도체 고점론에 성장 자신감…HBM4·장기계약 승부 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2144713"
-        },
-        {
-          "title": "SK하이닉스 3분기 영업이익 83조 3천억…분기매출 100조 돌파",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697198"
-        }
-      ]
-    },
-    {
-      "title": "팔란티어 테크놀로지",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 18:10:00 -0700",
-      "news": [
-        {
-          "title": "'1등株 + 공급망' 쓸어담은 ETF 전성시대",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1182201"
-        },
-        {
-          "title": "엔비디아·팔란티어 다음으로 오를 AI 주식 10개",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/money/2026/10/28/PTFCVPTUWBELDBEHX5M44XX5VI/"
-        },
-        {
-          "title": "삼성액티브운용, '코리아TOP5플러스채권혼합50액티브' ETF 상장",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027043300008"
         }
       ]
     }
