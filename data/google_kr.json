@@ -1,8 +1,108 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T14:57:52+00:00",
+  "fetched_at": "2026-10-28T15:56:00+00:00",
   "items": [
+    {
+      "title": "서울반도체",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 07:40:00 -0700",
+      "news": [
+        {
+          "title": "“희토류 필요없다”…서울반도체, LED 판도 바꿀 신기술 개발",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610281580i"
+        },
+        {
+          "title": "서울바이오시스, 희토류 없는 백색 마이크로LED 기술 개발",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261028000452"
+        },
+        {
+          "title": "서울바이오시스, '희토류 없는' 백색 마이크로 LED 양산",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261028183723"
+        }
+      ]
+    },
+    {
+      "title": "김민",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 07:40:00 -0700",
+      "news": [
+        {
+          "title": "김민, ‘나혼산’ 출연 후 아찔한 사생활 고충...\"사람들이 집에 너무 찾아온다\" ('라스')",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/G44TQNBVMFRGCMBVMI2DINBWMI/"
+        },
+        {
+          "title": "김민, 최민식 앞 거친 욕 제스처 연기…\"뜻밖의 맞대응에 놀라\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6335241"
+        },
+        {
+          "title": "'나혼산' 김민, '라스'까지 접수…최민식 놀라게 한 파격 애드리브는? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/28/2026102814107262351"
+        }
+      ]
+    },
+    {
+      "title": "올림픽파크 포레온",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "\"집주인 온다\"… 떨고 있는 올파포 세입자",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12188624"
+        }
+      ]
+    },
+    {
+      "title": "메달",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "‘은퇴 예고’ 쇼트트랙 최민정, 월드투어 첫 대회에서 금메달",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694518"
+        },
+        {
+          "title": "쇼트트랙 남자 계주, 월드투어 1차대회에서 역전극으로 금메달",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6860738_36946.html"
+        },
+        {
+          "title": "'마지막 코너서 대역전' 이정민, 쇼트트랙 월드투어 계주 금메달 견인",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03329206645616856&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "title": "이계인",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 07:10:00 -0700",
+      "news": [
+        {
+          "title": "이계인, 통금 위반으로 즉결재판행…\"이름 때문에 개명까지 고민\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003843661"
+        },
+        {
+          "title": "이계인 \"말벌 수천 마리 상대해…말벌주 담가\" 허세",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6335514"
+        },
+        {
+          "title": "이계인 “방송국 사장도 반대”, 캐스팅 비화 공개 (라스)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261027/134918422/1"
+        }
+      ]
+    },
     {
       "title": "신진 서",
       "approx_traffic": "2000+",
@@ -70,9 +170,9 @@
       "published": "Wed, 28 Oct 2026 05:40:00 -0700",
       "news": [
         {
-          "title": "서울 노원구 아파트서 불‥70대 남성 숨져",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861457_36918.html"
+          "title": "서울 노원구 아파트서 불…70대 남성 숨져",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698043"
         },
         {
           "title": "서울 중계동 아파트에 화재…70대 주민 1명 사망",
@@ -80,9 +180,9 @@
           "url": "https://www.donga.com/news/Society/article/all/20261028/134928903/1"
         },
         {
-          "title": "서울 노원구 아파트서 불…70대 남성 숨져",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698043"
+          "title": "서울 노원구 아파트서 불‥70대 남성 숨져",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861457_36918.html"
         }
       ]
     },
@@ -92,124 +192,19 @@
       "published": "Wed, 28 Oct 2026 05:30:00 -0700",
       "news": [
         {
-          "title": "Al Rayyan target victory against Oman's Al Nahda in ACL Two",
-          "source": "The Peninsula Qatar",
-          "url": "https://thepeninsulaqatar.com/article/28/10/2026/al-rayyan-target-victory-against-omans-al-nahda-in-acl-two"
+          "title": "ACL Two Preview: Victory dealt injury blow ahead of Indonesian test",
+          "source": "A-Leagues",
+          "url": "https://aleagues.com.au/news/acl-two-preview-victory-dealt-injury-blow-ahead-of-indonesian-test/"
         },
         {
-          "title": "AFC Champions League 2: Al Rayyan Aim to Return to Winning Ways Against Oman's Al Nahda",
-          "source": "Fana News -",
-          "url": "https://www.fananews.com/language/en/afc-champions-league-2-al-rayyan-aim-to-return-to-winning-ways-against-omans-al-nahda/"
+          "title": "Injury sidelines Victory star for clash in Indonesia",
+          "source": "The Australian",
+          "url": "https://www.theaustralian.com.au/breaking-news/joshua-inserra-ruled-out-of-melbourne-victorys-asian-champions-league-clash-with-injury/news-story/a9104b9d382baf5b0e5edbf229011cc8"
         },
         {
-          "title": "Kikianis: Playing for Adelaide in Asia a dream come true",
-          "source": "Adelaide United",
-          "url": "https://adelaideunited.com.au/news/kikianis-playing-for-adelaide-in-asia-a-dream-come-true/"
-        }
-      ]
-    },
-    {
-      "title": "주거",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "\"목숨만 건졌어\" 마지막 터전마저 '잿더미'‥구룡마을 가보니",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861421_37004.html"
-        },
-        {
-          "title": "구룡마을 화재로 집 잃은 이재민···서울시 “긴급임시사용주택 96채 확보”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610282232001"
-        },
-        {
-          "title": "\"남은 게 없다\"...차디찬 체육관 바닥서 겨울 날 판",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610281955467348"
-        }
-      ]
-    },
-    {
-      "title": "마약",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "동대문구, 한국외대서 체험형 'OFF 마약' 캠페인 전개",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3735216"
-        },
-        {
-          "title": "마약퇴치운동본부 서울지부, 시민들과 마약 예방 걷기 캠페인",
-          "source": "메디포뉴스",
-          "url": "https://www.medifonews.com/news/article.html?no=217245"
-        },
-        {
-          "title": "호기심에 다가오는 약물 위험… 동대문구·외대, VR·게임으로 막는다",
-          "source": "시사코리아",
-          "url": "https://www.sisakorea.kr/99911"
-        }
-      ]
-    },
-    {
-      "title": "3 일치 식량",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 05:20:00 -0700",
-      "news": [
-        {
-          "title": "\"남은 시간 딱 1000일\"…물 9리터·비상식량 쓸어 담아라 경고 나왔다",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/visual-news/article/2026102710111373618"
-        },
-        {
-          "title": "영국·프랑스·일본 “3일치 비상식량 쌓아두라” 전쟁 임박?···생필품 준비 권고하는 주요국, 달라진 위기 대응법 [이윤정 기자의 소소월드]",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610280946001"
-        }
-      ]
-    },
-    {
-      "title": "오윤아",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 05:20:00 -0700",
-      "news": [
-        {
-          "title": "오윤아 아들 민이, 프로 수영선수 됐다…\"기적 같은 일\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/28/2026102810424833388"
-        },
-        {
-          "title": "'재혼' 오윤아, 발달장애 아들 민이 근황 공개…\"수영선수로 취업 기적\" 감격",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6334529"
-        },
-        {
-          "title": "오윤아 \"♥남편, '발달장애' 아들과 목욕탕까지\" 눈물..재혼후 달라진 일상(편스토랑)",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/GY4GIYLBHAZGCMBZMEZDKM3GGQ/"
-        }
-      ]
-    },
-    {
-      "title": "삼성",
-      "approx_traffic": "10000+",
-      "published": "Wed, 28 Oct 2026 05:20:00 -0700",
-      "news": [
-        {
-          "title": "중장년 여행도 간편하게 ‘갤럭시 하나면 해외 결제 끝’",
-          "source": "이투데이",
-          "url": "https://bravo.etoday.co.kr/view/atc_view/20368"
-        },
-        {
-          "title": "우리은행·삼성전자, ‘삼성월렛 머니’ 해외결제 개시…“전세계 가맹점에서 사용”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610281609011"
-        },
-        {
-          "title": "카드·환전 필요없다…시중은행도 ‘해외 앱 결제’ 뛰어들어",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261028/134925590/1"
+          "title": "Victory put away by Persib",
+          "source": "Melbourne Victory Football Club",
+          "url": "https://melbournevictory.com.au/news/victory-put-away-by-persib/"
         }
       ]
     }
