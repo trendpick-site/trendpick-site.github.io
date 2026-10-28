@@ -1,209 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T21:45:06+00:00",
+  "fetched_at": "2026-10-28T22:44:32+00:00",
   "items": [
     {
-      "title": "김하성",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "김하성 한국 돌아와야 하나, 265억 먹튀 논란→美 역대급 혹평 떴다 “KIM 최악의 FA 영입 사례, 재계약 반대한다”",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112898862"
-        },
-        {
-          "title": "\"265억 유격수, 차라리 없는게 낫다\" 부상보다 더 큰 교훈? 한층 더 차가워진 김하성 현지 여론",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/27/G5QTCZBWGRRGIMBZMMYWKNLDHE/"
-        },
-        {
-          "title": "'또 한국 선수 괴롭히나' 트레이드 영입 강력 주장, \"270억짜리 실책\" 김하성 위험하다",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-10-29/202610290100183660012418"
-        }
-      ]
-    },
-    {
-      "title": "메이저 리그 베이스볼",
+      "title": "weather",
       "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 13:40:00 -0700",
+      "published": "Wed, 28 Oct 2026 14:40:00 -0700",
       "news": [
         {
-          "title": "Rays' comeback extra-innings victory in World Series Game 4 gives team kernel of hope, history shows | OutKick",
-          "source": "Fox News",
-          "url": "https://www.foxnews.com/outkick-sports/rays-comeback-extra-innings-victory-world-series-game-4-gives-team-kernel-hope-history-shows"
+          "title": "What’s Up With This Weather: Latest Drought Map, 2020 Ice Storm, and Halloween Forecast.",
+          "source": "KFOR",
+          "url": "https://kfor.com/news/whats-up-with-this-weather-latest-drought-map-2020-ice-storm-and-halloween-forecast/"
         },
         {
-          "title": "Rays 4-3 Brewers (Oct 27, 2026) Game Recap",
-          "source": "ESPN",
-          "url": "https://www.espn.com/mlb/recap?gameId=401908045"
+          "title": "Rain is in Oklahoma's Halloween forecast. Here's what to expect this weekend",
+          "source": "The Oklahoman",
+          "url": "https://www.oklahoman.com/story/weather/2026/10/28/rain-is-in-oklahomas-halloween-forecast-heres-what-to-expect/92459203007/"
         },
         {
-          "title": "Rays Bounce Into Game 5 After 12-Inning Thriller",
-          "source": "FanGraphs",
-          "url": "https://blogs.fangraphs.com/rays-bounce-into-game-5-after-12-inning-thriller/"
+          "title": "Mike Morgan at 4:30PM Tuesday tracking very good rainfall chances with remnants of \"Vance\" heading to Oklahoma. October 27th, 2026 #okwx",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/news/videos/mike-morgan-4-30pm-tuesday-215243395.html"
         }
       ]
     },
     {
-      "title": "자동차",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 13:30:00 -0700",
-      "news": [
-        {
-          "title": "삼성전자 브랜드 가치 7년 연속 세계 5위",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/10/28/OVWUUTAMFFCX7GCSEHZH2LNYQ4/"
-        },
-        {
-          "title": "현대차 브랜드 가치 33조원…글로벌 브랜드 29위·첫 자동차 4위",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028051600003"
-        },
-        {
-          "title": "완성차 넘어 기술기업으로 인정받은 현대차…글로벌 브랜드 20위권 첫 진입",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261028/134925822/1"
-        }
-      ]
-    },
-    {
-      "title": "풀럼 대 크리스털 팰리스",
+      "title": "기생충",
       "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 13:30:00 -0700",
+      "published": "Wed, 28 Oct 2026 14:40:00 -0700",
       "news": [
         {
-          "title": "카라바오컵 풀럼 대 크리스탈 팰리스 경기 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-fulham-vs-crystal-palace-tai-carabao-cup-1790701.ldo"
+          "title": "눈 이물감·충혈에 병원 갔더니…양쪽 눈에 기생충 11마리 ’꿈틀’",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610281419530Y3"
         },
         {
-          "title": "경기 프리뷰: 풀럼 vs 크리스탈 팰리스, 10월 29일 오전 2시 45분: 더비 경기가 예상치 못한 방향으로 흘러간다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-fulham-vs-crystal-palace-2h45-ngay-29-10-derby-doi-chieu"
+          "title": "'니가 왜 거기서 나와?' 양쪽 눈서 기생충 11마리 발견된 70대",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1707365/%EB%8B%88%EA%B0%80-%EC%99%9C-%EA%B1%B0%EA%B8%B0%EC%84%9C-%EB%82%98%EC%99%80-%EC%96%91%EC%AA%BD-%EB%88%88%EC%84%9C-%EA%B8%B0%EC%83%9D-2026"
         },
         {
-          "title": "EFL컵: 풀럼은 축배를 들 수 있을 것인가?",
-          "source": "티스토리",
-          "url": "https://sbotopkr.tistory.com/2645"
+          "title": "“눈이 자꾸 따갑더니”…70대 눈에서 나온 ‘11마리’ 정체가",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=06707606645617512&mediaCodeNo=257"
         }
       ]
     },
     {
-      "title": "iphone",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 13:30:00 -0700",
-      "news": [
-        {
-          "title": "‘I Felt Blind Panic.’ They Opened Their New $2,000 iPhone Duo—and It Broke.",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/tech/personal-tech/iphone-duo-broken-hinge-screen-31b2b28a"
-        },
-        {
-          "title": "iPhone Duo owners say Apple's new foldable phone broke within hours of purchase",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/iphone-duo-owners-report-cracked-screens-apple-foldable/"
-        },
-        {
-          "title": "Apple says it will replace iPhone Duo units showing screen problems",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/media-telecom/apple-says-it-will-replace-iphone-duo-units-showing-screen-problems-2026-10-26/"
-        }
-      ]
-    },
-    {
-      "title": "경찰",
-      "approx_traffic": "10000+",
-      "published": "Wed, 28 Oct 2026 13:30:00 -0700",
-      "news": [
-        {
-          "title": "소아응급실 지켰던 이주영 의원 \"절망적 현실, 참담하다\"",
-          "source": "의협신문",
-          "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=166986"
-        },
-        {
-          "title": "‘진료중 응급센터 압수수색’ 경찰에 항의… 아주대병원 소아전문의 7명 사직 의사",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261029/134928721/2"
-        },
-        {
-          "title": "野, 소아응급의 사의표명에 \"警수사 감찰해야…의료현장 공포로\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028186000001"
-        }
-      ]
-    },
-    {
-      "title": "새마을금고",
+      "title": "liverpool đấu với chelsea",
       "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 13:20:00 -0700",
-      "news": []
+      "published": "Wed, 28 Oct 2026 14:40:00 -0700",
+      "news": [
+        {
+          "title": "Kết quả bóng đá Liverpool - Chelsea: Dấu ấn những quả 11m (League Cup)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-liverpool-chelsea-dau-an-nhung-qua-11m-league-cup-c48a1806538.html"
+        },
+        {
+          "title": "Alonso ca ngợi Florian Wirtz: Cậu ấy đã giúp tôi rất nhiều",
+          "source": "Bongda24h",
+          "url": "https://bongda24h.vn/bong-da-anh/alonso-ca-ngoi-florian-wirtz-cau-ay-da-giup-toi-rat-nhieu-172-463383.html"
+        },
+        {
+          "title": "Ngày về của Xabi Alonso: Kịch bản không như mơ tại Anfield",
+          "source": "BÁO SÀI GÒN GIẢI PHÓNG",
+          "url": "https://thethao.sggp.org.vn/ngay-ve-cua-xabi-alonso-kich-ban-khong-nhu-mo-tai-anfield-post878864.html"
+        }
+      ]
     },
     {
-      "title": "liverpool vs chelsea",
+      "title": "bayern vs magdeburg",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 14:40:00 -0700",
+      "news": [
+        {
+          "title": "Kane auf der Bank, Olise überragend – die Bayern-Noten gegen Magdeburg",
+          "source": "Absolut Fussball",
+          "url": "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/kane-auf-der-bank-olise-ueberragend-die-bayern-noten-im-dfb-pokal-gegen-magdeburg-zr-94563449.html"
+        },
+        {
+          "title": "‍~!$\"LIVE~IM\"!! Nürnberg gegen Bayer Leverkusen heute im TV und LIVE STREAM.",
+          "source": "Vantage Data Centers",
+          "url": "https://vantage-dc.com/virtual-tour-montreal-data-center/?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vcGFraGlwb2suZ2l0aHViLmlvL3NyLmVkdS94b2QueG1sIi8+PC9rcnBhbm8+&id=video-nurnberg-gegen-bayer-leverkusen-heute-match-lie-xmcgtuq"
+        },
+        {
+          "title": "Bayern-Fans läuten Pokalabend gegen mit besonderer Choreo ein",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/de/news/bayern-fans-laeuten-pokalabend-gegen-mit-besonderer-choreo-ein-43687909"
+        }
+      ]
+    },
+    {
+      "title": "манчестер сити – брайтон",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 14:40:00 -0700",
+      "news": [
+        {
+          "title": "\"Манчестер Сити\" прошел \"Брайтон\" в Кубке Лиги",
+          "source": "FAPL.ru",
+          "url": "https://fapl.ru/posts/125331/"
+        },
+        {
+          "title": "«Манчестер Сити» объявил решение по Хусанову после поражения от «Астон Виллы»",
+          "source": "Sports.kz",
+          "url": "https://www.sports.kz/news/manchester-siti-obyyavil-reshenie-po-husanovu-posle-porajeniya-ot-aston-villyi"
+        },
+        {
+          "title": "\"Манчестер Сити\" отпустил Холанда после поражения в АПЛ",
+          "source": "Vesti.kz",
+          "url": "https://vesti.kz/england/manchester-siti-otpustil-holanda-posle-porajeniya-v-apl-390114/"
+        }
+      ]
+    },
+    {
+      "title": "天气",
       "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 13:10:00 -0700",
+      "published": "Wed, 28 Oct 2026 14:40:00 -0700",
       "news": [
         {
-          "title": "Liverpool vs Chelsea: League Cup stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c69wz7x4jq71t"
+          "title": "Outdoor Enthusiasm Is Surging. So Is Extreme Weather.",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-27/extreme-weather-is-reshaping-hiking-rafting-and-camping"
         },
         {
-          "title": "Alonso: ‘I support my team and fight for my club’ | News | Official Site",
-          "source": "Chelsea Football Club",
-          "url": "https://www.chelseafc.com/en/news/article/alonso-i-support-my-team-and-fight-for-my-club"
+          "title": "UM study on impacts of air quality and wildfire smoke on travel",
+          "source": "The Missoulian",
+          "url": "https://missoulian.com/pdf_71b533b4-6e21-438a-8ff9-c4ca13950787.html"
         },
         {
-          "title": "Liverpool boss Andoni Iraola reveals 'addictive' taste for victory ahead of Carabao Cup clash with Xabi Alonso's Chelsea",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-sa/news/liverpool-andoni-iraola-carabao-cup-xabi-alonso-chelsea/bltfa756a3fc8f86324"
+          "title": "Climate Connect: Smokier, hotter summers reshaping outdoor rec",
+          "source": "Missoula Current",
+          "url": "https://missoulacurrent.com/climate-connect-summers/"
         }
       ]
     },
     {
-      "title": "단풍",
-      "approx_traffic": "1000+",
-      "published": "Wed, 28 Oct 2026 13:10:00 -0700",
-      "news": [
-        {
-          "title": "숲길 따라 꽃길 따라, 율곡수목원과 율곡습지공원에서 만나는 가을",
-          "source": "경기도뉴스포털",
-          "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202610270030483807C056&s_code=C056"
-        },
-        {
-          "title": "(라이프) 우리 동네 단풍은 언제? ‘2026 단풍지도·한반도 단풍절정 검색서비스’로 고민 해결",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=373881"
-        },
-        {
-          "title": "단풍과 가을꽃, 축제가 있는 수목원으로 오세요",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/special/special_section/2026/10/28/6BAETGVR7FGR5HCY35JT2F6SWY/"
-        }
-      ]
-    },
-    {
-      "title": "ลิเวอร์พูล พบ เชลซี",
+      "title": "나스닥 100",
       "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 13:10:00 -0700",
+      "published": "Wed, 28 Oct 2026 14:40:00 -0700",
       "news": [
         {
-          "title": "ทำนายผลการแข่งขันลิเวอร์พูล vs เชลซี: ชนะเพื่อผ่านเข้ารอบ",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-liverpool-vs-chelsea-thang-de-di-tiep"
+          "title": "삼성운용, 미국 대표지수 ETF 2종 분배금 지급",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102809502219028"
         },
         {
-          "title": "บอลวันนี้ โปรแกรมบอล ดูบอลสด ถ่ายทอดสด วันพุธที่ 28 ต.ค. 69",
-          "source": "posttoday",
-          "url": "https://www.posttoday.com/lifestyle/751034"
+          "title": "삼성자산운용, KODEX 미국S&P500 분배금 117원 지급",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261028000453"
         },
         {
-          "title": "\"อีราโอล่า\" ลุ้น \"โฟลเรียน เวียร์ตซ์\" สลัดเดี้ยงที่ข้อเท้า ช่วยหงส์บู๊ เชลซี บิ๊กแมตช์ คาราบาว คัพ",
-          "source": "Mainstand",
-          "url": "https://mainstand.co.th/th/news/1/article/27358"
+          "title": "美 대표지수 ETF에 개인 6조원…KODEX S&P500·나스닥100 분배금 지급",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610281354254766"
+        }
+      ]
+    },
+    {
+      "title": "두산에너빌리티",
+      "approx_traffic": "1000+",
+      "published": "Wed, 28 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "\"세계 최초 SMR 전용 공장\"…두산에너빌이 그린 AI 시대 전력 미래 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/28/2026102810494053438"
+        },
+        {
+          "title": "[2026 에너지 포럼]3대 메가 프로젝트 전력 수요 확대…두산에너빌리티, 원전·가스터빈 공급 기회",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20261026500558"
+        },
+        {
+          "title": "[한국 건설, 80년의 기록]⑭ '공장 만드는 공장'에서 가스터빈 수출까지…발전설비 국산화 이끈 두산에너빌리티",
+          "source": "위키리크스한국",
+          "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193597"
+        }
+      ]
+    },
+    {
+      "title": "typhoon champi",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "Licensable picture: 2026 Israel elections - Gadi Eisenkot",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/2026-israel-elections-gadi-eisenkot/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjEwMjhYOTExWDAwMTUyNw"
+        },
+        {
+          "title": "Typhoon Champi declared strongest storm of year so far",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/26/typhoon-champi-taiwan-japan-storm-greece-floods"
+        },
+        {
+          "title": "OMG, the height of these waves hitting a seawall in Taiwan a...",
+          "source": "Kottke.org",
+          "url": "https://kottke.org/26/10/0049892-the-height-of-these-waves"
+        }
+      ]
+    },
+    {
+      "title": "어닝콜",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 14:30:00 -0700",
+      "news": [
+        {
+          "title": "네이버에서 상장사 어닝콜 듣는다… 주요 종목 80여개 생중계",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/it-science/ict/2026/10/28/YS6YNV23MJBOHNTSP6RNLMGPLU/"
+        },
+        {
+          "title": "오늘 하이닉스 실적 발표, 네이버 검색서 들어볼까…AI 요약도 한눈에",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003843584"
+        },
+        {
+          "title": "네이버, 삼전닉스 등 85개사 실적 컨콜 실시간 중계",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/it-science/internet-platform/6335154"
         }
       ]
     }
