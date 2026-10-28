@@ -1,8 +1,102 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T15:56:00+00:00",
+  "fetched_at": "2026-10-28T16:55:52+00:00",
   "items": [
+    {
+      "title": "lg에너지솔루션",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 08:40:00 -0700",
+      "news": [
+        {
+          "title": "LG화학, LG엔솔 지분 2.5조 추가 유동화…PRS 계약 체결",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/28/2026102880148.html"
+        },
+        {
+          "title": "LG화학, LG엔솔 지분 2.5조 처분…자사주 3천억원 매입·소각",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028159600003"
+        },
+        {
+          "title": "[속보] LG화학, 3,000억 원 자사주 취득 신탁계약 체결...전량 소각 예정",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/global-filings/article-93CH-2144928"
+        }
+      ]
+    },
+    {
+      "title": "노바크 조코비치",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 08:30:00 -0700",
+      "news": []
+    },
+    {
+      "title": "한겨레",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 08:10:00 -0700",
+      "news": [
+        {
+          "title": "李 \"외국인 노동자, 경제에 크게 도움 안 돼\"… 진보진영 \"사과하라\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/10/28/N3OFGB6CWNEWNBD7Y4MOKKWWEQ/"
+        },
+        {
+          "title": "이 대통령 '외국인 노동자·다문화' 발언 논란...진보진영 반발",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610290113370672"
+        },
+        {
+          "title": "'일당 13만원' 불체자도 바글바글…\"외국인 없으면 다 멈출 판\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102813991"
+        }
+      ]
+    },
+    {
+      "title": "크랙",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 08:00:00 -0700",
+      "news": [
+        {
+          "title": "“혁신은 멈췄고 완성도는 깨졌다”…애플 ‘완벽주의’가 무너진다 [핫클립]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697648"
+        },
+        {
+          "title": "애플의 ‘크랙 게이트’[횡설수설/김재영]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261028/134928752/2"
+        },
+        {
+          "title": "‘듀오’ 결함 인정…흠집 난 애플",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610272056005"
+        }
+      ]
+    },
+    {
+      "title": "일본 지진",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 08:00:00 -0700",
+      "news": [
+        {
+          "title": "일본 지바현 지바시 동쪽서 규모 5.4 지진 발생",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029001000530"
+        },
+        {
+          "title": "일본 지바현 지바시 동쪽 55km 지역 규모 5.4 지진",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698111"
+        },
+        {
+          "title": "日 지바현서 규모 5.4 지진…최대 진도 5약·쓰나미 우려 없어",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003845535"
+        }
+      ]
+    },
     {
       "title": "서울반도체",
       "approx_traffic": "100+",
@@ -14,20 +108,20 @@
           "url": "https://www.hankyung.com/article/202610281580i"
         },
         {
-          "title": "서울바이오시스, 희토류 없는 백색 마이크로LED 기술 개발",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261028000452"
-        },
-        {
           "title": "서울바이오시스, '희토류 없는' 백색 마이크로 LED 양산",
           "source": "지디넷코리아",
           "url": "https://zdnet.co.kr/view/?no=20261028183723"
+        },
+        {
+          "title": "서울반도체, '희토류 필요없는' 초소형 백색 LED 최초 개발 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/28/2026102817174980304"
         }
       ]
     },
     {
       "title": "김민",
-      "approx_traffic": "200+",
+      "approx_traffic": "100+",
       "published": "Wed, 28 Oct 2026 07:40:00 -0700",
       "news": [
         {
@@ -36,26 +130,14 @@
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/G44TQNBVMFRGCMBVMI2DINBWMI/"
         },
         {
-          "title": "김민, 최민식 앞 거친 욕 제스처 연기…\"뜻밖의 맞대응에 놀라\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6335241"
-        },
-        {
           "title": "'나혼산' 김민, '라스'까지 접수…최민식 놀라게 한 파격 애드리브는? - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/10/28/2026102814107262351"
-        }
-      ]
-    },
-    {
-      "title": "올림픽파크 포레온",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 07:30:00 -0700",
-      "news": [
+        },
         {
-          "title": "\"집주인 온다\"… 떨고 있는 올파포 세입자",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12188624"
+          "title": "김민, 최민식 앞 거친 욕 제스처 연기…\"뜻밖의 맞대응에 놀라\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6335241"
         }
       ]
     },
@@ -82,129 +164,36 @@
       ]
     },
     {
+      "title": "올림픽파크 포레온",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "\"집주인 온다\"… 떨고 있는 올파포 세입자",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12188624"
+        }
+      ]
+    },
+    {
       "title": "이계인",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Wed, 28 Oct 2026 07:10:00 -0700",
       "news": [
         {
-          "title": "이계인, 통금 위반으로 즉결재판행…\"이름 때문에 개명까지 고민\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003843661"
+          "title": "“50억원 줘도 안 팔아”…이계인이 31년째 남양주 주택 지키는 이유",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261028510953"
         },
         {
-          "title": "이계인 \"말벌 수천 마리 상대해…말벌주 담가\" 허세",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6335514"
+          "title": "\"10년 동거 내연남 숨기고 결혼\"…이계인이 고백한 '사기 결혼' 상처",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610271110084416"
         },
         {
-          "title": "이계인 “방송국 사장도 반대”, 캐스팅 비화 공개 (라스)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261027/134918422/1"
-        }
-      ]
-    },
-    {
-      "title": "신진 서",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 05:50:00 -0700",
-      "news": [
-        {
-          "title": "신진서 9단, 한국바둑리그 1억 4천만 원에 GS칼텍스 지명",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697523"
-        },
-        {
-          "title": "24회 맞은 바둑리그, 대국·보수·선발·후원사까지 싹 바뀐다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028152400007"
-        },
-        {
-          "title": "‘드래프트 폐지·주장전 신설’…하나은행과 함께 출발하는 한국바둑리그, 새판 짠다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610281619003"
-        }
-      ]
-    },
-    {
-      "title": "하림",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 05:50:00 -0700",
-      "news": [
-        {
-          "title": "[오늘Who] 김홍국 왜 하림산업 부동산·식품 나누나, '양재 개발·식품 적자' 핀포인트로 돌파구 찾기",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450424"
-        },
-        {
-          "title": "하림, 식품 전문법인 '하림식품' 신설…하림산업은 양재 물류단지 집중",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261027000021"
-        },
-        {
-          "title": "하림산업, 부동산·식품 사업 인적분할…하림식품 신설",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10915529"
-        }
-      ]
-    },
-    {
-      "title": "영아",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "“가정어린이집, 영아전문기관으로 재설계해야”…국가 책임 강화 촉구",
-          "source": "베이비뉴스",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=156308"
-        },
-        {
-          "title": "보육교사 업무 부담 여전…처우 개선 해법 모색",
-          "source": "SK브로드밴드 회사소개",
-          "url": "https://news.skbroadband.com/news/articleView.html?idxno=241307"
-        }
-      ]
-    },
-    {
-      "title": "노원구",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "서울 노원구 아파트서 불…70대 남성 숨져",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698043"
-        },
-        {
-          "title": "서울 중계동 아파트에 화재…70대 주민 1명 사망",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261028/134928903/1"
-        },
-        {
-          "title": "서울 노원구 아파트서 불‥70대 남성 숨져",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861457_36918.html"
-        }
-      ]
-    },
-    {
-      "title": "acl two",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "ACL Two Preview: Victory dealt injury blow ahead of Indonesian test",
-          "source": "A-Leagues",
-          "url": "https://aleagues.com.au/news/acl-two-preview-victory-dealt-injury-blow-ahead-of-indonesian-test/"
-        },
-        {
-          "title": "Injury sidelines Victory star for clash in Indonesia",
-          "source": "The Australian",
-          "url": "https://www.theaustralian.com.au/breaking-news/joshua-inserra-ruled-out-of-melbourne-victorys-asian-champions-league-clash-with-injury/news-story/a9104b9d382baf5b0e5edbf229011cc8"
-        },
-        {
-          "title": "Victory put away by Persib",
-          "source": "Melbourne Victory Football Club",
-          "url": "https://melbournevictory.com.au/news/victory-put-away-by-persib/"
+          "title": "양수리 105평 이계인도 거절했는데 누가 “송강호 매니저가 샀대, 30억 벌었대”(그리구라)",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202610271729402110"
         }
       ]
     }
