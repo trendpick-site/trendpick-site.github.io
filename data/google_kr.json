@@ -1,22 +1,149 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T06:56:43+00:00",
+  "fetched_at": "2026-10-28T08:01:50+00:00",
   "items": [
     {
+      "title": "신문",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "한국신문방송편집인협회, 제27대 회장에 신종수 국민일보 편집인 선출",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335346"
+        },
+        {
+          "title": "한국신문방송편집인협회 제27대 회장에 신종수 국민일보 편집인 겸 논설실장",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261028580404"
+        },
+        {
+          "title": "한국신문방송편집인협회 신임 회장에 신종수 국민일보 편집인",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028114300005"
+        }
+      ]
+    },
+    {
+      "title": "정부",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 23:50:00 -0700",
+      "news": [
+        {
+          "title": "[속보] 정부, 엘리엇 국제투자분쟁 최종 패소‥1천530억 배상책임 확정",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861343_36918.html"
+        },
+        {
+          "title": "정부, 엘리엇에 1530억원 배상해야···국제투자분쟁 패소 판정 수용",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610281521001"
+        },
+        {
+          "title": "정부, 엘리엇 환송 중재 최종 패소… 약 1530억원 배상해야",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/10/28/N2VTCYNC4NGITCKJFFUD5TLDGY/"
+        }
+      ]
+    },
+    {
+      "title": "콜 오브 듀티: 모던 워 페어 4",
+      "approx_traffic": "2000+",
+      "published": "Tue, 27 Oct 2026 23:30:00 -0700",
+      "news": [
+        {
+          "title": "\"이태원참사 영상 쓴 '콜 오브 듀티' 몰상식\"‥유가족, 삭제 요구",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861369_36918.html"
+        },
+        {
+          "title": "“이태원 참사 영상 게임에서 삭제하라”…유가족들, ‘모던 워페어4’에 항의",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610281634001"
+        },
+        {
+          "title": "'한반도 전면전' 소재에 인기 폭발…입소문 타더니 '1위' 찍었다 [지금이뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0545_202610271750015921"
+        }
+      ]
+    },
+    {
+      "title": "k뷰티",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 23:30:00 -0700",
+      "news": [
+        {
+          "title": "K뷰티, 계속 잘나갈까…아마존의 대답은 “시장 무궁무진”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610272049035"
+        },
+        {
+          "title": "한국콜마에 3년째 러브콜 보낸 아마존, K뷰티 판 커질수록 윤상현 '안목' 중요해진다",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450528"
+        },
+        {
+          "title": "\"핼러윈 지나 블프·크리스마스 온다\"…美 연말 선물에 뜬 K-뷰티",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/general-industry/6333318"
+        }
+      ]
+    },
+    {
+      "title": "연합뉴스",
+      "approx_traffic": "5000+",
+      "published": "Tue, 27 Oct 2026 23:20:00 -0700",
+      "news": [
+        {
+          "title": "수형자가 유유히 교도소 정문 걸어나갔다? 천안서 '황당' 해프닝",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027046700063"
+        },
+        {
+          "title": "‘황당한 이 교도소’…교도소 정문 유유히 걸어나간 수형자",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626748"
+        }
+      ]
+    },
+    {
+      "title": "한국프로농구",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 23:00:00 -0700",
+      "news": [
+        {
+          "title": "초유의 규정 위반, 소노는 재경기 요청 ‘역대급 오류’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697048"
+        },
+        {
+          "title": "“재경기 요청” 소노, KBL에 항의 공문 보낸다…26일 ‘위닝 샷’ 터트린 윤원상은 부정 선수",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261027/134920747/1"
+        },
+        {
+          "title": "심판 오판에 잘못 투입된 선수가 결승골‥소노 \"LG전 재경기 요청 검토\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6861093_36946.html"
+        }
+      ]
+    },
+    {
       "title": "문동주",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Tue, 27 Oct 2026 22:50:00 -0700",
       "news": [
         {
-          "title": "수술이 만든 'MVP 조기 재회'…국경 넘은 문동주X폰세 우정, \"죽기 전까지 기억할 시간\" [인터뷰②]",
+          "title": "\"아, 야구 못하나\" 11승 문동주에게 찾아온 좌절…속도 붙은 재활, '몬스터'의 길을 바라본다 [인터뷰①]",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/28/GIZDQYTBGY3WCOBQMVSWCNZXGI/"
+          "url": "https://www.chosun.com/sports/baseball/2026/10/28/MU4GMYJRMVTGCYRVGNSTAMRTG4/"
         },
         {
-          "title": "\"아, 야구 못하나\" 11승 문동주에게 찾아온 좌절…속도 붙은 재활, '몬스터'의 길을 바라본다 [인터뷰①]",
+          "title": "수술이 만든 'MVP 조기 재회'…국경 넘은 문동주X폰세 우정, \"죽기 전까지 기억할 시간\" [인터뷰②]",
           "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-10-28/202610280100176840011717"
+          "url": "https://www.sportschosun.com/baseball/2026-10-28/202610280100176850011718"
         }
       ]
     },
@@ -58,163 +185,31 @@
           "url": "https://www.kyeonggi.com/article/20261028580345"
         },
         {
-          "title": "군산~제주 항공편 줄었는데···전북도는 “편의 향상” 황당 발표",
-          "source": "전북일보 인터넷신문",
-          "url": "https://www.jjan.kr/article/20261028500026"
+          "title": "군산~제주 항공편 하루 2차례로 축소…“내년 3월까지”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8696815"
         }
       ]
     },
     {
       "title": "예산",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Tue, 27 Oct 2026 22:40:00 -0700",
       "news": [
         {
-          "title": "심덕섭 고창군수, 국회 방문…2027년도 정부예산 확보 총력",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003845004"
-        },
-        {
-          "title": "사순문 장흥군수, 4개 중앙부처 찾아 국비 473억 확보 총력전",
+          "title": "부산시의회 예결특위, 부산시·교육청 주요 사업장 5곳 현장 점검",
           "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261028001095"
+          "url": "https://www.newspim.com/news/view/20261028001215"
         },
         {
-          "title": "장수군, 민주당과 예산간담회… \"양수발전·AI축산로봇 등 11개 현안 사수\"",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353250"
-        }
-      ]
-    },
-    {
-      "title": "중수청",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 22:30:00 -0700",
-      "news": [
-        {
-          "title": "중수청 '책임수사제' 논란…수사·기소 분리 책임 떠넘기나",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04450966645617184&mediaCodeNo=257"
+          "title": "부산시의회 예결위, 주요 사업장 5곳 현장 점검…\"내년 예산안 심사 대비\"",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3735305"
         },
         {
-          "title": "수사관이 유죄까지 책임…\"중수청장의 책임수사제, 상벌에 초점 안 돼\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6597400"
-        },
-        {
-          "title": "김지용 중수청장 '책임수사제' 승부수…성공 열쇠는 권한·책임 균형:경찰연합신문",
-          "source": "경찰연합신문",
-          "url": "https://m.koreapolicenews.com/a.html?uid=2236798"
-        }
-      ]
-    },
-    {
-      "title": "압구정동",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 22:30:00 -0700",
-      "news": [
-        {
-          "title": "압구정 24억·은마 5억 낮게 팔렸다…강남3구 토허 신청 51%↑",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/realestate/general/6334804"
-        },
-        {
-          "title": "압구정 재건축 20억 이상 하락 거래 잇따라",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261027/134920030/2"
-        },
-        {
-          "title": "반포자이 60억원·압구정 신현대9차 55억 9천만원… 서울 아파트 고가 거래 [MAI부동산]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12188044"
-        }
-      ]
-    },
-    {
-      "title": "과천시",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 22:00:00 -0700",
-      "news": [
-        {
-          "title": "과천시 환경교육 3종, 기후부 '우수 프로그램' 지정…총 5종 운영",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261028580196"
-        },
-        {
-          "title": "과천시 자체 개발 환경교육 3종, 국가 '우수 환경교육 프로그램' 지정",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261028000928"
-        },
-        {
-          "title": "과천시, ‘2026년 탄소중립 공유데이’ 개최…시민 실천 성과 공유 - 보도자료 | 기사",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/releasecopy/2381850.htm"
-        }
-      ]
-    },
-    {
-      "title": "잠수함",
-      "approx_traffic": "2000+",
-      "published": "Tue, 27 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "실적 개선에 노사 갈등도 봉합…K조선, 호황 이어갈까",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028083800003"
-        },
-        {
-          "title": "한화오션, 3분기 환율 하락·조업일수 감소로 실적 하회 By 알파경제 alphabiz",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2144661"
-        },
-        {
-          "title": "한화오션 \"신규 수주 환헤지 중…이익에 환율 영향 더 줄어들 것\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441387"
-        }
-      ]
-    },
-    {
-      "title": "최성안",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 21:50:00 -0700",
-      "news": [
-        {
-          "title": "[CEO와칭] 최성안 삼성중공업 부회장, FLNG·생산 혁신으로 성장 기반 다진다",
-          "source": "메트로신문",
-          "url": "https://www.metroseoul.co.kr/article/20261027500525"
-        },
-        {
-          "title": "SKT 인사부터, KT 사업부터…AI 기업 변신 서두른다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/it-science/cc-newmedia/6332356"
-        },
-        {
-          "title": "SK그룹, 정기 인사 초읽기…쇄신보다 ’안정’에 무게 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2140436"
-        }
-      ]
-    },
-    {
-      "title": "주호민",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 21:40:00 -0700",
-      "news": [
-        {
-          "title": "“감사함을 모르고 통수” 유튜버 상대 소송한 주호민, 패소",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626957"
-        },
-        {
-          "title": "\"갑질 부부\" 뻑가에 3500만원 손배소…주호민 부부 패소 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/28/2026102723360016284"
-        },
-        {
-          "title": "\"3500만원 배상하라\"…주호민 부부, 유튜버 뻑가 상대 소송 패소",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610272207130092"
+          "title": "서울시의회 예결위, 내년도 예산 심사 앞두고 복지·첨단산업 현장 점검",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1419316"
         }
       ]
     }
