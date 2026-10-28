@@ -1,8 +1,186 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T00:09:58+00:00",
+  "fetched_at": "2026-10-28T01:04:38+00:00",
   "items": [
+    {
+      "title": "그랜드 테프트 오토 vi",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 17:00:00 -0700",
+      "news": [
+        {
+          "title": "“게임 하나 때문에 150만명 결근?”…1조원 손실 전망까지 나온 美, 무슨 일",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20106659"
+        },
+        {
+          "title": "GTA6 - 게임 캘린더",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/calendar/game/11934"
+        },
+        {
+          "title": "11월 19일에 미국에서 꾀병 환자 급증 예고",
+          "source": "게임와이",
+          "url": "https://www.gamey.kr/news/articleView.html?idxno=3019351"
+        }
+      ]
+    },
+    {
+      "title": "sk하이닉스 ir",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 17:00:00 -0700",
+      "news": [
+        {
+          "title": "블룸버그 \"솔리다임, 미국에 60조원 낸드공장 추진\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028011300009"
+        },
+        {
+          "title": "\"미국 공장 지을 테니 중국 공장 규제 풀어라\"...솔리다임의 '빅딜'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610280917074364"
+        },
+        {
+          "title": "[박동흠의 생활 속 회계이야기]SK하이닉스 ‘솔리다임 상장 사태’가 K증시에 남긴 교훈",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610272037005"
+        }
+      ]
+    },
+    {
+      "title": "대신증권",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 16:50:00 -0700",
+      "news": [
+        {
+          "title": "전날 대신증권서 해킹 사고 발생",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441497"
+        },
+        {
+          "title": "은행·보험 이어 금투업계도 해킹, 대신증권·미래에셋운용도 정보 유출",
+          "source": "이투데이",
+          "url": "https://bravo.etoday.co.kr/view/atc_view/20340"
+        },
+        {
+          "title": "증권사도 뚫렸다…대신증권 “해킹에 고객정보 3만건 유출, 2차 피해 없어”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610280902001"
+        }
+      ]
+    },
+    {
+      "title": "도박",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 16:50:00 -0700",
+      "news": [
+        {
+          "title": "4900억 불법도박사이트 운영진 단합대회 사진",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626691"
+        },
+        {
+          "title": "제주경찰, 대규모 불법 도박조직원 무더기 적발",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845467"
+        },
+        {
+          "title": "워크숍에 해외 여행도 지원...기업처럼 운영한 4900억 도박사이트 조직 적발",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/regional/2026/10/27/LIENDL3NNFCFVH6UGRSDJ3AJFI/"
+        }
+      ]
+    },
+    {
+      "title": "아주대 소아 응급실",
+      "approx_traffic": "2000+",
+      "published": "Tue, 27 Oct 2026 16:30:00 -0700",
+      "news": [
+        {
+          "title": "\"극심한 무력감·분노\"…경찰 '압수수색 사과 거부'에 아주대병원 소아응급센터 교수 7명 사직",
+          "source": "MEDI:GATE NEWS",
+          "url": "https://www.medigatenews.com/news/666187207"
+        },
+        {
+          "title": "아주대 소아응급 교수 7명 사직 결정...국감서도 경찰수사에 분노",
+          "source": "의학신문",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014986"
+        }
+      ]
+    },
+    {
+      "title": "국민연금",
+      "approx_traffic": "500+",
+      "published": "Tue, 27 Oct 2026 16:30:00 -0700",
+      "news": [
+        {
+          "title": "청년 생애 첫 연금보험료 지원 사전신청 1만명 넘어",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028056200530"
+        },
+        {
+          "title": "청년 생애 첫 국민연금 보험료 지원 사전신청 1만명 돌파",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003844134"
+        },
+        {
+          "title": "[2026 국감] 정은경 복지부 장관 \"청년 생애 첫 보험료 지원, 26세 확대 공감\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261027000849"
+        }
+      ]
+    },
+    {
+      "title": "어닝콜",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 16:30:00 -0700",
+      "news": [
+        {
+          "title": "주가는 떨어지는데 팔 수가 없다?…소수점 거래의 사각지대",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261019153547134"
+        }
+      ]
+    },
+    {
+      "title": "아버지",
+      "approx_traffic": "5000+",
+      "published": "Tue, 27 Oct 2026 16:20:00 -0700",
+      "news": [
+        {
+          "title": "\"아버지 장례비 750만 원 혼자 냈는데\"…부의금 싹 달라는 작은아버지",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6333729"
+        },
+        {
+          "title": "\"아버지 장례비 한 푼 안 낸 작은아버지, 부의금 다 내놓으라고 하네요\" [어떻게 생각하세요]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610280757170803"
+        }
+      ]
+    },
+    {
+      "title": "헤이 지니",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 16:20:00 -0700",
+      "news": [
+        {
+          "title": "\"'밥값 해, 일부러 야근해?' 막차 끊길 때까지 일 강요\"…헤이지니 또 폭로",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6333612"
+        },
+        {
+          "title": "헤이지니, 직원들에 유모차 토스 영상 재조명 \"나는 멀리서 관전\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003844073"
+        },
+        {
+          "title": "헤이지니 전 직원 “연봉 2천 만 원, 하루 16시간 업무” 주장",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202610271416291585"
+        }
+      ]
+    },
     {
       "title": "창신 메모리 테크놀로지",
       "approx_traffic": "1000+",
@@ -22,204 +200,6 @@
           "title": "“CXMT, 애플의 공급 제안 거절”…중국 “메모리 자급자족”",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697026"
-        }
-      ]
-    },
-    {
-      "title": "공중강습",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 15:50:00 -0700",
-      "news": [
-        {
-          "title": "육군 제2신속대응사단, 공정·공중강습 훈련",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261027_0021506435&pID=1&cID=&sID=1&type=photoMain&idx=5"
-        },
-        {
-          "title": "낙하산으로 적 후방 침투…육군 공정·공중강습작전 훈련",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027136300504"
-        },
-        {
-          "title": "육군 2신속대응사단, 헬기 12대로 적 후방 침투…기계화부대 공격 길 연다",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261027001516"
-        }
-      ]
-    },
-    {
-      "title": "별자리",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "[오늘의 운세] 2026년 10월 28일 띠별 운세",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0121_202610280000000001"
-        },
-        {
-          "title": "오늘의 운세 - 2026년 10월 28일 수요일(음력 9월 18일)",
-          "source": "울산종합일보",
-          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065584319528119"
-        },
-        {
-          "title": "[오늘의 운세/10월 28일]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261027/134920890/2"
-        }
-      ]
-    },
-    {
-      "title": "허문회",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "[단독]이택근 롯데 신임 단장의 첫 승부수…허문회 전 감독 코치 영입·박승민 2군 감독 내정",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626742"
-        },
-        {
-          "title": "20년 만에 돌아온 롯데 이동욱 감독, 9년 '암흑기' 끝낼까",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003843269"
-        },
-        {
-          "title": "[뭐라노]데이터 기반 똑똑한 야구·수비강화…롯데의 ‘새판 짜기’",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261027.99099007594"
-        }
-      ]
-    },
-    {
-      "title": "신상진",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 15:10:00 -0700",
-      "news": [
-        {
-          "title": "신상진 성남시장 “국토부, 분당 재건축 발목 잡아…이율배반 행정” 강력 성토",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335230"
-        },
-        {
-          "title": "정부, 분당재건축 교통영향평가 요구…성남시 “2차 특별정비구역 차질 우려”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261027580154"
-        },
-        {
-          "title": "국토부 '뒷북 지침'에 뿔난 성남시…\"분당 재건축 1.3만가구 무산 위기\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/10/27/2026102711224187504"
-        }
-      ]
-    },
-    {
-      "title": "브라질",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 15:10:00 -0700",
-      "news": [
-        {
-          "title": "브라질 룰라 당선되자... 보우소나루는 여권 뺏기고 출국금지",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/10/27/X46MBDQ2EZBGZGB7X5Z6E3R6SQ/"
-        },
-        {
-          "title": "바쁘다 바빠, 시진핑 中 주석 전보 외교",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261028010009616"
-        },
-        {
-          "title": "보우소나루, 브라질 대선 불복 철회‥'트럼프 손절'에 백기",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6861095_36925.html"
-        }
-      ]
-    },
-    {
-      "title": "하이닉스 실적발표",
-      "approx_traffic": "20000+",
-      "published": "Tue, 27 Oct 2026 15:00:00 -0700",
-      "news": [
-        {
-          "title": "SK하이닉스, 2026년 3분기 경영실적 발표",
-          "source": "SK hynix",
-          "url": "https://news.skhynix.co.kr/q3-2026-business-results/"
-        },
-        {
-          "title": "[오피셜]하닉, 자사주소각 60조·배당 30조…3분기 이익 사상최대",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626804"
-        },
-        {
-          "title": "[마켓뷰] 하이닉스 주주환원책 기대…코스피 상승 이어갈까",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028022600008"
-        }
-      ]
-    },
-    {
-      "title": "묀헨글라트바흐 대 카를스루에",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 15:00:00 -0700",
-      "news": [
-        {
-          "title": "Borussia M'gladbach vs Karlsruher SC: German DFB Pokal stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cjqlnk3e6gp5t"
-        },
-        {
-          "title": "DFB-Pokal: Ten-man Gladbach advance after efficient performance against Karlsruhe",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/dfb-pokal-ten-man-gladbach-214100742.html"
-        },
-        {
-          "title": "Licensable picture: DFB-Pokal, 2. Runde, Borussia Mönchengladbach - Karlsruher SC",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/dfb-pokal-2-runde-borussia-monchengladbach-karlsruher-sc/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBMWkNYS04"
-        }
-      ]
-    },
-    {
-      "title": "기온",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 15:00:00 -0700",
-      "news": [
-        {
-          "title": "파주·철원 등 -2도...10월말 초겨울 추위 원인은?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202610280700340616"
-        },
-        {
-          "title": "[출근길 날씨] 출근길 서울 체감온도 0도…내륙 대부분 한파주의보",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697173"
-        },
-        {
-          "title": "출근길 곳곳 영하권‥올가을 들어 가장 춥다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6861228_37012.html"
-        }
-      ]
-    },
-    {
-      "title": "수험",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "용인특례시, 수능 마친 수험생 위한 특별 프로그램 운영",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335097"
-        },
-        {
-          "title": "수능 끝나면 오세요…용인 포은아트홀서 ‘수험생 힐링 콘서트’",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626458"
-        },
-        {
-          "title": "용인시, 수능 마친 수험생에 쉼표…‘도서관서 재충전’ 프로그램",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102609100406789"
         }
       ]
     }
