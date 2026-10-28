@@ -1,27 +1,49 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-27T23:40:31+00:00",
+  "fetched_at": "2026-10-28T00:09:58+00:00",
   "items": [
     {
-      "title": "온도",
-      "approx_traffic": "100+",
-      "published": "Tue, 27 Oct 2026 15:30:00 -0700",
+      "title": "창신 메모리 테크놀로지",
+      "approx_traffic": "1000+",
+      "published": "Tue, 27 Oct 2026 15:50:00 -0700",
       "news": [
         {
-          "title": "[우리품의 아프리카인](58) 한-아프리카 '온도' 맞추는 가봉 출신 온도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022164500898"
+          "title": "[단독] \"AI, 중국칩만으론 불안\"… 고성능 한국 D램 구하기 '혈안'",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12187432"
         },
         {
-          "title": "내일 아침 출근길 곳곳 영하권‥올가을 들어 가장 춥다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861152_37004.html"
+          "title": "[뉴스 저격] \"中으로 몰리는 글로벌 자금… 로봇·전기차는 세계 최고, 반도체 자립도 빨라져\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/money/2026/10/28/SECPATNDQFAPPKO57HBTIIOBVY/"
         },
         {
-          "title": "[출근길 날씨] 출근길 서울 체감온도 0도…내륙 대부분 한파주의보",
+          "title": "“CXMT, 애플의 공급 제안 거절”…중국 “메모리 자급자족”",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697173"
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697026"
+        }
+      ]
+    },
+    {
+      "title": "공중강습",
+      "approx_traffic": "200+",
+      "published": "Tue, 27 Oct 2026 15:50:00 -0700",
+      "news": [
+        {
+          "title": "육군 제2신속대응사단, 공정·공중강습 훈련",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261027_0021506435&pID=1&cID=&sID=1&type=photoMain&idx=5"
+        },
+        {
+          "title": "낙하산으로 적 후방 침투…육군 공정·공중강습작전 훈련",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027136300504"
+        },
+        {
+          "title": "육군 2신속대응사단, 헬기 12대로 적 후방 침투…기계화부대 공격 길 연다",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261027001516"
         }
       ]
     },
@@ -36,9 +58,9 @@
           "url": "https://www.ytn.co.kr/_ln/0121_202610280000000001"
         },
         {
-          "title": "[오늘의 운세] 10월 28일 수요일 (음력 9월 18일) 띠별 운세",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261026580262"
+          "title": "오늘의 운세 - 2026년 10월 28일 수요일(음력 9월 18일)",
+          "source": "울산종합일보",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065584319528119"
         },
         {
           "title": "[오늘의 운세/10월 28일]",
@@ -58,14 +80,36 @@
           "url": "https://www.munhwa.com/article/11626742"
         },
         {
-          "title": "5년 전 쫓겨났던 감독의 컴백…이동욱호 수석코치 허문회 내정, 15년 만에 의기투합 타선 개혁까지 동시에 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/28/202610280150771884O"
+          "title": "20년 만에 돌아온 롯데 이동욱 감독, 9년 '암흑기' 끝낼까",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003843269"
         },
         {
           "title": "[뭐라노]데이터 기반 똑똑한 야구·수비강화…롯데의 ‘새판 짜기’",
           "source": "국제신문",
           "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261027.99099007594"
+        }
+      ]
+    },
+    {
+      "title": "신상진",
+      "approx_traffic": "100+",
+      "published": "Tue, 27 Oct 2026 15:10:00 -0700",
+      "news": [
+        {
+          "title": "신상진 성남시장 “국토부, 분당 재건축 발목 잡아…이율배반 행정” 강력 성토",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335230"
+        },
+        {
+          "title": "정부, 분당재건축 교통영향평가 요구…성남시 “2차 특별정비구역 차질 우려”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261027580154"
+        },
+        {
+          "title": "국토부 '뒷북 지침'에 뿔난 성남시…\"분당 재건축 1.3만가구 무산 위기\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/10/27/2026102711224187504"
         }
       ]
     },
@@ -85,26 +129,26 @@
           "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261028010009616"
         },
         {
-          "title": "대선 패배 하루 만에‥브라질 대법원, 보우소나루 출국 금지",
+          "title": "보우소나루, 브라질 대선 불복 철회‥'트럼프 손절'에 백기",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6860988_36925.html"
+          "url": "https://imnews.imbc.com/news/2026/world/article/6861095_36925.html"
         }
       ]
     },
     {
       "title": "하이닉스 실적발표",
-      "approx_traffic": "2000+",
+      "approx_traffic": "20000+",
       "published": "Tue, 27 Oct 2026 15:00:00 -0700",
       "news": [
         {
-          "title": "SK하이닉스, 오늘 3분기 실적 발표…'역대급 주주환원책' 내놓나",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003843283"
+          "title": "SK하이닉스, 2026년 3분기 경영실적 발표",
+          "source": "SK hynix",
+          "url": "https://news.skhynix.co.kr/q3-2026-business-results/"
         },
         {
-          "title": "[스타트 경제] '역대급 실적' 삼전닉스 3분기 실적공개...주주환원은 얼마나?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610280727055635"
+          "title": "[오피셜]하닉, 자사주소각 60조·배당 30조…3분기 이익 사상최대",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626804"
         },
         {
           "title": "[마켓뷰] 하이닉스 주주환원책 기대…코스피 상승 이어갈까",
@@ -119,14 +163,14 @@
       "published": "Tue, 27 Oct 2026 15:00:00 -0700",
       "news": [
         {
-          "title": "DFB-Pokal: Ten-man Gladbach advance after efficient performance against Karlsruhe",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/dfb-pokal-ten-man-gladbach-214100742.html"
-        },
-        {
           "title": "Borussia M'gladbach vs Karlsruher SC: German DFB Pokal stats & head-to-head",
           "source": "BBC",
           "url": "https://www.bbc.com/sport/football/live/cjqlnk3e6gp5t"
+        },
+        {
+          "title": "DFB-Pokal: Ten-man Gladbach advance after efficient performance against Karlsruhe",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/dfb-pokal-ten-man-gladbach-214100742.html"
         },
         {
           "title": "Licensable picture: DFB-Pokal, 2. Runde, Borussia Mönchengladbach - Karlsruher SC",
@@ -141,36 +185,19 @@
       "published": "Tue, 27 Oct 2026 15:00:00 -0700",
       "news": [
         {
-          "title": "내일 아침 출근길 곳곳 영하권‥올가을 들어 가장 춥다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861152_37004.html"
+          "title": "파주·철원 등 -2도...10월말 초겨울 추위 원인은?",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202610280700340616"
         },
         {
           "title": "[출근길 날씨] 출근길 서울 체감온도 0도…내륙 대부분 한파주의보",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8697173"
-        }
-      ]
-    },
-    {
-      "title": "창신메모리테크놀로지",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 15:00:00 -0700",
-      "news": [
-        {
-          "title": "[단독] \"AI, 중국칩만으론 불안\"… 고성능 한국 D램 구하기 '혈안'",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12187432"
         },
         {
-          "title": "[뉴스 저격] \"中으로 몰리는 글로벌 자금… 로봇·전기차는 세계 최고, 반도체 자립도 빨라져\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/money/2026/10/28/SECPATNDQFAPPKO57HBTIIOBVY/"
-        },
-        {
-          "title": "“CXMT, 애플의 공급 제안 거절”…중국 “메모리 자급자족”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697026"
+          "title": "출근길 곳곳 영하권‥올가을 들어 가장 춥다",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6861228_37012.html"
         }
       ]
     },
@@ -193,28 +220,6 @@
           "title": "용인시, 수능 마친 수험생에 쉼표…‘도서관서 재충전’ 프로그램",
           "source": "아시아경제",
           "url": "https://view.asiae.co.kr/article/2026102609100406789"
-        }
-      ]
-    },
-    {
-      "title": "정준하",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 14:50:00 -0700",
-      "news": [
-        {
-          "title": "정형돈, 돈가스집 '바지사장' 의심받자…\"지분 25%\" 해명 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102720555639903"
-        },
-        {
-          "title": "정형돈, '혹평 논란' 돈까스집에 입 열었다 \"바지사장 아냐, 지분 25%\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-27/202610270100174230011535"
-        },
-        {
-          "title": "정준하, 月 4억 매출에도 만류했는데…정형돈 돈까스집 오픈",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102790547"
         }
       ]
     }
