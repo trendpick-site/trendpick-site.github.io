@@ -1,220 +1,204 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T09:53:37+00:00",
+  "fetched_at": "2026-10-28T10:50:22+00:00",
   "items": [
     {
-      "title": "lg이노텍",
-      "approx_traffic": "1000+",
-      "published": "Wed, 28 Oct 2026 01:50:00 -0700",
+      "title": "이재성",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 02:40:00 -0700",
       "news": [
         {
-          "title": "김정관 산업장관, 구미서 25조원 투자·제조 AX 확산 속도 낸다",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=373990"
-        },
-        {
-          "title": "김정관 산업부 장관, 구미 M.AX AI 제조기업 밋업 행사 참석",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/company/2026/10/28/A5JMJJLDJNFXJLPMZMKL7KBHX4/"
-        },
-        {
-          "title": "사용후 배터리 산업 활성화 위한 시험실증센터 준공",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261028501176"
-        }
-      ]
-    },
-    {
-      "title": "한우",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 01:50:00 -0700",
-      "news": [
-        {
-          "title": "“삼겹살 1㎏ 1만7000원”···홍성 바비큐축제, 최대 34.6% 할인",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610281056001"
-        },
-        {
-          "title": "홍성 글로벌바비큐페스티벌서는 한우·한돈 최대 34.6% 할인",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028071200063"
-        },
-        {
-          "title": "배우 정준호가 부르고 ‘AI가 길 안내’… 홍성바비큐축제 손님맞이 눈길",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353200"
-        }
-      ]
-    },
-    {
-      "title": "구미시",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 01:50:00 -0700",
-      "news": [
-        {
-          "title": "진천군, 제47회 흰지팡이의 날 기념행사 개최",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3733508"
-        },
-        {
-          "title": "이천시 시각장애인복지대회 개최…140여 명 한자리에",
-          "source": "경충일보",
-          "url": "https://www.kcilbo.com/articles/2026102793630"
-        },
-        {
-          "title": "“차별 없는 구미, 함께 걷는 흰지팡이”",
-          "source": "데일리대구경북뉴스",
-          "url": "https://www.dailydgnews.com/news/article.html?no=267328"
-        }
-      ]
-    },
-    {
-      "title": "송도세브란스병원",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 01:40:00 -0700",
-      "news": [
-        {
-          "title": "[기고] 송도 세브란스병원, 더 이상 기다릴 수 없다",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1773526"
-        },
-        {
-          "title": "[단독] 송도세브란스 \"공동도급 문제 없다\"는 법률자문서, 이사들 몰랐다",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/General-News/2026/10/2026102813084012389ae5042aca_1"
-        },
-        {
-          "title": "송도세브란스 개원 연기에 지연손해금 부과… 2028년 넘기면 부지 환매",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261025580194"
-        }
-      ]
-    },
-    {
-      "title": "태양광 발전",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 01:20:00 -0700",
-      "news": [
-        {
-          "title": "中 풍력·태양광 설비용량 20억㎾ 돌파, 세계 절반 차지",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261028001424"
-        },
-        {
-          "title": "거울로 모은 태양열, 용융염에 저장해 해 진 뒤 발전",
-          "source": "비건뉴스",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=395582"
-        }
-      ]
-    },
-    {
-      "title": "레버리지",
-      "approx_traffic": "5000+",
-      "published": "Wed, 28 Oct 2026 00:50:00 -0700",
-      "news": [
-        {
-          "title": "“2만 원이 4천 원 됐다”…‘미국서 청산’ SK 레버리지, 한국은? [잇슈 머니]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697044"
-        },
-        {
-          "title": "\"하이닉스보다 더 빠졌다\"…한 달 새 반토막에 개미들 '비명' [분석+]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102784406"
-        },
-        {
-          "title": "SK하이닉스는 잘나가는데… 레버리지 ETF는 초고속 청산?",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261027000236"
-        }
-      ]
-    },
-    {
-      "title": "김연경",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 00:50:00 -0700",
-      "news": [
-        {
-          "title": "‘신인감독2’ 김연경 “다시는 안 해, 시즌3 거부 …속지 말자”…좌중 폭소",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261026504919"
-        },
-        {
-          "title": "'신인감독 김연경2' 2주 연속 화제성 1위…김연경·황연주도 나란히 1·2위",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6333493"
-        },
-        {
-          "title": "'신인감독 김연경2' 2주 연속 TV·OTT 비드라마 화제성 1위",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/M/Detail/522541"
-        }
-      ]
-    },
-    {
-      "title": "인형",
-      "approx_traffic": "1000+",
-      "published": "Wed, 28 Oct 2026 00:50:00 -0700",
-      "news": [
-        {
-          "title": "\"블핑 리사도 열광\" 1초에 3개씩 팔리더니…1년 만에 '굴욕'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610280699g"
-        },
-        {
-          "title": "너도나도 가방에 달더니… 라부부 열풍 식자 미주 매출 4분의 1 토막",
+          "title": "‘역시 믿고 보는 이재성’ 63분 활약 후 교체…마인츠, 보훔에 0-2 패배…포칼 탈락",
           "source": "조선일보",
-          "url": "https://www.chosun.com/economy/int_economy/2026/10/28/WWWJEH7ZUFAORNJZCNPAZQAQYQ/"
+          "url": "https://www.chosun.com/sports/world-football/2026/10/28/MY3DANZVGY3TQOBTMNQTOZRWGI/"
         },
         {
-          "title": "오늘 Pop Mart 주가가 하락하는 이유는?",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2144740"
+          "title": "드디어 터졌다…이재성, 감각적 헤더로 시즌 첫 골!",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6596582"
+        },
+        {
+          "title": "차범근-손흥민 다음은 이재성! 구자철 넘어섰다...브레멘전 분데스리가 통산 '29호골' 폭발, 韓 득점 단독 3위 등극",
+          "source": "마이데일리",
+          "url": "https://www.mydaily.co.kr/page/view/2026102621450122592"
         }
       ]
     },
     {
-      "title": "코트",
+      "title": "afc 아시안컵",
       "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 00:50:00 -0700",
+      "published": "Wed, 28 Oct 2026 02:30:00 -0700",
       "news": [
         {
-          "title": "일교차 15도, 출근길 아우터 대체 뭐 입냐면요",
-          "source": "엘르 코리아 │ ELLE KOREA",
-          "url": "https://www.elle.co.kr/article/1911965"
+          "title": "[그래픽] 사우디 AFC 아시안컵 개요",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/GYH20261027000300044"
         },
         {
-          "title": "옷 잘 입는 사람들은 ‘이 패딩’을 선택합니다",
-          "source": "Vogue korea",
-          "url": "https://www.vogue.co.kr/2026/10/28/%EC%98%B7-%EC%9E%98-%EC%9E%85%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4-%ED%8C%A8%EB%94%A9%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%A9%EB%8B%88%EB%8B%A4/"
+          "title": "중동 정세 불안 속 아시안컵 일정 확정‥대표팀 1월 10일 첫 경기",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6860966_36946.html"
         },
         {
-          "title": "아침엔 패딩, 낮엔 재킷…널뛰는 일교차에 간절기 패션 ’불티’ By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2144704"
+          "title": "중동 정세 불안 속 축구 아시안컵 강행",
+          "source": "부산일보",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026102710155901408"
         }
       ]
     },
     {
-      "title": "mlb",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 00:50:00 -0700",
+      "title": "천천히 강렬하게",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 02:30:00 -0700",
       "news": [
         {
-          "title": "Tampa Bay rallies for 12th-inning walk-off to beat Milwaukee in World Series Game 4",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/10/28/TBYDBHOESZHHTIANBM7RSEOBSE/"
+          "title": "설현, '천천히 강렬하게'서 송혜교와 연기 호흡…성공 향해 돌진",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817182"
         },
         {
-          "title": "Tampa Bay Rays Stay Alive With Dramatic Comeback Win in 12th Inning",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008819111"
+          "title": "‘천천히 강렬하게’ 김설현, 강렬한 연기 변신 예고",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610280327003"
+        }
+      ]
+    },
+    {
+      "title": "진성준",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 02:20:00 -0700",
+      "news": [
+        {
+          "title": "[속보] 與 진성준 국방위원장도 美 비자발급 거부당해",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/10/28/ZHBUXVI2QJCGVJVJYA3ALYBBYI/"
         },
         {
-          "title": "'We’ve got one more day': Rays walk it off to force Game 5",
-          "source": "MLB.com",
-          "url": "https://www.mlb.com/news/rays-win-world-series-game-4-2026"
+          "title": "“우리도 스티븐 유 입국 제한” 정청래 美 비자 지연 본 이준석의 말",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626698"
+        },
+        {
+          "title": "“중국인보다 한국인이 더 많이 거절당했다” 미국 비자 거절률 급등…무슨 일",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20106089"
+        }
+      ]
+    },
+    {
+      "title": "줍줍",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 02:20:00 -0700",
+      "news": [
+        {
+          "title": "\"당첨 즉시 10억원 시세차익\"…'과천 디에트르 퍼스티지' 줍줍",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102895046"
+        },
+        {
+          "title": "과천서 8억원대 ‘로또 청약’ 2가구 나온다… ‘10억’ 시세차익 기대감",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261028500480"
+        },
+        {
+          "title": "\"주변보다 10억 낮다\"…과천서 8억대 '줍줍' 2가구 나온다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/28/2026102811500379844"
+        }
+      ]
+    },
+    {
+      "title": "chuyển khoản",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 02:20:00 -0700",
+      "news": [
+        {
+          "title": "Cảnh giác: Xuất hiện hoạt động tìm kiếm, mua bán ứng dụng ngân hàng giả mạo",
+          "source": "Công An tỉnh Cao Bằng",
+          "url": "https://congan.caobang.gov.vn/canh-bao-toi-pham/canh-giac-xuat-hien-hoat-dong-tim-kiem-mua-ban-ung-dung-ngan-hang-gia-mao-1082334"
+        },
+        {
+          "title": "Cục An ninh mạng: Người dân sẽ bị truy cứu trách nhiệm hình sự nếu chuyển khoản trong trường hợp sau",
+          "source": "nguoiquansat.vn",
+          "url": "https://nguoiquansat.vn/cuc-an-ninh-mang-nguoi-dan-se-bi-truy-cuu-trach-nhiem-hinh-su-neu-chuyen-khoan-trong-truong-hop-sau-324615.html"
+        },
+        {
+          "title": "Công an sẽ điều tra nếu phát hiện sử dụng các ứng dụng sau để chuyển khoản thanh toán",
+          "source": "CafeBiz",
+          "url": "https://cafebiz.vn/cong-an-se-dieu-tra-neu-phat-hien-su-dung-cac-ung-dung-sau-de-chuyen-khoan-thanh-toan-176261028143324054.chn"
+        }
+      ]
+    },
+    {
+      "title": "가시마 앤틀러스 대 포항",
+      "approx_traffic": "2000+",
+      "published": "Wed, 28 Oct 2026 02:10:00 -0700",
+      "news": []
+    },
+    {
+      "title": "대탈출",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "[방송소식] 티빙 '대탈출: 도시괴담' 12월 공개",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028042100005"
+        },
+        {
+          "title": "‘대탈출 : 도시괴담’, 6인 탈출러 확정…12월 티빙서 공개",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261028500749"
+        },
+        {
+          "title": "[공식] 김종민·신동 복귀→승관 합류 ‘대탈출6’, 12월 2일 첫 공개",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261028/134922074/1"
+        }
+      ]
+    },
+    {
+      "title": "ai 버블",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "AI 자금난 우려에도…GPU 렌탈값은 뛴다",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441246"
+        },
+        {
+          "title": "빅테크 직원 1인당 이익률 30%… 나머지 S&P500 기업은 10% 수준",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/28/OEHXOC7J3JBABKOT6S5H7PEYGM/"
+        },
+        {
+          "title": "[GAM] AI 투자 지형이 바뀐다 ① AI 지출 회의론에 반도체·하드웨어주 약세",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261027000004"
+        }
+      ]
+    },
+    {
+      "title": "과징금",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "방미통위, '인앱결제 강요' 구글·애플 과징금 637억 원 부과",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6861372_36932.html"
+        },
+        {
+          "title": "[속보] 구글 429억원·애플 208억원 과징금…방미통위,시정명령 의결",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627016"
+        },
+        {
+          "title": "제46차 방송미디어통신위원회 전체회의 브리핑",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156786888"
         }
       ]
     }
