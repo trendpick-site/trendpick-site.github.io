@@ -1,22 +1,71 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T17:50:04+00:00",
+  "fetched_at": "2026-10-28T18:52:34+00:00",
   "items": [
     {
-      "title": "김소연",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 09:20:00 -0700",
+      "title": "sc 프라이부르크 대 볼프스부르크",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 10:40:00 -0700",
       "news": [
         {
-          "title": "46세 김소연, 결혼 9년 만에 다시 웨딩드레스 입었다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261028/134924991/1"
+          "title": "Freiburg vs Wolfsburg: German DFB Pokal stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cq62ynwkdxryt"
         },
         {
-          "title": "이상우 깜짝 놀라겠네…♥김소연 웨딩드레스 무슨 일? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/28/2026102816451026072"
+          "title": "Preview: Freiburg vs Wolfsburg - prediction, team news, lineups",
+          "source": "Sports Mole",
+          "url": "https://www.sportsmole.co.uk/football/freiburg/dfb-pokal/preview/freiburg-vs-wolfsburg-prediction-team-news-lineups_607757.html"
+        },
+        {
+          "title": "Fond memories",
+          "source": "VfL Wolfsburg",
+          "url": "https://www.vfl-wolfsburg.de/en/newsdetails/news-detail/detail/news/fond-memories"
+        }
+      ]
+    },
+    {
+      "title": "애플",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 10:20:00 -0700",
+      "news": [
+        {
+          "title": "Apple, M6를 탑재한 신규 MacBook Pro 14 공개",
+          "source": "Apple",
+          "url": "https://www.apple.com/kr/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+        },
+        {
+          "title": "애플, 터치스크린 OLED 디스플레이 탑재 맥북 프로 공개",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2146525"
+        },
+        {
+          "title": "애플, M6칩 탑재로 AI성능 높인 신형 맥북프로·아이맥 공개",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028002500091"
+        }
+      ]
+    },
+    {
+      "title": "apple",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 10:20:00 -0700",
+      "news": [
+        {
+          "title": "Apple Unveils Its First Touch-Screen Laptop Computer",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html"
+        },
+        {
+          "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+          "source": "Apple",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+        },
+        {
+          "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html"
         }
       ]
     },
@@ -31,14 +80,14 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/10/28/G5TDEMRRHEZTGMDEGRSGKZJQGE/"
         },
         {
-          "title": "은지원, 재혼 후 180도 달라졌다…\"상상도 안 돼\" [소셜in]",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/M/Detail/522744"
-        },
-        {
           "title": "“은지원 상상 안 가” ♥9살 연하 코디 재혼 후 달라졌다 증언, 와이프와 캠핑 多(이승기2)",
           "source": "뉴스엔",
           "url": "https://m.newsen.com/news_view.php?uid=202610281257092110"
+        },
+        {
+          "title": "은지원, 집돌이 벗고 ♥9살 연하 아내와 캠핑...재혼 후 확 달라진 일상",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-28/202610280100176700011708"
         }
       ]
     },
@@ -48,9 +97,9 @@
       "published": "Wed, 28 Oct 2026 08:40:00 -0700",
       "news": [
         {
-          "title": "LG화학, LG엔솔 지분 2.5조 추가 유동화…PRS 계약 체결",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/28/2026102880148.html"
+          "title": "LG화학, LG엔솔 지분 2.5조 매각… 4000억은 주주환원",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261028/134928243/2"
         },
         {
           "title": "LG화학, LG엔솔 지분 2.5조 처분…자사주 3천억원 매입·소각",
@@ -58,15 +107,15 @@
           "url": "https://www.yna.co.kr/view/AKR20261028159600003"
         },
         {
-          "title": "[속보] LG화학, 3,000억 원 자사주 취득 신탁계약 체결...전량 소각 예정",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/global-filings/article-93CH-2144928"
+          "title": "LG화학, LG엔솔 지분 2.5조 PRS로 유동화…4천억은 주주환원",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1183285"
         }
       ]
     },
     {
       "title": "노바크 조코비치",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Wed, 28 Oct 2026 08:30:00 -0700",
       "news": []
     },
@@ -81,14 +130,14 @@
           "url": "https://www.khan.co.kr/article/202610281550001"
         },
         {
-          "title": "[이슈분석]月 500만원 준다는 '농촌 일자리'…1만명에 1500억, 효과는 미지수",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05703926645617512&mediaCodeNo=257"
-        },
-        {
           "title": "'일당 13만원' 불체자도 바글바글…\"외국인 없으면 다 멈출 판\"",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/2026102813991"
+        },
+        {
+          "title": "[이슈분석]月 500만원 준다는 '농촌 일자리'…1만명에 1500억, 효과는 미지수",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05703926645617512&mediaCodeNo=257"
         }
       ]
     },
@@ -98,9 +147,9 @@
       "published": "Wed, 28 Oct 2026 08:00:00 -0700",
       "news": [
         {
-          "title": "애플의 ‘크랙 게이트’[횡설수설/김재영]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261028/134928752/2"
+          "title": "“혁신은 멈췄고 완성도는 깨졌다”…애플 ‘완벽주의’가 무너진다 [핫클립]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697648"
         },
         {
           "title": "\"애플한테 1원도 안 받았다\"…잇섭, 아이폰 듀오 검증 악플에 '강력 대응' 경고",
@@ -142,9 +191,9 @@
       "published": "Wed, 28 Oct 2026 07:40:00 -0700",
       "news": [
         {
-          "title": "“희토류 필요없다”…서울반도체, LED 판도 바꿀 신기술 개발",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610281580i"
+          "title": "서울반도체, '희토류 필요없는' 초소형 백색 LED 최초 개발 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/28/2026102817174980304"
         },
         {
           "title": "서울바이오시스, '희토류 없는' 백색 마이크로 LED 양산",
@@ -155,50 +204,6 @@
           "title": "서울반도체, 無희토류 3세대 광반도체 개발",
           "source": "아시아타임즈",
           "url": "https://www.asiatime.co.kr/article/20261028500414"
-        }
-      ]
-    },
-    {
-      "title": "김민",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 07:40:00 -0700",
-      "news": [
-        {
-          "title": "김민, ‘나혼산’ 출연 후 아찔한 사생활 고충...\"사람들이 집에 너무 찾아온다\" ('라스')",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/G44TQNBVMFRGCMBVMI2DINBWMI/"
-        },
-        {
-          "title": "'나혼산' 김민, '라스'까지 접수…최민식 놀라게 한 파격 애드리브는? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/28/2026102814107262351"
-        },
-        {
-          "title": "김민, 최민식 앞 거친 욕 제스처 연기…\"뜻밖의 맞대응에 놀라\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6335241"
-        }
-      ]
-    },
-    {
-      "title": "메달",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 07:30:00 -0700",
-      "news": [
-        {
-          "title": "‘은퇴 예고’ 쇼트트랙 최민정, 월드투어 첫 대회에서 금메달",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694518"
-        },
-        {
-          "title": "'마지막 코너서 대역전' 이정민, 쇼트트랙 월드투어 계주 금메달 견인",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03329206645616856&mediaCodeNo=257"
-        },
-        {
-          "title": "인코스 장인'의 짜릿한 역전극…남자 계주 '금빛 질주'",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815723"
         }
       ]
     }
