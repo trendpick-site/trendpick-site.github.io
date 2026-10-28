@@ -1,215 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T08:01:50+00:00",
+  "fetched_at": "2026-10-28T08:55:01+00:00",
   "items": [
     {
-      "title": "신문",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 23:50:00 -0700",
-      "news": [
-        {
-          "title": "한국신문방송편집인협회, 제27대 회장에 신종수 국민일보 편집인 선출",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335346"
-        },
-        {
-          "title": "한국신문방송편집인협회 제27대 회장에 신종수 국민일보 편집인 겸 논설실장",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261028580404"
-        },
-        {
-          "title": "한국신문방송편집인협회 신임 회장에 신종수 국민일보 편집인",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028114300005"
-        }
-      ]
-    },
-    {
-      "title": "정부",
-      "approx_traffic": "500+",
-      "published": "Tue, 27 Oct 2026 23:50:00 -0700",
-      "news": [
-        {
-          "title": "[속보] 정부, 엘리엇 국제투자분쟁 최종 패소‥1천530억 배상책임 확정",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861343_36918.html"
-        },
-        {
-          "title": "정부, 엘리엇에 1530억원 배상해야···국제투자분쟁 패소 판정 수용",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610281521001"
-        },
-        {
-          "title": "정부, 엘리엇 환송 중재 최종 패소… 약 1530억원 배상해야",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/10/28/N2VTCYNC4NGITCKJFFUD5TLDGY/"
-        }
-      ]
-    },
-    {
-      "title": "콜 오브 듀티: 모던 워 페어 4",
+      "title": "김연경",
       "approx_traffic": "2000+",
-      "published": "Tue, 27 Oct 2026 23:30:00 -0700",
+      "published": "Wed, 28 Oct 2026 00:50:00 -0700",
       "news": [
         {
-          "title": "\"이태원참사 영상 쓴 '콜 오브 듀티' 몰상식\"‥유가족, 삭제 요구",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861369_36918.html"
+          "title": "‘신인감독2’ 김연경 “다시는 안 해, 시즌3 거부 …속지 말자”…좌중 폭소",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261026504919"
         },
         {
-          "title": "“이태원 참사 영상 게임에서 삭제하라”…유가족들, ‘모던 워페어4’에 항의",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610281634001"
-        },
-        {
-          "title": "'한반도 전면전' 소재에 인기 폭발…입소문 타더니 '1위' 찍었다 [지금이뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0545_202610271750015921"
-        }
-      ]
-    },
-    {
-      "title": "k뷰티",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 23:30:00 -0700",
-      "news": [
-        {
-          "title": "K뷰티, 계속 잘나갈까…아마존의 대답은 “시장 무궁무진”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610272049035"
-        },
-        {
-          "title": "한국콜마에 3년째 러브콜 보낸 아마존, K뷰티 판 커질수록 윤상현 '안목' 중요해진다",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450528"
-        },
-        {
-          "title": "\"핼러윈 지나 블프·크리스마스 온다\"…美 연말 선물에 뜬 K-뷰티",
+          "title": "'신인감독 김연경2' 2주 연속 화제성 1위…김연경·황연주도 나란히 1·2위",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/general-industry/6333318"
-        }
-      ]
-    },
-    {
-      "title": "연합뉴스",
-      "approx_traffic": "5000+",
-      "published": "Tue, 27 Oct 2026 23:20:00 -0700",
-      "news": [
-        {
-          "title": "수형자가 유유히 교도소 정문 걸어나갔다? 천안서 '황당' 해프닝",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027046700063"
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6333493"
         },
         {
-          "title": "‘황당한 이 교도소’…교도소 정문 유유히 걸어나간 수형자",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626748"
+          "title": "'신인감독 김연경2' 황연주, 인쿠시에 \"그런 마음으로 배구하면 못 이겨\" 조언한 이유?",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16259730"
         }
       ]
     },
     {
-      "title": "한국프로농구",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 23:00:00 -0700",
+      "title": "레버리지",
+      "approx_traffic": "2000+",
+      "published": "Wed, 28 Oct 2026 00:50:00 -0700",
       "news": [
         {
-          "title": "초유의 규정 위반, 소노는 재경기 요청 ‘역대급 오류’",
+          "title": "“2만 원이 4천 원 됐다”…‘미국서 청산’ SK 레버리지, 한국은? [잇슈 머니]",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697048"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697044"
         },
         {
-          "title": "“재경기 요청” 소노, KBL에 항의 공문 보낸다…26일 ‘위닝 샷’ 터트린 윤원상은 부정 선수",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261027/134920747/1"
+          "title": "\"하이닉스보다 더 빠졌다\"…한 달 새 반토막에 개미들 '비명' [분석+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102784406"
         },
         {
-          "title": "심판 오판에 잘못 투입된 선수가 결승골‥소노 \"LG전 재경기 요청 검토\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6861093_36946.html"
+          "title": "SK하이닉스는 잘나가는데… 레버리지 ETF는 초고속 청산?",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261027000236"
         }
       ]
     },
     {
-      "title": "문동주",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 22:50:00 -0700",
+      "title": "인형",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 00:50:00 -0700",
       "news": [
         {
-          "title": "\"아, 야구 못하나\" 11승 문동주에게 찾아온 좌절…속도 붙은 재활, '몬스터'의 길을 바라본다 [인터뷰①]",
+          "title": "\"블핑 리사도 열광\" 1초에 3개씩 팔리더니…1년 만에 '굴욕'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610280699g"
+        },
+        {
+          "title": "너도나도 가방에 달더니… 라부부 열풍 식자 미주 매출 4분의 1 토막",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/28/MU4GMYJRMVTGCYRVGNSTAMRTG4/"
+          "url": "https://www.chosun.com/economy/int_economy/2026/10/28/WWWJEH7ZUFAORNJZCNPAZQAQYQ/"
         },
         {
-          "title": "수술이 만든 'MVP 조기 재회'…국경 넘은 문동주X폰세 우정, \"죽기 전까지 기억할 시간\" [인터뷰②]",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-10-28/202610280100176850011718"
+          "title": "오늘 Pop Mart 주가가 하락하는 이유는?",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2144740"
         }
       ]
     },
     {
-      "title": "병무청",
-      "approx_traffic": "1000+",
-      "published": "Tue, 27 Oct 2026 22:40:00 -0700",
+      "title": "mlb",
+      "approx_traffic": "2000+",
+      "published": "Wed, 28 Oct 2026 00:50:00 -0700",
       "news": [
         {
-          "title": "대구경북병무청, 내년 2월 입영 현역병 모집",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003843156"
+          "title": "Tampa Bay rallies for 12th-inning walk-off to beat Milwaukee in World Series Game 4",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/28/TBYDBHOESZHHTIANBM7RSEOBSE/"
         },
         {
-          "title": "제주병무청, 2027년 2월 입영 현역병 모집",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845355"
+          "title": "Tampa Bay Rays Stay Alive With Dramatic Comeback Win in 12th Inning",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008819111"
         },
         {
-          "title": "부울병무청, 11월 각 軍 현역병 모집 접수",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734023"
+          "title": "'We’ve got one more day': Rays walk it off to force Game 5",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/rays-win-world-series-game-4-2026"
         }
       ]
     },
     {
-      "title": "청주국제공항",
+      "title": "코트",
       "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 22:40:00 -0700",
+      "published": "Wed, 28 Oct 2026 00:50:00 -0700",
       "news": [
         {
-          "title": "일본·중국만 웃는 동계 항공시장…증편 속 감편의 역설",
-          "source": "여행신문",
-          "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500620"
+          "title": "일교차 15도, 출근길 아우터 대체 뭐 입냐면요",
+          "source": "엘르 코리아 │ ELLE KOREA",
+          "url": "https://www.elle.co.kr/article/1911965"
         },
         {
-          "title": "한국공항공사, 겨울 시즌 지방공항 국제선 운항 확대",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261028580345"
+          "title": "아침엔 패딩, 낮엔 재킷…널뛰는 일교차에 간절기 패션 ’불티’ By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2144704"
         },
         {
-          "title": "군산~제주 항공편 하루 2차례로 축소…“내년 3월까지”",
+          "title": "“더 추워지기 전에 사자”···가을 건너뛰고 겨울 옷으로, 큰 일교차에 패딩 매출 5배 ‘껑충’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610270600051"
+        }
+      ]
+    },
+    {
+      "title": "000660",
+      "approx_traffic": "5000+",
+      "published": "Wed, 28 Oct 2026 00:40:00 -0700",
+      "news": [
+        {
+          "title": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html"
+        },
+        {
+          "title": "Watch SK Hynix Earnings Surge Drives Tech Stocks Higher",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-28/daybreak-europe-10-28-2026-video"
+        },
+        {
+          "title": "SK hynix Announces 3Q26 Financial Results",
+          "source": "SK hynix",
+          "url": "https://news.skhynix.com/en/q3-2026-business-results/"
+        }
+      ]
+    },
+    {
+      "title": "여자",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 00:40:00 -0700",
+      "news": []
+    },
+    {
+      "title": "정구범",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 00:40:00 -0700",
+      "news": [
+        {
+          "title": "프로야구 NC 좌투수 정구범, 어깨 통증으로 은퇴",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028161700007"
+        },
+        {
+          "title": "'제2의 구창모' 기대했는데, '전체 1순위' 좌완 정구범, 1군 6G 뛰고 은퇴 선언...강태경 등 5명 방출 [공식발표] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/28/202610281631774937O"
+        },
+        {
+          "title": "[공식발표]\"어깨가 계속 아프다\" 1R 출신 대형 유망주 정구범 끝내 은퇴 선언",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/28/MZQTSY3BG5RDAOBZHE2GIMTCG4/"
+        }
+      ]
+    },
+    {
+      "title": "한국수력원자력",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 00:40:00 -0700",
+      "news": [
+        {
+          "title": "멈췄던 고리 3·4호기, 10년 더 돌린다",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373958"
+        },
+        {
+          "title": "부산탈핵단체, 고리 3·4호기 계속운전 승인에 \"지역 의견 배제\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028130900051"
+        },
+        {
+          "title": "AI 산업 위해 40년 노후 원전 재가동... 주민들은 불안 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202610281102397845"
+        }
+      ]
+    },
+    {
+      "title": "이하늘",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 00:30:00 -0700",
+      "news": [
+        {
+          "title": "\"호의인 척, 짜증 난다\"…이하늘, 이 대통령 ‘유시민 처벌불원’에 발끈",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325217"
+        },
+        {
+          "title": "유시민 ‘명예훼손’ 수사 종결…이 대통령 “처벌 원치 않아”",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610272305001"
+        },
+        {
+          "title": "경찰, ‘이재명 대통령 명예훼손’ 유시민 불송치…이 대통령, ‘처벌 불원’ 의사",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8696815"
-        }
-      ]
-    },
-    {
-      "title": "예산",
-      "approx_traffic": "200+",
-      "published": "Tue, 27 Oct 2026 22:40:00 -0700",
-      "news": [
-        {
-          "title": "부산시의회 예결특위, 부산시·교육청 주요 사업장 5곳 현장 점검",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261028001215"
-        },
-        {
-          "title": "부산시의회 예결위, 주요 사업장 5곳 현장 점검…\"내년 예산안 심사 대비\"",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3735305"
-        },
-        {
-          "title": "서울시의회 예결위, 내년도 예산 심사 앞두고 복지·첨단산업 현장 점검",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1419316"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8696649"
         }
       ]
     }
