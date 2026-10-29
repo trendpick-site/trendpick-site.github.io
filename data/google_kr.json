@@ -1,210 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T13:40:10+00:00",
+  "fetched_at": "2026-10-29T14:33:15+00:00",
   "items": [
     {
-      "title": "삼성 야구",
+      "title": "유해진",
       "approx_traffic": "2000+",
-      "published": "Thu, 29 Oct 2026 05:10:00 -0700",
+      "published": "Thu, 29 Oct 2026 06:30:00 -0700",
       "news": [
         {
-          "title": "'호수비에 도파민 샘솟은' 삼성 류지혁 \"기세는 우리에게 왔다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029187000007"
+          "title": "‘대통령 표창’ 유해진 “‘왕사남’ 덕분…좋은 영화로 보답”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12190556"
         },
         {
-          "title": "교체되는 시라카와",
+          "title": "[포토] 대통령 표창 받은 배우 소지섭",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261029501489"
+        },
+        {
+          "title": "유해진, '신변보호 해제' 후 첫 공식석상서 대통령 표창…\"좋은 영화로 보답\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261029_0021510863"
-        },
-        {
-          "title": "[포토] 환호성이 터진다! '5회초 김도영의 홈런을 무위로 돌리는' 역전 투런홈런 류지혁 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102920163227324"
+          "url": "https://www.newsis.com/view/NISX20261029_0003847330"
         }
       ]
     },
     {
-      "title": "조상우",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 05:00:00 -0700",
-      "news": [
-        {
-          "title": "이닝 마친 전상현",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261029_0021511005"
-        },
-        {
-          "title": "[사진]전상현-김태군,'위기 넘기자'",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/29/MZRDGMJZGA2TMMLGMM3TONJUGQ/"
-        },
-        {
-          "title": "[사진]조상우,'카스트로 환상 수비에 박수'",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112900722"
-        }
-      ]
-    },
-    {
-      "title": "매매",
+      "title": "진에어",
       "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 04:50:00 -0700",
+      "published": "Thu, 29 Oct 2026 06:20:00 -0700",
       "news": [
         {
-          "title": "서울 '국평' 평균 매매가 12.8억·전세 7.3억…매매 내리고 전세 올라 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102908533712473"
-        },
-        {
-          "title": "\"올해도 죽을 맛, 내년이 더 힘들어..3년 정도 마음에 준비해야\"",
+          "title": "진에어, 해킹 공격에 회원 1천454명 정보 유출",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610280845360774"
+          "url": "https://www.ytn.co.kr/_ln/0102_202610291926171644"
         },
         {
-          "title": "“전셋값 어디까지 오르는 건가요”…강북도 결국 6억 넘었다",
-          "source": "매일경제TV",
-          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005949846"
+          "title": "일본항공 예약시스템 뚫렸다…9만명 개인정보 노출",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261029143545"
+        },
+        {
+          "title": "대한항공·아시아나항공 이어···진에어, 해킹공격으로 1454명 개인회원 정보 유출",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610291909001"
         }
       ]
     },
     {
-      "title": "thời tiết ngày mai",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 04:50:00 -0700",
+      "title": "사토시",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 06:10:00 -0700",
       "news": [
         {
-          "title": "Dự báo thời tiết 10 ngày từ đêm 29/10/2026 đến 08/11/2026: Cảnh báo mưa dông diện rộng",
-          "source": "Báo Nghệ An",
-          "url": "https://baonghean.vn/du-bao-thoi-tiet-10-ngay-tu-dem-29102026-den-08112026-canh-bao-mua-dong-dien-rong-10354644.html"
+          "title": "팀 드레이퍼 \"비트코인 채택 확대시 은행 대규모 뱅크런 현실로\"",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02676486645617840"
         },
         {
-          "title": "Thời tiết Nghệ An hôm nay 29/10/2026: Nhiều mây, có mưa rào và dông",
+          "title": "사토시를 찾아서",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/thoi-tiet-nghe-an-hom-nay-29-10-2026-nhieu-may-co-mua-rao-va-dong"
+          "url": "https://www.vietnam.vn/ko/truy-tim-satoshi"
         },
         {
-          "title": "Bản tin thời tiết 9h10 - 29/10/2026",
-          "source": "VTV.vn",
-          "url": "https://vtv.vn/video/ban-tin-thoi-tiet-9h10-29-10-2026-108701157.htm"
+          "title": "팀 드레이퍼, 사토시의 혁신 극찬...\"금융 질서에 도전한 낙관주의자\"",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/265743"
         }
       ]
     },
     {
-      "title": "야구 생중계",
+      "title": "현대자동차",
+      "approx_traffic": "10000+",
+      "published": "Thu, 29 Oct 2026 06:00:00 -0700",
+      "news": [
+        {
+          "title": "현대차, 파업에도 3분기 영업익 증가…연간 목표는 눈높이 낮춰",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374105"
+        },
+        {
+          "title": "현대차 \"테슬라·중국차 위협 사실…할부 경쟁력·AS로 차별화\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029153500003"
+        },
+        {
+          "title": "현대차, 6년 만에 매출 ‘후진’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610292031005"
+        }
+      ]
+    },
+    {
+      "title": "김헌곤",
       "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 04:40:00 -0700",
+      "published": "Thu, 29 Oct 2026 06:00:00 -0700",
       "news": [
         {
-          "title": "KIA 최대 고민거리…무기력한 '테이블세터'[PO]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003845288"
-        },
-        {
-          "title": "상승세 이어간다…이 시각 대구라이온즈파크",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8696573"
-        }
-      ]
-    },
-    {
-      "title": "퓨리오사ai",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 04:40:00 -0700",
-      "news": [
-        {
-          "title": "퓨리오사AI, 시리즈D 8200억 투자유치 마무리…기업가치 3.8조",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/29/2026102980062.html"
-        },
-        {
-          "title": "퓨리오사AI, 8200억 규모 투자 유치...기업가치 3.8조원 돌파",
-          "source": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216770"
-        },
-        {
-          "title": "퓨리오사AI, 8200억 투자 유치… 기업가치 3.8조",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173082"
-        }
-      ]
-    },
-    {
-      "title": "이태양",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 04:30:00 -0700",
-      "news": [
-        {
-          "title": "KIA 투수교체…역투하는 이태양",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261029_0021510874"
-        },
-        {
-          "title": "\"삼성 좌타 군단? 강하다고 주눅 들 필요 있나\" KIA 성영탁의 거침없는 자신감 [PO3]",
+          "title": "[사진] 김헌곤, 안타 성공",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/29/MUZGGYJYGUYWKNZTGA3TCM3FGA/"
+          "url": "https://www.chosun.com/sports/sports_photo/2026/10/29/MUYDMM3FMJTDON3DGIZDGMLCMY/"
+        },
+        {
+          "title": "“네일에게 강하다고? 그건 오해” 2년 전 KS 홈런 영웅의 뜻밖의 고백…“긴 휴식? 다 핑계다” [PO2]",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261027003122366"
         }
       ]
     },
     {
-      "title": "최우형",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 04:20:00 -0700",
+      "title": "슈퍼맨이 돌아왔다",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 06:00:00 -0700",
       "news": [
         {
-          "title": "[단독] 시총 1조2500억 증발한 케이뱅크…'KT 그늘'서 최우형 후임 물색",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/article/2026102910242240551"
+          "title": "‘비트코인 대박’ 기욤, 양평 별장→서울대공원뷰 ‘서울 집’ 공개 (‘슈돌’)",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900048"
         },
         {
-          "title": "[케이뱅크 인사 전망] 최우형 연임 7개월 만에 교체설… 임원 7명도 심사",
-          "source": "뉴스클레임",
-          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080581"
+          "title": "기욤 패트리, 80세 母 손녀 보려 24시간 비행…“마지막 한국 여행 될 수도”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261029/134930811/1"
         },
         {
-          "title": "제11회 '금융의 날' 기념식 개최",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=453814"
+          "title": "기욤, 39개월 딸 ‘칼질’ 도전에도 안 말린다..“무섭지만, NO 없어” (‘슈돌’)[순간포착]",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/GQ4WINRWGBSTKZRWGQYTSOBRMU/"
         }
       ]
     },
     {
-      "title": "대학",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
+      "title": "퇴직",
+      "approx_traffic": "2000+",
+      "published": "Thu, 29 Oct 2026 05:50:00 -0700",
       "news": [
         {
-          "title": "서울사이버대, 자연주의 식생활 특강…日전문가 초청",
-          "source": "메트로신문",
-          "url": "https://www.metroseoul.co.kr/article/20261028500396"
+          "title": "2030년 퇴직금 사라진다…'기금형 퇴직연금'도 도입",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102943271"
         },
         {
-          "title": "서울사이버대, ‘마크로비오틱 조리법’ 특강 개최",
-          "source": "매일일보",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=2011431"
-        }
-      ]
-    },
-    {
-      "title": "sk플래닛",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
-      "news": [
-        {
-          "title": "SK플래닛 기프티콘 이용자 개인정보 유출…피해 규모 조사 중",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261029215911XY5"
-        },
-        {
-          "title": "SK플래닛, 기프티콘·고객 개인정보 유출…정밀 조사 피해 확인 중",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261029_0003847385"
-        },
-        {
-          "title": "해킹 여파에 카페·영화관에서 \"쿠폰 못써요\"",
+          "title": "못 받은 퇴직금 '8,229억'…\"회사 밖으로\" 걱정 줄인다",
           "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819903"
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821971"
+        },
+        {
+          "title": "퇴직금 체불 못 하게 사외적립 의무화...기금형도 도입",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610291657306557_005.html"
+        }
+      ]
+    },
+    {
+      "title": "오픈ai",
+      "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 05:50:00 -0700",
+      "news": [
+        {
+          "title": "중국 AI '증류 공격' 표적, 클로드에서 오픈AI '아스트라'로 이동",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610291544271157"
+        },
+        {
+          "title": "중국 AI 기업, OpenAI의 Astra 출력물로 모델 학습 - The Information",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2147408"
+        },
+        {
+          "title": "\"딥시크·문샷, '증류' 주요 표적은 아스트라\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821504"
+        }
+      ]
+    },
+    {
+      "title": "지하철",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 05:50:00 -0700",
+      "news": [
+        {
+          "title": "지하철 7호선, 의정부·양주를 지나 포천까지! 도봉산-옥정 연장선",
+          "source": "서울특별시",
+          "url": "https://mediahub.seoul.go.kr/archives/2019857"
+        },
+        {
+          "title": "서울교통공사 거부에…7호선 연장 '도봉산옥정선' 민간 위탁 운영 가닥",
+          "source": "경인방송 뉴스",
+          "url": "https://news.ifm.kr/news/articleView.html?idxno=482335"
+        },
+        {
+          "title": "낯선 할머니가 갑자기 건넨 1만 원…임산부 결국 울었다 [잇슈#태그]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698624"
+        }
+      ]
+    },
+    {
+      "title": "시바이누코인",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 05:50:00 -0700",
+      "news": [
+        {
+          "title": "시바이누(SHIB), 미결제 약정 5,000만 달러 붕괴 위기...\"레버리지 베팅만 폭주\"",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/266004"
+        },
+        {
+          "title": "시바이누(SHIB) 소각 1190만개…새벽 1043만개 거래 포함",
+          "source": "토큰포스트",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/428963"
+        },
+        {
+          "title": "시바이누, 연저점 눈앞까지 밀렸다…끝없는 추락 언제까지",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710110"
         }
       ]
     }
