@@ -1,8 +1,36 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T18:21:53+00:00",
+  "fetched_at": "2026-10-29T19:29:38+00:00",
   "items": [
+    {
+      "title": "최준희",
+      "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 10:40:00 -0700",
+      "news": [
+        {
+          "title": "최준희, 11살 연상 남편에 \"나 두고 먼저 죽으면 죽여버릴 거야\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846490"
+        },
+        {
+          "title": "'故 최진실 딸' 최준희, 남편에 \"나 두고 먼저 죽지마\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102919545886728"
+        },
+        {
+          "title": "'11세 연상과 결혼' 최준희, 시아버지 애정에 감동 \"며느리 먹으라고\" [소셜in]",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522711"
+        }
+      ]
+    },
+    {
+      "title": "신구",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 10:20:00 -0700",
+      "news": []
+    },
     {
       "title": "설인아",
       "approx_traffic": "200+",
@@ -33,23 +61,23 @@
     },
     {
       "title": "최불암",
-      "approx_traffic": "10000+",
+      "approx_traffic": "20000+",
       "published": "Thu, 29 Oct 2026 08:20:00 -0700",
       "news": [
         {
-          "title": "[속보]‘국민 아버지’ 배우 최불암 별세…향년 87세",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610300049001"
+          "title": "‘국민 아버지’ 배우 최불암 별세",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/30/C4FZLCB77RBDBPTFSNJY4ZGBHY/"
         },
         {
-          "title": "'영원한 수사반장' 최불암 별세…열정 불태운 67년 연기 인생(종합)",
+          "title": "[속보] '국민 아버지' 배우 최불암 별세...향년 87세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0106_202610300209195253_005.html"
+        },
+        {
+          "title": "최불암, 한국인의 원형적 표상 체현한 '영원한 아버지'자 '진정한 어른'",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003847466"
-        },
-        {
-          "title": "\"국민이 가는 길에 가시덤불 치우는 게 광대 정신\"…최불암이 남긴 말",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030002100005"
+          "url": "https://www.newsis.com/view/NISX20261030_0003847473"
         }
       ]
     },
@@ -59,19 +87,19 @@
       "published": "Thu, 29 Oct 2026 08:00:00 -0700",
       "news": [
         {
-          "title": "스페인 고속열차 추돌로 68명 사망…한국인 2명 부상 \"치료중\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325372"
-        },
-        {
           "title": "스페인 고속열차 사고 사망자 74명으로 늘어…신원확인 중(종합)",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261029211451098"
         },
         {
-          "title": "관제실 오판에 68명 사망…한국인 2명 부상",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000557500.do"
+          "title": "스페인, 열차 참사 희생자 수색 지속 …사흘간 애도기간 선포",
+          "source": "VOA 한국어 홈페이지",
+          "url": "https://www.voakorea.com/a/spain-train-crash-102926/8216563.html"
+        },
+        {
+          "title": "스페인 고속열차 추돌로 68명 사망…한국인 2명 부상 \"치료중\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325372"
         }
       ]
     },
@@ -121,7 +149,7 @@
     },
     {
       "title": "장경수",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Thu, 29 Oct 2026 06:40:00 -0700",
       "news": [
         {
@@ -152,58 +180,14 @@
           "url": "https://www.xportsnews.com/article/2213139"
         },
         {
-          "title": "[종합] “죽 사러 간 사이에 돌아가셨다”…‘특종세상’ ‘개똥엄마’ 이상미, 여우주연상에도 못 웃은 이유",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16262319"
-        },
-        {
           "title": "'전원일기 개똥엄마' 이상미, 2년 전 이별 슬픔",
           "source": "국제뉴스",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3736948"
-        }
-      ]
-    },
-    {
-      "title": "유해진",
-      "approx_traffic": "5000+",
-      "published": "Thu, 29 Oct 2026 06:30:00 -0700",
-      "news": [
-        {
-          "title": "‘대통령 표창’ 유해진 “‘왕사남’ 덕분…좋은 영화로 보답”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12190556"
         },
         {
-          "title": "[포토] 대통령 표창 받은 배우 소지섭",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261029501489"
-        },
-        {
-          "title": "유해진, '신변보호 해제' 후 첫 공식석상서 대통령 표창…\"좋은 영화로 보답\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261029_0003847330"
-        }
-      ]
-    },
-    {
-      "title": "진에어",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 06:20:00 -0700",
-      "news": [
-        {
-          "title": "진에어, 외부 해킹으로 1,454명 개인정보 유출",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261029211021Jqf"
-        },
-        {
-          "title": "일본항공 예약시스템 뚫렸다…9만명 개인정보 노출",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261029143545"
-        },
-        {
-          "title": "진에어, 1454명 개인정보 유출…“비밀번호·결제내역 등은 안전”",
-          "source": "보안뉴스",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146877"
+          "title": "'특종세상' 국호, 베테랑 액션 배우의 산속 수련 근황",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/304471"
         }
       ]
     }
