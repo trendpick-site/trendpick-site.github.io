@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T00:13:27+00:00",
+  "fetched_at": "2026-10-29T01:36:49+00:00",
   "items": [
     {
-      "title": "마이크로소프트 주가",
+      "title": "마이리얼트립",
       "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 15:50:00 -0700",
+      "published": "Wed, 28 Oct 2026 17:30:00 -0700",
       "news": [
         {
-          "title": "‘6만명 희망 퇴직’ 마이크로소프트 사상 최대 분기 실적...비용 부담은 여전",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/10/29/GZHYN577JRG5VNPFHGR7RSZBWM/"
-        },
-        {
-          "title": "MS \"자본지출 부족분은 데이터센터 건설 지연 때문\"",
+          "title": "마이리얼트립 개인정보 유출…이름·전화번호·여권번호 등 포함",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029033000009"
+          "url": "https://www.yna.co.kr/view/AKR20261029029000030"
         },
         {
-          "title": "마이크로소프트, 애저 매출 공개 확대… 인공지능 투자 성과 시험대 오른다.",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845580"
+          "title": "여행 플랫폼 마이리얼트립, 이용자 여권번호 해킹당해",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1284754.html"
+        },
+        {
+          "title": "여권번호까지 샜다…마이리얼트립 개인정보 유출",
+          "source": "한경매거진",
+          "url": "https://magazine.hankyung.com/job-joy/article/202610292446d"
         }
       ]
     },
     {
-      "title": "담합",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 15:50:00 -0700",
+      "title": "티앤이코리아",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 17:20:00 -0700",
       "news": [
         {
-          "title": "공정위, '라면 담합' 의혹‥농심·삼양·팔도·오뚜기 현장조사",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6861414_36932.html"
-        },
-        {
-          "title": "[테헤란로] 식품업계 ‘담합 잣대’ 명확해야",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610281839220174"
-        },
-        {
-          "title": "[기자의 눈] 공정위의 ‘털고 보는 조사’에 발 묶인 기업들",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261028023481613"
-        }
-      ]
-    },
-    {
-      "title": "매일경제",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 15:40:00 -0700",
-      "news": [
-        {
-          "title": "[부고] 성채윤(매일경제신문 기자)씨 조모상",
+          "title": "인텔리빅스·크리에이츠 등 코스닥 신규상장…30일 거래 개시",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028168500004"
+          "url": "https://www.yna.co.kr/view/AKR20261028182600008"
         },
         {
-          "title": "[부음]성채윤(매일경제신문 기자) 씨 조모상",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11626968"
+          "title": "[특징주] 티앤이코리아, 코스닥 상장 첫날 90%대 급등…장 초반 ‘따블’",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/10/29/2X3DINA7P5D33PMF2BCHJC3NZM/"
         },
         {
-          "title": "[부고] 성채윤 씨(매일경제신문 사회부 기자) 조모상",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/life-culture/press/6335252"
+          "title": "‘수소·고속 터보기계 전문기업’ 티앤이코리아, 코스닥 입성",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03063526645617840"
         }
       ]
     },
     {
-      "title": "조상",
+      "title": "김영옥",
       "approx_traffic": "1000+",
-      "published": "Wed, 28 Oct 2026 15:30:00 -0700",
+      "published": "Wed, 28 Oct 2026 17:00:00 -0700",
       "news": [
         {
-          "title": "작고한 부친 명의 땅 5만평…'조상땅찾기'로 뒤늦게 발견",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028116200053"
+          "title": "‘88세’ 김영옥, 하루·이루네에 “나 죽을 때까지 활동해 줘, 난 잊을까 겁나”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/28/MI3GEOJSHFTDSOJYGQZTKYLFGA/"
         },
         {
-          "title": "\"혹시 우리 집에도 물려받을 땅이?\"…구청 들렀다 5만7000평 횡재한 60대 남성",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026102908470878808"
-        },
-        {
-          "title": "몰랐던 아버지 땅 18만㎡…대구 동구 '조상땅 찾기'로 찾았다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003844707"
-        }
-      ]
-    },
-    {
-      "title": "xrp",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 15:30:00 -0700",
-      "news": [
-        {
-          "title": "Crypto Signals and Analysis(@traderboos)'s insights",
-          "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/382195863825251"
-        },
-        {
-          "title": "Key facts: 1B XRP in Ripple Wallets; XRPUSD Demand; After License $1.31",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/tradingview:b521706eab6a1:0-key-facts-1b-xrp-in-ripple-wallets-xrpusd-demand-after-license-1-31/"
-        },
-        {
-          "title": "XRP Analyst Maps 61-Day Window for Next Macro Bottom as Cycle Gaps Halve",
-          "source": "BigGo Finance",
-          "url": "https://finance.biggo.com/news/c2824bed-f18d-46e9-b2fd-566d9d7a85fe"
-        }
-      ]
-    },
-    {
-      "title": "삼성전자 실적발표",
-      "approx_traffic": "10000+",
-      "published": "Wed, 28 Oct 2026 15:30:00 -0700",
-      "news": [
-        {
-          "title": "삼성전자, 오늘 3Q 확정실적 발표…'HBM 공급 전략·30조 배당' 주목",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003845284"
-        },
-        {
-          "title": "[AI MY 증시전망] 삼성전자 실적 발표 '주목'…코스피 상승 전망",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261029000088"
-        },
-        {
-          "title": "삼성전자, 내일 3Q 확정 실적…반도체 초호황에 연간 영업익 370조원 ’청신호’ By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2144594"
-        }
-      ]
-    },
-    {
-      "title": "송교창",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 15:30:00 -0700",
-      "news": [
-        {
-          "title": "‘송교창 활약’ 오사카 에베사, 2028-29시즌 ‘퇴출’ 날벼락···홈경기장 개보수 차질 ‘라이선스 불허+벌금...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610290819003"
-        },
-        {
-          "title": "‘외국선수 3명 모두 부상’ 오사카, 치바에 패하며 10연패 수렁···송교창은 11점 5리바운드",
-          "source": "점프볼",
-          "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065577197352724"
-        },
-        {
-          "title": "‘외국선수 4명 전멸’ 센터까지 봤던 송교창, 일본에서 고생이 많다 “한국팬들 응원이 큰 힘이 됩니다” [현장인터뷰]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_general/2026/10/24/GJTDQNRRHAZDKMLEGY2DCNTGGM/"
-        }
-      ]
-    },
-    {
-      "title": "lig 디펜스&에어로스페이스",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 15:30:00 -0700",
-      "news": [
-        {
-          "title": "LIG D&A 입찰제한 2년 제재 ‘임시중지’",
-          "source": "세계일보",
-          "url": "https://m.segye.com/view/20261027516190"
-        },
-        {
-          "title": "\"전자전기 제안서에 '비리 사업들' 포함\"…'기밀유출'의 산은 어찌 넘으려나 [취재파일]",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815881"
-        },
-        {
-          "title": "방사청 직원에 금품 제공 혐의 LIG D&A 임원, 첫 공판서 부인",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8696409"
-        }
-      ]
-    },
-    {
-      "title": "주차",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "바쁜 공항에서 대리주차 대신 로봇주차하세요",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8696840"
-        },
-        {
-          "title": "로봇이 대신 주차한다…김포공항 'AI 로봇 발레파킹 서비스 시범' 운영",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102715055123214"
-        },
-        {
-          "title": "한국공항공사, 김포공항 국제선서 로봇주차 시범 서비스 운영",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039053"
-        }
-      ]
-    },
-    {
-      "title": "한다 감",
-      "approx_traffic": "10000+",
-      "published": "Wed, 28 Oct 2026 15:10:00 -0700",
-      "news": [
-        {
-          "title": "46세 엄마 된 한다감, 아들 최초 공개…\"쏙 빼닮아 잘생겨\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003845502"
-        },
-        {
-          "title": "‘47세 출산’ 한다감, 子 공개..’모태 미남’인증까지 “잘생겼다” (‘슈돌’)[Oh!쎈 예고]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/MQ4GCMJWGY2DMYZXMEZGIMBZGM/"
-        },
-        {
-          "title": "'47세 최고령 출산' 한다감, 붕어빵 아들 최초 공개…현실 육아 시작 (슈돌)",
+          "title": "'88세' 김영옥, 기억력 저하 걱정 고백…\"저절로 잊어버릴까봐 겁나\"",
           "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2212657"
+          "url": "https://www.xportsnews.com/article/2212562"
+        }
+      ]
+    },
+    {
+      "title": "inter miami vs cincinnati",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 16:50:00 -0700",
+      "news": [
+        {
+          "title": "MLS sprint season to kick off on Feb. 19 in Miami",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50311129/mls-sprint-season-kick-feb-19-miami"
+        },
+        {
+          "title": "Is Lionel Messi playing tonight for Inter Miami against FC Cincinnati?",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/lionel-messi-playing-tonight-inter-201829684.html"
+        },
+        {
+          "title": "MLS Cincinnati Inter Miami Soccer",
+          "source": "Corsicana Daily Sun",
+          "url": "https://www.corsicanadailysun.com/sports/national_sports/mls-cincinnati-inter-miami-soccer/image_fbb485d4-d154-5136-bfcf-ac306b8d0682.html"
+        }
+      ]
+    },
+    {
+      "title": "운수",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 16:50:00 -0700",
+      "news": [
+        {
+          "title": "[오늘의 운세] 2026년 10월 29일 띠별 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202610290000000001"
+        },
+        {
+          "title": "[오늘의 운세] 10월 29일 목요일 (음력 9월 19일) 띠별 운세",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261026580287"
+        },
+        {
+          "title": "[오늘의 운세/10월 29일]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261028/134928628/2"
+        }
+      ]
+    },
+    {
+      "title": "충청권 광역철도",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 16:40:00 -0700",
+      "news": [
+        {
+          "title": "충청권 광역철도 1단계 총사업비 5716억 확정",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374048"
+        },
+        {
+          "title": "충청권 광역철도 1단계 총 사업비 5716억 확정…후속 절차 마무리",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/daejeon-chungnam/6335373"
+        },
+        {
+          "title": "충청권 광역철도 1단계 사업, 기획예산처 총사업비 심의통과",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003845342"
+        }
+      ]
+    },
+    {
+      "title": "신현송",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 16:40:00 -0700",
+      "news": [
+        {
+          "title": "워시 \"한국 경제에 많은 관심\"…신현송 한은 총재와 인연도 언급",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029018800072"
+        },
+        {
+          "title": "한국 경제 주목하는 미 연준의장 \"AI 투자도 금리 못 피한다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/29/2026102906184894677"
+        },
+        {
+          "title": "워시 Fed 의장 \"한국 경제 주시…신현송 총재와 20년 지기\" [Fed워치]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610291911i"
+        }
+      ]
+    },
+    {
+      "title": "sk텔레콤",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 16:40:00 -0700",
+      "news": [
+        {
+          "title": "SKT, 부서별 AI 에이전트 옥석 가린다…'토성비' 중심으로 통합",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261029000060"
+        },
+        {
+          "title": "[영상] [Inside T] 공격자의 시선으로 지키는 보안 – Red Team",
+          "source": "SK텔레콤 뉴스룸",
+          "url": "https://news.sktelecom.com/232421"
+        },
+        {
+          "title": "SKT, 전 직원 '1인 1 AI 에이전트' 확산…AI와 함께 일한다",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/it-science/cc-newmedia/6335729"
+        }
+      ]
+    },
+    {
+      "title": "호텔",
+      "approx_traffic": "2000+",
+      "published": "Wed, 28 Oct 2026 16:30:00 -0700",
+      "news": [
+        {
+          "title": "“호텔신라, 면세 업황 개선 못 해”…한투, 목표가 하향",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1183912"
+        },
+        {
+          "title": "한화투자 \"호텔신라 실적 개선에 면세점 외형성장 중요, 호텔사업 호조는 장기간 유지\"",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450583"
+        },
+        {
+          "title": "'수익성 개선' 호텔신라, 3분기 영업익 552억원…전년比 382.4%↑ - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/10/28/2026102816392153600"
+        }
+      ]
+    },
+    {
+      "title": "우서윤",
+      "approx_traffic": "2000+",
+      "published": "Wed, 28 Oct 2026 16:30:00 -0700",
+      "news": [
+        {
+          "title": "우지윤 딸 우서윤, 미스코리아 진 이후 \"아빠 이겼다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003845283"
+        },
+        {
+          "title": "우지원 딸 우서윤, '성형 논란' 속 라미네이트 시술 고백 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/28/2026102815052847972"
+        },
+        {
+          "title": "‘미코 眞’ 우서윤 “아빠 우지원 이긴 듯…요즘엔 내게 사진 요청”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610281523003"
         }
       ]
     }
