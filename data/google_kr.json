@@ -1,17 +1,149 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T01:36:49+00:00",
+  "fetched_at": "2026-10-29T02:25:28+00:00",
   "items": [
     {
-      "title": "마이리얼트립",
+      "title": "만두",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 18:20:00 -0700",
+      "news": [
+        {
+          "title": "닭뼈 갈아 만든 만두 속…생산업체마저 “먹지 마라”[아하중국]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627106"
+        },
+        {
+          "title": "[이 시각 핫뉴스] 중국 닭 목·뼈 갈아 소시지 생산…\"적게 먹어라\" 外",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261029054049rWF"
+        },
+        {
+          "title": "'닭 목' 갈아 만든 반죽이 소시지 속으로…\"제발 적게 먹어라\" 中 업체가 뜯어말린 이유",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20261028n38501"
+        }
+      ]
+    },
+    {
+      "title": "커플",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 18:10:00 -0700",
+      "news": [
+        {
+          "title": "Couple to be charged after three children rescued from West Virginia ‘house of horrors’",
+          "source": "LiveNOW from FOX",
+          "url": "https://www.livenowfox.com/news/couple-charged-after-three-children-rescued-from-west-virginia-house-horrors"
+        },
+        {
+          "title": "Couple charged in disturbing child abuse case in Jackson County, W.Va., sheriff says",
+          "source": "WCIV",
+          "url": "https://abcnews4.com/news/nation-world/couple-charged-erica-clifford-gale-sayre-evans-west-virginia-jackson-county-felony-child-abuse-neglect-injury-razor-blade-child-protective-services-sheriff?teaserSource=trending"
+        },
+        {
+          "title": "3 kids found living in \"House of Horrors\" faced \"disturbing mistreatment\" from West Virginia couple, officials say",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/pittsburgh/news/child-abuse-house-of-horrors-west-virginia/"
+        }
+      ]
+    },
+    {
+      "title": "삼전 실적발표",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 18:10:00 -0700",
+      "news": [
+        {
+          "title": "‘총선 과반 실패’ 네타냐후의 운명, 아랍계 정당 손에 달렸다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/10/29/RCKYHNOCPRCV7LNLXVT3CM3GA4/"
+        },
+        {
+          "title": "[속보]삼성전자, 3분기 배당 30조...보통주·우선주 주당 4601원 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/29/2026102908144992759"
+        },
+        {
+          "title": "이스라엘 총선 개표 50%…네타냐후 진영 55석 전망에도 과반 미달",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441704"
+        }
+      ]
+    },
+    {
+      "title": "삼성전자 컨퍼런스콜",
       "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 18:00:00 -0700",
+      "news": [
+        {
+          "title": "내일 삼성전자 컨퍼런스콜 '이것' 만큼은 꼭 주의하세요",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441768"
+        },
+        {
+          "title": "[속보] 삼성전자 3분기 영업이익 107조 4천 원‥현금배당 30조 원",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6861574_36932.html"
+        },
+        {
+          "title": "[속보] 삼성전자, 주당 4601원 배당…3분기 30조원 현금배당",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610291020001"
+        }
+      ]
+    },
+    {
+      "title": "대우건설",
+      "approx_traffic": "2000+",
+      "published": "Wed, 28 Oct 2026 17:50:00 -0700",
+      "news": [
+        {
+          "title": "[속보] 27조 체코 원전 수주한 ‘팀코리아’ 갈라섰다…한수원, 시공계약 협상 종료",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610290957001"
+        },
+        {
+          "title": "27조 체코 원전 시공사 다시 찾는다… 제동 걸린 대우건설 원전사업 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102910385851279"
+        },
+        {
+          "title": "[속보] 한수원·대우건설 컨소, 체코 두코바니 원전 시공계약 협상 결렬",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102924627"
+        }
+      ]
+    },
+    {
+      "title": "삼성전자 ir",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 17:50:00 -0700",
+      "news": [
+        {
+          "title": "[오늘의 IR] 삼성전자ㆍ현대자동차ㆍ두산로보틱스 등",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2641423"
+        },
+        {
+          "title": "대한전선 29일 3분기 실적 공시…IR 중단기간 운영",
+          "source": "비건뉴스",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=394834"
+        },
+        {
+          "title": "한화오션·삼성전기·에코프로 등…줄줄이 다가오는 실적 발표, 날짜는 언제?",
+          "source": "CBC뉴스",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=617798"
+        }
+      ]
+    },
+    {
+      "title": "마이리얼트립",
+      "approx_traffic": "500+",
       "published": "Wed, 28 Oct 2026 17:30:00 -0700",
       "news": [
         {
-          "title": "마이리얼트립 개인정보 유출…이름·전화번호·여권번호 등 포함",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029029000030"
+          "title": "여권번호까지 털렸다…마이리얼트립, 이용자 개인정보 유출",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261029/134930547/1"
         },
         {
           "title": "여행 플랫폼 마이리얼트립, 이용자 여권번호 해킹당해",
@@ -19,9 +151,9 @@
           "url": "https://www.hani.co.kr/arti/economy/economy_general/1284754.html"
         },
         {
-          "title": "여권번호까지 샜다…마이리얼트립 개인정보 유출",
-          "source": "한경매거진",
-          "url": "https://magazine.hankyung.com/job-joy/article/202610292446d"
+          "title": "마이리얼트립 해킹으로 개인정보 유출…여권번호·암호화된 비밀번호까지 노출",
+          "source": "데일리시큐",
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=209150"
         }
       ]
     },
@@ -36,20 +168,20 @@
           "url": "https://www.yna.co.kr/view/AKR20261028182600008"
         },
         {
+          "title": "고속터보기계 '티앤이코리아' 코스닥 상장 첫날 주가 장중 2배 '따블' 달성",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450592"
+        },
+        {
           "title": "[특징주] 티앤이코리아, 코스닥 상장 첫날 90%대 급등…장 초반 ‘따블’",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/stock/stock_general/2026/10/29/2X3DINA7P5D33PMF2BCHJC3NZM/"
-        },
-        {
-          "title": "‘수소·고속 터보기계 전문기업’ 티앤이코리아, 코스닥 입성",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03063526645617840"
         }
       ]
     },
     {
       "title": "김영옥",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Wed, 28 Oct 2026 17:00:00 -0700",
       "news": [
         {
@@ -58,163 +190,31 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/10/28/MI3GEOJSHFTDSOJYGQZTKYLFGA/"
         },
         {
-          "title": "'88세' 김영옥, 기억력 저하 걱정 고백…\"저절로 잊어버릴까봐 겁나\"",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2212562"
+          "title": "88세 김영옥 “잊어 버릴까봐 겁나”…기억력 저하 걱정",
+          "source": "헤럴드경제 미주판",
+          "url": "https://www.heraldk.com/article/2026102818401489260"
         }
       ]
     },
     {
       "title": "inter miami vs cincinnati",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Wed, 28 Oct 2026 16:50:00 -0700",
       "news": [
         {
-          "title": "MLS sprint season to kick off on Feb. 19 in Miami",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/50311129/mls-sprint-season-kick-feb-19-miami"
+          "title": "Suarez scores, Messi frustrated and Casemiro steadies the back line as Inter Miami rescue 2-2 draw with Cincinnati",
+          "source": "LiveScore",
+          "url": "https://www.livescore.com/en/news/football/mls/suarez-scores-messi-frustrated-and-casemiro-steadies-the-back-line-as-inter-miami-rescue-2-2-draw-with-cincinnati-goal/"
         },
         {
-          "title": "Is Lionel Messi playing tonight for Inter Miami against FC Cincinnati?",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/lionel-messi-playing-tonight-inter-201829684.html"
+          "title": "[LIVESTREAMs]HD!] Cincinnati vs Inter Miami football Live Broadcast today",
+          "source": "Vantage Data Centers",
+          "url": "https://vantage-dc.com/virtual-tour-montreal-data-center/?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vdHJhdmlzLWF1c3Rpbi5naXRodWIuaW8vZW5tL2VudS54bWwiLz48L2tycGFubz4=&id=video-cincinnati-vs-inter-miami-football-match-lie-uxylhmp"
         },
         {
-          "title": "MLS Cincinnati Inter Miami Soccer",
-          "source": "Corsicana Daily Sun",
-          "url": "https://www.corsicanadailysun.com/sports/national_sports/mls-cincinnati-inter-miami-soccer/image_fbb485d4-d154-5136-bfcf-ac306b8d0682.html"
-        }
-      ]
-    },
-    {
-      "title": "운수",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 16:50:00 -0700",
-      "news": [
-        {
-          "title": "[오늘의 운세] 2026년 10월 29일 띠별 운세",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0121_202610290000000001"
-        },
-        {
-          "title": "[오늘의 운세] 10월 29일 목요일 (음력 9월 19일) 띠별 운세",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261026580287"
-        },
-        {
-          "title": "[오늘의 운세/10월 29일]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261028/134928628/2"
-        }
-      ]
-    },
-    {
-      "title": "충청권 광역철도",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 16:40:00 -0700",
-      "news": [
-        {
-          "title": "충청권 광역철도 1단계 총사업비 5716억 확정",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374048"
-        },
-        {
-          "title": "충청권 광역철도 1단계 총 사업비 5716억 확정…후속 절차 마무리",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/daejeon-chungnam/6335373"
-        },
-        {
-          "title": "충청권 광역철도 1단계 사업, 기획예산처 총사업비 심의통과",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003845342"
-        }
-      ]
-    },
-    {
-      "title": "신현송",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 16:40:00 -0700",
-      "news": [
-        {
-          "title": "워시 \"한국 경제에 많은 관심\"…신현송 한은 총재와 인연도 언급",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029018800072"
-        },
-        {
-          "title": "한국 경제 주목하는 미 연준의장 \"AI 투자도 금리 못 피한다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/29/2026102906184894677"
-        },
-        {
-          "title": "워시 Fed 의장 \"한국 경제 주시…신현송 총재와 20년 지기\" [Fed워치]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610291911i"
-        }
-      ]
-    },
-    {
-      "title": "sk텔레콤",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 16:40:00 -0700",
-      "news": [
-        {
-          "title": "SKT, 부서별 AI 에이전트 옥석 가린다…'토성비' 중심으로 통합",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261029000060"
-        },
-        {
-          "title": "[영상] [Inside T] 공격자의 시선으로 지키는 보안 – Red Team",
-          "source": "SK텔레콤 뉴스룸",
-          "url": "https://news.sktelecom.com/232421"
-        },
-        {
-          "title": "SKT, 전 직원 '1인 1 AI 에이전트' 확산…AI와 함께 일한다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/it-science/cc-newmedia/6335729"
-        }
-      ]
-    },
-    {
-      "title": "호텔",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "“호텔신라, 면세 업황 개선 못 해”…한투, 목표가 하향",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1183912"
-        },
-        {
-          "title": "한화투자 \"호텔신라 실적 개선에 면세점 외형성장 중요, 호텔사업 호조는 장기간 유지\"",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450583"
-        },
-        {
-          "title": "'수익성 개선' 호텔신라, 3분기 영업익 552억원…전년比 382.4%↑ - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/culture/2026/10/28/2026102816392153600"
-        }
-      ]
-    },
-    {
-      "title": "우서윤",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "우지윤 딸 우서윤, 미스코리아 진 이후 \"아빠 이겼다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003845283"
-        },
-        {
-          "title": "우지원 딸 우서윤, '성형 논란' 속 라미네이트 시술 고백 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/28/2026102815052847972"
-        },
-        {
-          "title": "‘미코 眞’ 우서윤 “아빠 우지원 이긴 듯…요즘엔 내게 사진 요청”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610281523003"
+          "title": "Live coverage of Inter Miami vs FC Cincinnati: Inter Miami dominates possession but struggles to score, yet to find the net.",
+          "source": "Báo Nghệ An",
+          "url": "https://baonghean.vn/en/truc-tiep-inter-miami-vs-fc-cincinnati-inter-miami-cam-bong-nhung-be-tac-chua-co-ban-thang-10354586.html"
         }
       ]
     }
