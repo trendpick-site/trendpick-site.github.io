@@ -1,166 +1,12 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T12:18:34+00:00",
+  "fetched_at": "2026-10-29T13:40:10+00:00",
   "items": [
     {
-      "title": "sk플래닛",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
-      "news": [
-        {
-          "title": "SK플래닛, 기프티콘 이용자 개인정보 유출",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261029000468"
-        },
-        {
-          "title": "SK플래닛, 기프티콘 고객정보 유출 정황… \"피해 전액 보상\"",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/10/29/35KE42XCHJCIDJ75ZYDTDUAISA/"
-        },
-        {
-          "title": "해킹 여파에 카페·영화관에서 \"쿠폰 못써요\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819903"
-        }
-      ]
-    },
-    {
-      "title": "대학",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
-      "news": [
-        {
-          "title": "한영대학교, 틸론과 협력해 AI 교육혁신 기반 강화",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261029204109"
-        },
-        {
-          "title": "경기대, AI 교육혁신 콜로키움서 '책임감 있는 AI 인재양성' 방향 제시",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261029000434"
-        },
-        {
-          "title": "계명대, AI 중심 대학 전환 선언…교육·연구·행정 전반 개편 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/10/29/2026102914241780911"
-        }
-      ]
-    },
-    {
-      "title": "항소",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
-      "news": [
-        {
-          "title": "이승기, 후크엔터와 정산금 소송 종결…양측 항소 취하",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261029190248uCR"
-        },
-        {
-          "title": "이승기, '정산금 갈등' 前소속사와 쌍방 항소 취하",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20261029n30864?mid=e01&list=recent&cpcd="
-        },
-        {
-          "title": "이승기, 후크엔터와 정산금 소송 마무리…쌍방 항소 취하 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/29/2026102917420121681"
-        }
-      ]
-    },
-    {
-      "title": "이재희",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
-      "news": [
-        {
-          "title": "위기 속 등판한 이재희",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8187396"
-        },
-        {
-          "title": "[사진]이재희, 실점 없이",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112900635"
-        },
-        {
-          "title": "[PO]우여곡절 끝에 PO 엔트리 승선한 삼성 이재희 “김재윤 형이 ‘네가 해줘야 된다’고”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610271347003"
-        }
-      ]
-    },
-    {
-      "title": "속리산",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
-      "news": [
-        {
-          "title": "지역 명물 정이품송 덮칠라…충북 보은군, 재선충병 방제 안간힘",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610291456001"
-        },
-        {
-          "title": "(경기도 대변인 서면 브리핑)추미애 지사, ‘소나무재선충병의 신속하고 철저한 방제활동’ 지시",
-          "source": "경기도뉴스포털",
-          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=S017&number=71865"
-        },
-        {
-          "title": "재선충병에 신음하는 가평 산림…29일부터 연중 방제 본격화",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261029580455"
-        }
-      ]
-    },
-    {
-      "title": "김지찬",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 04:00:00 -0700",
-      "news": [
-        {
-          "title": "‘PS만 23경기’ 삼성 리드오프 김지찬, 이제 가을 향기가 익숙하다…“더 과감하게, 자신있게”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261028/134925128/1"
-        },
-        {
-          "title": "[사진]김태군, 추격하자고 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/27/202610272133777693O"
-        },
-        {
-          "title": "[사진]이승민, 8회도 내가 책임진다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/10/27/GQ3WENLDMVTDKMDFMY2DGZRYGU/"
-        }
-      ]
-    },
-    {
-      "title": "하트오브비스트",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 04:00:00 -0700",
-      "news": [
-        {
-          "title": "'치이카와' 15일째 1위…'하트 오브 비스트'·'수능' 2·3위 출발 [박스오피스] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102909397273155"
-        },
-        {
-          "title": "'극장판 치이카와' 15일 연속 1위…누적 관객 234만명 [Nbox]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/movie/6335631"
-        },
-        {
-          "title": "“지갑이 ‘먼’저 ‘작’살나는 귀여움”…영크크·늙크크 모두 빠진 ‘먼작귀’를 아시나요?",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/pick/12190254"
-        }
-      ]
-    },
-    {
-      "title": "류지혁",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 03:50:00 -0700",
+      "title": "삼성 야구",
+      "approx_traffic": "2000+",
+      "published": "Thu, 29 Oct 2026 05:10:00 -0700",
       "news": [
         {
           "title": "'호수비에 도파민 샘솟은' 삼성 류지혁 \"기세는 우리에게 왔다\"",
@@ -180,46 +26,185 @@
       ]
     },
     {
-      "title": "11월 a매치 명단",
-      "approx_traffic": "10000+",
-      "published": "Thu, 29 Oct 2026 03:50:00 -0700",
+      "title": "조상우",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 05:00:00 -0700",
       "news": [
         {
-          "title": "내분설 ‘96라인’ 전원 재발탁...모레노 감독 11월 A매치 대표팀 명단 발표",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/29/2YV7IAIWVBG6LJFTPHLCZL7NTQ/"
+          "title": "이닝 마친 전상현",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261029_0021511005"
         },
         {
-          "title": "‘은퇴 소동’ 김민재·황희찬 등 포함… 모레노호, 내달 ‘A매치 명단’ 발표",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1773736"
+          "title": "[사진]전상현-김태군,'위기 넘기자'",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/29/MZRDGMJZGA2TMMLGMM3TONJUGQ/"
         },
         {
-          "title": "’은퇴 소동’ 3인방 축구대표팀 발탁…’병역 발언’ 이기혁 제외",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610291543087JI"
+          "title": "[사진]조상우,'카스트로 환상 수비에 박수'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900722"
         }
       ]
     },
     {
-      "title": "한국시리즈",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 03:50:00 -0700",
+      "title": "매매",
+      "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 04:50:00 -0700",
       "news": [
         {
-          "title": "1년전 한화 악몽은 안된다. '5차전 피해야 산다' '페덱 vs 네일' 4차전 끝장 빅매치 성사되나[PO]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/29/MIYWMNRVGIZWCNZWHE3TOM3BGE/"
+          "title": "서울 '국평' 평균 매매가 12.8억·전세 7.3억…매매 내리고 전세 올라 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102908533712473"
         },
         {
-          "title": "3차전이 분수령...시라카와-최원태, 맞대결",
+          "title": "\"올해도 죽을 맛, 내년이 더 힘들어..3년 정도 마음에 준비해야\"",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610291709116919"
+          "url": "https://www.ytn.co.kr/_ln/0102_202610280845360774"
         },
         {
-          "title": "최원태, 1⅔이닝 만에 강판…마운드 운용 꼬인 삼성",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029200500007"
+          "title": "“전셋값 어디까지 오르는 건가요”…강북도 결국 6억 넘었다",
+          "source": "매일경제TV",
+          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005949846"
+        }
+      ]
+    },
+    {
+      "title": "thời tiết ngày mai",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 04:50:00 -0700",
+      "news": [
+        {
+          "title": "Dự báo thời tiết 10 ngày từ đêm 29/10/2026 đến 08/11/2026: Cảnh báo mưa dông diện rộng",
+          "source": "Báo Nghệ An",
+          "url": "https://baonghean.vn/du-bao-thoi-tiet-10-ngay-tu-dem-29102026-den-08112026-canh-bao-mua-dong-dien-rong-10354644.html"
+        },
+        {
+          "title": "Thời tiết Nghệ An hôm nay 29/10/2026: Nhiều mây, có mưa rào và dông",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/thoi-tiet-nghe-an-hom-nay-29-10-2026-nhieu-may-co-mua-rao-va-dong"
+        },
+        {
+          "title": "Bản tin thời tiết 9h10 - 29/10/2026",
+          "source": "VTV.vn",
+          "url": "https://vtv.vn/video/ban-tin-thoi-tiet-9h10-29-10-2026-108701157.htm"
+        }
+      ]
+    },
+    {
+      "title": "야구 생중계",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 04:40:00 -0700",
+      "news": [
+        {
+          "title": "KIA 최대 고민거리…무기력한 '테이블세터'[PO]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003845288"
+        },
+        {
+          "title": "상승세 이어간다…이 시각 대구라이온즈파크",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8696573"
+        }
+      ]
+    },
+    {
+      "title": "퓨리오사ai",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 04:40:00 -0700",
+      "news": [
+        {
+          "title": "퓨리오사AI, 시리즈D 8200억 투자유치 마무리…기업가치 3.8조",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/29/2026102980062.html"
+        },
+        {
+          "title": "퓨리오사AI, 8200억 규모 투자 유치...기업가치 3.8조원 돌파",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216770"
+        },
+        {
+          "title": "퓨리오사AI, 8200억 투자 유치… 기업가치 3.8조",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173082"
+        }
+      ]
+    },
+    {
+      "title": "이태양",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 04:30:00 -0700",
+      "news": [
+        {
+          "title": "KIA 투수교체…역투하는 이태양",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261029_0021510874"
+        },
+        {
+          "title": "\"삼성 좌타 군단? 강하다고 주눅 들 필요 있나\" KIA 성영탁의 거침없는 자신감 [PO3]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/29/MUZGGYJYGUYWKNZTGA3TCM3FGA/"
+        }
+      ]
+    },
+    {
+      "title": "최우형",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 04:20:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 시총 1조2500억 증발한 케이뱅크…'KT 그늘'서 최우형 후임 물색",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/article/2026102910242240551"
+        },
+        {
+          "title": "[케이뱅크 인사 전망] 최우형 연임 7개월 만에 교체설… 임원 7명도 심사",
+          "source": "뉴스클레임",
+          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080581"
+        },
+        {
+          "title": "제11회 '금융의 날' 기념식 개최",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=453814"
+        }
+      ]
+    },
+    {
+      "title": "대학",
+      "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
+      "news": [
+        {
+          "title": "서울사이버대, 자연주의 식생활 특강…日전문가 초청",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20261028500396"
+        },
+        {
+          "title": "서울사이버대, ‘마크로비오틱 조리법’ 특강 개최",
+          "source": "매일일보",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=2011431"
+        }
+      ]
+    },
+    {
+      "title": "sk플래닛",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
+      "news": [
+        {
+          "title": "SK플래닛 기프티콘 이용자 개인정보 유출…피해 규모 조사 중",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261029215911XY5"
+        },
+        {
+          "title": "SK플래닛, 기프티콘·고객 개인정보 유출…정밀 조사 피해 확인 중",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003847385"
+        },
+        {
+          "title": "해킹 여파에 카페·영화관에서 \"쿠폰 못써요\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819903"
         }
       ]
     }
