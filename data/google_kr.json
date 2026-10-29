@@ -1,225 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T10:25:56+00:00",
+  "fetched_at": "2026-10-29T11:21:08+00:00",
   "items": [
     {
-      "title": "나띠",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 02:20:00 -0700",
-      "news": [
-        {
-          "title": "키오프 나띠, 여유로운 일상 속 비현실적 글래머 몸매 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6336845"
-        },
-        {
-          "title": "키오프 나띠, 레깅스에 드러난 ‘애플힙’…독보적 글래머 몸매",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610291721003"
-        },
-        {
-          "title": "키오프 나띠, 독보적 볼륨감 드러낸 애슬레저 룩...“건강미 폴폴”",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1645199"
-        }
-      ]
-    },
-    {
-      "title": "홈플러스",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "[단독] 홈플러스, 희망퇴직도 취소…밀린 월급 줄 돈도 없다",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/distribution/channel/2026/10/29/VD7LNAEEORCAFNRGC2KDTXDRPU/"
-        },
-        {
-          "title": "한전, 홈플러스 전기료 체납에 \"매장별 상황 따라 단전 검토\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028159000003"
-        },
-        {
-          "title": "＂부활 꿈꿨지만 매출은 뚝＂…＇임금체불＇도 모자라 ＇전기＇도 끊긴다",
-          "source": "한국경제TV",
-          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290013"
-        }
-      ]
-    },
-    {
-      "title": "윤석열 사형 구형",
+      "title": "발전소",
       "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 02:10:00 -0700",
+      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
       "news": [
         {
-          "title": "특검, 尹 ’내란 우두머리’ 항소심도 사형 구형…“헌정질서 전복하려 한 반역자“",
+          "title": "국민성장펀드, 국내 최대 태양광 발전소·반도체 밸류체인 투자",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029196900002"
+        },
+        {
+          "title": "금융위 부위원장 \"국민성장펀드 성과 긴 호흡으로 봐달라\"",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/video/2026102916123585215"
+        },
+        {
+          "title": "금융위 \"국민참여성장펀드 수익률 0.5%…장기적 관점서 평가해야\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261029001267"
+        }
+      ]
+    },
+    {
+      "title": "베드타운",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "수도권에 신규택지 7만 6700호 추가…2030년까지 착공 추진",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974548&pWise=sub&pWiseSub=C2"
+        },
+        {
+          "title": "김포·구리 등 6곳 그린벨트 풀어 7.7만호 공급",
           "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610291204329b3"
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261029190947T5B"
         },
         {
-          "title": "\"제2의 윤석열 나오지 않도록\"…특검, 2심서도 윤 전 대통령에 사형 구형",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325436"
-        },
-        {
-          "title": "내란특검, 윤석열 2심도 사형 구형‥\"법에 정해진 가장 단호한 판결 내려달라\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861616_36918.html"
+          "title": "고삐 풀린 경기 집값, 상승률 서울 2배 '질주'",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12190119"
         }
       ]
     },
     {
-      "title": "한화에어로스페이스",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "한화에어로 3분기 영업익 4천520억원…물량인도 지연에 46%↓(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029148951527"
-        },
-        {
-          "title": "[컨콜] 한화에어로, 3Q ‘숨고르기’에도 4Q 반등 자신…“폴란드 천무 인도 60대 이상으로 상향”",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261029027332867"
-        },
-        {
-          "title": "방산 시장 누비는 K9·천무… 바다엔 LNG선[창간 35주년 특집]",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627143"
-        }
-      ]
-    },
-    {
-      "title": "경기도 버스 파업",
+      "title": "상장지수펀드",
       "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 02:10:00 -0700",
+      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
       "news": [
         {
-          "title": "경기도 버스 노사 최종 협상 돌입...결렬되면 내일 파업",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202610291805240642"
-        },
-        {
-          "title": "서울시, 경기도 버스파업 예고에 지하철 등 추가 투입",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861735_36918.html"
-        },
-        {
-          "title": "“등하교 시간 자율 조정·임시버스 투입”…경기 버스 파업 대책 마련 ‘비상’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698721"
-        }
-      ]
-    },
-    {
-      "title": "김우빈",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "“둘이 뭘 할 것 같았다” 신민아, 김우빈·이광수 나란히 앉자 불안했던 이유",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261029/134930149/2"
-        },
-        {
-          "title": "신민아, ♥김우빈과 달달한 신혼 일상…“살쪄도 제일 예쁘다고” (유퀴즈)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610290835003"
-        },
-        {
-          "title": "\"힙해 보이려고\" 신민아, 갑자기 혼자 '이것' 시작한 이유는… - 머니투데이",
+          "title": "코스닥 액티브 ETF, 지수 웃돌았는데…'완전 액티브' 도입은 제자리 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102905334535621"
-        }
-      ]
-    },
-    {
-      "title": "주 돌고래 유괴 단",
-      "approx_traffic": "2000+",
-      "published": "Thu, 29 Oct 2026 02:00:00 -0700",
-      "news": [
-        {
-          "title": "2심도 \"뉴진스 뮤비 무단 게시한 제작사, 어도어에 10억 배상\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029132300004"
+          "url": "https://www.mt.co.kr/stock/2026/10/29/2026102915574215466"
         },
         {
-          "title": "‘뉴진스 감독판 뮤비 공개’ 돌고래유괴단, 2심도 패소…어도어에 10억원 배상해야",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610291518001"
-        },
-        {
-          "title": "'뉴진스 뮤비 소송' 2심도 \"어도어에 10억 지급하라\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610291503430089"
-        }
-      ]
-    },
-    {
-      "title": "빈곤",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 02:00:00 -0700",
-      "news": [
-        {
-          "title": "생계급여 중위소득 32→35% 단계적 확대 추진",
-          "source": "이투데이",
-          "url": "https://bravo.etoday.co.kr/view/atc_view/20363"
-        },
-        {
-          "title": "생계용 재산 고려 ‘기초수급 문턱’ 낮추나",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610282054035"
-        },
-        {
-          "title": "기초생활보장 못받는 빈곤층 137만… 생계급여 기준 ‘중위소득 35%’ 확대",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261028/134928959/2"
-        }
-      ]
-    },
-    {
-      "title": "전쟁",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 02:00:00 -0700",
-      "news": [
-        {
-          "title": "미 중간선거 D-5...트럼프, 이란 '물밑 교섭' 지시 [앵커리포트]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610291701174970"
-        },
-        {
-          "title": "다시 꺼낸 이란 공격 카드…고유가 공포 덮친다",
+          "title": "“지수보다 10%P 더 벌었는데”…상장폐지 걱정하는 액티브 ETF",
           "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=06317286645617840"
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04765846645617512"
         },
         {
-          "title": "美밴스, 이란 강경파에 서한…\"협상에 핵논의 필요\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029019151071"
+          "title": "일반 ETF 속에 3배 레버리지…꼼수 운용 논란",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20107985"
         }
       ]
     },
     {
-      "title": "시험 방송",
-      "approx_traffic": "2000+",
-      "published": "Thu, 29 Oct 2026 01:50:00 -0700",
+      "title": "기아 타이거즈",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
       "news": [
         {
-          "title": "北, 대남 확성기 틀었다…접경지 주민 \"아침부터 귀신 소리\"",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05254566645617840&mediaCodeNo=257"
+          "title": "'역시 슈퍼스타' KIA 김도영, 3회 역전포…올해 PS 4번째 아치",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029201600007"
         },
         {
-          "title": "북, 확성기 방송 재개?… 접경지 주민들 불안감 증폭",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039334"
+          "title": "\"리듬과 타이밍이 완벽해\" 타이거즈 레전드 출신 해설위원도 감탄! 김도영의 괴력 같은 밀어치기 [PO3]",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/baseball/2026/10/29/HEZGGOJVGJRTSNDEMRRDAODGGI/"
         },
         {
-          "title": "[속보] 국정원 “북한 대남방송 보도, 사실 아냐…주민 잘못 신고”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698848"
+          "title": "[AI그래픽] KBO PO 3차전, KIA 김도영 3회 역전 솔로포",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261029001393"
+        }
+      ]
+    },
+    {
+      "title": "프로야구",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "이범호 KIA 감독 \"시라카와 5이닝 3실점으로 버텨줘야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029165600007"
+        },
+        {
+          "title": "홈으로 슬라이딩 카스트로",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261029_0021510738"
+        },
+        {
+          "title": "[사진]김도영,'홈에서 미소'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900320"
+        }
+      ]
+    },
+    {
+      "title": "박재현",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "'호수비에 도파민 샘솟은' 삼성 류지혁 \"기세는 우리에게 왔다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029187000007"
+        },
+        {
+          "title": "“솔직히 그렇게 잘 올 줄 몰랐죠” 43살 베테랑의 멋진 보살, 잡은 2루수도 깜짝 놀랐다 [PO3]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900405"
+        },
+        {
+          "title": "[사진]김규성,'비디오 판독 요청'",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/29/MI3TOMBVMNTDQNRYGFRTSNTDG4/"
+        }
+      ]
+    },
+    {
+      "title": "주택담보대출",
+      "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 03:00:00 -0700",
+      "news": [
+        {
+          "title": "코픽스 급등, 영끌족 이자 부담 커지나",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3785_2_C1"
+        },
+        {
+          "title": "가계대출 금리 5% 턱밑…고정형 주담대 사상 첫 5% 뚫어",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261030.22010008938"
+        },
+        {
+          "title": "9월 은행 주담대 금리 4.88%…14년여 만의 최고 수준",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846200"
+        }
+      ]
+    },
+    {
+      "title": "sk그룹",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 03:00:00 -0700",
+      "news": [
+        {
+          "title": "최태원 SK 회장, 내달 5일 서울대서 AI 시대 경제·인재상 특강",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029176200004"
+        },
+        {
+          "title": "최태원 SK그룹 회장, 다음 달 5일 서울대 경제학 특강",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/economy/2382704.htm"
+        },
+        {
+          "title": "서울대 학생들과 마주 앉는 최태원…“AI 시대 기업이 원하는 인재는”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20107935"
+        }
+      ]
+    },
+    {
+      "title": "시라카와",
+      "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "디아즈, 광주서 선제 투런포",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261029_0021510719"
+        },
+        {
+          "title": "[포토] '역투' 시라카와 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102918390355539"
+        },
+        {
+          "title": "‘2G 연속 홈런 폭발’ 디아즈, PO 3차전 첫 타석부터 투런포 쾅! 삼성 기선 제압 [PO3]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900449"
+        }
+      ]
+    },
+    {
+      "title": "삼성 기아",
+      "approx_traffic": "2000+",
+      "published": "Thu, 29 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "1승씩 나눈 호랑이와 사자…광주서 진검승부",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261029185356bLM"
+        },
+        {
+          "title": "‘1승 1패에서 누가 2승 선점할까’ KIA-삼성 3차전 1만8900석 매진, PS 44G 연속 매진 행진 [PO3]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900552"
+        },
+        {
+          "title": "기아팬도·삼성팬도 \"우리가 승리\"…PO 3차전 열기 추위 녹였다",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gwangju-jeonnam/6336708"
         }
       ]
     }
