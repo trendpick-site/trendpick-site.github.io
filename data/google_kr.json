@@ -1,49 +1,49 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T16:30:28+00:00",
+  "fetched_at": "2026-10-29T17:27:41+00:00",
   "items": [
     {
       "title": "최불암",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Thu, 29 Oct 2026 08:20:00 -0700",
       "news": [
         {
-          "title": "[속보]배우 최불암 별세…향년 87세",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627428"
+          "title": "‘국민 아버지’ 배우 최불암 별세",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/30/C4FZLCB77RBDBPTFSNJY4ZGBHY/"
         },
         {
-          "title": "[속보] '영원한 수사반장' 최불암 별세…향년 87세",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003847463"
+          "title": "'영원한 수사반장' 최불암 별세‥향년 87세",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861809_36918.html"
         },
         {
-          "title": "[속보] ‘영원한 수사반장’·‘국민 아버지’ 최불암 별세",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261029083004389"
+          "title": "\"국민이 가는 길에 가시덤불 치우는 게 광대 정신\"…최불암이 남긴 말",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030002100005"
         }
       ]
     },
     {
       "title": "스페인 축구 국가대표팀",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Thu, 29 Oct 2026 08:00:00 -0700",
       "news": [
+        {
+          "title": "\"멈춰야 하는데 운행 지시\"‥참사로 이어진 악명 높은 스페인 열차",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861760_37004.html"
+        },
+        {
+          "title": "스페인 열차 추돌 69명 사망…한국인도 2명 부상",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822141"
+        },
         {
           "title": "스페인 고속열차 추돌로 68명 사망…한국인 2명 부상 \"치료중\"",
           "source": "JTBC",
           "url": "https://news.jtbc.co.kr/article/NB12325372"
-        },
-        {
-          "title": "스페인 고속열차 추돌사고 사망자 69명으로 늘어",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6861796_36925.html"
-        },
-        {
-          "title": "관제실 오판에 68명 사망…한국인 2명 부상",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000557500.do"
         }
       ]
     },
@@ -114,6 +114,28 @@
       ]
     },
     {
+      "title": "인공지능",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "원전 데이터로 키운 생성형 AI…한수원, 公기관 혁신상",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374092"
+        },
+        {
+          "title": "한전, 'AI 기반 고독사 예방'으로 공공기관 AI 혁신 챌린지 최우수상",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003845737"
+        },
+        {
+          "title": "인천공항, AI 항공안전 관리 혁신 '대상'",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335380"
+        }
+      ]
+    },
+    {
       "title": "이상미",
       "approx_traffic": "100+",
       "published": "Thu, 29 Oct 2026 06:40:00 -0700",
@@ -137,7 +159,7 @@
     },
     {
       "title": "유해진",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Thu, 29 Oct 2026 06:30:00 -0700",
       "news": [
         {
@@ -193,28 +215,6 @@
           "title": "2년 전 그때처럼, 삼성 비밀병기 김헌곤 [플레이오프]",
           "source": "www.newsq.co.kr",
           "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500571"
-        }
-      ]
-    },
-    {
-      "title": "슈퍼맨이 돌아왔다",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 06:00:00 -0700",
-      "news": [
-        {
-          "title": "[심형탁네]Welcome to the Show! 먹방쇼 보여주는 하루와 영케이 삼촌 | KBS 261028 방송",
-          "source": "대한민국 대표 공영미디어 KBS",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026189070-01-000_MFSC6&program_code=T2013-0476&program_id=PS-2026189070-01-000&section_code=04&broadcast_complete_yn=N&section_id=10638"
-        },
-        {
-          "title": "‘예비아빠’ 김종민, ‘베이비시터’로 영케이 탐냈다..“우리집도 와” (‘슈돌’)",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/GE4GMNBTGFQWENJUGNRGMNBSHE/"
-        },
-        {
-          "title": "영케이 \"우리 부모님도 좋아하셔\"…하루 향한 '팬심'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6335511"
         }
       ]
     }
