@@ -1,11 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-28T23:41:36+00:00",
+  "fetched_at": "2026-10-29T00:13:27+00:00",
   "items": [
     {
+      "title": "마이크로소프트 주가",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 15:50:00 -0700",
+      "news": [
+        {
+          "title": "‘6만명 희망 퇴직’ 마이크로소프트 사상 최대 분기 실적...비용 부담은 여전",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/29/GZHYN577JRG5VNPFHGR7RSZBWM/"
+        },
+        {
+          "title": "MS \"자본지출 부족분은 데이터센터 건설 지연 때문\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029033000009"
+        },
+        {
+          "title": "마이크로소프트, 애저 매출 공개 확대… 인공지능 투자 성과 시험대 오른다.",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845580"
+        }
+      ]
+    },
+    {
+      "title": "담합",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 15:50:00 -0700",
+      "news": [
+        {
+          "title": "공정위, '라면 담합' 의혹‥농심·삼양·팔도·오뚜기 현장조사",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6861414_36932.html"
+        },
+        {
+          "title": "[테헤란로] 식품업계 ‘담합 잣대’ 명확해야",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610281839220174"
+        },
+        {
+          "title": "[기자의 눈] 공정위의 ‘털고 보는 조사’에 발 묶인 기업들",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261028023481613"
+        }
+      ]
+    },
+    {
+      "title": "매일경제",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 15:40:00 -0700",
+      "news": [
+        {
+          "title": "[부고] 성채윤(매일경제신문 기자)씨 조모상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028168500004"
+        },
+        {
+          "title": "[부음]성채윤(매일경제신문 기자) 씨 조모상",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11626968"
+        },
+        {
+          "title": "[부고] 성채윤 씨(매일경제신문 사회부 기자) 조모상",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/life-culture/press/6335252"
+        }
+      ]
+    },
+    {
       "title": "조상",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Wed, 28 Oct 2026 15:30:00 -0700",
       "news": [
         {
@@ -14,20 +80,20 @@
           "url": "https://www.yna.co.kr/view/AKR20261028116200053"
         },
         {
+          "title": "\"혹시 우리 집에도 물려받을 땅이?\"…구청 들렀다 5만7000평 횡재한 60대 남성",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026102908470878808"
+        },
+        {
           "title": "몰랐던 아버지 땅 18만㎡…대구 동구 '조상땅 찾기'로 찾았다",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261028_0003844707"
-        },
-        {
-          "title": "\"조상 땅 있다고 소문만 들었는데\"…구청 갔다가 5만평 '횡재'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102816987"
         }
       ]
     },
     {
       "title": "xrp",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Wed, 28 Oct 2026 15:30:00 -0700",
       "news": [
         {
@@ -49,7 +115,7 @@
     },
     {
       "title": "삼성전자 실적발표",
-      "approx_traffic": "200+",
+      "approx_traffic": "10000+",
       "published": "Wed, 28 Oct 2026 15:30:00 -0700",
       "news": [
         {
@@ -58,14 +124,36 @@
           "url": "https://www.newsis.com/view/NISX20261028_0003845284"
         },
         {
+          "title": "[AI MY 증시전망] 삼성전자 실적 발표 '주목'…코스피 상승 전망",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261029000088"
+        },
+        {
           "title": "삼성전자, 내일 3Q 확정 실적…반도체 초호황에 연간 영업익 370조원 ’청신호’ By EBN",
           "source": "Investing.com 한국어",
           "url": "https://kr.investing.com/news/stock-market-news/article-2144594"
+        }
+      ]
+    },
+    {
+      "title": "송교창",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 15:30:00 -0700",
+      "news": [
+        {
+          "title": "‘송교창 활약’ 오사카 에베사, 2028-29시즌 ‘퇴출’ 날벼락···홈경기장 개보수 차질 ‘라이선스 불허+벌금...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610290819003"
         },
         {
-          "title": "■10월 29일 목 경제 캘린더",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610290508174900"
+          "title": "‘외국선수 3명 모두 부상’ 오사카, 치바에 패하며 10연패 수렁···송교창은 11점 5리바운드",
+          "source": "점프볼",
+          "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065577197352724"
+        },
+        {
+          "title": "‘외국선수 4명 전멸’ 센터까지 봤던 송교창, 일본에서 고생이 많다 “한국팬들 응원이 큰 힘이 됩니다” [현장인터뷰]",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_general/2026/10/24/GJTDQNRRHAZDKMLEGY2DCNTGGM/"
         }
       ]
     },
@@ -75,9 +163,9 @@
       "published": "Wed, 28 Oct 2026 15:30:00 -0700",
       "news": [
         {
-          "title": "방사청 직원에 금품 제공 혐의 LIG D&A 임원, 첫 공판서 부인",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8696409"
+          "title": "LIG D&A 입찰제한 2년 제재 ‘임시중지’",
+          "source": "세계일보",
+          "url": "https://m.segye.com/view/20261027516190"
         },
         {
           "title": "\"전자전기 제안서에 '비리 사업들' 포함\"…'기밀유출'의 산은 어찌 넘으려나 [취재파일]",
@@ -85,9 +173,9 @@
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815881"
         },
         {
-          "title": "LIG D&A, 2년 입찰제한 이어 ‘방산업체 지정 취소’ 검토… 방사청 제재 확대",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261027580340"
+          "title": "방사청 직원에 금품 제공 혐의 LIG D&A 임원, 첫 공판서 부인",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8696409"
         }
       ]
     },
@@ -115,7 +203,7 @@
     },
     {
       "title": "한다 감",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Wed, 28 Oct 2026 15:10:00 -0700",
       "news": [
         {
@@ -129,97 +217,9 @@
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/MQ4GCMJWGY2DMYZXMEZGIMBZGM/"
         },
         {
-          "title": "'47세 최고령 출산' 한다감, 생후 35일 子 폭풍 성장..母닮아 다리도 길쭉",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261026171253222"
-        }
-      ]
-    },
-    {
-      "title": "한화오션",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 15:10:00 -0700",
-      "news": [
-        {
-          "title": "실적 개선에 노사 갈등도 봉합…K조선, 호황 이어갈까",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028083800003"
-        },
-        {
-          "title": "한화오션, 3분기 환율 하락·조업일수 감소로 실적 하회 By 알파경제 alphabiz",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2144661"
-        },
-        {
-          "title": "한화오션, 목표가 28% 하향…“성장 기대 약화”-NH",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02735526645617512"
-        }
-      ]
-    },
-    {
-      "title": "bournemouth vs aston villa",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 15:10:00 -0700",
-      "news": [
-        {
-          "title": "Jay Bothroyd slams Leon Goretzka for what happened in Aston Villa vs Bournemouth - 'I can't believe that'",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/jay-bothroyd-slams-leon-goretzka-215139696.html"
-        },
-        {
-          "title": "Bournemouth earn rare win over Villa to cap remarkable week",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cre3xze08k73t"
-        },
-        {
-          "title": "‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍[[\"LIVESTREAMs\"]] Aston Villa vs Bournemouth Live Broadcast: Watch the Football 2026",
-          "source": "Vantage Data Centers",
-          "url": "https://vantage-dc.com/virtual-tour-montreal-data-center/?xml=data:video/mp4;base64,&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3Nwb3J0aW5naHVibGl2ZS5naXRodWIuaW8vdG50bGl2ZS9mcmVldHYueG1sIi8+PC9rcnBhbm8+&id=video-bournemouth-astonvilla-r5v85e4785"
-        }
-      ]
-    },
-    {
-      "title": "天気",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 15:00:00 -0700",
-      "news": [
-        {
-          "title": "週間天気予報 天気は短い周期で変化 気温のアップダウンに注意",
-          "source": "ウェザーニュース",
-          "url": "https://weathernews.jp/news/202610/290031/"
-        },
-        {
-          "title": "【 今後の雨 】30日(金)は東京・名古屋・大阪などで雨 週末は北日本で荒天のおそれ 北海道では雪も【2日午後9時までの雨風シミュレーション・28日午後10時更新】",
-          "source": "Infoseek",
-          "url": "https://news.infoseek.co.jp/article/bsn_3045871/"
-        },
-        {
-          "title": "【台風情報】「台風31号(インファ)」猛烈な勢力へ...最大瞬間風速75m/s・中心気圧935hPaまで発達予想...今後の進路、日本への影響は？11月7日にかけての雨と風のシミュレーション【気象庁28日12時45分発表】",
-          "source": "TBS NEWS DIG",
-          "url": "https://newsdig.tbs.co.jp/articles/-/3043128?page=2"
-        }
-      ]
-    },
-    {
-      "title": "스페이스x",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 15:00:00 -0700",
-      "news": [
-        {
-          "title": "캐시 우드 : 테슬라의 미래를 먼저 본 투자자가, 격변의 시대를 읽는 법",
-          "source": "롱블랙 LongBlack",
-          "url": "https://longblack.co/note/2158"
-        },
-        {
-          "title": "'고래' 스페이스X-테슬라 합병 추진에 부담 커진 '새우' 미래에셋",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/27/2026102780135.html"
-        },
-        {
-          "title": "테슬라·스페이스X 합병 시동...특위는 온통 '머스크 측근' 논란",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610281008569765"
+          "title": "'47세 최고령 출산' 한다감, 붕어빵 아들 최초 공개…현실 육아 시작 (슈돌)",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2212657"
         }
       ]
     }
