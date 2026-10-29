@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T06:19:16+00:00",
+  "fetched_at": "2026-10-29T07:41:25+00:00",
   "items": [
     {
-      "title": "중앙일보",
-      "approx_traffic": "5000+",
-      "published": "Wed, 28 Oct 2026 22:00:00 -0700",
-      "news": [
-        {
-          "title": "\"사석에서 만나면 사과 가능\"‥주진우 향해 \"타진요냐\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861441_37004.html"
-        },
-        {
-          "title": "‘황제 골프 의혹’ 고발당한 주진우, 이 대통령 부부 맞고발",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610291506011"
-        },
-        {
-          "title": "주진우 \"민주당이 권력 아부하려 날 고발…나도 대통령 내외 고발\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325273"
-        }
-      ]
-    },
-    {
-      "title": "강석우",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 22:00:00 -0700",
-      "news": [
-        {
-          "title": "미남이 미남 낳았네…강석우, '정용화 닮은꼴' 아들 득남에 화색 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102909180259353"
-        },
-        {
-          "title": "69세 강석우 할아버지 됐다…\"아들이 아들 낳아\" [소셜in]",
-          "source": "MBC",
-          "url": "https://m.imbc.com/enews/view/522849"
-        },
-        {
-          "title": "'69세' 강석우, 할아버지 됐다..'연세대 정용화 '子 오늘 득남 [공식]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261028050505271"
-        }
-      ]
-    },
-    {
-      "title": "메가박스",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 22:00:00 -0700",
-      "news": [
-        {
-          "title": "메가박스, 11월 단독 상영 '메가 온리'…다큐·애니부터 英 명작 연극까지 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/culture/2026/10/29/2026102913254737163"
-        },
-        {
-          "title": "메가박스, '메가 온리' 11월 라인업 공개...英 연극 실황까지 '취향 저격'",
-          "source": "메트로신문",
-          "url": "https://www.metroseoul.co.kr/article/20261029500252"
-        },
-        {
-          "title": "투어스 VR 콘서트 ‘러쉬로드’, 4D 재개봉…11월 13일 코엑스서 만난다",
-          "source": "싱글리스트",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=777376"
-        }
-      ]
-    },
-    {
-      "title": "박시후",
+      "title": "군무원",
       "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 21:50:00 -0700",
+      "published": "Wed, 28 Oct 2026 23:30:00 -0700",
       "news": [
         {
-          "title": "박시후, ‘여자 소개해 가정파탄’ 누명 벗었다…허위사실 유포녀 실형",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261029/134931311/1"
-        },
-        {
-          "title": "“박시후 때문에 가정 파탄” 허위글 올린 여성, 징역 10개월",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/law_firm/2026/10/29/WNZTSF5OKBAD3DLJHPS2AJYEOA/"
-        },
-        {
-          "title": "“박시후가 전남편에 여자 소개” 허위사실 유포 여성 징역형",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627339"
-        }
-      ]
-    },
-    {
-      "title": "하남시",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 21:20:00 -0700",
-      "news": [
-        {
-          "title": "김포·구리 등 수도권에 7만6천여 호 공급",
+          "title": "성과금 상위 등급 군인 ‘몰아주기’…군무원은 3백만 원까지 ‘차별’",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698405"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697963"
         },
         {
-          "title": "이기형 김포시장, 김포아라 공공택지지구 조성 ‘일방적 강행 발표’ 공식 반대",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261029580294"
+          "title": "군무원들 폭발 '같은 부대에서 근무하는데 왜 군인보다 우리가...'",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1169530"
         },
         {
-          "title": "'서울 접근성' 강조한 7.67만가구… 2030 부동산 민심 달래기 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102910092123952"
+          "title": "군무원 성과상여금, 군인과 통합평정하는 것이 과연 공정합니까?",
+          "source": "캠페인즈",
+          "url": "https://campaigns.do/campaigns/2020"
         }
       ]
     },
     {
-      "title": "일회용품",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 21:20:00 -0700",
+      "title": "돌고래유괴단",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 23:20:00 -0700",
       "news": [
         {
-          "title": "숨 쉬며 마신 나노플라스틱, 폐 염증 유발 원리 밝혀졌다",
-          "source": "울산종합일보",
-          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065583684104229"
-        },
-        {
-          "title": "생명연, '나노플라스틱' 폐 염증 유발 원리 규명",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026102913555025547"
-        },
-        {
-          "title": "\"호흡해 들이마신 나노플라스틱이 폐 염증 유발…디젤 매연보다 독해\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/daejeon-chungnam/6336198"
-        }
-      ]
-    },
-    {
-      "title": "bangladesh vs west indies",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 21:10:00 -0700",
-      "news": [
-        {
-          "title": "BAN vs WI Cricket Scorecard, 1st Test at Dhaka, October 28 - November 01, 2026",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/full-scorecard"
-        },
-        {
-          "title": "Salahuddin credits Ashraful for Shadman's batting progress",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/cricket-news/140689/salahuddin-credits-ashraful-for-shadmans-batting-progress-cricbuzzcom"
-        },
-        {
-          "title": "Crushed finger sidelines Mushfiq, Hridoy off the field with a leg injury",
-          "source": "www.daily-sun.com",
-          "url": "https://www.daily-sun.com/winner/905956"
-        }
-      ]
-    },
-    {
-      "title": "윤석열",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "[속보] 특검, 尹 ’내란 우두머리’ 항소심도 사형 구형",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610291204329b3"
-        },
-        {
-          "title": "\"제2의 윤석열 나오지 않도록\"…특검, 2심서도 윤 전 대통령에 사형 구형",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325436"
-        },
-        {
-          "title": "[속보]특검, 윤석열 항소심서도 사형 구형…“국민이 막은 내란, 감형 이유 안돼”",
+          "title": "‘뉴진스 감독판 뮤비 공개’ 돌고래유괴단, 2심도 패소…어도어에 10억원 배상해야",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610291206001"
-        }
-      ]
-    },
-    {
-      "title": "fc",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "Kim Min-jae on Bench as Bayern München Crushes Second-Division Team 6-1 to Reach DFB-Pokal Round of 16",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008820292"
+          "url": "https://www.khan.co.kr/article/202610291518001"
         },
         {
-          "title": "Bayern brush Magdeburg aside in DFB Pokal, Bayer Leverkusen & Stuttgart battle through",
-          "source": "Flashscore.com",
-          "url": "https://www.flashscore.com/news/soccer-dfb-pokal-bayern-brush-magdeburg-aside-in-dfb-pokal-bayer-leverkusen-stuttgart-battle-through/lMjOjkIl/"
+          "title": "'뉴진스 뮤비 소송' 2심도 \"어도어에 10억 지급하라\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610291503430089"
         },
         {
-          "title": "Bayern Munich 6-1 Magdeburg: Olise leads holders into last 16",
-          "source": "beIN SPORTS",
-          "url": "https://www.beinsports.com/en-au/football/dfb-pokal/articles/bayern-munich-6-1-magdeburg-olise-leads-holders-into-last-16-2026-10-28"
-        }
-      ]
-    },
-    {
-      "title": "제네시스 gv90",
-      "approx_traffic": "10000+",
-      "published": "Wed, 28 Oct 2026 20:50:00 -0700",
-      "news": [
-        {
-          "title": "\"70㎏ 코치도어도 흔들림 없이\"…GV90에 담은 제네시스 럭셔리 기술",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261028165136"
-        },
-        {
-          "title": "[현장] \"산업용 로봇에서 해법 찾았죠\"…70㎏ 뒷문 여닫고 14톤 버티는 GV90 개발기",
+          "title": "어도어, '뉴진스 MV 게시' 손배소 2심서도 일부 승소…\"10억 배상\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003844856"
+          "url": "https://www.newsis.com/view/NISX20261029_0003846745"
+        }
+      ]
+    },
+    {
+      "title": "염경엽",
+      "approx_traffic": "1000+",
+      "published": "Wed, 28 Oct 2026 23:10:00 -0700",
+      "news": [
+        {
+          "title": "[프로야구] '준PO 탈락' LG, 코치진 전면 개편...정수성 코치 등 7명과 작별",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261029000875"
         },
         {
-          "title": "GV90, ‘달항아리 디자인’ 비밀⋯ 램프부터 천연 소재까지 적용",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261029500021"
+          "title": "[단독] LG 정수성 코치, 염경엽 감독과 작별...재계약 불가 통보 등 코치 7명 떠난다",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202610290028"
+        },
+        {
+          "title": "장시환 은퇴가 상징하는 것, 사라진 야구 명문들의 역사",
+          "source": "오마이스타",
+          "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003276765"
+        }
+      ]
+    },
+    {
+      "title": "비상식량",
+      "approx_traffic": "5000+",
+      "published": "Wed, 28 Oct 2026 23:10:00 -0700",
+      "news": [
+        {
+          "title": "\"최소 3일치 식량 준비하라\"…일본·영국 잇단 권고에 '3차 대전설' 발칵 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/28/2026102817043458289"
+        },
+        {
+          "title": "\"왜 우리나라만 조용해?\"…세계 각국 비상물자 권고에 불안, 알고 보니",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003844515"
+        }
+      ]
+    },
+    {
+      "title": "신해철",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 23:10:00 -0700",
+      "news": [
+        {
+          "title": "신해철·유재석 문화훈장…유해진은 대통령 표창 받는다",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325428"
+        },
+        {
+          "title": "故신해철에 은관문화훈장…유재석·한영애·블랙핑크도 문화훈장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028154200005"
+        },
+        {
+          "title": "고 신해철에 은관문화훈장‥유재석·블랙핑크도 문화훈장",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6861580_36932.html"
+        }
+      ]
+    },
+    {
+      "title": "땅",
+      "approx_traffic": "5000+",
+      "published": "Wed, 28 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "\"조상 땅 있다길래 구청 갔더니\"…65세 남성, 5만7000평 찾았다",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610282150002375"
+        },
+        {
+          "title": "작고한 부친 명의 땅 5만평…'조상땅찾기'로 뒤늦게 발견",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028116200053"
+        },
+        {
+          "title": "몰랐던 아버지 땅 18만㎡…대구 동구 '조상땅 찾기'로 찾았다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261028_0003844707"
+        }
+      ]
+    },
+    {
+      "title": "신세계",
+      "approx_traffic": "1000+",
+      "published": "Wed, 28 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "신세계, 롯데백화점 센텀시티점 인수…'신세계 타운'으로 키운다 [종합]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610293369g"
+        },
+        {
+          "title": "신세계백화점, 롯데백화점 부산 센텀시티점 인수...백화점 1·2위간 첫 거래",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610291423170918"
+        },
+        {
+          "title": "'선택과 집중' 롯데백화점, '잠실·본점·부산본점' 핵심 점포에 힘 싣는다",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900244.html"
+        }
+      ]
+    },
+    {
+      "title": "손정범",
+      "approx_traffic": "5000+",
+      "published": "Wed, 28 Oct 2026 22:30:00 -0700",
+      "news": [
+        {
+          "title": "[속보] 11월 A매치 소집 명단 발표...92·96라인 모두 선발",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0107_202610291405307115_005.html"
+        },
+        {
+          "title": "내분설 ‘96라인’ 전원 재발탁...모레노 감독 11월 A매치 대표팀 명단 발표",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/10/29/2YV7IAIWVBG6LJFTPHLCZL7NTQ/"
+        },
+        {
+          "title": "'은퇴 소동' 96라인 11월 A매치 소집…손정범·신민하 첫 발탁",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846496"
+        }
+      ]
+    },
+    {
+      "title": "파라타항공",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 22:20:00 -0700",
+      "news": [
+        {
+          "title": "파라타항공 키우는 위닉스…공격 투자에 재무 부담 확대",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261029000972"
+        },
+        {
+          "title": "[中 운수권 의혹①] 국토부, '공항사용료 60억 미납' 파라타에 주요 노선 배분",
+          "source": "www.ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728478"
+        },
+        {
+          "title": "[中 운수권 의혹③] ’국익유출’ 파라타항공 미취항 장기화…중국항공사만 수혜 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2138563"
+        }
+      ]
+    },
+    {
+      "title": "중앙일보",
+      "approx_traffic": "10000+",
+      "published": "Wed, 28 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "승무원 아내 고단수였다…의사 남편이 속은 ‘충격 사생활’",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25472920"
+        },
+        {
+          "title": "포르쉐 블박엔 없었다…고단수 승무원 아내의 ‘충격 사생활’",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25472837"
+        },
+        {
+          "title": "한컴 36년 숙제 '해외 공략'…김연수 대표 \"환경이 바뀌었다\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261029120108"
         }
       ]
     }
