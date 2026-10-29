@@ -1,210 +1,144 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T09:29:01+00:00",
+  "fetched_at": "2026-10-29T10:25:56+00:00",
   "items": [
     {
-      "title": "동굴",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 01:20:00 -0700",
+      "title": "나띠",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 02:20:00 -0700",
       "news": [
         {
-          "title": "강원도, 11월 지질·생태명소에 삼척 대이리 동굴지대 선정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029063300062"
-        },
-        {
-          "title": "늦가을의 서정…강원도 11월 명소, 삼척 대이리 동굴지대",
-          "source": "프레시안",
-          "url": "https://www.pressian.com/pages/articles/2026102912550042150"
-        },
-        {
-          "title": "삼척 '대이리 동굴지대', 강원도 11월 지질·생태명소 선정",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/national/2382201.htm"
-        }
-      ]
-    },
-    {
-      "title": "england vs sri lanka",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 01:20:00 -0700",
-      "news": [
-        {
-          "title": "Sri Lanka vs England LIVE: ODI tri-series, Lahore - cricket score, radio commentary & updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/cricket/live/cx3057vzg6q4t"
-        },
-        {
-          "title": "Dead-rubber blues for England as Sri Lanka tune up for final",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/england-vs-sri-lanka-6th-match-1550718/match-preview"
-        },
-        {
-          "title": "Sri Lanka vs. England free live stream: How to watch Pakistan ODI tri-series clash in India",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/sri-lanka-vs-england-free-203001599.html"
-        }
-      ]
-    },
-    {
-      "title": "퇴직금",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 01:10:00 -0700",
-      "news": [
-        {
-          "title": "모든 사업장 '퇴직급여 사외적립' 의무화…2030년까지 단계 확대",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974546"
-        },
-        {
-          "title": "퇴직금 체불 막는다…2030년까지 사외적립 의무화",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20107956"
-        },
-        {
-          "title": "퇴직연금 '위험자산 70% 상한' 완화, 국민연금 참여도 검토…'쥐꼬리 수익률' 개선될까 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/10/29/2026102915341185216"
-        }
-      ]
-    },
-    {
-      "title": "sk",
-      "approx_traffic": "2000+",
-      "published": "Thu, 29 Oct 2026 01:10:00 -0700",
-      "news": [
-        {
-          "title": "SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/business/earnings/sk-hynix-plans-75-billion-in-shareholder-returns-after-blockbuster-earnings-f3a460b7"
-        },
-        {
-          "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html"
-        },
-        {
-          "title": "SK hynix Announces 3Q26 Financial Results",
-          "source": "SK hynix",
-          "url": "https://news.skhynix.com/en/q3-2026-business-results/"
-        }
-      ]
-    },
-    {
-      "title": "은가은",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 01:00:00 -0700",
-      "news": [
-        {
-          "title": "‘미스트롯’ 은가은, 스케줄 때문에 유도분만 “진통 8시간” (‘살림남’)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/29/ME2TAYJSGY4TQOBVMQ4GINRYG4/"
-        },
-        {
-          "title": "은지원 \"어렸을 때 병원에서 살았다\" 고백",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261029_0003845638"
-        },
-        {
-          "title": "‘박현호♥’ 은가은, 딸 서원이 출산 때 진통 8시간…“유도분만에 고생”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261029/134929591/1"
-        }
-      ]
-    },
-    {
-      "title": "009830",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 00:50:00 -0700",
-      "news": [
-        {
-          "title": "AJP Factbox: Hanwha Solutions swings to Q3 2026 profit",
-          "source": "Aju Press",
-          "url": "https://www.ajupress.com/view/20261029145024815"
-        },
-        {
-          "title": "Hanwha Systems Posts 831.6 Billion Won in Third-Quarter Revenue on Defense Growth",
-          "source": "THE ELEC, Korea Electronics Industry Media",
-          "url": "https://www.thelec.net/news/articleView.html?idxno=14974"
-        },
-        {
-          "title": "Hanwha Solutions posts 90.5 billion won Q3 operating profit, swings to profit year on year",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/en/view/121373/hanwha-solutions-q3-operating-profit-90-5-billion-won-swings-to-profit-year-on-year"
-        }
-      ]
-    },
-    {
-      "title": "풍자",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "풍자, 37kg 감량하더니 확 달라졌다…신기루와 투샷서 물오른 미모 ‘눈길’",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/GRSDAYZSGZSWCNLGGUYWIN3CMQ/"
-        },
-        {
-          "title": "풍자, 37㎏ 감량하더니 확 달라진 얼굴…이목구비 또렷 [N샷]",
+          "title": "키오프 나띠, 여유로운 일상 속 비현실적 글래머 몸매 [N샷]",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6335338"
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6336845"
         },
         {
-          "title": "‘37kg 감량’ 풍자, 신기루 옆에서 소두 인증…얼굴이 반쪽 됐네",
+          "title": "키오프 나띠, 레깅스에 드러난 ‘애플힙’…독보적 글래머 몸매",
           "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610281601003"
+          "url": "https://sports.khan.co.kr/article/202610291721003"
+        },
+        {
+          "title": "키오프 나띠, 독보적 볼륨감 드러낸 애슬레저 룩...“건강미 폴폴”",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1645199"
         }
       ]
     },
     {
-      "title": "005930",
-      "approx_traffic": "5000+",
-      "published": "Thu, 29 Oct 2026 00:40:00 -0700",
-      "news": [
-        {
-          "title": "Samsung Chip Profit Misses Estimates Lifted by Resurgent AI Hope",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope"
-        },
-        {
-          "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html"
-        },
-        {
-          "title": "Samsung’s Chip Profit Drives Another Record Quarter",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/business/earnings/samsung-posts-fourth-straight-quarter-of-record-earnings-1373e927"
-        }
-      ]
-    },
-    {
-      "title": "장신영",
-      "approx_traffic": "2000+",
-      "published": "Thu, 29 Oct 2026 00:30:00 -0700",
-      "news": [
-        {
-          "title": "`강경준 용서` 장신영, 마음고생 털어냈나…레깅스 입고 뽐낸 탄탄 몸매",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026102909025085632"
-        },
-        {
-          "title": "장신영, 햇살 아래 계단 산책…등산 근황 전했다",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16260690"
-        },
-        {
-          "title": "‘남편 용서’ 장신영, 안개 낀 한라산 등반…활동 중단 ♥강경준도 함께 올랐나",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202610210958300310"
-        }
-      ]
-    },
-    {
-      "title": "(주)돌고래유괴단",
+      "title": "홈플러스",
       "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 00:30:00 -0700",
+      "published": "Thu, 29 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "[단독] 홈플러스, 희망퇴직도 취소…밀린 월급 줄 돈도 없다",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/distribution/channel/2026/10/29/VD7LNAEEORCAFNRGC2KDTXDRPU/"
+        },
+        {
+          "title": "한전, 홈플러스 전기료 체납에 \"매장별 상황 따라 단전 검토\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028159000003"
+        },
+        {
+          "title": "＂부활 꿈꿨지만 매출은 뚝＂…＇임금체불＇도 모자라 ＇전기＇도 끊긴다",
+          "source": "한국경제TV",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290013"
+        }
+      ]
+    },
+    {
+      "title": "윤석열 사형 구형",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "특검, 尹 ’내란 우두머리’ 항소심도 사형 구형…“헌정질서 전복하려 한 반역자“",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610291204329b3"
+        },
+        {
+          "title": "\"제2의 윤석열 나오지 않도록\"…특검, 2심서도 윤 전 대통령에 사형 구형",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325436"
+        },
+        {
+          "title": "내란특검, 윤석열 2심도 사형 구형‥\"법에 정해진 가장 단호한 판결 내려달라\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861616_36918.html"
+        }
+      ]
+    },
+    {
+      "title": "한화에어로스페이스",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "한화에어로 3분기 영업익 4천520억원…물량인도 지연에 46%↓(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029148951527"
+        },
+        {
+          "title": "[컨콜] 한화에어로, 3Q ‘숨고르기’에도 4Q 반등 자신…“폴란드 천무 인도 60대 이상으로 상향”",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261029027332867"
+        },
+        {
+          "title": "방산 시장 누비는 K9·천무… 바다엔 LNG선[창간 35주년 특집]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627143"
+        }
+      ]
+    },
+    {
+      "title": "경기도 버스 파업",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "경기도 버스 노사 최종 협상 돌입...결렬되면 내일 파업",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202610291805240642"
+        },
+        {
+          "title": "서울시, 경기도 버스파업 예고에 지하철 등 추가 투입",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861735_36918.html"
+        },
+        {
+          "title": "“등하교 시간 자율 조정·임시버스 투입”…경기 버스 파업 대책 마련 ‘비상’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698721"
+        }
+      ]
+    },
+    {
+      "title": "김우빈",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "“둘이 뭘 할 것 같았다” 신민아, 김우빈·이광수 나란히 앉자 불안했던 이유",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261029/134930149/2"
+        },
+        {
+          "title": "신민아, ♥김우빈과 달달한 신혼 일상…“살쪄도 제일 예쁘다고” (유퀴즈)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610290835003"
+        },
+        {
+          "title": "\"힙해 보이려고\" 신민아, 갑자기 혼자 '이것' 시작한 이유는… - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102905334535621"
+        }
+      ]
+    },
+    {
+      "title": "주 돌고래 유괴 단",
+      "approx_traffic": "2000+",
+      "published": "Thu, 29 Oct 2026 02:00:00 -0700",
       "news": [
         {
           "title": "2심도 \"뉴진스 뮤비 무단 게시한 제작사, 어도어에 10억 배상\"",
@@ -220,6 +154,72 @@
           "title": "'뉴진스 뮤비 소송' 2심도 \"어도어에 10억 지급하라\"",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_ln/0103_202610291503430089"
+        }
+      ]
+    },
+    {
+      "title": "빈곤",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 02:00:00 -0700",
+      "news": [
+        {
+          "title": "생계급여 중위소득 32→35% 단계적 확대 추진",
+          "source": "이투데이",
+          "url": "https://bravo.etoday.co.kr/view/atc_view/20363"
+        },
+        {
+          "title": "생계용 재산 고려 ‘기초수급 문턱’ 낮추나",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610282054035"
+        },
+        {
+          "title": "기초생활보장 못받는 빈곤층 137만… 생계급여 기준 ‘중위소득 35%’ 확대",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261028/134928959/2"
+        }
+      ]
+    },
+    {
+      "title": "전쟁",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 02:00:00 -0700",
+      "news": [
+        {
+          "title": "미 중간선거 D-5...트럼프, 이란 '물밑 교섭' 지시 [앵커리포트]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610291701174970"
+        },
+        {
+          "title": "다시 꺼낸 이란 공격 카드…고유가 공포 덮친다",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=06317286645617840"
+        },
+        {
+          "title": "美밴스, 이란 강경파에 서한…\"협상에 핵논의 필요\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029019151071"
+        }
+      ]
+    },
+    {
+      "title": "시험 방송",
+      "approx_traffic": "2000+",
+      "published": "Thu, 29 Oct 2026 01:50:00 -0700",
+      "news": [
+        {
+          "title": "北, 대남 확성기 틀었다…접경지 주민 \"아침부터 귀신 소리\"",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05254566645617840&mediaCodeNo=257"
+        },
+        {
+          "title": "북, 확성기 방송 재개?… 접경지 주민들 불안감 증폭",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039334"
+        },
+        {
+          "title": "[속보] 국정원 “북한 대남방송 보도, 사실 아냐…주민 잘못 신고”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698848"
         }
       ]
     }
