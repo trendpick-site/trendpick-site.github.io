@@ -1,122 +1,166 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T11:21:08+00:00",
+  "fetched_at": "2026-10-29T12:18:34+00:00",
   "items": [
     {
-      "title": "발전소",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "국민성장펀드, 국내 최대 태양광 발전소·반도체 밸류체인 투자",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029196900002"
-        },
-        {
-          "title": "금융위 부위원장 \"국민성장펀드 성과 긴 호흡으로 봐달라\"",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/video/2026102916123585215"
-        },
-        {
-          "title": "금융위 \"국민참여성장펀드 수익률 0.5%…장기적 관점서 평가해야\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261029001267"
-        }
-      ]
-    },
-    {
-      "title": "베드타운",
+      "title": "sk플래닛",
       "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
+      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
       "news": [
         {
-          "title": "수도권에 신규택지 7만 6700호 추가…2030년까지 착공 추진",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974548&pWise=sub&pWiseSub=C2"
+          "title": "SK플래닛, 기프티콘 이용자 개인정보 유출",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261029000468"
         },
         {
-          "title": "김포·구리 등 6곳 그린벨트 풀어 7.7만호 공급",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261029190947T5B"
-        },
-        {
-          "title": "고삐 풀린 경기 집값, 상승률 서울 2배 '질주'",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12190119"
-        }
-      ]
-    },
-    {
-      "title": "상장지수펀드",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "코스닥 액티브 ETF, 지수 웃돌았는데…'완전 액티브' 도입은 제자리 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/29/2026102915574215466"
-        },
-        {
-          "title": "“지수보다 10%P 더 벌었는데”…상장폐지 걱정하는 액티브 ETF",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04765846645617512"
-        },
-        {
-          "title": "일반 ETF 속에 3배 레버리지…꼼수 운용 논란",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20107985"
-        }
-      ]
-    },
-    {
-      "title": "기아 타이거즈",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "'역시 슈퍼스타' KIA 김도영, 3회 역전포…올해 PS 4번째 아치",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029201600007"
-        },
-        {
-          "title": "\"리듬과 타이밍이 완벽해\" 타이거즈 레전드 출신 해설위원도 감탄! 김도영의 괴력 같은 밀어치기 [PO3]",
+          "title": "SK플래닛, 기프티콘 고객정보 유출 정황… \"피해 전액 보상\"",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/10/29/HEZGGOJVGJRTSNDEMRRDAODGGI/"
+          "url": "https://biz.chosun.com/it-science/ict/2026/10/29/35KE42XCHJCIDJ75ZYDTDUAISA/"
         },
         {
-          "title": "[AI그래픽] KBO PO 3차전, KIA 김도영 3회 역전 솔로포",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261029001393"
+          "title": "해킹 여파에 카페·영화관에서 \"쿠폰 못써요\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819903"
         }
       ]
     },
     {
-      "title": "프로야구",
+      "title": "대학",
       "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
+      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
       "news": [
         {
-          "title": "이범호 KIA 감독 \"시라카와 5이닝 3실점으로 버텨줘야\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029165600007"
+          "title": "한영대학교, 틸론과 협력해 AI 교육혁신 기반 강화",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261029204109"
         },
         {
-          "title": "홈으로 슬라이딩 카스트로",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261029_0021510738"
+          "title": "경기대, AI 교육혁신 콜로키움서 '책임감 있는 AI 인재양성' 방향 제시",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261029000434"
         },
         {
-          "title": "[사진]김도영,'홈에서 미소'",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112900320"
+          "title": "계명대, AI 중심 대학 전환 선언…교육·연구·행정 전반 개편 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/10/29/2026102914241780911"
         }
       ]
     },
     {
-      "title": "박재현",
+      "title": "항소",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
+      "news": [
+        {
+          "title": "이승기, 후크엔터와 정산금 소송 종결…양측 항소 취하",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261029190248uCR"
+        },
+        {
+          "title": "이승기, '정산금 갈등' 前소속사와 쌍방 항소 취하",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20261029n30864?mid=e01&list=recent&cpcd="
+        },
+        {
+          "title": "이승기, 후크엔터와 정산금 소송 마무리…쌍방 항소 취하 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/29/2026102917420121681"
+        }
+      ]
+    },
+    {
+      "title": "이재희",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
+      "news": [
+        {
+          "title": "위기 속 등판한 이재희",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8187396"
+        },
+        {
+          "title": "[사진]이재희, 실점 없이",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900635"
+        },
+        {
+          "title": "[PO]우여곡절 끝에 PO 엔트리 승선한 삼성 이재희 “김재윤 형이 ‘네가 해줘야 된다’고”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610271347003"
+        }
+      ]
+    },
+    {
+      "title": "속리산",
       "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 03:10:00 -0700",
+      "published": "Thu, 29 Oct 2026 04:10:00 -0700",
+      "news": [
+        {
+          "title": "지역 명물 정이품송 덮칠라…충북 보은군, 재선충병 방제 안간힘",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610291456001"
+        },
+        {
+          "title": "(경기도 대변인 서면 브리핑)추미애 지사, ‘소나무재선충병의 신속하고 철저한 방제활동’ 지시",
+          "source": "경기도뉴스포털",
+          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=S017&number=71865"
+        },
+        {
+          "title": "재선충병에 신음하는 가평 산림…29일부터 연중 방제 본격화",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261029580455"
+        }
+      ]
+    },
+    {
+      "title": "김지찬",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 04:00:00 -0700",
+      "news": [
+        {
+          "title": "‘PS만 23경기’ 삼성 리드오프 김지찬, 이제 가을 향기가 익숙하다…“더 과감하게, 자신있게”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261028/134925128/1"
+        },
+        {
+          "title": "[사진]김태군, 추격하자고 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/27/202610272133777693O"
+        },
+        {
+          "title": "[사진]이승민, 8회도 내가 책임진다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/10/27/GQ3WENLDMVTDKMDFMY2DGZRYGU/"
+        }
+      ]
+    },
+    {
+      "title": "하트오브비스트",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 04:00:00 -0700",
+      "news": [
+        {
+          "title": "'치이카와' 15일째 1위…'하트 오브 비스트'·'수능' 2·3위 출발 [박스오피스] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102909397273155"
+        },
+        {
+          "title": "'극장판 치이카와' 15일 연속 1위…누적 관객 234만명 [Nbox]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/movie/6335631"
+        },
+        {
+          "title": "“지갑이 ‘먼’저 ‘작’살나는 귀여움”…영크크·늙크크 모두 빠진 ‘먼작귀’를 아시나요?",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/pick/12190254"
+        }
+      ]
+    },
+    {
+      "title": "류지혁",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 03:50:00 -0700",
       "news": [
         {
           "title": "'호수비에 도파민 샘솟은' 삼성 류지혁 \"기세는 우리에게 왔다\"",
@@ -124,102 +168,58 @@
           "url": "https://www.yna.co.kr/view/AKR20261029187000007"
         },
         {
-          "title": "“솔직히 그렇게 잘 올 줄 몰랐죠” 43살 베테랑의 멋진 보살, 잡은 2루수도 깜짝 놀랐다 [PO3]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112900405"
-        },
-        {
-          "title": "[사진]김규성,'비디오 판독 요청'",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/29/MI3TOMBVMNTDQNRYGFRTSNTDG4/"
-        }
-      ]
-    },
-    {
-      "title": "주택담보대출",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 03:00:00 -0700",
-      "news": [
-        {
-          "title": "코픽스 급등, 영끌족 이자 부담 커지나",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3785_2_C1"
-        },
-        {
-          "title": "가계대출 금리 5% 턱밑…고정형 주담대 사상 첫 5% 뚫어",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261030.22010008938"
-        },
-        {
-          "title": "9월 은행 주담대 금리 4.88%…14년여 만의 최고 수준",
+          "title": "교체되는 시라카와",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261029_0003846200"
-        }
-      ]
-    },
-    {
-      "title": "sk그룹",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 03:00:00 -0700",
-      "news": [
-        {
-          "title": "최태원 SK 회장, 내달 5일 서울대서 AI 시대 경제·인재상 특강",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029176200004"
+          "url": "https://www.newsis.com/view/NISI20261029_0021510863"
         },
         {
-          "title": "최태원 SK그룹 회장, 다음 달 5일 서울대 경제학 특강",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/economy/2382704.htm"
-        },
-        {
-          "title": "서울대 학생들과 마주 앉는 최태원…“AI 시대 기업이 원하는 인재는”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20107935"
-        }
-      ]
-    },
-    {
-      "title": "시라카와",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 02:50:00 -0700",
-      "news": [
-        {
-          "title": "디아즈, 광주서 선제 투런포",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261029_0021510719"
-        },
-        {
-          "title": "[포토] '역투' 시라카와 - 머니투데이",
+          "title": "[포토] 환호성이 터진다! '5회초 김도영의 홈런을 무위로 돌리는' 역전 투런홈런 류지혁 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102918390355539"
-        },
-        {
-          "title": "‘2G 연속 홈런 폭발’ 디아즈, PO 3차전 첫 타석부터 투런포 쾅! 삼성 기선 제압 [PO3]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112900449"
+          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102920163227324"
         }
       ]
     },
     {
-      "title": "삼성 기아",
-      "approx_traffic": "2000+",
-      "published": "Thu, 29 Oct 2026 02:40:00 -0700",
+      "title": "11월 a매치 명단",
+      "approx_traffic": "10000+",
+      "published": "Thu, 29 Oct 2026 03:50:00 -0700",
       "news": [
         {
-          "title": "1승씩 나눈 호랑이와 사자…광주서 진검승부",
+          "title": "내분설 ‘96라인’ 전원 재발탁...모레노 감독 11월 A매치 대표팀 명단 발표",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/10/29/2YV7IAIWVBG6LJFTPHLCZL7NTQ/"
+        },
+        {
+          "title": "‘은퇴 소동’ 김민재·황희찬 등 포함… 모레노호, 내달 ‘A매치 명단’ 발표",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1773736"
+        },
+        {
+          "title": "’은퇴 소동’ 3인방 축구대표팀 발탁…’병역 발언’ 이기혁 제외",
           "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261029185356bLM"
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610291543087JI"
+        }
+      ]
+    },
+    {
+      "title": "한국시리즈",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 03:50:00 -0700",
+      "news": [
+        {
+          "title": "1년전 한화 악몽은 안된다. '5차전 피해야 산다' '페덱 vs 네일' 4차전 끝장 빅매치 성사되나[PO]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/29/MIYWMNRVGIZWCNZWHE3TOM3BGE/"
         },
         {
-          "title": "‘1승 1패에서 누가 2승 선점할까’ KIA-삼성 3차전 1만8900석 매진, PS 44G 연속 매진 행진 [PO3]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112900552"
+          "title": "3차전이 분수령...시라카와-최원태, 맞대결",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610291709116919"
         },
         {
-          "title": "기아팬도·삼성팬도 \"우리가 승리\"…PO 3차전 열기 추위 녹였다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/gwangju-jeonnam/6336708"
+          "title": "최원태, 1⅔이닝 만에 강판…마운드 운용 꼬인 삼성",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029200500007"
         }
       ]
     }
