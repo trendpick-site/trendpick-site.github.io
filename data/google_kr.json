@@ -1,8 +1,140 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T05:22:18+00:00",
+  "fetched_at": "2026-10-29T06:19:16+00:00",
   "items": [
+    {
+      "title": "중앙일보",
+      "approx_traffic": "5000+",
+      "published": "Wed, 28 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "\"사석에서 만나면 사과 가능\"‥주진우 향해 \"타진요냐\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861441_37004.html"
+        },
+        {
+          "title": "‘황제 골프 의혹’ 고발당한 주진우, 이 대통령 부부 맞고발",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610291506011"
+        },
+        {
+          "title": "주진우 \"민주당이 권력 아부하려 날 고발…나도 대통령 내외 고발\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325273"
+        }
+      ]
+    },
+    {
+      "title": "강석우",
+      "approx_traffic": "2000+",
+      "published": "Wed, 28 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "미남이 미남 낳았네…강석우, '정용화 닮은꼴' 아들 득남에 화색 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102909180259353"
+        },
+        {
+          "title": "69세 강석우 할아버지 됐다…\"아들이 아들 낳아\" [소셜in]",
+          "source": "MBC",
+          "url": "https://m.imbc.com/enews/view/522849"
+        },
+        {
+          "title": "'69세' 강석우, 할아버지 됐다..'연세대 정용화 '子 오늘 득남 [공식]",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261028050505271"
+        }
+      ]
+    },
+    {
+      "title": "메가박스",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "메가박스, 11월 단독 상영 '메가 온리'…다큐·애니부터 英 명작 연극까지 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/10/29/2026102913254737163"
+        },
+        {
+          "title": "메가박스, '메가 온리' 11월 라인업 공개...英 연극 실황까지 '취향 저격'",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20261029500252"
+        },
+        {
+          "title": "투어스 VR 콘서트 ‘러쉬로드’, 4D 재개봉…11월 13일 코엑스서 만난다",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=777376"
+        }
+      ]
+    },
+    {
+      "title": "박시후",
+      "approx_traffic": "100+",
+      "published": "Wed, 28 Oct 2026 21:50:00 -0700",
+      "news": [
+        {
+          "title": "박시후, ‘여자 소개해 가정파탄’ 누명 벗었다…허위사실 유포녀 실형",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261029/134931311/1"
+        },
+        {
+          "title": "“박시후 때문에 가정 파탄” 허위글 올린 여성, 징역 10개월",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/law_firm/2026/10/29/WNZTSF5OKBAD3DLJHPS2AJYEOA/"
+        },
+        {
+          "title": "“박시후가 전남편에 여자 소개” 허위사실 유포 여성 징역형",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627339"
+        }
+      ]
+    },
+    {
+      "title": "하남시",
+      "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "김포·구리 등 수도권에 7만6천여 호 공급",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698405"
+        },
+        {
+          "title": "이기형 김포시장, 김포아라 공공택지지구 조성 ‘일방적 강행 발표’ 공식 반대",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261029580294"
+        },
+        {
+          "title": "'서울 접근성' 강조한 7.67만가구… 2030 부동산 민심 달래기 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102910092123952"
+        }
+      ]
+    },
+    {
+      "title": "일회용품",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "숨 쉬며 마신 나노플라스틱, 폐 염증 유발 원리 밝혀졌다",
+          "source": "울산종합일보",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065583684104229"
+        },
+        {
+          "title": "생명연, '나노플라스틱' 폐 염증 유발 원리 규명",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026102913555025547"
+        },
+        {
+          "title": "\"호흡해 들이마신 나노플라스틱이 폐 염증 유발…디젤 매연보다 독해\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/daejeon-chungnam/6336198"
+        }
+      ]
+    },
     {
       "title": "bangladesh vs west indies",
       "approx_traffic": "100+",
@@ -31,19 +163,19 @@
       "published": "Wed, 28 Oct 2026 21:00:00 -0700",
       "news": [
         {
-          "title": "[속보] 내란특검, '내란 우두머리 혐의' 윤석열 항소심도 사형 구형",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861616_36918.html"
+          "title": "[속보] 특검, 尹 ’내란 우두머리’ 항소심도 사형 구형",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610291204329b3"
+        },
+        {
+          "title": "\"제2의 윤석열 나오지 않도록\"…특검, 2심서도 윤 전 대통령에 사형 구형",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325436"
         },
         {
           "title": "[속보]특검, 윤석열 항소심서도 사형 구형…“국민이 막은 내란, 감형 이유 안돼”",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202610291206001"
-        },
-        {
-          "title": "'올림픽공원 투표지' 반출 완료...특검 수사 향방은? [이슈톺]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202610291054154186"
         }
       ]
     },
@@ -53,25 +185,25 @@
       "published": "Wed, 28 Oct 2026 21:00:00 -0700",
       "news": [
         {
-          "title": "HIGHLIGHTS: Vancouver Whitecaps FC vs. San Diego FC | October 28, 2026",
-          "source": "MLSsoccer.com",
-          "url": "https://www.mlssoccer.com/competitions/mls-regular-season/video/highlights-vancouver-whitecaps-fc-vs-san-diego-fc-october-28-2026"
+          "title": "Kim Min-jae on Bench as Bayern München Crushes Second-Division Team 6-1 to Reach DFB-Pokal Round of 16",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008820292"
         },
         {
-          "title": "St. Louis City beats Columbus in Open Cup final for club's first trophy",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/50242822/st-louis-city-beats-columbus-open-cup-final"
+          "title": "Bayern brush Magdeburg aside in DFB Pokal, Bayer Leverkusen & Stuttgart battle through",
+          "source": "Flashscore.com",
+          "url": "https://www.flashscore.com/news/soccer-dfb-pokal-bayern-brush-magdeburg-aside-in-dfb-pokal-bayer-leverkusen-stuttgart-battle-through/lMjOjkIl/"
         },
         {
-          "title": "HIGHLIGHTS: Vancouver Whitecaps FC vs. San Diego FC | October 28, 2026",
-          "source": "MLSsoccer.com",
-          "url": "https://www.mlssoccer.com/video/highlights-vancouver-whitecaps-fc-vs-san-diego-fc-october-28-2026"
+          "title": "Bayern Munich 6-1 Magdeburg: Olise leads holders into last 16",
+          "source": "beIN SPORTS",
+          "url": "https://www.beinsports.com/en-au/football/dfb-pokal/articles/bayern-munich-6-1-magdeburg-olise-leads-holders-into-last-16-2026-10-28"
         }
       ]
     },
     {
       "title": "제네시스 gv90",
-      "approx_traffic": "1000+",
+      "approx_traffic": "10000+",
       "published": "Wed, 28 Oct 2026 20:50:00 -0700",
       "news": [
         {
@@ -88,138 +220,6 @@
           "title": "GV90, ‘달항아리 디자인’ 비밀⋯ 램프부터 천연 소재까지 적용",
           "source": "브릿지경제",
           "url": "https://www.viva100.com/article/20261029500021"
-        }
-      ]
-    },
-    {
-      "title": "뉴진스",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 20:50:00 -0700",
-      "news": [
-        {
-          "title": "뉴진스 '제로' 스포티파이 1억 스트리밍…팀 통산 17번째",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029076400005"
-        },
-        {
-          "title": "뉴진스 ‘Zero’, 스포티파이 1억 스트리밍 돌파..CM송도 인기",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/10/29/GFTDIZTEMJQTQMDGG43TSY3BGQ/"
-        },
-        {
-          "title": "뉴진스, 활동 중단 속 광고송도 1억 돌파…`Zero`로 17번째 기록",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026102911032954941"
-        }
-      ]
-    },
-    {
-      "title": "김포시",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 20:40:00 -0700",
-      "news": [
-        {
-          "title": "강화군, 접경 안보 논의… 군과 공조체계 구축",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335451"
-        },
-        {
-          "title": "김포시·수도군단 등 군 지휘관 안보 간담회…통합방위 공조 강화 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/10/29/2026102909392452447"
-        },
-        {
-          "title": "강화군, 육군·해병대와 접경지 안전 위한 협력체계 논의",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/incheon/6336290"
-        }
-      ]
-    },
-    {
-      "title": "다니엘",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 20:30:00 -0700",
-      "news": [
-        {
-          "title": "뉴진스 출신 다니엘 “예전과 같을 순 없겠죠”···‘버니즈’ 탄생일에 자작곡 공개, 개인 활동 나서나",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610291032011"
-        },
-        {
-          "title": "“예전과 같을 순 없겠죠”…다니엘, ‘뉴진스 팬덤 기념일’에 자작곡 공개",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12189725"
-        },
-        {
-          "title": "다니엘, 뉴진스 팬덤 생일에 자작곡 공개…가사엔 “널 위해 싸워”",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261028185242381"
-        }
-      ]
-    },
-    {
-      "title": "대한민국",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 20:30:00 -0700",
-      "news": [
-        {
-          "title": "신해철·유재석 문화훈장…유해진은 대통령 표창 받는다",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325428"
-        },
-        {
-          "title": "고 신해철에 은관문화훈장‥유재석·블랙핑크도 문화훈장",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6861580_36932.html"
-        },
-        {
-          "title": "신해철·유재석·블랙핑크 문화훈장…유해진·장항준, 대통령 표창",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261029_0003845801"
-        }
-      ]
-    },
-    {
-      "title": "ai 안경",
-      "approx_traffic": "100+",
-      "published": "Wed, 28 Oct 2026 20:30:00 -0700",
-      "news": [
-        {
-          "title": "수능 스마트안경 부정행위 형사고발 방침...응시정지 3년 추진",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610291235507785"
-        },
-        {
-          "title": "교육부, 스마트안경 부정행위 형사처벌 추진…응시정지 1년→3년",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261029000240"
-        },
-        {
-          "title": "저 안경 수상한데?…'불법 촬영' 스마트 안경 구별 공식",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261028144013"
-        }
-      ]
-    },
-    {
-      "title": "홍서범",
-      "approx_traffic": "5000+",
-      "published": "Wed, 28 Oct 2026 20:10:00 -0700",
-      "news": [
-        {
-          "title": "'아들 불륜 논란' 홍서범, 일산 16억 부동산 투자 실패…\"손해 많이 봤다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261028_0003845276"
-        },
-        {
-          "title": "\"'아들 불륜 논란' 홍서범, 16억 펜트하우스 샀다 낭패\" 김구라가 꺼냈다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6335719"
-        },
-        {
-          "title": "‘아들 외도 논란’ 홍서범, 부동산 투자 손실 컸다 “펜트하우스 샀는데 손해 많이 봐”[Oh!쎈 이슈]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112899664"
         }
       ]
     }
