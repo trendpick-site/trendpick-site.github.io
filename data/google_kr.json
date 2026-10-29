@@ -1,11 +1,121 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T02:25:28+00:00",
+  "fetched_at": "2026-10-29T03:23:20+00:00",
   "items": [
     {
-      "title": "만두",
+      "title": "la 클리퍼스 대 la 레이커스",
       "approx_traffic": "500+",
+      "published": "Wed, 28 Oct 2026 19:10:00 -0700",
+      "news": [
+        {
+          "title": "Luka Dončić sitting out Lakers’ visit to Clippers with back tightness",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/luka-doncic-sitting-out-lakers-visit-to-clippers-with-back-tightness"
+        },
+        {
+          "title": "Lakers Injury Report: Luka Doncic & Ziaire Williams Out Vs. Clippers",
+          "source": "Lakers Nation",
+          "url": "https://lakersnation.com/lakers-injury-report-luka-doncic-ziaire-williams-out-vs-clippers/"
+        },
+        {
+          "title": "A source says the Lakers are being cautious with …",
+          "source": "USA Today",
+          "url": "https://www.usatoday.com/story/sports/nba/rumors/2026/10/28/a-source-says-the-lakers-are-being-cautious-with/92485742007/"
+        }
+      ]
+    },
+    {
+      "title": "이지아",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 19:00:00 -0700",
+      "news": [
+        {
+          "title": "이지아, 초미니 원피스에 슬리퍼만 신어도 화보..누가 48세로 보겠어[핫피플]",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/27/GU3DQNJWMQYTOZTCGUYDENBVMI/"
+        },
+        {
+          "title": "이지아, 48세 안 믿기는 동안 미모에 젓가락 각선미까지…시선 집중 [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6332616"
+        },
+        {
+          "title": "데뷔 땐 48㎏, 지금은 48세…이지아, 19년 지나도 ‘초미니 각선미’",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1645029"
+        }
+      ]
+    },
+    {
+      "title": "화이트캡스 대 샌디에이고 fc",
+      "approx_traffic": "1000+",
+      "published": "Wed, 28 Oct 2026 18:40:00 -0700",
+      "news": [
+        {
+          "title": "Spectator Information: 'Caps host San Diego FC | Match presented by MNP",
+          "source": "www.whitecapsfc.com",
+          "url": "https://www.whitecapsfc.com/news/spectator-info-vwfc-san-diego-fc-presented-by-mnp"
+        },
+        {
+          "title": "Vancouver Whitecaps vs San Diego: Major League Soccer stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c8p3g7wyre90t"
+        },
+        {
+          "title": "Guess the Starting XI – Match Thirty Two vs. San Diego",
+          "source": "The Third Sub",
+          "url": "https://thethirdsub.ca/2026/10/27/guess-the-starting-xi-match-thirty-two-vs-san-diego/"
+        }
+      ]
+    },
+    {
+      "title": "개발제한구역",
+      "approx_traffic": "1000+",
+      "published": "Wed, 28 Oct 2026 18:40:00 -0700",
+      "news": [
+        {
+          "title": "김포·구리 등 수도권에 7만6천여 호 공급",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698405"
+        },
+        {
+          "title": "경기도 6곳 그린벨트 풀어... 신규 택지 7만6700가구 공급",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/real_estate/2026/10/29/KIPBMLGA2ZFHLNMCLCGJDU5M6Q/"
+        },
+        {
+          "title": "'서울 접근성' 강조한 7.67만가구… 2030 부동산 민심 달래기 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102910092123952"
+        }
+      ]
+    },
+    {
+      "title": "손혁",
+      "approx_traffic": "200+",
+      "published": "Wed, 28 Oct 2026 18:40:00 -0700",
+      "news": [
+        {
+          "title": "팬들의 '최강한화' 떳떳하게 듣고 싶었다…한화 떠나는 손혁 단장 \"앞으로 더 강한 팀 될 거라 믿는다\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112899013"
+        },
+        {
+          "title": "한화 떠나는 손혁 전 단장의 작별 인사 “죄송하고 감사했습니다”",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261027170331044"
+        },
+        {
+          "title": "한화 떠나는 손혁 단장 “팬들께 죄송한 마음 가장 커, 꾸준한 강팀 되었으면”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261028/134924613/1"
+        }
+      ]
+    },
+    {
+      "title": "만두",
+      "approx_traffic": "1000+",
       "published": "Wed, 28 Oct 2026 18:20:00 -0700",
       "news": [
         {
@@ -27,7 +137,7 @@
     },
     {
       "title": "커플",
-      "approx_traffic": "500+",
+      "approx_traffic": "2000+",
       "published": "Wed, 28 Oct 2026 18:10:00 -0700",
       "news": [
         {
@@ -53,19 +163,19 @@
       "published": "Wed, 28 Oct 2026 18:10:00 -0700",
       "news": [
         {
-          "title": "‘총선 과반 실패’ 네타냐후의 운명, 아랍계 정당 손에 달렸다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/10/29/RCKYHNOCPRCV7LNLXVT3CM3GA4/"
-        },
-        {
-          "title": "[속보]삼성전자, 3분기 배당 30조...보통주·우선주 주당 4601원 - 머니투데이",
+          "title": "하이닉스가 버티면 뭐하나…코스피, 하락 종목 7배 '와르르' - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/10/29/2026102908144992759"
+          "url": "https://www.mt.co.kr/stock/2026/10/29/2026102911020397673"
         },
         {
-          "title": "이스라엘 총선 개표 50%…네타냐후 진영 55석 전망에도 과반 미달",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441704"
+          "title": "하루는 급등, 하루는 급락 코스피 ‘공포지수’도 올랐어요",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3779_1_C1"
+        },
+        {
+          "title": "다시 ‘바이 코리아’ 시동 건 외국인 … “AI 성장성·주주환원에 컴백 달려”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/stock/12188472"
         }
       ]
     },
@@ -80,141 +190,36 @@
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441768"
         },
         {
-          "title": "[속보] 삼성전자 3분기 영업이익 107조 4천 원‥현금배당 30조 원",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6861574_36932.html"
+          "title": "SK하이닉스 \"2029년까지 HBM·D램 다 팔렸다\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261028110236"
         },
         {
-          "title": "[속보] 삼성전자, 주당 4601원 배당…3분기 30조원 현금배당",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610291020001"
+          "title": "삼전닉스, 반도체 호황 타고 번 돈 210조 주주에 돌려준다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028195100003"
         }
       ]
     },
     {
       "title": "대우건설",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Wed, 28 Oct 2026 17:50:00 -0700",
       "news": [
         {
-          "title": "[속보] 27조 체코 원전 수주한 ‘팀코리아’ 갈라섰다…한수원, 시공계약 협상 종료",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610290957001"
+          "title": "[속보]한수원 '충격'...26조 체코 원전 시공협상 결렬",
+          "source": "한경매거진",
+          "url": "https://magazine.hankyung.com/business/article/202610292476b"
         },
         {
-          "title": "27조 체코 원전 시공사 다시 찾는다… 제동 걸린 대우건설 원전사업 - 머니투데이",
+          "title": "대우건설·두산에너빌리티 급락…체코원전 팀코리아 균열 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102910385851279"
+          "url": "https://www.mt.co.kr/stock/2026/10/29/2026102909424144320"
         },
         {
-          "title": "[속보] 한수원·대우건설 컨소, 체코 두코바니 원전 시공계약 협상 결렬",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102924627"
-        }
-      ]
-    },
-    {
-      "title": "삼성전자 ir",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 17:50:00 -0700",
-      "news": [
-        {
-          "title": "[오늘의 IR] 삼성전자ㆍ현대자동차ㆍ두산로보틱스 등",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2641423"
-        },
-        {
-          "title": "대한전선 29일 3분기 실적 공시…IR 중단기간 운영",
-          "source": "비건뉴스",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=394834"
-        },
-        {
-          "title": "한화오션·삼성전기·에코프로 등…줄줄이 다가오는 실적 발표, 날짜는 언제?",
-          "source": "CBC뉴스",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=617798"
-        }
-      ]
-    },
-    {
-      "title": "마이리얼트립",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 17:30:00 -0700",
-      "news": [
-        {
-          "title": "여권번호까지 털렸다…마이리얼트립, 이용자 개인정보 유출",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261029/134930547/1"
-        },
-        {
-          "title": "여행 플랫폼 마이리얼트립, 이용자 여권번호 해킹당해",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1284754.html"
-        },
-        {
-          "title": "마이리얼트립 해킹으로 개인정보 유출…여권번호·암호화된 비밀번호까지 노출",
-          "source": "데일리시큐",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=209150"
-        }
-      ]
-    },
-    {
-      "title": "티앤이코리아",
-      "approx_traffic": "200+",
-      "published": "Wed, 28 Oct 2026 17:20:00 -0700",
-      "news": [
-        {
-          "title": "인텔리빅스·크리에이츠 등 코스닥 신규상장…30일 거래 개시",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028182600008"
-        },
-        {
-          "title": "고속터보기계 '티앤이코리아' 코스닥 상장 첫날 주가 장중 2배 '따블' 달성",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450592"
-        },
-        {
-          "title": "[특징주] 티앤이코리아, 코스닥 상장 첫날 90%대 급등…장 초반 ‘따블’",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/10/29/2X3DINA7P5D33PMF2BCHJC3NZM/"
-        }
-      ]
-    },
-    {
-      "title": "김영옥",
-      "approx_traffic": "2000+",
-      "published": "Wed, 28 Oct 2026 17:00:00 -0700",
-      "news": [
-        {
-          "title": "‘88세’ 김영옥, 하루·이루네에 “나 죽을 때까지 활동해 줘, 난 잊을까 겁나”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/28/MI3GEOJSHFTDSOJYGQZTKYLFGA/"
-        },
-        {
-          "title": "88세 김영옥 “잊어 버릴까봐 겁나”…기억력 저하 걱정",
-          "source": "헤럴드경제 미주판",
-          "url": "https://www.heraldk.com/article/2026102818401489260"
-        }
-      ]
-    },
-    {
-      "title": "inter miami vs cincinnati",
-      "approx_traffic": "500+",
-      "published": "Wed, 28 Oct 2026 16:50:00 -0700",
-      "news": [
-        {
-          "title": "Suarez scores, Messi frustrated and Casemiro steadies the back line as Inter Miami rescue 2-2 draw with Cincinnati",
-          "source": "LiveScore",
-          "url": "https://www.livescore.com/en/news/football/mls/suarez-scores-messi-frustrated-and-casemiro-steadies-the-back-line-as-inter-miami-rescue-2-2-draw-with-cincinnati-goal/"
-        },
-        {
-          "title": "[LIVESTREAMs]HD!] Cincinnati vs Inter Miami football Live Broadcast today",
-          "source": "Vantage Data Centers",
-          "url": "https://vantage-dc.com/virtual-tour-montreal-data-center/?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vdHJhdmlzLWF1c3Rpbi5naXRodWIuaW8vZW5tL2VudS54bWwiLz48L2tycGFubz4=&id=video-cincinnati-vs-inter-miami-football-match-lie-uxylhmp"
-        },
-        {
-          "title": "Live coverage of Inter Miami vs FC Cincinnati: Inter Miami dominates possession but struggles to score, yet to find the net.",
-          "source": "Báo Nghệ An",
-          "url": "https://baonghean.vn/en/truc-tiep-inter-miami-vs-fc-cincinnati-inter-miami-cam-bong-nhung-be-tac-chua-co-ban-thang-10354586.html"
+          "title": "산업장관 \"체코 두코바니 신규 입찰 진행…한수원 판단 존중\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846327"
         }
       ]
     }
