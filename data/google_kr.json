@@ -1,8 +1,96 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-29T14:33:15+00:00",
+  "fetched_at": "2026-10-29T15:29:59+00:00",
   "items": [
+    {
+      "title": "성과급",
+      "approx_traffic": "2000+",
+      "published": "Thu, 29 Oct 2026 06:50:00 -0700",
+      "news": [
+        {
+          "title": "(단독)삼성전자 성과급 합의 무효 넘어 '부존재' 다툰다…주주단체 소송 추진",
+          "source": "뉴스토마토",
+          "url": "https://www.newstomato.com/readnews.aspx?no=1318464"
+        },
+        {
+          "title": "[단독] \"삼전닉스 면접날 단체 연차\"…‘슈퍼갑 3대장’ 이탈 조짐",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325313"
+        },
+        {
+          "title": "“팀장님, 오늘 연차 쓸게요”…삼전·하닉 면접날 벌어진 일",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01134886645617840"
+        }
+      ]
+    },
+    {
+      "title": "장경수",
+      "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "조용필 ‘상처’·송대관 ‘정 때문에’ 작사가 장경수 별세",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610292018045"
+        },
+        {
+          "title": "장기하 커버 '풍문으로 들었소' 작사가 장경수 별세, 향년 73세",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846756"
+        },
+        {
+          "title": "조용필 ‘상처’ 작사가 장경수, 간암으로 별세… 향년 73세",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/KJWRJZBUU5AQZKUX33DSH5OVXA/"
+        }
+      ]
+    },
+    {
+      "title": "인공지능",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "강원정보문화산업진흥원·강릉과학산업진흥원, AI 헬스케어 글로벌 거점 조성 추진",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261029000223"
+        },
+        {
+          "title": "춘천시 첫 인공지능 기본계획 윤곽…돌봄·안전·바이오 9개 중점사업",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610291811356546"
+        },
+        {
+          "title": "[글로컬픽]춘천·강릉, AI 헬스케어 글로벌 거점 육성 나선다",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/video/2026102911082435807"
+        }
+      ]
+    },
+    {
+      "title": "이상미",
+      "approx_traffic": "100+",
+      "published": "Thu, 29 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "'전원일기 개똥엄마' 이상미, 2년 전 이별 슬픔",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3736948"
+        },
+        {
+          "title": "국호, 배우 생활 30년에도 생활고…\"15년째 건설 현장 출근\" (특종세상)",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2213139"
+        },
+        {
+          "title": "'특종세상' 국호, 베테랑 액션 배우의 산속 수련 근황",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/304471"
+        }
+      ]
+    },
     {
       "title": "유해진",
       "approx_traffic": "2000+",
@@ -14,14 +102,14 @@
           "url": "https://www.mk.co.kr/news/hot-issues/12190556"
         },
         {
-          "title": "[포토] 대통령 표창 받은 배우 소지섭",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261029501489"
-        },
-        {
           "title": "유해진, '신변보호 해제' 후 첫 공식석상서 대통령 표창…\"좋은 영화로 보답\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261029_0003847330"
+        },
+        {
+          "title": "[포토] 대통령 표창을 수상한 배우 소지섭",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/10/29/GA4GINZYMVRTQNJWMIZDQYLFGA/"
         }
       ]
     },
@@ -31,25 +119,25 @@
       "published": "Thu, 29 Oct 2026 06:20:00 -0700",
       "news": [
         {
-          "title": "진에어, 해킹 공격에 회원 1천454명 정보 유출",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610291926171644"
+          "title": "대한항공·아시아나항공 이어···진에어, 해킹공격으로 1454명 개인회원 정보 유출",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610291909001"
+        },
+        {
+          "title": "진에어 고객 1454명 개인정보 유출… 이름·전화번호 등 8개 항목 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/29/2026102920573248577"
         },
         {
           "title": "일본항공 예약시스템 뚫렸다…9만명 개인정보 노출",
           "source": "지디넷코리아",
           "url": "https://zdnet.co.kr/view/?no=20261029143545"
-        },
-        {
-          "title": "대한항공·아시아나항공 이어···진에어, 해킹공격으로 1454명 개인회원 정보 유출",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610291909001"
         }
       ]
     },
     {
       "title": "사토시",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Thu, 29 Oct 2026 06:10:00 -0700",
       "news": [
         {
@@ -70,41 +158,19 @@
       ]
     },
     {
-      "title": "현대자동차",
-      "approx_traffic": "10000+",
-      "published": "Thu, 29 Oct 2026 06:00:00 -0700",
-      "news": [
-        {
-          "title": "현대차, 파업에도 3분기 영업익 증가…연간 목표는 눈높이 낮춰",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374105"
-        },
-        {
-          "title": "현대차 \"테슬라·중국차 위협 사실…할부 경쟁력·AS로 차별화\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029153500003"
-        },
-        {
-          "title": "현대차, 6년 만에 매출 ‘후진’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610292031005"
-        }
-      ]
-    },
-    {
       "title": "김헌곤",
       "approx_traffic": "200+",
       "published": "Thu, 29 Oct 2026 06:00:00 -0700",
       "news": [
         {
-          "title": "[사진] 김헌곤, 안타 성공",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/10/29/MUYDMM3FMJTDON3DGIZDGMLCMY/"
-        },
-        {
           "title": "“네일에게 강하다고? 그건 오해” 2년 전 KS 홈런 영웅의 뜻밖의 고백…“긴 휴식? 다 핑계다” [PO2]",
           "source": "미주중앙일보",
           "url": "https://www.koreadaily.com/article/20261027003122366"
+        },
+        {
+          "title": "2년 전 그때처럼, 삼성 비밀병기 김헌곤 [플레이오프]",
+          "source": "www.newsq.co.kr",
+          "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500571"
         }
       ]
     },
@@ -131,90 +197,24 @@
       ]
     },
     {
-      "title": "퇴직",
+      "title": "지하철",
       "approx_traffic": "2000+",
       "published": "Thu, 29 Oct 2026 05:50:00 -0700",
       "news": [
         {
-          "title": "2030년 퇴직금 사라진다…'기금형 퇴직연금'도 도입",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102943271"
+          "title": "수도권 후속대책 7.67만 호 공급‥\"교통 해결 선행돼야\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861753_37004.html"
         },
         {
-          "title": "못 받은 퇴직금 '8,229억'…\"회사 밖으로\" 걱정 줄인다",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821971"
-        },
-        {
-          "title": "퇴직금 체불 못 하게 사외적립 의무화...기금형도 도입",
+          "title": "수도권 신규택지 6곳 추가 공개...\"7.6만여 호 공급\"",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610291657306557_005.html"
-        }
-      ]
-    },
-    {
-      "title": "오픈ai",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 05:50:00 -0700",
-      "news": [
-        {
-          "title": "중국 AI '증류 공격' 표적, 클로드에서 오픈AI '아스트라'로 이동",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610291544271157"
+          "url": "https://www.ytn.co.kr/_ln/0102_202610292247395868"
         },
         {
-          "title": "중국 AI 기업, OpenAI의 Astra 출력물로 모델 학습 - The Information",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2147408"
-        },
-        {
-          "title": "\"딥시크·문샷, '증류' 주요 표적은 아스트라\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821504"
-        }
-      ]
-    },
-    {
-      "title": "지하철",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 05:50:00 -0700",
-      "news": [
-        {
-          "title": "지하철 7호선, 의정부·양주를 지나 포천까지! 도봉산-옥정 연장선",
-          "source": "서울특별시",
-          "url": "https://mediahub.seoul.go.kr/archives/2019857"
-        },
-        {
-          "title": "서울교통공사 거부에…7호선 연장 '도봉산옥정선' 민간 위탁 운영 가닥",
-          "source": "경인방송 뉴스",
-          "url": "https://news.ifm.kr/news/articleView.html?idxno=482335"
-        },
-        {
-          "title": "낯선 할머니가 갑자기 건넨 1만 원…임산부 결국 울었다 [잇슈#태그]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698624"
-        }
-      ]
-    },
-    {
-      "title": "시바이누코인",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 05:50:00 -0700",
-      "news": [
-        {
-          "title": "시바이누(SHIB), 미결제 약정 5,000만 달러 붕괴 위기...\"레버리지 베팅만 폭주\"",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/266004"
-        },
-        {
-          "title": "시바이누(SHIB) 소각 1190만개…새벽 1043만개 거래 포함",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/428963"
-        },
-        {
-          "title": "시바이누, 연저점 눈앞까지 밀렸다…끝없는 추락 언제까지",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710110"
+          "title": "고삐 풀린 경기 집값, 상승률 서울 2배 '질주'",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12190119"
         }
       ]
     }
