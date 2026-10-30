@@ -1,133 +1,149 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-30T12:58:01+00:00",
+  "fetched_at": "2026-10-30T14:03:51+00:00",
   "items": [
     {
-      "title": "kbo",
-      "approx_traffic": "2000+",
-      "published": "Fri, 30 Oct 2026 04:40:00 -0700",
-      "news": [
-        {
-          "title": "Facing KBO postseason elimination, Tigers move up sluggers in new-look lineup",
-          "source": "The Korea Herald",
-          "url": "https://www.koreaherald.com/article/10920971"
-        },
-        {
-          "title": "KIA Places Star Batter Kim Do-young in No. 2 Spot for Game 4 of Playrestling Playoffs",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008823610"
-        },
-        {
-          "title": "[Photo] \"A single to extend the opportunity in the bottom of the 7th\" Kim Sun-bin",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/sports/2026/10/30/2026103021184589025"
-        }
-      ]
-    },
-    {
-      "title": "대한민국 해군",
+      "title": "현대",
       "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 04:40:00 -0700",
+      "published": "Fri, 30 Oct 2026 06:00:00 -0700",
       "news": [
         {
-          "title": "“전투기 안돼? 드론 띄울게”…육공군 놀란 해군 ‘항모 한수’",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25474097"
-        },
-        {
-          "title": "해군1함대 광개토대왕함 진수 30주년…구리시와 태극기 교환",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261028001091"
-        },
-        {
-          "title": "구리시, 2026년 광개토대왕함과 배틀플래그 교환식 개최… 안전한 항해 기원하며 장병 격려",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=800185"
-        }
-      ]
-    },
-    {
-      "title": "합천군",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 04:40:00 -0700",
-      "news": [
-        {
-          "title": "농어촌 기본소득 관련 현장 간담회 - 사진 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=74006"
-        },
-        {
-          "title": "합천군의회, 제303회 임시회 회기 마무리",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261030500558"
-        },
-        {
-          "title": "강진군, 제8회 어업인 한마음대회 진행",
-          "source": "시민일보",
-          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160266613626587"
-        }
-      ]
-    },
-    {
-      "title": "캄보디아",
-      "approx_traffic": "100+",
-      "published": "Fri, 30 Oct 2026 04:40:00 -0700",
-      "news": [
-        {
-          "title": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html"
-        },
-        {
-          "title": "They made a cruise ship their home, then got kicked off in Cambodia. Now their dream life is on hold.",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/villa-vie-residences-passengers-stranded-cambodia-what-next-reactions-2026-10"
-        },
-        {
-          "title": "They bought cabins to live on a luxury cruise ship. High fuel costs got them kicked off in Cambodia.",
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/news/us-news/luxury-cruise-ship-high-fuel-costs-got-kicked-cambodia-rcna606031"
-        }
-      ]
-    },
-    {
-      "title": "에드 야데니",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 04:30:00 -0700",
-      "news": []
-    },
-    {
-      "title": "스타링크",
-      "approx_traffic": "100+",
-      "published": "Fri, 30 Oct 2026 04:30:00 -0700",
-      "news": [
-        {
-          "title": "결국 푸틴의 승리?...편드는 트럼프·손 벌리는 유럽",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202610291603304256"
-        },
-        {
-          "title": "'스타실드 먹통' 우크라 비웃듯…푸틴 \"미스터 머스크는 천재\"",
+          "title": "유통가는 벌써 크리스마스…백화점, 빛·마켓으로 연말 명소 경쟁",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029047100009"
+          "url": "https://www.yna.co.kr/view/AKR20261029187400030"
         },
         {
-          "title": "\"시속 160km 넘자 통신이 뚝?\"…드론 요격 마비시킨 '몸통'의 실체",
-          "source": "스브스프리미엄",
-          "url": "https://premium.sbs.co.kr/article/xwLbQOSKQ"
+          "title": "[똑똑한유통] 현대백화점, 이케아 코리아, 쿠팡로지스틱스서비스, 신세계면세점, NS홈쇼핑",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261030022063647"
+        },
+        {
+          "title": "붉은 벽돌·노란 택시 등장했다…1980년대 뉴욕으로 변신한 현대百 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/10/30/2026103009503853982"
         }
       ]
     },
     {
-      "title": "조상우",
+      "title": "김태형",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 05:30:00 -0700",
+      "news": [
+        {
+          "title": "포수 출신 감독 ‘0명’시대…류지현-이동욱 선임으로 ‘내야수 감독 전성시대’ 활짝",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261030/134939694/1"
+        },
+        {
+          "title": "[영상] 롯데, 이렇게까지 바뀐다고? 내년 시즌은 다를까?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8698708"
+        },
+        {
+          "title": "NC 첫 해 FA 선물은 양의지였는데…지갑 닫았던 롯데, 이동욱호 첫 해 FA 선물 준비할까",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900968"
+        }
+      ]
+    },
+    {
+      "title": "kbo 리그",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 05:30:00 -0700",
+      "news": [
+        {
+          "title": "\"내 인생 최고의 야구 경기\" KIA-삼성 가을야구, 美 독립리그 27홈런 거포도 홀렸다 \"내 강점은 장타력... KBO서 뛰고 싶다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103010054858528"
+        },
+        {
+          "title": "'日 원투펀치' 짠물투! 오카다 부상→나가 4⅔이닝 무실점, 김성균 끝내기 희플...울산웨일즈, KIA 꺾고 폴리그 결승행 [울산 리뷰]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/30/MJQTKYZWHBQTCZRVMYYTKZBYHA/"
+        },
+        {
+          "title": "울산 vs KIA-LG vs 롱비치, 울산-KBO 폴리그 준결승서 격돌",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846440"
+        }
+      ]
+    },
+    {
+      "title": "기아",
       "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 04:30:00 -0700",
+      "published": "Fri, 30 Oct 2026 05:30:00 -0700",
+      "news": [
+        {
+          "title": "기아, 3분기 최대 매출에도 ‘어닝 쇼크’…주가 11% 급락",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374163"
+        },
+        {
+          "title": "기아, 3분기 매출 역대 최대에도 영업익 기대 이하…주가 11%대 급락",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/10/30/KSDYK6CS6RE5ZNSDWIB3ZPTYNQ/"
+        },
+        {
+          "title": "시장 위축에도 질주하는 기아 친환경차…중국과 출혈경쟁은 부담",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030137600003"
+        }
+      ]
+    },
+    {
+      "title": "김은지",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 05:30:00 -0700",
+      "news": [
+        {
+          "title": "김은지, 스미레 꺾고 수협은행배 여자바둑 초대 우승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030172400007"
+        },
+        {
+          "title": "바둑 김은지, 스미레 3-0 완파…수협은행배 초대 챔피언 등극",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261030/134941615/1"
+        },
+        {
+          "title": "김은지, 스미레 꺾고 수협은행배 여자바둑 최강전 초대 챔피언 등극",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261030001317"
+        }
+      ]
+    },
+    {
+      "title": "에버랜드 판다월드",
+      "approx_traffic": "200+",
+      "published": "Fri, 30 Oct 2026 05:20:00 -0700",
+      "news": [
+        {
+          "title": "머뭇머뭇 나오더니 ‘발라당’…막내 판다 ‘슈바오’의 바깥 구경 [현장영상]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8696431"
+        },
+        {
+          "title": "\"너무 작아서 신기해\"…아기 판다 슈바오 '아장아장' 첫 등장",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823821"
+        },
+        {
+          "title": "[포토타임] ‘저 보러 오세요’...에버랜드 아기 판다 ‘슈바오’ 첫 공개",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261030015347941"
+        }
+      ]
+    },
+    {
+      "title": "전상현",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 05:10:00 -0700",
       "news": [
         {
           "title": "역투 조상우",
           "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261030_0021512209"
+          "url": "https://www.newsis.com/view/NISI20261030_0021512209"
         },
         {
           "title": "역투 펼치는 전상현",
@@ -142,68 +158,68 @@
       ]
     },
     {
-      "title": "이승민",
-      "approx_traffic": "100+",
-      "published": "Fri, 30 Oct 2026 04:30:00 -0700",
+      "title": "이세돌",
+      "approx_traffic": "200+",
+      "published": "Fri, 30 Oct 2026 05:10:00 -0700",
       "news": [
         {
-          "title": "'오타니 판박이' 가을 야구도 쉽지 않았던 삼성 불펜 지원군, 2이닝 삭제 '미친 호투'→박진만도 극찬 남겼다 [PO3 현장] - 머니투데이",
+          "title": "이제는 멘토 없이 혼자 해야 한다! 이세돌의 요구르트 정기 배달 | KBS 261030 방송",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026147431-01-000_MFSC2&program_code=T2026-0530&program_id=PS-2026147431-01-000&section_code=04&broadcast_complete_yn=N&section_id=28580"
+        },
+        {
+          "title": "이세돌, 43세에 벌써 20세 딸…“청소 멘토가 딸 친구뻘”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261030/134937412/1"
+        },
+        {
+          "title": "조혜련, '누적 상금 100억설' 이세돌에 동업 제안 \"판매 사업할까?\"(백수 이세돌)",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900231"
+        }
+      ]
+    },
+    {
+      "title": "오윤아 재혼 남편",
+      "approx_traffic": "2000+",
+      "published": "Fri, 30 Oct 2026 05:10:00 -0700",
+      "news": [
+        {
+          "title": "\"시부모님 만나고...\" 오윤아 재혼 결심한 이유 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/30/2026102922394385738"
+          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102922163212296"
         },
         {
-          "title": "'PO 전 경기 출장' 23홀드 좌완의 유쾌한 감사 인사, \"하늘에 고맙다고 커피를 살 수도 없고…\" [PO]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/30/MRRWINBUGY2TQMJTGRSDOZBZMI/"
-        },
-        {
-          "title": "여유 있게 홈 베이스 밟는 이재현",
+          "title": "오윤아 \"프로 수영단 입단한 아들, 기적 같은 일 일어나\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261029_0021510912"
+          "url": "https://www.newsis.com/view/NISX20261029_0003847392"
+        },
+        {
+          "title": "오윤아, 11년 만에 재혼 결심한 이유…“친아빠도 못한 일을”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261030/134936807/1"
         }
       ]
     },
     {
-      "title": "양현종",
+      "title": "김영웅",
       "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 04:20:00 -0700",
+      "published": "Fri, 30 Oct 2026 05:00:00 -0700",
       "news": [
         {
-          "title": "김도영 전격 2번…이범호 KIA 감독 \"페덱 공 못 치면 진다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030141800007"
-        },
-        {
-          "title": "[사진]카스트로,'동점 적시타 날렸어요'",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/30/MY3TSMJXGQ3TKMDFGE2TOMBZHA/"
-        },
-        {
-          "title": "[엠빅뉴스] [PO3차전] 테이블세터 삼진만 5개?? 홈런 쳐도 김도영은 외롭다..",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/original/mbig/6861967_29041.html"
-        }
-      ]
-    },
-    {
-      "title": "디아즈",
-      "approx_traffic": "100+",
-      "published": "Fri, 30 Oct 2026 04:20:00 -0700",
-      "news": [
-        {
-          "title": "멀리 날리는 삼성 이재현",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261030_0021512194"
-        },
-        {
-          "title": "[사진]곽도규, 최형우에 솔로포 허용",
+          "title": "'KS 진출 눈앞에서 날아갔다' 삼성, 치명적인 실책 하나에 와르르…7회 3실점 악몽, 결국 최종 5차전으로 [PO4]",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/10/30/MVRGKOJRGQZDAMRXHEZTCYRRGM/"
+          "url": "https://www.chosun.com/sports/baseball/2026/10/30/GMYDMNRZGM2TKMJZMYYWMMZTMI/"
         },
         {
-          "title": "힘차게 공을 던지는 이재희",
+          "title": "아! '악몽의' 삼성 김영웅 '7회 대참사' 치명적 실책 '나비효과', KIA 폭풍 대반격 기회 잡았다 [PO4 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103016490180765"
+        },
+        {
+          "title": "'최소 실책 1위' 삼성의 치명적 실책…물고 늘어진 KIA[PO4]",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8189576"
+          "url": "https://www.news1.kr/sports/baseball/6338433"
         }
       ]
     }
