@@ -1,27 +1,121 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-30T05:49:45+00:00",
+  "fetched_at": "2026-10-30T06:58:55+00:00",
   "items": [
     {
-      "title": "해병대",
+      "title": "고속철도",
       "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 22:40:00 -0700",
+      "news": [
+        {
+          "title": "서울서 부산까지 1시간 주파…시속 400km 고속철 핵심기술 개발 추진",
+          "source": "DongA Science",
+          "url": "https://www.dongascience.com/ko/news/80621"
+        },
+        {
+          "title": "(2026 철도학회 추계학술대회) 철도 관제, 경험 의존 관제서 AI 기반 경합 예측·의사결정 지원으로 전환",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374127"
+        },
+        {
+          "title": "시속 400㎞ 고속열차 시대 준비…철도연, 더 가볍고 작은 ′대차′ 개발",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261030000212"
+        }
+      ]
+    },
+    {
+      "title": "인천공항",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 22:20:00 -0700",
+      "news": [
+        {
+          "title": "[속보]인천공항 1터미널 항공사 3곳 발권 장애…출국수속 지연",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261030/134939217/2"
+        },
+        {
+          "title": "인천공항 항공권 발권 시스템 ‘오류’···체크인 지연에 승객 ‘발동동’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610301407001"
+        },
+        {
+          "title": "인천공항 항공사 네트워크 장애‥일부 항공사 발권 중단",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861985_36918.html"
+        }
+      ]
+    },
+    {
+      "title": "차예련",
+      "approx_traffic": "5000+",
+      "published": "Thu, 29 Oct 2026 22:10:00 -0700",
+      "news": [
+        {
+          "title": "차예련 측, 고막 찢은 학폭 여배우 지목에 \"사실무근\"[공식]",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026103015084043377"
+        },
+        {
+          "title": "“유튜브서 참해보였는데”…85년생 여배우 학폭 폭로에 누리꾼 ‘충격’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610301511003"
+        },
+        {
+          "title": "뺨 때려 고막 찢고 '좋은 엄마'로 TV에…유명 여배우 학폭 폭로 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/30/2026103013593434577"
+        }
+      ]
+    },
+    {
+      "title": "우주",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 22:10:00 -0700",
+      "news": [
+        {
+          "title": "인천시교육청, 최초 우주인 이소연 박사와 만나는 우주과학 교실",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=720259"
+        },
+        {
+          "title": "인천교육청, 500여 명 대상 우주과학특강 개최",
+          "source": "www.gukjenews.com",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3737509"
+        },
+        {
+          "title": "인천시교육청, 대한민국 첫 ‘우주인’과 함께 ‘미래 과학의 꿈’을 열다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/region/article/all/20261030/134938333/1"
+        }
+      ]
+    },
+    {
+      "title": "울산과학대학교",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 22:00:00 -0700",
+      "news": []
+    },
+    {
+      "title": "해병대",
+      "approx_traffic": "2000+",
       "published": "Thu, 29 Oct 2026 21:40:00 -0700",
       "news": [
         {
-          "title": "[영상] 4년 개발 끝에…내년부터 해병대 상륙공격헬기 양산 돌입",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029169600704"
+          "title": "후임병 성추행·폭행한 해병대 선임병 징역 1년…법정구속",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030144457s44"
         },
         {
-          "title": "K2 전차부터 300㎞ 로켓·자폭드론까지…해병대의 변신 [박수찬의 軍]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261030503470"
+          "title": "해병대서 군 후임들 강제 추행·폭행한 20대 실형",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848306"
         },
         {
-          "title": "KAI, ‘상륙공격헬기’ 개발 성공…글로벌 군용헬기 시장 정조준 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2147593"
+          "title": "대구고법, 하급자 강제추행하고 상습 폭행 가혹행위 해병대 하사 실형→집유",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=2026102918330958649a8c8bf58f_12"
         }
       ]
     },
@@ -31,25 +125,25 @@
       "published": "Thu, 29 Oct 2026 21:40:00 -0700",
       "news": [
         {
-          "title": "[단독] ‘휘발유 대란’ 겪는 인도네시아… 韓정유업체에 공급 확대 ‘SOS’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/10/30/BFKF626CANGO3A5TWP5ZXYXYTI/"
+          "title": "日, 겨울 전기·가스요금 보조키로…휘발유보조금은 단계적 축소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029205000073"
         },
         {
-          "title": "경유 수출, 전년 동월 대비 100%→110% 내로 조건부 완화",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974553"
+          "title": "日, 재정부담에 휘발유 보조금 단계적 축소…12월부터 매달 5엔씩",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/northeast-asia/6337192"
         },
         {
-          "title": "해외 ‘러브콜’ 잇따른 K경유…정부, 수출제한 일부 완화",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610291227001"
+          "title": "日, 겨울 맞아 전기·가스요금 보조금 재개…석달간 6만원 경감",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=08341046645617840"
         }
       ]
     },
     {
       "title": "택시",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Thu, 29 Oct 2026 21:20:00 -0700",
       "news": [
         {
@@ -71,23 +165,18 @@
     },
     {
       "title": "의정부시",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Thu, 29 Oct 2026 21:20:00 -0700",
       "news": [
         {
-          "title": "지하철 7호선, 의정부·양주를 지나 포천까지! 도봉산-옥정 연장선",
-          "source": "서울특별시",
-          "url": "https://mediahub.seoul.go.kr/archives/2019857"
+          "title": "동래구노인복지관, 노인 일자리 및 사회활동 지원사업 참여자 대상 문화 활동 나들이 실시",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261028.99099008394"
         },
         {
-          "title": "지하철 7호선 장암역, 31일 첫차부터 운영 재개…임시 역사 마련",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030105420oea"
-        },
-        {
-          "title": "[패트롤] 경기도-동두천시-양주시-연천군-의정부시",
-          "source": "에너지경제신문",
-          "url": "https://www.ekn.kr/web/view.php?key=20261030029503385"
+          "title": "의정부시 노인일자리 참여 어르신 651명, 문화활동 행사 열려",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3737646"
         }
       ]
     },
@@ -97,129 +186,19 @@
       "published": "Thu, 29 Oct 2026 21:20:00 -0700",
       "news": [
         {
-          "title": "대화 나누는 한·태국 해병대사령관",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8187909"
-        },
-        {
-          "title": "해병대사령관, 태국 사령관 만나 연합훈련·방산협력 확대 논의",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003847947"
-        },
-        {
-          "title": "주일석 해병대사령관, 태국 해병대사령관 대담… “연합훈련·방산협력 확대 방안 논의”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627498"
-        }
-      ]
-    },
-    {
-      "title": "bangladesh vs west indies",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 21:20:00 -0700",
-      "news": [
-        {
-          "title": "BAN vs WI Cricket Scorecard, 1st Test at Dhaka, October 28 - November 01, 2026",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/full-scorecard"
-        },
-        {
-          "title": "Shadman finds reward in patient preparation",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/cricket-news/140702/bangladesh-vs-west-indies-shadman-islam-finds-reward-in-patient-preparation-cricbuzzcom"
-        },
-        {
-          "title": "Shadman’s century of regret",
-          "source": "www.daily-sun.com",
-          "url": "https://www.daily-sun.com/winner/906150"
-        }
-      ]
-    },
-    {
-      "title": "정철승",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 21:10:00 -0700",
-      "news": [
-        {
-          "title": "‘박원순 피해자 신상 공개·후배 추행’ 정철승 변호사, 항소심서 법정구속",
-          "source": "법률신문",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228594"
-        },
-        {
-          "title": "'박원순 피해자 신상공개·후배 성추행' 정철승 2심서 법정구속",
+          "title": "[영상] 4년 개발 끝에…내년부터 해병대 상륙공격헬기 양산 돌입",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030093100004"
+          "url": "https://www.yna.co.kr/view/AKR20261029169600704"
         },
         {
-          "title": "‘후배 강제추행·박원순 피해자 신원 노출’ 정철승, 2심 징역 1년 6개월…법정구속",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699722"
-        }
-      ]
-    },
-    {
-      "title": "잠실 돔구장",
-      "approx_traffic": "1000+",
-      "published": "Thu, 29 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "우리나라 최대 규모 잠실 돔구장... WBC 여는 게 목표래요",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/kid/kid_literacy/kid_sisanews/2026/10/29/XULW2LQHQFGJ5ID6SIEII6RR2I/"
+          "title": "K2 전차부터 300㎞ 로켓·자폭드론까지…해병대의 변신 [박수찬의 軍]",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261030503470"
         },
         {
-          "title": "잠실 스포츠·MICE 복합공간 조성 본격화…서울시, 세부 개발계획 수정가결 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102909160199639"
-        },
-        {
-          "title": "IPARK현산, 4.8조 잠실 마이스 PF에 2067년까지 담보 제공",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8PqlUJFY2j"
-        }
-      ]
-    },
-    {
-      "title": "고지용",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "고지용, 젝스키스 30주년에 합류하나…장수원·이재진과 우선 디너쇼",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003847560"
-        },
-        {
-          "title": "‘허양임과 이혼’ 고지용, 젝키 재결합 택했다…이재진·장수원과 10년 만",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/10/30/MVRDAZRVGIZDMOLCMMZTKM3CGQ/"
-        },
-        {
-          "title": "고지용, 이혼 후 젝스키스 무대 복귀",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026103010030005495"
-        }
-      ]
-    },
-    {
-      "title": "앨리스 황",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 20:40:00 -0700",
-      "news": [
-        {
-          "title": "\"젠슨황과 술자리 중국 女기업인, 엔비디아 정보수집 中스파이\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6861822_36925.html"
-        },
-        {
-          "title": "첨단 칩 밀반입에 CEO 접촉까지… 엔비디아를 둘러싼 ‘中 스파이’ 스캔들 파장",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/international/USA-amrica/2026/10/30/20261030500027"
-        },
-        {
-          "title": "젠슨 황 '중국 불법 유출 없었다'…규제 강화우려에 시간외↓",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02584646645618168"
+          "title": "KAI, ‘상륙공격헬기’ 개발 성공…글로벌 군용헬기 시장 정조준 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2147593"
         }
       ]
     }
