@@ -1,56 +1,12 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-30T10:51:24+00:00",
+  "fetched_at": "2026-10-30T11:45:14+00:00",
   "items": [
     {
-      "title": "반도체산업",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 02:40:00 -0700",
-      "news": [
-        {
-          "title": "정은승 전남광주 반도체전략위원장 기조 강연",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261030_0002278750"
-        },
-        {
-          "title": "민간학회 첫 반도체 국제회의…호남 반도체 산업이 가져올 변화 모색",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/national/2383221.htm"
-        },
-        {
-          "title": "박병규 광산구청장 \"광주송정역 투자선도지구 조속 추진해야\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029184300054"
-        }
-      ]
-    },
-    {
-      "title": "티빙",
+      "title": "삼성 기아",
       "approx_traffic": "2000+",
-      "published": "Fri, 30 Oct 2026 02:40:00 -0700",
-      "news": [
-        {
-          "title": "“입소문 제대로 탔다!” 티빙 오리지널 ,비드라마 구독기여 1위 등극…SNS 화제성 타고 흥행 가속",
-          "source": "CJ 뉴스룸",
-          "url": "https://cjnews.cj.net/%EC%9E%85%EC%86%8C%EB%AC%B8-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%83%94%EB%8B%A4-%ED%8B%B0%EB%B9%99-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90-%EC%9B%90%EC%88%98%EB%8A%94-%EC%99%B8%EC%95%BC/"
-        },
-        {
-          "title": "딴 여자와 손깍지를?…야구장 '대환장' 삼각관계 관심 폭발",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610293223g"
-        },
-        {
-          "title": "티빙 ‘원수는 외야석에서♥’, 7화 공개 후 비드라마 구독기여 1위",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16261557"
-        }
-      ]
-    },
-    {
-      "title": "페덱",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 02:40:00 -0700",
+      "published": "Fri, 30 Oct 2026 03:10:00 -0700",
       "news": [
         {
           "title": "네일 vs 페덱 맞대결...플레이오프 4차전 승부는?",
@@ -58,168 +14,212 @@
           "url": "https://www.ytn.co.kr/_ln/0107_202610301802361403"
         },
         {
+          "title": "[포토]'2회초 안타로 출루한' 강민호 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103019172871873"
+        },
+        {
           "title": "박진만 감독 \"그간 김도영 앞에 주자 안 내보냈으니 잘 막을 것\"",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261030156100007"
+        }
+      ]
+    },
+    {
+      "title": "프로야구",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "'헐크' 이만수·강성우·차일목·이성우 총출동! 미래 안방마님 40명 키운다... KBO 포수 특화 캠프 개최 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103013291861932"
         },
         {
-          "title": "‘오늘 끝날 수도 있다’ KIA-삼성 4차전, 1만8900석 매진→PS 45G 연속 매진 행진 [PO4]",
+          "title": "제2의 강민호 양의지 키운다! KBO 중3 대상 포수 캠프 개최…이만수 이성우 강성우 차일목 초호화 지도자 총출동",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/30/GA2TAZRUMYZTMNTGGIYDMNZQG4/"
+        },
+        {
+          "title": "‘레전드 이만수와 함께’ KBO 유망주 아카데미, ‘포수 캠프’ 개최…기본기부터 인성까지",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1645416"
+        }
+      ]
+    },
+    {
+      "title": "김성근",
+      "approx_traffic": "2000+",
+      "published": "Fri, 30 Oct 2026 03:00:00 -0700",
+      "news": [
+        {
+          "title": "김성근, '롯데 단장 부임' 이택근 긴급 호출..대책 본부 급조 ('불꽃야구2')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/MU4DMZDEGBQWKMJYGVSWGNJXGE/"
+        },
+        {
+          "title": "‘불꽃야구2’ 소향 뜬다…불꽃 파이터즈, 3연패 탈출 도전",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_sn/0117_202610220806273759"
+        },
+        {
+          "title": "“아내 빼고 다 바꿨다” 이대호…3연패에 배트·글러브 싹 교체",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1645385"
+        }
+      ]
+    },
+    {
+      "title": "김선빈",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 03:00:00 -0700",
+      "news": [
+        {
+          "title": "2년 연속 KS 진출 꿈꾸는 복덩이 이적생 “나는 정말 행복한 선수, 대구 가서 역전하겠다” [PO4]",
           "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112901286"
-        }
-      ]
-    },
-    {
-      "title": "tving",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 02:40:00 -0700",
-      "news": [
-        {
-          "title": "So Ah-rin delivers heartbreaking performance, claims next-generation scene-stealer status",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/10/30/576O2QGGDFAOTLJCUAUJTRF53A/"
+          "url": "https://www.osen.co.kr/article/G1112901174"
         },
         {
-          "title": "So Ah-rin Steals Scenes with Emotional Acting in 'Make Me Tingle'",
+          "title": "김선빈 안타, 주루코치와 인사",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261029_0021510727"
+        },
+        {
+          "title": "\"5일치 짐 싸왔다\" 대구 찍고 수원행, 당연한 거 아닌가요? \"의지는 충만\"[PO4 현장]",
           "source": "조선일보",
-          "url": "https://www.chosun.com/english/kpop-culture-en/2026/10/30/AWTPWSO26ZEGTECWUTVQEYDL3Q/"
-        },
-        {
-          "title": "Proxy CSAT Stars Unveil Intriguing Stills Ahead of Debut",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/kpop-culture-en/2026/10/30/NFVZETWQRZFNLELA32BQE3HPVE/"
+          "url": "https://www.chosun.com/sports/baseball/2026/10/30/MIYDSYTCGI4DQM3FGIZGMYZTGA/"
         }
       ]
     },
     {
-      "title": "이호선",
-      "approx_traffic": "5000+",
-      "published": "Fri, 30 Oct 2026 02:30:00 -0700",
-      "news": [
-        {
-          "title": "“엄마처럼 늙겠습니다”…이호선, 어머니와 이별하며 남긴 마지막 인사",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261030/134939454/2"
-        },
-        {
-          "title": "이호선 교수, 모친상 비보…\"내 어머니셔서 참 행복했다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/30/2026103019262479477"
-        },
-        {
-          "title": "‘호랑이 상담가’ 이호선 모친상 “찬란한 나의 어머니를 보내드립니다”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610301437003"
-        }
-      ]
-    },
-    {
-      "title": "야구중계",
-      "approx_traffic": "1000+",
-      "published": "Fri, 30 Oct 2026 02:30:00 -0700",
-      "news": [
-        {
-          "title": "'꼬꼬무' 결방, 야구 중계→'거장항준' 편성",
-          "source": "비즈엔터",
-          "url": "https://enter.etoday.co.kr/news/view/304472"
-        },
-        {
-          "title": "'꼬꼬무' 이순신 난중일기 도난 사건",
-          "source": "BNT뉴스",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202610290175"
-        },
-        {
-          "title": "꼬리에 꼬리를 무는 그날 이야기 : [10월 29일 예고] 국보 ‘난중일기’ 도난을 둘러싼 숨 막히는 추적!",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/culture/thetail/clip/70242/OC482592568"
-        }
-      ]
-    },
-    {
-      "title": "스타 벅스 광주 지산 유원지 입구 점",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 02:30:00 -0700",
-      "news": [
-        {
-          "title": "스타벅스, '탱크데이' 불매운동 후 광주 대형매장 첫 폐점",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030074300054"
-        },
-        {
-          "title": "'5·18 탱크데이' 불매 운동 5개월 만에…스타벅스, 광주 대형매장 첫 폐점",
-          "source": "KBC광주방송",
-          "url": "https://news.ikbc.co.kr/article/view/kbc202610300034"
-        },
-        {
-          "title": "스벅, 광주·MBC '선택적' 폐점?…\"사실 아냐...계약만료에 따른 것\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/10/30/2026103014431551465"
-        }
-      ]
-    },
-    {
-      "title": "야구 생중계",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 02:30:00 -0700",
-      "news": [
-        {
-          "title": "“KIA가 KS 올라왔으면” 1위팀 감독 솔직 속내 공개, PO 3경기 현미경 분석→왜 KIA보다 삼성 경계했나 [오!쎈 수원]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112901218"
-        },
-        {
-          "title": "'바꿔도 또 바꿔도 답이 없다' 벼랑 끝 KIA, 테이블세터 24타수 2안타 충격 부진…이범호 감독도 깊은 고민 [PO]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/30/GVRDINBQMNSGMOBZMRRTCMJTHA/"
-        },
-        {
-          "title": "부상에도 기다린 삼성…후라도는 가을야구로 답했다",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610272300044544"
-        }
-      ]
-    },
-    {
-      "title": "남대문 스카프 아저씨",
-      "approx_traffic": "100+",
-      "published": "Fri, 30 Oct 2026 02:30:00 -0700",
-      "news": [
-        {
-          "title": "손님 폭증에 “내 말 좀 들어“…’남대문 스카프 아저씨’, 방문 자제 요청",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030120726aJy"
-        },
-        {
-          "title": "'스카프 아저씨' 누구길래...시장 난리 나자 결국, '방문 자제' 요청 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/30/2026102922560687442"
-        },
-        {
-          "title": "남대문시장 '스카프 아저씨', 인파에 방문 자제 요청",
-          "source": "미디어파인",
-          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=94052"
-        }
-      ]
-    },
-    {
-      "title": "휴게소",
+      "title": "베어 트로피",
       "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 02:20:00 -0700",
+      "published": "Fri, 30 Oct 2026 03:00:00 -0700",
       "news": [
         {
-          "title": "고속도 휴게소 직계약 시범사업 착수…음식·편의 '가성비' 기대",
+          "title": "'부상' 유해란, LPGA 메이뱅크 기권…베어 트로피 수상 불발",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261030_0003847877"
+        },
+        {
+          "title": "악, 카트이동하다 손가락이…유해란, 베어트로피 사실상 무산",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20108026"
+        },
+        {
+          "title": "부상에 발목 잡힌 유해란…메이뱅크 챔피언십 1R 앞서 기권, 베어트로피 수상 무산",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261029/134933111/1"
+        }
+      ]
+    },
+    {
+      "title": "허미미",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 03:00:00 -0700",
+      "news": [
+        {
+          "title": "유도 허미미, 자비 들여 출전한 아부다비 그랜드슬램서 동메달",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030067900007"
+        },
+        {
+          "title": "‘AG 金’ 유도 허미미, 아부다비 그랜드슬램서 동메달 획득",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261030/134939471/1"
+        },
+        {
+          "title": "‘유도 간판’ 허미미, 자비로 출전한 아부다비 그랜드슬램서 동메달",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_general/2026/10/30/5U75XSZROFAB3FTNJUTEOUOBM4/"
+        }
+      ]
+    },
+    {
+      "title": "서민금융진흥원",
+      "approx_traffic": "200+",
+      "published": "Fri, 30 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "하나은행, 서금원에 1천억원 출연…저소득직장인 신용대출 출시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030073200002"
+        },
+        {
+          "title": "삼성·금융권, 미소금융에 8000억 출연…청년 라이더·귀농인 대출 나온다",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1185611"
+        },
+        {
+          "title": "농협금융, ‘NH미소금융재단’ 설립…1000억 출연",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20108404"
+        }
+      ]
+    },
+    {
+      "title": "류지혁",
+      "approx_traffic": "2000+",
+      "published": "Fri, 30 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "[영상] 결승 2루타 박승규 혼난 이유는?…히트 포 더 세리머니",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699881"
+        },
+        {
+          "title": "KS가 보인다! 삼성, 2회 류지혁 적시타로 1-0 리드 [PO4]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/30/G44GGZTBMEYDIZJSGA2TKMZRMI/"
+        },
+        {
+          "title": "프로야구 삼성-KIA 플레이오프 희비 가른 투아웃 이후 몰아치기",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030044800007"
+        }
+      ]
+    },
+    {
+      "title": "탐나는전",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "18일간 펼쳐지는 역대급 할인 혜택! - 카드/한컷 | 멀티미디어",
           "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974638&pWise=main&pWiseMain=R6"
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974520"
         },
         {
-          "title": "내년 설부터 고속도로 2000원 커피 마신다... 수수료 8%로 인하 - 머니투데이",
+          "title": "경북 경주시, 경주페이 캐시백 15% 확대ㆍ착한가격업소는 20% 혜택",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261030500852"
+        },
+        {
+          "title": "인제채워드림카드 할인율 20% 한시 상향",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698571"
+        }
+      ]
+    },
+    {
+      "title": "헐크",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "마블의 울버린은 데드풀과 헐크를 통해 세계관을 확장할 수 있을 것이다.",
+          "source": "GameGPU",
+          "url": "https://ko.gamegpu.com/news/igry/marvels-wolverine-mozhet-rasshirit-vselennuyu-za-schet-dedpula-i-khalka"
+        },
+        {
+          "title": "'헐크' 이만수·강성우·차일목·이성우 총출동! 미래 안방마님 40명 키운다... KBO 포수 특화 캠프 개최 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/30/2026103009215476082"
+          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103013291861932"
         },
         {
-          "title": "한국도로공사, 시범운영 직계약 휴게소 입찰공고",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627581"
+          "title": "제2의 강민호 양의지 키운다! KBO 중3 대상 포수 캠프 개최…이만수 이성우 강성우 차일목 초호화 지도자 총출동",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/30/GA2TAZRUMYZTMNTGGIYDMNZQG4/"
         }
       ]
     }
