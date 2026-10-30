@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-30T16:52:08+00:00",
+  "fetched_at": "2026-10-30T17:47:23+00:00",
   "items": [
+    {
+      "title": "이태원참사",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 09:30:00 -0700",
+      "news": [
+        {
+          "title": "[단독] '이태원 참사 박제' 콜오브듀티 \"머리 숙여 사과‥전면 삭제\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862063_37004.html"
+        },
+        {
+          "title": "\"경악스럽다\" 참사 영상 쓴 게임사…삭제 요구에도 ‘거부’",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325491"
+        },
+        {
+          "title": "주진우 \"콜오브듀티 차단은 검열 … 게임 이용권 침해 시도 막겠다\"",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/30/2026103000221.html"
+        }
+      ]
+    },
+    {
+      "title": "중간선거",
+      "approx_traffic": "200+",
+      "published": "Fri, 30 Oct 2026 09:20:00 -0700",
+      "news": [
+        {
+          "title": "\"민주당이 중간선거 이겨도 2년간 美관세율 달라지지 않을것\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030004900071"
+        },
+        {
+          "title": "\"백악관은 이미 침울\"…트럼프 나설수록 분위기는 정반대 [지금이뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0545_202610301420018436"
+        },
+        {
+          "title": "전쟁에 63조 쓴 미국도, 살인 물가 이란도…중간선거가 운명 가른다 [핫클립]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698857"
+        }
+      ]
+    },
     {
       "title": "카를로스 알카라스",
       "approx_traffic": "500+",
@@ -31,14 +75,14 @@
       "published": "Fri, 30 Oct 2026 08:10:00 -0700",
       "news": [
         {
-          "title": "핼러윈 하루 전 이태원...경찰, 특공대·장갑차 투입",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610301956051826"
-        },
-        {
           "title": "안전한 핼러윈, 소방이 함께합니다 - 카드/한컷 | 멀티미디어",
           "source": "대한민국 정책브리핑",
           "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974606"
+        },
+        {
+          "title": "주말 핼러윈 앞둔 '불금' 저녁‥이태원 '북적' 인파관리 '비상'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862064_37004.html"
         },
         {
           "title": "[현장 르포] 핼러윈 인파 관리에 ‘초긴장’하는 경찰·서울시",
@@ -58,9 +102,9 @@
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862070_37004.html"
         },
         {
-          "title": "의로운 박반장, 푸근한 김회장… ‘파하’ 웃으며 시대를 위로했다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/31/DPLWMSNJPNCLZOZ7CWQQ5CBAQQ/"
+          "title": "무대 안에서나 밖에서나 ‘우리 시대의 아버지’였다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261031/134941838/2"
         },
         {
           "title": "’진정한 어른’과 이별…금관문화훈장 추서",
@@ -80,9 +124,9 @@
           "url": "https://www.nytimes.com/2026/10/30/weather/halloween-rain-forecast.html"
         },
         {
-          "title": "Halloween forecast: more treat than trick",
-          "source": "MPR News",
-          "url": "https://www.mprnews.org/story/2026/10/30/halloween-forecast-more-treat-than-trick"
+          "title": "Scattered showers possible Halloween weekend across North Texas",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/texas/video/scattered-showers-possible-halloween-weekend-across-north-texas/"
         },
         {
           "title": "Halloween weather forecast: what to expect where you are",
@@ -102,14 +146,14 @@
           "url": "https://zdnet.co.kr/view/?no=20261030144302"
         },
         {
-          "title": "애플, 아이폰 듀오 디스플레이 결함 무상 교체…대상·절차는",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028103200017"
+          "title": "애플 결함에 삼성도 '긴장'...기로에 선 폴더블 혁신",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610291603054671"
         },
         {
-          "title": "[AFTER 8 SPECIAL] \"받자마자 깨질 줄은\" 삼성 의문의 1승?…애플 '접는 아이폰' 대체 왜 깨졌을까",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819342"
+          "title": "“아이폰 듀오 또 고장?”…힌지 논란 조롱하는 삼성의 반전 광고",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610291732001"
         }
       ]
     },
@@ -146,36 +190,14 @@
           "url": "https://www.news1.kr/entertain/broadcast-tv/6335823"
         },
         {
-          "title": "김민, 동두천 주민 1500명 모인 운동회 참석…주민들과 완벽 동화된 '찐친 케미'",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/HFQWENZZGMYDIZBYMNRTSOBVMQ/"
-        },
-        {
           "title": "김민, 90년 된 집에 소머리 장식? \"옆 동네에서 잡았다\" 경악 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103023383743930"
-        }
-      ]
-    },
-    {
-      "title": "경기도교육감",
-      "approx_traffic": "100+",
-      "published": "Fri, 30 Oct 2026 07:10:00 -0700",
-      "news": [
-        {
-          "title": "안민석 교육감, 동두천·양주서 교육현안 청취…지역별 해법 모색",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335549"
         },
         {
-          "title": "안민석, 중학교까지 생성형 AI 금지 방안 검토",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821258"
-        },
-        {
-          "title": "경기도교육청 양주서 타운홀 미팅…옥정 과밀부터 서부권 교육 소외까지 집중 논의",
-          "source": "중부일보",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363740947"
+          "title": "김민, 동두천 주민 1500명 모인 운동회 참석…주민들과 완벽 동화된 '찐친 케미'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112901686"
         }
       ]
     },
@@ -185,41 +207,19 @@
       "published": "Fri, 30 Oct 2026 07:10:00 -0700",
       "news": [
         {
-          "title": "Intel stock plunges nearly 30%, on pace for its worst day since 1974",
+          "title": "Intel plunges as much as 26%, briefly on pace for its worst day since 1974",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-30-on-pace-for-its-worst-day-since-1974-135850305.html"
+          "url": "https://finance.yahoo.com/markets/article/intel-plunges-as-much-as-26-briefly-on-pace-for-its-worst-day-since-1974-122551272.html"
         },
         {
-          "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html"
+          "title": "Intel Plunges After PC Slump and Supply Snags Hurt Outlook",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips"
         },
         {
-          "title": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html"
-        }
-      ]
-    },
-    {
-      "title": "원자력",
-      "approx_traffic": "1000+",
-      "published": "Fri, 30 Oct 2026 07:00:00 -0700",
-      "news": [
-        {
-          "title": "한수원, ‘2026년 KHNP-EPRI 기계분야 통합 워크숍’ 개최",
-          "source": "전기저널",
-          "url": "https://www.keaj.kr/news/articleView.html?idxno=6424"
-        },
-        {
-          "title": "원자력안전기술원, 2026 원전 기기건전성 워크숍 개최",
-          "source": "일렉트릭파워",
-          "url": "https://www.epj.co.kr/news/articleView.html?idxno=39680"
-        },
-        {
-          "title": "한국원자력안전기술원(KINS), 2026 원전 기기건전성 워크숍 개최",
-          "source": "에너지안전신문",
-          "url": "https://www.esnews.kr/news/articleView.html?idxno=7108"
+          "title": "Intel Shares Plunge as Memory Crunch Hits PC Chip Demand",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/international/2026/10/30/intel-shares-plunge-as-memory-crunch-hits-pc-chip-demand"
         }
       ]
     }
