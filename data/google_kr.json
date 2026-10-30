@@ -1,27 +1,71 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-30T19:51:06+00:00",
+  "fetched_at": "2026-10-30T20:45:44+00:00",
   "items": [
     {
+      "title": "엘버스베르크 대 마인츠 05",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 12:30:00 -0700",
+      "news": [
+        {
+          "title": "Elversberg vs Mainz 05: German Bundesliga stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cv62yw1ln38gt"
+        },
+        {
+          "title": "Elversberg vs Mainz 05: Confirmed Lineups & Match Prediction",
+          "source": "Oddschecker",
+          "url": "https://www.oddschecker.com/insight/football/cng102-20261030-elversberg-vs-mainz-05-confirmed-lineups-match-prediction"
+        },
+        {
+          "title": "How to watch FSV Mainz vs. SV 07 Elversberg in the U.S.: TV channel and streaming options for October 30",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7738528/2026/10/30/fsv-mainz-vs-sv-07-elversberg-stream-how-to-watch-bundesliga-oct-30/"
+        }
+      ]
+    },
+    {
       "title": "le havre vs psg",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 30 Oct 2026 11:40:00 -0700",
       "news": [
+        {
+          "title": "Le PSG s’offre un nouveau record absolu en Ligue 1 !",
+          "source": "Foot Mercato",
+          "url": "https://www.footmercato.net/a277112337943057132-le-psg-soffre-un-nouveau-record-absolu-en-ligue-1"
+        },
         {
           "title": "DIRECT. Lille-Lens: suivez le match de la 9e journée de Ligue 1 en live",
           "source": "www.live-mercato.com",
           "url": "https://www.live-mercato.com/article/202117-direct-lille-lens-suivez-le-match-de-la-9e-journee-de-ligue-1-en-live"
         },
         {
-          "title": "🚨 Compos du Havre-PSG : Luis Enrique fait tourner en vue de Villarreal !",
+          "title": "Face au Havre, l'incroyable nouveau coup tactique de Luis Enrique 😱",
           "source": "OneFootball",
-          "url": "https://onefootball.com/fr/news/compos-du-havre-psg-luis-enrique-fait-tourner-en-vue-de-villarreal-43698923"
+          "url": "https://onefootball.com/fr/news/face-au-havre-lincroyable-nouveau-coup-tactique-de-luis-enrique-43699231"
+        }
+      ]
+    },
+    {
+      "title": "나스닥",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 11:40:00 -0700",
+      "news": [
+        {
+          "title": "돈은 더 버는데 주가 폭락?‥AI가 집어삼킨 현금",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862067_37004.html"
         },
         {
-          "title": "PSG : le nouveau but de Mika Godts",
-          "source": "Foot Mercato",
-          "url": "https://www.footmercato.net/a1037020982020841676-psg-le-nouveau-but-de-mika-godts"
+          "title": "이번 주 주목할 주식: 알파벳·인텔·아마존 등 기술주 급락",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2152028"
+        },
+        {
+          "title": "[속보] 뉴욕 증시, 기술주 실적 부진에 하락 출발···다우 0.27%↓ 나스닥 2.42%↓",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261030_0003849101"
         }
       ]
     },
@@ -31,11 +75,6 @@
       "published": "Fri, 30 Oct 2026 10:50:00 -0700",
       "news": [
         {
-          "title": "넥슨 ‘빈딕투스’, 트위치콘과 크리에이터로 출시 전 서구권 눈도장",
-          "source": "게임뷰",
-          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61882"
-        },
-        {
           "title": "엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Economy/article/all/20261030/134932454/1"
@@ -44,6 +83,11 @@
           "title": "엔씨 '아이온2' 日 스팀 3주 연속 매출 1위",
           "source": "MTN 머니투데이방송",
           "url": "https://news.mtn.co.kr/article/2026103016220346703"
+        },
+        {
+          "title": "엔씨 '아이온2', 일본서 3주 연속 판매 1위…유럽·남미서도 흥행",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610306269i"
         }
       ]
     },
@@ -58,14 +102,14 @@
           "url": "https://www.sportsgambler.com/betting-tips/football/le-havre-vs-psg-prediction-lineups-odds-2026-10-30/"
         },
         {
-          "title": "Le Havre vs Paris Saint-Germain: Predicted starting lineup for Ligue 1 game",
-          "source": "PSG Post",
-          "url": "https://psgpost.com/le-havre-vs-paris-saint-germain-predicted-starting-lineup-for-ligue-1-game-01m668s8kjsv"
+          "title": "Le Havre - Paris Saint-Germain LIVE. Ligue 1 latest updates",
+          "source": "MARCA",
+          "url": "https://www.marca.com/en/soccer/ligue-1/le-havre-paris-saint-germain/2026/10/30/01_0109_20261030_141_149-live.html"
         },
         {
-          "title": "PSG trio Ousmane Dembélé, Marquinhos, and Nuno Mendes out of Le Havre game",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/psg-trio-ousmane-demb-l-111600806.html"
+          "title": "Le Havre vs PSG: TV channel, live stream and kick-off time for Ligue 1 fixture",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-le-havre-v-paris-saint-germain/blt84f88295b2c143cd"
         }
       ]
     },
@@ -75,19 +119,19 @@
       "published": "Fri, 30 Oct 2026 09:20:00 -0700",
       "news": [
         {
-          "title": "시카고 출신 레오 14세, 교황 최초로 美 선거에 투표(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030120551009"
+          "title": "미국 중간선거 앞두고 사전투표 열기 ‘후끈’…역대최다 4천800만명 사전투표",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700370"
         },
         {
-          "title": "트럼프와 각 세운 레오 교황, 美중간선거 우편투표 참여",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261031/134942232/1"
+          "title": "\"美공화 텃밭도 안심 못해\"…루이지애나 ‘확실’→‘우세’ 하향",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01331686645618496"
         },
         {
-          "title": "레오 14세 교황, 美 중간선거 우편투표…현직 교황 첫 정치선거 참여",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/europe/6338455"
+          "title": "흔들리는 중서부 '딥 레드'...중도주의 내세워 파란",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610310402484267"
         }
       ]
     },
@@ -124,14 +168,14 @@
           "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974606"
         },
         {
+          "title": "[르포]이태원에 장갑차·경찰견도 등장...'핼러윈' 안전관리 총력 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/31/2026103020440586602"
+        },
+        {
           "title": "주말 핼러윈 앞둔 '불금' 저녁‥이태원 '북적' 인파관리 '비상'",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862064_37004.html"
-        },
-        {
-          "title": "핼러윈 데이 안전 관리 강화하는 경찰",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261030_0021511963"
         }
       ]
     },
@@ -141,19 +185,19 @@
       "published": "Fri, 30 Oct 2026 08:00:00 -0700",
       "news": [
         {
-          "title": "나문희·유인촌·차인표 등 故최불암 조문…'딸 자처' 김혜수는 눈물(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030101151005"
+          "title": "눈물 흘리며 빈소 온 김혜수‥'배우들의 아버지' 작별 [현장영상]",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862057_36918.html"
+        },
+        {
+          "title": "\"국민 아버지에서 세상의 어른으로\"...최불암 아름다운 동행",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0106_202610310511272634"
         },
         {
           "title": "무대 안에서나 밖에서나 ‘우리 시대의 아버지’였다",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Culture/article/all/20261031/134941838/2"
-        },
-        {
-          "title": "의로운 박반장, 푸근한 김회장… ‘파하’ 웃으며 시대를 위로했다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/31/DPLWMSNJPNCLZOZ7CWQQ5CBAQQ/"
         }
       ]
     },
@@ -163,63 +207,19 @@
       "published": "Fri, 30 Oct 2026 08:00:00 -0700",
       "news": [
         {
-          "title": "Here’s Where Rain Could Dampen Your Spirits This Halloween",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/30/weather/halloween-rain-forecast.html"
-        },
-        {
           "title": "Halloween weather forecast: what to expect where you are",
           "source": "The Weather Channel",
           "url": "https://weather.com/2026/10/30/holiday/halloween/halloween-trick-or-treat-weather-forecast"
         },
         {
-          "title": "Coastal flooding expected through weekend, with rain chances Saturday across Bay Area",
-          "source": "KRON4",
-          "url": "https://www.kron4.com/weather/coastal-flooding-expected-through-weekend-with-rain-chances-saturday-across-bay-area/"
-        }
-      ]
-    },
-    {
-      "title": "크랙",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 07:50:00 -0700",
-      "news": [
-        {
-          "title": "이통 3사, 아이폰듀오 추가 물량 '깜깜'...크랙게이트에 고객 불편↑",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261030144302"
+          "title": "Halloween weekend forecast: lots of cloud cover with some rain possible",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/news/weather-news/articles/halloween-weekend-forecast-lots-cloud-192533647.html"
         },
         {
-          "title": "애플 결함에 삼성도 '긴장'...기로에 선 폴더블 혁신",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610291603054671"
-        },
-        {
-          "title": "“아이폰 듀오 또 고장?”…힌지 논란 조롱하는 삼성의 반전 광고",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610291732001"
-        }
-      ]
-    },
-    {
-      "title": "한화시스템",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 07:30:00 -0700",
-      "news": [
-        {
-          "title": "\"K-위성 경쟁력 높인다\"…한화, 초소형 군집위성 수주",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610306396i"
-        },
-        {
-          "title": "한화시스템, 초소형 SAR 군집위성 수주…\"K위성 가격 경쟁력 ↑\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030122800003"
-        },
-        {
-          "title": "KAI보다 900억 낮춘 ‘가격 승부수’…한화시스템, 軍 군집위성 따냈다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20108408"
+          "title": "Houston weather: Cloudy, scattered showers to kick off Halloween weekend",
+          "source": "FOX 26 Houston",
+          "url": "https://www.fox26houston.com/weather/houston-weather-friday-october-30-2026"
         }
       ]
     }
