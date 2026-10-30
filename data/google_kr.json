@@ -1,8 +1,91 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-30T02:01:40+00:00",
+  "fetched_at": "2026-10-30T02:51:46+00:00",
   "items": [
+    {
+      "title": "강균성",
+      "approx_traffic": "2000+",
+      "published": "Thu, 29 Oct 2026 18:40:00 -0700",
+      "news": [
+        {
+          "title": "'혼전순결' 강균성, 오늘 14세 연하 유하진과 '속전속결' 결혼",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261030_0003847490"
+        },
+        {
+          "title": "강균성, 14세 연하 배우 유하진과 결혼식…\"평생 함께 걸어갈 사람\" [N디데이]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6336512"
+        },
+        {
+          "title": "'혼전순결' 노을 강균성, 14세 연하 유하진과 오늘(30일) 결혼 [소셜in]",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522985"
+        }
+      ]
+    },
+    {
+      "title": "한국장학재단",
+      "approx_traffic": "500+",
+      "published": "Thu, 29 Oct 2026 18:30:00 -0700",
+      "news": [
+        {
+          "title": "생활비가 돌려막기로…고금리·다중채무 악순환",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697950"
+        },
+        {
+          "title": "대구시·iM뱅크, 학자금대출 상환 지원해 청년 신용회복 돕는다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028128200053"
+        },
+        {
+          "title": "[심양섭의 정론직격] 누가 과연 청년들을 빚투에서 구해 줄 것인가?",
+          "source": "펜앤마이크",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=130591"
+        }
+      ]
+    },
+    {
+      "title": "재판",
+      "approx_traffic": "1000+",
+      "published": "Thu, 29 Oct 2026 18:20:00 -0700",
+      "news": [
+        {
+          "title": "與, ‘조희대 국조’에 李 파기환송 사건 포함 시사… 재판 개입 논란",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261030/134936135/2"
+        },
+        {
+          "title": "'조희대 국조' 두고 與 내부 갈등 여전…역풍 우려 속 여야 대치 격화",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/politics/assembly/6337648"
+        },
+        {
+          "title": "[속보]조희대 대법원장 탄핵 ‘반대’ 45%·‘찬성’ 34%-NBS",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627251"
+        }
+      ]
+    },
+    {
+      "title": "어쌔신 크리드",
+      "approx_traffic": "200+",
+      "published": "Thu, 29 Oct 2026 18:00:00 -0700",
+      "news": [
+        {
+          "title": "[해외 캠페인] 유비소프트, ‘블랙 플래그 리싱크드’ 뉴 게임 플러스 추가",
+          "source": "캠페인 인사이트",
+          "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=6784"
+        },
+        {
+          "title": "어쌔신 크리드 발할라에 뉴 게임 플러스 모드가 추가됩니다.",
+          "source": "GameGPU",
+          "url": "https://ko.gamegpu.com/news/igry/v-assassins-creed-valhalla-poyavitsya-rezhim-novaya-igra-plyus"
+        }
+      ]
+    },
     {
       "title": "중공업",
       "approx_traffic": "1000+",
@@ -48,6 +131,28 @@
       ]
     },
     {
+      "title": "삼성그룹",
+      "approx_traffic": "10000+",
+      "published": "Thu, 29 Oct 2026 17:30:00 -0700",
+      "news": [
+        {
+          "title": "57주년 맞은 삼성전자, \"지금은 자축보다 경쟁력 냉정하게 돌아볼 때\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/30/7PVGJEAKKBF7HBJVSFWCFY4GXE/"
+        },
+        {
+          "title": "삼전 주주환원 엇갈린 평가…\"1월 추가 모멘텀\" \"기대치 못미쳐\"",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1185338"
+        },
+        {
+          "title": "주주에게 '기다려라'?‥107조 원 벌고도 주가 급락",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6861800_36989.html"
+        }
+      ]
+    },
+    {
       "title": "binance",
       "approx_traffic": "100+",
       "published": "Thu, 29 Oct 2026 17:20:00 -0700",
@@ -58,14 +163,14 @@
           "url": "https://www.bbc.com/news/articles/cwg7xp8kx4v5o"
         },
         {
-          "title": "Binance Suspends Services Amid Hacking Suspicions",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/market-money-en/2026/10/30/Q7RSEVP3XJHARKDQL4K2INXFSA/"
+          "title": "Bitcoin tumbles below $78,000, extending losses as Binance security scare rattles crypto markets",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html"
         },
         {
-          "title": "Binance 'potential security issue' sees $2.54 billion frozen by the likes of Circle, Tether",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html"
+          "title": "World's Largest Crypto Exchange Binance Hit by Apparent Hacking, Sparking Withdrawal Warnings in Korea",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008822705"
         }
       ]
     },
@@ -75,19 +180,19 @@
       "published": "Thu, 29 Oct 2026 17:10:00 -0700",
       "news": [
         {
-          "title": "나의 국민연금, 배우자와 자녀도 받을 수 있을까?ㅣ연금 로드맵 360",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3795_40_C61"
+          "title": "[카드뉴스] \"냉장고 문 열었더니 인터넷 털렸다?\"… 스마트 가전 노린 '홈 네트워크 해킹' 실태",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146888"
         },
         {
-          "title": "배우자 떠나면 누구는 반토막, 누구는 전액…유족연금 논란",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029161900530"
+          "title": "은행권 탈탈 털린 해킹, 톰 크루즈가 3년전 경고했다 … ‘미션 임파서블’로 보는 AI 해커 시대",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12183845"
         },
         {
-          "title": "배우자 사망 유족연금 수령액 연금 종류 따라 격차…형평성 논란",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261030580010"
+          "title": "똑같은 맞벌이인데…우리집은 '반토막' 공무원 부부는 '전액'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026103053877"
         }
       ]
     },
@@ -110,111 +215,6 @@
           "title": "서해해경청 군산항공대, '무사고 비행 20주년' 금자탑",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261029_0003846566"
-        }
-      ]
-    },
-    {
-      "title": "보안뉴스",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 17:00:00 -0700",
-      "news": [
-        {
-          "title": "[단독] 미래에셋생명 유출사고, ‘웹셸’ 업로드 취약점 때문이었다",
-          "source": "보안뉴스",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146869"
-        },
-        {
-          "title": "빗썸 해킹으로 고객 계좌번호·신분증 사본까지 털려(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029169152002"
-        },
-        {
-          "title": "빗썸, 고객정보 844건 유출...프라뱅은 자산 탈취까지",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610292322274540"
-        }
-      ]
-    },
-    {
-      "title": "cve-2026-98432",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 16:50:00 -0700",
-      "news": [
-        {
-          "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html"
-        },
-        {
-          "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html"
-        },
-        {
-          "title": "Claude AI Exploits Linux Kernel Flaw to Execute Root Commands Without User Interaction",
-          "source": "CyberSecurityNews",
-          "url": "https://cybersecuritynews.com/linux-kernel-flaw-root-commands/"
-        }
-      ]
-    },
-    {
-      "title": "미래에셋증권",
-      "approx_traffic": "100+",
-      "published": "Thu, 29 Oct 2026 16:50:00 -0700",
-      "news": [
-        {
-          "title": "[게시판] 미래에셋투자와연금센터, 연금투자자 절세 안내서 발간",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1185354"
-        },
-        {
-          "title": "\"연금투자도 절세 방법 있다\" 미래에셋투자와연금센터, 연금 세금상식 발간",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03552246645618168"
-        },
-        {
-          "title": "퇴직연금 잘 받는 것도 재테크…내 노후 지켜줄 5가지 전략",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610294481i"
-        }
-      ]
-    },
-    {
-      "title": "이용",
-      "approx_traffic": "500+",
-      "published": "Thu, 29 Oct 2026 16:40:00 -0700",
-      "news": [
-        {
-          "title": "양주경찰서 민경합동 순찰… 순찰신문고 홍보활동도 펼쳐",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261029580388"
-        },
-        {
-          "title": "일산동부署, 다중이용시설 현장점검... 강력범죄 예방 및 시민 안전 확보",
-          "source": "중도일보",
-          "url": "https://www.joongdo.co.kr/web/view.php?key=20261030010009047"
-        }
-      ]
-    },
-    {
-      "title": "이예원",
-      "approx_traffic": "200+",
-      "published": "Thu, 29 Oct 2026 16:10:00 -0700",
-      "news": [
-        {
-          "title": "정소이, KLPGA 투어 에쓰오일 챔피언십 1R 단독 1위…첫 승 도전(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029187551007"
-        },
-        {
-          "title": "서교림 빠지니 힘 빠진 김민솔?",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610300100006"
-        },
-        {
-          "title": "[핌in제주] '마지막 6개 홀 버디 5개' 정소이, S-오일 1R 선두...이예원 1타 차 2위",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261029001374"
         }
       ]
     }
