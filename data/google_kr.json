@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-30T22:43:01+00:00",
+  "fetched_at": "2026-10-30T23:15:23+00:00",
   "items": [
+    {
+      "title": "박서진",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 15:10:00 -0700",
+      "news": [
+        {
+          "title": "박서진, '세월이길 장사있나' 리메이크 이유? \"빛을 봤으면…그때와 다른 느낌 들지 않을까\"",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264049"
+        },
+        {
+          "title": "'집돌이' 은지원, 재혼 후 반전...이승기도 '깜짝' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102905350572744"
+        },
+        {
+          "title": "은지원, ♥9살 연하 아내와 '결혼 1주년' 캠핑카 여행..달달 신혼 근황 ('살림남')",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900944"
+        }
+      ]
+    },
+    {
+      "title": "이수현",
+      "approx_traffic": "2000+",
+      "published": "Fri, 30 Oct 2026 15:00:00 -0700",
+      "news": [
+        {
+          "title": "이수현 “뼈말라, 나한텐 칭찬 아냐”…30kg 감량 후 불편한 심경",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261030/134938610/1"
+        },
+        {
+          "title": "악뮤 수현, 안경 쓰고 귀여움까지 장착…30㎏ 감량 후 매일이 ‘리즈’",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20107721"
+        },
+        {
+          "title": "안경 쓰고 귀여움 장착...악뮤 수현, 30kg 감량 후 매일이 리즈",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1645082"
+        }
+      ]
+    },
     {
       "title": "신세계백화점 강남점",
       "approx_traffic": "200+",
@@ -76,8 +120,30 @@
       ]
     },
     {
+      "title": "dl이앤씨",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 14:10:00 -0700",
+      "news": [
+        {
+          "title": "DL이앤씨 3분기 영업이익 1천73억원…작년 대비 8.1%↓(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030124451527"
+        },
+        {
+          "title": "샤힌 추가 비용에 이익 감소…DL이앤씨, 3분기 영업익 1073억원 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/30/2026103016183773060"
+        },
+        {
+          "title": "DL이앤씨, 플랜트 원가 부담 '수익성 개선' 주춤",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BnEFWJFYTO"
+        }
+      ]
+    },
+    {
       "title": "필라델피아 반도체 지수",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Fri, 30 Oct 2026 14:00:00 -0700",
       "news": [
         {
@@ -121,7 +187,7 @@
     },
     {
       "title": "신발",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Fri, 30 Oct 2026 13:50:00 -0700",
       "news": [
         {
@@ -138,72 +204,6 @@
           "title": "화려한 패션쇼",
           "source": "뉴시스",
           "url": "https://mobile.newsis.com/photo/NISI20261029_0021509842"
-        }
-      ]
-    },
-    {
-      "title": "pba 팀리그",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 13:50:00 -0700",
-      "news": [
-        {
-          "title": "PBA팀리그 웰컴저축은행 유니폼 입는 강유진 “기회 주어지면 팀의 포스트시즌 진출 돕겠다”",
-          "source": "mkbn.mk.co.kr",
-          "url": "https://mkbn.mk.co.kr/news/sports/12191294"
-        },
-        {
-          "title": "'정수빈→김보미 우승자 신분 상승' NH농협카드, PS행 티켓 수확할까... 4R 31일 개막 [PBA 팀리그] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/30/2026102917213412319"
-        },
-        {
-          "title": "전력 보강 웰컴저축은행·간판 바꾼 하림…PBA 팀리그 4R 돌입",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029029400007"
-        }
-      ]
-    },
-    {
-      "title": "김동현",
-      "approx_traffic": "2000+",
-      "published": "Fri, 30 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "김동현, 압구정 100억 아파트 샀는데…50억 빌려준 사람 누구? [집코노미-핫!부동산]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026103070927"
-        },
-        {
-          "title": "김동현, 압구정현대 100억 매입에 '집주인 대출' 50억...온라인 반응 \"대통령도 했는데 뭐가 문제?\"",
-          "source": "펜앤마이크",
-          "url": "https://www.pennmike.com/news/articleView.html?idxno=130671"
-        },
-        {
-          "title": "\"반전세 산다더니 100억 집주인 됐다\"…김동현, 압구정 신현대 매수",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610302131116140"
-        }
-      ]
-    },
-    {
-      "title": "정찰기",
-      "approx_traffic": "1000+",
-      "published": "Fri, 30 Oct 2026 13:40:00 -0700",
-      "news": [
-        {
-          "title": "북, 한미 ‘프리덤플래그’ 훈련 비난…“철저히 힘으로 위협 억제”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700087"
-        },
-        {
-          "title": "KF-21, 美와 첫 편대비행…U-2 정찰기·F-35 전투기와 호흡맞춰",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029163400504"
-        },
-        {
-          "title": "북한, 한미 '프리덤 플래그' 훈련 비난‥\"철저히 힘으로 위협 억제\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6862040_36911.html"
         }
       ]
     }
