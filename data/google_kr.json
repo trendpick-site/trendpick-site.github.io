@@ -1,23 +1,160 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-30T08:57:06+00:00",
+  "fetched_at": "2026-10-30T09:55:21+00:00",
   "items": [
     {
-      "title": "000660",
-      "approx_traffic": "2000+",
-      "published": "Fri, 30 Oct 2026 00:50:00 -0700",
+      "title": "이찬혁",
+      "approx_traffic": "1000+",
+      "published": "Fri, 30 Oct 2026 01:50:00 -0700",
       "news": [
         {
-          "title": "Earnings call transcript: SK hynix posts record Q3 2026 results, shares jump after hours",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sk-hynix-posts-record-q3-2026-results-shares-jump-after-hours-93CH-4977343"
+          "title": "악뮤 이찬혁 회사, 파격 입사조건 \"직원들 성씨 겹치면 안 돼\" ('전참시')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/2026/10/30/GY4TKNBRGA4TOMTEHBQTQODFGE/"
+        },
+        {
+          "title": "'68억 건물주' 이찬혁, 이수현과 동거 1년 연장 \"안 살면 자기 손해\"(전참시)",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900159"
+        },
+        {
+          "title": "악뮤, 북한산 파노라마 뷰 3층 셰어하우스 공개",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261029_0003845901"
+        }
+      ]
+    },
+    {
+      "title": "콜 오브 듀티 이태원",
+      "approx_traffic": "200+",
+      "published": "Fri, 30 Oct 2026 01:50:00 -0700",
+      "news": [
+        {
+          "title": "[단독] '콜오브듀티' 측 \"머리 숙여 위로와 사과‥'이태원 참사' 장면 삭제\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861915_36918.html"
+        },
+        {
+          "title": "이태원 참사 영상 사용한 ‘콜 오브 듀티’ 제작진 공식 사과…장면 삭제하기로",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261030/134940619/1"
+        },
+        {
+          "title": "\"경악스럽다\" 참사 영상 쓴 게임사…삭제 요구에도 ‘거부’",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325491"
+        }
+      ]
+    },
+    {
+      "title": "인도군",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 01:50:00 -0700",
+      "news": [
+        {
+          "title": "“인도, K9 자주포 ‘335문’ 추가할 듯”…혹한에도 끄떡없는 장비 탑재 [밀리터리+]",
+          "source": "나우뉴스",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261029601020"
+        },
+        {
+          "title": "[영상] 인도, K9자주포 300문 추가 도입…\"국경 포병 장거리 화력 강화\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028173600704"
+        },
+        {
+          "title": "히말라야 넘은 K9 자주포, 폴란드 거쳐 유럽 재무장 통로 두드린다",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610301032305234fbbec65dfb_1"
+        }
+      ]
+    },
+    {
+      "title": "트로트",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 01:50:00 -0700",
+      "news": [
+        {
+          "title": "진성부터 이수연까지..토탈셋 첫 패밀리 콘서트 12월 24일 개최",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/30/HBTDMZLFMY2DMMLDMU4TMZTDMQ/"
+        },
+        {
+          "title": "진성·안성훈·박군 총출동…토탈셋, 크리스마스이브 합동 콘서트",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12191725"
+        },
+        {
+          "title": "토탈셋, 첫 패밀리 콘서트 '메리 트로트마스!' 개최…진성→이수연 토탈셋 아티스트들 총출동",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016500"
+        }
+      ]
+    },
+    {
+      "title": "국가유공자",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "보성군, ‘스무 해의 감사’… 제20회 보훈가족 한마음 행사 개최",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353488"
+        },
+        {
+          "title": "\"보성이 기억합니다\"…보훈가족 한마음 행사 20돌",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=927742"
+        },
+        {
+          "title": "화순군, 호국영웅을 예우하고 소통하는 호국탐방사업 추진",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20261028500354"
+        }
+      ]
+    },
+    {
+      "title": "꿀알바",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "[ⓓ리뷰] \"그 괴담은, 현실이 된다\"…'꿀알바', 아는 호러의 진땀",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2350032"
+        },
+        {
+          "title": "김다민 감독 \"노동은 만국 공통의 언어…처절한 생존 액션\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028114600005"
+        },
+        {
+          "title": "귀신보다 가난이 더 무서워…시급 50배에 ‘목숨 건’ 청춘 [리뷰]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20107342"
+        }
+      ]
+    },
+    {
+      "title": "극한 직업",
+      "approx_traffic": "200+",
+      "published": "Fri, 30 Oct 2026 01:00:00 -0700",
+      "news": [
+        {
+          "title": "[EBS 극한직업] 9000원에 40가지 음식 무제한…홍성 가성비 뷔페의 비밀",
+          "source": "더쎈뉴스",
+          "url": "https://www.mhns.co.kr/news/articleView.html?idxno=766798"
+        },
+        {
+          "title": "'극한 직업' 싸게 팔려면 더 바빠야 한다...가성비 뷔페와 리퍼브 매장의 땀",
+          "source": "뉴스컬처",
+          "url": "https://www.nc.press/news/articleView.html?idxno=629803"
         }
       ]
     },
     {
       "title": "생계",
-      "approx_traffic": "2000+",
+      "approx_traffic": "500+",
       "published": "Fri, 30 Oct 2026 00:50:00 -0700",
       "news": [
         {
@@ -31,31 +168,21 @@
           "url": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003279484"
         },
         {
-          "title": "생계용 재산 고려 ‘기초수급 문턱’ 낮추나",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610282054035"
+          "title": "생계급여 중위소득 32→35% 단계적 확대 추진",
+          "source": "이투데이",
+          "url": "https://bravo.etoday.co.kr/view/atc_view/20363"
         }
       ]
     },
     {
-      "title": "009150",
-      "approx_traffic": "1000+",
-      "published": "Fri, 30 Oct 2026 00:40:00 -0700",
+      "title": "000660",
+      "approx_traffic": "2000+",
+      "published": "Fri, 30 Oct 2026 00:50:00 -0700",
       "news": [
         {
-          "title": "Breakingviews - COMMENTARY: Samsung's returns conservatism is self-defeating",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/commentary/breakingviews/samsungs-returns-conservatism-is-self-defeating-2026-10-29/"
-        },
-        {
-          "title": "Samsung Electronics Shares Slide After Return Plan Is Delayed",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-electronics-shares-slide-after-return-plan-is-delayed"
-        },
-        {
-          "title": "Samsung Electronics Announces Third Quarter 2026 Results",
-          "source": "samsung.com",
-          "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results"
+          "title": "Earnings call transcript: SK hynix posts record Q3 2026 results, shares jump after hours",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sk-hynix-posts-record-q3-2026-results-shares-jump-after-hours-93CH-4977343"
         }
       ]
     },
@@ -70,146 +197,14 @@
           "url": "https://www.boannews.com/news/articleView.html?idxno=146873"
         },
         {
-          "title": "지니언스 \"PHP2셸 뇌관은 내부망…내부 장비 96% 취약점 노출\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261030155301"
-        },
-        {
           "title": "PHP2Shell 연쇄 공격으로 미국 정부 관련 서버 포함 25대의 루트 권한 탈취",
           "source": "GeekNews",
           "url": "https://news.hada.io/topic?id=36240"
-        }
-      ]
-    },
-    {
-      "title": "오산대",
-      "approx_traffic": "1000+",
-      "published": "Fri, 30 Oct 2026 00:30:00 -0700",
-      "news": [
-        {
-          "title": "오산대, 2027학년도 산업체 위탁교육 신입생 200명 모집…9개 학과 선발",
-          "source": "한국대학신문",
-          "url": "https://news.unn.net/news/articleView.html?idxno=599662"
         },
         {
-          "title": "오산대, '일·학습 병행' 2027학년도 산업체 위탁교육 신입생 200명 모집 9개 학과 전문학사 과정",
-          "source": "경기신문",
-          "url": "https://www.kgnews.co.kr/news/article.html?no=917470"
-        },
-        {
-          "title": "서정대·덕정상인회 ‘스텝온’, 지역혁신 경진대회 최우수상 수상",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261030580132"
-        }
-      ]
-    },
-    {
-      "title": "김하성",
-      "approx_traffic": "2000+",
-      "published": "Fri, 30 Oct 2026 00:30:00 -0700",
-      "news": [
-        {
-          "title": "[오피셜] 2000만 달러 계약 종료→김하성 FA 시장 나온다…\"KIM과 결별 반길만해\" 이렇게까지 기뻐하다니",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016396"
-        },
-        {
-          "title": "'3년 연속 FA' 김하성, 또 험난한 겨울…MLB 직장폐쇄 변수",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/overseas-baseball/6337337"
-        },
-        {
-          "title": "“KIM 265억짜리 재앙” 美 충격 혹평! 김하성 한국 와야하나, FA→FA→FA에도 ML 잔류 암울하다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112901088"
-        }
-      ]
-    },
-    {
-      "title": "골프장",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 00:30:00 -0700",
-      "news": [
-        {
-          "title": "신목동역서 파크골프치고 안양천 달린다…9번째 펀스테이션 개장",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029189100004"
-        },
-        {
-          "title": "러닝은 편하게, 파크골프는 실내에서…신목동역 펀스테이션",
-          "source": "서울특별시",
-          "url": "https://mediahub.seoul.go.kr/archives/2019894"
-        },
-        {
-          "title": "\"신목동역서 파크골프 즐긴다\"…서울시, 9번째 '펀스테이션' 개장",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/moi/6336890"
-        }
-      ]
-    },
-    {
-      "title": "스타벅스 광주지산유원지입구점",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 00:10:00 -0700",
-      "news": [
-        {
-          "title": "스타벅스, '탱크데이' 불매운동 후 광주 대형매장 첫 폐점",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030074300054"
-        },
-        {
-          "title": "스벅, 광주·MBC '선택적' 폐점?…\"사실 아냐...계약만료에 따른 것\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/10/30/2026103014431551465"
-        },
-        {
-          "title": "스타벅스, ‘탱크데이’ 논란 속 광주 대형 매장 폐점…“임대차 계약 종료”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261030580101"
-        }
-      ]
-    },
-    {
-      "title": "new zealand vs india",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 00:10:00 -0700",
-      "news": [
-        {
-          "title": "India vs New Zealand LIVE Score, 4th T20I: 6, 6, 6, 6 - Glenn Phillips Nears Fiery Ton; 200 Up For NZ",
-          "source": "NDTV Sports",
-          "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-4th-t20i-live-score-today-eden-park-auckland-30-october-2026-shreyas-iyer-mitchell-santner-vaibhav-sooryavanshi-12257306"
-        },
-        {
-          "title": "Auckland weather forecast for New Zealand vs. India: Chances of rain, average temperature for NZ vs. IND 4th T20I",
-          "source": "Sporting News",
-          "url": "https://www.sportingnews.com/in/cricket/news/auckland-weather-forecast-new-zealand-india-chances-rain-temperature-4th-t20i/ed8f54543f88a7f0cd8c5215"
-        },
-        {
-          "title": "Kishan, Mayank in as India bowl; Smith back for New Zealand",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/story/ishan-kishan-mayank-yadav-in-as-india-bowl-nathan-smith-back-for-new-zealand-1560688"
-        }
-      ]
-    },
-    {
-      "title": "젠슨 황",
-      "approx_traffic": "2000+",
-      "published": "Fri, 30 Oct 2026 00:00:00 -0700",
-      "news": [
-        {
-          "title": "“술자리 젠슨 황 옆 여성 기업인, 中스파이였다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261030/134937187/1"
-        },
-        {
-          "title": "中, 엔비디아 관련 스파이 의혹 부인…\"근거 없는 모함\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030153600083"
-        },
-        {
-          "title": "젠슨 황과 술 마신 여성 기업인, 중국 스파이였다",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610300916001"
+          "title": "시놀로지, 보안 업데이트 발표…중요 자료·백업 담은 NAS 보안 취약점 발견",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610300732001"
         }
       ]
     }
