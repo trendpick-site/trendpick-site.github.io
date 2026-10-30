@@ -1,8 +1,140 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-30T20:45:44+00:00",
+  "fetched_at": "2026-10-30T21:43:24+00:00",
   "items": [
+    {
+      "title": "김동현",
+      "approx_traffic": "1000+",
+      "published": "Fri, 30 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "김동현, 압구정 100억 아파트 샀는데…50억 빌려준 사람 누구? [집코노미-핫!부동산]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026103070927"
+        },
+        {
+          "title": "김동현, 압구정현대 100억 매입에 '집주인 대출' 50억...온라인 반응 \"대통령도 했는데 뭐가 문제?\"",
+          "source": "펜앤마이크",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=130671"
+        },
+        {
+          "title": "'반포 거주' 김동현, 압구정 아파트 100억 매입…50억은 집주인 대출",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264130"
+        }
+      ]
+    },
+    {
+      "title": "정찰기",
+      "approx_traffic": "200+",
+      "published": "Fri, 30 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "북, 한미 ‘프리덤플래그’ 훈련 비난…“철저히 힘으로 위협 억제”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700087"
+        },
+        {
+          "title": "KF-21, 美와 첫 편대비행…U-2 정찰기·F-35 전투기와 호흡맞춰",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029163400504"
+        },
+        {
+          "title": "북한, 한미 '프리덤 플래그' 훈련 비난‥\"철저히 힘으로 위협 억제\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6862040_36911.html"
+        }
+      ]
+    },
+    {
+      "title": "폴란드",
+      "approx_traffic": "200+",
+      "published": "Fri, 30 Oct 2026 13:40:00 -0700",
+      "news": [
+        {
+          "title": "유럽서 패트리어트 미사일 정비한다… 폴란드에 PAC-3 거점 구축",
+          "source": "뉴스투데이",
+          "url": "https://www.news2day.co.kr/article/20261028500017"
+        },
+        {
+          "title": "F-35와 패트리어트: 미국의 무기 생산 및 유지 관리 전략 두 가지.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/f-35-va-patriot-hai-chien-luoc-san-xuat-va-bao-duong-vu-khi-cua-my"
+        },
+        {
+          "title": "폴란드에 패트리엇 PAC-3 유럽 정비 센터 설립, 록히드마틴 공식",
+          "source": "쿠쿠쿠뉴스",
+          "url": "https://www.cucucu.co.kr/news/view.php?no=4774"
+        }
+      ]
+    },
+    {
+      "title": "삼성중공업",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 13:30:00 -0700",
+      "news": [
+        {
+          "title": "삼성중공업, 3분기 영업이익 3,384억원…작년보다 42%↑",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261029175609Uyt"
+        },
+        {
+          "title": "삼성重, 3Q 영업익 3384억원…고부가 선박 효과로 조업감소 상쇄",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261029025592842"
+        },
+        {
+          "title": "삼성중공업, 중국 저가 공세에 FLNG로 승부…목표가↓-NH",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02948726645618168"
+        }
+      ]
+    },
+    {
+      "title": "욕망의 덫",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 13:20:00 -0700",
+      "news": [
+        {
+          "title": "\"가슴 저린 오열 연기\"… 전혜원, 장세현 상실감 딛고 각성 폭발",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3735744"
+        },
+        {
+          "title": "장서희, 유태웅에 백허그 \"외로우셨죠\"…아내 윤해영 몰래 유혹 성공 (욕망의 덫)",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20261028n39508?mid=e02&list=recent&cpcd="
+        },
+        {
+          "title": "장서희, 라이터로 유태웅 압박…숨겨진 비밀 드러날까",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=777875"
+        }
+      ]
+    },
+    {
+      "title": "파업",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 12:50:00 -0700",
+      "news": [
+        {
+          "title": "포스코노사 3차 파업 앞두고 극적 타결…기본급 2.6% 인상(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030171151053"
+        },
+        {
+          "title": "포스코 노사, 임금협상 잠정 합의…기본급 2.6% 인상+격려금 600만원 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/10/30/2026103019110243455"
+        },
+        {
+          "title": "140일 만에…포스코 노사, 기본급 2.6%↑ 임금교섭 잠정 합의",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026103019213680131"
+        }
+      ]
+    },
     {
       "title": "엘버스베르크 대 마인츠 05",
       "approx_traffic": "500+",
@@ -14,14 +146,14 @@
           "url": "https://www.bbc.com/sport/football/live/cv62yw1ln38gt"
         },
         {
-          "title": "Elversberg vs Mainz 05: Confirmed Lineups & Match Prediction",
-          "source": "Oddschecker",
-          "url": "https://www.oddschecker.com/insight/football/cng102-20261030-elversberg-vs-mainz-05-confirmed-lineups-match-prediction"
+          "title": "Licensable picture: SV Elversberg V 1. FSV Mainz 05: Matchday 9 - Bundesliga",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/sv-elversberg-v-1-fsv-mainz-05-matchday-9-bundesliga/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA4Nkk2QU0"
         },
         {
-          "title": "How to watch FSV Mainz vs. SV 07 Elversberg in the U.S.: TV channel and streaming options for October 30",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/7738528/2026/10/30/fsv-mainz-vs-sv-07-elversberg-stream-how-to-watch-bundesliga-oct-30/"
+          "title": "̳̳{SOccer}+++[#!LIVESTREAMs-FREE!]™SV Elversberg vs Mainz SOccer Live Free 30 October 2026",
+          "source": "Port of Rotterdam",
+          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21rc29wcnRzLmdpdGh1Yi5pby92Z2h1Znl0ZnJ5L2FhLnhtbCIvPjwva3JwYW5vPg==&id=sv-elversberg-vs-mainz-waert"
         }
       ]
     },
@@ -36,31 +168,31 @@
           "url": "https://www.footmercato.net/a277112337943057132-le-psg-soffre-un-nouveau-record-absolu-en-ligue-1"
         },
         {
-          "title": "DIRECT. Lille-Lens: suivez le match de la 9e journée de Ligue 1 en live",
-          "source": "www.live-mercato.com",
-          "url": "https://www.live-mercato.com/article/202117-direct-lille-lens-suivez-le-match-de-la-9e-journee-de-ligue-1-en-live"
+          "title": "++VOICI,,!!* Regarder le match Paris-SG – Le Havre En Direct GRATUIT 30 octobre 2026 EN046",
+          "source": "Port of Rotterdam",
+          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-paris-sg-le-havre-match-lie-sozlwpb"
         },
         {
-          "title": "Face au Havre, l'incroyable nouveau coup tactique de Luis Enrique 😱",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/fr/news/face-au-havre-lincroyable-nouveau-coup-tactique-de-luis-enrique-43699231"
+          "title": "Ligue 1: le Paris SG sur sa lancée, Rennes à l'affût",
+          "source": "Yahoo Actualités",
+          "url": "https://fr.news.yahoo.com/ligue-1-paris-sg-lanc%C3%A9e-074225284.html"
         }
       ]
     },
     {
       "title": "나스닥",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 30 Oct 2026 11:40:00 -0700",
       "news": [
+        {
+          "title": "알파벳 시총 5,000억 달러 증발, 뉴욕증시 일제히 하락",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3824_2_C1"
+        },
         {
           "title": "돈은 더 버는데 주가 폭락?‥AI가 집어삼킨 현금",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862067_37004.html"
-        },
-        {
-          "title": "이번 주 주목할 주식: 알파벳·인텔·아마존 등 기술주 급락",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2152028"
         },
         {
           "title": "[속보] 뉴욕 증시, 기술주 실적 부진에 하락 출발···다우 0.27%↓ 나스닥 2.42%↓",
@@ -70,156 +202,24 @@
       ]
     },
     {
-      "title": "트위치",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 10:50:00 -0700",
-      "news": [
-        {
-          "title": "엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261030/134932454/1"
-        },
-        {
-          "title": "엔씨 '아이온2' 日 스팀 3주 연속 매출 1위",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/article/2026103016220346703"
-        },
-        {
-          "title": "엔씨 '아이온2', 일본서 3주 연속 판매 1위…유럽·남미서도 흥행",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610306269i"
-        }
-      ]
-    },
-    {
-      "title": "르아브르 ac 대 psg",
-      "approx_traffic": "2000+",
-      "published": "Fri, 30 Oct 2026 10:20:00 -0700",
-      "news": [
-        {
-          "title": "Le Havre vs PSG Prediction, Betting Tips, Lineups & Odds | 30 Oct 2026",
-          "source": "Sportsgambler",
-          "url": "https://www.sportsgambler.com/betting-tips/football/le-havre-vs-psg-prediction-lineups-odds-2026-10-30/"
-        },
-        {
-          "title": "Le Havre - Paris Saint-Germain LIVE. Ligue 1 latest updates",
-          "source": "MARCA",
-          "url": "https://www.marca.com/en/soccer/ligue-1/le-havre-paris-saint-germain/2026/10/30/01_0109_20261030_141_149-live.html"
-        },
-        {
-          "title": "Le Havre vs PSG: TV channel, live stream and kick-off time for Ligue 1 fixture",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-le-havre-v-paris-saint-germain/blt84f88295b2c143cd"
-        }
-      ]
-    },
-    {
-      "title": "중간선거",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 09:20:00 -0700",
-      "news": [
-        {
-          "title": "미국 중간선거 앞두고 사전투표 열기 ‘후끈’…역대최다 4천800만명 사전투표",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700370"
-        },
-        {
-          "title": "\"美공화 텃밭도 안심 못해\"…루이지애나 ‘확실’→‘우세’ 하향",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01331686645618496"
-        },
-        {
-          "title": "흔들리는 중서부 '딥 레드'...중도주의 내세워 파란",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610310402484267"
-        }
-      ]
-    },
-    {
-      "title": "카를로스 알카라스",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 08:20:00 -0700",
-      "news": [
-        {
-          "title": "[비엔나 오픈] 알카라스 '좋았어!'",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738138"
-        },
-        {
-          "title": "알카라즈는 2026년 비엔나 오픈 준결승에서 메드베데프와 맞붙게 된다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/alcaraz-cham-tran-medvedev-o-ban-ket-vienna-open-2026"
-        },
-        {
-          "title": "알카라스, 하차노프 꺾고 비엔나오픈 16강⋯ATP 500 22연승",
-          "source": "이투데이",
-          "url": "https://m.etoday.co.kr/news/view/2640962?trc=right_categori_news"
-        }
-      ]
-    },
-    {
-      "title": "핼러윈",
-      "approx_traffic": "1000+",
-      "published": "Fri, 30 Oct 2026 08:10:00 -0700",
-      "news": [
-        {
-          "title": "안전한 핼러윈, 소방이 함께합니다 - 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974606"
-        },
-        {
-          "title": "[르포]이태원에 장갑차·경찰견도 등장...'핼러윈' 안전관리 총력 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/31/2026103020440586602"
-        },
-        {
-          "title": "주말 핼러윈 앞둔 '불금' 저녁‥이태원 '북적' 인파관리 '비상'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862064_37004.html"
-        }
-      ]
-    },
-    {
-      "title": "김혜자",
-      "approx_traffic": "10000+",
-      "published": "Fri, 30 Oct 2026 08:00:00 -0700",
-      "news": [
-        {
-          "title": "눈물 흘리며 빈소 온 김혜수‥'배우들의 아버지' 작별 [현장영상]",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862057_36918.html"
-        },
-        {
-          "title": "\"국민 아버지에서 세상의 어른으로\"...최불암 아름다운 동행",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0106_202610310511272634"
-        },
-        {
-          "title": "무대 안에서나 밖에서나 ‘우리 시대의 아버지’였다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261031/134941838/2"
-        }
-      ]
-    },
-    {
-      "title": "trick or treat",
+      "title": "강남 이상화",
       "approx_traffic": "100+",
-      "published": "Fri, 30 Oct 2026 08:00:00 -0700",
+      "published": "Fri, 30 Oct 2026 11:10:00 -0700",
       "news": [
         {
-          "title": "Halloween weather forecast: what to expect where you are",
-          "source": "The Weather Channel",
-          "url": "https://weather.com/2026/10/30/holiday/halloween/halloween-trick-or-treat-weather-forecast"
+          "title": "강남, 다시 태어나도 이상화와 결혼? \"로또 같은 사람, 안 맞아\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/ME2DIZTGHEYDONDEMRRTCOBWGA/"
         },
         {
-          "title": "Halloween weekend forecast: lots of cloud cover with some rain possible",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/news/weather-news/articles/halloween-weekend-forecast-lots-cloud-192533647.html"
+          "title": "강남 \"이상화, 로또 같은 사람\"이라더니…\"안 맞아\" 반전 고백",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848479"
         },
         {
-          "title": "Houston weather: Cloudy, scattered showers to kick off Halloween weekend",
-          "source": "FOX 26 Houston",
-          "url": "https://www.fox26houston.com/weather/houston-weather-friday-october-30-2026"
+          "title": "‘프러포즈 3번’ 강남 “♥이상화, 나한테 로또 같은 사람…안 맞아” 반전 폭로",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202610301022430310"
         }
       ]
     }
