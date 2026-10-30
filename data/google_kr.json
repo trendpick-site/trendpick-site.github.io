@@ -1,8 +1,96 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-30T15:54:30+00:00",
+  "fetched_at": "2026-10-30T16:52:08+00:00",
   "items": [
+    {
+      "title": "카를로스 알카라스",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 08:20:00 -0700",
+      "news": [
+        {
+          "title": "[비엔나 오픈] 알카라스 '좋았어!'",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738138"
+        },
+        {
+          "title": "알카라즈는 짜릿한 경기 끝에 승리하며 비엔나 오픈 8강에 진출했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/alcaraz-thang-nghet-tho-vao-tu-ket-vienna-open"
+        },
+        {
+          "title": "알카라스, 하차노프 꺾고 비엔나오픈 16강⋯ATP 500 22연승",
+          "source": "이투데이",
+          "url": "https://m.etoday.co.kr/news/view/2640962?trc=right_categori_news"
+        }
+      ]
+    },
+    {
+      "title": "핼러윈",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 08:10:00 -0700",
+      "news": [
+        {
+          "title": "핼러윈 하루 전 이태원...경찰, 특공대·장갑차 투입",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610301956051826"
+        },
+        {
+          "title": "안전한 핼러윈, 소방이 함께합니다 - 카드/한컷 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974606"
+        },
+        {
+          "title": "[현장 르포] 핼러윈 인파 관리에 ‘초긴장’하는 경찰·서울시",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/10/30/6DOR5AU35VEEBONVC6LMW4YJOE/"
+        }
+      ]
+    },
+    {
+      "title": "김혜자",
+      "approx_traffic": "10000+",
+      "published": "Fri, 30 Oct 2026 08:00:00 -0700",
+      "news": [
+        {
+          "title": "형사로, 아버지로, 이웃으로‥최불암이 남긴 67년",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862070_37004.html"
+        },
+        {
+          "title": "의로운 박반장, 푸근한 김회장… ‘파하’ 웃으며 시대를 위로했다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/31/DPLWMSNJPNCLZOZ7CWQQ5CBAQQ/"
+        },
+        {
+          "title": "’진정한 어른’과 이별…금관문화훈장 추서",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030225958clN"
+        }
+      ]
+    },
+    {
+      "title": "trick or treat",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 08:00:00 -0700",
+      "news": [
+        {
+          "title": "Here’s Where Rain Could Dampen Your Spirits This Halloween",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/30/weather/halloween-rain-forecast.html"
+        },
+        {
+          "title": "Halloween forecast: more treat than trick",
+          "source": "MPR News",
+          "url": "https://www.mprnews.org/story/2026/10/30/halloween-forecast-more-treat-than-trick"
+        },
+        {
+          "title": "Halloween weather forecast: what to expect where you are",
+          "source": "The Weather Channel",
+          "url": "https://weather.com/2026/10/30/holiday/halloween/halloween-trick-or-treat-weather-forecast"
+        }
+      ]
+    },
     {
       "title": "크랙",
       "approx_traffic": "500+",
@@ -14,14 +102,14 @@
           "url": "https://zdnet.co.kr/view/?no=20261030144302"
         },
         {
-          "title": "애플 결함에 삼성도 '긴장'...기로에 선 폴더블 혁신",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610291603054671"
+          "title": "애플, 아이폰 듀오 디스플레이 결함 무상 교체…대상·절차는",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028103200017"
         },
         {
-          "title": "“아이폰 듀오 또 고장?”…힌지 논란 조롱하는 삼성의 반전 광고",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610291732001"
+          "title": "[AFTER 8 SPECIAL] \"받자마자 깨질 줄은\" 삼성 의문의 1승?…애플 '접는 아이폰' 대체 왜 깨졌을까",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819342"
         }
       ]
     },
@@ -53,19 +141,19 @@
       "published": "Fri, 30 Oct 2026 07:10:00 -0700",
       "news": [
         {
-          "title": "김민, 90년 된 집 공개 후 '사생활 침해' 시달려…\"사람들 계속 찾아와\" ('나혼산')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/MZSGGNJYMQ3DCNDBGE4TANBSMU/"
+          "title": "김민, '나혼산' 조작 의혹 이어 사생활 침해 피해…집 공개 후폭풍 [N이슈]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6335823"
         },
         {
           "title": "김민, 동두천 주민 1500명 모인 운동회 참석…주민들과 완벽 동화된 '찐친 케미'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/HBSGMM3DMY3DKMZRGIZGGZJYGI/"
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/HFQWENZZGMYDIZBYMNRTSOBVMQ/"
         },
         {
-          "title": "“연출 의혹까지 나왔는데”…‘동두천 자연인’ 김민, 화제 속 ‘나혼산’ 재출격",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20107523"
+          "title": "김민, 90년 된 집에 소머리 장식? \"옆 동네에서 잡았다\" 경악 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103023383743930"
         }
       ]
     },
@@ -80,14 +168,14 @@
           "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335549"
         },
         {
-          "title": "경기도교육청 양주서 타운홀 미팅…옥정 과밀부터 서부권 교육 소외까지 집중 논의",
-          "source": "중부일보",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363740947"
-        },
-        {
           "title": "안민석, 중학교까지 생성형 AI 금지 방안 검토",
           "source": "SBS 뉴스",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821258"
+        },
+        {
+          "title": "경기도교육청 양주서 타운홀 미팅…옥정 과밀부터 서부권 교육 소외까지 집중 논의",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363740947"
         }
       ]
     },
@@ -107,9 +195,9 @@
           "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html"
         },
         {
-          "title": "Intel Shares Plunge as Memory Crunch Hits PC Chip Demand",
-          "source": "Seoul Economic Daily",
-          "url": "https://en.sedaily.com/international/2026/10/30/intel-shares-plunge-as-memory-crunch-hits-pc-chip-demand"
+          "title": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html"
         }
       ]
     },
@@ -119,107 +207,19 @@
       "published": "Fri, 30 Oct 2026 07:00:00 -0700",
       "news": [
         {
-          "title": "원안위원장, UAE·베트남 기관장 면담…협력 논의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030169600017"
+          "title": "한수원, ‘2026년 KHNP-EPRI 기계분야 통합 워크숍’ 개최",
+          "source": "전기저널",
+          "url": "https://www.keaj.kr/news/articleView.html?idxno=6424"
         },
         {
-          "title": "농축·재처리부터 美 원전 8기까지…경주에 모인 원자력계",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374104"
+          "title": "원자력안전기술원, 2026 원전 기기건전성 워크숍 개최",
+          "source": "일렉트릭파워",
+          "url": "https://www.epj.co.kr/news/articleView.html?idxno=39680"
         },
         {
-          "title": "“한국에서 함께 그린 원자력의 내일”…IAEA 원자력 장관회의 폐막",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261029000406"
-        }
-      ]
-    },
-    {
-      "title": "은마아파트",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 07:00:00 -0700",
-      "news": [
-        {
-          "title": "강남 은마 795㎡ 소유권 정태수 상속인에…\"재건축엔 지장 없어\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030179300004"
-        },
-        {
-          "title": "한보家와 소송 8건 얽힌 은마 … 분담금 '4억+α'로 늘어나나",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12191747"
-        },
-        {
-          "title": "법원 \"은마 땅 240평 정태수 상속인에\"…조합 \"토지 매입 전제로 사업 준비\"",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026103022070429604"
-        }
-      ]
-    },
-    {
-      "title": "에릭남",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 07:00:00 -0700",
-      "news": [
-        {
-          "title": "에릭남, 3년 만 본업 컴백…'더 시즌즈'서 'Psycho' 첫 무대",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261030000148"
-        },
-        {
-          "title": "에릭남, 오늘(30일) '더 시즌즈' 출격…성시경 만난다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/10/30/MMYDCMJSGE2WCOBVMNSDAZRVGA/"
-        },
-        {
-          "title": "에릭남, 항공사 마일리지 '어필'…\"결혼하면 퍼스트 타\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6336982"
-        }
-      ]
-    },
-    {
-      "title": "가을",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 06:50:00 -0700",
-      "news": [
-        {
-          "title": "오늘(금) 반짝 추위 풀려…오후부터 공기질 탁해져",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/weather/weather_view.php?s_mcd=1000&key=202610300641120001"
-        },
-        {
-          "title": "[날씨] 주말 낮부터 다시 '쌀쌀'…일요일 전국에 비",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20261030025500038?section=safe/video"
-        },
-        {
-          "title": "밤사이 약한 비에 내륙 짙은 안개…강원 동해안은 강풍 유의",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699960"
-        }
-      ]
-    },
-    {
-      "title": "전두환",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 06:40:00 -0700",
-      "news": [
-        {
-          "title": "\"조폭도 안 할 짓\"·\"폭언은 국민 모독\"‥또 김태규 배제 공방",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6862025_36911.html"
-        },
-        {
-          "title": "[오늘 여의도] 정치권도 깊은 애도",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1773778"
-        },
-        {
-          "title": "국힘 \"증인 막고 의혹 덮고 책임 피하는 게 민주당식 국감인가\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030086400001"
+          "title": "한국원자력안전기술원(KINS), 2026 원전 기기건전성 워크숍 개최",
+          "source": "에너지안전신문",
+          "url": "https://www.esnews.kr/news/articleView.html?idxno=7108"
         }
       ]
     }
