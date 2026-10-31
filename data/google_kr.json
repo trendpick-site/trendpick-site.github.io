@@ -1,225 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T07:55:04+00:00",
+  "fetched_at": "2026-10-31T08:47:54+00:00",
   "items": [
     {
-      "title": "광주 대 김천상무",
-      "approx_traffic": "1000+",
-      "published": "Fri, 30 Oct 2026 23:50:00 -0700",
-      "news": [
-        {
-          "title": "[현장목소리] ‘충전 완료’ 광주FC 중원의 한 축 유제호, “3선 MF 역할 처음인데 많이 적응”",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553662004"
-        },
-        {
-          "title": "김천상무, 광주 원정서 파이널 라운드 첫 승 정조준!",
-          "source": "데일리대구경북뉴스",
-          "url": "https://www.dailydgnews.com/news/article.html?no=267676"
-        },
-        {
-          "title": "‘세 번 비긴 광주, 이번엔 잡는다!’… 김천 상무, 박태준 등 ‘광주 출신’ 앞세워 승점 사냥 나선다",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313601"
-        }
-      ]
-    },
-    {
-      "title": "앤 트로픽",
-      "approx_traffic": "1000+",
-      "published": "Fri, 30 Oct 2026 23:50:00 -0700",
-      "news": [
-        {
-          "title": "앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지",
-          "source": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216846"
-        },
-        {
-          "title": "앤스로픽, 월 200달러 클로드 요금제 ‘5시간 제한’ 없앤다…밤샘 코딩 가능",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02050006645618496&mediaCodeNo=257"
-        },
-        {
-          "title": "클로드 맥스 20x, ‘울트라’로 변경…인증 계정은 5시간 제한 폐지",
-          "source": "AI 매터스",
-          "url": "https://aimatters.co.kr/news-report/58111/"
-        }
-      ]
-    },
-    {
-      "title": "정유시설",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 23:40:00 -0700",
-      "news": [
-        {
-          "title": "“사람들이 가게에 가고, 커피를 마시고, 거리를 걷는다”···러·우 국지 휴전으로 5년 만에 찾아온 일상",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610301651001"
-        },
-        {
-          "title": "\"우크라, 러 정유시설 공격 재개...트럼프 대놓고 무시\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202610310619567975_005.html"
-        },
-        {
-          "title": "러·우크라 국지휴전 나흘째 올레시키 고립 주민들 대피 시작",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030183300108"
-        }
-      ]
-    },
-    {
-      "title": "상장",
-      "approx_traffic": "100+",
-      "published": "Fri, 30 Oct 2026 23:40:00 -0700",
-      "news": [
-        {
-          "title": "“상장 첫날 던지라는 말이 맞나요”…한국증시 암울하게 하는 새내기주",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/stock/12192354"
-        },
-        {
-          "title": "[디깅노트] IPO 제도는 강화됐다는데 장밋빛 몸값은 여전하다",
-          "source": "블로터",
-          "url": "https://www.bloter.net/news/articleView.html?idxno=676994"
-        },
-        {
-          "title": "신규 상장사 10곳 중 8곳 손실권...NH·하나증권 주관 IPO 모두 공모가 미달",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353155"
-        }
-      ]
-    },
-    {
-      "title": "패딩",
-      "approx_traffic": "2000+",
-      "published": "Fri, 30 Oct 2026 23:20:00 -0700",
-      "news": [
-        {
-          "title": "“비싸고 칙칙한 롱패딩 누가 입어요?”…10대들, 스파오로 갈아탄 이유는? [잇슈#태그]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700466"
-        },
-        {
-          "title": "매출 320% 급증…입소문 탄 '등골 프로텍터'",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822203"
-        },
-        {
-          "title": "할인 안 해도 나오자마자 '불티'…요즘 잘 팔리는 겨울옷",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102943341"
-        }
-      ]
-    },
-    {
-      "title": "이서진",
-      "approx_traffic": "2000+",
-      "published": "Fri, 30 Oct 2026 23:10:00 -0700",
-      "news": [
-        {
-          "title": "무엇이든 해줄지니 - 비서진 : 이서진×하지원, 꿈에 그리던 F1 현장에서 직관하며 도파민 상승",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC482692081"
-        },
-        {
-          "title": "이서진X하지원, 23년 만 재회에 다정…“‘다모’ 다시 찍겠는데” (비서진)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261031/134942441/1"
-        },
-        {
-          "title": "‘시크릿가든’ 거품키스가 애드리브?..이서진, 김광규에 “큰일난다” 황당 (‘비서진’)[순간포착]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/MZRDKNJZMIZGMNZVGRSTKY3CGM/"
-        }
-      ]
-    },
-    {
-      "title": "일본",
-      "approx_traffic": "5000+",
-      "published": "Fri, 30 Oct 2026 23:00:00 -0700",
-      "news": [
-        {
-          "title": "North Korea says sanctions don't work to deny its status as nuclear weapons state",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/north-korea-says-sanctions-dont-work-deny-its-status-nuclear-weapons-state-2026-10-30/"
-        },
-        {
-          "title": "US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea"
-        },
-        {
-          "title": "United States-Japan-Republic of Korea (ROK) Trilateral Foreign Ministers’ Meeting",
-          "source": "U.S. Department of State (.gov)",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-japan-republic-of-korea-rok-trilateral-foreign-ministers-meeting-2"
-        }
-      ]
-    },
-    {
-      "title": "고발",
+      "title": "농협",
       "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 23:00:00 -0700",
+      "published": "Sat, 31 Oct 2026 00:40:00 -0700",
       "news": [
         {
-          "title": "‘8차 소환’ 김병기 “악의와 거짓으로 점철된 고발…수사 신속히 마무리해달라”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610311111001"
-        },
-        {
-          "title": "구속영장 반려 50일만에 소환된 김병기 \"무혐의 입증할 것\"",
+          "title": "강원농협, '2026 강원농협인 소통·공감 포럼' 원주서 개최",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261031023200004"
+          "url": "https://www.yna.co.kr/view/AKR20261030133700062"
         },
         {
-          "title": "김병기, 6개월 만에 경찰 재출석‥증거인멸 의혹 조사",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862168_36918.html"
+          "title": "[영상]고랭지 폐기 아픔 딛고…'강원농업인 소통·공감 포럼' 원주서 개최",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/article/2026103017133382927"
+        },
+        {
+          "title": "농협, 계열사 경영실적 점검…손익 부진 계열사 개선책 논의",
+          "source": "세계일보",
+          "url": "https://m.segye.com/view/20261030510426"
         }
       ]
     },
     {
-      "title": "르윈 디아즈",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 22:50:00 -0700",
+      "title": "현대이지웰",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 00:40:00 -0700",
       "news": [
         {
-          "title": "\"위선적인 사람들, 어떤 것도 요구하지 말라\" 디아즈, 도 넘은 악플 테러에 또 폭발했다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112901726"
+          "title": "340만명 사용 복지포인트 쇼핑몰 ‘현대이지웰’, 해킹으로 개인정보 유출",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146907"
         },
         {
-          "title": "'선 넘었다' 충격의 악플 테러, 결국 삼성 외인 또 폭발했다…\"내가 만난 사람 중 가장 위선적\"",
+          "title": "현대이지웰서 개인정보 유출 사고…사과문 게시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030179900030"
+        },
+        {
+          "title": "현대이지웰서 개인정보 유출 사고…“유출 규모 파악 중”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/10/30/IKHPXYQJXJEN3PFIXPEFAQVVJ4/"
+        }
+      ]
+    },
+    {
+      "title": "pak vs sl",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 00:40:00 -0700",
+      "news": [
+        {
+          "title": "Final (D/N), Lahore, October 31, 2026, Pakistan ODI Tri-Series",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-sri-lanka-final-1550719/live-cricket-score"
+        },
+        {
+          "title": "Ball by Ball Commentary & Live Score - NZ-A vs IND-A, 2nd unofficial Test",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/india-a-in-new-zealand-2026-27-1552526/new-zealand-a-vs-india-a-2nd-unofficial-test-1552530/ball-by-ball-commentary"
+        },
+        {
+          "title": "SA vs Aus 3rd Test - James Franklin explains why Australia chose to bowl",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/cricket-videos/sa-vs-aus-3rd-test-james-franklin-explains-why-australia-chose-to-bowl-1560809"
+        }
+      ]
+    },
+    {
+      "title": "노시환",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 00:30:00 -0700",
+      "news": [
+        {
+          "title": "’AG 금메달리스트’ 노시환, 미국 무대 도전…KBO, MLB 사무국에 포스팅 요청",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261031164121v5Z"
+        },
+        {
+          "title": "[단독] 한화 노시환, 포스팅 요청…MLB행 도전 시작",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824404"
+        },
+        {
+          "title": "307억원 잭팟 터뜨렸던 노시환, MLB 진출 공식화 ... 31일 포스팅 신청",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/31/MVSDGYRSMMZDOYLGMRSDEMZYGM/"
-        },
-        {
-          "title": "'충격' 삼성 선수 아내 향해 '입에 담을 수도 없는 욕설' 퍼부어 \"제 가족 향해 온갖 저주와 악담, 건강까지 나빠졌다... 강아지 3마리 모두 수술\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/2026103016491424653"
+          "url": "https://www.chosun.com/sports/baseball/2026/10/31/MNKGTNCY3FCOHFYTL4QPYSG3M4/"
         }
       ]
     },
     {
-      "title": "원자력 발전소",
+      "title": "amd",
       "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 22:50:00 -0700",
+      "published": "Sat, 31 Oct 2026 00:30:00 -0700",
       "news": [
         {
-          "title": "아프리카 48개국 러시아로 부른 푸틴…영향력 확대 나서",
+          "title": "Intel stock plunges nearly 29%, its worst day since 1974",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-29-its-worst-day-since-1974-205955309.html"
+        },
+        {
+          "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
+        },
+        {
+          "title": "Intel on course for worst day ever, triggers global chip rout",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/"
+        }
+      ]
+    },
+    {
+      "title": "가상자산",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 00:30:00 -0700",
+      "news": [
+        {
+          "title": "사상 최대 규모인 8조4000억원어치 암호화폐 털렸다...北소행 의심",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/10/31/C2B4ZCQE3NBYXMX2AJ5CGIP77I/"
+        },
+        {
+          "title": "바이낸스 해킹에 화들짝…코인 거래소 부랴부랴 보안 강화",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029211800099"
+          "url": "https://www.yna.co.kr/view/AKR20261031034500009"
         },
         {
-          "title": "나미비아 대통령과 회담하는 푸틴 대통령",
+          "title": "\"전 세계 가상화폐 탈취...북 외화벌이 절반\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610311459066363"
+        }
+      ]
+    },
+    {
+      "title": "남중국해",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 00:20:00 -0700",
+      "news": [
+        {
+          "title": "중국, 남중국해 앤털로프 암초 매립해 인공섬 조성… 초대형 군사기지화 나서",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261031/134942395/1"
+        },
+        {
+          "title": "中, 항공모함급 과학연구 인공섬 건설 추진…2030년 완공",
           "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261030_0002278678"
+          "url": "https://www.newsis.com/view/NISX20261028_0003845241"
         },
         {
-          "title": "푸틴의 아프리카 공세, 냉전 시절 소련의 재현",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280205"
+          "title": "\"7.4만t 항모급 인공섬 띄운다\"… 中, 세계 최초 '원해 부유식 과학섬' 착공",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026102814533775420c8c1c064d_1"
+        }
+      ]
+    },
+    {
+      "title": "hong kong vs pakistan",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 00:20:00 -0700",
+      "news": [
+        {
+          "title": "Plate, 2nd Semi-Final, Hong Kong International Sixes at Mong Kok, Oct 31 2026",
+          "source": "ESPN",
+          "url": "https://www.espn.com/cricket/series/8768/scorecard/1559208/hong-kong-vs-pakistan-plate-2nd-semi-final-hong-kong-international-sixes-2026-27"
+        },
+        {
+          "title": "Hong Kong International Sixes - ODI -",
+          "source": "Cricketnmore",
+          "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010835/hong-kong-international-sixes-1"
+        },
+        {
+          "title": "Hong Kong International Sixes - ODI -",
+          "source": "Cricketnmore",
+          "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010829/hong-kong-international-sixes-odi-1"
+        }
+      ]
+    },
+    {
+      "title": "주영진",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 00:10:00 -0700",
+      "news": [
+        {
+          "title": "[클로징] 주영진 앵커가 전하는 마지막 인사…\"시청자 여러분 고맙습니다\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823354"
+        },
+        {
+          "title": "주영진 앵커 마지막 인사 “SBS 뉴스 새롭게 바꾸는 일에 매진”",
+          "source": "미디어오늘",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338116"
+        },
+        {
+          "title": "[인사] 재정경제부 외",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/obituary-personnel/2026/10/24/QINEEIBNQFFX5KEDV5C62G6CWQ/"
+        }
+      ]
+    },
+    {
+      "title": "김주형",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 00:10:00 -0700",
+      "news": [
+        {
+          "title": "휴식 취한 김주형, PGA 투어 멕시코 오픈 첫날 67타 공동 22위",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699605"
+        },
+        {
+          "title": "김주형, PGA 투어 비단타월드 멕시코 오픈 2라운드 공동 26위…오구 플레이 2벌타 받아",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261031500254"
+        },
+        {
+          "title": "'오구 플레이 벌타' 김주형, 멕시코 오픈 2R 공동 26위",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031020300007"
         }
       ]
     }
