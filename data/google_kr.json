@@ -1,11 +1,99 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T20:46:55+00:00",
+  "fetched_at": "2026-10-31T21:39:12+00:00",
   "items": [
     {
+      "title": "삼성전자",
+      "approx_traffic": "5000+",
+      "published": "Sat, 31 Oct 2026 13:30:00 -0700",
+      "news": [
+        {
+          "title": "‘깜짝 방한’ 샘 올트먼 “AI 쓰는 세상에선 이거면 돼”···삼성 경영진에 전달한 선물은",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610311417001"
+        },
+        {
+          "title": "샘 올트먼 오픈AI CEO, 삼성·SK 회동…AI·반도체 협력 강화",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261031000056"
+        },
+        {
+          "title": "올트먼이 삼성 사장단에 선물한 30만원짜리 키보드는?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/10/31/REMJCRLSNJERXM6CUDKHFEH6MU/"
+        }
+      ]
+    },
+    {
+      "title": "김민재",
+      "approx_traffic": "2000+",
+      "published": "Sat, 31 Oct 2026 13:00:00 -0700",
+      "news": [
+        {
+          "title": "\"김민재가 더 잘한다\" 바이에른 주전 경쟁 판도 뒤집혔다...독일 국대 수비수 벤치 신세, 에이전트는 구단과 극비 회담",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112901786"
+        },
+        {
+          "title": "사타구니부상 '김민재, 마침내 복귀 임박!' 바이에른 벤치 돌아왔다…도르트문트전 출격 가능성 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311059776900O"
+        },
+        {
+          "title": "獨매체의 공식 인증, 바이에른 주전 센터백은 타 아닌 김민재! '속도에서 훨씬 앞서'...\"도르트문트-아틀레티코 2연전 선발 복귀할 듯\" 전망",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/31/GRSGCNRSHFRDQNBXMUYDSZJYHA/"
+        }
+      ]
+    },
+    {
+      "title": "barcelona vs alavés",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 12:50:00 -0700",
+      "news": [
+        {
+          "title": "Opción ‘Licha’ Martínez en el Atlético",
+          "source": "Diario AS",
+          "url": "https://as.com/futbol/internacional/opcion-licha-martinez-en-el-atletico-f202610-n/"
+        },
+        {
+          "title": "¿Se avecina la salida de Lisandro Martinez? El Barcelona estudia el sorprendente fichaje del defensa del Manchester United tras su encontronazo con Jason Wilcox",
+          "source": "Yahoo",
+          "url": "https://es-us.noticias.yahoo.com/deportes/avecina-salida-lisandro-martinez-barcelona-084016734.html"
+        },
+        {
+          "title": "Vídeo: Lamine Yamal responde a la decepción del Balón de Oro con un gol de misil",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/es-mx/noticias/video-lamine-yamal-responde-a-la-decepcion-del-balon-de-oro-con-un-gol-de-misil/bltfd7c2f69ac76cc13"
+        }
+      ]
+    },
+    {
+      "title": "lcs",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 12:50:00 -0700",
+      "news": [
+        {
+          "title": "Hanwha Lifee Sports Faces Bilibili in Quarterfinals Decider",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/31/JCTWETKKN5CAJIBSYU3RXP2NYQ/"
+        },
+        {
+          "title": "October 31, 2026: Bilibili Gaming vs. Hanwha Life Esports Esports Prediction Market",
+          "source": "Robinhood",
+          "url": "https://robinhood.com/us/en/prediction-markets/esports/events/bilibili-gaming-vs-hanwha-life-esports-oct-31-2026/"
+        },
+        {
+          "title": "Worlds 2026: LOS and HLE advance to the 2-2 bracket",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/articles/worlds-2026-los-and-hle-advance-to-the-2-2-bracket/en"
+        }
+      ]
+    },
+    {
       "title": "바르셀로나 대 알라베스",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sat, 31 Oct 2026 12:10:00 -0700",
       "news": [
         {
@@ -36,14 +124,36 @@
           "url": "https://www.bbc.com/sport/football/live/cr78pxn97j46t"
         },
         {
+          "title": "Real Betis vs. Málaga - Game Highlights",
+          "source": "ESPN",
+          "url": "https://www.espn.com/video/clip/_/id/50338660/real-betis-vs-malaga-game-highlights"
+        },
+        {
           "title": "🚨Confirmed XIs: Emotional Andalusian derby at La Cartuja",
           "source": "Yahoo Sports",
           "url": "https://sports.yahoo.com/articles/confirmed-xis-emotional-andalusian-derby-164000709.html"
+        }
+      ]
+    },
+    {
+      "title": "mkoi",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 11:30:00 -0700",
+      "news": [
+        {
+          "title": "CTBC Flying Oyster vs. Karmine Corp: Game 2 Winner",
+          "source": "Coinbase",
+          "url": "https://www.coinbase.com/predictions/event/KXLOLMAP-26OCT291900CFOKC-2"
         },
         {
-          "title": "Real Betis vs Malaga - Prediction, where to watch, kick-off time and line-ups 31-10-2026",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/betting/predictions/real-betis-vs-malaga-31-10-2026"
+          "title": "Europe's Survivor Is KC! Defeats MKOI to Advance to Quarterfinals",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/27979/europes-survivor-is-kc-defeats-mkoi-to-advance-to-quarterfinals"
+        },
+        {
+          "title": "Karmine Corp sweep CTBC Flying Oyster to eliminate last LCP team at Worlds 2026",
+          "source": "GINX TV",
+          "url": "https://www.ginx.tv/en/karmine-corp-sweep-ctbc-flying-oyster-to-eliminate-last-lcp-team-at-worlds-2026"
         }
       ]
     },
@@ -75,19 +185,19 @@
       "published": "Sat, 31 Oct 2026 11:00:00 -0700",
       "news": [
         {
-          "title": "\"韓 스타 또 기회 살렸다!\" 오현규, 투톱서도 결승골 작렬...튀르키예 매체도 반했다 \"주전 블라호비치, 더 큰 압박 느낄 거야\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/30/202610301444773989O"
-        },
-        {
-          "title": "손흥민 떠난 토트넘이 다시 한국인 골잡이 주목 \"잉글랜드에 완벽히 들어맞는 공격수\"…오현규, 블라호비치와 경쟁하더니 EPL도 주목",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016703"
-        },
-        {
-          "title": "‘韓 국대’ 오현규, 오는 1월 ‘프리미어리그 입성’ 토트넘 유니폼 입고 가능할까···“여름은 몰라도 겨울 이적...",
+          "title": "‘주먹 불끈!’ 손흥민 떠난 후 이런 경우 처음이다, 토트넘 ‘PL 20→8위’ 수직 상승, 2시즌 만에 ‘리그...",
           "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610301919003"
+          "url": "https://sports.khan.co.kr/article/202611010606003"
+        },
+        {
+          "title": "프리미어 리그 토트넘 대 크리스탈 팰리스 점수 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-tottenham-vs-crystal-palace-tai-premier-league-1792160.ldo"
+        },
+        {
+          "title": "“지금도 토트넘 그립다” 손흥민 친정 사랑 여전하네…토트넘 시절 회상하며 ‘3연승 기원’",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100127"
         }
       ]
     },
@@ -107,119 +217,9 @@
           "url": "https://news.mtn.co.kr/article/2026103016220346703"
         },
         {
-          "title": "엔씨 '아이온2', 일본서 3주 연속 판매 1위…유럽·남미서도 흥행",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610306269i"
-        }
-      ]
-    },
-    {
-      "title": "twitch",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 10:20:00 -0700",
-      "news": [
-        {
-          "title": "Twitch gains 4% to 4.51bn hours in Q3 as Kick grows 30.7%",
-          "source": "PPC Land",
-          "url": "https://ppc.land/twitch-gains-4-to-4-51bn-hours-in-q3-as-kick-grows-30-7/"
-        },
-        {
-          "title": "Inside Kai Cenat's Lifestyle: Streaming Success, Luxury Purchases And Career Beyond Twitch",
-          "source": "NDTV Sports",
-          "url": "https://sports.ndtv.com/us/us-streamers/inside-kai-cenats-lifestyle-streaming-success-luxury-purchases-and-his-career-beyond-twitch-12262568"
-        },
-        {
-          "title": "Kai Cenat Net Worth In 2026: Mafiathon Earnings, Brand Deals, YouTube Income, and More",
-          "source": "NDTV Sports",
-          "url": "https://sports.ndtv.com/us/us-streamers/kai-cenat-net-worth-in-2026-mafiathon-earnings-brand-deals-youtube-income-and-more-12255178"
-        }
-      ]
-    },
-    {
-      "title": "바이에른 대 도르트문트",
-      "approx_traffic": "5000+",
-      "published": "Sat, 31 Oct 2026 09:40:00 -0700",
-      "news": [
-        {
-          "title": "'김민재 선발! 요나탄 타는 벤치' 콤파니의 선택은 韓 철기둥이었다...바이에른, 도르트문트와 분데스리가 1위 놓고 정면충돌",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112902057"
-        },
-        {
-          "title": "[분데스·리뷰] 케인 ‘PK 실축’ 김민재 90분 풀타임···바이에른 뮌헨, ‘슈팅 23개’ 시도하고 도르트문트...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611010512003"
-        },
-        {
-          "title": "보루시아 도르트문트 vs 아인트라흐트 프랑크푸르트 예측: 선두 자리를 노릴 기회",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-borussia-dortmund-vs-eintracht-frankfurt-co-hoi-bam-duoi-ngoi-dau"
-        }
-      ]
-    },
-    {
-      "title": "헐 시티 대 입스위치",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 09:20:00 -0700",
-      "news": [
-        {
-          "title": "Hull City 2-2 Ipswich Town: Julio Enciso stunner salvages point for visitors",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cxq6nqml97e0t"
-        },
-        {
-          "title": "Match report and highlights - Hull 2-2 Ipswich",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13604902/hull-city-vs-ipswich-live-premier-league-match-updates-news-and-score"
-        },
-        {
-          "title": "Hull 2-2 Ipswich (Oct 31, 2026) Game Analysis",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/report/_/gameId/401878763"
-        }
-      ]
-    },
-    {
-      "title": "크리스타 파이크",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 09:10:00 -0700",
-      "news": [
-        {
-          "title": "'독극물 사형' 생존 美죄수 \"육체와 마음에 통증\"…재집행 거부",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261031047700009"
-        },
-        {
-          "title": "독극물 주입에도 살아남은 美 사형수…“몸·영혼에 깊은 상처”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261031580092"
-        },
-        {
-          "title": "“홀로 깨어난 후 매 순간이 고통” 약물 사형실패 女",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627774"
-        }
-      ]
-    },
-    {
-      "title": "npl",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 09:10:00 -0700",
-      "news": [
-        {
-          "title": "Waterlogged TU cricket ground (photos)",
-          "source": "OnlineKhabar English News",
-          "url": "https://english.onlinekhabar.com/waterlogged-tu-cricket-ground.html"
-        },
-        {
-          "title": "Match Predictions: Nepal Premier League 2026 - Lumbini Lions vs Chitwan Rhinos - Sudurpaschim Royals vs Biratnagar Kings - 31st October",
-          "source": "Cricket World",
-          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-lumbini-lions-vs-chitwan-rhinos-sudurpaschim-royals-vs-biratnagar-kings-31st-october/114116.htm"
-        },
-        {
-          "title": "विराटनगर किंग्स Sets 106-Run Target for सुदूरपश्चिम रोयल्स",
-          "source": "Ratopati",
-          "url": "https://english.ratopati.com/story/85272/biratnagar-kings-scored-105-runs-in-five-overs"
+          "title": "\"덜어낼수록 더 모였다\"…K- MMORPG 시장, 공식을 바꾸니 흥행한다",
+          "source": "인더스트리뉴스",
+          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88512"
         }
       ]
     }
