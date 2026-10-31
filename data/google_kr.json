@@ -1,49 +1,137 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T16:12:20+00:00",
+  "fetched_at": "2026-10-31T16:46:43+00:00",
   "items": [
     {
-      "title": "man city vs brighton",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 08:00:00 -0700",
+      "title": "조현아",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 08:30:00 -0700",
       "news": [
         {
-          "title": "Premier League: Brighton lead Man City, Coventry 2-0 up, Ipswich winning",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cm2l8lx5k1zvt"
+          "title": "‘17kg 감량’ 조현아, 턱선부터 다른 사람 됐네..운동복 셀카도 당당 “예뻐”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/MJSGGNZYGYYTAMDDMFSWCOLGMY/"
         },
         {
-          "title": "Coventry vs Sunderland LIVE! Premier League match updates, news and score",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13604898/coventry-vs-sunderland-live-premier-league-match-updates-news-and-score"
+          "title": "어반자카파 조현아, 야외 결혼식장에서 전한 단정 미소",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264671"
         },
         {
-          "title": "Score Predictions: Can Sunderland Start Climbing The Table At The CBS?",
-          "source": "Roker Report",
-          "url": "https://rokerreport.sbnation.com/features/157707/score-predictions-can-sunderland-start-climbing-the-table-at-the-cbs"
+          "title": "조현아, 17kg 감량 효과가 이 정도?…'얼굴 반쪽' 된 운동복 셀카",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-31/202610310100199670014206"
         }
       ]
     },
     {
-      "title": "ali",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 07:50:00 -0700",
+      "title": "jonas brothers",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 08:30:00 -0700",
       "news": [
         {
-          "title": "‘Ali G: Who Iz I?’ Review: A Bit Too Tired for This Media Age",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/28/movies/ali-g-who-iz-i-review.html"
+          "title": "Nick Jonas Says Former Disney CEO Bob Iger ‘Was Among the First to Reach Out’ When the Jonas Brothers Reunited in 2019",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/nick-jonas-says-former-disney-201500948.html"
         },
         {
-          "title": "Sacha Baron Cohen’s ‘Ali G: Who Iz I?’ is exactly what the stuffy world of comedy needs",
-          "source": "New York Post",
-          "url": "https://nypost.com/2026/10/31/opinion/ali-g-will-save-the-stuffy-world-of-comedy/"
+          "title": "Bob Iger Stresses Value of Communal Cultural Experiences in World “Rife With Disruption and Polarization” at PAC NYC Icons of Culture Gala",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/mickey-mouse-new-greatest-showman-stage-song-bob-iger-event-1236743795/"
         },
         {
-          "title": "Sacha Baron Cohen's New 'Ali G' Movie Sets Prime Video Streaming Date Just 1 Week After Release",
-          "source": "IMDb",
-          "url": "https://www.imdb.com/news/ni66087714/?ref_=nmnw_art_perm"
+          "title": "Bob Iger Receives PAC Icon of Culture Award with Tributes from Josh D’Amaro & Nick Jonas",
+          "source": "WDW News Today",
+          "url": "https://wdwnt.com/2026/10/bob-iger-receives-pac-icon-of-culture-award-with-tributes-from-josh-damaro-nick-jonas/"
+        }
+      ]
+    },
+    {
+      "title": "맨시티",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 08:10:00 -0700",
+      "news": [
+        {
+          "title": "마레스카, “우리는 올바른 방향으로 가고 있다”",
+          "source": "Manchester City FC",
+          "url": "https://kr.mancity.com/news/mens/enzo-maresca-brighton-premier-league-preview-63928984"
+        },
+        {
+          "title": "[맨시티 브라이튼] 선제골 기뻐하는 어린 팬",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738582"
+        },
+        {
+          "title": "승리한 동료들 축하하는 엘링 홀란",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261029_0002276922"
+        }
+      ]
+    },
+    {
+      "title": "스완지 시티 대 블랙번",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 08:10:00 -0700",
+      "news": [
+        {
+          "title": "Swansea City v Blackburn Rovers: Championship stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cq74p3w8z0jrt"
+        },
+        {
+          "title": "Mowbray expects Swans to be wounded animal",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/mowbray-expects-swans-wounded-animal-143301394.html"
+        },
+        {
+          "title": "Preview | Swansea City v Blackburn Rovers",
+          "source": "Swansea City",
+          "url": "https://www.swanseacity.com/news/preview-swansea-city-v-blackburn-rovers-6"
+        }
+      ]
+    },
+    {
+      "title": "한화 blg",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 08:10:00 -0700",
+      "news": [
+        {
+          "title": "[롤드컵] 추첨 운도 지독하게 없다…한화생명, 빌리빌리와 8강행 결정짓는 '단두대 매치'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/31/GM4TKNJWMM4TGOJVMNQTENLGGA/"
+        },
+        {
+          "title": "\"픽·게임 플랜 세밀 수정\", '제우스' 최우제가 말하는 '파괴전차'의 부활",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112902002"
+        },
+        {
+          "title": "‘TLAW 대신 G2, KC 대신 BLG’…지독한 한화생명의 ‘대진운’, ‘2026 MSI 결승 리매치’ 성사!",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610310957003"
+        }
+      ]
+    },
+    {
+      "title": "man city vs brighton",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 08:00:00 -0700",
+      "news": [
+        {
+          "title": "Premier League: Brighton lead Man City, Coventry, Brentford and Bournemouth in front",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cm2l8lx5k1zvt"
+        },
+        {
+          "title": "Preview: Bournemouth vs Leeds United - prediction, team news, lineups",
+          "source": "Sports Mole",
+          "url": "https://www.sportsmole.co.uk/football/bournemouth/preview/bournemouth-vs-leeds-prediction-team-news-lineups_607929.html"
+        },
+        {
+          "title": "B'mouth vs Leeds LIVE! Premier League match updates, news and score",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/13606127/bournemouth-vs-leeds-live-premier-league-match-updates-news-and-score"
         }
       ]
     },
@@ -65,24 +153,24 @@
       ]
     },
     {
-      "title": "맨 시티 대 브라이턴",
-      "approx_traffic": "5000+",
-      "published": "Sat, 31 Oct 2026 07:40:00 -0700",
+      "title": "ali",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 07:50:00 -0700",
       "news": [
         {
-          "title": "Bournemouth vs Leeds United: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cq5ynj2r87rpt"
+          "title": "Michael B. Jordan, Omari Hardwick and More Stars’ Shoes at ‘The Greatest’ Premiere",
+          "source": "WWD",
+          "url": "https://wwd.com/footwear-news/shoe-trends/gallery/michael-b-jordan-the-greatest-premiere-photos-1239389533/"
         },
         {
-          "title": "Man City vs. Brighton LIVE: Premier League updates as in-form sides face off",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/50335782/premier-league-latest-updates-scores-results-commentary"
+          "title": "The Greatest review: Prime Video series about Cassius Clay is a knockout",
+          "source": "Roger Ebert",
+          "url": "https://www.rogerebert.com/reviews/the-greatest-muhammad-ali-prime-video-tv-review-2026"
         },
         {
-          "title": "Man City vs Brighton LIVE! Premier League match updates, news and score",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13604905/man-city-vs-brighton-live-premier-league-match-updates-news-and-score"
+          "title": "Jaalen Best Wanted to Be a Pro Athlete. Now He’s Playing ‘The Greatest’ Boxer Onscreen",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/jaalen-best-the-greatest-muhammad-ali-career-interview-1236737670/"
         }
       ]
     },
@@ -92,129 +180,41 @@
       "published": "Sat, 31 Oct 2026 07:40:00 -0700",
       "news": [
         {
-          "title": "[영역:young域]미제 사건 18만건의 행방",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026103008444444470"
-        },
-        {
           "title": "김정철 \"중수청·공소청 출범, 지금 완전히 카오스\"",
           "source": "OhmyNews",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280052"
         },
         {
-          "title": "법무법인 세종, 새로운 형사사법 체계의 이해와 대응전략 세미나 성료 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/29/2026102909205792688"
+          "title": "[영역:young域]미제 사건 18만건의 행방",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026103008444444470"
+        },
+        {
+          "title": "공소청 검사, '0심 판사' 되나…검사 출신 변호사 '덩달아 주목'",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6598070"
         }
       ]
     },
     {
-      "title": "묀헨글라트바흐 대 파더보른",
-      "approx_traffic": "100+",
+      "title": "맨 시티 대 브라이턴",
+      "approx_traffic": "5000+",
       "published": "Sat, 31 Oct 2026 07:40:00 -0700",
       "news": [
         {
-          "title": "Chelsea 2-0 Man Utd (Oct 31, 2026) Team Stats",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401879248"
-        },
-        {
-          "title": "Jeremy Fowler: Interest in Jonathan Taylor is 'heavy' and 'real'",
-          "source": "ESPN",
-          "url": "https://www.espn.co.uk/video/clip/_/id/50336119/interest-jonathan-taylor-heavy-real"
-        },
-        {
-          "title": "Chelsea 2-0 Man Utd (Oct 31, 2026) Player Stats",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/player-stats/_/gameId/401879248"
-        }
-      ]
-    },
-    {
-      "title": "광규",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 07:30:00 -0700",
-      "news": [
-        {
-          "title": "김광규, 드디어 서울에 ‘내 집’ 마련…“28년 걸렸네” 뭉클",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261031/134942827/1"
-        },
-        {
-          "title": "김광규, 유재석·하하까지 네 명의 전담 비서 거느린다…‘놀면 뭐하니?’ VIP 하루의 반전",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845810"
-        },
-        {
-          "title": "“아이찡입니다” 주우재 성대모사+허경환 짧은 발차기… A2O LITE 저격 ‘AZ2O’ 결성(놀면 뭐하니)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610312119003"
-        }
-      ]
-    },
-    {
-      "title": "브렌트퍼드 대 노팅엄 포레스트",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 07:30:00 -0700",
-      "news": [
-        {
-          "title": "Brentford vs Nottingham Forest LIVE! Premier League match updates, news and score",
+          "title": "Man City vs Brighton LIVE! Premier League match updates, news and score",
           "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13604894/brentford-vs-nottingham-forest-live-premier-league-match-updates-news-and-score"
+          "url": "https://www.skysports.com/football/live-blog/13604905/man-city-vs-brighton-live-premier-league-match-updates-news-and-score"
         },
         {
-          "title": "Brentford v Nottingham Forest team news: Carvalho out until after international break",
-          "source": "Brentford FC",
-          "url": "https://www.brentfordfc.com/en/news/first-team-brentford-v-nottingham-forest-team-news-fabio-carvalho-injury"
+          "title": "City only missing Semenyo ahead of Brighton clash",
+          "source": "Manchester City FC",
+          "url": "https://www.mancity.com/news/mens/enzo-maresca-brighton-squad-update-63928963"
         },
         {
-          "title": "Brentford vs Nottingham Forest: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cwzd68v5yl4zt"
-        }
-      ]
-    },
-    {
-      "title": "빅터 레이예스",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 07:10:00 -0700",
-      "news": [
-        {
-          "title": "롯데 이동욱 감독 취임식 \"스마트한 야구로 가을야구 도전\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610312322589063"
-        },
-        {
-          "title": "이택근 단장 의미심장 고백 \"제가 은퇴식을 못했습니다\" 롯데가 흔쾌히 허락해준 속사정 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/01/2026103115241229561"
-        },
-        {
-          "title": "롯데 새 사령탑 취임…9년 암흑기 끊어낼까?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700583"
-        }
-      ]
-    },
-    {
-      "title": "기상",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 07:00:00 -0700",
-      "news": [
-        {
-          "title": "엔비전의 톈지 기상 파운데이션 모델, ECMWF AI 웨더 퀘스트 1위로 물리-AI 융합 예측의 새로운 글로벌 기준 제시",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261031121003"
-        },
-        {
-          "title": "[영상] 베트남 남부의 우기가 평소보다 보름 일찍 끝났습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/video-mua-mua-o-nam-bo-ket-thuc-som-nua-thang"
-        },
-        {
-          "title": "기상 예보에 따르면 베트남 남부의 우기는 11월 중순에 끝날 것으로 예상됩니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/du-bao-giua-thang-11-nam-bo-ket-thuc-mua-mua"
+          "title": "Ayari stuns Man City to give Brighton early lead",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/videos/ayari-stuns-man-city-brighton-153019358.html"
         }
       ]
     }
