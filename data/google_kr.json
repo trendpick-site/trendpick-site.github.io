@@ -1,7 +1,7 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T19:41:50+00:00",
+  "fetched_at": "2026-10-31T20:12:30+00:00",
   "items": [
     {
       "title": "레알 베티스 대 말라가",
@@ -9,19 +9,19 @@
       "published": "Sat, 31 Oct 2026 11:30:00 -0700",
       "news": [
         {
+          "title": "Hull vs. Ipswich (Oct 31, 2026) Team Stats",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401878763"
+        },
+        {
           "title": "St. Louis vs. San Diego (Oct 31, 2026) Team Stats",
           "source": "ESPN",
           "url": "https://www.espn.com/soccer/team-stats/_/gameId/761926/league/usa.1"
         },
         {
-          "title": "Trail Blazers vs. Jazz (31 Oct, 2026) Live Score",
+          "title": "Allan Saint-Maximin gets on the scoresheet for Charlotte FC",
           "source": "ESPN",
-          "url": "https://africa.espn.com/nba/game/_/gameId/401909896"
-        },
-        {
-          "title": "Hull vs. Ipswich (Oct 31, 2026) Team Stats",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401878763"
+          "url": "https://www.espn.com/video/clip/_/id/50338082/allan-saint-maximin-gets-scoresheet-charlotte-fc"
         }
       ]
     },
@@ -41,9 +41,9 @@
           "url": "https://www.skysports.com/football/news/13604412/premier-league-predictions-and-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more"
         },
         {
-          "title": "Van Hecke doubles Spurs' lead; Brighton stun City; United lose again",
+          "title": "Crystal Palace’s Jean-Philippe Mateta sent off for reckless tackle in Tottenham clash",
           "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/van-hecke-doubles-spurs-lead-brighton-stun-city-united-lose-again-43702098"
+          "url": "https://onefootball.com/en/news/crystal-palaces-jean-philippe-mateta-sent-off-for-reckless-tackle-in-tottenham-clash-43704395"
         }
       ]
     },
@@ -70,6 +70,28 @@
       ]
     },
     {
+      "title": "바이에른 뮌헨",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 11:00:00 -0700",
+      "news": [
+        {
+          "title": "\"김민재가 더 잘한다\" 바이에른 주전 경쟁 판도 뒤집혔다...독일 국대 수비수 벤치 신세, 에이전트는 구단과 극비 회담",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112901786"
+        },
+        {
+          "title": "사타구니부상 '김민재, 마침내 복귀 임박!' 바이에른 벤치 돌아왔다…도르트문트전 출격 가능성 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311059776900O"
+        },
+        {
+          "title": "獨매체의 공식 인증, 바이에른 주전 센터백은 타 아닌 김민재! '속도에서 훨씬 앞서'...\"도르트문트-아틀레티코 2연전 선발 복귀할 듯\" 전망",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/31/GRSGCNRSHFRDQNBXMUYDSZJYHA/"
+        }
+      ]
+    },
+    {
       "title": "트위치",
       "approx_traffic": "200+",
       "published": "Sat, 31 Oct 2026 10:40:00 -0700",
@@ -92,8 +114,30 @@
       ]
     },
     {
-      "title": "twitch",
+      "title": "ngoại hạng anh",
       "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 10:30:00 -0700",
+      "news": [
+        {
+          "title": "Kết quả bóng đá Man City - Brighton: Đánh sập Etihad (Ngoại hạng Anh)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-man-city-brighton-danh-sap-etihad-ngoai-hang-anh-c48a1807376.html"
+        },
+        {
+          "title": "Man City thua trận thứ hai liên tiếp ở Ngoại hạng Anh",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/man-city-thua-tran-thu-hai-lien-tiep-o-ngoai-hang-anh-5139255.html"
+        },
+        {
+          "title": "Dự đoán kết quả và đội hình ra sân trận Man City vs Brighton",
+          "source": "VOV.VN",
+          "url": "https://vov.vn/the-thao/du-doan-ket-qua-va-doi-hinh-ra-san-tran-man-city-vs-brighton-post1346001.vov"
+        }
+      ]
+    },
+    {
+      "title": "twitch",
+      "approx_traffic": "200+",
       "published": "Sat, 31 Oct 2026 10:20:00 -0700",
       "news": [
         {
@@ -102,14 +146,14 @@
           "url": "https://ppc.land/twitch-gains-4-to-4-51bn-hours-in-q3-as-kick-grows-30-7/"
         },
         {
-          "title": "Inside Kai Cenat's Lifestyle: Streaming Success, Luxury Purchases And Career Beyond Twitch",
-          "source": "NDTV Sports",
-          "url": "https://sports.ndtv.com/us/us-streamers/inside-kai-cenats-lifestyle-streaming-success-luxury-purchases-and-his-career-beyond-twitch-12262568"
+          "title": "'Elden Ring' Will Be Biggest Movie At A Market, Amazon Joins A24 Film",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/10/elden-ring-biggest-movie-on-sale-market-amazon-joins-a24-1237201368/"
         },
         {
-          "title": "Kai Cenat Net Worth In 2026: Mafiathon Earnings, Brand Deals, YouTube Income, and More",
-          "source": "NDTV Sports",
-          "url": "https://sports.ndtv.com/us/us-streamers/kai-cenat-net-worth-in-2026-mafiathon-earnings-brand-deals-youtube-income-and-more-12255178"
+          "title": "Forget 'The Winds of Winter,' George R. R. Martin's New Epic Fantasy Is Reportedly A24’s Most Expensive Movie Yet",
+          "source": "IMDb",
+          "url": "https://www.imdb.com/news/ni66087624/?ref_=nmnw_art_perm"
         }
       ]
     },
@@ -141,19 +185,19 @@
       "published": "Sat, 31 Oct 2026 09:20:00 -0700",
       "news": [
         {
-          "title": "Hull City 2-2 Ipswich: Stunning Julio Enciso strike earns visitors point as Tigers' winless run extends to seven games",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/13606108/hull-city-2-2-ipswich-stunning-julio-enciso-strike-earns-visitors-point-as-tigers-winless-run-extends-to-seven-games"
-        },
-        {
-          "title": "Premier League: Sergej Jakirovic post match interview",
+          "title": "Hull City 2-2 Ipswich Town: Julio Enciso stunner salvages point for visitors",
           "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/videos/ck0e0y180z90o"
+          "url": "https://www.bbc.com/sport/football/live/cxq6nqml97e0t"
         },
         {
           "title": "Analysis: Missed opportunity for both sides?",
           "source": "Yahoo Sports",
           "url": "https://sports.yahoo.com/articles/analysis-missed-opportunity-both-sides-175121974.html"
+        },
+        {
+          "title": "Hull 2-2 Ipswich (Oct 31, 2026) Game Analysis",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401878763"
         }
       ]
     },
@@ -176,50 +220,6 @@
           "title": "“홀로 깨어난 후 매 순간이 고통” 약물 사형실패 女",
           "source": "문화일보",
           "url": "https://www.munhwa.com/article/11627774"
-        }
-      ]
-    },
-    {
-      "title": "npl",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 09:10:00 -0700",
-      "news": [
-        {
-          "title": "Waterlogged TU cricket ground (photos)",
-          "source": "OnlineKhabar English News",
-          "url": "https://english.onlinekhabar.com/waterlogged-tu-cricket-ground.html"
-        },
-        {
-          "title": "Match Predictions: Nepal Premier League 2026 - Lumbini Lions vs Chitwan Rhinos - Sudurpaschim Royals vs Biratnagar Kings - 31st October",
-          "source": "Cricket World",
-          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-lumbini-lions-vs-chitwan-rhinos-sudurpaschim-royals-vs-biratnagar-kings-31st-october/114116.htm"
-        },
-        {
-          "title": "विराटनगर किंग्स Sets 106-Run Target for सुदूरपश्चिम रोयल्स",
-          "source": "Ratopati",
-          "url": "https://english.ratopati.com/story/85272/biratnagar-kings-scored-105-runs-in-five-overs"
-        }
-      ]
-    },
-    {
-      "title": "조현아",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 08:30:00 -0700",
-      "news": [
-        {
-          "title": "‘17kg 감량’ 조현아, 턱선부터 다른 사람 됐네..운동복 셀카도 당당 “예뻐”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/MJSGGNZYGYYTAMDDMFSWCOLGMY/"
-        },
-        {
-          "title": "어반자카파 조현아, 야외 결혼식장에서 전한 단정 미소",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264671"
-        },
-        {
-          "title": "조현아, 17kg 감량 효과가 이 정도?…'얼굴 반쪽' 된 운동복 셀카",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-31/202610310100199670014206"
         }
       ]
     }
