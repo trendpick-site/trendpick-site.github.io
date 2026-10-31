@@ -1,8 +1,206 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T11:14:08+00:00",
+  "fetched_at": "2026-10-31T12:12:19+00:00",
   "items": [
+    {
+      "title": "하수도",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 03:50:00 -0700",
+      "news": [
+        {
+          "title": "거제 계룡로·통영 봉평동 ‘하수도 정비’ 920억 투입",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699537"
+        },
+        {
+          "title": "충남도, 아산·서산·부여 침수 예방에 1650억 투입… 배수시설 대수술",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353535"
+        },
+        {
+          "title": "[인천소식] 계양구, 1천168억원 규모 하수도 정비사업 추진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030140200065"
+        }
+      ]
+    },
+    {
+      "title": "국",
+      "approx_traffic": "1000+",
+      "published": "Sat, 31 Oct 2026 03:40:00 -0700",
+      "news": [
+        {
+          "title": "바이낸스 8조4천억 원 해킹 피해…“북한이 배후”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700100"
+        },
+        {
+          "title": "사상 최대 규모인 8조4000억원어치 암호화폐 털렸다...北소행 의심",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/10/31/C2B4ZCQE3NBYXMX2AJ5CGIP77I/"
+        },
+        {
+          "title": "17분 만에 8조 4천억 원 털었다…\"치밀\" 또 지목된 정체",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824452"
+        }
+      ]
+    },
+    {
+      "title": "동행",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 03:40:00 -0700",
+      "news": [
+        {
+          "title": "수원문화재단, 수원시 동네 37곳서 무료 문화프로그램 39개 운영",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3444685"
+        },
+        {
+          "title": "수원문화재단, 우리 동네 문화여행 월간 동행공간 '문화 프리(free) 패스' 운영",
+          "source": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=800417"
+        },
+        {
+          "title": "수원문화재단, 동네 문화공간 37곳서 무료 문화여행…‘문화 프리패스’ 운영",
+          "source": "중앙뉴스타임스",
+          "url": "https://www.jnewstimes.com/news/article.html?no=769717"
+        }
+      ]
+    },
+    {
+      "title": "문동주",
+      "approx_traffic": "1000+",
+      "published": "Sat, 31 Oct 2026 03:30:00 -0700",
+      "news": [
+        {
+          "title": "내일 없는 삼성·KIA 마운드 총력전…기다리는 kt만 미소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030029900007"
+        },
+        {
+          "title": "“(김)도영이와 승부하고 싶었다” 승리에도 아쉬운 원태인, 4차전 생애 첫 연투 각오 “내가 최후의 보루” - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/202610301046773411O"
+        },
+        {
+          "title": "\"대구 찍고 수원 간다\" 벼랑 끝에서도 희망 잃지 않은 나성범, KS 원정 짐까지 챙겼다 [PO4]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/30/GE3GCZBQMI3TKMTCGQ2TSNTCGA/"
+        }
+      ]
+    },
+    {
+      "title": "로스앤젤레스 fc",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 03:30:00 -0700",
+      "news": [
+        {
+          "title": "\"손흥민, 약속해 놓고 아직도 안 지켰다!\" 日 레전드 요시다 마야, 공개 불만 폭발…대체 무슨 일?",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015955"
+        },
+        {
+          "title": "'손흥민 골 취소' LAFC, LA더비서 2-2 무승부…PO 출전권은 확보",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261026084300007"
+        },
+        {
+          "title": "\"내 골은 인정됐어야 했어!\" 손흥민, 논란의 판정에 결국 입 열었다...VAR에도 득점 취소 \"조금 실망스러워\"",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553661844"
+        }
+      ]
+    },
+    {
+      "title": "나는 solo",
+      "approx_traffic": "1000+",
+      "published": "Sat, 31 Oct 2026 03:20:00 -0700",
+      "news": [
+        {
+          "title": "'나솔' 34기 공무원 영철, 뜬금 학력 논란…\"거짓말한 것도 아닌데\"[이슈S]",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016401"
+        },
+        {
+          "title": "“언니들 정신 차려!” 데이트 후 깊어지는 여자들의 고민 #나는솔로 EP.277ㅣSBS PLUS X ENAㅣ수요일 밤 10시 30분",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638951"
+        },
+        {
+          "title": "‘나는 솔로’ 정숙, 영호 정리하고 광수로…34기 러브라인 재편",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261029/134929531/1"
+        }
+      ]
+    },
+    {
+      "title": "gs리테일",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 03:20:00 -0700",
+      "news": [
+        {
+          "title": "GS리테일, 국가보훈부와 협약…유공자 지원 확대",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030028000030"
+        },
+        {
+          "title": "보훈부와 손잡고 ‘일상 속 보훈’ 확산",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261029/134928168/2"
+        },
+        {
+          "title": "GS리테일 '나라사랑 활동', 보훈 사회공헌사업으로 확대",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261030_0003847749"
+        }
+      ]
+    },
+    {
+      "title": "김광규",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 03:20:00 -0700",
+      "news": [
+        {
+          "title": "김광규, 드디어 서울에 ‘내 집’ 마련…“28년 걸렸네” 뭉클",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261031/134942827/1"
+        },
+        {
+          "title": "VIP 호위? 유재석, 김광규 수발든다…“오늘은 광규형 하고 싶은 거 다 해 주자”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20108266"
+        },
+        {
+          "title": "김광규, 탈모 때문에 헤딩 자제 \"족구에서 져 본 적이 없어\"('놀면뭐하니')",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/HA3DEMTDG4ZWGYRWGFSGMNZUMU/"
+        }
+      ]
+    },
+    {
+      "title": "블리치",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "After 10 Years, Bleach Creator Finally Reveals Orihime's Alternate Death Route",
+          "source": "IMDb",
+          "url": "https://www.imdb.com/news/ni66086640/?ref_=ttnw_art_perm"
+        },
+        {
+          "title": "Bleach’s Creator Almost Killed Off Orihime in the Manga’s Original Ending",
+          "source": "ComicBook.com",
+          "url": "https://comicbook.com/anime/news/bleachs-creator-almost-killed-off-orihime-in-the-mangas-original-ending/"
+        },
+        {
+          "title": "BLEACH Creator Reveals Storyline Where Orihime Dies Was Once Considered",
+          "source": "Japan Anime News",
+          "url": "https://us.oricon-group.com/news/9445/"
+        }
+      ]
+    },
     {
       "title": "이승기",
       "approx_traffic": "200+",
@@ -22,204 +220,6 @@
           "title": "‘채널 개설’ 이승기, 김종민 ‘행사 지각’ 폭로…”똥 싸러 가서 5분 동안 안 나와” [RE:뷰]",
           "source": "TV리포트",
           "url": "https://tvreport.co.kr/entertainment/article/1087375/"
-        }
-      ]
-    },
-    {
-      "title": "블리치",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "Bleach Anime Concludes After 22 Years with Special Ending Video",
-          "source": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/news/latest/2026/10/26/bleach-anime-concludes-after-22-years-with-special-ending-video"
-        },
-        {
-          "title": "After 20 Years, ‘Bleach’ Has Come to an Elegant, Exhausting, Fitting Finale",
-          "source": "Gizmodo",
-          "url": "https://gizmodo.com/bleach-thousand-year-blood-war-series-finale-review-anime-tybw-2000831759"
-        },
-        {
-          "title": "'BLEACH' Creator Tite Kubo: Blood, Sweat, Tears, and Ink (Cover Story)",
-          "source": "Hypebeast",
-          "url": "https://hypebeast.com/2026/10/tite-kubo-bleach-hypebeast-magazine-issue-38-cover-story"
-        }
-      ]
-    },
-    {
-      "title": "기온",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 03:10:00 -0700",
-      "news": [
-        {
-          "title": "[날씨] 내일(토) 새벽에 중부 비…서울 한낮 14℃에 그쳐",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/weather/weather_view.php?s_mcd=1000&key=202610301510080002"
-        },
-        {
-          "title": "일요일 전국에 가을비…다음주 아침 기온 0도까지 ‘뚝’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/10/31/47RFMCXPQNG75EKV3GYDAT25CU/"
-        },
-        {
-          "title": "전국 맑다가 밤부터 차차 흐려져…낮 최고 14∼21도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261031017400530"
-        }
-      ]
-    },
-    {
-      "title": "첼시 맨유",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 03:00:00 -0700",
-      "news": [
-        {
-          "title": "말 그대로 '초대형 호재'...맨유 '성골유스 MF' 부상 복귀→첼시전 출전 예정! 여전히 캐릭 신뢰, \"진심으로 싸우고 싶은 선수\"",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026102913083210826"
-        },
-        {
-          "title": "8경기 연속 못 이기면서 열차는 7분 지연시킨 맨유의 원정길… 분노한 팬들의 야유 세례, 캐릭 감독에게만 환호",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313616"
-        },
-        {
-          "title": "프리미어 리그 9라운드 경기 일정: 리버풀과 아스널, 맨체스터 유나이티드와 첼시의 맞대결.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/lich-ngoai-hang-anh-vong-9-liverpool-dai-chien-arsenal-mu-gap-chelsea"
-        }
-      ]
-    },
-    {
-      "title": "온라인 산사",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 03:00:00 -0700",
-      "news": [
-        {
-          "title": "\"방구석 누워 108배로 힐링\"…사흘간 60만명 다녀간 온라인 산사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261031034300005"
-        },
-        {
-          "title": "\"출근 전에 절 가서 108배\"…하루 10만명 몰린 사찰 어디길래 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/30/2026103011042983806"
-        },
-        {
-          "title": "요즘은 절도 온라인으로…하루 10만 명 찾은 ’가상 사찰’",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030161626APu"
-        }
-      ]
-    },
-    {
-      "title": "싱가포르",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 03:00:00 -0700",
-      "news": [
-        {
-          "title": "안산 청년 창업기업 7곳, 싱가포르서 투자·구매 의향서 체결… 해외시장 진출 모색",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3444767"
-        },
-        {
-          "title": "부산 스타트업 4개사, 싱가포르 혁신기술 전시회서 해외시장 진출 모색",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261030500434"
-        },
-        {
-          "title": "안산시, 청년 창업기업 해외 진출 지원…싱가포르서 교류 프로그램 진행",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738456"
-        }
-      ]
-    },
-    {
-      "title": "재건축",
-      "approx_traffic": "2000+",
-      "published": "Sat, 31 Oct 2026 02:50:00 -0700",
-      "news": [
-        {
-          "title": "재건축 아파트값 '억' 소리나게 떨어져…몸테크 열풍 끝? [이슬기의 새집다오]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102938986"
-        },
-        {
-          "title": "은마 30억선도 흔들 … 강남 재건축 매물 쌓인다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12191748"
-        },
-        {
-          "title": "압구정 재건축은 수십억 낮춰 거래…강남권 기축은 신고가",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/realestate/general/6336651"
-        }
-      ]
-    },
-    {
-      "title": "매매",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 02:50:00 -0700",
-      "news": [
-        {
-          "title": "내놔도 안 팔리는 서울 아파트…매물 8만건 육박",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02450166645618496&mediaCodeNo=257"
-        },
-        {
-          "title": "집주인 호가 안 낮춰서 집값 오르나?...\"그런 요인도 있지만...\" [Y녹취록]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202610311900181788"
-        },
-        {
-          "title": "서울 노원구(蘆原區) · '26년 10월 부동산 흐름 (서울 +8.54% 앞지른 노원 +11.98% — 거래 +56.9%인데 84㎡ 중위가는 8.29억 제자리)",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/plaform/bg/contents/261031081821198is"
-        }
-      ]
-    },
-    {
-      "title": "광주 fc 대 김천상무 순위",
-      "approx_traffic": "5000+",
-      "published": "Sat, 31 Oct 2026 02:40:00 -0700",
-      "news": [
-        {
-          "title": "'승강 PO 열린다' 김천, 최소 11위 확보...'김인균-아이데일 장군멍군' 광주와 1-1 무승부",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/31/MI4DQOBXMQYTQZJSMUZTMZDEMU/"
-        },
-        {
-          "title": "[프로축구] 김천, 광주와 1-1…최하위 면해 '승강 PO' 개최 확정",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261031000087"
-        },
-        {
-          "title": "이정규 광주FC 감독 \"반 흐룬스벤 내전근 근육 찢어진 듯…병원서 정밀 검사 필요\"",
-          "source": "남도일보",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=927777"
-        }
-      ]
-    },
-    {
-      "title": "김태희",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 02:30:00 -0700",
-      "news": [
-        {
-          "title": "김태희 드레스가 화제를 모은 진짜 이유",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_sn/0117_202610300858270159"
-        },
-        {
-          "title": "김태희, 외모 악플 무색하네…직접 공개한 사진 보니",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261026/134912721/1"
-        },
-        {
-          "title": "47세 김태희, 때아닌 외모 악플 세례…\"저 나이에 이런 미모 가능?\" 갑론을박 [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/GQZTINBQMY4GMMTBMYZTQNBYGM/"
         }
       ]
     }
