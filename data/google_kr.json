@@ -1,8 +1,179 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T15:14:22+00:00",
+  "fetched_at": "2026-10-31T16:12:20+00:00",
   "items": [
+    {
+      "title": "man city vs brighton",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 08:00:00 -0700",
+      "news": [
+        {
+          "title": "Premier League: Brighton lead Man City, Coventry 2-0 up, Ipswich winning",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cm2l8lx5k1zvt"
+        },
+        {
+          "title": "Coventry vs Sunderland LIVE! Premier League match updates, news and score",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/13604898/coventry-vs-sunderland-live-premier-league-match-updates-news-and-score"
+        },
+        {
+          "title": "Score Predictions: Can Sunderland Start Climbing The Table At The CBS?",
+          "source": "Roker Report",
+          "url": "https://rokerreport.sbnation.com/features/157707/score-predictions-can-sunderland-start-climbing-the-table-at-the-cbs"
+        }
+      ]
+    },
+    {
+      "title": "ali",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 07:50:00 -0700",
+      "news": [
+        {
+          "title": "‘Ali G: Who Iz I?’ Review: A Bit Too Tired for This Media Age",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/28/movies/ali-g-who-iz-i-review.html"
+        },
+        {
+          "title": "Sacha Baron Cohen’s ‘Ali G: Who Iz I?’ is exactly what the stuffy world of comedy needs",
+          "source": "New York Post",
+          "url": "https://nypost.com/2026/10/31/opinion/ali-g-will-save-the-stuffy-world-of-comedy/"
+        },
+        {
+          "title": "Sacha Baron Cohen's New 'Ali G' Movie Sets Prime Video Streaming Date Just 1 Week After Release",
+          "source": "IMDb",
+          "url": "https://www.imdb.com/news/ni66087714/?ref_=nmnw_art_perm"
+        }
+      ]
+    },
+    {
+      "title": "카를로스 알카라스",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 07:50:00 -0700",
+      "news": [
+        {
+          "title": "[비엔나 오픈] 알카라스 '좋았어!'",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738138"
+        },
+        {
+          "title": "[비엔나 오픈] 라켓 던지는 토미 폴",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738150"
+        }
+      ]
+    },
+    {
+      "title": "맨 시티 대 브라이턴",
+      "approx_traffic": "5000+",
+      "published": "Sat, 31 Oct 2026 07:40:00 -0700",
+      "news": [
+        {
+          "title": "Bournemouth vs Leeds United: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cq5ynj2r87rpt"
+        },
+        {
+          "title": "Man City vs. Brighton LIVE: Premier League updates as in-form sides face off",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50335782/premier-league-latest-updates-scores-results-commentary"
+        },
+        {
+          "title": "Man City vs Brighton LIVE! Premier League match updates, news and score",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/13604905/man-city-vs-brighton-live-premier-league-match-updates-news-and-score"
+        }
+      ]
+    },
+    {
+      "title": "고소",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 07:40:00 -0700",
+      "news": [
+        {
+          "title": "[영역:young域]미제 사건 18만건의 행방",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026103008444444470"
+        },
+        {
+          "title": "김정철 \"중수청·공소청 출범, 지금 완전히 카오스\"",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280052"
+        },
+        {
+          "title": "법무법인 세종, 새로운 형사사법 체계의 이해와 대응전략 세미나 성료 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/29/2026102909205792688"
+        }
+      ]
+    },
+    {
+      "title": "묀헨글라트바흐 대 파더보른",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 07:40:00 -0700",
+      "news": [
+        {
+          "title": "Chelsea 2-0 Man Utd (Oct 31, 2026) Team Stats",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401879248"
+        },
+        {
+          "title": "Jeremy Fowler: Interest in Jonathan Taylor is 'heavy' and 'real'",
+          "source": "ESPN",
+          "url": "https://www.espn.co.uk/video/clip/_/id/50336119/interest-jonathan-taylor-heavy-real"
+        },
+        {
+          "title": "Chelsea 2-0 Man Utd (Oct 31, 2026) Player Stats",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/player-stats/_/gameId/401879248"
+        }
+      ]
+    },
+    {
+      "title": "광규",
+      "approx_traffic": "1000+",
+      "published": "Sat, 31 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "김광규, 드디어 서울에 ‘내 집’ 마련…“28년 걸렸네” 뭉클",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261031/134942827/1"
+        },
+        {
+          "title": "김광규, 유재석·하하까지 네 명의 전담 비서 거느린다…‘놀면 뭐하니?’ VIP 하루의 반전",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845810"
+        },
+        {
+          "title": "“아이찡입니다” 주우재 성대모사+허경환 짧은 발차기… A2O LITE 저격 ‘AZ2O’ 결성(놀면 뭐하니)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610312119003"
+        }
+      ]
+    },
+    {
+      "title": "브렌트퍼드 대 노팅엄 포레스트",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 07:30:00 -0700",
+      "news": [
+        {
+          "title": "Brentford vs Nottingham Forest LIVE! Premier League match updates, news and score",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/13604894/brentford-vs-nottingham-forest-live-premier-league-match-updates-news-and-score"
+        },
+        {
+          "title": "Brentford v Nottingham Forest team news: Carvalho out until after international break",
+          "source": "Brentford FC",
+          "url": "https://www.brentfordfc.com/en/news/first-team-brentford-v-nottingham-forest-team-news-fabio-carvalho-injury"
+        },
+        {
+          "title": "Brentford vs Nottingham Forest: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cwzd68v5yl4zt"
+        }
+      ]
+    },
     {
       "title": "빅터 레이예스",
       "approx_traffic": "200+",
@@ -19,37 +190,15 @@
           "url": "https://www.mt.co.kr/sports/2026/11/01/2026103115241229561"
         },
         {
-          "title": "\"경험 부족 인정, 외부 영입 필요하면 설득할 것\"...'초보 프런트' 인정, '단장' 이택근의 행보 기대만발 [오!쎈 부산]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/31/MMZDCNDBMQ3WMNTGMRSTCMZXMM/"
-        }
-      ]
-    },
-    {
-      "title": "닥터 x",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 07:00:00 -0700",
-      "news": [
-        {
-          "title": "[다시보기] 닥터X : 하얀 마피아의 시대 7회",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/drama/doctorx/vod/88585/22000638997"
-        },
-        {
-          "title": "'암살자(들)' 인기 여전한데... 행사 꺼리는 극장 3사의 속사정",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003280243"
-        },
-        {
-          "title": "김지원, 끌어안는 '소아암 투병' 아이에 얼떨떨 표정...아픈 과거사 있었다 ('닥터X')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/HFRDCYTBMEYWIYLEGZRDGNDGGA/"
+          "title": "롯데 새 사령탑 취임…9년 암흑기 끊어낼까?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700583"
         }
       ]
     },
     {
       "title": "기상",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 31 Oct 2026 07:00:00 -0700",
       "news": [
         {
@@ -66,144 +215,6 @@
           "title": "기상 예보에 따르면 베트남 남부의 우기는 11월 중순에 끝날 것으로 예상됩니다.",
           "source": "Vietnam.vn",
           "url": "https://www.vietnam.vn/ko/du-bao-giua-thang-11-nam-bo-ket-thuc-mua-mua"
-        }
-      ]
-    },
-    {
-      "title": "아우크스부르크 대 sc 프라이부르크",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 06:50:00 -0700",
-      "news": [
-        {
-          "title": "Which SEC team benefits from being off in Week 9?",
-          "source": "ESPN",
-          "url": "https://www.espn.com/video/clip/_/id/50336093/which-sec-team-benefits-being-week-9"
-        },
-        {
-          "title": "Jeremy Fowler: Interest in Jonathan Taylor is 'heavy' and 'real'",
-          "source": "ESPN",
-          "url": "https://www.espn.co.uk/video/clip/_/id/50336119/interest-jonathan-taylor-heavy-real"
-        },
-        {
-          "title": "Bruno Fernandes returns to Man United XI for Chelsea clash",
-          "source": "ESPN",
-          "url": "https://africa.espn.com/football/story/_/id/50334951/bruno-fernandes-returns-man-united-xi-chelsea-clash"
-        }
-      ]
-    },
-    {
-      "title": "알리 광군제",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 06:50:00 -0700",
-      "news": [
-        {
-          "title": "알리, 광군제 내달 1일 개막…110원에 '모델 Y' 응모 이벤트",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029067600030"
-        },
-        {
-          "title": "알리익스프레스, '110원 전기차•쿠폰 추첨'에 최대 80% 할인…11.11 광군제 11월 1일 개막",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/ALSX20261029_0000008016"
-        },
-        {
-          "title": "알리익스프레스, 광군제 내달 1일 시작…최대 80% 할인·테슬라 경품",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261029171849"
-        }
-      ]
-    },
-    {
-      "title": "明日の天気",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 06:50:00 -0700",
-      "news": []
-    },
-    {
-      "title": "샬케 대 라이프치히",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 06:40:00 -0700",
-      "news": [
-        {
-          "title": "대기심·팀닥터 밀친 황희찬, 선수단에 공식 사과…'매우 반성'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261031_0003849290"
-        },
-        {
-          "title": "\"황희찬, 자신의 잘못 충분히 인정\" 샬케 감독 공개 질책...주치의 밀친 논란에 전 선수단 앞에서 규율 강조 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311126773772O"
-        },
-        {
-          "title": "\"황희찬, 매우 반성하는 모습 보였어\" 심판+의료진 밀친 韓국대 '돌발행동', 퇴장-중징계 모두 피했다...라이프치히전 출전할 듯",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/31/MRSTENRXMFTDGZJXG5SDEOJWGM/"
-        }
-      ]
-    },
-    {
-      "title": "челси – манчестер юнайтед",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 06:20:00 -0700",
-      "news": [
-        {
-          "title": "«Челси» одержал победу над «Манчестер Юнайтед» в матче чемпионата Англии",
-          "source": "Sportbox",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/spbnews_NI2381452_Chelsi_oderzhal_pobedu_nad_Manchester_Junajted_v_matche_chempionata_Anglii"
-        },
-        {
-          "title": "\"Юнайтед\" проиграл в гостях у \"Челси\"",
-          "source": "FAPL.ru",
-          "url": "https://fapl.ru/posts/125385/"
-        },
-        {
-          "title": "«Челси» — «Манчестер Юнайтед»: онлайн-трансляция матча АПЛ начнётся в 15:30 мск",
-          "source": "https://www.championat.ru/",
-          "url": "https://www.championat.ru/football/news-6679652-chelsi-manchester-yunajted-onlajn-translyaciya-matcha-apl-2026-2027-nachnyotsya-v-15-30-msk.html"
-        }
-      ]
-    },
-    {
-      "title": "김유정",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 06:10:00 -0700",
-      "news": [
-        {
-          "title": "천재 의사 김지원·밀정 김유정…흥행 이끄는 열연",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031102704jv6"
-        },
-        {
-          "title": "생존이 우선인 ‘MZ 여주’와 독립이 사명인 ‘항일운동가’의 독립운동 여성서사 [플랫]",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610301439001"
-        },
-        {
-          "title": "익숙한 장르, 한끗 다른 설정",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261030/134935940/2"
-        }
-      ]
-    },
-    {
-      "title": "levante vs atlético",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 06:00:00 -0700",
-      "news": [
-        {
-          "title": "'El zapatazo de Lee Kang-in con la izquierda' Debuta como titular y golpea el palo... Aun así, el Atlético gana 2-0 → Supera al Barcelona y se corona líder de la liga",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/es/sports/2026/10/31/2026103122234454314"
-        },
-        {
-          "title": "El regreso de Etta Eyong marca el once del Levante ante un Atlético con Giuliano Simeone",
-          "source": "HolaNews",
-          "url": "https://holanews.com/el-regreso-de-etta-eyong-marca-el-once-del-levante-ante-un-atletico-con-giuliano-simeone/"
-        },
-        {
-          "title": "+⛔❤️(Ａｑｕｉ ｅｓｔａ En Ｄｉｒｅｃｔｏ)@$!)] Alavés v Barcelona partido inaugural en vivo directo 31 de Octubre 2026",
-          "source": "Port of Rotterdam",
-          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3Byb3B1dGxvY2tlci5naXRodWIuaW8vYmFuYW5hcHJvL2ZpbGU1LnhtbCIvPjwva3JwYW5vPg==&id=alav%C3%A9s-v-barcelona-liv-en-hoy-dzn-1982-jztzb26566"
         }
       ]
     }
