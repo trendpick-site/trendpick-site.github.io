@@ -1,8 +1,80 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T04:48:38+00:00",
+  "fetched_at": "2026-10-31T05:45:16+00:00",
   "items": [
+    {
+      "title": "어벤져스: 둠스데이",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 21:40:00 -0700",
+      "news": [
+        {
+          "title": "‘엑스맨 프로페서X’ 패트릭 스튜어트, 치매 투병끝 하늘나라로",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261030/134937204/1"
+        },
+        {
+          "title": "'엑스맨' 프로페서X 하늘나라로…배우 패트릭 스튜어트 별세",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030010200075"
+        },
+        {
+          "title": "‘프로페서 X’와 ‘국민 아버지’…시대의 얼굴들이 떠났다 [현장영상]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699902"
+        }
+      ]
+    },
+    {
+      "title": "전북 대 대전",
+      "approx_traffic": "2000+",
+      "published": "Fri, 30 Oct 2026 21:20:00 -0700",
+      "news": []
+    },
+    {
+      "title": "인도네시아",
+      "approx_traffic": "200+",
+      "published": "Fri, 30 Oct 2026 21:00:00 -0700",
+      "news": [
+        {
+          "title": "조현, 인도네시아와 외교장관회담…전략적소통 강화 논의",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030081400504"
+        },
+        {
+          "title": "김희상 셰르파, G20 정상회의 대비 차원 인도네시아 셰르파 면담",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6336823"
+        },
+        {
+          "title": "한-인도네시아 외교장관 회담(10.29.) 결과",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=454267"
+        }
+      ]
+    },
+    {
+      "title": "bangladesh vs west indies",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 21:00:00 -0700",
+      "news": [
+        {
+          "title": "BAN vs WI Cricket Scorecard, 1st Test at Dhaka, October 28 - November 01, 2026",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/full-scorecard"
+        },
+        {
+          "title": "Bangladesh in deep trouble on day-3",
+          "source": "The Express Tribune",
+          "url": "https://tribune.com.pk/story/2637786/bangladesh-in-deep-trouble-on-day-3"
+        },
+        {
+          "title": "Spinners torment both sides as Bangladesh struggle in Mirpur",
+          "source": "Daily Sun",
+          "url": "https://www.daily-sun.com/sports/906231/spinners-torment-both-sides-as-bangladesh-struggle-in-mirpur"
+        }
+      ]
+    },
     {
       "title": "jtbc",
       "approx_traffic": "200+",
@@ -17,7 +89,7 @@
     },
     {
       "title": "이지현",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Fri, 30 Oct 2026 20:10:00 -0700",
       "news": [
         {
@@ -65,19 +137,19 @@
       "published": "Fri, 30 Oct 2026 19:50:00 -0700",
       "news": [
         {
-          "title": "India suffer second straight defeat in Hong Kong Sixes",
-          "source": "BDCricTime",
-          "url": "https://bdcrictime.com/india-suffer-second-straight-defeat-in-hong-kong-sixes"
-        },
-        {
-          "title": "India vs UAE, Hong Kong Sixes Highlights: UAE defeats IND by six wickets",
-          "source": "Sportstar",
-          "url": "https://sportstar.thehindu.com/cricket/india-vs-uae-hong-kong-sixes-live-score-updates-highlights-commentary/article71648091.ece"
-        },
-        {
           "title": "UAE:97/0 (4.2) | Live Cricket Score | UAE vs IND | hk sixes 2026 | Cricket Scoreboard",
           "source": "NDTV Sports",
           "url": "https://sports.ndtv.com/cricket/uae-vs-ind-scorecard-live-cricket-score-hong-kong-sixes-2026-match-12-uain10312026275383"
+        },
+        {
+          "title": "United Arab Emirates vs India Live Cricket Score:: Match 12 Full Scorecard & Commentary",
+          "source": "Firstpost",
+          "url": "https://www.firstpost.com/firstcricket/cricket-live-score/india-vs-united-arab-emirates-s6-live-cricket-score-full/15828/275383.html"
+        },
+        {
+          "title": "India vs UAE: After Pakistan loss, Krunal Pandya's men suffer another Hong Kong Sixes 2026 defeat; Afghanistan win",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/sports/cricket-news/india-vs-uae-after-pakistan-loss-krunal-pandyas-men-suffer-another-hong-kong-sixes-2026-defeat-afghanistan-win-11793421134657.html"
         }
       ]
     },
@@ -122,94 +194,6 @@
           "title": "2027년 공휴일 총정리, 연차 언제 쓰면 좋을까?",
           "source": "잡플래닛",
           "url": "https://www.jobplanet.co.kr/contents/news-8549?referrer=newsroom"
-        }
-      ]
-    },
-    {
-      "title": "warriors vs lakers",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 19:40:00 -0700",
-      "news": [
-        {
-          "title": "Preview: Warriors welcome Lakers in rematch of opening night",
-          "source": "Golden State Of Mind",
-          "url": "https://www.goldenstateofmind.com/general/113079/preview-warriors-welcome-lakers-in-rematch-of-opening-night"
-        },
-        {
-          "title": "Lakers make final decision on Ziaire Williams for Friday's game",
-          "source": "Lakers Wire",
-          "url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/10/30/lakers-make-final-decision-on-ziaire-williams-for-fridays-game/92524282007/"
-        },
-        {
-          "title": "Los Angeles Lakers vs. Golden State Warriors Live NBA Updates, Scores and Highlights",
-          "source": "Bleacher Report",
-          "url": "https://bleacherreport.com/liveblogs/25527370-los-angeles-lakers-vs-golden-state-warriors-live-nba-updates-scores-and-highlights"
-        }
-      ]
-    },
-    {
-      "title": "ins",
-      "approx_traffic": "100+",
-      "published": "Fri, 30 Oct 2026 19:40:00 -0700",
-      "news": [
-        {
-          "title": "Watch: Rafale Marine lands on INS Vikrant; Navy tests French jet in major milestone",
-          "source": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/news/watch-rafale-marine-lands-on-ins-vikrant-navy-tests-french-jet-in-major-milestone/articleshow/135357716.cms"
-        },
-        {
-          "title": "French Fighter Lands on Indian Carrier as Integration Begins",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-30/french-fighter-lands-on-indian-carrier-as-intergation-begins"
-        },
-        {
-          "title": "Video | Rafale News | Rafale Fighter Jet Touches Down On INS Vikrant In Major Milestone For Indian Navy",
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/video/rafale-fighter-jet-touches-down-on-ins-vikrant-in-major-milestone-for-indian-navy-1183150"
-        }
-      ]
-    },
-    {
-      "title": "르브론 제임스",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 19:30:00 -0700",
-      "news": [
-        {
-          "title": "NBA 필라델피아, '3쿼터 0-17' 열세 딛고 극적 뒤집기…맥시 27점",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/basketball/6336248"
-        },
-        {
-          "title": "디펜딩 챔피언 또 꺾었다! '릅신' 르브론 20득점 9R 8AS→필라델피아, 뉴욕 제압→동부 콘퍼런스 공동 선두",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026103112435258273"
-        },
-        {
-          "title": "\"구단에 압박 좀…\" 트리플 더블 후에도 못 뛴다, 엠비드 DET전 결장 이유는?",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202610260002"
-        }
-      ]
-    },
-    {
-      "title": "nba",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 19:30:00 -0700",
-      "news": [
-        {
-          "title": "Jayson Tatum News: Solid all-around effort Friday",
-          "source": "RotoWire",
-          "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-solid-all-around-effort-friday-536895"
-        },
-        {
-          "title": "Celtics Turn Bulls’ Turnovers Into A Two-Game Nightmare",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/celtics-turn-bulls-turnovers-two-032555610.html"
-        },
-        {
-          "title": "Giddey's Bulls cop another NBA loss, Giannis heating up",
-          "source": "The Canberra Times",
-          "url": "https://www.canberratimes.com.au/story/9383464/giddeys-bulls-cop-another-nba-loss-giannis-heating-up/"
         }
       ]
     }
