@@ -1,8 +1,168 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T14:40:44+00:00",
+  "fetched_at": "2026-10-31T15:14:22+00:00",
   "items": [
+    {
+      "title": "빅터 레이예스",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 07:10:00 -0700",
+      "news": [
+        {
+          "title": "롯데 이동욱 감독 취임식 \"스마트한 야구로 가을야구 도전\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610312322589063"
+        },
+        {
+          "title": "이택근 단장 의미심장 고백 \"제가 은퇴식을 못했습니다\" 롯데가 흔쾌히 허락해준 속사정 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/01/2026103115241229561"
+        },
+        {
+          "title": "\"경험 부족 인정, 외부 영입 필요하면 설득할 것\"...'초보 프런트' 인정, '단장' 이택근의 행보 기대만발 [오!쎈 부산]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/31/MMZDCNDBMQ3WMNTGMRSTCMZXMM/"
+        }
+      ]
+    },
+    {
+      "title": "닥터 x",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 07:00:00 -0700",
+      "news": [
+        {
+          "title": "[다시보기] 닥터X : 하얀 마피아의 시대 7회",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/drama/doctorx/vod/88585/22000638997"
+        },
+        {
+          "title": "'암살자(들)' 인기 여전한데... 행사 꺼리는 극장 3사의 속사정",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003280243"
+        },
+        {
+          "title": "김지원, 끌어안는 '소아암 투병' 아이에 얼떨떨 표정...아픈 과거사 있었다 ('닥터X')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/HFRDCYTBMEYWIYLEGZRDGNDGGA/"
+        }
+      ]
+    },
+    {
+      "title": "기상",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 07:00:00 -0700",
+      "news": [
+        {
+          "title": "엔비전의 톈지 기상 파운데이션 모델, ECMWF AI 웨더 퀘스트 1위로 물리-AI 융합 예측의 새로운 글로벌 기준 제시",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261031121003"
+        },
+        {
+          "title": "[영상] 베트남 남부의 우기가 평소보다 보름 일찍 끝났습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/video-mua-mua-o-nam-bo-ket-thuc-som-nua-thang"
+        },
+        {
+          "title": "기상 예보에 따르면 베트남 남부의 우기는 11월 중순에 끝날 것으로 예상됩니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/du-bao-giua-thang-11-nam-bo-ket-thuc-mua-mua"
+        }
+      ]
+    },
+    {
+      "title": "아우크스부르크 대 sc 프라이부르크",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 06:50:00 -0700",
+      "news": [
+        {
+          "title": "Which SEC team benefits from being off in Week 9?",
+          "source": "ESPN",
+          "url": "https://www.espn.com/video/clip/_/id/50336093/which-sec-team-benefits-being-week-9"
+        },
+        {
+          "title": "Jeremy Fowler: Interest in Jonathan Taylor is 'heavy' and 'real'",
+          "source": "ESPN",
+          "url": "https://www.espn.co.uk/video/clip/_/id/50336119/interest-jonathan-taylor-heavy-real"
+        },
+        {
+          "title": "Bruno Fernandes returns to Man United XI for Chelsea clash",
+          "source": "ESPN",
+          "url": "https://africa.espn.com/football/story/_/id/50334951/bruno-fernandes-returns-man-united-xi-chelsea-clash"
+        }
+      ]
+    },
+    {
+      "title": "알리 광군제",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 06:50:00 -0700",
+      "news": [
+        {
+          "title": "알리, 광군제 내달 1일 개막…110원에 '모델 Y' 응모 이벤트",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029067600030"
+        },
+        {
+          "title": "알리익스프레스, '110원 전기차•쿠폰 추첨'에 최대 80% 할인…11.11 광군제 11월 1일 개막",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/ALSX20261029_0000008016"
+        },
+        {
+          "title": "알리익스프레스, 광군제 내달 1일 시작…최대 80% 할인·테슬라 경품",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261029171849"
+        }
+      ]
+    },
+    {
+      "title": "明日の天気",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 06:50:00 -0700",
+      "news": []
+    },
+    {
+      "title": "샬케 대 라이프치히",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "대기심·팀닥터 밀친 황희찬, 선수단에 공식 사과…'매우 반성'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261031_0003849290"
+        },
+        {
+          "title": "\"황희찬, 자신의 잘못 충분히 인정\" 샬케 감독 공개 질책...주치의 밀친 논란에 전 선수단 앞에서 규율 강조 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311126773772O"
+        },
+        {
+          "title": "\"황희찬, 매우 반성하는 모습 보였어\" 심판+의료진 밀친 韓국대 '돌발행동', 퇴장-중징계 모두 피했다...라이프치히전 출전할 듯",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/31/MRSTENRXMFTDGZJXG5SDEOJWGM/"
+        }
+      ]
+    },
+    {
+      "title": "челси – манчестер юнайтед",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 06:20:00 -0700",
+      "news": [
+        {
+          "title": "«Челси» одержал победу над «Манчестер Юнайтед» в матче чемпионата Англии",
+          "source": "Sportbox",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/spbnews_NI2381452_Chelsi_oderzhal_pobedu_nad_Manchester_Junajted_v_matche_chempionata_Anglii"
+        },
+        {
+          "title": "\"Юнайтед\" проиграл в гостях у \"Челси\"",
+          "source": "FAPL.ru",
+          "url": "https://fapl.ru/posts/125385/"
+        },
+        {
+          "title": "«Челси» — «Манчестер Юнайтед»: онлайн-трансляция матча АПЛ начнётся в 15:30 мск",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6679652-chelsi-manchester-yunajted-onlajn-translyaciya-matcha-apl-2026-2027-nachnyotsya-v-15-30-msk.html"
+        }
+      ]
+    },
     {
       "title": "김유정",
       "approx_traffic": "500+",
@@ -27,183 +187,23 @@
     },
     {
       "title": "levante vs atlético",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sat, 31 Oct 2026 06:00:00 -0700",
       "news": [
         {
-          "title": "🚨 Julián in, Cuti out of Levante-Atlético de Madrid starting XIs",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/juli-n-cuti-levante-atl-115200040.html"
-        },
-        {
-          "title": "¿Cómo ver el partido Levante vs Atlético de Madrid en TV y streaming?",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/es-us/como-ver-el-partido-levante-vs-atletico-de-madrid-en-tv-y-streaming"
+          "title": "'El zapatazo de Lee Kang-in con la izquierda' Debuta como titular y golpea el palo... Aun así, el Atlético gana 2-0 → Supera al Barcelona y se corona líder de la liga",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/es/sports/2026/10/31/2026103122234454314"
         },
         {
           "title": "El regreso de Etta Eyong marca el once del Levante ante un Atlético con Giuliano Simeone",
-          "source": "Yahoo",
-          "url": "https://es-us.noticias.yahoo.com/deportes/regreso-etta-eyong-marca-once-130105827.html"
-        }
-      ]
-    },
-    {
-      "title": "w",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 05:40:00 -0700",
-      "news": [
-        {
-          "title": "Remembering Robert W. Liehr of Southampton",
-          "source": "Dan’s Papers",
-          "url": "https://www.danspapers.com/2026/10/robert-w-liehr-of-southampton/"
+          "source": "HolaNews",
+          "url": "https://holanews.com/el-regreso-de-etta-eyong-marca-el-once-del-levante-ante-un-atletico-con-giuliano-simeone/"
         },
         {
-          "title": "PRESEC benefits from W Sports International sponsorship",
-          "source": "Modern Ghana",
-          "url": "https://www.modernghana.com/news/1540709/presec-benefits-from-w-sports-international-sponso.html"
-        },
-        {
-          "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
-        }
-      ]
-    },
-    {
-      "title": "원샷한솔",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 05:30:00 -0700",
-      "news": [
-        {
-          "title": "“같은 도움, 전혀 다른 반응” 시각장애인 유튜버 원샷한솔이 대전에서 준 울림",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610310039003"
-        },
-        {
-          "title": "혼자 성심당 찾은 시각장애인…직원과 시민들이 건넨 따뜻한 손길",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003849063"
-        },
-        {
-          "title": "“눈물 납니다”…혼자 성심당 찾은 시각장애인에게 벌어진 일",
-          "source": "이데일리TV",
-          "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=06464886645618168&Kind=257"
-        }
-      ]
-    },
-    {
-      "title": "레반테 대 아틀레티코",
-      "approx_traffic": "20000+",
-      "published": "Sat, 31 Oct 2026 05:00:00 -0700",
-      "news": [
-        {
-          "title": "\"이강인 선발 출격\" 시메오네의 선택 받았다...아틀레티코, '선두 바르셀로나 추격' 레반테전 6연승 도전 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311657776878O"
-        },
-        {
-          "title": "‘3호 골 조준’ 이강인, 부상 털고 2G 연속 선발 출전→투톱 출격 전망",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261031/134942882/1"
-        },
-        {
-          "title": "AT마드리드 이강인, 3호골 정조준…레반테전 선발 출격",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261031_0003849426"
-        }
-      ]
-    },
-    {
-      "title": "로또1248",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 05:00:00 -0700",
-      "news": [
-        {
-          "title": "로또 1248회 당첨번호 ‘16·18·27·36·38·42’…1등 당첨금 19억",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610312055001"
-        },
-        {
-          "title": "1248회 로또 1등 15명…당첨금 각 19억3천만원(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261031047300002"
-        },
-        {
-          "title": "[오늘 로또]1,248회 로또 1등 15명 …당첨금 19억3천만원",
-          "source": "남도일보",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=927779"
-        }
-      ]
-    },
-    {
-      "title": "스토크 시티 대 프레스턴 노스 엔드",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 05:00:00 -0700",
-      "news": [
-        {
-          "title": "Stoke City v Preston North End: Championship stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cm3wvl4qx774t"
-        },
-        {
-          "title": "Stoke City vs Preston LIVE! Championship match updates, score, stream and free highlights",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13605475/stoke-city-vs-preston-live-championship-match-updates-score-stream-and-free-highlights"
-        },
-        {
-          "title": "Stoke City trio closing in on returns to action",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/stoke-city-trio-closing-returns-155900631.html"
-        }
-      ]
-    },
-    {
-      "title": "dewa united vs persija jakarta",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 05:00:00 -0700",
-      "news": []
-    },
-    {
-      "title": "금",
-      "approx_traffic": "20000+",
-      "published": "Sat, 31 Oct 2026 04:50:00 -0700",
-      "news": [
-        {
-          "title": "[오늘 금시세] 10월 30일 순금 1돈 얼마?",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190106"
-        },
-        {
-          "title": "어느새 30%나 뚝 떨어진 金…지금 살까, 더 기다릴까",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003848364"
-        },
-        {
-          "title": "[뉴욕 금가격] 유가 상승 속 기술주 투매에 3% 하락…4,000달러 밑으로",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442292"
-        }
-      ]
-    },
-    {
-      "title": "chelsea đấu với man utd",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 04:50:00 -0700",
-      "news": [
-        {
-          "title": "Chelsea 1-0 Man United: Morgan Rogers \"gieo sầu\" cho MU",
-          "source": "yeuthethao.net.vn",
-          "url": "https://yeuthethao.net.vn/chelsea-1-0-man-united-morgan-rogers-gieo-sau-cho-mu-d900763.html"
-        },
-        {
-          "title": "Carrick lên tiếng sau khi Man Utd bị CĐV la ó",
-          "source": "Bongda24h",
-          "url": "https://bongda24h.vn/bong-da-anh/carrick-len-tieng-sau-khi-man-utd-bi-cdv-la-o-172-463624.html"
-        },
-        {
-          "title": "Trực tiếp Chelsea vs Manchester United: Trận đấu đang diễn ra",
-          "source": "Báo Lâm Đồng",
-          "url": "https://baolamdong.vn/truc-tiep-chelsea-vs-manchester-united-tran-dau-dang-dien-ra-472209.html"
+          "title": "+⛔❤️(Ａｑｕｉ ｅｓｔａ En Ｄｉｒｅｃｔｏ)@$!)] Alavés v Barcelona partido inaugural en vivo directo 31 de Octubre 2026",
+          "source": "Port of Rotterdam",
+          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3Byb3B1dGxvY2tlci5naXRodWIuaW8vYmFuYW5hcHJvL2ZpbGU1LnhtbCIvPjwva3JwYW5vPg==&id=alav%C3%A9s-v-barcelona-liv-en-hoy-dzn-1982-jztzb26566"
         }
       ]
     }
