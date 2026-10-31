@@ -1,27 +1,165 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T12:58:49+00:00",
+  "fetched_at": "2026-10-31T13:48:48+00:00",
   "items": [
     {
+      "title": "w",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 05:40:00 -0700",
+      "news": [
+        {
+          "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
+        },
+        {
+          "title": "NIK C2: The new AI-enabled command-and-control framework",
+          "source": "Cisco Talos Blog",
+          "url": "https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/"
+        },
+        {
+          "title": "Hackers Weaponize OpenAI API in NIK C2 Framework for Credential Theft and Remote System Control",
+          "source": "CyberSecurityNews",
+          "url": "https://cybersecuritynews.com/hackers-weaponize-openai-api/"
+        }
+      ]
+    },
+    {
+      "title": "원샷한솔",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 05:30:00 -0700",
+      "news": [
+        {
+          "title": "“같은 도움, 전혀 다른 반응” 시각장애인 유튜버 원샷한솔이 대전에서 준 울림",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610310039003"
+        },
+        {
+          "title": "혼자 성심당 찾은 시각장애인…직원과 시민들이 건넨 따뜻한 손길",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261030_0003849063"
+        },
+        {
+          "title": "“눈물 납니다”…혼자 성심당 찾은 시각장애인에게 벌어진 일",
+          "source": "이데일리TV",
+          "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=06464886645618168&Kind=257"
+        }
+      ]
+    },
+    {
+      "title": "박진영",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 05:20:00 -0700",
+      "news": [
+        {
+          "title": "천재 의사 김지원·밀정 김유정…흥행 이끄는 열연",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031102704jv6"
+        },
+        {
+          "title": "생존이 우선인 ‘MZ 여주’와 독립이 사명인 ‘항일운동가’의 독립운동 여성서사 [플랫]",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610301439001"
+        },
+        {
+          "title": "익숙한 장르, 한끗 다른 설정",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261030/134935940/2"
+        }
+      ]
+    },
+    {
+      "title": "레반테 대 아틀레티코",
+      "approx_traffic": "10000+",
+      "published": "Sat, 31 Oct 2026 05:00:00 -0700",
+      "news": [
+        {
+          "title": "\"이강인 선발 출격\" 시메오네의 선택 받았다...아틀레티코, '선두 바르셀로나 추격' 레반테전 6연승 도전 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311657776878O"
+        },
+        {
+          "title": "‘3호 골 조준’ 이강인, 부상 털고 2G 연속 선발 출전→투톱 출격 전망",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261031/134942882/1"
+        },
+        {
+          "title": "AT마드리드 이강인, 3호골 정조준…레반테전 선발 출격",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261031_0003849426"
+        }
+      ]
+    },
+    {
+      "title": "로또1248",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 05:00:00 -0700",
+      "news": [
+        {
+          "title": "로또 1248회 당첨번호 ‘16·18·27·36·38·42’…1등 당첨금 19억",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610312055001"
+        },
+        {
+          "title": "1248회 로또 1등 15명…당첨금 각 19억3천만원(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031047300002"
+        },
+        {
+          "title": "1248회 로또 1등 '16, 18, 27, 36, 38, 42'…보너스 '22'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261031_0003849425"
+        }
+      ]
+    },
+    {
+      "title": "스토크 시티 대 프레스턴 노스 엔드",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 05:00:00 -0700",
+      "news": [
+        {
+          "title": "Stoke City v Preston North End: Championship stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cm3wvl4qx774t"
+        },
+        {
+          "title": "Stoke City trio closing in on returns to action",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/stoke-city-trio-closing-returns-155900631.html"
+        },
+        {
+          "title": "(LIVESTREAMs!)FREE@!Stoke City vs Preston North End Live free Football October 25, 2026",
+          "source": "Port of Rotterdam",
+          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vY2ltYW5nby5naXRodWIuaW8vc2FuaS90bnR0di54bWwiLz48L2tycGFubz4=&id=video-stoke-city-vs-preston-north-end-liv-free-today-match-today-match-ukks-573"
+        }
+      ]
+    },
+    {
+      "title": "dewa united vs persija jakarta",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 05:00:00 -0700",
+      "news": []
+    },
+    {
       "title": "금",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Sat, 31 Oct 2026 04:50:00 -0700",
       "news": [
         {
-          "title": "금 증서 시범 프로그램 도입을 둘러싼 논쟁.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/tranh-luan-quanh-de-xuat-thi-diem-chung-chi-vang"
+          "title": "[오늘 금시세] 10월 30일 순금 1돈 얼마?",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190106"
         },
         {
-          "title": "자원 활용 효율화·제도 혁신으로 10% 경제성장 달성 논의",
-          "source": "VOVWORLD",
-          "url": "https://vovworld.vn/ko-KR/nyuseu/jawon-hwalyong-hyoyulhwajedo-hyeogsineulo-10-gyeongjeseongjang-dalseong-nonui-2476876.vov5"
+          "title": "어느새 30%나 뚝 떨어진 金…지금 살까, 더 기다릴까",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848364"
         },
         {
-          "title": "두 자릿수 성장을 원한다면 더 많은 자본원을 개방해야 합니다",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/thoi-su/muon-tang-truong-hai-con-so-can-khoi-thong-nhieu-nguon-von-1792436.ldo"
+          "title": "[뉴욕 금가격] 유가 상승 속 기술주 투매에 3% 하락…4,000달러 밑으로",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442292"
         }
       ]
     },
@@ -31,19 +169,19 @@
       "published": "Sat, 31 Oct 2026 04:50:00 -0700",
       "news": [
         {
-          "title": "مباراة تشيلسي ومانشستر يونايتد: نقطة ساخنة في سباق الصدارة",
+          "title": "Vorschau auf Chelsea gegen Manchester United: Ein heiß umkämpftes Spitzenspiel",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ar/nhan-dinh-chelsea-vs-manchester-united-diem-nong-cuoc-dua-top-dau"
-        },
-        {
-          "title": "Chelsea có cơ hội giáng đòn quyết định vào Carrick",
-          "source": "yeuthethao.net.vn",
-          "url": "https://yeuthethao.net.vn/chelsea-co-co-hoi-giang-don-quyet-dinh-vao-carrick-d900729.html"
+          "url": "https://www.vietnam.vn/de/nhan-dinh-chelsea-vs-manchester-united-diem-nong-cuoc-dua-top-dau"
         },
         {
           "title": "CHÍNH THỨC: Zidane nhận tin không thể buồn hơn tại ĐT Pháp",
           "source": "Thể Thao 247",
           "url": "https://thethao247.vn/175391-chinh-thuc-zidane-nhan-tin-khong-the-buon-hon-tai-dt-phap-c14-d443256.html"
+        },
+        {
+          "title": "Carrick lên tiếng sau khi Man Utd bị CĐV la ó",
+          "source": "Bongda24h",
+          "url": "https://bongda24h.vn/bong-da-anh/carrick-len-tieng-sau-khi-man-utd-bi-cdv-la-o-172-463624.html"
         }
       ]
     },
@@ -66,160 +204,6 @@
           "title": "천우희, 세계일주 열정 가득…”알레르기 많은데 그냥 먹어” (‘지구마불4’)",
           "source": "TV리포트",
           "url": "https://tvreport.co.kr/broadcast/article/1086941/"
-        }
-      ]
-    },
-    {
-      "title": "내일 날씨",
-      "approx_traffic": "200000+",
-      "published": "Sat, 31 Oct 2026 04:40:00 -0700",
-      "news": [
-        {
-          "title": "내일 전국 비 오고 쌀쌀…강원 산지에는 눈 소식",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610312025001"
-        },
-        {
-          "title": "일요일 전국에 가을비…다음주 아침 기온 0도까지 ‘뚝’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/10/31/47RFMCXPQNG75EKV3GYDAT25CU/"
-        },
-        {
-          "title": "전국 맑다가 밤부터 차차 흐려져…낮 최고 14∼21도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261031017400530"
-        }
-      ]
-    },
-    {
-      "title": "chelsea vs man utd",
-      "approx_traffic": "2000+",
-      "published": "Sat, 31 Oct 2026 04:40:00 -0700",
-      "news": [
-        {
-          "title": "Chelsea vs Manchester United: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c6z7xglw0ewzt"
-        },
-        {
-          "title": "Predicted line-up v Chelsea (A)",
-          "source": "Manchester United",
-          "url": "https://www.manutd.com/en/news/pundit-predictions-bruno-fernandes-back-in-the-team"
-        },
-        {
-          "title": "Paddy Power bonus code YEPAAG: 60/1 for Chelsea vs Man Utd 1+ Goals Scored",
-          "source": "MyBettingSites.co.uk",
-          "url": "https://mybettingsites.co.uk/news/paddy-power-bonus-code-yepaag-60-1-chelsea-vs-man-utd-1-goals-scored-31st-oct/"
-        }
-      ]
-    },
-    {
-      "title": "เชลซี พบ แมนยู",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 04:40:00 -0700",
-      "news": [
-        {
-          "title": "ซูเปอร์คอมพิวเตอร์ทำนายผลการแข่งขันนัดสำคัญของเชลซีกับแมนฯ ยูไนเต็ด",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/sieu-may-tinh-du-doan-tran-chelsea-dai-chien-man-utd"
-        },
-        {
-          "title": "⤮@*@((สตรีมมิ่ง)) แมนยู กับ เชลซี ชมการถ่ายทอดสด 31 ตุลาคม 2569",
-          "source": "Port of Rotterdam",
-          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2h1bWF5cmFrdGVyLmdpdGh1Yi5pby92aWRlby9tLnhtbCIvPjwva3JwYW5vPg==&id=video-chelsea-vs-man-utd-th-003"
-        },
-        {
-          "title": "รายชื่อ 11 ตัวจริง \"เชลซี\" VS \"แมนยู\" บิ๊กแมตช์ พรีเมียร์ลีก อังกฤษ 2026-27",
-          "source": "Thairath.co.th",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2969439"
-        }
-      ]
-    },
-    {
-      "title": "첼시 대 맨유",
-      "approx_traffic": "20000+",
-      "published": "Sat, 31 Oct 2026 04:30:00 -0700",
-      "news": [
-        {
-          "title": "말 그대로 '초대형 호재'...맨유 '성골유스 MF' 부상 복귀→첼시전 출전 예정! 여전히 캐릭 신뢰, \"진심으로 싸우고 싶은 선수\"",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026102913083210826"
-        },
-        {
-          "title": "8경기 연속 못 이기면서 열차는 7분 지연시킨 맨유의 원정길… 분노한 팬들의 야유 세례, 캐릭 감독에게만 환호",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313616"
-        },
-        {
-          "title": "프리미어 리그 9라운드 경기 일정: 리버풀과 아스널, 맨체스터 유나이티드와 첼시의 맞대결.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/lich-ngoai-hang-anh-vong-9-liverpool-dai-chien-arsenal-mu-gap-chelsea"
-        }
-      ]
-    },
-    {
-      "title": "weather tomorrow",
-      "approx_traffic": "5000+",
-      "published": "Sat, 31 Oct 2026 04:30:00 -0700",
-      "news": [
-        {
-          "title": "IMD weather forecast: Will it rain in November? Chhattisgarh, MP, Arunachal should brace for...",
-          "source": "The Week",
-          "url": "https://www.theweek.in/news/india/2026/10/31/imd-weather-forecast-will-it-rain-in-november-chhattisgarh-mp-arunachal-should-brace-for.html"
-        },
-        {
-          "title": "Heavy rainfall continues in Odisha; yellow alert issued for 14 districts",
-          "source": "News On AIR",
-          "url": "https://newsonair.gov.in/heavy-rainfall-continues-in-odisha-yellow-alert-issued-for-14-districts/"
-        },
-        {
-          "title": "Weather tomorrow: IMD forecasts rain, thunderstorms in 16 states; heavy rain alert for Odisha, Andhra Pr",
-          "source": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/city/delhi/weather-tomorrow-imd-forecasts-rain-thunderstorms-in-16-states-heavy-rain-alert-for-odisha-andhra-pradesh-gusty-winds-up-to-70-kmph-likely/articleshow/135389998.cms"
-        }
-      ]
-    },
-    {
-      "title": "thời tiết ngày mai",
-      "approx_traffic": "2000+",
-      "published": "Sat, 31 Oct 2026 04:30:00 -0700",
-      "news": [
-        {
-          "title": "Miền Bắc lại bước vào đợt mưa dông từ đêm nay",
-          "source": "Eva.vn",
-          "url": "https://eva.vn/tin-tuc/mien-bac-lai-buoc-vao-dot-mua-dong-tu-dem-nay-c73a687767.html"
-        },
-        {
-          "title": "Dự báo thời tiết ngày 01/11/2026: Ngày nắng, đêm có mưa rào và dông vài nơi",
-          "source": "moitruong.net.vn",
-          "url": "https://moitruong.net.vn/du-bao-thoi-tiet-ngay-01-11-2026-ngay-nang-dem-co-mua-rao-va-dong-vai-noi-103720.html"
-        },
-        {
-          "title": "Dự báo thời tiết đêm 31/10, ngày 1/11/2026",
-          "source": "Báo Quảng Ninh",
-          "url": "https://baoquangninh.vn/du-bao-thoi-tiet-dem-3110-ngay-1112026-post3425680.html"
-        }
-      ]
-    },
-    {
-      "title": "cuaca besok",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 04:30:00 -0700",
-      "news": [
-        {
-          "title": "Hujan Sudah Turun di Beberapa Wilayah, Kapan Suhu Panas Berakhir?",
-          "source": "Kompas.com",
-          "url": "https://video.kompas.com/watch/1964270/hujan-sudah-turun-di-beberapa-wilayah-kapan-suhu-panas-berakhir"
-        },
-        {
-          "title": "Mengapa Hujan Turun Padahal Ramalan Cuaca Cerah? Ini Penjelasan BMKG",
-          "source": "MalangTIMES",
-          "url": "https://malangtimes.com/baca/3331352742/20261029/091900/mengapa-hujan-turun-padahal-ramalan-cuaca-cerah-ini-penjelasan-bmkg"
-        },
-        {
-          "title": "Bagaimana Keadaan Cuaca Besok? Cek dengan 5 Cara Mudah Ini",
-          "source": "Bloomberg Technoz",
-          "url": "https://www.bloombergtechnoz.com/detail-news/126050/bagaimana-keadaan-cuaca-besok-cek-dengan-5-cara-mudah-ini"
         }
       ]
     }
