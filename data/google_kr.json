@@ -1,8 +1,157 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T02:51:06+00:00",
+  "fetched_at": "2026-10-31T03:48:50+00:00",
   "items": [
+    {
+      "title": "공휴일",
+      "approx_traffic": "1000+",
+      "published": "Fri, 30 Oct 2026 19:40:00 -0700",
+      "news": [
+        {
+          "title": "노동절·제헌절 대체공휴일 첫 적용… 2027년 휴일 및 연차 활용법 총정리",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738221"
+        },
+        {
+          "title": "2027년 10월 연휴, 연차 4일로 10일 쉰다",
+          "source": "비건뉴스",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=398553"
+        },
+        {
+          "title": "2027년 공휴일 총정리, 연차 언제 쓰면 좋을까?",
+          "source": "잡플래닛",
+          "url": "https://www.jobplanet.co.kr/contents/news-8549"
+        }
+      ]
+    },
+    {
+      "title": "ins",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 19:40:00 -0700",
+      "news": [
+        {
+          "title": "Watch: Rafale Marine lands on INS Vikrant; Navy tests French jet in major milestone",
+          "source": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/news/watch-rafale-marine-lands-on-ins-vikrant-navy-tests-french-jet-in-major-milestone/articleshow/135357716.cms"
+        },
+        {
+          "title": "French-Made Rafale Conducted First Landing On Indian Aircraft Carrier",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/petersuciu/2026/10/30/french-made-rafale-conducted-first-landing-on-indian-aircraft-carrier/"
+        },
+        {
+          "title": "Video | Rafale News | Rafale Fighter Jet Touches Down On INS Vikrant In Major Milestone For Indian Navy",
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/video/rafale-fighter-jet-touches-down-on-ins-vikrant-in-major-milestone-for-indian-navy-1183150"
+        }
+      ]
+    },
+    {
+      "title": "르브론 제임스",
+      "approx_traffic": "200+",
+      "published": "Fri, 30 Oct 2026 19:30:00 -0700",
+      "news": [
+        {
+          "title": "르브론, 국가 연주 중 '골프 스윙' 황당 기행... 트럼프 대통령 \"수치스럽다\" 비난→NBA 선배도 \"선 넘었다\" 한숨 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103021312279262"
+        },
+        {
+          "title": "국가 나오는데… 딴짓한 르브론, 코트 뜬 WNBA 선수들",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/10/24/HP2PJQZXM5AAPIP2KNYLIIDGPA/"
+        }
+      ]
+    },
+    {
+      "title": "nba",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 19:30:00 -0700",
+      "news": [
+        {
+          "title": "Kyrie Irving's interest in joining East powerhouse revealed",
+          "source": "BasketNews.com",
+          "url": "https://basketnews.com/news-258482-kyrie-irving-interest-in-joining-east-powerhouse-revealed.html"
+        },
+        {
+          "title": "Zach LaVine emerging as Heat’s most plausible big-name midseason addition",
+          "source": "All U Can Heat",
+          "url": "https://allucanheat.com/zach-lavine-emerging-as-heat-s-most-plausible-big-name-midseason-addition"
+        },
+        {
+          "title": "‘This Team Gave Up Their Draft Capital For Giannis Antetokounmpo’ – Insider Dismisses Heat’s Chances of Landing Kyrie Irving",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/team-gave-draft-capital-giannis-190632941.html"
+        }
+      ]
+    },
+    {
+      "title": "이란",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 19:20:00 -0700",
+      "news": [
+        {
+          "title": "트럼프 “이란 전쟁 곧 마무리될 것”···중재국 카타르 대표단은 이란으로",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610302232001"
+        },
+        {
+          "title": "트럼프 \"이란 전쟁 곧 마무리될 것\"‥이란 \"유조선 2척 운항 중지시켜\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6862099_36925.html"
+        },
+        {
+          "title": "이스라엘에 미군 수송기 10대 도착…이란전 재개 준비하나",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848006"
+        }
+      ]
+    },
+    {
+      "title": "삼성 갤럭시 폴드",
+      "approx_traffic": "1000+",
+      "published": "Fri, 30 Oct 2026 19:10:00 -0700",
+      "news": [
+        {
+          "title": "삼성 갤럭시Z폴드9 울트라, 얼마나 달라지나",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261030193751"
+        },
+        {
+          "title": "삼성 폴더블폰 판 키운다…2027년 폴더블폰 라인업 대폭 확대",
+          "source": "케이벤치",
+          "url": "https://kbench.com/?q=node/282907"
+        },
+        {
+          "title": "삼성은 갤럭시 Z 폴드9 라인업을 확장할 수도 있다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/samsung-co-the-mo-rong-dong-galaxy-z-fold9"
+        }
+      ]
+    },
+    {
+      "title": "배달",
+      "approx_traffic": "200+",
+      "published": "Fri, 30 Oct 2026 19:10:00 -0700",
+      "news": [
+        {
+          "title": "외국인 불법행위 범정부 대응 강화…불법 배달·체류 집중단속",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974645&pWise=sub&pWiseSub=C1"
+        },
+        {
+          "title": "“배달 알바하다 추방될 수도”…정부, 외국인 라이더 집중 단속",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261030580297"
+        },
+        {
+          "title": "법무부 \"제주 무비자 제도 악용 외국인 집중 단속\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/10/30/QSKFW5ATZRCMZCW7FZBFRUMYL4/"
+        }
+      ]
+    },
     {
       "title": "sco vs sl",
       "approx_traffic": "200+",
@@ -43,168 +192,19 @@
       "published": "Fri, 30 Oct 2026 18:20:00 -0700",
       "news": [
         {
-          "title": "LAL: Dončić, Reaves, Thybulle, LaRavia, Kessler",
-          "source": "NBC Sports",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-30/lal-doncic-reaves-thybulle-laravia-kessler"
+          "title": "Preview: Warriors welcome Lakers in rematch of opening night",
+          "source": "Golden State Of Mind",
+          "url": "https://www.goldenstateofmind.com/general/113079/preview-warriors-welcome-lakers-in-rematch-of-opening-night"
         },
         {
-          "title": "Matisse Thybulle, Ziaire Williams are flirting with being summer steals for the Lakers",
-          "source": "Lake Show Life",
-          "url": "https://lakeshowlife.com/matisse-thybulle-ziaire-williams-flirting-with-being-summer-steals-for-lakers"
+          "title": "The latest injury updates on Lakers forwards Luka Doncic and Ziaire Williams",
+          "source": "Lakers Nation",
+          "url": "https://lakersnation.com/lakers-injury-update-luka-doncic-returns-ziaire-williams-out-vs-warriors/"
         },
         {
-          "title": "Lakers Reveal Starting Lineup Vs Warriors After Luka Doncic News",
-          "source": "Heavy.com",
-          "url": "https://heavy.com/sports/nba/los-angeles-lakers/starting-lineup-vs-warriors-luka-doncic-news/"
-        }
-      ]
-    },
-    {
-      "title": "김강민",
-      "approx_traffic": "1000+",
-      "published": "Fri, 30 Oct 2026 18:20:00 -0700",
-      "news": [
-        {
-          "title": "프로야구 NC, 김강민 외야 코디네이터 영입…KBO리그 최초",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261031022000007"
-        },
-        {
-          "title": "SK 왕조 인연인가, NC가 짐승을 품었다...\"외야 수비 경쟁력 강화\" NC 김강민 외야 코디네이터 영입 [공식발표]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/31/GA2DAZJTMU2GMN3BHFTGMMLCGY/"
-        },
-        {
-          "title": "'말년은 한화-지도자는 NC서' 김강민, 외야 코디네이터로 창원행 \"외야 수비 경쟁력 높이겠다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/2026103110050732499"
-        }
-      ]
-    },
-    {
-      "title": "oman vs afghanistan",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 18:20:00 -0700",
-      "news": [
-        {
-          "title": "Live Cricket Score: Full Scorecard & Commentary",
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/firstcricket/cricket-live-score/afghanistan-under-19-vs-oman-under-19-youth-odi-live-cricket-score-full/15831/275420.html"
-        },
-        {
-          "title": "Afghanistan Under-19s tour of Oman - ODI -",
-          "source": "Cricketnmore",
-          "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010703/afghanistan-under-19s-tour-of-oman-1"
-        },
-        {
-          "title": "Live Cricket Score: Full Scorecard & Commentary",
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/firstcricket/cricket-live-score/afghanistan-under-19-vs-oman-under-19-youth-odi-live-cricket-score-full/15831/275419.html"
-        }
-      ]
-    },
-    {
-      "title": "수익률",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 17:20:00 -0700",
-      "news": [
-        {
-          "title": "대신증권, 3분기 IRP 10년 수익률 6.12%…증권업계 1위 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/30/2026103013484373915"
-        },
-        {
-          "title": "542조원 퇴직연금 시장 판 바뀌나…은행·증권·보험 경쟁 격화",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003848190"
-        },
-        {
-          "title": "퇴직연금 시장도 증시 급락 못 피했다…증권가 수익률·적립금 수직 하락",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026103010510774211"
-        }
-      ]
-    },
-    {
-      "title": "주식",
-      "approx_traffic": "10000+",
-      "published": "Fri, 30 Oct 2026 16:50:00 -0700",
-      "news": [
-        {
-          "title": "매도 사이드카 울렸는데…\"또 털렸대\" 30% 폭등한 주식 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/30/2026103011255523599"
-        },
-        {
-          "title": "[특징주] 곳곳으로 번지는 해킹에…보안주 강세",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/10/30/6PNXOHIYDBCOFB4TAJ4SJYBZEA/"
-        },
-        {
-          "title": "[장중수급포착] 지니언스, 외국인/기관 동시 순매수… 주가 +11.20%",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261030000598"
-        }
-      ]
-    },
-    {
-      "title": "필라데피아 대 뉴욕",
-      "approx_traffic": "1000+",
-      "published": "Fri, 30 Oct 2026 16:30:00 -0700",
-      "news": [
-        {
-          "title": "Observations after Sixers beat Knicks again, move to 5-1",
-          "source": "NBC Sports Philadelphia",
-          "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-vs-knicks-analysis-tyrese-maxey-lebron-james-nba-cup/762858/"
-        },
-        {
-          "title": "LeBron's rebound and putback secures Sixers' NBA Cup win over Knicks",
-          "source": "ESPN",
-          "url": "https://www.espn.com/video/clip/_/id/50332647/lebron-rebound-putback-secures-sixers-nba-cup-win-knicks"
-        },
-        {
-          "title": "LeBron James scores 20 points to help Philadelphia 76ers beat New York Knicks for 2nd time this season",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/philadelphia/news/sixers-knicks-lebron-james-nba-cup/"
-        }
-      ]
-    },
-    {
-      "title": "sk 사장단 인사",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 16:00:00 -0700",
-      "news": [
-        {
-          "title": "SK그룹, 2027년 사장단 인사…SK이노베이션 CEO에 정승일(종합2보)",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442142"
-        },
-        {
-          "title": "SK 사장단 인사…곽노정 유임·정승일 발탁",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031093020VZa"
-        },
-        {
-          "title": "SK, 에너지 수장 교체…빨라진 재계 인사 시계",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20261030015100038"
-        }
-      ]
-    },
-    {
-      "title": "미세먼지",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 16:00:00 -0700",
-      "news": [
-        {
-          "title": "오늘 밤 서쪽 지방 미세먼지 주의…한낮에 포근",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699807"
-        },
-        {
-          "title": "수도권 미세먼지 30일 오전·밤 '나쁨'…충청·전북도 밤에 올라",
-          "source": "공감신문",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=883193"
+          "title": "Los Angeles Lakers vs. Golden State Warriors Live NBA Updates, Scores and Highlights",
+          "source": "Bleacher Report",
+          "url": "https://bleacherreport.com/liveblogs/25527370-los-angeles-lakers-vs-golden-state-warriors-live-nba-updates-scores-and-highlights"
         }
       ]
     }
