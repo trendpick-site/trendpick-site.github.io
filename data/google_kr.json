@@ -1,33 +1,94 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T00:11:01+00:00",
+  "fetched_at": "2026-10-31T01:05:19+00:00",
   "items": [
     {
+      "title": "주식",
+      "approx_traffic": "5000+",
+      "published": "Fri, 30 Oct 2026 16:50:00 -0700",
+      "news": [
+        {
+          "title": "매도 사이드카 울렸는데…\"또 털렸대\" 30% 폭등한 주식 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/30/2026103011255523599"
+        },
+        {
+          "title": "“은행도 증권사도 뚫렸다”…해킹 공포에 보안주 '들썩'",
+          "source": "한경매거진",
+          "url": "https://magazine.hankyung.com/business/article/202610306530b"
+        },
+        {
+          "title": "[장중수급포착] 지니언스, 외국인/기관 동시 순매수… 주가 +11.20%",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261030000598"
+        }
+      ]
+    },
+    {
+      "title": "필라데피아 대 뉴욕",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 16:30:00 -0700",
+      "news": [
+        {
+          "title": "Live updates: Sixers kick off NBA Cup play at home against the Knicks",
+          "source": "NBC Sports Philadelphia",
+          "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-knicks-nba-cup-lebron-james-joel-embiid-tyrese-maxey-live-updates/762913/"
+        },
+        {
+          "title": "New York Knicks vs. Philadelphia 76ers Live NBA Updates, Scores and Highlights",
+          "source": "Bleacher Report",
+          "url": "https://bleacherreport.com/liveblogs/25527369-new-york-knicks-vs-philadelphia-76ers-live-nba-updates-scores-and-highlights"
+        },
+        {
+          "title": "Game Discussion Thread: Knicks at 76ers, October 30, 2026",
+          "source": "Posting and Toasting",
+          "url": "https://www.postingandtoasting.com/knicks-game-threads/90736/game-discussion-thread-knicks-at-76ers-october-30-2026"
+        }
+      ]
+    },
+    {
       "title": "sk 사장단 인사",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 30 Oct 2026 16:00:00 -0700",
       "news": [
+        {
+          "title": "SK, 에너지 수장 교체…빨라진 재계 인사 시계",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20261030015100038"
+        },
+        {
+          "title": "SK 사장단 인사…곽노정 유임·정승일 발탁",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031093020VZa"
+        },
         {
           "title": "SK그룹, 2027년 사장단 인사…SK이노베이션 CEO에 정승일(종합2보)",
           "source": "연합인포맥스",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442142"
+        }
+      ]
+    },
+    {
+      "title": "미세먼지",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 16:00:00 -0700",
+      "news": [
+        {
+          "title": "오늘 밤 서쪽 지방 미세먼지 주의…한낮에 포근",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699807"
         },
         {
-          "title": "\"74년생 CEO 약진, 서울대 상대 강세\" SK 사장단 인사 '신구 조화' 면면은",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003848274"
-        },
-        {
-          "title": "최태원의 '반도체 장자방' 곽노정 유임…그룹 내 입지 더 커졌다",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353465"
+          "title": "수도권 미세먼지 30일 오전·밤 '나쁨'…충청·전북도 밤에 올라",
+          "source": "공감신문",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=883193"
         }
       ]
     },
     {
       "title": "우주선",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 30 Oct 2026 15:50:00 -0700",
       "news": [
         {
@@ -49,7 +110,7 @@
     },
     {
       "title": "샌디스크",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 30 Oct 2026 15:50:00 -0700",
       "news": [
         {
@@ -58,14 +119,14 @@
           "url": "https://www.yna.co.kr/view/AKR20261030030500009"
         },
         {
-          "title": "샌디스크, 로블록스, 트윌리오",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01649846645618496"
-        },
-        {
           "title": "키옥시아 NAND 가격 경고에 샌디스크 주가 11% 급락",
           "source": "Investing.com 한국어",
           "url": "https://kr.investing.com/news/stock-market-news/article-2151922"
+        },
+        {
+          "title": "샌디스크, AI 데이터센터 수요 급증에 실적 호조…매출 378% 증가",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/it-science/ict/2026/10/30/2GIME5GVQ5EWJKSOYBEHRNUQGU/"
         }
       ]
     },
@@ -73,27 +134,11 @@
       "title": "lcs",
       "approx_traffic": "100+",
       "published": "Fri, 30 Oct 2026 15:40:00 -0700",
-      "news": [
-        {
-          "title": "USS Canberra departs Colombo after scheduled port visit",
-          "source": "Pacific Fleet (.mil)",
-          "url": "https://www.cpf.navy.mil/Newsroom/News/Article/4637190/uss-canberra-departs-colombo-after-scheduled-port-visit/"
-        },
-        {
-          "title": "US warship makes second Colombo call this year as military ties deepen",
-          "source": "Tamil Guardian",
-          "url": "https://www.tamilguardian.com/content/us-navys-uss-canberra-arrives-colombo-second-visit-year"
-        },
-        {
-          "title": "US Navy ship USS Canberra arrives at Colombo Port",
-          "source": "Ada Derana",
-          "url": "https://adaderana.lk/news/250563"
-        }
-      ]
+      "news": []
     },
     {
       "title": "직장폐쇄",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 30 Oct 2026 15:30:00 -0700",
       "news": [
         {
@@ -119,25 +164,25 @@
       "published": "Fri, 30 Oct 2026 15:30:00 -0700",
       "news": [
         {
-          "title": "[횡설수설/신광영]중국산 테슬라 ‘탈옥’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261029/134936061/2"
+          "title": "'고래' 스페이스X-테슬라 합병 추진에 부담 커진 '새우' 미래에셋",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/27/2026102780135.html"
         },
         {
-          "title": "한의약진흥원과 테슬라 FSD…국가의 보호막은 언제까지",
-          "source": "MEDI:GATE NEWS",
-          "url": "https://www.medigatenews.com/news/1376431761"
+          "title": "테슬라·스페이스X 합병 추진…머스크의 진짜 노림수와 최대 걸림돌",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261027_0003842966"
         },
         {
-          "title": "’테슬라 완전자율주행 환불 요구’ 차주들 패소",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030014353QoP"
+          "title": "베이징이 SpaceX-테슬라 합병을 막을 수 있는 이유",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2151560"
         }
       ]
     },
     {
       "title": "증여",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Fri, 30 Oct 2026 15:20:00 -0700",
       "news": [
         {
@@ -154,72 +199,6 @@
           "title": "[단독] ＇주가누르기 방지＇ 끝장토론 한다…＂11월말 처리＂",
           "source": "한국경제TV",
           "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290166"
-        }
-      ]
-    },
-    {
-      "title": "실업급여",
-      "approx_traffic": "100+",
-      "published": "Fri, 30 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "\"실업급여로 일본 놀러 왔어\"…강레오, 철없는 청년들에 폭발",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610292324H"
-        },
-        {
-          "title": "\"세금으로 日여행 얌체 짓, 열 받아\"…강레오·박명수 화난 '실업급여' 얼마길래",
-          "source": "이코노미스트",
-          "url": "https://economist.co.kr/article/view/ecn202610290042"
-        },
-        {
-          "title": "“실업급여로 日 여행와놓고 일자리 없다?”…강레오 “감자탕집 가봐라 할 일이 천지”",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261029000453"
-        }
-      ]
-    },
-    {
-      "title": "박서진",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 15:10:00 -0700",
-      "news": [
-        {
-          "title": "박서진, '세월이길 장사있나' 리메이크 이유? \"빛을 봤으면…그때와 다른 느낌 들지 않을까\"",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264049"
-        },
-        {
-          "title": "박서진, 황혜선 등장에 귀까지 빨개졌다…母 “우리 서진이 어떤지?”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261030/134937739/1"
-        },
-        {
-          "title": "박서진 첫 민화 전시회 썸녀 황혜선 깜짝 등장, 父도 “미래 며느리”(살림남)",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202610300801061910"
-        }
-      ]
-    },
-    {
-      "title": "이수현",
-      "approx_traffic": "10000+",
-      "published": "Fri, 30 Oct 2026 15:00:00 -0700",
-      "news": [
-        {
-          "title": "악뮤 이찬혁 회사, 파격 입사조건 \"직원들 성씨 겹치면 안 돼\" ('전참시')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/2026/10/30/GY4TKNBRGA4TOMTEHBQTQODFGE/"
-        },
-        {
-          "title": "‘소속사 대표’ 이찬혁, 직원 채용 조건도 독특 “성씨 겹치면 안 돼”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261030/134937377/1"
-        },
-        {
-          "title": "이찬혁표 회사는 다르다…주 4일제+스윙댄스 파격 복지 (전참시)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522977"
         }
       ]
     }
