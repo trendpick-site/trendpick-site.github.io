@@ -1,39 +1,127 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T09:43:21+00:00",
+  "fetched_at": "2026-10-31T10:41:48+00:00",
   "items": [
     {
+      "title": "김태희",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 02:30:00 -0700",
+      "news": [
+        {
+          "title": "김태희 드레스가 화제를 모은 진짜 이유",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_sn/0117_202610300858270159"
+        },
+        {
+          "title": "김태희, 외모 악플 무색하네…직접 공개한 사진 보니",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261026/134912721/1"
+        },
+        {
+          "title": "47세 김태희, 때아닌 외모 악플 세례…\"저 나이에 이런 미모 가능?\" 갑론을박 [Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/GQZTINBQMY4GMMTBMYZTQNBYGM/"
+        }
+      ]
+    },
+    {
+      "title": "인턴",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 02:20:00 -0700",
+      "news": [
+        {
+          "title": "\"올해 50세 9급 합격해 첫 출근\"…늦깎이 신입 공무원에 응원 봇물",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027112214sQI"
+        },
+        {
+          "title": "‘인턴’ 실사판?…50세에 9급 합격한 공무원 “질문 받아주는 선임들 고마워”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261031/134942733/2"
+        },
+        {
+          "title": "\"50살 신입 공무원입니다!\"...인생 2막 '활짝' [나우쇼츠]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610301235027550"
+        }
+      ]
+    },
+    {
+      "title": "전상현",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 02:10:00 -0700",
+      "news": [
+        {
+          "title": "역투 조상우",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261030_0021512209"
+        },
+        {
+          "title": "“4kg 빠졌다, 내 몸 따질 때 아니야” 30세 마무리의 투혼, 2이닝 퍼펙트 세이브→탈락 위기 KIA 구했다",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112901679"
+        },
+        {
+          "title": "“불펜 투수들도 봐주세요”… 전상현이 떠올린 동료들의 땀",
+          "source": "스포츠월드",
+          "url": "https://www.sportsworldi.com/newsView/20261031503440"
+        }
+      ]
+    },
+    {
+      "title": "k리그2",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 02:00:00 -0700",
+      "news": [
+        {
+          "title": "K리그2 수원 승격 도전 다음주로…대구 원정서 2-2 무승부",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031043900007"
+        },
+        {
+          "title": "K리그2 수원, 대구와 2-2 무승부…다음 주 우승+승격 도전",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261031_0003849372"
+        },
+        {
+          "title": "[SPO 현장] ‘경고누적’ 이정효 감독 대신 기자회견 참석한 마철준 수석코치 “선수들이 분위기에 흔들린 것은 사실”",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016715"
+        }
+      ]
+    },
+    {
       "title": "용인fc 대 서울 이랜드 fc 순위",
-      "approx_traffic": "1000+",
+      "approx_traffic": "200+",
       "published": "Sat, 31 Oct 2026 01:40:00 -0700",
       "news": []
     },
     {
-      "title": "이더리움",
+      "title": "충남 아산 fc 대 김포",
       "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 01:40:00 -0700",
+      "published": "Sat, 31 Oct 2026 01:30:00 -0700",
       "news": [
         {
-          "title": "바이낸스 8조4천억 원 해킹 피해…“북한이 배후”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700100"
+          "title": "'2경기 덜 치르고 6점 차' 6위 화성 패배에 충남아산 안드레 감독이 보인 반응은?",
+          "source": "스포츠니어스",
+          "url": "https://www.sports-g.com/news/articleView.html?idxno=217081"
         },
         {
-          "title": "단 20분 만에 8.4조 털어...'트레이더트레이터' 흔적 남기기도 [앵커리포트]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610311606008229"
+          "title": "[GOAL 아산] “모든 건 제 역량이 부족해서 일어난 일” 완패에 고개 숙인 고정운 감독 “팬분들에게 죄송”",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/goal-%E1%84%8B%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB--%E1%84%86%E1%85%A9%E1%84%83%E1%85%B3%E1%86%AB-%E1%84%80%E1%85%A5%E1%86%AB-%E1%84%8C%E1%85%A6-%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%85%E1%85%A3%E1%86%BC%E1%84%8B%E1%85%B5-%E1%84%87%E1%85%AE%E1%84%8C%E1%85%A9%E1%86%A8%E1%84%92%E1%85%A2%E1%84%89%E1%85%A5-%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%A5%E1%84%82%E1%85%A1%E1%86%AB-%E1%84%8B%E1%85%B5%E1%86%AF-%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%91%E1%85%A2%E1%84%8B%E1%85%A6-%E1%84%80%E1%85%A9%E1%84%80%E1%85%A2-%E1%84%89%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB-%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%AE%E1%86%AB-%E1%84%80%E1%85%A1%E1%86%B7%E1%84%83%E1%85%A9%E1%86%A8-%E1%84%91%E1%85%A2%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6-%E1%84%8C%E1%85%AC%E1%84%89%E1%85%A9%E1%86%BC/blt14a2321c1c9ae667"
         },
         {
-          "title": "사상 최대 규모인 8조4000억원어치 암호화폐 털렸다...北소행 의심",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/10/31/C2B4ZCQE3NBYXMX2AJ5CGIP77I/"
+          "title": "충남아산, 김포전에서 할로윈 테마 홈경기 ‘HAUNTED MISSION’ 개최...한교원 400경기 출전 대기록 기념식 진행",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697455"
         }
       ]
     },
     {
       "title": "하남시",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 31 Oct 2026 01:20:00 -0700",
       "news": [
         {
@@ -42,20 +130,20 @@
           "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974619&pWise=sub&pWiseSub=C2"
         },
         {
+          "title": "김포아라 3만7000호 발표에 김포시·시민사회 반발",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335557"
+        },
+        {
           "title": "[사설]수도권 주택공급, 정부·지자체 적극 협력해야",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202610301833001"
-        },
-        {
-          "title": "김포 허허벌판 논밭, 신도시로 '싹' 바뀐다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026103068071"
         }
       ]
     },
     {
       "title": "jtbc 서울 마라톤",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sat, 31 Oct 2026 01:10:00 -0700",
       "news": [
         {
@@ -69,9 +157,9 @@
           "url": "https://www.news1.kr/bio/pharmaceutical-bio/6338001"
         },
         {
-          "title": "HLB라이프케어, '코리아 러닝 엑스포' 참가",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026103010261140892"
+          "title": "웅진식품 이온더핏, 서울 도심 마라톤서 수분 보충 음료 맡아",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610300908085387204ead0791_12"
         }
       ]
     },
@@ -108,102 +196,14 @@
           "url": "https://mkbn.mk.co.kr/news/sports/12192384"
         },
         {
-          "title": "'0-3→4-3 대역전극' 김보미, 데뷔 7년 만에 LPBA 첫 우승",
-          "source": "뉴시스",
-          "url": "https://nwww.newsis.com/view/NISX20261026_0003840533"
+          "title": "“당구가 싫었다”던 딸 김보미, 아버지 앞에서 7년 한 풀었다",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02719126645616856&mediaCodeNo=257"
         },
         {
           "title": "‘아름다운 준우승’ 임정숙 \"김보미 우승 누구보다 바랐다…어려운 시기 함께했던 동료\"",
           "source": "빌리어즈",
           "url": "https://www.thebilliards.kr/news/articleView.html?idxno=32284"
-        }
-      ]
-    },
-    {
-      "title": "sri lanka vs pakistan",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 01:00:00 -0700",
-      "news": [
-        {
-          "title": "Pakistan seek perfect finish",
-          "source": "The Express Tribune",
-          "url": "https://tribune.com.pk/story/2637774/pakistan-seek-perfect-finish"
-        },
-        {
-          "title": "Pakistan v Sri Lanka ODI Tips: Runs the best bet again with 11/4 Babar the one to back",
-          "source": "Betfair",
-          "url": "https://betting.betfair.com/cricket/pakistan-cricket/cricket-betting-tips-pakistan-v-sri-lanka-odi-tips-babar-a-bet-at-114-301026-194.html"
-        },
-        {
-          "title": "England hopes dashed as Sri Lanka thumps Pakistan to reach tri-series final",
-          "source": "Chronicle-Tribune",
-          "url": "https://www.chronicle-tribune.com/sports/wire/england-hopes-dashed-as-sri-lanka-thumps-pakistan-to-reach-tri-series-final/article_b510f146-9044-53e4-a4cc-92d17e11c1a6.html"
-        }
-      ]
-    },
-    {
-      "title": "sl vs pak",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 01:00:00 -0700",
-      "news": [
-        {
-          "title": "~$!【PAK vs SL】 Watch Pakistan vs Sri Lanka Live ODI Tri-Series final match",
-          "source": "Port of Rotterdam",
-          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vdHJhdmlzLWF1c3Rpbi5naXRodWIuaW8vZW5tL2VudS54bWwiLz48L2tycGFubz4=&id=video-watch-pakistan-vs-sri-lanka-match-lie-bscpvih"
-        },
-        {
-          "title": "Pakistan Vs Sri Lanka Live Score, ODI Tri-Series Final: Salman Agha Gives Hosts First Breakthrough | SL 89/1 (18)",
-          "source": "Outlook India",
-          "url": "https://www.outlookindia.com/sports/cricket/pakistan-vs-sri-lanka-live-score-final-pak-vs-sl-2026-odi-tri-series-latest-updates"
-        },
-        {
-          "title": "Pakistan vs Sri Lanka Live Streaming ODI Tri-Series Final Live Telecast: When And Where To Watch In India",
-          "source": "NDTV Sports",
-          "url": "https://sports.ndtv.com/cricket/pakistan-vs-sri-lanka-live-streaming-odi-tri-series-final-live-telecast-when-and-where-to-watch-in-india-12262717"
-        }
-      ]
-    },
-    {
-      "title": "수원삼성",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 01:00:00 -0700",
-      "news": [
-        {
-          "title": "[K리그2 프리뷰]'정호연+고종현' 없는 수원 VS '에드가' 돌아온 대구, 올 시즌 마지막 '빅6' 맞대결...출발선 같아진 수원FC-서울E의 2위 경쟁",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/30/MVQTEMDCGZRGMZLFGIYTSMJUHE/"
-        },
-        {
-          "title": "[현장 REVIEW] 0-2→2-2 ‘대팍의 왕’ 세징야 극장골, ‘조기 승격 노리던’ 수원 덜미 잡아…극적인 무승부 ‘2위 이랜드와 1점 차’",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016711"
-        },
-        {
-          "title": "[그래도 K리그] ‘최다 8연승’ 도전 수원 vs ‘2위 추격’ 대구 결과는?",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/soccer/2382967.htm"
-        }
-      ]
-    },
-    {
-      "title": "김민",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 01:00:00 -0700",
-      "news": [
-        {
-          "title": "김민, 90년 된 집에 소머리 장식? \"옆 동네에서 잡았다\" 경악 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103023383743930"
-        },
-        {
-          "title": "김민, 아침부터 땅콩잼 샐러리 뜯더니 '동두천시 운동회'서 야생마 질주..최고의 1분 ('나혼산')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/MJQWCZJRMUYDEMLFGYYWIYLFGI/"
-        },
-        {
-          "title": "“연출 의혹까지 나왔는데”…‘동두천 자연인’ 김민, 화제 속 ‘나혼산’ 재출격",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20107523"
         }
       ]
     }
