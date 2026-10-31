@@ -1,8 +1,74 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T16:46:43+00:00",
+  "fetched_at": "2026-10-31T17:37:46+00:00",
   "items": [
+    {
+      "title": "헐 시티 대 입스위치",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 09:20:00 -0700",
+      "news": [
+        {
+          "title": "Hull City 2-2 Ipswich Town: Julio Enciso stunner salvages point for visitors",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cxq6nqml97e0t"
+        },
+        {
+          "title": "Hull 2-2 Ipswich (Oct 31, 2026) Game Analysis",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401878763"
+        },
+        {
+          "title": "Match report and highlights - Hull 2-2 Ipswich",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/13604902/hull-city-vs-ipswich-live-premier-league-match-updates-news-and-score"
+        }
+      ]
+    },
+    {
+      "title": "크리스타 파이크",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 09:10:00 -0700",
+      "news": [
+        {
+          "title": "'독극물 사형' 생존 美죄수 \"육체와 마음에 통증\"…재집행 거부",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031047700009"
+        },
+        {
+          "title": "독극물 주입에도 살아남은 美 사형수…“몸·영혼에 깊은 상처”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261031580092"
+        },
+        {
+          "title": "“홀로 깨어난 후 매 순간이 고통” 약물 사형실패 女",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627774"
+        }
+      ]
+    },
+    {
+      "title": "npl",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 09:10:00 -0700",
+      "news": [
+        {
+          "title": "Waterlogged TU cricket ground (photos)",
+          "source": "OnlineKhabar English News",
+          "url": "https://english.onlinekhabar.com/waterlogged-tu-cricket-ground.html"
+        },
+        {
+          "title": "Match Predictions: Nepal Premier League 2026 - Lumbini Lions vs Chitwan Rhinos - Sudurpaschim Royals vs Biratnagar Kings - 31st October",
+          "source": "Cricket World",
+          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-lumbini-lions-vs-chitwan-rhinos-sudurpaschim-royals-vs-biratnagar-kings-31st-october/114116.htm"
+        },
+        {
+          "title": "विराटनगर किंग्स Sets 106-Run Target for सुदूरपश्चिम रोयल्स",
+          "source": "Ratopati",
+          "url": "https://english.ratopati.com/story/85272/biratnagar-kings-scored-105-runs-in-five-overs"
+        }
+      ]
+    },
     {
       "title": "조현아",
       "approx_traffic": "500+",
@@ -49,7 +115,7 @@
     },
     {
       "title": "맨시티",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sat, 31 Oct 2026 08:10:00 -0700",
       "news": [
         {
@@ -75,7 +141,7 @@
       "published": "Sat, 31 Oct 2026 08:10:00 -0700",
       "news": [
         {
-          "title": "Swansea City v Blackburn Rovers: Championship stats & head-to-head",
+          "title": "Swansea City 4-0 Blackburn Rovers: Eustaquio, Opoku, Lissah and Stewart strike in emphatic win",
           "source": "BBC",
           "url": "https://www.bbc.com/sport/football/live/cq74p3w8z0jrt"
         },
@@ -85,9 +151,9 @@
           "url": "https://sports.yahoo.com/articles/mowbray-expects-swans-wounded-animal-143301394.html"
         },
         {
-          "title": "Preview | Swansea City v Blackburn Rovers",
+          "title": "Swansea City v Blackburn Rovers | How to watch or listen",
           "source": "Swansea City",
-          "url": "https://www.swanseacity.com/news/preview-swansea-city-v-blackburn-rovers-6"
+          "url": "https://www.swanseacity.com/news/swansea-city-v-blackburn-rovers-how-watch-or-listen-2"
         }
       ]
     },
@@ -114,24 +180,24 @@
       ]
     },
     {
-      "title": "man city vs brighton",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 08:00:00 -0700",
+      "title": "ali",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 07:50:00 -0700",
       "news": [
         {
-          "title": "Premier League: Brighton lead Man City, Coventry, Brentford and Bournemouth in front",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cm2l8lx5k1zvt"
+          "title": "‘Ali G: Who Iz I?’ Review: A Bit Too Tired for This Media Age",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/28/movies/ali-g-who-iz-i-review.html"
         },
         {
-          "title": "Preview: Bournemouth vs Leeds United - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/bournemouth/preview/bournemouth-vs-leeds-prediction-team-news-lineups_607929.html"
+          "title": "A Generation of Men Once Revered Him. His New Movie Is the Worst I’ve Seen in Some Time.",
+          "source": "Slate",
+          "url": "https://slate.com/culture/2026/10/sacha-baron-cohen-ali-g-movie-nathan-fielder-you-can-see-everything.html"
         },
         {
-          "title": "B'mouth vs Leeds LIVE! Premier League match updates, news and score",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13606127/bournemouth-vs-leeds-live-premier-league-match-updates-news-and-score"
+          "title": "‘Ali G: Who Iz I?’ Extends Theatrical Run as Amazon MGM Says Movie “Delivered Against Our Goals” (Exclusive)",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ali-g-who-iz-i-theatrical-run-amazon-mgm-sacha-baron-cohen-1236742135/"
         }
       ]
     },
@@ -149,72 +215,6 @@
           "title": "[비엔나 오픈] 라켓 던지는 토미 폴",
           "source": "국제뉴스",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738150"
-        }
-      ]
-    },
-    {
-      "title": "ali",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 07:50:00 -0700",
-      "news": [
-        {
-          "title": "Michael B. Jordan, Omari Hardwick and More Stars’ Shoes at ‘The Greatest’ Premiere",
-          "source": "WWD",
-          "url": "https://wwd.com/footwear-news/shoe-trends/gallery/michael-b-jordan-the-greatest-premiere-photos-1239389533/"
-        },
-        {
-          "title": "The Greatest review: Prime Video series about Cassius Clay is a knockout",
-          "source": "Roger Ebert",
-          "url": "https://www.rogerebert.com/reviews/the-greatest-muhammad-ali-prime-video-tv-review-2026"
-        },
-        {
-          "title": "Jaalen Best Wanted to Be a Pro Athlete. Now He’s Playing ‘The Greatest’ Boxer Onscreen",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/jaalen-best-the-greatest-muhammad-ali-career-interview-1236737670/"
-        }
-      ]
-    },
-    {
-      "title": "고소",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 07:40:00 -0700",
-      "news": [
-        {
-          "title": "김정철 \"중수청·공소청 출범, 지금 완전히 카오스\"",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280052"
-        },
-        {
-          "title": "[영역:young域]미제 사건 18만건의 행방",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026103008444444470"
-        },
-        {
-          "title": "공소청 검사, '0심 판사' 되나…검사 출신 변호사 '덩달아 주목'",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6598070"
-        }
-      ]
-    },
-    {
-      "title": "맨 시티 대 브라이턴",
-      "approx_traffic": "5000+",
-      "published": "Sat, 31 Oct 2026 07:40:00 -0700",
-      "news": [
-        {
-          "title": "Man City vs Brighton LIVE! Premier League match updates, news and score",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13604905/man-city-vs-brighton-live-premier-league-match-updates-news-and-score"
-        },
-        {
-          "title": "City only missing Semenyo ahead of Brighton clash",
-          "source": "Manchester City FC",
-          "url": "https://www.mancity.com/news/mens/enzo-maresca-brighton-squad-update-63928963"
-        },
-        {
-          "title": "Ayari stuns Man City to give Brighton early lead",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/videos/ayari-stuns-man-city-brighton-153019358.html"
         }
       ]
     }
