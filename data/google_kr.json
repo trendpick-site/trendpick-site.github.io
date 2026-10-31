@@ -1,27 +1,71 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T13:48:48+00:00",
+  "fetched_at": "2026-10-31T14:40:44+00:00",
   "items": [
     {
+      "title": "김유정",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 06:10:00 -0700",
+      "news": [
+        {
+          "title": "천재 의사 김지원·밀정 김유정…흥행 이끄는 열연",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031102704jv6"
+        },
+        {
+          "title": "생존이 우선인 ‘MZ 여주’와 독립이 사명인 ‘항일운동가’의 독립운동 여성서사 [플랫]",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610301439001"
+        },
+        {
+          "title": "익숙한 장르, 한끗 다른 설정",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261030/134935940/2"
+        }
+      ]
+    },
+    {
+      "title": "levante vs atlético",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 06:00:00 -0700",
+      "news": [
+        {
+          "title": "🚨 Julián in, Cuti out of Levante-Atlético de Madrid starting XIs",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/juli-n-cuti-levante-atl-115200040.html"
+        },
+        {
+          "title": "¿Cómo ver el partido Levante vs Atlético de Madrid en TV y streaming?",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/es-us/como-ver-el-partido-levante-vs-atletico-de-madrid-en-tv-y-streaming"
+        },
+        {
+          "title": "El regreso de Etta Eyong marca el once del Levante ante un Atlético con Giuliano Simeone",
+          "source": "Yahoo",
+          "url": "https://es-us.noticias.yahoo.com/deportes/regreso-etta-eyong-marca-once-130105827.html"
+        }
+      ]
+    },
+    {
       "title": "w",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 31 Oct 2026 05:40:00 -0700",
       "news": [
+        {
+          "title": "Remembering Robert W. Liehr of Southampton",
+          "source": "Dan’s Papers",
+          "url": "https://www.danspapers.com/2026/10/robert-w-liehr-of-southampton/"
+        },
+        {
+          "title": "PRESEC benefits from W Sports International sponsorship",
+          "source": "Modern Ghana",
+          "url": "https://www.modernghana.com/news/1540709/presec-benefits-from-w-sports-international-sponso.html"
+        },
         {
           "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
           "source": "WIRED",
           "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
-        },
-        {
-          "title": "NIK C2: The new AI-enabled command-and-control framework",
-          "source": "Cisco Talos Blog",
-          "url": "https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/"
-        },
-        {
-          "title": "Hackers Weaponize OpenAI API in NIK C2 Framework for Credential Theft and Remote System Control",
-          "source": "CyberSecurityNews",
-          "url": "https://cybersecuritynews.com/hackers-weaponize-openai-api/"
         }
       ]
     },
@@ -48,30 +92,8 @@
       ]
     },
     {
-      "title": "박진영",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 05:20:00 -0700",
-      "news": [
-        {
-          "title": "천재 의사 김지원·밀정 김유정…흥행 이끄는 열연",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031102704jv6"
-        },
-        {
-          "title": "생존이 우선인 ‘MZ 여주’와 독립이 사명인 ‘항일운동가’의 독립운동 여성서사 [플랫]",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610301439001"
-        },
-        {
-          "title": "익숙한 장르, 한끗 다른 설정",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261030/134935940/2"
-        }
-      ]
-    },
-    {
       "title": "레반테 대 아틀레티코",
-      "approx_traffic": "10000+",
+      "approx_traffic": "20000+",
       "published": "Sat, 31 Oct 2026 05:00:00 -0700",
       "news": [
         {
@@ -93,7 +115,7 @@
     },
     {
       "title": "로또1248",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sat, 31 Oct 2026 05:00:00 -0700",
       "news": [
         {
@@ -107,9 +129,9 @@
           "url": "https://www.yna.co.kr/view/AKR20261031047300002"
         },
         {
-          "title": "1248회 로또 1등 '16, 18, 27, 36, 38, 42'…보너스 '22'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261031_0003849425"
+          "title": "[오늘 로또]1,248회 로또 1등 15명 …당첨금 19억3천만원",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=927779"
         }
       ]
     },
@@ -124,14 +146,14 @@
           "url": "https://www.bbc.com/sport/football/live/cm3wvl4qx774t"
         },
         {
+          "title": "Stoke City vs Preston LIVE! Championship match updates, score, stream and free highlights",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/13605475/stoke-city-vs-preston-live-championship-match-updates-score-stream-and-free-highlights"
+        },
+        {
           "title": "Stoke City trio closing in on returns to action",
           "source": "Yahoo Sports",
           "url": "https://sports.yahoo.com/articles/stoke-city-trio-closing-returns-155900631.html"
-        },
-        {
-          "title": "(LIVESTREAMs!)FREE@!Stoke City vs Preston North End Live free Football October 25, 2026",
-          "source": "Port of Rotterdam",
-          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vY2ltYW5nby5naXRodWIuaW8vc2FuaS90bnR0di54bWwiLz48L2tycGFubz4=&id=video-stoke-city-vs-preston-north-end-liv-free-today-match-today-match-ukks-573"
         }
       ]
     },
@@ -143,7 +165,7 @@
     },
     {
       "title": "금",
-      "approx_traffic": "10000+",
+      "approx_traffic": "20000+",
       "published": "Sat, 31 Oct 2026 04:50:00 -0700",
       "news": [
         {
@@ -169,41 +191,19 @@
       "published": "Sat, 31 Oct 2026 04:50:00 -0700",
       "news": [
         {
-          "title": "Vorschau auf Chelsea gegen Manchester United: Ein heiß umkämpftes Spitzenspiel",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/de/nhan-dinh-chelsea-vs-manchester-united-diem-nong-cuoc-dua-top-dau"
-        },
-        {
-          "title": "CHÍNH THỨC: Zidane nhận tin không thể buồn hơn tại ĐT Pháp",
-          "source": "Thể Thao 247",
-          "url": "https://thethao247.vn/175391-chinh-thuc-zidane-nhan-tin-khong-the-buon-hon-tai-dt-phap-c14-d443256.html"
+          "title": "Chelsea 1-0 Man United: Morgan Rogers \"gieo sầu\" cho MU",
+          "source": "yeuthethao.net.vn",
+          "url": "https://yeuthethao.net.vn/chelsea-1-0-man-united-morgan-rogers-gieo-sau-cho-mu-d900763.html"
         },
         {
           "title": "Carrick lên tiếng sau khi Man Utd bị CĐV la ó",
           "source": "Bongda24h",
           "url": "https://bongda24h.vn/bong-da-anh/carrick-len-tieng-sau-khi-man-utd-bi-cdv-la-o-172-463624.html"
-        }
-      ]
-    },
-    {
-      "title": "장동윤",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 04:50:00 -0700",
-      "news": [
-        {
-          "title": "규현-천우희-장동윤, ‘지구마불4’ 출격…경비행기 날개 위 포착 ‘아찔’",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523050"
         },
         {
-          "title": "'지구마불 세계여행4' 게스트 천우희·규현·장동윤, 중국 하늘사다리→윙워킹 도전 파트너",
-          "source": "비즈엔터",
-          "url": "https://enter.etoday.co.kr/news/view/304556"
-        },
-        {
-          "title": "천우희, 세계일주 열정 가득…”알레르기 많은데 그냥 먹어” (‘지구마불4’)",
-          "source": "TV리포트",
-          "url": "https://tvreport.co.kr/broadcast/article/1086941/"
+          "title": "Trực tiếp Chelsea vs Manchester United: Trận đấu đang diễn ra",
+          "source": "Báo Lâm Đồng",
+          "url": "https://baolamdong.vn/truc-tiep-chelsea-vs-manchester-united-tran-dau-dang-dien-ra-472209.html"
         }
       ]
     }
