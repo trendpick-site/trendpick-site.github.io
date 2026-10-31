@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T17:37:46+00:00",
+  "fetched_at": "2026-10-31T18:09:16+00:00",
   "items": [
+    {
+      "title": "바이에른 대 도르트문트",
+      "approx_traffic": "2000+",
+      "published": "Sat, 31 Oct 2026 09:40:00 -0700",
+      "news": [
+        {
+          "title": "'김민재 선발! 요나탄 타는 벤치' 콤파니의 선택은 韓 철기둥이었다...바이에른, 도르트문트와 분데스리가 1위 놓고 정면충돌",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112902057"
+        },
+        {
+          "title": "바이에른 뮌헨 vs 보루시아 도르트문트 예측: 선두 자리를 향한 경쟁이 더욱 치열해집니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-bayern-munchen-vs-borussia-dortmund-cuoc-dua-ngoi-dau-nong-len"
+        },
+        {
+          "title": "분데스리가 바이에른 뮌헨 대 도르트문트 생중계 링크",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bayern-munich-vs-dortmund-tai-bundesliga-1792458.ldo"
+        }
+      ]
+    },
+    {
+      "title": "미국 시간",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 09:40:00 -0700",
+      "news": [
+        {
+          "title": "미국, 서머타임 내달 1일 해제…동부기준 韓과 시차 13→14시간",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031008700075"
+        },
+        {
+          "title": "美 서머타임, 내달 1일 종료…트럼프는 왜 1년 내내 주장할까",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20108489"
+        },
+        {
+          "title": "美, 서머타임 해제…뉴욕증시 개장, 밤 11시 30분",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610310449391737"
+        }
+      ]
+    },
     {
       "title": "헐 시티 대 입스위치",
       "approx_traffic": "100+",
@@ -146,14 +190,14 @@
           "url": "https://www.bbc.com/sport/football/live/cq74p3w8z0jrt"
         },
         {
+          "title": "Swansea City 4-0 Blackburn Rovers: Swans back to winning ways in thumping victory",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13594325/swansea-city-4-0-blackburn-rovers-swans-back-to-winning-ways-in-thumping-victory"
+        },
+        {
           "title": "Mowbray expects Swans to be wounded animal",
           "source": "Yahoo Sports",
           "url": "https://sports.yahoo.com/articles/mowbray-expects-swans-wounded-animal-143301394.html"
-        },
-        {
-          "title": "Swansea City v Blackburn Rovers | How to watch or listen",
-          "source": "Swansea City",
-          "url": "https://www.swanseacity.com/news/swansea-city-v-blackburn-rovers-how-watch-or-listen-2"
         }
       ]
     },
@@ -176,45 +220,6 @@
           "title": "‘TLAW 대신 G2, KC 대신 BLG’…지독한 한화생명의 ‘대진운’, ‘2026 MSI 결승 리매치’ 성사!",
           "source": "스포츠경향",
           "url": "https://sports.khan.co.kr/article/202610310957003"
-        }
-      ]
-    },
-    {
-      "title": "ali",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 07:50:00 -0700",
-      "news": [
-        {
-          "title": "‘Ali G: Who Iz I?’ Review: A Bit Too Tired for This Media Age",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/28/movies/ali-g-who-iz-i-review.html"
-        },
-        {
-          "title": "A Generation of Men Once Revered Him. His New Movie Is the Worst I’ve Seen in Some Time.",
-          "source": "Slate",
-          "url": "https://slate.com/culture/2026/10/sacha-baron-cohen-ali-g-movie-nathan-fielder-you-can-see-everything.html"
-        },
-        {
-          "title": "‘Ali G: Who Iz I?’ Extends Theatrical Run as Amazon MGM Says Movie “Delivered Against Our Goals” (Exclusive)",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/ali-g-who-iz-i-theatrical-run-amazon-mgm-sacha-baron-cohen-1236742135/"
-        }
-      ]
-    },
-    {
-      "title": "카를로스 알카라스",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 07:50:00 -0700",
-      "news": [
-        {
-          "title": "[비엔나 오픈] 알카라스 '좋았어!'",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738138"
-        },
-        {
-          "title": "[비엔나 오픈] 라켓 던지는 토미 폴",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738150"
         }
       ]
     }
