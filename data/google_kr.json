@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T22:45:04+00:00",
+  "fetched_at": "2026-10-31T23:38:53+00:00",
   "items": [
     {
-      "title": "สภาพอากาศ",
-      "approx_traffic": "2000+",
-      "published": "Sat, 31 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "สภาพอากาศวันนี้ -6 พ.ย.ไทยฝนฟ้าคะนอง ลมกระโชกแรง ฝนหนักบางแห่ง",
-          "source": "thansettakij",
-          "url": "https://www.thansettakij.com/general-news/672676"
-        },
-        {
-          "title": "ปักหมุดรับลมหนาว! กรมอุตุฯ เผย 7-12 พ.ย. มีสัญญาณชัด มวลอากาศเย็นแผ่ลงมาแรงขึ้น",
-          "source": "Thaipost.net",
-          "url": "https://www.thaipost.net/general-news/1099128/"
-        },
-        {
-          "title": "สงขลา | ฝนจ่อเพิ่มกำลัง เรดาร์พบกลุ่มฝนฟ้าคะนอง ปกคลุมสงขลา–อ่าวไทย เตือนชาวเรือระวังคลื่นสูง ลมกระโชกแรง",
-          "source": "HATYAI FOCUS",
-          "url": "https://www.hatyaifocus.com/news-detail/32019/"
-        }
-      ]
-    },
-    {
-      "title": "최민정",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 14:10:00 -0700",
-      "news": [
-        {
-          "title": "최민정, 쇼트트랙 2차 월드투어 첫날 전 종목 조 1위 예선 통과",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261031018100007"
-        },
-        {
-          "title": "최민정, 2연속 우승...쇼트트랙 월드투어 통산 50번째 金",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261101000005"
-        },
-        {
-          "title": "쇼트트랙 최민정, 2차 월드투어 전 종목 예선 통과…김길리는 연속 충돌",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261031_0003849166"
-        }
-      ]
-    },
-    {
-      "title": "알렉산더 즈베레프",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 13:50:00 -0700",
-      "news": [
-        {
-          "title": "\"세계 1위까지 딱 1점 남았는데\" 츠베레프 스매시에 광고판 먹통→심판 두드리고 상대는 발로 '쾅'... 결국 수건 덮고 역사 썼다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/2026103109290489614"
-        },
-        {
-          "title": "신네르·알카라스 양강 깬 츠베레프…생애 첫 세계 1위 오른다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030093200007"
-        },
-        {
-          "title": "츠베레프, 생애 첫 테니스 랭킹 1위 등극 예고…신네르·알카라스 제쳐",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261030000798"
-        }
-      ]
-    },
-    {
-      "title": "삼성전자",
-      "approx_traffic": "20000+",
-      "published": "Sat, 31 Oct 2026 13:30:00 -0700",
-      "news": [
-        {
-          "title": "미래의 키보드는 키가 달랑 13개?…샘 올트먼, 삼성에 들고 왔다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/It/article/all/20261031/134942839/2"
-        },
-        {
-          "title": "샘 올트먼, 삼성 핵심 경영진과 AI 미래 논의… 반도체·데이터센터 협력 확대 기대",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845821"
-        },
-        {
-          "title": "오픈AI 샘 올트만 깜짝 방한…삼성 사장단에 AI 특강",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261101.99099000010"
-        }
-      ]
-    },
-    {
-      "title": "sports",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 13:30:00 -0700",
-      "news": [
-        {
-          "title": "#√☯️[[ESPN!!FREE+!]] Minnesota vs Sporting 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 29 October 2026",
-          "source": "Vantage Data Centers",
-          "url": "https://vantage-dc.com/virtual-tour-montreal-data-center/?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vZXZlbnQvb2EueG1sIi8+PC9rcnBhbm8+&id=video-espnfree-minnesota-vs-sporti-4h48df8d"
-        },
-        {
-          "title": "Minnesota United come alive late in comeback win over Kansas City",
-          "source": "The Lufkin Daily News",
-          "url": "https://lufkindailynews.com/news_reuters/sports/minnesota-united-come-alive-late-in-comeback-win-over-kansas-city/article_25088d43-b40f-5dcd-b534-c425534aaae5.html"
-        },
-        {
-          "title": "Anthony Markanich and Mauricio González score 4 minutes apart to help Minnesota beat Sporting KC 3-1",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://abcnews.com/Sports/wireStory/anthony-markanich-mauricio-gonzlez-score-4-minutes-apart-137662358"
-        }
-      ]
-    },
-    {
-      "title": "김민재",
-      "approx_traffic": "2000+",
-      "published": "Sat, 31 Oct 2026 13:00:00 -0700",
-      "news": [
-        {
-          "title": "獨매체의 공식 인증, 바이에른 주전 센터백은 타 아닌 김민재! '속도에서 훨씬 앞서'...\"도르트문트-아틀레티코 2연전 선발 복귀할 듯\" 전망",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/31/GRSGCNRSHFRDQNBXMUYDSZJYHA/"
-        },
-        {
-          "title": "\"김민재가 더 잘한다\" 바이에른 주전 경쟁 판도 뒤집혔다...독일 국대 수비수 벤치 신세, 에이전트는 구단과 극비 회담",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112901786"
-        },
-        {
-          "title": "사타구니부상 '김민재, 마침내 복귀 임박!' 바이에른 벤치 돌아왔다…도르트문트전 출격 가능성 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311059776900O"
-        }
-      ]
-    },
-    {
-      "title": "barcelona vs alavés",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 12:50:00 -0700",
-      "news": [
-        {
-          "title": "Raphinha marca ante el Alavés y lidera la tabla de goleo de las cinco grandes ligas europeas",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/es-us/raphinha-marca-ante-el-alaves-y-lidera-la-tabla-de-goleo-de-las-cinco-grandes-ligas-europeas"
-        },
-        {
-          "title": "Barcelona mantiene liderato en Liga española de fútbol",
-          "source": "Prensa Latina",
-          "url": "https://www.prensa-latina.cu/2026/10/31/barcelona-mantiene-liderato-en-liga-espanola-de-futbol/"
-        },
-        {
-          "title": "El Barça ahuyenta sus fantasmas tras la semana negra y golea al Alavés",
-          "source": "La Vanguardia",
-          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261031/11673048/barca-ahuyenta-fantasmas-semana-negra-golea-alaves.html"
-        }
-      ]
-    },
-    {
-      "title": "바르셀로나 대 알라베스",
-      "approx_traffic": "5000+",
-      "published": "Sat, 31 Oct 2026 12:10:00 -0700",
-      "news": [
-        {
-          "title": "[laliga.review] '야말-하피냐 나란히 멀티골 폭발!' 바르셀로나, 알라베스 6-1 대파…라리가 선두 탈환!",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100139"
-        },
-        {
-          "title": "라리가 바르셀로나 대 알라베스 축구 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-barcelona-vs-alaves-tai-la-liga-1792360.ldo"
-        },
-        {
-          "title": "바르셀로나, 엘클라시코 패배 이어 수비진 비상⋯에스파르트 7주 결장",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2640429"
-        }
-      ]
-    },
-    {
-      "title": "bundesliga",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 11:40:00 -0700",
-      "news": [
-        {
-          "title": "Laimer traf für Bayern bei 2:2 gegen Dortmund",
-          "source": "Südtirol News",
-          "url": "https://www.suedtirolnews.it/sport/laimer-traf-fuer-bayern-bei-22-gegen-dortmund"
-        },
-        {
-          "title": "Kovac zufrieden: „Können mit dem Unentschieden gut leben“",
-          "source": "SPORT1",
-          "url": "https://www.sport1.de/tv-video/video/kovac-zufrieden-koennen-mit-dem-unentschieden-gut-leben__2cab8c0a-6e57-4002-892c-b2e40a178dc3"
-        },
-        {
-          "title": "0:0! Urbig rettet Bayern vor dem Rückstand! FC Bayern – BVB im Live-Ticker",
-          "source": "BILD",
-          "url": "https://www.bild.de/sport/fussball/0-0-urbig-rettet-bayern-vor-dem-rueckstand-fc-bayern-bvb-im-live-ticker-6ae5faadaedea8cd9ffbf76f"
-        }
-      ]
-    },
-    {
-      "title": "레알 베티스 대 말라가",
+      "title": "fc barcelona vs deportivo alavés standings",
       "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 11:30:00 -0700",
+      "published": "Sat, 31 Oct 2026 15:30:00 -0700",
       "news": [
         {
-          "title": "Real Betis vs Málaga: Spanish La Liga stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cr78pxn97j46t"
+          "title": "Confirmed: Barcelona squad list to face Alaves – two new faces called up",
+          "source": "Barca Universal",
+          "url": "https://barcauniversal.com/confirmed-barcelona-squad-list-to-face-alaves-two-new-faces-called-up/"
         },
         {
-          "title": "🚨Confirmed XIs: Emotional Andalusian derby at La Cartuja",
+          "title": "Hansi Flick talks Brian Farinas and Frenkie de Jong in defence ahead of Barcelona vs Alaves",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/confirmed-xis-emotional-andalusian-derby-164000709.html"
+          "url": "https://sports.yahoo.com/articles/hansi-flick-talks-brian-farinas-194129848.html"
         },
         {
-          "title": "Real Betis vs Malaga - Prediction, where to watch, kick-off time and line-ups 31-10-2026",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/betting/predictions/real-betis-vs-malaga-31-10-2026"
+          "title": "Barcelona Player Ratings vs. Alaves: Barca Back in Business With Clinical Beatdown",
+          "source": "Forza Football",
+          "url": "https://forzafootball.com/news/barcelona-player-ratings-vs-alaves-barca-back-in-business-with-clinical-beatdown-159477019"
+        }
+      ]
+    },
+    {
+      "title": "눈 둘 데가 없네",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 15:30:00 -0700",
+      "news": [
+        {
+          "title": "[TF씨네리뷰] '눈 둘 데가 없네' 속 오래 남는 김민희",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/entertain/2383185.htm"
+        },
+        {
+          "title": "홍상수의 세상 인식법 '눈 둘 데가 없네'",
+          "source": "세상을 바꾸는 시민언론 민들레",
+          "url": "https://www.mindlenews.com/news/articleView.html?idxno=22991"
+        },
+        {
+          "title": "[삶과문화] 메시지 없는 영화",
+          "source": "세계일보",
+          "url": "https://m.segye.com/view/20261029516443"
+        }
+      ]
+    },
+    {
+      "title": "대구날씨",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 15:30:00 -0700",
+      "news": [
+        {
+          "title": "대구경북 대체로 흐리다가 낮부터 비…낮 최고 17도",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261101004400053"
+        },
+        {
+          "title": "[날씨] 대구·경북 오늘 늦은 밤~내일 새벽 5mm 미만 비",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699060"
+        },
+        {
+          "title": "시월 마지막날 경북중·북부내륙 짙은 안개...큰 기온차 '건강 유의'",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261030001316"
+        }
+      ]
+    },
+    {
+      "title": "샬럿 대 필라데피아",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "Sixers at Hornets: Game Preview, Injury Report and How to Watch 10/31/2026",
+          "source": "NBA.com",
+          "url": "https://sixers.com/news/sixers-at-hornets-game-preview-injury-report-and-how-to-watch-10-31-2026"
+        },
+        {
+          "title": "Charlotte Hornets vs. Philadelphia 76ers Full Game Preview, Score Predictions",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/nba/hornets/onsi/charlotte-hornets-vs-philadelphia-76ers-full-game-preview-score-predictions"
+        },
+        {
+          "title": "How to watch 76ers vs Hornets: NBA, live stream, TV channel",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/watch-76ers-vs-hornets-nba-210000986.html"
+        }
+      ]
+    },
+    {
+      "title": "대한민국 축구 국가대표팀",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "황희찬, 손흥민 하이파이브 외면하고 '쌩'…또 불붙은 '불화설' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/31/2026103119561622814"
+        },
+        {
+          "title": "‘손흥민 불확실한 미래, 선수단 내분’···가디언 “한국 축구 계속 추락”",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202610311852001"
+        },
+        {
+          "title": "\"손흥민, 호날두처럼 분열 초래\" 국제망신 된 축구대표팀 내분설",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/10/31/GJRGMMZZME3DGOBRGM2GCMZXGM/"
+        }
+      ]
+    },
+    {
+      "title": "박서진",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "박서진, 황혜선에 “누가 꽃인지”…부모님은 며느리 기대",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261101/134943083/1"
+        },
+        {
+          "title": "트로트 황태자 박서진, 민화 작가 데뷔···호평VS혹평 뜨거워('살림남2')",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/ME4WEOJVMMZDSZJRGMYTEYRRGM/"
+        },
+        {
+          "title": "박서진, 민화로 첫 전시회…불면증 극복이 계기",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738627"
+        }
+      ]
+    },
+    {
+      "title": "바이퍼",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "[롤드컵] '내전의 악마' TES, BLG 상대로 짜릿한 '패승승' 역전승… LPL 두 번째 8강 녹아웃行(종합)",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112901018"
+        },
+        {
+          "title": "‘999 is back!’…7개월 공백 지운 ‘369’ 바이자하오, TES의 8강을 이끌다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610301439003"
+        },
+        {
+          "title": "[롤드컵] '체급 차이 증명' BLG, LPL 내전 TES에 27분만에 기선제압",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261029165214863"
+        }
+      ]
+    },
+    {
+      "title": "노소영",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "9440억 중 2440억 남았다…최태원·노소영, 대법원서 다시 붙는다",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04336166645617512&mediaCodeNo=257"
+        },
+        {
+          "title": "최태원·노소영 재산분할 재상고심 심리 시작",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12091799"
+        },
+        {
+          "title": "최태원·노소영, '재산분할' 재상고심 대법원 2부 배당",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=777052"
+        }
+      ]
+    },
+    {
+      "title": "드라마",
+      "approx_traffic": "2000+",
+      "published": "Sat, 31 Oct 2026 15:10:00 -0700",
+      "news": [
+        {
+          "title": "\"넷플릭스 없어도 되겠네\"…韓드라마 공짜로 볼 수 있다는데 [김예랑의 K컬처인사이드]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610306126H"
+        },
+        {
+          "title": "구작으로 광고 수익에 신작 홍보까지…CJ ENM 'FAST 활용법' [엔터코노미]",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/article/2026103009432641537"
+        },
+        {
+          "title": "CJ ENM, 북미 LG채널 통해 ‘K-댄스 전용 FAST 채널’ 독점 론칭",
+          "source": "CJ ENM",
+          "url": "https://www.cjenm.com/ko/news/cj-enm-%EB%B6%81%EB%AF%B8-lg%EC%B1%84%EB%84%90-%ED%86%B5%ED%95%B4-k%EB%8C%84%EC%8A%A4-%EC%A0%84%EC%9A%A9-fast-%EC%B1%84%EB%84%90-%EB%8F%85%EC%A0%90-%EB%A1%A0%EC%B9%AD/"
+        }
+      ]
+    },
+    {
+      "title": "설악산",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 15:00:00 -0700",
+      "news": [
+        {
+          "title": "설악산 용아장성",
+          "source": "Arts & Culture",
+          "url": "https://www.artsnculture.com/news/articleView.html?idxno=7186"
+        },
+        {
+          "title": "\"등산할 때 친목은 사절, 버스만 예약할게요\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/weekend/2026/10/31/F5ZFBS2NV5EDZJCJ5MXX6Y5D44/"
         }
       ]
     }
