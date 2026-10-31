@@ -1,8 +1,206 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T10:41:48+00:00",
+  "fetched_at": "2026-10-31T11:14:08+00:00",
   "items": [
+    {
+      "title": "이승기",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "이승기 \"김종민 똥 싸느라 공연 5분 늦어\" 폭로",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261028505012"
+        },
+        {
+          "title": "김지원 닮은 김종민 ♥11살 연하 아내, 똑똑한 여자라는데 “지식인 울렁증 왜”(이승기2)",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202610281306222110"
+        },
+        {
+          "title": "‘채널 개설’ 이승기, 김종민 ‘행사 지각’ 폭로…”똥 싸러 가서 5분 동안 안 나와” [RE:뷰]",
+          "source": "TV리포트",
+          "url": "https://tvreport.co.kr/entertainment/article/1087375/"
+        }
+      ]
+    },
+    {
+      "title": "블리치",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "Bleach Anime Concludes After 22 Years with Special Ending Video",
+          "source": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/news/latest/2026/10/26/bleach-anime-concludes-after-22-years-with-special-ending-video"
+        },
+        {
+          "title": "After 20 Years, ‘Bleach’ Has Come to an Elegant, Exhausting, Fitting Finale",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/bleach-thousand-year-blood-war-series-finale-review-anime-tybw-2000831759"
+        },
+        {
+          "title": "'BLEACH' Creator Tite Kubo: Blood, Sweat, Tears, and Ink (Cover Story)",
+          "source": "Hypebeast",
+          "url": "https://hypebeast.com/2026/10/tite-kubo-bleach-hypebeast-magazine-issue-38-cover-story"
+        }
+      ]
+    },
+    {
+      "title": "기온",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 03:10:00 -0700",
+      "news": [
+        {
+          "title": "[날씨] 내일(토) 새벽에 중부 비…서울 한낮 14℃에 그쳐",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/weather/weather_view.php?s_mcd=1000&key=202610301510080002"
+        },
+        {
+          "title": "일요일 전국에 가을비…다음주 아침 기온 0도까지 ‘뚝’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/transport-environment/2026/10/31/47RFMCXPQNG75EKV3GYDAT25CU/"
+        },
+        {
+          "title": "전국 맑다가 밤부터 차차 흐려져…낮 최고 14∼21도",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031017400530"
+        }
+      ]
+    },
+    {
+      "title": "첼시 맨유",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 03:00:00 -0700",
+      "news": [
+        {
+          "title": "말 그대로 '초대형 호재'...맨유 '성골유스 MF' 부상 복귀→첼시전 출전 예정! 여전히 캐릭 신뢰, \"진심으로 싸우고 싶은 선수\"",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026102913083210826"
+        },
+        {
+          "title": "8경기 연속 못 이기면서 열차는 7분 지연시킨 맨유의 원정길… 분노한 팬들의 야유 세례, 캐릭 감독에게만 환호",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313616"
+        },
+        {
+          "title": "프리미어 리그 9라운드 경기 일정: 리버풀과 아스널, 맨체스터 유나이티드와 첼시의 맞대결.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/lich-ngoai-hang-anh-vong-9-liverpool-dai-chien-arsenal-mu-gap-chelsea"
+        }
+      ]
+    },
+    {
+      "title": "온라인 산사",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 03:00:00 -0700",
+      "news": [
+        {
+          "title": "\"방구석 누워 108배로 힐링\"…사흘간 60만명 다녀간 온라인 산사",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031034300005"
+        },
+        {
+          "title": "\"출근 전에 절 가서 108배\"…하루 10만명 몰린 사찰 어디길래 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/30/2026103011042983806"
+        },
+        {
+          "title": "요즘은 절도 온라인으로…하루 10만 명 찾은 ’가상 사찰’",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030161626APu"
+        }
+      ]
+    },
+    {
+      "title": "싱가포르",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 03:00:00 -0700",
+      "news": [
+        {
+          "title": "안산 청년 창업기업 7곳, 싱가포르서 투자·구매 의향서 체결… 해외시장 진출 모색",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3444767"
+        },
+        {
+          "title": "부산 스타트업 4개사, 싱가포르 혁신기술 전시회서 해외시장 진출 모색",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261030500434"
+        },
+        {
+          "title": "안산시, 청년 창업기업 해외 진출 지원…싱가포르서 교류 프로그램 진행",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738456"
+        }
+      ]
+    },
+    {
+      "title": "재건축",
+      "approx_traffic": "2000+",
+      "published": "Sat, 31 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "재건축 아파트값 '억' 소리나게 떨어져…몸테크 열풍 끝? [이슬기의 새집다오]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102938986"
+        },
+        {
+          "title": "은마 30억선도 흔들 … 강남 재건축 매물 쌓인다",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12191748"
+        },
+        {
+          "title": "압구정 재건축은 수십억 낮춰 거래…강남권 기축은 신고가",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/realestate/general/6336651"
+        }
+      ]
+    },
+    {
+      "title": "매매",
+      "approx_traffic": "1000+",
+      "published": "Sat, 31 Oct 2026 02:50:00 -0700",
+      "news": [
+        {
+          "title": "내놔도 안 팔리는 서울 아파트…매물 8만건 육박",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02450166645618496&mediaCodeNo=257"
+        },
+        {
+          "title": "집주인 호가 안 낮춰서 집값 오르나?...\"그런 요인도 있지만...\" [Y녹취록]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202610311900181788"
+        },
+        {
+          "title": "서울 노원구(蘆原區) · '26년 10월 부동산 흐름 (서울 +8.54% 앞지른 노원 +11.98% — 거래 +56.9%인데 84㎡ 중위가는 8.29억 제자리)",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/plaform/bg/contents/261031081821198is"
+        }
+      ]
+    },
+    {
+      "title": "광주 fc 대 김천상무 순위",
+      "approx_traffic": "5000+",
+      "published": "Sat, 31 Oct 2026 02:40:00 -0700",
+      "news": [
+        {
+          "title": "'승강 PO 열린다' 김천, 최소 11위 확보...'김인균-아이데일 장군멍군' 광주와 1-1 무승부",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/10/31/MI4DQOBXMQYTQZJSMUZTMZDEMU/"
+        },
+        {
+          "title": "[프로축구] 김천, 광주와 1-1…최하위 면해 '승강 PO' 개최 확정",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261031000087"
+        },
+        {
+          "title": "이정규 광주FC 감독 \"반 흐룬스벤 내전근 근육 찢어진 듯…병원서 정밀 검사 필요\"",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=927777"
+        }
+      ]
+    },
     {
       "title": "김태희",
       "approx_traffic": "100+",
@@ -22,188 +220,6 @@
           "title": "47세 김태희, 때아닌 외모 악플 세례…\"저 나이에 이런 미모 가능?\" 갑론을박 [Oh!쎈 이슈]",
           "source": "조선일보",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/GQZTINBQMY4GMMTBMYZTQNBYGM/"
-        }
-      ]
-    },
-    {
-      "title": "인턴",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 02:20:00 -0700",
-      "news": [
-        {
-          "title": "\"올해 50세 9급 합격해 첫 출근\"…늦깎이 신입 공무원에 응원 봇물",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027112214sQI"
-        },
-        {
-          "title": "‘인턴’ 실사판?…50세에 9급 합격한 공무원 “질문 받아주는 선임들 고마워”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261031/134942733/2"
-        },
-        {
-          "title": "\"50살 신입 공무원입니다!\"...인생 2막 '활짝' [나우쇼츠]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610301235027550"
-        }
-      ]
-    },
-    {
-      "title": "전상현",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 02:10:00 -0700",
-      "news": [
-        {
-          "title": "역투 조상우",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261030_0021512209"
-        },
-        {
-          "title": "“4kg 빠졌다, 내 몸 따질 때 아니야” 30세 마무리의 투혼, 2이닝 퍼펙트 세이브→탈락 위기 KIA 구했다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112901679"
-        },
-        {
-          "title": "“불펜 투수들도 봐주세요”… 전상현이 떠올린 동료들의 땀",
-          "source": "스포츠월드",
-          "url": "https://www.sportsworldi.com/newsView/20261031503440"
-        }
-      ]
-    },
-    {
-      "title": "k리그2",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 02:00:00 -0700",
-      "news": [
-        {
-          "title": "K리그2 수원 승격 도전 다음주로…대구 원정서 2-2 무승부",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261031043900007"
-        },
-        {
-          "title": "K리그2 수원, 대구와 2-2 무승부…다음 주 우승+승격 도전",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261031_0003849372"
-        },
-        {
-          "title": "[SPO 현장] ‘경고누적’ 이정효 감독 대신 기자회견 참석한 마철준 수석코치 “선수들이 분위기에 흔들린 것은 사실”",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016715"
-        }
-      ]
-    },
-    {
-      "title": "용인fc 대 서울 이랜드 fc 순위",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 01:40:00 -0700",
-      "news": []
-    },
-    {
-      "title": "충남 아산 fc 대 김포",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 01:30:00 -0700",
-      "news": [
-        {
-          "title": "'2경기 덜 치르고 6점 차' 6위 화성 패배에 충남아산 안드레 감독이 보인 반응은?",
-          "source": "스포츠니어스",
-          "url": "https://www.sports-g.com/news/articleView.html?idxno=217081"
-        },
-        {
-          "title": "[GOAL 아산] “모든 건 제 역량이 부족해서 일어난 일” 완패에 고개 숙인 고정운 감독 “팬분들에게 죄송”",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/goal-%E1%84%8B%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB--%E1%84%86%E1%85%A9%E1%84%83%E1%85%B3%E1%86%AB-%E1%84%80%E1%85%A5%E1%86%AB-%E1%84%8C%E1%85%A6-%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%85%E1%85%A3%E1%86%BC%E1%84%8B%E1%85%B5-%E1%84%87%E1%85%AE%E1%84%8C%E1%85%A9%E1%86%A8%E1%84%92%E1%85%A2%E1%84%89%E1%85%A5-%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%A5%E1%84%82%E1%85%A1%E1%86%AB-%E1%84%8B%E1%85%B5%E1%86%AF-%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%91%E1%85%A2%E1%84%8B%E1%85%A6-%E1%84%80%E1%85%A9%E1%84%80%E1%85%A2-%E1%84%89%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB-%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%AE%E1%86%AB-%E1%84%80%E1%85%A1%E1%86%B7%E1%84%83%E1%85%A9%E1%86%A8-%E1%84%91%E1%85%A2%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6-%E1%84%8C%E1%85%AC%E1%84%89%E1%85%A9%E1%86%BC/blt14a2321c1c9ae667"
-        },
-        {
-          "title": "충남아산, 김포전에서 할로윈 테마 홈경기 ‘HAUNTED MISSION’ 개최...한교원 400경기 출전 대기록 기념식 진행",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697455"
-        }
-      ]
-    },
-    {
-      "title": "하남시",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 01:20:00 -0700",
-      "news": [
-        {
-          "title": "수도권 신규택지 후보지 발표 - 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974619&pWise=sub&pWiseSub=C2"
-        },
-        {
-          "title": "김포아라 3만7000호 발표에 김포시·시민사회 반발",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335557"
-        },
-        {
-          "title": "[사설]수도권 주택공급, 정부·지자체 적극 협력해야",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610301833001"
-        }
-      ]
-    },
-    {
-      "title": "jtbc 서울 마라톤",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 01:10:00 -0700",
-      "news": [
-        {
-          "title": "월치, 11월1일 JTBC 마라톤서 스포츠 케어 제품 체험 부스 운영",
-          "source": "시민일보",
-          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160286451854054"
-        },
-        {
-          "title": "러닝에도 MBTI가 있다?…HLB라이프케어, 러닝 유형별 운동법 제안",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/bio/pharmaceutical-bio/6338001"
-        },
-        {
-          "title": "웅진식품 이온더핏, 서울 도심 마라톤서 수분 보충 음료 맡아",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202610300908085387204ead0791_12"
-        }
-      ]
-    },
-    {
-      "title": "aim-120 암람",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 01:10:00 -0700",
-      "news": [
-        {
-          "title": "\"일본서 미사일 공동 생산\" 중국 코앞 군수거점‥무기 생산도 '한 몸'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861755_37004.html"
-        },
-        {
-          "title": "日방위상 \"전수방위 불변…위협 '거부하는 힘' 강화할 것\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261029_0003847416"
-        },
-        {
-          "title": "중국 코앞에서 美 암람 미사일 생산…K방산에 미치는 영향은? [밀리터리+]",
-          "source": "나우뉴스",
-          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261030601011"
-        }
-      ]
-    },
-    {
-      "title": "김가영",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 01:10:00 -0700",
-      "news": [
-        {
-          "title": "[김용일의 당구인사이트] ‘김가영 천하’가 역설적으로 만든 LPBA 춘추전국시대",
-          "source": "mkbn.mk.co.kr",
-          "url": "https://mkbn.mk.co.kr/news/sports/12192384"
-        },
-        {
-          "title": "“당구가 싫었다”던 딸 김보미, 아버지 앞에서 7년 한 풀었다",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02719126645616856&mediaCodeNo=257"
-        },
-        {
-          "title": "‘아름다운 준우승’ 임정숙 \"김보미 우승 누구보다 바랐다…어려운 시기 함께했던 동료\"",
-          "source": "빌리어즈",
-          "url": "https://www.thebilliards.kr/news/articleView.html?idxno=32284"
         }
       ]
     }
