@@ -1,8 +1,152 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T05:45:16+00:00",
+  "fetched_at": "2026-10-31T06:53:57+00:00",
   "items": [
+    {
+      "title": "르윈 디아즈",
+      "approx_traffic": "200+",
+      "published": "Fri, 30 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "'충격' 삼성 선수 아내 향해 '입에 담을 수도 없는 욕설' 퍼부어 \"제 가족 향해 온갖 저주와 악담, 건강까지 나빠졌다... 강아지 3마리 모두 수술\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/31/2026103016491424653"
+        },
+        {
+          "title": "\"위선적인 사람들, 어떤 것도 요구하지 말라\" 디아즈, 도 넘은 악플 테러에 또 폭발했다",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112901726"
+        },
+        {
+          "title": "'선 넘었다' 충격의 악플 테러, 결국 삼성 외인 또 폭발했다…\"내가 만난 사람 중 가장 위선적\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/31/MVSDGYRSMMZDOYLGMRSDEMZYGM/"
+        }
+      ]
+    },
+    {
+      "title": "원자력 발전소",
+      "approx_traffic": "200+",
+      "published": "Fri, 30 Oct 2026 22:50:00 -0700",
+      "news": [
+        {
+          "title": "아프리카 48개국 러시아로 부른 푸틴…영향력 확대 나서",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029211800099"
+        },
+        {
+          "title": "나미비아 대통령과 회담하는 푸틴 대통령",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261030_0002278678"
+        },
+        {
+          "title": "푸틴의 아프리카 공세, 냉전 시절 소련의 재현",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280205"
+        }
+      ]
+    },
+    {
+      "title": "이순 실",
+      "approx_traffic": "2000+",
+      "published": "Fri, 30 Oct 2026 22:40:00 -0700",
+      "news": [
+        {
+          "title": "102kg였던 이순실 \"10개월 동안 43kg 감량, 시니어 모델 도전\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6338531"
+        },
+        {
+          "title": "이순실, 10개월 만에 43kg 감량…171cm·59kg로 시니어 모델 도전 (사당귀)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261031/134942351/1"
+        },
+        {
+          "title": "'사당귀' 이순실, 10개월 동안 43kg 감량 성공…\"다른 사람 돼\"",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01849926645618496&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "title": "라이언 와이스",
+      "approx_traffic": "1000+",
+      "published": "Fri, 30 Oct 2026 22:40:00 -0700",
+      "news": [
+        {
+          "title": "'한화 어쩌나' 美도 와이스 관심 보인다…\"빠듯한 자금력 구단, 지체없이 움직여야 한다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/31/GM2WEZJXMVTGEN3CME2TEY3DGU/"
+        },
+        {
+          "title": "'한화 출신' 와이스, MLB 휴스턴 떠나 FA 신분…KBO리그 복귀하나",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848374"
+        },
+        {
+          "title": "“한국 그리워요” 와이스 아내의 꿈 현실 되나! FA 된 대전예수, 美 한화 복귀 점쳤다 “해외무대 재도전 원할 것”",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900973"
+        }
+      ]
+    },
+    {
+      "title": "샘 올트먼",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 22:40:00 -0700",
+      "news": [
+        {
+          "title": "[속보]삼성 사장단, 샘 올트먼 초청 AI 혁신‘ 간담회 개최...“AX 추진 가속화”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12192426"
+        },
+        {
+          "title": "샘 올트먼 OpenAI CEO, 삼성 사장단과 간담회",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261031_0021512634"
+        },
+        {
+          "title": "\"경영진부터 AI 쓴다\"…올트먼 만난 삼성 사장단, 지식저장소 실습도",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026103175327"
+        }
+      ]
+    },
+    {
+      "title": "용인fc 대 서울e",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 22:10:00 -0700",
+      "news": []
+    },
+    {
+      "title": "안양 정관장 대 수원 kt",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 22:10:00 -0700",
+      "news": []
+    },
+    {
+      "title": "박진만",
+      "approx_traffic": "10000+",
+      "published": "Fri, 30 Oct 2026 22:00:00 -0700",
+      "news": [
+        {
+          "title": "KIA, 플레이오프 4차전서 4 대 2 역전승‥모레 대구서 최종 5차전",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6862096_36946.html"
+        },
+        {
+          "title": "사자의 치명적 실책, 호랑이 살렸다!…PO 승부는 5차전으로",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700424"
+        },
+        {
+          "title": "‘2번 김도영’이 열고 한준수가 해결… 죽다 산 호랑이 “끝을 보자”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/30/OTS5QDTHNFDJZKS5EVBBBA3U5Q/"
+        }
+      ]
+    },
     {
       "title": "어벤져스: 둠스데이",
       "approx_traffic": "100+",
@@ -27,175 +171,9 @@
     },
     {
       "title": "전북 대 대전",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Fri, 30 Oct 2026 21:20:00 -0700",
       "news": []
-    },
-    {
-      "title": "인도네시아",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "조현, 인도네시아와 외교장관회담…전략적소통 강화 논의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030081400504"
-        },
-        {
-          "title": "김희상 셰르파, G20 정상회의 대비 차원 인도네시아 셰르파 면담",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6336823"
-        },
-        {
-          "title": "한-인도네시아 외교장관 회담(10.29.) 결과",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=454267"
-        }
-      ]
-    },
-    {
-      "title": "bangladesh vs west indies",
-      "approx_traffic": "100+",
-      "published": "Fri, 30 Oct 2026 21:00:00 -0700",
-      "news": [
-        {
-          "title": "BAN vs WI Cricket Scorecard, 1st Test at Dhaka, October 28 - November 01, 2026",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/full-scorecard"
-        },
-        {
-          "title": "Bangladesh in deep trouble on day-3",
-          "source": "The Express Tribune",
-          "url": "https://tribune.com.pk/story/2637786/bangladesh-in-deep-trouble-on-day-3"
-        },
-        {
-          "title": "Spinners torment both sides as Bangladesh struggle in Mirpur",
-          "source": "Daily Sun",
-          "url": "https://www.daily-sun.com/sports/906231/spinners-torment-both-sides-as-bangladesh-struggle-in-mirpur"
-        }
-      ]
-    },
-    {
-      "title": "jtbc",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 20:30:00 -0700",
-      "news": [
-        {
-          "title": "Chefs discuss weight loss and similar looks in JTBC special video",
-          "source": "www.famtimes.co.kr",
-          "url": "https://www.famtimes.co.kr/en/news/articleView.html?idxno=703790"
-        }
-      ]
-    },
-    {
-      "title": "이지현",
-      "approx_traffic": "1000+",
-      "published": "Fri, 30 Oct 2026 20:10:00 -0700",
-      "news": [
-        {
-          "title": "\"가족 때문에 불행\"…'싱글맘' 이지현, 11살 아들 가출 고백 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103023354313811"
-        },
-        {
-          "title": "“아빠랑 살고 싶어” 김현숙, 아들 한마디에 자책­…48세에 대학원 진학",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261030/134937445/1"
-        },
-        {
-          "title": "'막영애' 김현숙 \"싱글맘 자격지심 생겨…아들이 아빠랑 살고 싶어 해\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6338102"
-        }
-      ]
-    },
-    {
-      "title": "제주 삼다수",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 20:10:00 -0700",
-      "news": [
-        {
-          "title": "“삼다수인 줄 알았는데”…무라벨 생수 늘자 식별 혼선",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05162726645618168&mediaCodeNo=257"
-        },
-        {
-          "title": "라벨 뗀 제주삼다수, 한라산 새기고 페트병 무게 줄였다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261030/134938632/1"
-        },
-        {
-          "title": "\"국가대표부터 지역 선수까지\" … 제주삼다수, 스포츠 후원 저변 넓힌다",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/30/2026103000155.html"
-        }
-      ]
-    },
-    {
-      "title": "india vs uae",
-      "approx_traffic": "1000+",
-      "published": "Fri, 30 Oct 2026 19:50:00 -0700",
-      "news": [
-        {
-          "title": "UAE:97/0 (4.2) | Live Cricket Score | UAE vs IND | hk sixes 2026 | Cricket Scoreboard",
-          "source": "NDTV Sports",
-          "url": "https://sports.ndtv.com/cricket/uae-vs-ind-scorecard-live-cricket-score-hong-kong-sixes-2026-match-12-uain10312026275383"
-        },
-        {
-          "title": "United Arab Emirates vs India Live Cricket Score:: Match 12 Full Scorecard & Commentary",
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/firstcricket/cricket-live-score/india-vs-united-arab-emirates-s6-live-cricket-score-full/15828/275383.html"
-        },
-        {
-          "title": "India vs UAE: After Pakistan loss, Krunal Pandya's men suffer another Hong Kong Sixes 2026 defeat; Afghanistan win",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/sports/cricket-news/india-vs-uae-after-pakistan-loss-krunal-pandyas-men-suffer-another-hong-kong-sixes-2026-defeat-afghanistan-win-11793421134657.html"
-        }
-      ]
-    },
-    {
-      "title": "jtbc 마라톤",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 19:50:00 -0700",
-      "news": [
-        {
-          "title": "월치, 11월1일 JTBC 마라톤서 스포츠 케어 제품 체험 부스 운영",
-          "source": "시민일보",
-          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160286451854054"
-        },
-        {
-          "title": "러닝에도 MBTI가 있다?…HLB라이프케어, 러닝 유형별 운동법 제안",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/bio/pharmaceutical-bio/6338001"
-        },
-        {
-          "title": "웅진식품 이온더핏, 서울 도심 마라톤서 수분 보충 음료 맡아",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202610300908085387204ead0791_12"
-        }
-      ]
-    },
-    {
-      "title": "공휴일",
-      "approx_traffic": "2000+",
-      "published": "Fri, 30 Oct 2026 19:40:00 -0700",
-      "news": [
-        {
-          "title": "노동절·제헌절 대체공휴일 첫 적용… 2027년 휴일 및 연차 활용법 총정리",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738221"
-        },
-        {
-          "title": "2027년 10월 연휴, 연차 4일로 10일 쉰다",
-          "source": "비건뉴스",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=398553"
-        },
-        {
-          "title": "2027년 공휴일 총정리, 연차 언제 쓰면 좋을까?",
-          "source": "잡플래닛",
-          "url": "https://www.jobplanet.co.kr/contents/news-8549?referrer=newsroom"
-        }
-      ]
     }
   ]
 }
