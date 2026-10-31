@@ -1,11 +1,187 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-30T23:15:23+00:00",
+  "fetched_at": "2026-10-31T00:11:01+00:00",
   "items": [
     {
-      "title": "박서진",
+      "title": "sk 사장단 인사",
       "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 16:00:00 -0700",
+      "news": [
+        {
+          "title": "SK그룹, 2027년 사장단 인사…SK이노베이션 CEO에 정승일(종합2보)",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442142"
+        },
+        {
+          "title": "\"74년생 CEO 약진, 서울대 상대 강세\" SK 사장단 인사 '신구 조화' 면면은",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848274"
+        },
+        {
+          "title": "최태원의 '반도체 장자방' 곽노정 유임…그룹 내 입지 더 커졌다",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353465"
+        }
+      ]
+    },
+    {
+      "title": "우주선",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 15:50:00 -0700",
+      "news": [
+        {
+          "title": "美정보국 \"中, 위성요격무기 배치할듯…美동맹 위성도 공격대상\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030000200071"
+        },
+        {
+          "title": "\"中, 조만간 우주 레이저·핵무기 실전 배치\"… 스타워즈 현실화되나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/us/2026/10/31/WFO3EPKWOZA7PE3RRFWEL2HKX4/"
+        },
+        {
+          "title": "美 보고서에 포착된 中 기밀 우주선…고해상도 사진 보니",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261030083348"
+        }
+      ]
+    },
+    {
+      "title": "샌디스크",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 15:50:00 -0700",
+      "news": [
+        {
+          "title": "샌디스크, 분기 영업이익 49배 급증",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030030500009"
+        },
+        {
+          "title": "샌디스크, 로블록스, 트윌리오",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01649846645618496"
+        },
+        {
+          "title": "키옥시아 NAND 가격 경고에 샌디스크 주가 11% 급락",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2151922"
+        }
+      ]
+    },
+    {
+      "title": "lcs",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 15:40:00 -0700",
+      "news": [
+        {
+          "title": "USS Canberra departs Colombo after scheduled port visit",
+          "source": "Pacific Fleet (.mil)",
+          "url": "https://www.cpf.navy.mil/Newsroom/News/Article/4637190/uss-canberra-departs-colombo-after-scheduled-port-visit/"
+        },
+        {
+          "title": "US warship makes second Colombo call this year as military ties deepen",
+          "source": "Tamil Guardian",
+          "url": "https://www.tamilguardian.com/content/us-navys-uss-canberra-arrives-colombo-second-visit-year"
+        },
+        {
+          "title": "US Navy ship USS Canberra arrives at Colombo Port",
+          "source": "Ada Derana",
+          "url": "https://adaderana.lk/news/250563"
+        }
+      ]
+    },
+    {
+      "title": "직장폐쇄",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 15:30:00 -0700",
+      "news": [
+        {
+          "title": "WS 우승 기쁨도 잠시… 밀워키, 직장폐쇄 위기",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627545"
+        },
+        {
+          "title": "다저스 선수 영입도 중단되나…MLB 12월 직장폐쇄 위기",
+          "source": "라디오코리아",
+          "url": "https://www.radiokorea.com/news/article.php?uid=508309"
+        },
+        {
+          "title": "스몰마켓 WS 반작용? \"샐러리캡 필요해\" 더 커진 구단주들 목소리…결국 직장폐쇄 수순으로 가나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/25/MUZWKYLDGZTDSOLGHBRDGYZYGI/"
+        }
+      ]
+    },
+    {
+      "title": "테슬라",
+      "approx_traffic": "1000+",
+      "published": "Fri, 30 Oct 2026 15:30:00 -0700",
+      "news": [
+        {
+          "title": "[횡설수설/신광영]중국산 테슬라 ‘탈옥’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261029/134936061/2"
+        },
+        {
+          "title": "한의약진흥원과 테슬라 FSD…국가의 보호막은 언제까지",
+          "source": "MEDI:GATE NEWS",
+          "url": "https://www.medigatenews.com/news/1376431761"
+        },
+        {
+          "title": "’테슬라 완전자율주행 환불 요구’ 차주들 패소",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030014353QoP"
+        }
+      ]
+    },
+    {
+      "title": "증여",
+      "approx_traffic": "500+",
+      "published": "Fri, 30 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "“내 아들 대신 네 딸에게”…수상한 증여의 반전[세금, 그 후]",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01082406645618496&mediaCodeNo=257"
+        },
+        {
+          "title": "[포커스] '주가 누르기' 끝낼 수 없나‥정부안 부족하다면 어떻게?",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6861681_36974.html"
+        },
+        {
+          "title": "[단독] ＇주가누르기 방지＇ 끝장토론 한다…＂11월말 처리＂",
+          "source": "한국경제TV",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290166"
+        }
+      ]
+    },
+    {
+      "title": "실업급여",
+      "approx_traffic": "100+",
+      "published": "Fri, 30 Oct 2026 15:20:00 -0700",
+      "news": [
+        {
+          "title": "\"실업급여로 일본 놀러 왔어\"…강레오, 철없는 청년들에 폭발",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610292324H"
+        },
+        {
+          "title": "\"세금으로 日여행 얌체 짓, 열 받아\"…강레오·박명수 화난 '실업급여' 얼마길래",
+          "source": "이코노미스트",
+          "url": "https://economist.co.kr/article/view/ecn202610290042"
+        },
+        {
+          "title": "“실업급여로 日 여행와놓고 일자리 없다?”…강레오 “감자탕집 가봐라 할 일이 천지”",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261029000453"
+        }
+      ]
+    },
+    {
+      "title": "박서진",
+      "approx_traffic": "200+",
       "published": "Fri, 30 Oct 2026 15:10:00 -0700",
       "news": [
         {
@@ -14,196 +190,36 @@
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264049"
         },
         {
-          "title": "'집돌이' 은지원, 재혼 후 반전...이승기도 '깜짝' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102905350572744"
+          "title": "박서진, 황혜선 등장에 귀까지 빨개졌다…母 “우리 서진이 어떤지?”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261030/134937739/1"
         },
         {
-          "title": "은지원, ♥9살 연하 아내와 '결혼 1주년' 캠핑카 여행..달달 신혼 근황 ('살림남')",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112900944"
+          "title": "박서진 첫 민화 전시회 썸녀 황혜선 깜짝 등장, 父도 “미래 며느리”(살림남)",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202610300801061910"
         }
       ]
     },
     {
       "title": "이수현",
-      "approx_traffic": "2000+",
+      "approx_traffic": "10000+",
       "published": "Fri, 30 Oct 2026 15:00:00 -0700",
       "news": [
         {
-          "title": "이수현 “뼈말라, 나한텐 칭찬 아냐”…30kg 감량 후 불편한 심경",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261030/134938610/1"
-        },
-        {
-          "title": "악뮤 수현, 안경 쓰고 귀여움까지 장착…30㎏ 감량 후 매일이 ‘리즈’",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20107721"
-        },
-        {
-          "title": "안경 쓰고 귀여움 장착...악뮤 수현, 30kg 감량 후 매일이 리즈",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1645082"
-        }
-      ]
-    },
-    {
-      "title": "신세계백화점 강남점",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 14:30:00 -0700",
-      "news": []
-    },
-    {
-      "title": "나스닥 100",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 14:30:00 -0700",
-      "news": [
-        {
-          "title": "알파벳 시총 5,000억 달러 증발, 뉴욕증시 일제히 하락",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3824_2_C1"
-        },
-        {
-          "title": "AI가 잘될수록 손해? ‘AI의 역설’... 구글 시총 669조원 하룻밤 새 증발",
+          "title": "악뮤 이찬혁 회사, 파격 입사조건 \"직원들 성씨 겹치면 안 돼\" ('전참시')",
           "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/10/30/2D5JN3LFSZDS7HSBWWJ4JOYYX4/"
+          "url": "https://www.chosun.com/entertainments/2026/10/30/GY4TKNBRGA4TOMTEHBQTQODFGE/"
         },
         {
-          "title": "[속보] 뉴욕 증시, 기술주 실적 부진에 하락 출발···다우 0.27%↓ 나스닥 2.42%↓",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003849101"
-        }
-      ]
-    },
-    {
-      "title": "김구라",
-      "approx_traffic": "500+",
-      "published": "Fri, 30 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "'김구라 아들' 그리, 연수입 3억·30평 아파트 마련…\"3년 내 결혼 목표\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003849082"
+          "title": "‘소속사 대표’ 이찬혁, 직원 채용 조건도 독특 “성씨 겹치면 안 돼”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261030/134937377/1"
         },
         {
-          "title": "'구리 아파트 대박' 김구라 아들 그리 \"6만원에 산 주식 120만원\" 깜짝",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6337297"
-        },
-        {
-          "title": "그리, 父 김구라 믿고 투자했다가 '상장폐지'…\"주워온 자식인가 싶었다\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-30/202610300100193150013362"
-        }
-      ]
-    },
-    {
-      "title": "skhy",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 14:20:00 -0700",
-      "news": [
-        {
-          "title": "SK hynix Announces 3Q26 Financial Results",
-          "source": "SK hynix",
-          "url": "https://news.skhynix.com/en/q3-2026-business-results/"
-        },
-        {
-          "title": "[Breaking] Samsung Electronics Earned 106.5 Trillion Won from Semiconductors Alone in Q3… DX Division Posts 800 Billion Won Loss",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/en/industry/2026/10/29/2026102907571138478"
-        },
-        {
-          "title": "\"Three Years' Worth of Supply Already Sold Out\" Sparks Excitement… \"Concerns Over AI Cleared\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008820099"
-        }
-      ]
-    },
-    {
-      "title": "dl이앤씨",
-      "approx_traffic": "100+",
-      "published": "Fri, 30 Oct 2026 14:10:00 -0700",
-      "news": [
-        {
-          "title": "DL이앤씨 3분기 영업이익 1천73억원…작년 대비 8.1%↓(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030124451527"
-        },
-        {
-          "title": "샤힌 추가 비용에 이익 감소…DL이앤씨, 3분기 영업익 1073억원 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/30/2026103016183773060"
-        },
-        {
-          "title": "DL이앤씨, 플랜트 원가 부담 '수익성 개선' 주춤",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BnEFWJFYTO"
-        }
-      ]
-    },
-    {
-      "title": "필라델피아 반도체 지수",
-      "approx_traffic": "1000+",
-      "published": "Fri, 30 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "반도체株, AI 투자 우려·기술주 매도세에 동반 급락",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01607206645618496"
-        },
-        {
-          "title": "[속보]필라델피아 반도체 지수 1.4%↓…AI 투매 재개에 닷새 만에 하락",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/international-economy/6337158"
-        },
-        {
-          "title": "필라델피아 반도체지수 장중 6% 하락…인텔($INTC)도 장중 29.6% 하락",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/breaking/430243"
-        }
-      ]
-    },
-    {
-      "title": "알렉산더 즈베레프",
-      "approx_traffic": "200+",
-      "published": "Fri, 30 Oct 2026 14:00:00 -0700",
-      "news": [
-        {
-          "title": "신네르·알카라스 양강 깬 츠베레프…생애 첫 세계 1위 오른다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030093200007"
-        },
-        {
-          "title": "츠베레프, '2강' 신네르·알카라스 넘어 세계랭킹 1위 예약",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/general-sport/6337920"
-        },
-        {
-          "title": "'차세대’ 꼬리표 떼고 마침내 정상… 즈베레프, 생애 첫 세계 1위",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05654726645618168&mediaCodeNo=257"
-        }
-      ]
-    },
-    {
-      "title": "신발",
-      "approx_traffic": "5000+",
-      "published": "Fri, 30 Oct 2026 13:50:00 -0700",
-      "news": [
-        {
-          "title": "[포토오늘] 부산서 만나는 패션의 모든 것",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202610300425209403"
-        },
-        {
-          "title": "올해 패패부산 `신발혁신상` 대상에 튜브락 ‘다이얼아치 300’",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261030.99099008999"
-        },
-        {
-          "title": "화려한 패션쇼",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261029_0021509842"
+          "title": "이찬혁표 회사는 다르다…주 4일제+스윙댄스 파격 복지 (전참시)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522977"
         }
       ]
     }
