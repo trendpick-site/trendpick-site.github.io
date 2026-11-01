@@ -1,11 +1,105 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T13:28:42+00:00",
+  "fetched_at": "2026-11-01T14:17:36+00:00",
   "items": [
     {
-      "title": "롯데그룹",
+      "title": "중산층",
+      "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 05:00:00 -0800",
+      "news": [
+        {
+          "title": "[그래픽] 소득분위별 근로·사업소득 감소 비율",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/GYH20261101000500044"
+        },
+        {
+          "title": "“주변에 큰돈 벌었단 얘기 들리는데”…중산층 10명 중 4명 되레 소득 줄어",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1186370"
+        },
+        {
+          "title": "중간소득층 40% 벌이 줄었다…8명 중 1명은 소득 '반토막'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849585"
+        }
+      ]
+    },
+    {
+      "title": "배용준",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 05:00:00 -0800",
+      "news": [
+        {
+          "title": "[포토] 배용준, 사랑하는 부모님과 함께",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03037286645641456&mediaCodeNo=257"
+        },
+        {
+          "title": "배용준, KPGA 렉서스 마스터즈서 2차 연장 끝 정상…통산 3승 달성",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849931"
+        },
+        {
+          "title": "배용준, 2차 연장 우승…스트로크 플레이 대회 첫 정상",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110118223142932"
+        }
+      ]
+    },
+    {
+      "title": "살림하는 남자들",
       "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 04:50:00 -0800",
+      "news": []
+    },
+    {
+      "title": "김건모",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 04:40:00 -0800",
+      "news": [
+        {
+          "title": "'새출발' 김건모, 회춘 비주얼로 전한 근황",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261101506853"
+        },
+        {
+          "title": "58세 김건모, 누명 벗으니 얼굴까지 달라졌어..깜짝 놀랄 동안 비주얼[핫피플]",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/01/MUZTENRTGMZTAZJTGM3WMMDEGI/"
+        },
+        {
+          "title": "\"지옥의 3년 버티더니 싹 바뀌었다\"… 누명 벗은 김건모, 확 젊어진 충격 근황",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611011756369860"
+        }
+      ]
+    },
+    {
+      "title": "이봉주",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 04:40:00 -0800",
+      "news": [
+        {
+          "title": "이봉주, 근육 뒤틀리는 희귀병 투병→다시 달리며 희망 전해 (시대목격)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261101/134943355/1"
+        },
+        {
+          "title": "'근육 긴장 이상증' 이봉주 \"숨어 있었으면, 회복 못했을 것\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849567"
+        },
+        {
+          "title": "이봉주, 근육 긴장 이상증 투병..\"숨어 있었으면 회복 못 했을 것\"('시대목격')",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/01/MVSWENBVMRRGMZJZHEYTAMJUHA/"
+        }
+      ]
+    },
+    {
+      "title": "롯데그룹",
+      "approx_traffic": "200+",
       "published": "Sun, 1 Nov 2026 04:20:00 -0800",
       "news": [
         {
@@ -19,9 +113,9 @@
           "url": "https://www.asiatime.co.kr/article/20261030500258"
         },
         {
-          "title": "롯데 \"롯데렌탈 매각 거래 종결…매각대금 1조3천억원 확보\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030128200030"
+          "title": "TPG, 롯데렌탈 인수 1조3105억원에 마무리",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/Read?newsId=05795766645618168"
         }
       ]
     },
@@ -49,7 +143,7 @@
     },
     {
       "title": "허미미",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 1 Nov 2026 04:10:00 -0800",
       "news": [
         {
@@ -75,9 +169,9 @@
       "published": "Sun, 1 Nov 2026 04:00:00 -0800",
       "news": [
         {
-          "title": "Con Nico Paz titular, el Como vence al Venezia con polémica :: Olé - ole.com.ar",
-          "source": "Olé",
-          "url": "https://www.ole.com.ar/futbol-internacional/italia/nico-paz-titular-recibe-venezia-serie_0_tSvkAwHGFT.html"
+          "title": "Venezia se concentra para salir del último lugar ante Como 1907",
+          "source": "Anecdotarios",
+          "url": "https://anecdotarios.com/2026/11/01/venezia-se-concentra-para-salir-del-ultimo-lugar-ante-como-1907/"
         },
         {
           "title": "Como – Venecia el partido de fútbol de la jornada 10 de la Serie A, en directo",
@@ -85,9 +179,9 @@
           "url": "https://www.lavanguardia.com/deportes/futbol/20261101/2453/como-venecia-serie-a-ca-en-directo-ctx.html"
         },
         {
-          "title": "Venezia se concentra para salir del último lugar ante Como 1907",
-          "source": "Anecdotarios",
-          "url": "https://anecdotarios.com/2026/11/01/venezia-se-concentra-para-salir-del-ultimo-lugar-ante-como-1907/"
+          "title": "'Repóker' del Como sin pasearse en góndola",
+          "source": "MARCA",
+          "url": "https://www.marca.com/futbol/liga-italiana/cronica/2026/11/01/repoker-pasearse-gondola.html"
         }
       ]
     },
@@ -110,111 +204,6 @@
           "title": "“자동화로 생산량 3배…미국인 3명 중 1명은 한세실업의 옷을 입는다”",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Economy/article/all/20261101/134945091/1"
-        }
-      ]
-    },
-    {
-      "title": "논쟁",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 03:40:00 -0800",
-      "news": [
-        {
-          "title": "“李 코피 골프탓” “소주 챙기던 尹 잊었나”…‘해외순방’ 여야 충돌",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25474759"
-        },
-        {
-          "title": "“돼지 눈엔 돼지만”…이 대통령 SNS, 소통 창구서 ‘설전 도구’로",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611012132015"
-        },
-        {
-          "title": "이재명 대통령 시정연설 D-1, 외교성과 감싼 정부…\"돼지눈엔 돼지만\" 정상 외교 공방 계속",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12325893"
-        }
-      ]
-    },
-    {
-      "title": "퇴직",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 03:30:00 -0800",
-      "news": [
-        {
-          "title": "KT 퇴직자가 어르신 AI 선생님으로…시니어 1인가구 교육",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849611"
-        },
-        {
-          "title": "KT, 은퇴 임직원이 어르신에 생성형 AI 교육",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/02/20261102030004"
-        },
-        {
-          "title": "KT, 퇴직 임직원 AI 강사로 육성⋯시니어 교육 확대",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261101500135"
-        }
-      ]
-    },
-    {
-      "title": "송강",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 03:10:00 -0800",
-      "news": [
-        {
-          "title": "‘67억’ 송강 사는 핫플레이스 성수동 고급 아파트는[누구집]",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01131606645641456&mediaCodeNo=257"
-        },
-        {
-          "title": "“성수 핫플이 집 앞에”…송강이 67억 주고 산 고급 아파트",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01131606645641456"
-        },
-        {
-          "title": "'포핸즈' 장규리 '단 몇컷 위해 비올라 2달간 맹훈련… 송강 눈빛 연기에 도움 받아'[인터뷰]",
-          "source": "한국아이닷컴",
-          "url": "https://www.hankooki.com/news/articleView.html?idxno=347363"
-        }
-      ]
-    },
-    {
-      "title": "현대자동차그룹",
-      "approx_traffic": "5000+",
-      "published": "Sun, 1 Nov 2026 03:00:00 -0800",
-      "news": [
-        {
-          "title": "’3분 만에 주차 척척’…현대차, 주차로봇 실증",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031092613zcM"
-        },
-        {
-          "title": "\"車 부르면 3분 뒤 도착\"…현대차그룹, 아파트 주차로봇 첫 실증 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/10/30/2026103008564156311"
-        },
-        {
-          "title": "[마켓인사이트]“주차 문콕 스트레스, 이젠 없어져야” 아파트 단지에 ‘주차로봇’상용화 코앞",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610301016003"
-        }
-      ]
-    },
-    {
-      "title": "고양시",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 02:50:00 -0800",
-      "news": [
-        {
-          "title": "고양시, 주말 곳곳 축제 물결.. ‘주민자치부터 도시농업까지’ 풍성[포토]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/region/article/all/20261101/134943296/1"
-        },
-        {
-          "title": "민경선 고양시장, 흥도동·삼송2동 주민축제 참석...주민자치 활성화 강조",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20261101140917680"
         }
       ]
     }
