@@ -1,11 +1,116 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T11:39:48+00:00",
+  "fetched_at": "2026-11-01T12:14:51+00:00",
   "items": [
     {
-      "title": "11 월 13 일",
+      "title": "송강",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 03:10:00 -0800",
+      "news": [
+        {
+          "title": "“성수 핫플이 집 앞에”…송강이 67억 주고 산 고급 아파트[누구집]",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01131606645641456&mediaCodeNo=257"
+        },
+        {
+          "title": "'포핸즈' 장규리 '단 몇컷 위해 비올라 2달간 맹훈련… 송강 눈빛 연기에 도움 받아'[인터뷰]",
+          "source": "한국아이닷컴",
+          "url": "https://www.hankooki.com/news/articleView.html?idxno=347363"
+        },
+        {
+          "title": "이준영, '포핸즈' 끝나도 응원 계속…기사후원 1위 (배우 브랜드 리포트)",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16265166"
+        }
+      ]
+    },
+    {
+      "title": "현대자동차그룹",
+      "approx_traffic": "2000+",
+      "published": "Sun, 1 Nov 2026 03:00:00 -0800",
+      "news": [
+        {
+          "title": "새만금이 이렇게 달라진다고? - 카드/한컷 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974630"
+        },
+        {
+          "title": "국감 끝, 이젠 ‘예산 국회’…전북 11조 원 ‘사활’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699436"
+        },
+        {
+          "title": "[비즈&] 현대차, 데이터센터 건립 본격 착수…새만금 사무소 外",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030172503202"
+        }
+      ]
+    },
+    {
+      "title": "7 호선 고장",
+      "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 03:00:00 -0800",
+      "news": [
+        {
+          "title": "7호선 보라매역서 열차 고장으로 승객 전원 하차…상행선 운행 지장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261101026000004"
+        },
+        {
+          "title": "서울지하철 7호선 고장으로 한때 지연...조금 전 재개",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611011504094490_005.html"
+        },
+        {
+          "title": "운행에 차질 빚던 7호선 정상화",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261101_0021513462"
+        }
+      ]
+    },
+    {
+      "title": "강부자",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 03:00:00 -0800",
+      "news": [
+        {
+          "title": "경북도, ‘친정엄마와 2박 3일’ 동락관서 선보이다",
+          "source": "데일리대구경북뉴스",
+          "url": "https://www.dailydgnews.com/news/article.html?no=267698"
+        },
+        {
+          "title": "강부자·윤유선 모녀의 눈물…동락관 울린 감동 무대",
+          "source": "http://www.reporternside.com/",
+          "url": "https://www.reporternside.com/news/articleView.html?idxno=434617"
+        },
+        {
+          "title": "강부자·윤유선이 전한 모녀의 정…‘친정엄마와 2박 3일’ 동락관 무대에",
+          "source": "경북일보",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089252"
+        }
+      ]
+    },
+    {
+      "title": "고양시",
       "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 02:50:00 -0800",
+      "news": [
+        {
+          "title": "고양시, 주말 곳곳 축제 물결.. ‘주민자치부터 도시농업까지’ 풍성[포토]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/region/article/all/20261101/134943296/1"
+        },
+        {
+          "title": "민경선 고양시장, 흥도동·삼송2동 주민축제 참석...주민자치 활성화 강조",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261101140917680"
+        }
+      ]
+    },
+    {
+      "title": "11 월 13 일",
+      "approx_traffic": "500+",
       "published": "Sun, 1 Nov 2026 02:30:00 -0800",
       "news": [
         {
@@ -70,41 +175,24 @@
       ]
     },
     {
-      "title": "fc 서울 대 인천 유나이티드 fc 순위",
-      "approx_traffic": "10000+",
-      "published": "Sun, 1 Nov 2026 01:40:00 -0800",
-      "news": [
-        {
-          "title": "FC서울 ‘인천 비하 현수막’ 사과… 인천, 경인더비서 1-0 승리",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1773825"
-        },
-        {
-          "title": "3위부터 6위까지 겨우 승점 2점 차! K리그1 순위 경쟁 대혼전...인천, 챔피언 서울 격파하고 4위 탈환",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/11/01/GE4DKZLBHE2TAMLGHA4DKOJZGU/"
-        },
-        {
-          "title": "[프로축구] 인천, '챔피언' 서울 1-0 제압…제르소 극장골로 4위 도약",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261101000121"
-        }
-      ]
-    },
-    {
       "title": "부평",
       "approx_traffic": "2000+",
       "published": "Sun, 1 Nov 2026 01:40:00 -0800",
       "news": [
         {
-          "title": "일제, 기구 이용해 부평 지하호 공사 속도냈다 [인천조병창 아카이브, 빈칸을 채우다]",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1773831"
+          "title": "'핼러윈' 16만 명 운집‥이태원역 무정차 통과",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6862244_37012.html"
         },
         {
-          "title": "옥외 설치 공기압축기 최소 6대 추정… 굴착작업 착암기 사용 가능성 크다 [인천조병창 아카이브, 빈칸을 채우다·(6)]",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1773813"
+          "title": "핼러윈 밤 홍대 13만·이태원 3만 인파…큰 혼란 없었다",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700793"
+        },
+        {
+          "title": "잊지 않겠습니다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261031_0021512804"
         }
       ]
     },
@@ -127,94 +215,6 @@
           "title": "‘전참시’ 악뮤 이찬혁, 독립 후 첫 콘서트…‘소문의 낙원’ 완벽 구현",
           "source": "MBC",
           "url": "https://m.imbc.com/enews/view/523077"
-        }
-      ]
-    },
-    {
-      "title": "이적",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 01:40:00 -0800",
-      "news": [
-        {
-          "title": "이적+서울대학교 합창단 - 걱정 말아요 그대 | KBS 261101 방송",
-          "source": "대한민국 대표 공영미디어 KBS",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K01_PS-2026132672-01-000_MFSC17&program_code=T2000-0096&program_id=PS-2026132672-01-000&section_code=04&broadcast_complete_yn=N&section_id=10762"
-        },
-        {
-          "title": "'열린음악회' 이적·윤하·포레스텔라·아일릿 총출동",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738848"
-        },
-        {
-          "title": "열린음악회 출연진 라인업 윤하·이적",
-          "source": "BNT뉴스",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202611010030"
-        }
-      ]
-    },
-    {
-      "title": "ai 데이터 센터",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 01:30:00 -0800",
-      "news": [
-        {
-          "title": "한투·日 SBI, 1조엔 AI인프라 펀드 추진",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1186394"
-        },
-        {
-          "title": "韓日 금융·제조업 뭉친다…일본에 10兆 AI 데이터센터 추진",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611018268i"
-        },
-        {
-          "title": "투자 수익에 설비 수주까지…韓 기업, 日 데이터센터서 기회 찾는다",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611011023295305"
-        }
-      ]
-    },
-    {
-      "title": "황희찬",
-      "approx_traffic": "5000+",
-      "published": "Sun, 1 Nov 2026 01:30:00 -0800",
-      "news": [
-        {
-          "title": "‘스태프 밀친’ 황희찬, 징계 없이 선발 출전해 83분 소화…팀은 패배",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261101/134943841/1"
-        },
-        {
-          "title": "\"황희찬, 자신의 잘못 충분히 인정\" 샬케 감독 공개 질책...주치의 밀친 논란에 전 선수단 앞에서 규율 강조 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311126773772O"
-        },
-        {
-          "title": "대기심·팀닥터 밀친 황희찬, 선수단에 공식 사과…'매우 반성'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261031_0003849290"
-        }
-      ]
-    },
-    {
-      "title": "이현중",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 01:20:00 -0800",
-      "news": [
-        {
-          "title": "이현중 \"아시안게임서 금메달 땄는데 '런닝맨'에서는 패배\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6339132"
-        },
-        {
-          "title": "천하의 김종국도 속수무책…김민종 압도적 피지컬 (런닝맨)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261101/134944858/1"
-        },
-        {
-          "title": "\"종국이 일반인이네\"… '런닝맨' 유도 김민종 압도적 힘에 김종국 조기 퇴진",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738856"
         }
       ]
     }
