@@ -1,8 +1,74 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T16:48:19+00:00",
+  "fetched_at": "2026-11-01T17:38:12+00:00",
   "items": [
+    {
+      "title": "비웨사",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 08:30:00 -0800",
+      "news": [
+        {
+          "title": "오상욱, '그랜드슬램 목표' 허미미에 멘탈 비법 전수",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738907"
+        },
+        {
+          "title": "‘냉장고를 부탁해’ 비웨사 다니엘·허미미 출연… 아시안게임 뒷이야기 공개",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3444847"
+        },
+        {
+          "title": "日 국적 포기 귀화 허미미, 먹고 충격받은 한식은? “일본엔 ‘이것’ 없어”(냉부)",
+          "source": "뉴스엔",
+          "url": "https://www.newsen.com/news_view.php?uid=202611011953236110&code=100100"
+        }
+      ]
+    },
+    {
+      "title": "레알마드리드",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 08:00:00 -0800",
+      "news": [
+        {
+          "title": "라리가 라싱 데 산탄데르 대 레알 마드리드 생중계 링크",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-racing-de-santander-vs-real-madrid-tai-la-liga-1792942.ldo"
+        },
+        {
+          "title": "라싱 vs 레알 마드리드 축구 경기 예측: 무리뉴의 추억",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-bong-da-racing-vs-real-madrid-ky-uc-mourinho"
+        },
+        {
+          "title": "라싱 산탄데르 vs 레알 마드리드 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-racing-santander-vs-real-madrid-khach-tiep-tuc-bay-cao"
+        }
+      ]
+    },
+    {
+      "title": "liverpool vs arsenal",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 07:50:00 -0800",
+      "news": [
+        {
+          "title": "Jamie Carragher: Liverpool have emerged as Arsenal’s biggest title challengers",
+          "source": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/football/2026/10/30/liverpool-excited-title-challenge-arsenal-andoni-iraola/"
+        },
+        {
+          "title": "Anfield, intensity and rotations - how Iraola is improving Liverpool",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/ckzd6217j7pgo"
+        },
+        {
+          "title": "'If Liverpool want a title race, they have to beat Arsenal'",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13604012/liverpool-vs-arsenal-andoni-iraolas-side-must-beat-the-premier-league-champions-to-be-in-the-title-race-says-paul-merson"
+        }
+      ]
+    },
     {
       "title": "리버풀 대 아스널",
       "approx_traffic": "5000+",
@@ -53,20 +119,20 @@
           "url": "https://sport24.ru/football/news-894370-la-liga-rasing-real-madrid-pryamaya-translyatsiya-smotret-besplatno"
         },
         {
-          "title": "Реал определился с вратарём на матч против Расинга – что решили насчёт Лунина",
-          "source": "UA-Football",
-          "url": "https://www.ua-football.com/ukrainian/ukrainians/1793541948-real-opredelilsya-s-vrataryom-na-match-protiv-rasinga-chto-reshili-naschyot-lunina.html"
-        },
-        {
           "title": "Матч Расинг - Реал Мадрид: смотреть онлайн прямую трансляцию матча",
           "source": "fclmnews",
           "url": "https://fclm.news/online/138089-rasing-real-madrid-video.html"
+        },
+        {
+          "title": "Реал определился с вратарём на матч против Расинга – что решили насчёт Лунина",
+          "source": "UA-Football",
+          "url": "https://www.ua-football.com/ukrainian/ukrainians/1793541948-real-opredelilsya-s-vrataryom-na-match-protiv-rasinga-chto-reshili-naschyot-lunina.html"
         }
       ]
     },
     {
       "title": "스타링크",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sun, 1 Nov 2026 07:20:00 -0800",
       "news": [
         {
@@ -92,19 +158,19 @@
       "published": "Sun, 1 Nov 2026 06:50:00 -0800",
       "news": [
         {
-          "title": "Real Madrid's Galácticos show out in dominant first-half display vs Racing",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/real-madrids-gal-cticos-show-162100096.html"
+          "title": "Racing Santander vs Real Madrid predictions: Real to win a thriller",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en-ca/betting/tips/racing-santander-vs-real-madrid-predictions-01-11-2026/A%3Ablta0aac7104c243a0e"
         },
         {
-          "title": "What is the role of VAR? Refereeing opinion settles the controversy over Mbappé's penalty against Racing",
-          "source": "Yardbarker",
-          "url": "https://www.yardbarker.com/soccer/articles/what_is_the_role_of_var_refereeing_opinion_settles_the_controversy_over_mbapps_penalty_against_racing/s1_17790_44501812"
+          "title": "The VAR mystery: a refereeing opinion settles the controversy over Mbappé's penalty against Racing",
+          "source": "LiveScore",
+          "url": "https://www.livescore.com/en/news/football/more/the-var-mystery-a-refereeing-opinion-settles-the-controversy-over-mbapps-penalty-against-racing-goal/"
         },
         {
-          "title": "'Almost as good as Ronaldo' - Barcelona fans take aim at 'diver' Kylian Mbappé during Racing clash",
-          "source": "Get Spanish Football News",
-          "url": "https://getfootballnewsspain.com/almost-as-good-as-ronaldo-barcelona-fans-take-aim-at-diver-kylian-mbappe-during-racing-clash/"
+          "title": "WATCH: Bellingham and Diomande put Madrid in command after controversial Mbappe penalty",
+          "source": "101 Great Goals",
+          "url": "https://www.101greatgoals.com/football/la-liga/watch-bellingham-and-diomande-put-madrid-in-command-after-controversial-mbappe-penalty/"
         }
       ]
     },
@@ -141,66 +207,16 @@
           "url": "https://www.marca.com/futbol/laliga-ea-sports/racing-santander-r-madrid/2026/11/01/01_0101_20261101_189_186-directo.html"
         },
         {
-          "title": ">~!@#$[[[PARTIDO!]^]] zbit-vs [#FÚTBOLENVIVO] Racing de Santander vs Los Blancos - Transmisión gratuita – 1 de noviembre de 2026, Benfica vs Celtic Streaming Live: Don t miss the UEFA Europa League match with live covserage, score updates, and hig",
-          "source": "Pierce Manufacturing",
-          "url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vY2ltYW5nby5naXRodWIuaW8vc2FuaS9jMWlwcy54bWwiLz48L2tycGFubz4=&id=video-racing-de-santander-vs-los-blancos-partido-en-directo-gratis-hoy-uk-755"
+          "title": "La galerna de Mourinho arrasa al Racing en El Sardinero",
+          "source": "El Periódico",
+          "url": "https://www.elperiodico.com/es/deportes/20261101/racing-real-madrid-resumen-resultado-laliga-135980742"
         },
         {
-          "title": "Dónde ver hoy por TV el Racing - Real Madrid: horario y canal del partido de LaLiga EA Sports de fútbol | Primera División",
-          "source": "Mundo Deportivo",
-          "url": "https://www.mundodeportivo.com/horarios/futbol/20261101/1004245789/racing-santander-real-madrid-horario-canal-donde-ver-hoy-tv-partido-laliga-ea-sports-futbol-primera-division.html"
+          "title": "¿A qué hora es el partido Racing de Santander vs Real Madrid y cómo verlo en TV y streaming online?",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/es-us/a-que-hora-es-el-partido-racing-de-santander-vs-real-madrid-y-como-verlo-en-tv-y-streaming-online-01-11-2026"
         }
       ]
-    },
-    {
-      "title": "우니온 베를린 대 쾰른",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 06:10:00 -0800",
-      "news": [
-        {
-          "title": "Union Berlin - 1. FC Köln LIVE. Bundesliga latest updates",
-          "source": "MARCA",
-          "url": "https://www.marca.com/en/soccer/bundesliga/union-berlin-1-fc-koln/2026/11/01/01_0108_20261101_816_387-live.html"
-        },
-        {
-          "title": "【LIVESTREAMS】FREE]Union Berlin vs. Koln Live Free Reddit TV",
-          "source": "Pierce Manufacturing",
-          "url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2ZyYW5jaXNqaGFycmlzby5naXRodWIuaW8vZ3VoYS9uYnkueG1sIi8+PC9rcnBhbm8+&id=union-berlin-vs-koln-live-free-fox-sports-ptoon"
-        },
-        {
-          "title": "[𝐒𝐓ream]HERE’S*!BEST WAY TO WATCH Köln vs Union Berlin 𝕃𝕚𝕧𝕖 𝒮𝒯𝑅𝐸𝒜𝑀𝒮",
-          "source": "Villa de la Orotava",
-          "url": "https://www.laorotava.es/turismo/museos/?&xml=data:video/mp4;base64,&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vY2ltYW5nby5naXRodWIuaW8vc2FuaS9idWQueG1sIi8+PC9rcnBhbm8+&id=video-k%C3%B6ln-vs-union-berlin-live-online-optv-tvukk21-634"
-        }
-      ]
-    },
-    {
-      "title": "코리아 오픈",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 06:10:00 -0800",
-      "news": [
-        {
-          "title": "[오피셜]\"재정비 시간 필요\" '세계 최강' 안세영 다시 뛴다…대한배드민턴협회 'AN 경기 눈앞에서, 여수에서 만나요' 공식 발표",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/02/MM3DEM3FHAZWGMLFGBSGCNBTG4/"
-        },
-        {
-          "title": "[공식발표] \"많이 힘들긴 하다\" 안세영, 결국 기권 확정...日 구마모토 마스터스 포기→코리아 오픈은 뛴다 '시즌 11승 도전' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/01/202611011715771530O"
-        },
-        {
-          "title": "1년 전 코리아오픈 결승전 야마구치에 무릎 꿇었던 안세영, 올해는 코리아오픈 출전할까?…발목 부상이 변수다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112901878"
-        }
-      ]
-    },
-    {
-      "title": "손석구",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 05:40:00 -0800",
-      "news": []
     }
   ]
 }
