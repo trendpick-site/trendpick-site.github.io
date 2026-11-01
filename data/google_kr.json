@@ -1,13 +1,57 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T23:13:02+00:00",
+  "fetched_at": "2026-11-01T23:44:02+00:00",
   "items": [
     {
+      "title": "카를로스 알카라스",
+      "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 14:30:00 -0800",
+      "news": [
+        {
+          "title": "빈오픈 첫 우승컵 들어 올린 알카라스",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261102_0002279833"
+        },
+        {
+          "title": "알카라스, 빈에서 폴 상대로 서브...ATP 500 8강전 현장",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738280"
+        }
+      ]
+    },
+    {
+      "title": "중대범죄수사청",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 14:30:00 -0800",
+      "news": [
+        {
+          "title": "[개정 형소법 한달]추미애는 보내고, 한동훈은 묵히고···중수청은 왜 한 달째 사건 뒤적이나",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611020600121"
+        },
+        {
+          "title": "대혼란 없었지만… 중수청, 종이 수사기록 ‘배달’하고 구속 5건",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261102/134946918/2"
+        },
+        {
+          "title": "출범 1개월 부산중수청, 구속수사·송치 사건 아직 없어",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030113300051"
+        }
+      ]
+    },
+    {
       "title": "휴고 칼데라노",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 1 Nov 2026 14:10:00 -0800",
       "news": [
+        {
+          "title": "'우승 확률 희박했던 1-3 열세' 장우진이 해냈다! 독일 프란치스카에 내리 3게임 따내며 4-3 대역전...몽펠리에의 기적",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/02/MU4DOOBTMFSTCZBSG42TQMJVGQ/"
+        },
         {
           "title": "'심장이 멎을 듯한 7게임 혈투!' 장우진, 마지막 14-12 '연속 듀스' 이겨내고 세계 7위 칼데라노 격파...몽펠리에 결승 무대 오른다 - 머니투데이",
           "source": "머니투데이",
@@ -17,28 +61,23 @@
           "title": "‘거침없다’ 탁구 에이스 장우진, 세계랭킹 6위와 결승 티켓 다툰다…WTT 챔피언스 몽펠리에 4강 진출",
           "source": "OSEN",
           "url": "https://www.osen.co.kr/article/G1112902055"
-        },
-        {
-          "title": "장우진 쾌거! 韓 탁구 최초 WTT 챔피언스 2회 결승 진출…세계 7위 칼데라누에 4-3 역전승→18위 프란치스카와 트로피 다툰다",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2214143"
         }
       ]
     },
     {
       "title": "비트코인",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 1 Nov 2026 14:10:00 -0800",
       "news": [
         {
-          "title": "北해커 훔친 비트코인, 테슬라 보유량 넘어‥北연간 수출액 3배",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6862373_36925.html"
+          "title": "北해커가 훔친 비트코인, 테슬라 보유량 추월…北연간 수출액 3배",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611020603292b0"
         },
         {
-          "title": "“8조 원이 한순간에 증발”…바이낸스, 대체 왜 털렸나? [잇슈 머니]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700945"
+          "title": "北해커에 8조 원 털린 바이낸스‥출금 재개 후 5조 원 순유출",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6862415_36925.html"
         },
         {
           "title": "트럼프 \"바이낸스 해킹, 북한 소행 확인되면 대화할 것\"",
@@ -49,7 +88,7 @@
     },
     {
       "title": "구미시",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sun, 1 Nov 2026 14:00:00 -0800",
       "news": [
         {
@@ -144,50 +183,6 @@
           "title": "포스코 노사, 올해 임금협상 '극적 합의'…\"철강 위기 극복 위해 힘 합친다\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261101_0003849616"
-        }
-      ]
-    },
-    {
-      "title": "미국 중간선거",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 13:30:00 -0800",
-      "news": [
-        {
-          "title": "美, 5200만명 사전투표 역대 최대… 민주당원 비율이 11%p 더 높아",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/11/02/J7MG2TX5ABG4DKTJFURO3HROLQ/"
-        },
-        {
-          "title": "트럼프, 아이오와·캔자스에서 마지막 투표 호소...알래스카 공화 후보 \"패해도 결과 받아들일 것\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202611020715590752"
-        },
-        {
-          "title": "美중간선거 D-2…트럼프 텃밭사수 안간힘, 민주 내부갈등 분출(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102002151071"
-        }
-      ]
-    },
-    {
-      "title": "신인감독 김연경",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 13:20:00 -0800",
-      "news": [
-        {
-          "title": "김연경 큰 실망…자존심 다 걸고 핑크스파이더스 맞대결",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261101/134944838/1"
-        },
-        {
-          "title": "‘신인감독 김연경2’ 표승주 팀과 맞대결서 고전…김연경 “할 말이 없다”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20108740"
-        },
-        {
-          "title": "'신인감독' 김연경 감독, 친정팀 '흥국생명' 맞춤형 훈련 공개",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523092"
         }
       ]
     }
