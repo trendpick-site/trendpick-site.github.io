@@ -1,99 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T12:14:51+00:00",
+  "fetched_at": "2026-11-01T13:28:42+00:00",
   "items": [
+    {
+      "title": "롯데그룹",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 04:20:00 -0800",
+      "news": [
+        {
+          "title": "[힘내라K산업]④롯데타워 담보 잡혔던 롯데그룹, 2년 만에 '위기설' 지웠다",
+          "source": "아시아타임즈",
+          "url": "https://www.asiatime.co.kr/article/20261101500047"
+        },
+        {
+          "title": "[힘내라 K산업]② 2년간 2조원 넘게 팔았다…롯데, 비핵심 정리 ‘최대 거래’는 롯데렌탈",
+          "source": "아시아타임즈",
+          "url": "https://www.asiatime.co.kr/article/20261030500258"
+        },
+        {
+          "title": "롯데 \"롯데렌탈 매각 거래 종결…매각대금 1조3천억원 확보\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030128200030"
+        }
+      ]
+    },
+    {
+      "title": "다니엘",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 04:20:00 -0800",
+      "news": [
+        {
+          "title": "“다시 일어서기 위해” 뉴진스 4인·다니엘, 팬클럽 기념일에 각자 근황",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20108362"
+        },
+        {
+          "title": "복귀 선언 1년, 뉴진스의 시계는 왜 '민지' 앞에서 멈췄나? [IZE 진단] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/30/2026103014387297584"
+        },
+        {
+          "title": "\"예전과 같을 순 없겠죠\"…뉴진스 팬덤 생일에 자작곡",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822218"
+        }
+      ]
+    },
+    {
+      "title": "허미미",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 04:10:00 -0800",
+      "news": [
+        {
+          "title": "오상욱, '그랜드슬램 목표' 허미미에 멘탈 비법 전수",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738907"
+        },
+        {
+          "title": "‘냉장고를 부탁해’ 비웨사 다니엘·허미미 출연… 아시안게임 뒷이야기 공개",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3444847"
+        },
+        {
+          "title": "日 국적 포기 귀화 허미미, 먹고 충격받은 한식은? “일본엔 ‘이것’ 없어”(냉부)",
+          "source": "뉴스엔",
+          "url": "https://www.newsen.com/news_view.php?uid=202611011953236110&code=100100"
+        }
+      ]
+    },
+    {
+      "title": "como vs venezia",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 04:00:00 -0800",
+      "news": [
+        {
+          "title": "Con Nico Paz titular, el Como vence al Venezia con polémica :: Olé - ole.com.ar",
+          "source": "Olé",
+          "url": "https://www.ole.com.ar/futbol-internacional/italia/nico-paz-titular-recibe-venezia-serie_0_tSvkAwHGFT.html"
+        },
+        {
+          "title": "Como – Venecia el partido de fútbol de la jornada 10 de la Serie A, en directo",
+          "source": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20261101/2453/como-venecia-serie-a-ca-en-directo-ctx.html"
+        },
+        {
+          "title": "Venezia se concentra para salir del último lugar ante Como 1907",
+          "source": "Anecdotarios",
+          "url": "https://anecdotarios.com/2026/11/01/venezia-se-concentra-para-salir-del-ultimo-lugar-ante-como-1907/"
+        }
+      ]
+    },
+    {
+      "title": "한세실업",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 03:50:00 -0800",
+      "news": [
+        {
+          "title": "\"미국인 3명 중 1명이 입는다\"…베트남서 옷 쏟아내는 韓기업",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611018137i"
+        },
+        {
+          "title": "3년 숙련공 일도 신입이 척척... ‘연 4억장’ 의류 기업의 자동화",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/01/HILFABSW7NA2NDHNB5SD53ER3Q/"
+        },
+        {
+          "title": "“자동화로 생산량 3배…미국인 3명 중 1명은 한세실업의 옷을 입는다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261101/134945091/1"
+        }
+      ]
+    },
+    {
+      "title": "논쟁",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 03:40:00 -0800",
+      "news": [
+        {
+          "title": "“李 코피 골프탓” “소주 챙기던 尹 잊었나”…‘해외순방’ 여야 충돌",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25474759"
+        },
+        {
+          "title": "“돼지 눈엔 돼지만”…이 대통령 SNS, 소통 창구서 ‘설전 도구’로",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611012132015"
+        },
+        {
+          "title": "이재명 대통령 시정연설 D-1, 외교성과 감싼 정부…\"돼지눈엔 돼지만\" 정상 외교 공방 계속",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12325893"
+        }
+      ]
+    },
+    {
+      "title": "퇴직",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 03:30:00 -0800",
+      "news": [
+        {
+          "title": "KT 퇴직자가 어르신 AI 선생님으로…시니어 1인가구 교육",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849611"
+        },
+        {
+          "title": "KT, 은퇴 임직원이 어르신에 생성형 AI 교육",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/02/20261102030004"
+        },
+        {
+          "title": "KT, 퇴직 임직원 AI 강사로 육성⋯시니어 교육 확대",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261101500135"
+        }
+      ]
+    },
     {
       "title": "송강",
       "approx_traffic": "100+",
       "published": "Sun, 1 Nov 2026 03:10:00 -0800",
       "news": [
         {
-          "title": "“성수 핫플이 집 앞에”…송강이 67억 주고 산 고급 아파트[누구집]",
+          "title": "‘67억’ 송강 사는 핫플레이스 성수동 고급 아파트는[누구집]",
           "source": "이데일리",
           "url": "https://www.edaily.co.kr/News/Read?newsId=01131606645641456&mediaCodeNo=257"
+        },
+        {
+          "title": "“성수 핫플이 집 앞에”…송강이 67억 주고 산 고급 아파트",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01131606645641456"
         },
         {
           "title": "'포핸즈' 장규리 '단 몇컷 위해 비올라 2달간 맹훈련… 송강 눈빛 연기에 도움 받아'[인터뷰]",
           "source": "한국아이닷컴",
           "url": "https://www.hankooki.com/news/articleView.html?idxno=347363"
-        },
-        {
-          "title": "이준영, '포핸즈' 끝나도 응원 계속…기사후원 1위 (배우 브랜드 리포트)",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16265166"
         }
       ]
     },
     {
       "title": "현대자동차그룹",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Sun, 1 Nov 2026 03:00:00 -0800",
       "news": [
         {
-          "title": "새만금이 이렇게 달라진다고? - 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974630"
-        },
-        {
-          "title": "국감 끝, 이젠 ‘예산 국회’…전북 11조 원 ‘사활’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699436"
-        },
-        {
-          "title": "[비즈&] 현대차, 데이터센터 건립 본격 착수…새만금 사무소 外",
+          "title": "’3분 만에 주차 척척’…현대차, 주차로봇 실증",
           "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030172503202"
-        }
-      ]
-    },
-    {
-      "title": "7 호선 고장",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 03:00:00 -0800",
-      "news": [
-        {
-          "title": "7호선 보라매역서 열차 고장으로 승객 전원 하차…상행선 운행 지장",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261101026000004"
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031092613zcM"
         },
         {
-          "title": "서울지하철 7호선 고장으로 한때 지연...조금 전 재개",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611011504094490_005.html"
+          "title": "\"車 부르면 3분 뒤 도착\"…현대차그룹, 아파트 주차로봇 첫 실증 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/30/2026103008564156311"
         },
         {
-          "title": "운행에 차질 빚던 7호선 정상화",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261101_0021513462"
-        }
-      ]
-    },
-    {
-      "title": "강부자",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 03:00:00 -0800",
-      "news": [
-        {
-          "title": "경북도, ‘친정엄마와 2박 3일’ 동락관서 선보이다",
-          "source": "데일리대구경북뉴스",
-          "url": "https://www.dailydgnews.com/news/article.html?no=267698"
-        },
-        {
-          "title": "강부자·윤유선 모녀의 눈물…동락관 울린 감동 무대",
-          "source": "http://www.reporternside.com/",
-          "url": "https://www.reporternside.com/news/articleView.html?idxno=434617"
-        },
-        {
-          "title": "강부자·윤유선이 전한 모녀의 정…‘친정엄마와 2박 3일’ 동락관 무대에",
-          "source": "경북일보",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089252"
+          "title": "[마켓인사이트]“주차 문콕 스트레스, 이젠 없어져야” 아파트 단지에 ‘주차로봇’상용화 코앞",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610301016003"
         }
       ]
     },
     {
       "title": "고양시",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 1 Nov 2026 02:50:00 -0800",
       "news": [
         {
@@ -105,116 +215,6 @@
           "title": "민경선 고양시장, 흥도동·삼송2동 주민축제 참석...주민자치 활성화 강조",
           "source": "아주경제",
           "url": "https://www.ajunews.com/view/20261101140917680"
-        }
-      ]
-    },
-    {
-      "title": "11 월 13 일",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 02:30:00 -0800",
-      "news": [
-        {
-          "title": "“11월 13일 세계 종말, 비행기 타지 마라”…과학자들의 경고는 사실일까",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202611011334001"
-        },
-        {
-          "title": "제4회 김해시민영화제 ‘김씨네’ 13일 개막",
-          "source": "경남도민일보",
-          "url": "https://www.idomin.com/news/articleView.html?idxno=2018361"
-        },
-        {
-          "title": "‘나의 삶, 나의 영화’… 제4회 김해시민영화제 ‘김씨네’ 11월 13일 개막",
-          "source": "뉴스N제주",
-          "url": "https://www.newsnjeju.com/news/articleView.html?idxno=303406"
-        }
-      ]
-    },
-    {
-      "title": "노벨상",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 02:10:00 -0800",
-      "news": [
-        {
-          "title": "[단독] 노벨상 심사 수장 “한국 수상 가까워졌다”…콕 집은 두 분야는",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/it/12192950"
-        },
-        {
-          "title": "한림원-성균관대, 30日 스벤 리딘 스웨덴왕립과학한림원장 특별강연 개최",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261029000451"
-        },
-        {
-          "title": "노벨상 선정한 과학자, 한국 대학생에 '위대한 발견' 강연",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026102923014281333"
-        }
-      ]
-    },
-    {
-      "title": "김승수",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 02:00:00 -0800",
-      "news": [
-        {
-          "title": "김승수, 16세 연하 아나운서와 핑크빛 계속",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849649"
-        },
-        {
-          "title": "50대 김승수, 맞선녀와 첫 데이트인데 母까지 당황하게 만든 '맨발 사태' (미우새)",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/10/30/MY4DKZTDMIZWEZLDG44GENRWME/"
-        },
-        {
-          "title": "방송용 썸? 이번엔 진짜 연애?...김승수, 박혜연에 개인 연락하더니 (미우새)",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2213334"
-        }
-      ]
-    },
-    {
-      "title": "부평",
-      "approx_traffic": "2000+",
-      "published": "Sun, 1 Nov 2026 01:40:00 -0800",
-      "news": [
-        {
-          "title": "'핼러윈' 16만 명 운집‥이태원역 무정차 통과",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6862244_37012.html"
-        },
-        {
-          "title": "핼러윈 밤 홍대 13만·이태원 3만 인파…큰 혼란 없었다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700793"
-        },
-        {
-          "title": "잊지 않겠습니다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261031_0021512804"
-        }
-      ]
-    },
-    {
-      "title": "악뮤",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 01:40:00 -0800",
-      "news": [
-        {
-          "title": "\"월세 지원에 주 4일 근무까지\"…이찬혁이 만든 기획사 파격 복지",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01859766645641456&mediaCodeNo=257"
-        },
-        {
-          "title": "'악뮤' 이찬혁-수현 남매, 북악산 뷰 3층집 공개 \"동거는 계속할 듯\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/01/2026110107275391684"
-        },
-        {
-          "title": "‘전참시’ 악뮤 이찬혁, 독립 후 첫 콘서트…‘소문의 낙원’ 완벽 구현",
-          "source": "MBC",
-          "url": "https://m.imbc.com/enews/view/523077"
         }
       ]
     }
