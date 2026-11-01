@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T18:09:48+00:00",
+  "fetched_at": "2026-11-01T18:49:19+00:00",
   "items": [
+    {
+      "title": "킬리안 음바페",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 09:30:00 -0800",
+      "news": [
+        {
+          "title": "[특파원 칼럼/김철중]음바페가 마주한 中 ‘소비자 민족주의’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261101/134946791/2"
+        },
+        {
+          "title": "[특파원 시선] 음바페에게 날아든 천문학적 규모의 '中청구서'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030161200083"
+        },
+        {
+          "title": "\"독재자\" '낄낄' 한번에 1400억 날릴 판…음바페 사과에도 中중계 통째로 중단",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026103114260459751"
+        }
+      ]
+    },
     {
       "title": "ลิเวอร์พูล พบ อาร์เซนอล",
       "approx_traffic": "200+",
@@ -26,9 +48,9 @@
       ]
     },
     {
-      "title": "레알마드리드",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 08:00:00 -0800",
+      "title": "레알 마드리드",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 08:10:00 -0800",
       "news": [
         {
           "title": "'무리뉴는 해냈다' 레알 마드리드에서 벌어진 놀라운 변화...레알 5연승에 엘 클라시코 승리까지 '완벽한 변신' - 머니투데이",
@@ -48,24 +70,46 @@
       ]
     },
     {
+      "title": "레알마드리드",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 08:00:00 -0800",
+      "news": [
+        {
+          "title": "라리가 라싱 데 산탄데르 대 레알 마드리드 생중계 링크",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-racing-de-santander-vs-real-madrid-tai-la-liga-1792942.ldo"
+        },
+        {
+          "title": "라싱 vs 레알 마드리드 축구 경기 예측: 무리뉴의 추억",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-bong-da-racing-vs-real-madrid-ky-uc-mourinho"
+        },
+        {
+          "title": "[라리가 REVIEW] 비니시우스 빠진 레알 마드리드, 오히려 더 강해졌다…음바페·벨링엄·디오망데 골 폭발→라싱 산탄데르 3-0 완파",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697597"
+        }
+      ]
+    },
+    {
       "title": "liverpool vs arsenal",
       "approx_traffic": "500+",
       "published": "Sun, 1 Nov 2026 07:50:00 -0800",
       "news": [
+        {
+          "title": "Gary Neville bemoans ‘nonsense’ Premier League injury rule during Liverpool vs Arsenal",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/gary-neville-bemoans-nonsense-premier-182237762.html"
+        },
         {
           "title": "Liverpool vs Arsenal LIVE: Premier League score, lineups, commentary & updates",
           "source": "BBC",
           "url": "https://www.bbc.com/sport/football/live/cqev37r8jvvxt"
         },
         {
-          "title": "(1) Liverpool v Arsenal: Premier League – live",
+          "title": "Liverpool v Arsenal: Premier League – live",
           "source": "The Guardian",
           "url": "https://www.theguardian.com/football/live/2026/nov/01/liverpool-v-arsenal-premier-league-live"
-        },
-        {
-          "title": "Arsenal strike first at Anfield in blockbuster PL showdown",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/arsenal-strike-first-at-anfield-in-blockbuster-pl-showdown-43708474"
         }
       ]
     },
@@ -75,19 +119,19 @@
       "published": "Sun, 1 Nov 2026 07:30:00 -0800",
       "news": [
         {
-          "title": "프리미어 리그 리버풀 대 아스날 생중계 링크",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-liverpool-vs-arsenal-tai-premier-league-1792934.ldo"
+          "title": "'맨시티 제치고 선두 탈환' 디펜딩 챔피언 위엄 증명했다! 아스날, 하베르츠 결승골→리버풀 1-0 격파...14년 만에 안필드 원정 승리",
+          "source": "MHN스포츠",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1660457"
         },
         {
-          "title": "안필드의 14년 징크스와 미켈 아르테타의 임무.",
+          "title": "잉글랜드 프리미어 리그 경기 결과 예측: 리버풀, 안필드에서 아스널을 무력화시킬 것",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/cai-dop-14-nam-tai-anfield-va-su-menh-cua-mikel-arteta"
+          "url": "https://www.vietnam.vn/ko/du-doan-ti-so-ngoai-hang-anh-liverpool-khien-arsenal-bat-luc-tai-anfield"
         },
         {
-          "title": "\"우리는 자신감을 되찾았다! 이제 가장 중요한 아스널전\"…'5경기 연속 무패행진' 이라올라, 아스널전 앞두고 자신감 폭발!",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100072"
+          "title": "아스널과 빅 매치… 천군만마 복귀에 반색하는 이라올라 리버풀 감독, “소보슬라이·무뇨스 출전 가능성 있다”",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313622"
         }
       ]
     },
@@ -109,41 +153,46 @@
       ]
     },
     {
-      "title": "스타링크",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 07:20:00 -0800",
-      "news": [
-        {
-          "title": "통신주 급락, 스페이스X 위성이 기지국을 대체할까?",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3724"
-        },
-        {
-          "title": "\"일론 머스크가 쏘아올린 코스닥 기업?\"…쏠리드에 무슨 일이",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003847886"
-        }
-      ]
-    },
-    {
       "title": "расинг – реал мадрид",
       "approx_traffic": "200+",
       "published": "Sun, 1 Nov 2026 07:20:00 -0800",
       "news": [
         {
-          "title": "«Расинг» — «Реал» Мадрид. Трансляция: смотреть онлайн",
-          "source": "Sport24.ru",
-          "url": "https://sport24.ru/football/news-894372-rasing-real-madrid-translyatsiya-smotret-onlayn"
+          "title": "«Реал» учинил разгром после Эль-Класико",
+          "source": "Sports.kz",
+          "url": "https://www.sports.kz/news/real-uchinil-razgrom-posle-el-klasiko"
         },
         {
-          "title": "Реал определился с вратарём на матч против Расинга – что решили насчёт Лунина",
+          "title": "Ла Лига. Реал продолжает ломать домашние серии: вслед за Барселоной пострадал Расинг",
           "source": "UA-Football",
-          "url": "https://www.ua-football.com/ukrainian/ukrainians/1793541948-real-opredelilsya-s-vrataryom-na-match-protiv-rasinga-chto-reshili-naschyot-lunina.html"
+          "url": "https://www.ua-football.com/foreign/spain/1793552296-la-liga-real-prodolzhaet-lomat-domashnie-serii-vsled-za-barselonoy-postradal-rasing.html"
         },
         {
-          "title": "Расинг Реал Мадрид – онлайн-трансляция матча 11 тура Ла Лиги и составы команд – Футбол 24",
+          "title": "Расинг Реал Мадрид – смотреть результат матча 11 тура Ла Лиги с участием команды Лунина – Футбол 24",
           "source": "Футбол 24",
-          "url": "https://football24.ua/ru/news/rasing-real-madrid-onlajn-transljacija-matcha-11-tura-la-ligi-i-sostavi-komand-973486"
+          "url": "https://football24.ua/ru/news/rasing-real-madrid-smotret-rezultat-matcha-11-tura-la-ligi-s-uchastiem-komandi-lunina-973488"
+        }
+      ]
+    },
+    {
+      "title": "스타링크",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 07:20:00 -0800",
+      "news": [
+        {
+          "title": "아시아 각국 국방 당국, 스타링크 통신 제한 전례에 상업 위성 계약 재검토 착수",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/20261102030820200420990b2dc5_1"
+        },
+        {
+          "title": "푸틴 \"머스크는 진정한 천재\" 극찬...러시아판 스타링크 개발은 이제 첫걸음",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216811"
+        },
+        {
+          "title": "우크라 드론이 하늘서 우수수, 왜?… 머스크 손에 달린 전쟁 향방 [세계는 왜?]",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026102518540001419"
         }
       ]
     },
@@ -153,63 +202,19 @@
       "published": "Sun, 1 Nov 2026 06:50:00 -0800",
       "news": [
         {
-          "title": "Racing Santander vs Real Madrid LIVE BLOG: Kickoff Time, Lineups and LaLiga Match Preview",
-          "source": "beIN SPORTS",
-          "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/live-blog-racing-santander-vs-real-madrid-laliga-2026-11-01"
+          "title": "Racing Santander 0-3 Real Madrid: England's Jude Bellingham scores in win",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c6zxj7vpggn2t"
+        },
+        {
+          "title": "Real Madrid's expected lineup against Racing Santander in La Liga: Courtois returns, Valverde is absent",
+          "source": "صوت الإمارات",
+          "url": "https://www.voiceofemirates.com/en/sport/2026/11/01/real-madrids-expected-lineup-against-racing-santander-in-la-liga-courtois-returns-valverde-is-absent/"
         },
         {
           "title": "Sixth consecutive victory",
           "source": "Real Madrid CF | Web Oficial",
           "url": "https://www.realmadrid.com/en-US/news/football/first-team/reports/cronica-racing-rm-j11-liga-01-11-2026"
-        },
-        {
-          "title": "Did Kylian Mbappé send a Ballon d’Or message with celebration vs Racing?",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/did-kylian-mbapp-send-ballon-154400302.html"
-        }
-      ]
-    },
-    {
-      "title": "성유리",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 06:40:00 -0800",
-      "news": [
-        {
-          "title": "\"핑클도 완전체로?\" 중년의 아이돌이 왜 자꾸 컴백할까",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/weekend/2026/10/24/RTHDEQSWXZHRPJPZNLW5WMYUME/"
-        },
-        {
-          "title": "[단독] 성유리, 핑클 복귀하는데···화장품 매출 ‘반토막’에 자본잠식",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611011826003"
-        },
-        {
-          "title": "\"어찌나 재밌는지\"… 이효리도 벌써 즐거운 '핑클 완전체'",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026102919530005259"
-        }
-      ]
-    },
-    {
-      "title": "racing santander vs real madrid",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 06:20:00 -0800",
-      "news": [
-        {
-          "title": "Racing - Real Madrid: resumen, resultado y goles | Última hora de LALIGA EA Sports en vivo hoy",
-          "source": "MARCA",
-          "url": "https://www.marca.com/futbol/laliga-ea-sports/racing-santander-r-madrid/2026/11/01/01_0101_20261101_189_186-directo.html"
-        },
-        {
-          "title": "Diomande firma otra obra de arte en El Sardinero y manda un mensaje a Vinicius",
-          "source": "MUNDIARIO",
-          "url": "https://www.mundiario.com/deportes/diomande-punta-golazos-buen-juego-pone-temblar-vinicius/20261101174126450355.html"
-        },
-        {
-          "title": "(¡EN VIVO!) VER GP de México F1 2026 en vivo ver partido online y 1 de noviembre de 2026 Partido",
-          "source": "Pierce Manufacturing",
-          "url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vc2Fnb3JtaWEwMDQ3LmdpdGh1Yi5pby9qb3JpbmEvc3RwLnhtbCIvPjwva3JwYW5vPg==&id=video-gp-de-mexico-f1-2026-en-vivo-ver-tvc-0101-es-psbeooh"
         }
       ]
     }
