@@ -1,11 +1,33 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T01:12:54+00:00",
+  "fetched_at": "2026-11-01T02:10:34+00:00",
   "items": [
     {
+      "title": "lyon",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 17:10:00 -0700",
+      "news": [
+        {
+          "title": "\"On a le sentiment que nos leaders grandissent\", retient Dumortier",
+          "source": "Rugbyrama",
+          "url": "https://www.rugbyrama.fr/2026/10/31/top-14-on-a-le-sentiment-que-nos-leaders-grandissent-ethan-dumortier-lyon-revient-sur-la-victoire-du-lou-qui-a-pris-du-temps-a-se-dessiner-13630025.php"
+        },
+        {
+          "title": "Les Vannetais ont longtemps résisté mais s’inclinent à Lyon",
+          "source": "Rugby Club Vannes",
+          "url": "https://www.rugbyclubvannes.bzh/les-vannetais-ont-longtemps-resiste-mais-sinclinent-a-lyon/"
+        },
+        {
+          "title": "Matias Alemanno victime d’une commotion cérébrale lors de la défaite du RC Vannes à Lyon",
+          "source": "Le Télégramme",
+          "url": "https://www.letelegramme.fr/sports/rugby/rc-vannes/matias-alemanno-victime-dune-commotion-cerebrale-lors-de-la-defaite-du-rc-vannes-a-lyon-7149830.php"
+        }
+      ]
+    },
+    {
       "title": "한화생명 e스포츠",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sat, 31 Oct 2026 17:00:00 -0700",
       "news": [
         {
@@ -14,9 +36,9 @@
           "url": "https://www.osen.co.kr/article/G1112902078"
         },
         {
-          "title": "[롤드컵] 젠지는 LYON, T1은 KC, DK는 BLG…롤드컵 8강 대진 확정",
+          "title": "[롤드컵] ‘LCK 4팀 8강’은 끝내 없었다!…BLG, 한화생명 떨어뜨리고 8강 막차 합류!, MSI 결승 복...",
           "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611010923003"
+          "url": "https://sports.khan.co.kr/article/202611010854003"
         },
         {
           "title": "[롤드컵] 추첨 운도 지독하게 없다…한화생명, 빌리빌리와 8강행 결정짓는 '단두대 매치'",
@@ -26,24 +48,68 @@
       ]
     },
     {
+      "title": "사랑 이 온다",
+      "approx_traffic": "2000+",
+      "published": "Sat, 31 Oct 2026 17:00:00 -0700",
+      "news": [
+        {
+          "title": "'사랑이 온다' 안희연, 하석진에 고백…27화 예고",
+          "source": "BNT뉴스",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610310150"
+        },
+        {
+          "title": "민진웅, '사랑이 온다' 단짠 매력남",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/broadcast-drama/2026/10/23/2026102309435214946"
+        },
+        {
+          "title": "시청률 20% 육박 ‘닥터X’ 없는 곳에선 ‘사랑이 온다’ 시청률 1위",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202610260900011910"
+        }
+      ]
+    },
+    {
+      "title": "골키퍼",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 17:00:00 -0700",
+      "news": [
+        {
+          "title": "‘한국은 AG 금메달로 병역 혜택 받는데…’ 아시아 최고 GK는 군대 간다 ‘10경기 2실점’ 기록하던 중 이란군 입대",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100108"
+        },
+        {
+          "title": "‘월드컵 위해 손가락 바쳤다’ 마르티네스, “손가락 정상으로 돌아오지 않을 것”",
+          "source": "풋볼리스트",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216350"
+        },
+        {
+          "title": "첼시는 디부 마르티네스의 부상과 관련하여 좋은 소식을 받았습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/chelsea-don-tin-vui-tu-chan-thuong-cua-dibu-martinez"
+        }
+      ]
+    },
+    {
       "title": "화재",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sat, 31 Oct 2026 16:50:00 -0700",
       "news": [
         {
-          "title": "\"7천 명 대피 악몽 막아라\"...대형 화재 합동훈련",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611010333132820_005.html"
+          "title": "울산소방본부, 겨울철 화재예방대책 추진…취약시설 안전관리 강화",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261031_0003849162"
         },
         {
-          "title": "상주소방서, 목조문화재 산림화재 대응 합동소방훈련 실시",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627797"
+          "title": "경북소방 '겨울철 화재안전대책' 추진…사상자 10% 줄인다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849570"
         },
         {
-          "title": "화학공장 폭발에 7천 명 대피…또 발생한다면?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699694"
+          "title": "[기고] 올겨울 월동 준비 목록에 `안전`을 더하자",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026102216372069216"
         }
       ]
     },
@@ -73,23 +139,7 @@
       "title": "자폭형 무인 항공기",
       "approx_traffic": "200+",
       "published": "Sat, 31 Oct 2026 16:40:00 -0700",
-      "news": [
-        {
-          "title": "북한 무인기 공개‥남북 드론 전력차 해법은?",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862218_37004.html"
-        },
-        {
-          "title": "김여정은 왜 밝은 옷을 입고 전방에 나타났을까 …북한이 숨긴 사진, 북한이 퍼트린 사진 [청계천 옆 사진관]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261031/134942240/1"
-        },
-        {
-          "title": "[한반도브리핑] 김정은의 ’드론 협박’…美 중간선거 사흘 앞",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031181825YIu"
-        }
-      ]
+      "news": []
     },
     {
       "title": "이찬원",
@@ -97,19 +147,19 @@
       "published": "Sat, 31 Oct 2026 16:30:00 -0700",
       "news": [
         {
-          "title": "예산 ‘국밥·사과·형제애로 가을 물들인다’…3색 축제 릴레이 이어진다",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353413"
-        },
-        {
-          "title": "[GJ포토]제23회 예산사과축제, 제35회 예산사과배 품평회 대상 수상",
+          "title": "이찬원 팬클럽, 생일 맞아 청각장애인 위해 3,445만원 후원",
           "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738112"
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3737647"
         },
         {
-          "title": "예산 가을축제 릴레이… 삼국축제 마치고 사과·의좋은형제축제 잇달아",
-          "source": "중도일보",
-          "url": "https://m.joongdo.co.kr/view.php?key=20261029010008757"
+          "title": "가수 이찬원 팬클럽 ‘합심대도 Chan’s’, 경남발달장애인복지협회에 후원금 200만 원 전달",
+          "source": "경남도민일보",
+          "url": "https://www.idomin.com/news/articleView.html?idxno=2018268"
+        },
+        {
+          "title": "이찬원, 29번째 생일 포스터 공개…연말 콘서트로 팬 사랑 잇는다",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264788"
         }
       ]
     },
@@ -119,19 +169,19 @@
       "published": "Sat, 31 Oct 2026 16:30:00 -0700",
       "news": [
         {
-          "title": "건설사 해킹에 부각된 입주민 정보보안…아파트 첨단화의 그늘",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261031047400003"
+          "title": "GS건설, 3분기 영업이익 955억 원으로 전 분기 대비 4.6%↑…주택 공급 확대에 실적 회복 기대",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261030/134939951/1"
         },
         {
-          "title": "GS건설도 해킹…아파트 입주민 개인정보 유출",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700288"
+          "title": "GS건설, 3Q 영업익 전년比 35.7% 감소…주택사업 부진 여파",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420363"
         },
         {
-          "title": "아파트까지 털렸다…상품권도 정보 유출 사고",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031004038JPH"
+          "title": "GS건설, 주택사업 기지개...갈길 먼 '매출 회복'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QaJ7Zi3GAf"
         }
       ]
     },
@@ -154,72 +204,6 @@
           "title": "Olivia Jade Holds Hands With Businessman PC Valmorbida During NYC Outing a Year After Jacob Elordi Split",
           "source": "E! News",
           "url": "https://www.eonline.com/news/1437509/is-olivia-jade-dating-pc-valmorbida-see-nyc-photo-after-jacob-elordi-split"
-        }
-      ]
-    },
-    {
-      "title": "이정영",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 15:40:00 -0700",
-      "news": [
-        {
-          "title": "\"나는 코리안 타이거, 증명하겠다\" 이정영 계체 통과, 美 파이터와 맞대결 '화끈 다짐' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/2026103113024659616"
-        },
-        {
-          "title": "또 다시 쓰러진 코리안 타이거...이로사에 1라운드 KO패 [MK현장]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12192535"
-        },
-        {
-          "title": "[격투기] '코리안 타이거' 되찾을 이정영, 1년 반 만의 UFC 복귀 준비 완료",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261031000056"
-        }
-      ]
-    },
-    {
-      "title": "milan vs inter",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 15:40:00 -0700",
-      "news": [
-        {
-          "title": "Christian Pulisic extends his contract with the Club: the official statement",
-          "source": "AC Milan | Sito Ufficiale",
-          "url": "https://www.acmilan.com/en/news/articles/media/2026-10-30/official-statement-christian-pulisic"
-        },
-        {
-          "title": "Pulisic signs new Milan deal on eve of Derby della Madonnina",
-          "source": "beIN SPORTS",
-          "url": "https://www.beinsports.com/en-us/soccer/serie-a/articles/pulisic-signs-new-milan-deal-on-eve-of-derby-della-madonnina-2026-10-30"
-        },
-        {
-          "title": "Pulisic: “I have always wanted to stay here. I’m very happy”",
-          "source": "Milanreports.com",
-          "url": "https://milanreports.com/2026/10/30/pulisic-always-wanted-to-stay-very-happy/"
-        }
-      ]
-    },
-    {
-      "title": "fc barcelona vs deportivo alavés standings",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 15:30:00 -0700",
-      "news": [
-        {
-          "title": "Barcelona 6-1 Alaves: Lamine Yamal and Raphinha each score twice as Barca return to top of La Liga",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cwg7xe5g11m0t"
-        },
-        {
-          "title": "Barcelona 6-1 Alavés (Oct 31, 2026) Game Analysis",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/report/_/gameId/401882822"
-        },
-        {
-          "title": "Barcelona Under PRESSURE! FC Barcelona vs. Alaves La Liga MATCH PREVIEW! - Scoreline Stream of Soccer",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/watch/soccer/video/barcelona-under-pressure-fc-barcelona-vs-alaves-la-liga-match-preview-scoreline"
         }
       ]
     }
