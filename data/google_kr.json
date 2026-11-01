@@ -1,8 +1,162 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T00:09:39+00:00",
+  "fetched_at": "2026-11-01T01:12:54+00:00",
   "items": [
+    {
+      "title": "한화생명 e스포츠",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 17:00:00 -0700",
+      "news": [
+        {
+          "title": "[롤드컵] '운명의 멸망전' 첫 세트부터 대접전… 한화생명, 中 BLG에 아쉬운 1세트 덜미",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112902078"
+        },
+        {
+          "title": "[롤드컵] 젠지는 LYON, T1은 KC, DK는 BLG…롤드컵 8강 대진 확정",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611010923003"
+        },
+        {
+          "title": "[롤드컵] 추첨 운도 지독하게 없다…한화생명, 빌리빌리와 8강행 결정짓는 '단두대 매치'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/31/GM4TKNJWMM4TGOJVMNQTENLGGA/"
+        }
+      ]
+    },
+    {
+      "title": "화재",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 16:50:00 -0700",
+      "news": [
+        {
+          "title": "\"7천 명 대피 악몽 막아라\"...대형 화재 합동훈련",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611010333132820_005.html"
+        },
+        {
+          "title": "상주소방서, 목조문화재 산림화재 대응 합동소방훈련 실시",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627797"
+        },
+        {
+          "title": "화학공장 폭발에 7천 명 대피…또 발생한다면?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699694"
+        }
+      ]
+    },
+    {
+      "title": "정전",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 16:50:00 -0700",
+      "news": [
+        {
+          "title": "거제서 전신주 파손…아파트 1천200여세대 한때 정전",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031039100052"
+        },
+        {
+          "title": "거제 공사 현장서 전신주 파손…1200세대 아파트 단지 정전",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261031/134942831/1"
+        },
+        {
+          "title": "거제 아주동 공사장서 전신주 파손…아파트 1200세대 한때 정전",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6338704"
+        }
+      ]
+    },
+    {
+      "title": "자폭형 무인 항공기",
+      "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 16:40:00 -0700",
+      "news": [
+        {
+          "title": "북한 무인기 공개‥남북 드론 전력차 해법은?",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862218_37004.html"
+        },
+        {
+          "title": "김여정은 왜 밝은 옷을 입고 전방에 나타났을까 …북한이 숨긴 사진, 북한이 퍼트린 사진 [청계천 옆 사진관]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261031/134942240/1"
+        },
+        {
+          "title": "[한반도브리핑] 김정은의 ’드론 협박’…美 중간선거 사흘 앞",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031181825YIu"
+        }
+      ]
+    },
+    {
+      "title": "이찬원",
+      "approx_traffic": "500+",
+      "published": "Sat, 31 Oct 2026 16:30:00 -0700",
+      "news": [
+        {
+          "title": "예산 ‘국밥·사과·형제애로 가을 물들인다’…3색 축제 릴레이 이어진다",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353413"
+        },
+        {
+          "title": "[GJ포토]제23회 예산사과축제, 제35회 예산사과배 품평회 대상 수상",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738112"
+        },
+        {
+          "title": "예산 가을축제 릴레이… 삼국축제 마치고 사과·의좋은형제축제 잇달아",
+          "source": "중도일보",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261029010008757"
+        }
+      ]
+    },
+    {
+      "title": "gs건설",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 16:30:00 -0700",
+      "news": [
+        {
+          "title": "건설사 해킹에 부각된 입주민 정보보안…아파트 첨단화의 그늘",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031047400003"
+        },
+        {
+          "title": "GS건설도 해킹…아파트 입주민 개인정보 유출",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700288"
+        },
+        {
+          "title": "아파트까지 털렸다…상품권도 정보 유출 사고",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031004038JPH"
+        }
+      ]
+    },
+    {
+      "title": "테일러 프리츠",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 16:20:00 -0700",
+      "news": [
+        {
+          "title": "Olivia Jade Reportedly Has a New Man in the Picture, & It’s Not Taylor Fritz",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/olivia-jade-reportedly-man-picture-190624887.html"
+        },
+        {
+          "title": "OLIVIA JADE’S RELATIONSHIP REVEALED: Mystery man uncovered",
+          "source": "DeuxMoi.world",
+          "url": "https://www.deuxmoi.world/news/olivia-jades-relationship-revealed"
+        },
+        {
+          "title": "Olivia Jade Holds Hands With Businessman PC Valmorbida During NYC Outing a Year After Jacob Elordi Split",
+          "source": "E! News",
+          "url": "https://www.eonline.com/news/1437509/is-olivia-jade-dating-pc-valmorbida-see-nyc-photo-after-jacob-elordi-split"
+        }
+      ]
+    },
     {
       "title": "이정영",
       "approx_traffic": "200+",
@@ -26,200 +180,46 @@
       ]
     },
     {
+      "title": "milan vs inter",
+      "approx_traffic": "100+",
+      "published": "Sat, 31 Oct 2026 15:40:00 -0700",
+      "news": [
+        {
+          "title": "Christian Pulisic extends his contract with the Club: the official statement",
+          "source": "AC Milan | Sito Ufficiale",
+          "url": "https://www.acmilan.com/en/news/articles/media/2026-10-30/official-statement-christian-pulisic"
+        },
+        {
+          "title": "Pulisic signs new Milan deal on eve of Derby della Madonnina",
+          "source": "beIN SPORTS",
+          "url": "https://www.beinsports.com/en-us/soccer/serie-a/articles/pulisic-signs-new-milan-deal-on-eve-of-derby-della-madonnina-2026-10-30"
+        },
+        {
+          "title": "Pulisic: “I have always wanted to stay here. I’m very happy”",
+          "source": "Milanreports.com",
+          "url": "https://milanreports.com/2026/10/30/pulisic-always-wanted-to-stay-very-happy/"
+        }
+      ]
+    },
+    {
       "title": "fc barcelona vs deportivo alavés standings",
       "approx_traffic": "500+",
       "published": "Sat, 31 Oct 2026 15:30:00 -0700",
       "news": [
         {
-          "title": "Flick could field a new-look Barcelona midfield trident against Alaves – report",
-          "source": "Barca Universal",
-          "url": "https://barcauniversal.com/flick-could-field-a-new-look-barcelona-midfield-trident-against-alaves-report/"
+          "title": "Barcelona 6-1 Alaves: Lamine Yamal and Raphinha each score twice as Barca return to top of La Liga",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cwg7xe5g11m0t"
         },
         {
-          "title": "🚨 Two surprises in FC Barcelona's squad announcement",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/two-surprises-in-fc-barcelonas-squad-announcement-43702568"
+          "title": "Barcelona 6-1 Alavés (Oct 31, 2026) Game Analysis",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401882822"
         },
         {
-          "title": "Barça was back to its old self",
-          "source": "MARCA",
-          "url": "https://www.marca.com/en/football/spanish-football/2026/10/31/barca-was-back-to-its-old-self.html"
-        }
-      ]
-    },
-    {
-      "title": "눈 둘 데가 없네",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 15:30:00 -0700",
-      "news": [
-        {
-          "title": "[TF씨네리뷰] '눈 둘 데가 없네' 속 오래 남는 김민희",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/entertain/2383185.htm"
-        },
-        {
-          "title": "홍상수의 세상 인식법 '눈 둘 데가 없네'",
-          "source": "세상을 바꾸는 시민언론 민들레",
-          "url": "https://www.mindlenews.com/news/articleView.html?idxno=22991"
-        },
-        {
-          "title": "[삶과문화] 메시지 없는 영화",
-          "source": "세계일보",
-          "url": "https://m.segye.com/view/20261029516443"
-        }
-      ]
-    },
-    {
-      "title": "대구날씨",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 15:30:00 -0700",
-      "news": [
-        {
-          "title": "대구경북 대체로 흐리다가 낮부터 비…낮 최고 17도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261101004400053"
-        },
-        {
-          "title": "[날씨] 대구·경북 오늘 늦은 밤~내일 새벽 5mm 미만 비",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699060"
-        },
-        {
-          "title": "시월 마지막날 경북중·북부내륙 짙은 안개...큰 기온차 '건강 유의'",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261030001316"
-        }
-      ]
-    },
-    {
-      "title": "샬럿 대 필라데피아",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "Sixers at Hornets: Game Preview, Injury Report and How to Watch 10/31/2026",
-          "source": "NBA.com",
-          "url": "https://sixers.com/news/sixers-at-hornets-game-preview-injury-report-and-how-to-watch-10-31-2026"
-        },
-        {
-          "title": "Charlotte Hornets vs. Philadelphia 76ers Full Game Preview, Score Predictions",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/nba/hornets/onsi/charlotte-hornets-vs-philadelphia-76ers-full-game-preview-score-predictions"
-        },
-        {
-          "title": "How to watch 76ers vs Hornets: NBA, live stream, TV channel",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/watch-76ers-vs-hornets-nba-210000986.html"
-        }
-      ]
-    },
-    {
-      "title": "대한민국 축구 국가대표팀",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "황희찬, 손흥민 하이파이브 외면하고 '쌩'…또 불붙은 '불화설' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/31/2026103119561622814"
-        },
-        {
-          "title": "‘손흥민 불확실한 미래, 선수단 내분’···가디언 “한국 축구 계속 추락”",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610311852001"
-        },
-        {
-          "title": "\"손흥민, 호날두처럼 분열 초래\" 국제망신 된 축구대표팀 내분설",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/31/GJRGMMZZME3DGOBRGM2GCMZXGM/"
-        }
-      ]
-    },
-    {
-      "title": "박서진",
-      "approx_traffic": "200+",
-      "published": "Sat, 31 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "박서진, 황혜선에 “누가 꽃인지”…부모님은 며느리 기대",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261101/134943083/1"
-        },
-        {
-          "title": "박서진, 은가은♥박현호 둘째 선물 공약···은가은, 바로 입덧?('살림남2')",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/01/GNTDCOJXMFTDQMJVME3WKOJQMI/"
-        },
-        {
-          "title": "트로트 황태자 박서진, 민화 작가 데뷔···호평VS혹평 뜨거워('살림남2')",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112902035"
-        }
-      ]
-    },
-    {
-      "title": "바이퍼",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "[롤드컵] '내전의 악마' TES, BLG 상대로 짜릿한 '패승승' 역전승… LPL 두 번째 8강 녹아웃行(종합)",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112901018"
-        },
-        {
-          "title": "‘999 is back!’…7개월 공백 지운 ‘369’ 바이자하오, TES의 8강을 이끌다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610301439003"
-        },
-        {
-          "title": "[롤드컵] '체급 차이 증명' BLG, LPL 내전 TES에 27분만에 기선제압",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261029165214863"
-        }
-      ]
-    },
-    {
-      "title": "노소영",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 15:20:00 -0700",
-      "news": [
-        {
-          "title": "9440억 중 2440억 남았다…최태원·노소영, 대법원서 다시 붙는다",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04336166645617512&mediaCodeNo=257"
-        },
-        {
-          "title": "최태원·노소영 재산분할 재상고심 심리 시작",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12091799"
-        },
-        {
-          "title": "최태원·노소영, '재산분할' 재상고심 대법원 2부 배당",
-          "source": "싱글리스트",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=777052"
-        }
-      ]
-    },
-    {
-      "title": "드라마",
-      "approx_traffic": "2000+",
-      "published": "Sat, 31 Oct 2026 15:10:00 -0700",
-      "news": [
-        {
-          "title": "\"넷플릭스 없어도 되겠네\"…韓드라마 공짜로 볼 수 있다는데 [김예랑의 K컬처인사이드]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610306126H"
-        },
-        {
-          "title": "구작으로 광고 수익에 신작 홍보까지…CJ ENM 'FAST 활용법' [엔터코노미]",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/article/2026103009432641537"
-        },
-        {
-          "title": "CJ ENM, 북미 LG채널 통해 ‘K-댄스 전용 FAST 채널’ 독점 론칭",
-          "source": "CJ ENM",
-          "url": "https://www.cjenm.com/ko/news/cj-enm-%EB%B6%81%EB%AF%B8-lg%EC%B1%84%EB%84%90-%ED%86%B5%ED%95%B4-k%EB%8C%84%EC%8A%A4-%EC%A0%84%EC%9A%A9-fast-%EC%B1%84%EB%84%90-%EB%8F%85%EC%A0%90-%EB%A1%A0%EC%B9%AD/"
+          "title": "Barcelona Under PRESSURE! FC Barcelona vs. Alaves La Liga MATCH PREVIEW! - Scoreline Stream of Soccer",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/watch/soccer/video/barcelona-under-pressure-fc-barcelona-vs-alaves-la-liga-match-preview-scoreline"
         }
       ]
     }
