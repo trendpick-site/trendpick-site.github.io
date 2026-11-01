@@ -1,11 +1,83 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T14:17:36+00:00",
+  "fetched_at": "2026-11-01T15:13:59+00:00",
   "items": [
     {
+      "title": "우니온 베를린 대 쾰른",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 06:10:00 -0800",
+      "news": [
+        {
+          "title": "West Ham vs. Liverpool (Nov 1, 2026) Team Stats",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401902873/league/eng.w.1"
+        },
+        {
+          "title": "West Brom vs. Southampton (Nov 3, 2026) Odds and Spread",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/odds/_/gameId/401880177"
+        },
+        {
+          "title": "Union Berlin vs. Cologne (Nov 1, 2026) Team Stats",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401884750/league/ger.1"
+        }
+      ]
+    },
+    {
+      "title": "코리아 오픈",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 06:10:00 -0800",
+      "news": [
+        {
+          "title": "[공식발표] \"많이 힘들긴 하다\" 안세영, 결국 기권 확정...日 구마모토 마스터스 포기→코리아 오픈은 뛴다 '시즌 11승 도전'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/01/GA3TAMRXG42GGZLEMMZWCNZZMI/"
+        },
+        {
+          "title": "1년 전 코리아오픈 결승전 야마구치에 무릎 꿇었던 안세영, 올해는 코리아오픈 출전할까?…발목 부상이 변수다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311526773320O"
+        },
+        {
+          "title": "세계 배드민턴 별들 여수 집결…안세영 출전 여부 관심",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=927799"
+        }
+      ]
+    },
+    {
+      "title": "손석구",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 05:40:00 -0800",
+      "news": []
+    },
+    {
+      "title": "전국노래자랑",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 05:30:00 -0800",
+      "news": [
+        {
+          "title": "‘전국노래자랑’ 동작구 박서진 편",
+          "source": "BNT뉴스",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610300056"
+        },
+        {
+          "title": "\"박서진부터 진성까지\"… '전국노래자랑' 화려한 초대가수 라인업",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738721"
+        },
+        {
+          "title": "'전국노래자랑' 박서진·진성·박혜신·유민·미스김 초대가수 완성",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/304568"
+        }
+      ]
+    },
+    {
       "title": "중산층",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sun, 1 Nov 2026 05:00:00 -0800",
       "news": [
         {
@@ -31,19 +103,19 @@
       "published": "Sun, 1 Nov 2026 05:00:00 -0800",
       "news": [
         {
-          "title": "[포토] 배용준, 사랑하는 부모님과 함께",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03037286645641456&mediaCodeNo=257"
+          "title": "가는 길은 험난했지만...배용준이 렉서스 마스터즈에서 개인 통산 3승 수확 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/01/202611011711770337O"
         },
         {
-          "title": "배용준, KPGA 렉서스 마스터즈서 2차 연장 끝 정상…통산 3승 달성",
+          "title": "배용준, KPGA 렉서스 마스터스에서 2차 연장 끝 우승…시즌 첫 승",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/golf/6339097"
+        },
+        {
+          "title": "스트로크 플레이 첫 우승 배용준 \"최종 목표 PGA, 끝까지 도전할 것\"(종합)",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849931"
-        },
-        {
-          "title": "배용준, 2차 연장 우승…스트로크 플레이 대회 첫 정상",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110118223142932"
+          "url": "https://www.newsis.com/view/NISX20261101_0003849940"
         }
       ]
     },
@@ -116,94 +188,6 @@
           "title": "TPG, 롯데렌탈 인수 1조3105억원에 마무리",
           "source": "마켓인",
           "url": "https://marketin.edaily.co.kr/News/Read?newsId=05795766645618168"
-        }
-      ]
-    },
-    {
-      "title": "다니엘",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 04:20:00 -0800",
-      "news": [
-        {
-          "title": "“다시 일어서기 위해” 뉴진스 4인·다니엘, 팬클럽 기념일에 각자 근황",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20108362"
-        },
-        {
-          "title": "복귀 선언 1년, 뉴진스의 시계는 왜 '민지' 앞에서 멈췄나? [IZE 진단] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/30/2026103014387297584"
-        },
-        {
-          "title": "\"예전과 같을 순 없겠죠\"…뉴진스 팬덤 생일에 자작곡",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822218"
-        }
-      ]
-    },
-    {
-      "title": "허미미",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 04:10:00 -0800",
-      "news": [
-        {
-          "title": "오상욱, '그랜드슬램 목표' 허미미에 멘탈 비법 전수",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738907"
-        },
-        {
-          "title": "‘냉장고를 부탁해’ 비웨사 다니엘·허미미 출연… 아시안게임 뒷이야기 공개",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3444847"
-        },
-        {
-          "title": "日 국적 포기 귀화 허미미, 먹고 충격받은 한식은? “일본엔 ‘이것’ 없어”(냉부)",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202611011953236110&code=100100"
-        }
-      ]
-    },
-    {
-      "title": "como vs venezia",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 04:00:00 -0800",
-      "news": [
-        {
-          "title": "Venezia se concentra para salir del último lugar ante Como 1907",
-          "source": "Anecdotarios",
-          "url": "https://anecdotarios.com/2026/11/01/venezia-se-concentra-para-salir-del-ultimo-lugar-ante-como-1907/"
-        },
-        {
-          "title": "Como – Venecia el partido de fútbol de la jornada 10 de la Serie A, en directo",
-          "source": "La Vanguardia",
-          "url": "https://www.lavanguardia.com/deportes/futbol/20261101/2453/como-venecia-serie-a-ca-en-directo-ctx.html"
-        },
-        {
-          "title": "'Repóker' del Como sin pasearse en góndola",
-          "source": "MARCA",
-          "url": "https://www.marca.com/futbol/liga-italiana/cronica/2026/11/01/repoker-pasearse-gondola.html"
-        }
-      ]
-    },
-    {
-      "title": "한세실업",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 03:50:00 -0800",
-      "news": [
-        {
-          "title": "\"미국인 3명 중 1명이 입는다\"…베트남서 옷 쏟아내는 韓기업",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611018137i"
-        },
-        {
-          "title": "3년 숙련공 일도 신입이 척척... ‘연 4억장’ 의류 기업의 자동화",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/11/01/HILFABSW7NA2NDHNB5SD53ER3Q/"
-        },
-        {
-          "title": "“자동화로 생산량 3배…미국인 3명 중 1명은 한세실업의 옷을 입는다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261101/134945091/1"
         }
       ]
     }
