@@ -1,33 +1,55 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-10-31T23:38:53+00:00",
+  "fetched_at": "2026-11-01T00:09:39+00:00",
   "items": [
     {
-      "title": "fc barcelona vs deportivo alavés standings",
+      "title": "이정영",
       "approx_traffic": "200+",
+      "published": "Sat, 31 Oct 2026 15:40:00 -0700",
+      "news": [
+        {
+          "title": "\"나는 코리안 타이거, 증명하겠다\" 이정영 계체 통과, 美 파이터와 맞대결 '화끈 다짐' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/31/2026103113024659616"
+        },
+        {
+          "title": "또 다시 쓰러진 코리안 타이거...이로사에 1라운드 KO패 [MK현장]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12192535"
+        },
+        {
+          "title": "[격투기] '코리안 타이거' 되찾을 이정영, 1년 반 만의 UFC 복귀 준비 완료",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261031000056"
+        }
+      ]
+    },
+    {
+      "title": "fc barcelona vs deportivo alavés standings",
+      "approx_traffic": "500+",
       "published": "Sat, 31 Oct 2026 15:30:00 -0700",
       "news": [
         {
-          "title": "Confirmed: Barcelona squad list to face Alaves – two new faces called up",
+          "title": "Flick could field a new-look Barcelona midfield trident against Alaves – report",
           "source": "Barca Universal",
-          "url": "https://barcauniversal.com/confirmed-barcelona-squad-list-to-face-alaves-two-new-faces-called-up/"
+          "url": "https://barcauniversal.com/flick-could-field-a-new-look-barcelona-midfield-trident-against-alaves-report/"
         },
         {
-          "title": "Hansi Flick talks Brian Farinas and Frenkie de Jong in defence ahead of Barcelona vs Alaves",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/hansi-flick-talks-brian-farinas-194129848.html"
+          "title": "🚨 Two surprises in FC Barcelona's squad announcement",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/en/news/two-surprises-in-fc-barcelonas-squad-announcement-43702568"
         },
         {
-          "title": "Barcelona Player Ratings vs. Alaves: Barca Back in Business With Clinical Beatdown",
-          "source": "Forza Football",
-          "url": "https://forzafootball.com/news/barcelona-player-ratings-vs-alaves-barca-back-in-business-with-clinical-beatdown-159477019"
+          "title": "Barça was back to its old self",
+          "source": "MARCA",
+          "url": "https://www.marca.com/en/football/spanish-football/2026/10/31/barca-was-back-to-its-old-self.html"
         }
       ]
     },
     {
       "title": "눈 둘 데가 없네",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 31 Oct 2026 15:30:00 -0700",
       "news": [
         {
@@ -49,7 +71,7 @@
     },
     {
       "title": "대구날씨",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 31 Oct 2026 15:30:00 -0700",
       "news": [
         {
@@ -93,7 +115,7 @@
     },
     {
       "title": "대한민국 축구 국가대표팀",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sat, 31 Oct 2026 15:20:00 -0700",
       "news": [
         {
@@ -124,14 +146,14 @@
           "url": "https://sports.donga.com/ent/article/all/20261101/134943083/1"
         },
         {
-          "title": "트로트 황태자 박서진, 민화 작가 데뷔···호평VS혹평 뜨거워('살림남2')",
+          "title": "박서진, 은가은♥박현호 둘째 선물 공약···은가은, 바로 입덧?('살림남2')",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/ME4WEOJVMMZDSZJRGMYTEYRRGM/"
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/01/GNTDCOJXMFTDQMJVME3WKOJQMI/"
         },
         {
-          "title": "박서진, 민화로 첫 전시회…불면증 극복이 계기",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738627"
+          "title": "트로트 황태자 박서진, 민화 작가 데뷔···호평VS혹평 뜨거워('살림남2')",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112902035"
         }
       ]
     },
@@ -198,23 +220,6 @@
           "title": "CJ ENM, 북미 LG채널 통해 ‘K-댄스 전용 FAST 채널’ 독점 론칭",
           "source": "CJ ENM",
           "url": "https://www.cjenm.com/ko/news/cj-enm-%EB%B6%81%EB%AF%B8-lg%EC%B1%84%EB%84%90-%ED%86%B5%ED%95%B4-k%EB%8C%84%EC%8A%A4-%EC%A0%84%EC%9A%A9-fast-%EC%B1%84%EB%84%90-%EB%8F%85%EC%A0%90-%EB%A1%A0%EC%B9%AD/"
-        }
-      ]
-    },
-    {
-      "title": "설악산",
-      "approx_traffic": "500+",
-      "published": "Sat, 31 Oct 2026 15:00:00 -0700",
-      "news": [
-        {
-          "title": "설악산 용아장성",
-          "source": "Arts & Culture",
-          "url": "https://www.artsnculture.com/news/articleView.html?idxno=7186"
-        },
-        {
-          "title": "\"등산할 때 친목은 사절, 버스만 예약할게요\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/weekend/2026/10/31/F5ZFBS2NV5EDZJCJ5MXX6Y5D44/"
         }
       ]
     }
