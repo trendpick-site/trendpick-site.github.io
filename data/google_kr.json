@@ -1,209 +1,193 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T22:13:24+00:00",
+  "fetched_at": "2026-11-01T23:13:02+00:00",
   "items": [
     {
-      "title": "대한민국 축구 국가대표팀",
-      "approx_traffic": "2000+",
-      "published": "Sun, 1 Nov 2026 13:10:00 -0800",
+      "title": "휴고 칼데라노",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 14:10:00 -0800",
       "news": [
         {
-          "title": "황희찬, 손흥민 하이파이브 외면하고 '쌩'…또 불붙은 '불화설' - 머니투데이",
+          "title": "'심장이 멎을 듯한 7게임 혈투!' 장우진, 마지막 14-12 '연속 듀스' 이겨내고 세계 7위 칼데라노 격파...몽펠리에 결승 무대 오른다 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/31/2026103119561622814"
+          "url": "https://www.mt.co.kr/sports/2026/11/01/202611012131770272O"
         },
         {
-          "title": "\"손흥민, 호날두처럼 분열 초래\" 국제망신 된 축구대표팀 내분설",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/10/31/GJRGMMZZME3DGOBRGM2GCMZXGM/"
+          "title": "‘거침없다’ 탁구 에이스 장우진, 세계랭킹 6위와 결승 티켓 다툰다…WTT 챔피언스 몽펠리에 4강 진출",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112902055"
         },
         {
-          "title": "‘손흥민 불확실한 미래, 선수단 내분’···가디언 “한국 축구 계속 추락”",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610311852001"
+          "title": "장우진 쾌거! 韓 탁구 최초 WTT 챔피언스 2회 결승 진출…세계 7위 칼데라누에 4-3 역전승→18위 프란치스카와 트로피 다툰다",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2214143"
         }
       ]
     },
     {
-      "title": "kia 타이거즈",
-      "approx_traffic": "200000+",
-      "published": "Sun, 1 Nov 2026 13:00:00 -0800",
+      "title": "비트코인",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 14:10:00 -0800",
       "news": [
         {
-          "title": "호랑이 잡은 사자, 이제 마법사 노린다… 삼성, 2년 만에 KS 진출",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261101/134945740/1"
+          "title": "北해커 훔친 비트코인, 테슬라 보유량 넘어‥北연간 수출액 3배",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6862373_36925.html"
         },
         {
-          "title": "“고개 들어라, 정말 멋지고 자랑스럽다” 198승 대투수, PO 패배에도 후배들에게 전한 진심",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112902367"
+          "title": "“8조 원이 한순간에 증발”…바이낸스, 대체 왜 털렸나? [잇슈 머니]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700945"
         },
         {
-          "title": "[그래픽] 2026 프로야구 한국시리즈 대진",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/GYH20261101000700044"
+          "title": "트럼프 \"바이낸스 해킹, 북한 소행 확인되면 대화할 것\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442367"
         }
       ]
     },
     {
-      "title": "klasemen racing santander vs real madrid",
+      "title": "구미시",
       "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 13:00:00 -0800",
+      "published": "Sun, 1 Nov 2026 14:00:00 -0800",
+      "news": [
+        {
+          "title": "창업안착 100개사·미래기술 60개사…구미시, 4대 성과목표·6대 추진 전략 완성",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261101203439139"
+        },
+        {
+          "title": "구미 중소기업·소상공인 협업 지원 길 열렸다",
+          "source": "경북일보",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089130"
+        },
+        {
+          "title": "구미시, 기업지원 체계 바꾼다⋯AI·공급망 중심 전환",
+          "source": "경북신문",
+          "url": "https://www.kbsm.net/news/view.php?idx=539845"
+        }
+      ]
+    },
+    {
+      "title": "지소연",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 14:00:00 -0800",
+      "news": [
+        {
+          "title": "지소연 소신 발언! \"손흥민 선수가 안쓰럽다…고참들 단합 중요해, 후배들이 똑같이 보고 배운다\"→정답 내놨다",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2213907"
+        },
+        {
+          "title": "'A매치 200경기 앞둔' 지소연 \"국가대표 20년 차...대표팀 주장은 한 번도 안 했죠\"",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026103014500000918"
+        },
+        {
+          "title": "“손흥민 안쓰러웠다”… 96라인 내분설에 입 연 ‘이 선수’, 작심하고 발언했다",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1170829"
+        }
+      ]
+    },
+    {
+      "title": "klasemen liverpool vs arsenal",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 14:00:00 -0800",
       "news": []
     },
     {
-      "title": "afc 아시안컵",
+      "title": "사학연금",
       "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 12:50:00 -0800",
+      "published": "Sun, 1 Nov 2026 13:50:00 -0800",
+      "news": []
+    },
+    {
+      "title": "김호령",
+      "approx_traffic": "5000+",
+      "published": "Sun, 1 Nov 2026 13:40:00 -0800",
       "news": [
         {
-          "title": "'한국 축구 초대형 변수' 손흥민 라스트댄스 어쩌나...'64년만의 우승 도전' 2027 아시안컵, 끝내 연기 가능성 높다",
+          "title": "KIA 가을 최악 악몽 주인공… FA 가치 시험대 오른다, 설마 이렇게 KIA 떠날까",
           "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016931"
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016924"
         },
         {
-          "title": "'캡틴 손흥민 왕따설' 대한민국, 오히려 좋아?...카타르 매체 \"아시안컵 1년 전격 연기\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-11-01/202611010100006850000352"
+          "title": "[사진]아쉬운 김호령 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/202610302057770725O"
         },
         {
-          "title": "경기장 나타나지 않은 사우디 클럽, 그런데 아시안컵 강행한다고? 중동 안보 우려 확산 [SS포커스]",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1645506"
+          "title": "이범호 감독 ‘이호연 대타’[포토]",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2214015"
         }
       ]
     },
     {
-      "title": "적금",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 12:50:00 -0800",
-      "news": [
-        {
-          "title": "24개월 최고 연 7.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리-11월 1주]",
-          "source": "금융신문",
-          "url": "https://www.fntimes.com/html/view.php?ud=2026103015253891391b5a221379_18"
-        },
-        {
-          "title": "12개월 정기예금 최고 연 4.1%…저축은행·지방은행이 상위권, 우대조건은 꼭 확인",
-          "source": "https://www.diarypoint.com/",
-          "url": "https://www.diarypoint.com/news/articleView.html?idxno=6469"
-        },
-        {
-          "title": "12개월 최고 연 6.00%…BNK저축은행 'BNK동행적금'[이주의 저축은행 적금금리-11월 1주]",
-          "source": "금융신문",
-          "url": "https://www.fntimes.com/html/view.php?ud=2026110100111753707c96e79780_18"
-        }
-      ]
-    },
-    {
-      "title": "이영준",
+      "title": "파업",
       "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 12:40:00 -0800",
+      "published": "Sun, 1 Nov 2026 13:40:00 -0800",
       "news": [
         {
-          "title": "이영준, 시즌 6호골로 2-2 무승부 기여‥엄지성은 어시스트",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6862294_36946.html"
-        },
-        {
-          "title": "'모레노호 승선 불발' 이영준, 시즌 6호골로 2-2 무승부 기여",
+          "title": "포스코노조, 7일 조합원 대상 임금교섭 잠정 합의안 찬반투표",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261101012400007"
+          "url": "https://www.yna.co.kr/view/AKR20261101014100053"
         },
         {
-          "title": "이영준 시즌 6호골 맹활약에도…그라스호퍼는 리그 5경기 무승",
+          "title": "포스코 노조 파업 철회하고 7일 임금협상 잠정합의안 투표, 과반 찬성하면 최종 타결",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450846"
+        },
+        {
+          "title": "포스코 노사, 올해 임금협상 '극적 합의'…\"철강 위기 극복 위해 힘 합친다\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849606"
+          "url": "https://www.newsis.com/view/NISX20261101_0003849616"
         }
       ]
     },
     {
-      "title": "임영웅",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 12:40:00 -0800",
-      "news": [
-        {
-          "title": "임영웅, 하루에만 644만 회 재생…멜론 누적 148억 회 넘었다",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261030/134937232/1"
-        },
-        {
-          "title": "148억 대기록 세운 임영웅, 영웅시대는 선행으로 온기를 더했다",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1645380"
-        },
-        {
-          "title": "임영웅, 모교 후배들과 녹음실서 맞춘 하모니",
-          "source": "비즈엔터",
-          "url": "https://enter.etoday.co.kr/news/view/304379"
-        }
-      ]
-    },
-    {
-      "title": "화이트캡스 대 시애틀 사운더스",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 12:30:00 -0800",
-      "news": [
-        {
-          "title": "Whitecaps vs. Sounders, livestream: Kickoff, lineups, updates",
-          "source": "Sounder at Heart",
-          "url": "https://www.sounderatheart.com/2026/11/whitecaps-vs-sounders-gamethread-3/"
-        },
-        {
-          "title": "Idle Whitecaps clinch first place in Western Conference",
-          "source": "Sportsnet.ca",
-          "url": "https://www.sportsnet.ca/mls/article/idle-whitecaps-clinch-first-place-in-western-conference/"
-        },
-        {
-          "title": "VANvSEA Starting XI: Snyder Brunell gets the nod, Jordan Morris starts on the wing against the Whitecaps",
-          "source": "Seattle Sounders FC",
-          "url": "https://www.soundersfc.com/news/vanvsea-starting-xi-snyder-brunell-gets-the-nod-jordan-morris-starts-on-the-wing-against-the-whitecaps"
-        }
-      ]
-    },
-    {
-      "title": "택시",
+      "title": "미국 중간선거",
       "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 12:30:00 -0800",
+      "published": "Sun, 1 Nov 2026 13:30:00 -0800",
       "news": [
         {
-          "title": "진주서 신호 대기 중이던 택시 ‘폭발’ 화재…2명 화상",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700522"
+          "title": "美, 5200만명 사전투표 역대 최대… 민주당원 비율이 11%p 더 높아",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/11/02/J7MG2TX5ABG4DKTJFURO3HROLQ/"
         },
         {
-          "title": "진주서 택시 화재…운전자 등 2명 화상",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261101.99099000033"
+          "title": "트럼프, 아이오와·캔자스에서 마지막 투표 호소...알래스카 공화 후보 \"패해도 결과 받아들일 것\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611020715590752"
         },
         {
-          "title": "진주 개양오거리 인근 택시서 불…70대 운전기사 화상",
+          "title": "美중간선거 D-2…트럼프 텃밭사수 안간힘, 민주 내부갈등 분출(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261031009200052"
+          "url": "https://www.yna.co.kr/view/AKR20261102002151071"
         }
       ]
     },
     {
-      "title": "장한별",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 12:30:00 -0800",
+      "title": "신인감독 김연경",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 13:20:00 -0800",
       "news": [
         {
-          "title": "장한별, 첫 단독콘서트 3회 매진·브랜드 5계단↑ (가수 브랜드 리포트)",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16265158"
-        },
-        {
-          "title": "장한별, 데뷔 첫 단독 콘서트 개최…31일 서울서 팬들과 만난다",
+          "title": "김연경 큰 실망…자존심 다 걸고 핑크스파이더스 맞대결",
           "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261030/134937547/1"
+          "url": "https://sports.donga.com/ent/article/all/20261101/134944838/1"
         },
         {
-          "title": "[단독]장한별, 생애 첫 단독 콘서트 감동의 무대…부모님 초대' 관객도 함께 울어'",
-          "source": "더퍼블릭",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=324622"
+          "title": "‘신인감독 김연경2’ 표승주 팀과 맞대결서 고전…김연경 “할 말이 없다”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20108740"
+        },
+        {
+          "title": "'신인감독' 김연경 감독, 친정팀 '흥국생명' 맞춤형 훈련 공개",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523092"
         }
       ]
     }
