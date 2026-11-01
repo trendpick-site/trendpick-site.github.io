@@ -1,11 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T20:14:14+00:00",
+  "fetched_at": "2026-11-01T21:14:07+00:00",
   "items": [
     {
-      "title": "현대",
+      "title": "유벤투스 대 나폴리",
       "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 11:50:00 -0800",
+      "news": [
+        {
+          "title": "세리에 A 유벤투스 대 나폴리 경기 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-juventus-vs-napoli-tai-serie-a-1792878.ldo"
+        },
+        {
+          "title": "유벤투스 대 나폴리 경기 예측, 11월 2일 오전 2시 45분: 많은 기대를 모으는 경기입니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-juventus-vs-napoli-02h45-ngay-2-11-dai-chien-duyen-no"
+        },
+        {
+          "title": "세리에 A 제노아 대 유벤투스 축구 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-genoa-vs-juventus-tai-serie-a-1790816.ldo"
+        }
+      ]
+    },
+    {
+      "title": "f1",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 11:50:00 -0800",
+      "news": [
+        {
+          "title": "What To Watch For in the Mexico City Grand Prix",
+          "source": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-mexico-city-grand-prix.2L0L49djDMMYYHFCx7EpTf"
+        },
+        {
+          "title": "(5) Mexican Formula One Grand Prix: Kimi Antonelli aims to seal title – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/01/mexican-formula-one-grand-prix-kimi-antonelli-aims-to-seal-title-live"
+        },
+        {
+          "title": "Speed and stars: Mexico’s F1 paddock fiesta!",
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/01/f1-mexico-city-gp-guestlist/"
+        }
+      ]
+    },
+    {
+      "title": "유조선",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 11:40:00 -0800",
+      "news": [
+        {
+          "title": "올해 선박 발주, 2007년 맞먹는 호황…2028년엔 신조선가 하락",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12092329?ref=naver"
+        },
+        {
+          "title": "K조선 ‘고부가 텃밭’ 대형 LNG선 파고드는 중국",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/10/27/OMJ2FL5UT5GEHKFQBT3TFGTVZY/"
+        },
+        {
+          "title": "\"메탄올 꺾고 LNG 메가막스로\"… 머스크, 초대형 컨테이너선 대량 발주 임박",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026103009292591120c8c1c064d_1"
+        }
+      ]
+    },
+    {
+      "title": "현대",
+      "approx_traffic": "1000+",
       "published": "Sun, 1 Nov 2026 11:10:00 -0800",
       "news": [
         {
@@ -19,15 +85,15 @@
           "url": "https://www.mt.co.kr/stock/2026/11/02/2026110119513938687"
         },
         {
-          "title": "한국거래소, 저PBR 151곳 첫 공개… 증권사 앱에 꼬리표",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/11/01/MG6DOBKHIJGMJPLQ4JRGXVAJWI/"
+          "title": "내일부터 주식 종목에 ‘저PBR’ 꼬리표 붙는다…저PBR 기업 151개 첫 공개",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611011602001"
         }
       ]
     },
     {
       "title": "최수종",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 1 Nov 2026 11:10:00 -0800",
       "news": [
         {
@@ -41,37 +107,37 @@
           "url": "https://sports.donga.com/ent/article/all/20261101/134943366/1"
         },
         {
-          "title": "'옥문아' 최수종 \"구두 단 2켤레…30년 째 밑창 갈아써\"",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523124"
+          "title": "최수종, 구두 단 2켤레로 30년 버텼다 \"하희라가 새로 사준다 해도 거절\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6339129"
         }
       ]
     },
     {
       "title": "뱀",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Sun, 1 Nov 2026 10:50:00 -0800",
       "news": [
         {
-          "title": "운전대서 뱀이 ‘불쑥’…고속도로 달리던 운전자 ‘깜짝’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261101/134945969/1"
-        },
-        {
-          "title": "고속도로 달리던 중 렌터카 핸들에서 뱀 출몰…소방 출동",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261101.99099000149"
+          "title": "[속보]고속도로 주행 중 핸들서 뱀머리 ‘삐죽’…운전자 렌터카 몰다 ‘깜짝’ 소방 출동 소동",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627877"
         },
         {
           "title": "“으악, 뱀이다!”… 고속도로 달리던 차량 핸들서 뱀 머리가 '불쑥'",
           "source": "전자신문",
           "url": "https://www.etnews.com/20261101000097"
+        },
+        {
+          "title": "고속도로 달리는데 운전대 뒤에서 뱀이 스르륵…소방 출동 소동",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261101181543C9Y"
         }
       ]
     },
     {
       "title": "창신메모리테크놀로지",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sun, 1 Nov 2026 10:50:00 -0800",
       "news": [
         {
@@ -90,6 +156,12 @@
           "url": "https://www.mt.co.kr/tech/2026/11/01/2026103118035098309"
         }
       ]
+    },
+    {
+      "title": "경상남도",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 10:50:00 -0800",
+      "news": []
     },
     {
       "title": "프리미어리그 순위",
@@ -132,94 +204,6 @@
           "title": "\"독재자\" '낄낄' 한번에 1400억 날릴 판…음바페 사과에도 中중계 통째로 중단",
           "source": "아시아경제",
           "url": "https://view.asiae.co.kr/article/2026103114260459751"
-        }
-      ]
-    },
-    {
-      "title": "ลิเวอร์พูล พบ อาร์เซนอล",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 08:50:00 -0800",
-      "news": [
-        {
-          "title": "NYC Village Halloween Parade: The 53rd annual parade takes over Sixth Avenue in Manhattan, New York City, tonight with the theme",
-          "source": "Pierce Manufacturing",
-          "url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2h1bWF5cmFrdGVyLmdpdGh1Yi5pby92aWRlby9zLnhtbCIvPjwva3JwYW5vPg==&id=vi8deo-liverpool-vs-arsenal-th-10"
-        },
-        {
-          "title": "โปรแกรมกีฬาวันนี้ พร้อมช่องถ่ายทอดสด วันอาทิตย์ที่ 1 พฤศจิกายน 69",
-          "source": "TNN Thailand",
-          "url": "https://www.tnnthailand.com/sports/251126/"
-        },
-        {
-          "title": "ดูบอลสด ลิเวอร์พูล พบ อาร์เซนอล ฟุตบอลพรีเมียร์ลีก อังกฤษ คืนนี้ เวลา 23.30 น.",
-          "source": "Sanook",
-          "url": "https://www.sanook.com/sport/1673552/"
-        }
-      ]
-    },
-    {
-      "title": "레알마드리드",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 08:00:00 -0800",
-      "news": [
-        {
-          "title": "'무리뉴는 해냈다' 레알 마드리드에서 벌어진 놀라운 변화...레알 5연승에 엘 클라시코 승리까지 '완벽한 변신' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311210771338O"
-        },
-        {
-          "title": "레알 마드리드 5연승 질주…엘 클라시코 2-1 승리 : 스포츠",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1063976"
-        },
-        {
-          "title": "무리뉴가 바르셀로나를 이해했을 때",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/khi-mourinho-giai-ma-barcelona"
-        }
-      ]
-    },
-    {
-      "title": "liverpool vs arsenal",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 07:50:00 -0800",
-      "news": [
-        {
-          "title": "Liverpool 0-1 Arsenal: Kai Havertz scores winner in rare Anfield win for Gunners",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cqev37r8jvvxt"
-        },
-        {
-          "title": "Liverpool 0-1 Arsenal: Premier League – as it happened",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/nov/01/liverpool-v-arsenal-premier-league-live"
-        },
-        {
-          "title": "Three talking points from the Premier League",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/live-news/20261101-three-talking-points-from-the-premier-league"
-        }
-      ]
-    },
-    {
-      "title": "리버풀 대 아스널",
-      "approx_traffic": "10000+",
-      "published": "Sun, 1 Nov 2026 07:30:00 -0800",
-      "news": [
-        {
-          "title": "'맨시티 제치고 선두 탈환' 디펜딩 챔피언 위엄 증명했다! 아스날, 하베르츠 결승골→리버풀 1-0 격파...14년 만에 안필드 원정 승리",
-          "source": "MHN스포츠",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1660457"
-        },
-        {
-          "title": "잉글랜드 프리미어 리그 경기 결과 예측: 리버풀, 안필드에서 아스널을 무력화시킬 것",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/du-doan-ti-so-ngoai-hang-anh-liverpool-khien-arsenal-bat-luc-tai-anfield"
-        },
-        {
-          "title": "아스널과 빅 매치… 천군만마 복귀에 반색하는 이라올라 리버풀 감독, “소보슬라이·무뇨스 출전 가능성 있다”",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313622"
         }
       ]
     }
