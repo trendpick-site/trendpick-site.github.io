@@ -1,11 +1,149 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-01T08:51:40+00:00",
+  "fetched_at": "2026-11-01T09:47:43+00:00",
   "items": [
     {
-      "title": "한국시리즈 예매",
+      "title": "ตรวจหวย",
+      "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "ตรวจหวย 1/11/69 ผลสลากกินแบ่งรัฐบาล ตรวจลอตเตอรี่ 1 พ.ย. 69",
+          "source": "Sanook",
+          "url": "https://www.sanook.com/news/9910754/"
+        },
+        {
+          "title": "ตรวจหวย 1 พ.ย. 2569 ผลสลากกินแบ่งรัฐบาล ตรวจลอตเตอรี่ 1/11/69",
+          "source": "Thairath.co.th",
+          "url": "https://www.thairath.co.th/lottery/latest-result/2969616"
+        },
+        {
+          "title": "เปิดสถิติหวย งวด 1 พฤศจิกายน ย้อนหลัง 20 ปี พบเลขไม่ซ้ำ มีเบิ้ลบ้าง",
+          "source": "Matichon Online",
+          "url": "https://www.matichon.co.th/economy/news_5956300"
+        }
+      ]
+    },
+    {
+      "title": "persib bandung vs adhyaksa",
       "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 01:40:00 -0700",
+      "news": [
+        {
+          "title": "Link Live Streaming Persib vs Isenmulang Hari Ini: Demi Kejar Persija di Puncak, Maung Tumpuk 4 Pemain Depan, Tayang di Vidio",
+          "source": "AFU.id",
+          "url": "https://afu.id/olahraga/link-live-streaming-persib-vs-isenmulang-hari-ini-demi-kejar-persija-di-puncak-maung-tumpuk-4-pemain-depan-tayang-di-vidio"
+        },
+        {
+          "title": "Persib Tunda Kembalinya Teja dan Gabriel saat Jamu Isen Mulang",
+          "source": "Demokratis.co.id",
+          "url": "https://demokratis.co.id/persib-teja-gabriel-isen-mulang"
+        },
+        {
+          "title": "Dansat Brimob Jabar Pimpin TWG dan TFG, Matangkan Pengamanan Persib VS Isenmulang Kalteng FC",
+          "source": "86News",
+          "url": "https://86news.co/2026/11/01/dansat-brimob-jabar-pimpin-twg-dan-tfg-matangkan-pengamanan-persib-vs-isenmulang-kalteng-fc/"
+        }
+      ]
+    },
+    {
+      "title": "유학생",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 01:30:00 -0700",
+      "news": [
+        {
+          "title": "“K팝 듣다 한국 유학 꿈꿔요”…하노이 달군 한국유학박람회",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261101010000154"
+        },
+        {
+          "title": "\"고1부터 베트남 입시 포기하고 한국 대학 준비...고대 '과잠' 입는 게 평생 소원\"[르포]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611010432539627"
+        },
+        {
+          "title": "대구광역시, 베트남 유학박람회서 유학생 유치 설명회 단독 개최",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738767"
+        }
+      ]
+    },
+    {
+      "title": "수원fc 대 안산 그리너스 fc 순위",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 01:20:00 -0700",
+      "news": []
+    },
+    {
+      "title": "australia vs afghanistan",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 01:20:00 -0700",
+      "news": [
+        {
+          "title": "Australia vs Afghanistan T10 Today at Mission Road Ground, Mong Kok, Hong Kong stadium",
+          "source": "AIMA Media",
+          "url": "https://aimamedia.org/newsdetails.aspx?nid=837407"
+        },
+        {
+          "title": "Australia vs Afghanistan Final Stats - Mong Kok | Most Runs, Wickets & Boundaries, 01 November 2026 | The SportsTak",
+          "source": "SportsTak",
+          "url": "https://thesportstak.com/cricket/match/aus-vs-afg-final-hong-kong-sixes-01-november-2026-275395/stats"
+        },
+        {
+          "title": "Afghanistan stun Australia to clinch maiden Hong Kong Sixes title",
+          "source": "Pajhwok Afghan News",
+          "url": "https://pajhwok.com/2026/11/01/afghanistan-stun-australia-to-clinch-maiden-hong-kong-sixes-title/"
+        }
+      ]
+    },
+    {
+      "title": "정석원",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 01:00:00 -0700",
+      "news": [
+        {
+          "title": "백지영, '마약 논란' 정석원 품은 이유…\"평소 어떤 사람인지 알아\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261031_0003849402"
+        },
+        {
+          "title": "백지영, '필로폰 투약' 남편 품은 이유…\"원래 그런 사람 아냐\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103120461153098"
+        },
+        {
+          "title": "'결혼 14년차' 백지영♥정석원, '각방' 고백..\"노이로제 걸린듯 뛰쳐나가\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/MNQWEMLCMIZGMOJWGM3DOMZZMY/"
+        }
+      ]
+    },
+    {
+      "title": "강유미",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 00:50:00 -0700",
+      "news": [
+        {
+          "title": "\"부잣집 딸, 마실 나온 척\"…'이수지 패딩 꼴 날라' 강유미 현백코어 풍자에 업계 긴장",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026103017334238366"
+        },
+        {
+          "title": "\"몽클레르처럼 될라\"…강유미 풍자 영상에 백화점 '초긴장'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610305125g"
+        },
+        {
+          "title": "[기획] “현백코어에 인형키링”…키덜트와 ‘부잣집 딸’룩의 웃픈 공존",
+          "source": "서울경제TV",
+          "url": "https://www.sentv.co.kr/article/view/sentv202610290151"
+        }
+      ]
+    },
+    {
+      "title": "한국시리즈 예매",
+      "approx_traffic": "500+",
       "published": "Sun, 1 Nov 2026 00:30:00 -0700",
       "news": [
         {
@@ -14,36 +152,14 @@
           "url": "https://www.news1.kr/sports/baseball/6339076"
         },
         {
+          "title": "한국시리즈 1차전 선발 누굴까? 2일 미디어데이서 전격 공개…장성우-소형준 vs 구자욱-원태인 참가한다",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/baseball/2026/11/01/GY4DGMBZHAZWKNLBGA2WCNZWGQ/"
+        },
+        {
           "title": "'아노락 자켓 첫선' KBO, 2026 한국시리즈 기념 한정판 상품 출시…30일부터 판매 시작",
           "source": "OSEN",
           "url": "https://www.osen.co.kr/article/G1112901145"
-        },
-        {
-          "title": "[프로야구] KBO, 2026 한국시리즈 기념 공식 기념상품 출시",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261030001285"
-        }
-      ]
-    },
-    {
-      "title": "이승민",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 00:30:00 -0700",
-      "news": [
-        {
-          "title": "역투하는 이승민",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261101_0021513675"
-        },
-        {
-          "title": "[포토] '만루위기 막아냈다!' 환호하는 강민호 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103020550188750"
-        },
-        {
-          "title": "‘PO 전 경기 출장’ 23홀드 좌완의 유쾌한 감사 인사, “하늘에 고맙다고 커피를 살 수도 없고…” [PO]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112901077"
         }
       ]
     },
@@ -58,14 +174,14 @@
           "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/vaibhav-sooryavanshi-snubbed-again-as-india-make-2-changes-in-playing-xi-for-5th-t20i-12266375"
         },
         {
-          "title": "New Zealand field in final T20I; Bhuvneshwar and Varun in for India",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/story/nz-vs-ind-5th-t20i-new-zealand-field-bhuvneshwar-kumar-and-varun-chakravarthy-in-for-india-1560931"
+          "title": "Ready for Action one last time in NZ v IND T20Is",
+          "source": "BCCI",
+          "url": "https://www.bcci.tv/videos/s-ready-for-action-one-last-time-in-nz-v-ind-t20is-tbcul"
         },
         {
-          "title": "New Zealand finally wins a toss and decides to bowl in the 5th T20 against India",
-          "source": "Eagle-Tribune",
-          "url": "https://www.eagletribune.com/new-zealand-finally-wins-a-toss-and-decides-to-bowl-in-the-5th-t20-against/article_a65b116b-d383-5d37-9df0-404352f539f5.html"
+          "title": "5th 20 | Bhuvneshwar, Varun return as New Zealand put India to bat",
+          "source": "Deccan Herald",
+          "url": "https://www.deccanherald.com/sports/cricket/5th-20-bhuvneshwar-varun-return-as-new-zealand-put-india-to-bat-4203180"
         }
       ]
     },
@@ -88,122 +204,6 @@
           "title": "역전승 거둔 김현석 울산 감독 “앞으로 선제골 넣으며 이기는 경기 하자”…정경호 강원 감독 “작은 미스로 결과가 바뀌었다”",
           "source": "스포츠월드",
           "url": "https://www.sportsworldi.com/newsView/20261101509416"
-        }
-      ]
-    },
-    {
-      "title": "오타니 쇼헤이",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 00:10:00 -0700",
-      "news": [
-        {
-          "title": "이게 1조짜리 선수의 인성… 부친상 동료에 오타니가 건넨 한 마디, \"평생 못 잊을 것\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/31/GEZTEZDEGRRTKNZZMVSGCZDCHA/"
-        },
-        {
-          "title": "오타니가 '부친상' 동료를 챙기는 방법…이러니 감동 받을 수밖에 \"세계 최고의 선수, 얼마나 마음 따뜻한지\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016781"
-        },
-        {
-          "title": "\"아버지 돌아가셨는데, 오타니에게 전화가 왔다\" 이게 1조짜리 선수 인성",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-10-31/202611010100001410014251"
-        }
-      ]
-    },
-    {
-      "title": "윤종훈",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 00:00:00 -0700",
-      "news": [
-        {
-          "title": "배우 윤종훈, 11세 연하 한은서와 백년가약",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261101/134943465/1"
-        },
-        {
-          "title": "윤종훈, 11세 연하 ♥한은서와 오늘 결혼…“평생 함께할 사람”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20108650"
-        },
-        {
-          "title": "윤종훈♥한은서, 10살 차이 극복하고 오늘(1일) 결혼..\"책임감 있게 살 것\" [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/GY3DCNBSGVQTOMBWMVSGINTGGI/"
-        }
-      ]
-    },
-    {
-      "title": "탑",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 23:50:00 -0700",
-      "news": [
-        {
-          "title": "탑, 20년 운영 팬페이지 폐쇄에 사과..\"소중한 세월이 오해로 남지않길\" [공식]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MEZTAMDEMMYDONZVMUYTMM3CGY/"
-        },
-        {
-          "title": "‘빅뱅 출신’ 탑, 20년 팬 탈덕에 읍소 “큰 버팀목, 진심 잊지 못해” [전문]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261101/134943781/1"
-        },
-        {
-          "title": "마약→은퇴 번복 다 참아줬는데..'빅뱅 출신' 탑, 20년 팬 손절에 뒤늦은 사과 [스타이슈]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/music/2026/11/01/2026110111471211218"
-        }
-      ]
-    },
-    {
-      "title": "카스트로",
-      "approx_traffic": "100+",
-      "published": "Sat, 31 Oct 2026 23:50:00 -0700",
-      "news": [
-        {
-          "title": "KIA 카스트로 \"좋은 공 기다릴 것\"…PO 최종전 앞두고 전략 수정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261101024800007"
-        },
-        {
-          "title": "끝장 경기에서 만세 수비 대참사→허무한 주루 포기…카스트로가 KIA 업셋 희망을 꺾었다 [PO5]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112902317"
-        },
-        {
-          "title": "\"좌절하지 마, 에너지 유지하자\" 박재현 어떻게 달랬나...할 일 많은 카스트로, \"오늘 모두가 잘할 수 있다\" [PO5]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261031212022193"
-        }
-      ]
-    },
-    {
-      "title": "fc 서울 대 인천",
-      "approx_traffic": "5000+",
-      "published": "Sat, 31 Oct 2026 23:40:00 -0700",
-      "news": []
-    },
-    {
-      "title": "로이킴",
-      "approx_traffic": "1000+",
-      "published": "Sat, 31 Oct 2026 23:40:00 -0700",
-      "news": [
-        {
-          "title": "로이킴 추락사고, 무대서 갑자기 쿵 “14년 만에 떨어져 봤다”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261101/134943410/1"
-        },
-        {
-          "title": "로이킴, 14년 만에 공연 중 부상 뒤늦게 공개 “뼈 안 부러진 게 천만다행”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610301713003"
-        },
-        {
-          "title": "로이킴, 콘서트 한 달 앞두고 ‘무대서 추락’…“14년 만 떨어져봤다”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12191449"
         }
       ]
     }
