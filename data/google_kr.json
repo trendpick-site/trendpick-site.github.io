@@ -1,12 +1,56 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-02T11:04:55+00:00",
+  "fetched_at": "2026-11-02T11:57:14+00:00",
   "items": [
     {
-      "title": "최불암 아들",
-      "approx_traffic": "500+",
-      "published": "Mon, 2 Nov 2026 02:00:00 -0800",
+      "title": "rashid khan",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 02:40:00 -0800",
+      "news": [
+        {
+          "title": "Kathmandu Gorkhas chase down 181-run target with two balls to spare",
+          "source": "Nepalnews.com",
+          "url": "https://english.nepalnews.com/s/sports/kathmandu-gorkhas-chase-down-181-run-target-with-two-balls-to-spare/"
+        },
+        {
+          "title": "Kathmandu’s Rashid Khan Scores Half-Century Against Karnali Yaks in NPL",
+          "source": "Ratopati",
+          "url": "https://english.ratopati.com/story/85447/rashid-khan-is-out-after-scoring-a-half-century"
+        },
+        {
+          "title": "Karnali Yaks Lose Fourth Wicket Against Gurkhas",
+          "source": "Ratopati",
+          "url": "https://english.ratopati.com/story/85420/karnali-lost-their-fourth-wicket-in-93-overs-scoring-80-runs-with-4-players-out"
+        }
+      ]
+    },
+    {
+      "title": "연구",
+      "approx_traffic": "100+",
+      "published": "Mon, 2 Nov 2026 02:30:00 -0800",
+      "news": [
+        {
+          "title": "순천향대 중앙의료원, ‘2026년 향설의학연구학술대회’ 개최",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611021519001"
+        },
+        {
+          "title": "순천향대 중앙의료원, 2026년 향설의학연구학술대회 이달 22일 개최",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261102025334164"
+        },
+        {
+          "title": "순천향대중앙의료원, 이달 22일 ‘향설의학연구학술대회’ 개최",
+          "source": "라포르시안",
+          "url": "https://www.rapportian.com/news/articleView.html?idxno=241899"
+        }
+      ]
+    },
+    {
+      "title": "김경란",
+      "approx_traffic": "100+",
+      "published": "Mon, 2 Nov 2026 02:30:00 -0800",
       "news": [
         {
           "title": "'국민 아버지' 故최불암 마지막 배웅…김혜수 바닥에 주저앉아 오열 - 머니투데이",
@@ -14,14 +58,58 @@
           "url": "https://www.mt.co.kr/society/2026/11/02/2026110210163595179"
         },
         {
-          "title": "‘국민아버지’ 배우 최불암 떠나보내며",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20261103.22006000648"
+          "title": "[이슈5] ’영원한 국민 아버지’ 故 최불암…눈물 속 발인 外",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611021948292fB"
         },
         {
           "title": "최불암의 '아들'들이 추억하는 '아버지' 최불암 [현장영상+]",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611021506108944_005.html"
+        }
+      ]
+    },
+    {
+      "title": "민호",
+      "approx_traffic": "1000+",
+      "published": "Mon, 2 Nov 2026 02:10:00 -0800",
+      "news": [
+        {
+          "title": "[DM왔어요] 샤이니 민호 마라톤 완주에 ‘반칙 논란’…\"뒤에서 누가 밀어줬다?\" 外",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH2026110218475879P"
+        },
+        {
+          "title": "샤이니 민호, 마라톤 ‘실격 논란’···대회 규정엔 ‘미는 조력’ 금지",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611021323003"
+        },
+        {
+          "title": "민호, '마라톤 42㎞' 3시간18초에 완주했는데…설왕설래 왜?",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261102_0003851023"
+        }
+      ]
+    },
+    {
+      "title": "은마아파트",
+      "approx_traffic": "2000+",
+      "published": "Mon, 2 Nov 2026 02:10:00 -0800",
+      "news": [
+        {
+          "title": "강남 은마 795㎡ 소유권 정태수 상속인에…\"재건축엔 지장 없어\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030179300004"
+        },
+        {
+          "title": "바람 잘 날 없는 은마 재건축…단지 내 시유지 240평, 한보그룹 상속인들에게 넘겨야",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/01/2026110100923.html"
+        },
+        {
+          "title": "은마아파트 내 서울시 땅 795㎡…“정태수 상속인에 넘겨라”, 왜",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25474581"
         }
       ]
     },
@@ -33,9 +121,14 @@
     },
     {
       "title": "한학자",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Mon, 2 Nov 2026 01:40:00 -0800",
       "news": [
+        {
+          "title": "[단독] 차량 3대, 포착된 수행인원만 7명…첩보작전급 ‘궁전 행차’",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12326071"
+        },
         {
           "title": "통일교 한학자, 보석 상태서 병원 이탈‥법원, 위반 여부 확인",
           "source": "MBC 뉴스",
@@ -45,17 +138,12 @@
           "title": "'천정궁에 외출' 한학자 보석취소심문…재판부 \"당황스러워\"(종합)",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261102136051004"
-        },
-        {
-          "title": "한학자 재판부 \"서류 전달 안돼. 보석조건 준수?\" 변호인 \"그렇다\"...보석 이튿날부터 '병원→천정궁'",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12326026"
         }
       ]
     },
     {
       "title": "하이브",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 2 Nov 2026 01:40:00 -0800",
       "news": [
         {
@@ -64,26 +152,26 @@
           "url": "https://imnews.imbc.com/news/2026/econo/article/6862537_36932.html"
         },
         {
-          "title": "하이브, 전·현직 임직원 계좌·주민번호 등 개인정보 유출…\"내부 시스템 해킹\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102170008OLB"
-        },
-        {
           "title": "하이브, 사내망 해킹 피해…임직원 개인정보 유출",
           "source": "디스패치",
           "url": "https://www.dispatch.co.kr/2350121"
+        },
+        {
+          "title": "하이브, 직원 주민번호·여권번호에 의료정보까지 유출…“깊이 사과”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8701497"
         }
       ]
     },
     {
       "title": "이미숙",
-      "approx_traffic": "200+",
+      "approx_traffic": "1000+",
       "published": "Mon, 2 Nov 2026 01:20:00 -0800",
       "news": [
         {
-          "title": "\"집 다 날아갔다\"…이미숙, 주식 손실 얼마길래",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611020422H"
+          "title": "생전 안 하던 주식 뛰어든 이미숙…급락장에 \"집 날아갔다\"",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04070486645641784&mediaCodeNo=257"
         },
         {
           "title": "“왜 늘그막에 주식을 해서”…이미숙, ‘집 날아간’ 투자 손실 고백",
@@ -91,9 +179,9 @@
           "url": "https://www.mk.co.kr/news/culture/12193667"
         },
         {
-          "title": "생전 안 하던 주식 뛰어든 이미숙…급락장에 \"집 날아갔다\"",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04070486645641784&mediaCodeNo=257"
+          "title": "이미숙, 주식 투자에 쓴맛 \"사주려던 집 날아갔다…왜 늘그막에 해서\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6339748"
         }
       ]
     },
@@ -116,94 +204,6 @@
           "title": "“오염된 국유지 정화책임은 환경청에”…하남시 1심 승소",
           "source": "문화일보",
           "url": "https://www.munhwa.com/article/11628124"
-        }
-      ]
-    },
-    {
-      "title": "xrp",
-      "approx_traffic": "1000+",
-      "published": "Mon, 2 Nov 2026 01:10:00 -0800",
-      "news": [
-        {
-          "title": "XRP ETF draws inflows despite sharp drop, led by Franklin and Bitwise",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/en/view/122562/xrp-etf-inflows-franklin-bitwise-lead-despite-price-drop"
-        },
-        {
-          "title": "Can XRP ETFs Maintain Their Winning Streak Despite Crypto Market Pressure?",
-          "source": "Kalkine Media",
-          "url": "https://kalkinemedia.com/news/cryptocurrency/can-xrp-etfs-maintain-their-winning-streak-despite-crypto-market-pressure"
-        },
-        {
-          "title": "Ripple (XRP) ETFs Beat Every Major Rival in October: But Two Problems Remain",
-          "source": "CryptoPotato",
-          "url": "https://cryptopotato.com/ripple-xrp-etfs-beat-every-major-rival-in-october-but-two-problems-remain/"
-        }
-      ]
-    },
-    {
-      "title": "김장훈",
-      "approx_traffic": "1000+",
-      "published": "Mon, 2 Nov 2026 00:30:00 -0800",
-      "news": [
-        {
-          "title": "'64세' 김장훈, 국민연금 예상액 듣고 깜짝 \"그렇게 많이 줘요?\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261102_0003850381"
-        },
-        {
-          "title": "미운 우리 새끼 : [11월 8일 예고] 김장훈×이소라, 이제서야 풀어보는 그 시절 이야기★ (ft. 열애설)",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC482710047?div=live_end"
-        },
-        {
-          "title": "64세 김장훈, 57세 이소라와 열애설 났었다 “심지어 손 잡고 가”(‘미우새’)",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261101173638143"
-        }
-      ]
-    },
-    {
-      "title": "신영우",
-      "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 00:30:00 -0800",
-      "news": [
-        {
-          "title": "김태균·오승환, APBC 대표팀 인스트럭터 합류…3∼4일 지도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102095500007"
-        },
-        {
-          "title": "'리틀 이대호' 여기서는 어엿한 맏형이다…국가대표 주장 낙점, 롯데에서도 캡틴 되나? \"예행연습일까요\" [오!쎈 대전]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/02/MNTGMMJRGQYGCNLCMYZTKOLGHA/"
-        },
-        {
-          "title": "홈 구장에서 훈련하는 문현빈",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8192273"
-        }
-      ]
-    },
-    {
-      "title": "현대 제네시스",
-      "approx_traffic": "1000+",
-      "published": "Mon, 2 Nov 2026 00:10:00 -0800",
-      "news": [
-        {
-          "title": "현대차 생산라인 또 멈췄다…G80 신차 투입 인력 놓고 노사 충돌 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/11/02/2026110214030671642"
-        },
-        {
-          "title": "신차 투입 갈등에 제네시스 생산 차질…노조, 재개 여부 논의(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102116051057"
-        },
-        {
-          "title": "1.1조 물량 손실에 판매목표까지 낮췄는데⋯ 투싼 발목 잡은 현대차 노조, G80도 멈췄다",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261102501016"
         }
       ]
     }
