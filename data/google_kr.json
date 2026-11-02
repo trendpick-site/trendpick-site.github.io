@@ -1,27 +1,93 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-02T02:08:23+00:00",
+  "fetched_at": "2026-11-02T02:54:48+00:00",
   "items": [
     {
+      "title": "계주",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 17:40:00 -0800",
+      "news": [
+        {
+          "title": "\"계주 위험하다\" 학부모 민원에 운동회 경기 취소…아이들 울상",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6338961"
+        },
+        {
+          "title": "“위험하잖아요!” 초등학교 운동회의 꽃, 계주 경기 취소",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627973"
+        },
+        {
+          "title": "\"이어달리기? 우리 애 위험해서 안 돼\" 민원에 결국 취소 [이슈톡톡]",
+          "source": "이데일리TV",
+          "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=01403846645641456&Kind=257"
+        }
+      ]
+    },
+    {
+      "title": "lg화학",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 17:20:00 -0800",
+      "news": [
+        {
+          "title": "LG화학, 엔솔 지분 유동화에도 순차입금 26조...신용도 개선 제한적",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fvafoGLxon"
+        },
+        {
+          "title": "LG화학·LG엔솔, 지분 유동화로 재무·투자 기반 동반 강화 기대감",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848834"
+        },
+        {
+          "title": "‘아직 남았다’…LG엔솔 주주 짓누르는 오버행 부담 [재계톡톡]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12191616"
+        }
+      ]
+    },
+    {
+      "title": "정의선",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 17:10:00 -0800",
+      "news": [
+        {
+          "title": "174만대 테슬라 잡는다…현대차·GM, '2028년 자율주행 대전'",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173081"
+        },
+        {
+          "title": "자율운영공장의 미래를 그리다, 이포레스트 테크데이 2026 | 저널 | 현대자동차그룹",
+          "source": "Hyundai Motor Group",
+          "url": "https://www.hyundaimotorgroup.com/ko/story/eforest-tech-day-2026"
+        },
+        {
+          "title": "실리콘밸리 인재 직접 찾아나선 현대차그룹 \"피지컬 AI 기업으로\"",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01790886645618168"
+        }
+      ]
+    },
+    {
       "title": "골든 스테이트 대 la 클리퍼스",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sun, 1 Nov 2026 17:00:00 -0800",
       "news": [
         {
-          "title": "Steph Curry, Draymond Green ruled out for front end of Warriors' back-to-back",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/steph-curry-draymond-green-ruled-144308312.html"
-        },
-        {
-          "title": "Clippers Injury Report vs. Warriors: Are Brandon Ingram & Steph Curry Playing?",
+          "title": "Warriors Announce 6th Different Starting Lineup of Regular Season vs. Clippers",
           "source": "Sports Illustrated",
-          "url": "https://www.si.com/nba/clippers/onsi/clippers-injury-report-warriors-brandon-ingram-steph-curry-playing-01m6cjjhwna5"
+          "url": "https://www.si.com/nba/warriors/onsi/warriors-announce-6th-different-starting-lineup-of-regular-season-vs-clippers-01m6cwqqdncm"
         },
         {
-          "title": "With Steph Curry out, Yaxel Lendeborg could be key for Warriors",
-          "source": "KNBR",
-          "url": "https://www.thesportsleader.com/2026/10/31/with-steph-curry-out-yaxel-lendeborg-could-be-key-for-warriors/"
+          "title": "Golden State Warriors' Charles Bassey reflects on 'long, adverse' NBA journey thanks to injuries",
+          "source": "ESPN",
+          "url": "https://www.espn.com/espn/story/_/id/50315423/golden-state-warriors-charles-bassey-reflects-long-adverse-nba-journey-thanks-injuries"
+        },
+        {
+          "title": "Warriors' De'Anthony Melton: Starting Sunday",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/warriors-deanthony-melton-starting-sunday-537138/"
         }
       ]
     },
@@ -36,6 +102,11 @@
           "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420584"
         },
         {
+          "title": "영광군, 착한가격업소 이용하면 영광사랑카드 5% 캐시백",
+          "source": "프레시안",
+          "url": "https://www.pressian.com/pages/articles/2026110210593580738"
+        },
+        {
           "title": "한춘옥 특별시의원, “공공요금 심의 및 물가안정 기반 마련” > 뉴스",
           "source": "더코리아",
           "url": "https://www.thekorea.kr/567691"
@@ -44,7 +115,7 @@
     },
     {
       "title": "한남더힐 아파트",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sun, 1 Nov 2026 16:40:00 -0800",
       "news": [
         {
@@ -53,14 +124,14 @@
           "url": "https://www.newsis.com/view/NISX20261101_0003849898"
         },
         {
+          "title": "'190억 한남더힐' 경매 넘어가자…옥주현 측 \"투자사가 상환 예정\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610294537H"
+        },
+        {
           "title": "옥주현, '190억'에 산 한남동 고급주택 '경매' 넘어간 이유..\"M&A 절차\" [공식]",
           "source": "조선일보",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/GMYGEZJQHFTDMYJSGNSWMZBUMI/"
-        },
-        {
-          "title": "'190억' 신고가에 산 지 6개월 만에…옥주현 아파트 무슨 일",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610293897H"
         }
       ]
     },
@@ -114,11 +185,6 @@
       "published": "Sun, 1 Nov 2026 16:30:00 -0800",
       "news": [
         {
-          "title": "A taste of late-season warmth for the first week of November",
-          "source": "WTNH.com",
-          "url": "https://www.wtnh.com/weather/a-sunny-and-seasonable-first-sunday-of-november/"
-        },
-        {
           "title": "First week of November weather forecast",
           "source": "KATU",
           "url": "https://katu.com/news/local/first-week-of-november-weather-forecast"
@@ -127,94 +193,33 @@
           "title": "Widespread, heavy rain to kick off November",
           "source": "KEYC News Now",
           "url": "https://www.keyc.com/2026/10/31/widespread-heavy-rain-kick-off-november/"
+        },
+        {
+          "title": "A sunny and seasonable first Sunday of November",
+          "source": "WTNH.com",
+          "url": "https://www.wtnh.com/weather/a-sunny-and-seasonable-first-sunday-of-november/"
         }
       ]
     },
     {
-      "title": "한국투자증권",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 15:50:00 -0800",
+      "title": "한국장학재단",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 16:30:00 -0800",
       "news": [
         {
-          "title": "한투증권, MTS 업데이트…\"연금자산 통합조회·관심종목 개편\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102063400008"
+          "title": "한국장학재단, 자발적 중복지원 해소가 어려운 중복지원 환수대상자 조치율 100% 달성",
+          "source": "전북도민일보",
+          "url": "https://www.domin.co.kr/news/articleView.html?idxno=1573888&sc_section_code=S1N10"
         },
         {
-          "title": "한국투자증권, MTS 개편…편의성 대폭 확대",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102103557dz4"
+          "title": "‘취업 후 학자금대출’ 의무상환액 납부, 11월부터 휴일도 가능",
+          "source": "한국대학신문",
+          "url": "https://news.unn.net/news/articleView.html?idxno=599675"
         },
         {
-          "title": "[여의도단신]한국투자증권·신한투자증권·우리투자증권",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026110210251634115"
-        }
-      ]
-    },
-    {
-      "title": "교도소",
-      "approx_traffic": "2000+",
-      "published": "Sun, 1 Nov 2026 15:40:00 -0800",
-      "news": [
-        {
-          "title": "[속보] “세금으로 먹고 자는데?”…교도소·구치소 수용자에 민생지원금 ‘73억’ 지급",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261102580032"
-        },
-        {
-          "title": "수감 중에도 민생지원금 받았다…지원 규모 73억원 이상 추산",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6339546"
-        },
-        {
-          "title": "[단독]교도소 7만명 민생지원금 수령…“숙식 제공받는데 맞나” 지적",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261102/134946979/2"
-        }
-      ]
-    },
-    {
-      "title": "뉴잉글랜드 대 인터 마이애미",
-      "approx_traffic": "2000+",
-      "published": "Sun, 1 Nov 2026 15:30:00 -0800",
-      "news": [
-        {
-          "title": "Inter Miami name XI for New England trip, final away game of regular season",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/inter-miami-name-xi-for-new-england-trip-final-away-game-of-regular-season-43710859"
-        },
-        {
-          "title": "Starting Lineups (November 1) | Revolution vs. Inter Miami CF",
-          "source": "revolutionsoccer.net",
-          "url": "https://www.revolutionsoccer.net/news/starting-lineups-november-1-revs-vs-inter-miami-cf"
-        },
-        {
-          "title": "%*[[[SPORT TV>]* Miami vs. New England LIVE Free Broadcast ON Tv Channel 01 November ２０２6",
-          "source": "Pierce Manufacturing",
-          "url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-miami-vs-new-england-match-lie-nwdtumy"
-        }
-      ]
-    },
-    {
-      "title": "원태인",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 15:30:00 -0800",
-      "news": [
-        {
-          "title": "원태인, 이제 한국시리즈다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261101_0021513735"
-        },
-        {
-          "title": "\"혼자만 안 웃더라\" 삼성, KS 1차전 선발 최원태 내정→원태인 선발 복귀 여부 '변수' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/02/2026110202000026266"
-        },
-        {
-          "title": "[사진]기쁨 나누는 원태인과 구자욱",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112902324"
+          "title": "학자금대출 원천공제액, 11월부터 휴일에도 납부 가능",
+          "source": "경북신문",
+          "url": "https://www.kbsm.net/news/view.php?idx=539867"
         }
       ]
     }
