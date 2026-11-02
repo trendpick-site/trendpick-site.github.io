@@ -1,227 +1,211 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-02T02:54:48+00:00",
+  "fetched_at": "2026-11-02T03:57:57+00:00",
   "items": [
     {
-      "title": "계주",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 17:40:00 -0800",
-      "news": [
-        {
-          "title": "\"계주 위험하다\" 학부모 민원에 운동회 경기 취소…아이들 울상",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6338961"
-        },
-        {
-          "title": "“위험하잖아요!” 초등학교 운동회의 꽃, 계주 경기 취소",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627973"
-        },
-        {
-          "title": "\"이어달리기? 우리 애 위험해서 안 돼\" 민원에 결국 취소 [이슈톡톡]",
-          "source": "이데일리TV",
-          "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=01403846645641456&Kind=257"
-        }
-      ]
-    },
-    {
-      "title": "lg화학",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 17:20:00 -0800",
-      "news": [
-        {
-          "title": "LG화학, 엔솔 지분 유동화에도 순차입금 26조...신용도 개선 제한적",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/fvafoGLxon"
-        },
-        {
-          "title": "LG화학·LG엔솔, 지분 유동화로 재무·투자 기반 동반 강화 기대감",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003848834"
-        },
-        {
-          "title": "‘아직 남았다’…LG엔솔 주주 짓누르는 오버행 부담 [재계톡톡]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12191616"
-        }
-      ]
-    },
-    {
-      "title": "정의선",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 17:10:00 -0800",
-      "news": [
-        {
-          "title": "174만대 테슬라 잡는다…현대차·GM, '2028년 자율주행 대전'",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173081"
-        },
-        {
-          "title": "자율운영공장의 미래를 그리다, 이포레스트 테크데이 2026 | 저널 | 현대자동차그룹",
-          "source": "Hyundai Motor Group",
-          "url": "https://www.hyundaimotorgroup.com/ko/story/eforest-tech-day-2026"
-        },
-        {
-          "title": "실리콘밸리 인재 직접 찾아나선 현대차그룹 \"피지컬 AI 기업으로\"",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01790886645618168"
-        }
-      ]
-    },
-    {
-      "title": "골든 스테이트 대 la 클리퍼스",
+      "title": "라이언 와이스",
       "approx_traffic": "2000+",
-      "published": "Sun, 1 Nov 2026 17:00:00 -0800",
+      "published": "Sun, 1 Nov 2026 18:40:00 -0800",
       "news": [
         {
-          "title": "Warriors Announce 6th Different Starting Lineup of Regular Season vs. Clippers",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/nba/warriors/onsi/warriors-announce-6th-different-starting-lineup-of-regular-season-vs-clippers-01m6cwqqdncm"
-        },
-        {
-          "title": "Golden State Warriors' Charles Bassey reflects on 'long, adverse' NBA journey thanks to injuries",
-          "source": "ESPN",
-          "url": "https://www.espn.com/espn/story/_/id/50315423/golden-state-warriors-charles-bassey-reflects-long-adverse-nba-journey-thanks-injuries"
-        },
-        {
-          "title": "Warriors' De'Anthony Melton: Starting Sunday",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/warriors-deanthony-melton-starting-sunday-537138/"
-        }
-      ]
-    },
-    {
-      "title": "영광",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 16:50:00 -0800",
-      "news": [
-        {
-          "title": "영광군, 착한가격업소 이용 시 영광사랑카드 혜택 확대",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420584"
-        },
-        {
-          "title": "영광군, 착한가격업소 이용하면 영광사랑카드 5% 캐시백",
-          "source": "프레시안",
-          "url": "https://www.pressian.com/pages/articles/2026110210593580738"
-        },
-        {
-          "title": "한춘옥 특별시의원, “공공요금 심의 및 물가안정 기반 마련” > 뉴스",
-          "source": "더코리아",
-          "url": "https://www.thekorea.kr/567691"
-        }
-      ]
-    },
-    {
-      "title": "한남더힐 아파트",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 16:40:00 -0800",
-      "news": [
-        {
-          "title": "옥주현의 190억 한남더힐, 왜 경매에 넘어갔을까",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849898"
-        },
-        {
-          "title": "'190억 한남더힐' 경매 넘어가자…옥주현 측 \"투자사가 상환 예정\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610294537H"
-        },
-        {
-          "title": "옥주현, '190억'에 산 한남동 고급주택 '경매' 넘어간 이유..\"M&A 절차\" [공식]",
+          "title": "'한화 어쩌나' 美도 와이스 관심 보인다…\"빠듯한 자금력 구단, 지체없이 움직여야 한다\"",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/GMYGEZJQHFTDMYJSGNSWMZBUMI/"
-        }
-      ]
-    },
-    {
-      "title": "t 멤버십",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 16:40:00 -0800",
-      "news": [
-        {
-          "title": "늦가을의 특별한 즐거움, 11월 T 멤버십 혜택 총정리",
-          "source": "SK텔레콤 뉴스룸",
-          "url": "https://news.sktelecom.com/232556"
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/31/GM2WEZJXMVTGEN3CME2TEY3DGU/"
         },
         {
-          "title": "파파존스, KT 멤버십 고객에 방문 포장 50% 할인 혜택",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261102000129"
+          "title": "한화 복귀 원했던 팬들 '날벼락'… 라이언 와이스 '재취업' 길 열렸다",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739421"
         },
         {
-          "title": "수능 끝나면 KT가 커피 쏜다…11월 멤버십 혜택 공개",
+          "title": "'한화 출신' 와이스, MLB 휴스턴 떠나 FA 신분…KBO리그 복귀하나",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849621"
+          "url": "https://www.newsis.com/view/NISX20261030_0003848374"
         }
       ]
     },
     {
-      "title": "삼성증권",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 16:40:00 -0800",
+      "title": "인공위성",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 18:40:00 -0800",
       "news": [
         {
-          "title": "삼성증권, 올해 IPO 주관 1위 노리나…3분기 누적 '선두' 올라",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442401"
+          "title": "장갑차 이동부터 원유 재고까지 분석하는 ‘우주의 눈’… 돈 되는 ‘위성 인텔리전스’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/science/2026/11/02/EQ3XBKG27BBOPBMEJWBGTW3LO4/"
         },
         {
-          "title": "삼성 선두에 미래에셋·NH 추격…연말 IPO 주관 순위 경쟁 가열",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03086486645641456"
+          "title": "AI가 위성영상 실시간 분석… SAR 위성 한계 보완",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261029/134928094/2"
         },
         {
-          "title": "[IPO 주관사 점검] [삼성증권] 올해 주관금액 1등…기술기업 '러브콜'",
-          "source": "DealSite경제TV",
-          "url": "https://news.dealsitetv.com/articles/177807"
+          "title": "우주로 올라간 중국 레이저 총구…별들의 전쟁터서 미군 위성 흔든다",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611011658515258fbbec65dfb_1"
         }
       ]
     },
     {
-      "title": "november",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 16:30:00 -0800",
-      "news": [
-        {
-          "title": "First week of November weather forecast",
-          "source": "KATU",
-          "url": "https://katu.com/news/local/first-week-of-november-weather-forecast"
-        },
-        {
-          "title": "Widespread, heavy rain to kick off November",
-          "source": "KEYC News Now",
-          "url": "https://www.keyc.com/2026/10/31/widespread-heavy-rain-kick-off-november/"
-        },
-        {
-          "title": "A sunny and seasonable first Sunday of November",
-          "source": "WTNH.com",
-          "url": "https://www.wtnh.com/weather/a-sunny-and-seasonable-first-sunday-of-november/"
-        }
-      ]
-    },
-    {
-      "title": "한국장학재단",
+      "title": "쇼트트랙",
       "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 16:30:00 -0800",
+      "published": "Sun, 1 Nov 2026 18:40:00 -0800",
       "news": [
         {
-          "title": "한국장학재단, 자발적 중복지원 해소가 어려운 중복지원 환수대상자 조치율 100% 달성",
-          "source": "전북도민일보",
-          "url": "https://www.domin.co.kr/news/articleView.html?idxno=1573888&sc_section_code=S1N10"
+          "title": "쇼트트랙 최민정 ‘추월쇼’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/02/4RNMOMOTLVCDFJN4MOP7YVHYRE/"
         },
         {
-          "title": "‘취업 후 학자금대출’ 의무상환액 납부, 11월부터 휴일도 가능",
-          "source": "한국대학신문",
-          "url": "https://news.unn.net/news/articleView.html?idxno=599675"
+          "title": "최민정, 쇼트트랙 월드투어 2차 대회 1500ｍ 은메달",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11627985"
         },
         {
-          "title": "학자금대출 원천공제액, 11월부터 휴일에도 납부 가능",
-          "source": "경북신문",
-          "url": "https://www.kbsm.net/news/view.php?idx=539867"
+          "title": "최민정, 9명 혼전 뚫고 여자 1,500ｍ 은메달 …은퇴 시즌 투혼",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102020600007"
         }
       ]
+    },
+    {
+      "title": "티아라",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 18:30:00 -0800",
+      "news": [
+        {
+          "title": "티아라 출신 소연, 결혼 4년 만에 임신…9세 연상 조유민과 첫아이",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261101/134947107/1"
+        },
+        {
+          "title": "티아라 소연, '아들맘' 된다…조유민과 결혼 4년만 임신 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/02/2026110206060221518"
+        },
+        {
+          "title": "결혼식 불참했는데도…함은정, 소연 임신 소식에 \"언니 너무 축하해\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/02/GVRDEZTGHBSDQMJQGE2WMMJVGQ/"
+        }
+      ]
+    },
+    {
+      "title": "국가교육위원회",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 18:30:00 -0800",
+      "news": [
+        {
+          "title": "외부 전문가도 교사로?…국교위 '교직 개방' 검토에 교원단체 반발",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/education/6338956"
+        },
+        {
+          "title": "[교육타파] 국교위 '교직 개방' 논의에 현장 반발…교사노조연맹 \"교원자격은 인력난 해소 수단 아니다\"",
+          "source": "전북미래교육신문",
+          "url": "https://edujb.com/news/articleView.html?idxno=9652"
+        },
+        {
+          "title": "[단독] '속도전/N수 유리' 수능 전면개편해야.. '2028개편도 객관식 유지'",
+          "source": "베리타스알파",
+          "url": "https://www.veritas-a.com/news/articleView.html?idxno=634401"
+        }
+      ]
+    },
+    {
+      "title": "mls",
+      "approx_traffic": "2000+",
+      "published": "Sun, 1 Nov 2026 18:10:00 -0800",
+      "news": [
+        {
+          "title": "Messi's 937th goal and a bizarre moment in Inter Miami game; watch 🎥",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/en/news/messis-937th-goal-and-a-bizarre-moment-in-inter-miami-game-watch-43711099"
+        },
+        {
+          "title": "New England crowd goes wild as Messi nets go-ahead goal for 2-1 lead",
+          "source": "ESPN",
+          "url": "https://www.espn.co.uk/video/clip/_/id/50354551/new-england-crowd-goes-wild-messi-nets-go-ahead-goal-2-1-lead"
+        },
+        {
+          "title": "Lionel Messi’s brilliance lifts Inter Miami over Revolution in Foxboro",
+          "source": "Boston Herald",
+          "url": "https://www.bostonherald.com/2026/11/01/lionel-messis-brilliance-lifts-inter-miami-over-revolution-in-foxboro/"
+        }
+      ]
+    },
+    {
+      "title": "휴고 칼데라 노",
+      "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 18:10:00 -0800",
+      "news": [
+        {
+          "title": "남자탁구 에이스 장우진, 한국 탁구 사상 첫 WTT 챔피언스 우승",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6862453_36946.html"
+        },
+        {
+          "title": "\"1-3→4-3 대역전승\" '투혼의 탁구짱!' 장우진이 돌아왔다! 생애 첫 WTT챔피언스 단식 우승[WTT 챔피언스 몽펠리에]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/02/MYZGCMRSHA3WEYZXMIYGINJZMY/"
+        },
+        {
+          "title": "\"운이 좋아서 이겼습니다\" 세계 7위 칼데라노 제압한 장우진의 겸손...7게임 대혈투 끝 승리에도 상대부터 치켜세웠다",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112902450"
+        }
+      ]
+    },
+    {
+      "title": "가덕도",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 18:10:00 -0800",
+      "news": [
+        {
+          "title": "가덕 첫삽 끝내 연내로 후퇴…당정 “공사비 8500억 증액”(종합)",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261102.22003000232"
+        },
+        {
+          "title": "가덕도신공항 공사비 증액 공방…연내 착공은?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700264&ref=A"
+        },
+        {
+          "title": "대우건설 핵심 일감 가덕도, 11월 착공 불투명…국토부 연내 계약 목표",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261030114719369"
+        }
+      ]
+    },
+    {
+      "title": "리노베이션",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 18:00:00 -0800",
+      "news": [
+        {
+          "title": "Provo Community Church gathering funds for renovation, restoration",
+          "source": "KSL News",
+          "url": "https://www.ksl.com/article/51638767/provo-community-church-gathering-funds-for-renovation-restoration"
+        },
+        {
+          "title": "Wausau’s Grand Theater to reopen Nov. 7 after six-month renovation",
+          "source": "WSAW",
+          "url": "https://www.wsaw.com/2026/11/01/wausaus-grand-theater-reopen-nov-7-after-six-month-renovation/"
+        },
+        {
+          "title": "Judge says court will investigate government officials in DC golf course case",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/Politics/judge-court-investigate-government-officials-dc-golf-case/story?id=137723824"
+        }
+      ]
+    },
+    {
+      "title": "트리니티 항공",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 18:00:00 -0800",
+      "news": []
     }
   ]
 }
