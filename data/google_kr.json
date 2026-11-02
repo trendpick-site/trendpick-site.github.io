@@ -1,225 +1,215 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-02T22:21:51+00:00",
+  "fetched_at": "2026-11-02T23:18:04+00:00",
   "items": [
     {
-      "title": "쌍둥이",
-      "approx_traffic": "100+",
-      "published": "Mon, 2 Nov 2026 13:10:00 -0800",
-      "news": [
-        {
-          "title": "1년 만에 또 쌍둥이, 아들 넷…‘10만분의 1 기적’ 30대 부부 3억 받는다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12193998"
-        },
-        {
-          "title": "‘10만분의 1 확률’ 자연임신 연년생 쌍둥이",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/People/article/all/20261103/134953832/2"
-        },
-        {
-          "title": "충북 제천서 겹쌍둥이 출산 경사…\"10만분의 1 확률\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102034100064"
-        }
-      ]
-    },
-    {
-      "title": "팔란티어 주가",
-      "approx_traffic": "100+",
-      "published": "Mon, 2 Nov 2026 13:10:00 -0800",
-      "news": [
-        {
-          "title": "팔란티어 분기매출 20억 달러 첫 돌파…전년 대비 2배로 성장",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103013300091"
-        },
-        {
-          "title": "Palantir Tech A Q3 실적, 수익 예상치를 넘어",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/earnings/article-2154589"
-        },
-        {
-          "title": "[미국 특징주] 팔란티어, AI 수요에 4분기 매출 전망 예상 상회…연간 전망도 상향",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261103000029"
-        }
-      ]
-    },
-    {
-      "title": "성과급",
-      "approx_traffic": "500+",
-      "published": "Mon, 2 Nov 2026 13:10:00 -0800",
-      "news": [
-        {
-          "title": "\"성과급만 71억, 마흔 전 은퇴 새 삶 살고 싶다\"…삼성전자 직원 글 '갸웃'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/general-finance/6339477"
-        },
-        {
-          "title": "\"성과급 71억5000만원 예상\"…삼성전자 직원, 40세 전 은퇴 고민 [어떻게 생각하세요]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611021928139205"
-        },
-        {
-          "title": "\"40세까지 성과급 포함 80억\"…조기 은퇴 꿈꾸는 삼성전자 직원 글 '화제'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261102_0003851099"
-        }
-      ]
-    },
-    {
-      "title": "임영웅",
-      "approx_traffic": "100+",
-      "published": "Mon, 2 Nov 2026 13:00:00 -0800",
-      "news": [
-        {
-          "title": "[영웅신문] 임영웅, '미워요 RE' 202만 뷰 돌파 …2016년 첫 설렘→2026년 깊어진 목소리 '감동의 10년'",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16266263"
-        },
-        {
-          "title": "임영웅 팬클럽 대구영웅시대(대구누부야방), 장애인 위한 '제주 힐링 캠프'..따뜻한 나눔 실천",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/star/2026/10/30/2026102907030844625"
-        },
-        {
-          "title": "임영웅 팬모임 '부산영웅홀릭', 데뷔 10주년 기념 동물보호단체 '라이프' 기부..선한 영향력 실천",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/star/2026/10/27/2026102605065376858"
-        }
-      ]
-    },
-    {
-      "title": "테슬라 모델 y",
-      "approx_traffic": "1000+",
-      "published": "Mon, 2 Nov 2026 12:50:00 -0800",
-      "news": [
-        {
-          "title": "자율주행 성큼…국내서 허용되나?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701844"
-        },
-        {
-          "title": "[기고] 테슬라, FSD 기대만큼 안전도 책임져야",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261102000379"
-        },
-        {
-          "title": "‘중국산 불법 모듈 달고 유령 주행’... 테슬라 FSD 무단 활성화 80명 덜미",
-          "source": "다나와 자동차",
-          "url": "https://auto.danawa.com/news/?Work=detail&no=6075366&Tab=N1&p=&NewsGroup=M"
-        }
-      ]
-    },
-    {
-      "title": "안세영",
+      "title": "뉴캐슬 대 에버튼 순위",
       "approx_traffic": "2000+",
-      "published": "Mon, 2 Nov 2026 12:50:00 -0800",
+      "published": "Mon, 2 Nov 2026 14:10:00 -0800",
       "news": [
         {
-          "title": "안세영 한 명 빠졌는데 해외 매체가 \"지구가 흔들린다\"...코리아 오픈 출전 확정, 일본 대회는 철회...세계 1위의 남다른 존재감",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/02/MJQTINTDGZQWEMLBME3WKNBSMI/"
+          "title": "Newcastle 0-1 Everton (Nov 2, 2026) Game Analysis",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401878762"
         },
         {
-          "title": "'안세영에게 패하고 눈물 뚝뚝' 미모 1위 일본 배드민턴 아이돌, 안세영과 4강 격돌 가능하다...안세영 결승전 상대는 또 야마구치 유력",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112902815"
+          "title": "Newcastle 0-1 Everton: Toffees earn first away league win of season as Magpies booed off after Jacob Ramsey sees red",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13605474/newcastle-0-1-everton-toffees-earn-first-away-league-win-of-season-as-magpies-booed-off-after-jacob-ramsey-sees-red"
         },
         {
-          "title": "여수시 “셔틀콕 세계 별들 한자리에”… 코리아오픈 배드민턴 3일 개막",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/region/article/all/20261102/134950099/1"
+          "title": "Newcastle United v Everton player ratings: Who covered their face after missing a golden chance?",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/cmglwjxx45gjo"
         }
       ]
     },
     {
-      "title": "트레이드",
+      "title": "삼성중공업",
       "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 12:50:00 -0800",
+      "published": "Mon, 2 Nov 2026 14:10:00 -0800",
       "news": [
         {
-          "title": "구단 사상 최고 연봉 주고 잡았는데 트레이드 시킨다고? 'WS 눈물' TB의 진짜 속셈은",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/02/MVRGGMZXGJRDIMJZGYYTEOBTHE/"
+          "title": "中관영지 \"韓서 中-카타르 LNG운반선 건조…'한중 협력' 보여줘\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102091000083"
         },
         {
-          "title": "‘연봉 신기록의 역설’ 라스무센, 커리어 하이 찍고 ‘탬파베이 떠날까’",
+          "title": "中 조선사, 저가 수주 ’옛말’...물량 공세 넘어 이익도 ’점프’ By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2152937"
+        },
+        {
+          "title": "中 관영지, 韓에서 건조한 中 선박 보도...양국 조선 협력 강조",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611021815301930"
+        }
+      ]
+    },
+    {
+      "title": "권상우",
+      "approx_traffic": "1000+",
+      "published": "Mon, 2 Nov 2026 14:00:00 -0800",
+      "news": [
+        {
+          "title": "손태영, 미국서 아들 시집살이…\"스트레스 확 올라와\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850414"
+        },
+        {
+          "title": "손태영 “시어머니도 아니고 아들 시집살이”…룩희 때문에 스트레스",
           "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261102/134947549/1"
+          "url": "https://sports.donga.com/ent/article/all/20261101/134946031/1"
         },
         {
-          "title": "탬파베이, 2000만 달러 옵션 행사…에이스 라스무센 2027시즌도 붙잡았다",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435040"
+          "title": "\"이모님 쓴적 없다\"... 손태영, 17살 아들 시집살이 고백 \"시母도 아닌데 스트레스\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/GZRTIMJQMM4TSNZRHFRWEM3FG4/"
         }
       ]
     },
     {
-      "title": "빌라",
+      "title": "aapl",
       "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 12:40:00 -0800",
+      "published": "Mon, 2 Nov 2026 14:00:00 -0800",
       "news": [
         {
-          "title": "“아파트 못 사니 빌라라도”…서울 7억 이상 거래 64% 급증",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01449766645641784&mediaCodeNo=257"
+          "title": "Apple earnings live updates: New CEO John Ternus faces first Wall Street test",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html"
         },
         {
-          "title": "“젊은 층 관심 커진 재개발 투자… 적어도 ‘조합설립인가’ 받은 곳 노려야”",
-          "source": "주간동아",
-          "url": "https://weekly.donga.com/economy/article/all/11/6439930/1"
+          "title": "Apple results beat Wall Street expectations on strong iPhone sales",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/retail-consumer/apple-results-beat-wall-street-expectations-on-strong-iphone-sales-2026-11-02/"
         },
         {
-          "title": "“재개발 빌라에 기회 있어” … 고준석 교수 원픽은 노량진·방화",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12192737"
+          "title": "Apple's July–September revenue tops forecasts, while China revenue falls short of expectations",
+          "source": "파이낸셜뉴스",
+          "url": "https://en.fnnews.com/news/202611030727383229"
         }
       ]
     },
     {
-      "title": "xrp 레저",
-      "approx_traffic": "500+",
-      "published": "Mon, 2 Nov 2026 12:30:00 -0800",
-      "news": [
-        {
-          "title": "XRP레저, 스테이블코인 무단 발행 가능 취약점 수정…오는 4일 적용 전망",
-          "source": "블루밍비트",
-          "url": "https://bloomingbit.io/feed/news/123451"
-        },
-        {
-          "title": "토큰 승인 검사 수정안 2건 검토…XRP 레저 적용 전",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/blockchain/431101"
-        },
-        {
-          "title": "스테이블코인 무단 생성 막는다…XRPL, 결제·소각 권한 체계 보완",
-          "source": "블록미디어",
-          "url": "https://www.blockmedia.co.kr/archives/1160171"
-        }
-      ]
-    },
-    {
-      "title": "지소연",
+      "title": "นิวคาสเซิล พบ เอฟเวอร์ตัน",
       "approx_traffic": "100+",
-      "published": "Mon, 2 Nov 2026 12:30:00 -0800",
+      "published": "Mon, 2 Nov 2026 14:00:00 -0800",
       "news": [
         {
-          "title": "“손흥민 안쓰러웠다”… 96라인 내분설에 입 연 ‘이 선수’, 작심하고 발언했다",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1170829"
+          "title": "พรีวิวเกม นิวคาสเซิล vs เอฟเวอร์ตัน: จุดสนใจในศึกแย่งชิงตำแหน่งดาวซัลโวสูงสุด",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-newcastle-vs-everton-diem-nong-cuoc-dua-top-dau"
         },
         {
-          "title": "'A매치 200경기 앞둔' 지소연 \"국가대표 20년 차...대표팀 주장은 한 번도 안 했죠\"",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026103014500000918"
+          "title": "ย้ำชัยอีกนัด เอฟเวอร์ตัน บุกเฉือน นิวคาสเซิล 10 คน - แซงขึ้นอันดับ 7 พรีเมียร์ลีก | Khaosod",
+          "source": "LINE TODAY",
+          "url": "https://today.line.me/th/v3/article/PGzD600"
         },
         {
-          "title": "지소연 \"손흥민 안쓰러웠다\"…남자 대표팀 향해 소신 발언",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/video/NB12325910"
+          "title": "\"ทอฟฟี\" บุกหักปีก \"สาลิกาดง\" ศึกมันเดย์ไนท์",
+          "source": "เดลินิวส์",
+          "url": "https://www.dailynews.co.th/news/6326597/"
+        }
+      ]
+    },
+    {
+      "title": "옌스 카스트로프",
+      "approx_traffic": "1000+",
+      "published": "Mon, 2 Nov 2026 13:50:00 -0800",
+      "news": [
+        {
+          "title": "“정말 오랫동안 기다려온 순간입니다” 韓 축구 초대형 희소식…‘혼혈 태극전사’ 카스트로프, 3개월 만에 부상 복귀 “천천히 한 단계씩 앞으로 나아갈 것”",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%86%E1%85%A1%E1%86%AF-%E1%84%8B%E1%85%A9%E1%84%85%E1%85%A2%E1%86%BA%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%AB-%E1%84%80%E1%85%B5%E1%84%83%E1%85%A1%E1%84%85%E1%85%A7%E1%84%8B%E1%85%A9%E1%86%AB-%E1%84%89%E1%85%AE%E1%86%AB%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1-%E9%9F%93-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%80%E1%85%AE-%E1%84%8E%E1%85%A9%E1%84%83%E1%85%A2%E1%84%92%E1%85%A7%E1%86%BC-%E1%84%92%E1%85%B4%E1%84%89%E1%85%A9%E1%84%89%E1%85%B5%E1%86%A8--%E1%84%92%E1%85%A9%E1%86%AB%E1%84%92%E1%85%A7%E1%86%AF-%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%89%E1%85%A1-%E1%84%8F%E1%85%A1%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B3-3%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AF%E1%86%AF-%E1%84%86%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A6-%E1%84%87%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC-%E1%84%87%E1%85%A9%E1%86%A8%E1%84%80%E1%85%B1-%E1%84%8E%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A5%E1%86%AB%E1%84%92%E1%85%B5-%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%83%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A8%E1%84%8A%E1%85%B5%E1%86%A8-%E1%84%8B%E1%85%A1%E1%87%81%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9-%E1%84%82%E1%85%A1%E1%84%8B%E1%85%A1%E1%84%80%E1%85%A1%E1%86%AF-%E1%84%80%E1%85%A5%E1%86%BA/blt942fee46a240010e"
+        },
+        {
+          "title": "옌스 카스트로프 돌아왔다…아시안컵 앞둔 대표팀에 희소식 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/02/2026110209465214536"
+        },
+        {
+          "title": "'혼혈전사' 옌스, 드디어 돌아온다...어깨 부상 털고 86일 만에 실전 복귀, 2027 아시안컵 승선 가능성",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261101131021534"
+        }
+      ]
+    },
+    {
+      "title": "사수올로 대 피오렌티나",
+      "approx_traffic": "100+",
+      "published": "Mon, 2 Nov 2026 13:50:00 -0800",
+      "news": [
+        {
+          "title": "Sassuolo vs Fiorentina: Italian Serie A stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c92038pxyyzdt"
+        },
+        {
+          "title": "Mastantuono’s late winner ends Fiorentina's 52-day winless run",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/sports/soccer/2026/11/02/fiorentina-newcastle-everton-osasuna-deportivo-laliga-seriea/dfee9378-d700-11f1-930a-e08f8086f5ac_story.html"
+        },
+        {
+          "title": "Pellegrino (DAZN): “We're united, Vanoli lifts us, we must fight every day”",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/en/news/pellegrino-dazn-were-united-vanoli-lifts-us-we-must-fight-every-day-43715179"
+        }
+      ]
+    },
+    {
+      "title": "데포르티보 대 오사수나",
+      "approx_traffic": "100+",
+      "published": "Mon, 2 Nov 2026 13:50:00 -0800",
+      "news": [
+        {
+          "title": "데포르티보 라 코루냐 대 오사수나 예측: 홈 팀의 스쿼드 챌린지",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-deportivo-la-coruna-vs-osasuna-bai-toan-luc-luong-cua-chu-nha"
+        }
+      ]
+    },
+    {
+      "title": "제네시스 gv90",
+      "approx_traffic": "100+",
+      "published": "Mon, 2 Nov 2026 13:50:00 -0800",
+      "news": [
+        {
+          "title": "GV90가 보여준 기술, 보여주지 못한 미래",
+          "source": "다나와 자동차",
+          "url": "https://auto.danawa.com/news/?Tab=F5&Work=detail&no=6077215"
+        },
+        {
+          "title": "현대자동차그룹, 용인 스튜디오서 제네시스 'GV90' 특별전",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110294071"
+        },
+        {
+          "title": "중간 기둥 없이 14t 하중 거뜬… 0.08초에 펴지는 천장 에어백",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261029/134934762/2"
+        }
+      ]
+    },
+    {
+      "title": "더본코리아",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 13:30:00 -0800",
+      "news": [
+        {
+          "title": "[더존비즈온 사태] 급여 계좌부터 가족 주민번호까지... 더존비즈온 해킹이 ‘중대 사고’인 이유",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146948"
+        },
+        {
+          "title": "\"외부 수탁사 서버 불법 접근\"…더본코리아, 개인정보 유출 가능성 공지",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026110307532126715"
+        },
+        {
+          "title": "[전망] 더존비즈온 해킹 사태가 던진 충격파…과징금 10% 개정법 첫 시험대와 2027년 보안·ERP 지형도 ’주목’",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2152668"
         }
       ]
     }
