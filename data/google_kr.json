@@ -1,8 +1,146 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-02T10:09:16+00:00",
+  "fetched_at": "2026-11-02T11:04:55+00:00",
   "items": [
+    {
+      "title": "최불암 아들",
+      "approx_traffic": "500+",
+      "published": "Mon, 2 Nov 2026 02:00:00 -0800",
+      "news": [
+        {
+          "title": "'국민 아버지' 故최불암 마지막 배웅…김혜수 바닥에 주저앉아 오열 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/02/2026110210163595179"
+        },
+        {
+          "title": "‘국민아버지’ 배우 최불암 떠나보내며",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20261103.22006000648"
+        },
+        {
+          "title": "최불암의 '아들'들이 추억하는 '아버지' 최불암 [현장영상+]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611021506108944_005.html"
+        }
+      ]
+    },
+    {
+      "title": "대구 한국가스공사 대 안양 정관장",
+      "approx_traffic": "500+",
+      "published": "Mon, 2 Nov 2026 01:50:00 -0800",
+      "news": []
+    },
+    {
+      "title": "한학자",
+      "approx_traffic": "500+",
+      "published": "Mon, 2 Nov 2026 01:40:00 -0800",
+      "news": [
+        {
+          "title": "통일교 한학자, 보석 상태서 병원 이탈‥법원, 위반 여부 확인",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862538_36918.html"
+        },
+        {
+          "title": "'천정궁에 외출' 한학자 보석취소심문…재판부 \"당황스러워\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102136051004"
+        },
+        {
+          "title": "한학자 재판부 \"서류 전달 안돼. 보석조건 준수?\" 변호인 \"그렇다\"...보석 이튿날부터 '병원→천정궁'",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12326026"
+        }
+      ]
+    },
+    {
+      "title": "하이브",
+      "approx_traffic": "100+",
+      "published": "Mon, 2 Nov 2026 01:40:00 -0800",
+      "news": [
+        {
+          "title": "하이브, 사원 여권·카드번호 등 개인정보 유출‥\"깊이 사과\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6862537_36932.html"
+        },
+        {
+          "title": "하이브, 전·현직 임직원 계좌·주민번호 등 개인정보 유출…\"내부 시스템 해킹\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102170008OLB"
+        },
+        {
+          "title": "하이브, 사내망 해킹 피해…임직원 개인정보 유출",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2350121"
+        }
+      ]
+    },
+    {
+      "title": "이미숙",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 01:20:00 -0800",
+      "news": [
+        {
+          "title": "\"집 다 날아갔다\"…이미숙, 주식 손실 얼마길래",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611020422H"
+        },
+        {
+          "title": "“왜 늘그막에 주식을 해서”…이미숙, ‘집 날아간’ 투자 손실 고백",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12193667"
+        },
+        {
+          "title": "생전 안 하던 주식 뛰어든 이미숙…급락장에 \"집 날아갔다\"",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04070486645641784&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "title": "하남시",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 01:20:00 -0800",
+      "news": [
+        {
+          "title": "2018년 불소 검출 8년 공방…하남시, 한강 폐천부지 소송 1심 승소",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335720"
+        },
+        {
+          "title": "한강 폐천부지 정화책임 소송, 하남시 승소…환경청 소 각하",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102145400061"
+        },
+        {
+          "title": "“오염된 국유지 정화책임은 환경청에”…하남시 1심 승소",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11628124"
+        }
+      ]
+    },
+    {
+      "title": "xrp",
+      "approx_traffic": "1000+",
+      "published": "Mon, 2 Nov 2026 01:10:00 -0800",
+      "news": [
+        {
+          "title": "XRP ETF draws inflows despite sharp drop, led by Franklin and Bitwise",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/en/view/122562/xrp-etf-inflows-franklin-bitwise-lead-despite-price-drop"
+        },
+        {
+          "title": "Can XRP ETFs Maintain Their Winning Streak Despite Crypto Market Pressure?",
+          "source": "Kalkine Media",
+          "url": "https://kalkinemedia.com/news/cryptocurrency/can-xrp-etfs-maintain-their-winning-streak-despite-crypto-market-pressure"
+        },
+        {
+          "title": "Ripple (XRP) ETFs Beat Every Major Rival in October: But Two Problems Remain",
+          "source": "CryptoPotato",
+          "url": "https://cryptopotato.com/ripple-xrp-etfs-beat-every-major-rival-in-october-but-two-problems-remain/"
+        }
+      ]
+    },
     {
       "title": "김장훈",
       "approx_traffic": "1000+",
@@ -31,25 +169,25 @@
       "published": "Mon, 2 Nov 2026 00:30:00 -0800",
       "news": [
         {
-          "title": "두산 최민석·NC 신영우, 팔꿈치 부상으로 APBC 대표팀 낙마",
+          "title": "김태균·오승환, APBC 대표팀 인스트럭터 합류…3∼4일 지도",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102084200007"
+          "url": "https://www.yna.co.kr/view/AKR20261102095500007"
         },
         {
-          "title": "태극마크 불발 충격! '스무살' 14승 우완 팔꿈치 탈났다, 부상 어느 정도인가 \"염좌 증세, 日서 회복 훈련 전념\"",
+          "title": "'리틀 이대호' 여기서는 어엿한 맏형이다…국가대표 주장 낙점, 롯데에서도 캡틴 되나? \"예행연습일까요\" [오!쎈 대전]",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/02/MQYDMZBQGIYDIMBVMRRTGOBUME/"
+          "url": "https://www.chosun.com/sports/baseball/2026/11/02/MNTGMMJRGQYGCNLCMYZTKOLGHA/"
         },
         {
-          "title": "김태균·오승환 APBC 인스트럭터 합류…최민석·신영우 부상 낙마(종합)",
+          "title": "홈 구장에서 훈련하는 문현빈",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6339905"
+          "url": "https://www.news1.kr/photos/8192273"
         }
       ]
     },
     {
       "title": "현대 제네시스",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Mon, 2 Nov 2026 00:10:00 -0800",
       "news": [
         {
@@ -68,144 +206,6 @@
           "url": "https://www.viva100.com/article/20261102501016"
         }
       ]
-    },
-    {
-      "title": "원익홀딩스",
-      "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 00:10:00 -0800",
-      "news": [
-        {
-          "title": "원익홀딩스, 삼성 P5 투자 가시화 '직수혜'…'휴머노이드 핵심' 로봇핸드 성장성까지 '주목'",
-          "source": "프라임경제",
-          "url": "https://m.newsprime.co.kr/section_view.html?no=753179&menu=1"
-        },
-        {
-          "title": "[리포트 브리핑]원익홀딩스, '실적개선(반도체)과 성장성(로봇)의 조화' Not Rated - iM증권",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261102001323"
-        },
-        {
-          "title": "원익홀딩스 주가 32% 상승…최원범 2위 도약 : 한국증시",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1065794"
-        }
-      ]
-    },
-    {
-      "title": "홋카이도 닛폰햄 파이터스",
-      "approx_traffic": "500+",
-      "published": "Mon, 2 Nov 2026 00:10:00 -0800",
-      "news": [
-        {
-          "title": "'NPB 4년 최대 537억 잭팟 터졌다' 레이예스, 닛폰햄과 역사적 초대형 계약 합의",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202611020108"
-        },
-        {
-          "title": "일본 가서 대박났네! 프란밀 레이예스, 닛폰햄과 4년 4000만$, 리그 최고 대우 계약 연장",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12193479"
-        },
-        {
-          "title": "2019년 기쿠치 보고 동경…1년 전 포스팅 실패, 해외 FA로 다시 MLB 도전?",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202611020050"
-        }
-      ]
-    },
-    {
-      "title": "박수현",
-      "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 00:10:00 -0800",
-      "news": [
-        {
-          "title": "아침 7시, 동네 빵집 갔더니 “어디서 많이 본 사람인데”···도지사가 ‘첫 손님’ 된 이유",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611021012001"
-        },
-        {
-          "title": "박수현 \"국방기관 14곳 논산·계룡 유치 총력…국방수도 육성\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102142700063"
-        },
-        {
-          "title": "박수현 충남지사 ’소상공인 기 살리기 프로젝트’ 착수…소상공인 응원",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102101504LSK"
-        }
-      ]
-    },
-    {
-      "title": "샘스미스",
-      "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 00:10:00 -0800",
-      "news": [
-        {
-          "title": "샘 스미스, ‘망사스타킹+브래지어’ 파격 변신…“너무 예뻐 보인다”",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1646002"
-        },
-        {
-          "title": "샘 스미스, 초록 실크 가운·망사 스타킹 파격 패션 공개",
-          "source": "메디컬투데이",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622438"
-        },
-        {
-          "title": "샘 스미스, 커밍아웃→약혼 후 근황…과감한 패션",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202611020806270410"
-        }
-      ]
-    },
-    {
-      "title": "코스피",
-      "approx_traffic": "5000+",
-      "published": "Mon, 2 Nov 2026 00:10:00 -0800",
-      "news": [
-        {
-          "title": "코스피 하락 출발 후 2.2% 반등...'인텔 쇼크' 버텼다",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202611021621389187"
-        },
-        {
-          "title": "개인 1.8조 팔 때 기관이 받았다…연기금 이틀 새 1조 '안전판' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/02/2026110216034248456"
-        },
-        {
-          "title": "[증시-마감] 美·이란 기대감에 코스피 2%대 상승…기관 순매수",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442573"
-        }
-      ]
-    },
-    {
-      "title": "k리그",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 23:40:00 -0800",
-      "news": [
-        {
-          "title": "최대 4팀 올라간다! 수원 삼성, 4년 만의 K리그1 복귀까지 승점 1점…‘공동 연고’ 수원FC와 동반 승격 가능성↑…PO 경쟁도 치열",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261102/134950129/1"
-        },
-        {
-          "title": "[k2.live] '팔꿈치에 얼굴 맞고 눈 퉁퉁...결국 응급실행' 부상에 김해운 감독 분통 \"VAR 봤어야 하지 않나?\"",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99838"
-        },
-        {
-          "title": "\"눈이 부어올라 보이질 않는다는데...\" 끝내 예기치 못한 선수 교체→아쉬움 토로한 김해운 감독 [성남 현장]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/sports/2026/10/25/2026102512421832638"
-        }
-      ]
-    },
-    {
-      "title": "고령화",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 23:30:00 -0800",
-      "news": []
     }
   ]
 }
