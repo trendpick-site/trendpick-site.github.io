@@ -1,211 +1,222 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-02T03:57:57+00:00",
+  "fetched_at": "2026-11-02T05:04:04+00:00",
   "items": [
     {
-      "title": "라이언 와이스",
-      "approx_traffic": "2000+",
-      "published": "Sun, 1 Nov 2026 18:40:00 -0800",
-      "news": [
-        {
-          "title": "'한화 어쩌나' 美도 와이스 관심 보인다…\"빠듯한 자금력 구단, 지체없이 움직여야 한다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/31/GM2WEZJXMVTGEN3CME2TEY3DGU/"
-        },
-        {
-          "title": "한화 복귀 원했던 팬들 '날벼락'… 라이언 와이스 '재취업' 길 열렸다",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739421"
-        },
-        {
-          "title": "'한화 출신' 와이스, MLB 휴스턴 떠나 FA 신분…KBO리그 복귀하나",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003848374"
-        }
-      ]
-    },
-    {
-      "title": "인공위성",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 18:40:00 -0800",
-      "news": [
-        {
-          "title": "장갑차 이동부터 원유 재고까지 분석하는 ‘우주의 눈’… 돈 되는 ‘위성 인텔리전스’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/science/2026/11/02/EQ3XBKG27BBOPBMEJWBGTW3LO4/"
-        },
-        {
-          "title": "AI가 위성영상 실시간 분석… SAR 위성 한계 보완",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261029/134928094/2"
-        },
-        {
-          "title": "우주로 올라간 중국 레이저 총구…별들의 전쟁터서 미군 위성 흔든다",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611011658515258fbbec65dfb_1"
-        }
-      ]
-    },
-    {
-      "title": "쇼트트랙",
+      "title": "농업",
       "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 18:40:00 -0800",
+      "published": "Sun, 1 Nov 2026 20:00:00 -0800",
       "news": [
         {
-          "title": "쇼트트랙 최민정 ‘추월쇼’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/02/4RNMOMOTLVCDFJN4MOP7YVHYRE/"
+          "title": "[게시판] 농식품부, 4∼7일 대구서 '2026 국제농기계자재박람회'",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1186686"
         },
         {
-          "title": "최민정, 쇼트트랙 월드투어 2차 대회 1500ｍ 은메달",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11627985"
+          "title": "미래 농업을 한눈에! 「2026 대한민국 국제농기계자재박람회」 개최",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=454577"
         },
         {
-          "title": "최민정, 9명 혼전 뚫고 여자 1,500ｍ 은메달 …은퇴 시즌 투혼",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102020600007"
-        }
-      ]
-    },
-    {
-      "title": "티아라",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 18:30:00 -0800",
-      "news": [
-        {
-          "title": "티아라 출신 소연, 결혼 4년 만에 임신…9세 연상 조유민과 첫아이",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261101/134947107/1"
-        },
-        {
-          "title": "티아라 소연, '아들맘' 된다…조유민과 결혼 4년만 임신 - 머니투데이",
+          "title": "농부 일손 돕는 AI·로봇 한자리에…국제농기계박람회 4일 개막 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/02/2026110206060221518"
-        },
-        {
-          "title": "결혼식 불참했는데도…함은정, 소연 임신 소식에 \"언니 너무 축하해\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/02/GVRDEZTGHBSDQMJQGE2WMMJVGQ/"
+          "url": "https://www.mt.co.kr/economy/2026/11/02/2026110210115845191"
         }
       ]
     },
     {
-      "title": "국가교육위원회",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 18:30:00 -0800",
-      "news": [
-        {
-          "title": "외부 전문가도 교사로?…국교위 '교직 개방' 검토에 교원단체 반발",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/education/6338956"
-        },
-        {
-          "title": "[교육타파] 국교위 '교직 개방' 논의에 현장 반발…교사노조연맹 \"교원자격은 인력난 해소 수단 아니다\"",
-          "source": "전북미래교육신문",
-          "url": "https://edujb.com/news/articleView.html?idxno=9652"
-        },
-        {
-          "title": "[단독] '속도전/N수 유리' 수능 전면개편해야.. '2028개편도 객관식 유지'",
-          "source": "베리타스알파",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=634401"
-        }
-      ]
-    },
-    {
-      "title": "mls",
-      "approx_traffic": "2000+",
-      "published": "Sun, 1 Nov 2026 18:10:00 -0800",
-      "news": [
-        {
-          "title": "Messi's 937th goal and a bizarre moment in Inter Miami game; watch 🎥",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/messis-937th-goal-and-a-bizarre-moment-in-inter-miami-game-watch-43711099"
-        },
-        {
-          "title": "New England crowd goes wild as Messi nets go-ahead goal for 2-1 lead",
-          "source": "ESPN",
-          "url": "https://www.espn.co.uk/video/clip/_/id/50354551/new-england-crowd-goes-wild-messi-nets-go-ahead-goal-2-1-lead"
-        },
-        {
-          "title": "Lionel Messi’s brilliance lifts Inter Miami over Revolution in Foxboro",
-          "source": "Boston Herald",
-          "url": "https://www.bostonherald.com/2026/11/01/lionel-messis-brilliance-lifts-inter-miami-over-revolution-in-foxboro/"
-        }
-      ]
-    },
-    {
-      "title": "휴고 칼데라 노",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 18:10:00 -0800",
-      "news": [
-        {
-          "title": "남자탁구 에이스 장우진, 한국 탁구 사상 첫 WTT 챔피언스 우승",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6862453_36946.html"
-        },
-        {
-          "title": "\"1-3→4-3 대역전승\" '투혼의 탁구짱!' 장우진이 돌아왔다! 생애 첫 WTT챔피언스 단식 우승[WTT 챔피언스 몽펠리에]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/02/MYZGCMRSHA3WEYZXMIYGINJZMY/"
-        },
-        {
-          "title": "\"운이 좋아서 이겼습니다\" 세계 7위 칼데라노 제압한 장우진의 겸손...7게임 대혈투 끝 승리에도 상대부터 치켜세웠다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112902450"
-        }
-      ]
-    },
-    {
-      "title": "가덕도",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 18:10:00 -0800",
-      "news": [
-        {
-          "title": "가덕 첫삽 끝내 연내로 후퇴…당정 “공사비 8500억 증액”(종합)",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261102.22003000232"
-        },
-        {
-          "title": "가덕도신공항 공사비 증액 공방…연내 착공은?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700264&ref=A"
-        },
-        {
-          "title": "대우건설 핵심 일감 가덕도, 11월 착공 불투명…국토부 연내 계약 목표",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20261030114719369"
-        }
-      ]
-    },
-    {
-      "title": "리노베이션",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 18:00:00 -0800",
-      "news": [
-        {
-          "title": "Provo Community Church gathering funds for renovation, restoration",
-          "source": "KSL News",
-          "url": "https://www.ksl.com/article/51638767/provo-community-church-gathering-funds-for-renovation-restoration"
-        },
-        {
-          "title": "Wausau’s Grand Theater to reopen Nov. 7 after six-month renovation",
-          "source": "WSAW",
-          "url": "https://www.wsaw.com/2026/11/01/wausaus-grand-theater-reopen-nov-7-after-six-month-renovation/"
-        },
-        {
-          "title": "Judge says court will investigate government officials in DC golf course case",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://abcnews.com/Politics/judge-court-investigate-government-officials-dc-golf-case/story?id=137723824"
-        }
-      ]
-    },
-    {
-      "title": "트리니티 항공",
+      "title": "철원",
       "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 18:00:00 -0800",
-      "news": []
+      "published": "Sun, 1 Nov 2026 20:00:00 -0800",
+      "news": [
+        {
+          "title": "[속보] 육군 “강원도 철원 소재 전방 부대서 하사 1명 외상입고 사망”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611021114001"
+        },
+        {
+          "title": "육군 \"강원 철원 전방부대 하사 1명 외상 입고 사망\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102114428ACT"
+        },
+        {
+          "title": "[속보] 강원 철원 전방 부대서 부사관 숨진 채 발견",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261102580145"
+        }
+      ]
+    },
+    {
+      "title": "로스앤젤레스 fc 대 미네소타 유나이티드 fc 순위",
+      "approx_traffic": "50000+",
+      "published": "Sun, 1 Nov 2026 19:50:00 -0800",
+      "news": [
+        {
+          "title": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…PO 상위 시드 불발",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102091400007"
+        },
+        {
+          "title": "손흥민 선발 풀타임에도 '대참사' LAFC, 12위 미네소타에 1-3 완패...전반에만 2골 허용→후반 추가골까지 '속수무책'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112902576"
+        },
+        {
+          "title": "[MLS REVIEW] '손흥민 3경기 연속 침묵→LAFC 대참사!' 하위권 미네소타에 1-3 충격패…PO 홈 어드밴티지 확보도 실패",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016989"
+        }
+      ]
+    },
+    {
+      "title": "부평구",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 19:50:00 -0800",
+      "news": [
+        {
+          "title": "인천 부평구, ‘재개발·재건축 원스톱 지원센터’ 신설 박차… 현장 소통 강화",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353607"
+        },
+        {
+          "title": "부평구, 내년 '재개발·재건축 원스탑 지원센터' 신설",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739290"
+        }
+      ]
+    },
+    {
+      "title": "과태료",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 19:40:00 -0800",
+      "news": [
+        {
+          "title": "\"과태료 부과했다\"…택시민원 허위종결한 부평구 공무원 해임",
+          "source": "KBC광주방송",
+          "url": "https://www.ikbc.co.kr/article/view/kbc202611020013"
+        },
+        {
+          "title": "택시 민원 전산기록 조작한 부평구 공무원 해임…공소청 송치",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261102580018"
+        },
+        {
+          "title": "택시 요금 민원에 \"과태료 부과했다\" 거짓 답변… 전 공무원, 공소청 송치",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/incident/2026/11/02/S632BMNXQRG2XKDKR3MX5AS5XI/"
+        }
+      ]
+    },
+    {
+      "title": "yaxel lendeborg",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 19:40:00 -0800",
+      "news": [
+        {
+          "title": "Yaxel Lendeborg joins Warriors legends Steph Curry, Wilt Chamberlain with 37-point night",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7746646/2026/11/01/yaxel-lendeborg-37-points-steph-curry-wilt-chamberlain-warriors-rookie/"
+        },
+        {
+          "title": "\"As you get older, you start to understand\" - Aaron Gordon admits he got caught up in NBA materialism early in his career",
+          "source": "Basketball Network",
+          "url": "https://www.basketballnetwork.net/off-the-court/aaron-gordon-admits-he-got-caught-up-in-nba-materialism-early-in-his-career"
+        },
+        {
+          "title": "Stephen Curry and Yaxel Lendeborg have immediate chemistry",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/watch/video/stephen-curry-and-yaxel-lendeborg-chemistry-mix"
+        }
+      ]
+    },
+    {
+      "title": "lakers vs raptors",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 19:40:00 -0800",
+      "news": [
+        {
+          "title": "Luka Doncic posts insane numbers never before seen in NBA history in Lakers win",
+          "source": "BasketNews.com",
+          "url": "https://basketnews.com/news-258653-luka-doncic-posts-insane-numbers-never-before-seen-in-nba-history-in-lakers-win.html"
+        },
+        {
+          "title": "3 Takeaways in Raptors Loss vs. Lakers",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/nba/raptors/onsi/3-takeaways-in-raptors-loss-vs-lakers"
+        },
+        {
+          "title": "Lakers 131-125 Raptors (Nov 1, 2026) Game Recap",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/recap?gameId=401909906"
+        }
+      ]
+    },
+    {
+      "title": "중대범죄 수사청",
+      "approx_traffic": "2000+",
+      "published": "Sun, 1 Nov 2026 19:30:00 -0800",
+      "news": [
+        {
+          "title": "깐깐해진 공소청 검사, 이삿짐 덜 푼 중수청, 수사 늪에 빠진 경찰",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/11/02/L3ACB4PKOZBIBDC75XP454VQ3A/"
+        },
+        {
+          "title": "보완수사 요구 49% 늘어난 경기남부청…수사 초임 인력 약 10%",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102087700061"
+        },
+        {
+          "title": "[개정 형소법 한달]‘검사가 손 댄’ 증거는 재판에서 못 쓴다?···뺑뺑이 도는 피해자, 꼬여가는 형사재판",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611020600111"
+        }
+      ]
+    },
+    {
+      "title": "주식시장",
+      "approx_traffic": "10000+",
+      "published": "Sun, 1 Nov 2026 19:20:00 -0800",
+      "news": [
+        {
+          "title": "주식 매도대금 하루 일찍 받는다…'T+1' 도입 로드맵 공개",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/general-stock/6339623"
+        },
+        {
+          "title": "주식 결제 ‘T+1’로…묶인 자금 풀고 증시 효율 높인다",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261102500588"
+        },
+        {
+          "title": "증권시장 결제주기 단축 로드맵 발표...2028년 중 시행 목표",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611021102287860"
+        }
+      ]
+    },
+    {
+      "title": "이동건",
+      "approx_traffic": "2000+",
+      "published": "Sun, 1 Nov 2026 19:20:00 -0800",
+      "news": [
+        {
+          "title": "제주 카페 왜 문 닫았나 했더니…이동건, 결국 서울로 옮긴다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611029090H"
+        },
+        {
+          "title": "\"소문에 망했다던데\" 이동건, 제주도 카페 1년 6개월 만에 문 닫은 이유",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6339540"
+        },
+        {
+          "title": "이동건, 제주카페 폐업 이유 밝혔다 \"너무 힘들어\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261101_0003850014"
+        }
+      ]
     }
   ]
 }
