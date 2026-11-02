@@ -1,225 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-02T13:10:01+00:00",
+  "fetched_at": "2026-11-02T14:23:41+00:00",
   "items": [
     {
-      "title": "한국여자프로골프협회",
+      "title": "초록우산 어린이재단",
       "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 04:00:00 -0800",
+      "published": "Mon, 2 Nov 2026 05:20:00 -0800",
       "news": [
         {
-          "title": "KLPGA, 장하나·박결·김보경·안송이에 2027시즌 시드권 부여",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102159900007"
-        },
-        {
-          "title": "KLPGA 이사회, 2027시즌 KLPGA 정규투어 시드권 부여 선수 4명 확정… 김보경‧안송이‧장하나‧박결",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261102501372"
-        },
-        {
-          "title": "시드전 준비했던 ‘통산 15승’ 장하나, 내년 정규투어 무대 누빈다…KLPGA, 이사회 통해 2027년 시드권 부여 선수 4명 확정",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261102/134952432/1"
-        }
-      ]
-    },
-    {
-      "title": "이재용",
-      "approx_traffic": "500+",
-      "published": "Mon, 2 Nov 2026 03:40:00 -0800",
-      "news": [
-        {
-          "title": "AI반도체 챙기는 이재용, 日 첨단패키징 거점 점검 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/11/02/2026110119483795136"
-        },
-        {
-          "title": "3500억원 투자에 日이 절반 이상 지원…이재용이 요코하마로 간 이유",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261102024104049"
-        },
-        {
-          "title": "이재용 삼성전자 회장, 일본 현지 반도체 패키징 연구거점 방문...최태원 SK그룹 회장, 오픈AI CEO와 오찬",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353574"
-        }
-      ]
-    },
-    {
-      "title": "xsmb",
-      "approx_traffic": "500+",
-      "published": "Mon, 2 Nov 2026 03:30:00 -0800",
-      "news": [
-        {
-          "title": "Phân tích thống kê XSMB Thứ 3 Ngày 03/11/2026 - Chốt Số Vàng May Mắn",
-          "source": "homeup.vn",
-          "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-3-ngay-03112026-chot-so-vang-may-man-p7359"
-        },
-        {
-          "title": "Kết quả xổ số miền Trung hôm nay 2.11: Huế, Phú Yên",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-211-hue-phu-yen-1793585.ldo"
-        },
-        {
-          "title": "Xổ số miền Nam ngày 2 tháng 11: Đại lý bán trúng nguyên cây vé trúng đài TP.HCM",
-          "source": "Báo Thanh Niên",
-          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-2-thang-11-dai-ly-ban-trung-nguyen-cay-ve-trung-dai-tphcm-185261102091445888.htm"
-        }
-      ]
-    },
-    {
-      "title": "크래프톤",
-      "approx_traffic": "100+",
-      "published": "Mon, 2 Nov 2026 03:20:00 -0800",
-      "news": [
-        {
-          "title": "크래프톤, K팝 AI 채팅앱 '키프' 출시…피프티피프티 참여",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102114100017"
-        },
-        {
-          "title": "크래프톤, AI 신사업 본격화…‘키프’ 출시·로봇 AI ‘루디 0.2’ 공개 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2152976"
-        },
-        {
-          "title": "크래프톤, K팝 AI 캐릭터 챗 서비스 '키프' 국내 출시",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261102164339"
-        }
-      ]
-    },
-    {
-      "title": "원 이",
-      "approx_traffic": "1000+",
-      "published": "Mon, 2 Nov 2026 03:10:00 -0800",
-      "news": [
-        {
-          "title": "리센느 원이, 공연 중 무대 이탈…\"세탁 후 줄어든 의상 탓\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/celebrity/2026/11/02/OG64B6SR4JCCBDTBJJ67UMKX2M/"
-        },
-        {
-          "title": "리센느 원이, 무대 이탈 이유 밝혔다…“의상 탓에 호흡 어려워”",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202611021335545649"
-        },
-        {
-          "title": "리센느 원이 \"숨 못 쉬어\"…공연 도중 사라진 사연, 무슨 일?",
+          "title": "’국민 아버지’ 故 최불암 발인 엄수…눈물 속 배웅",
           "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102164458lxa"
-        }
-      ]
-    },
-    {
-      "title": "rashid khan",
-      "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 02:40:00 -0800",
-      "news": [
-        {
-          "title": "Kathmandu Gorkhas chase down 181-run target with two balls to spare",
-          "source": "Nepalnews.com",
-          "url": "https://english.nepalnews.com/s/sports/kathmandu-gorkhas-chase-down-181-run-target-with-two-balls-to-spare/"
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261102142843haM"
         },
         {
-          "title": "Kathmandu’s Rashid Khan Scores Half-Century Against Karnali Yaks in NPL",
-          "source": "Ratopati",
-          "url": "https://english.ratopati.com/story/85447/rashid-khan-is-out-after-scoring-a-half-century"
+          "title": "\"내가 먼저 갔어야 했는데\"...최불암 향한 먹먹한 작별",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0106_202611022151120544_005.html"
         },
-        {
-          "title": "NPL: Kathmandu defeats Karnali by four wickets",
-          "source": "The Rising Nepal",
-          "url": "https://risingnepaldaily.com/news/88325"
-        }
-      ]
-    },
-    {
-      "title": "연구",
-      "approx_traffic": "100+",
-      "published": "Mon, 2 Nov 2026 02:30:00 -0800",
-      "news": [
-        {
-          "title": "제일약품, 중앙연구소 조직 개편…연구소장에 박준석 전무",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102065400017"
-        },
-        {
-          "title": "글로벌 혁신 신약기업 만든다…제일약품, 중앙연구소 전면 개편",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261102214605"
-        },
-        {
-          "title": "제일약품, 중앙연구소 조직개편…외부 전문가 영입해 신약개발 강화 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/thebio/2026/11/02/2026110210484592828"
-        }
-      ]
-    },
-    {
-      "title": "김경란",
-      "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 02:30:00 -0800",
-      "news": [
         {
           "title": "\"나 가거든 꼭 재단 들러줘\" 도열한 직원들 '오열' 배웅 [현장영상]",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/society/article/6862567_36918.html"
+        }
+      ]
+    },
+    {
+      "title": "파흐타코르 대 알나스르",
+      "approx_traffic": "1000+",
+      "published": "Mon, 2 Nov 2026 05:00:00 -0800",
+      "news": [
+        {
+          "title": "Ange Postecoglou is leaning toward two changes for Pakhtakor trip — Pakhtakor Vs Al Nassr",
+          "source": "شبكة تواصل الإخبارية",
+          "url": "https://twaslnews1.twaslnews.com/7021577/"
         },
         {
-          "title": "“위로와 희망 주는 국민아버지”…故 최불암 오늘 영면",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8701839"
+          "title": "Pakhtakor vs Al Nassr FC match lineup | AFC Champions League Elite · 2 Nov 2026",
+          "source": "YSscores",
+          "url": "https://www.ysscores.com/en/lineup/6050088/Pakhtakor-Tashkent-vs-Al-Nassr-FC"
         },
         {
-          "title": "최불암의 '아들'들이 추억하는 '아버지' 최불암 [현장영상+]",
+          "title": "Why isn't Cristiano Ronaldo playing for Al Nassr vs. Pakhtakor today?",
+          "source": "Central Oregon Daily",
+          "url": "https://www.centraloregondaily.com/sports/portland_timbers/why-isnt-cristiano-ronaldo-playing-for-al-nassr-vs-pakhtakor-today/article_e493ef41-2dcc-5038-9d8a-737ad03125f2.html"
+        }
+      ]
+    },
+    {
+      "title": "윤영미",
+      "approx_traffic": "500+",
+      "published": "Mon, 2 Nov 2026 04:50:00 -0800",
+      "news": [
+        {
+          "title": "윤영미, 아들 유학 26억 지원… \"뉴욕 500만원 월세방, 옷장서 자\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/02/2026110215244724355"
+        },
+        {
+          "title": "윤영미 \"子 뉴욕집 옷장서 자는 중\"…'유학비 26억' 뒷바라지의 현실",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-02/202611020100011890000938"
+        },
+        {
+          "title": "윤영미, 뉴욕 월세 500만원 아들 집인데…옷장서 취침 \"키 작아 다행\" [★해시태그]",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2214321"
+        }
+      ]
+    },
+    {
+      "title": "안민석",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 04:50:00 -0800",
+      "news": [
+        {
+          "title": "안민석 경기교육감, 31개 시군 타운홀 마무리…교육격차 해소 나선다",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335696"
+        },
+        {
+          "title": "경기교육청, 교육격차·과밀학급·통학 등 지역 맞춤 과제 추진",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20109201"
+        },
+        {
+          "title": "안민석 경기도교육감 “40년 된 수원, 성남 등 학군 전면 재조정할 것”",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363741190"
+        }
+      ]
+    },
+    {
+      "title": "아이파크몰 용산점",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 04:40:00 -0800",
+      "news": []
+    },
+    {
+      "title": "박하선",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 04:40:00 -0800",
+      "news": [
+        {
+          "title": "박하선 “싫어져서 그만두는 거 아냐”…6년 지킨 라디오 하차 소감",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611021506108944_005.html"
+          "url": "https://www.ytn.co.kr/_ln/0117_202611021032366789"
+        },
+        {
+          "title": "\"방송사고만 내지 말자 생각\"…'씨네타운' 새 DJ 이엘, 성공적 첫 방송",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008826965"
+        },
+        {
+          "title": "박하선, 6년 DJ 마치고 망개떡 인사…류수영 “세계 최고의 디제이였어”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12193005"
         }
       ]
     },
     {
-      "title": "박지선",
+      "title": "이국주",
       "approx_traffic": "100+",
-      "published": "Mon, 2 Nov 2026 02:30:00 -0800",
+      "published": "Mon, 2 Nov 2026 04:40:00 -0800",
       "news": [
         {
-          "title": "故박지선, 6주기에 동기들 만났다..양상국 \"잘하고 있으니 응원 많이해줘\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/02/HA2WMZJZG44WGNTGMUYGCODEMM/"
+          "title": "\"9평 원룸 떠났다\"…이국주가 이사한 도쿄, 집값도 '껑충'",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03653926645641784"
         },
         {
-          "title": "김원효, 故 박지선 6주기 앞두고 납골당 찾았다..“자주 못와서 미안해”",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112902243"
+          "title": "이국주, '월세 130만원' 日 원룸서 이사..\"1.5배 넓은 곳으로 간다\"",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/02/MMZTMZBSHE2DEYJVMMZWEYZWGE/"
         },
         {
-          "title": "“서랍 속 동기 20명 사진”…故 박지선 6주기, 여전히 먹먹한 그리움",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611020959003"
+          "title": "＇월세 130만원＇ 9평 원룸 떠났다…이국주, 임장도 없이 택한 도쿄 새집",
+          "source": "한국경제TV",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610310013"
         }
       ]
     },
     {
-      "title": "은마아파트",
-      "approx_traffic": "2000+",
-      "published": "Mon, 2 Nov 2026 02:10:00 -0800",
+      "title": "브루넬로 쿠치넬리",
+      "approx_traffic": "500+",
+      "published": "Mon, 2 Nov 2026 04:30:00 -0800",
       "news": [
         {
-          "title": "강남 은마 795㎡ 소유권 정태수 상속인에…\"재건축엔 지장 없어\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030179300004"
+          "title": "어딜 눌러? 명품 브랜드 창립자 ‘나쁜손’ 논란",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11628097"
         },
         {
-          "title": "바람 잘 날 없는 은마 재건축…단지 내 시유지 240평, 한보그룹 상속인들에게 넘겨야",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/01/2026110100923.html"
+          "title": "“왜 자꾸 손이 닿지?” 이태리 억만장자, 中여배우 ‘성추행’ 논란 [월드픽]",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/international/china/2026/11/01/20261101500070"
         },
         {
-          "title": "은마아파트 내 서울시 땅 795㎡…“정태수 상속인에 넘겨라”, 왜",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25474581"
+          "title": "처음이 아니다?…명품 창립자의 여성 배우 신체접촉 논란[이런일이]",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6600963"
+        }
+      ]
+    },
+    {
+      "title": "포스코홀딩스",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 04:10:00 -0800",
+      "news": [
+        {
+          "title": "포스코홀딩스, 3Q 영업익 9400억원…전년比 47.9%↑",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374236"
+        },
+        {
+          "title": "포스코홀딩스, 3Q 영업익 9450억..철강 수익성 회복 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/02/2026110214154163192"
+        },
+        {
+          "title": "포스코이앤씨, 3분기 영업이익 480억원… 흑자 전환",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/02/7IW4A2YUI5EARFI2JX2UPXIHDE/"
+        }
+      ]
+    },
+    {
+      "title": "잠실야구장",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 04:10:00 -0800",
+      "news": [
+        {
+          "title": "'아직' 잠실야구장 사라지기 전... 특별한 추억 남길 수 있다, 두산 베어스 8일, 11일, 20일, 24일 팬 투어 프로그램 진행 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/02/2026103122230050808"
+        },
+        {
+          "title": "“굿 바이! 잠실야구장” 선수·관객·직원, 그라운드 위의 다양한 청춘들...이별을 준비하는 72시간의 기록",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/m/index.html?source=mylovekbs&sname=mylovekbs&stype=blog&contents_id=70000000404079&section_id=10906"
+        },
+        {
+          "title": "\"44년의 역사 막 내린다\"… 잠실야구장 마지막 72시간 조명",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3740112"
         }
       ]
     }
