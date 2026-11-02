@@ -1,220 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-02T05:04:04+00:00",
+  "fetched_at": "2026-11-02T06:05:43+00:00",
   "items": [
     {
-      "title": "농업",
+      "title": "한진칼",
       "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 20:00:00 -0800",
+      "published": "Sun, 1 Nov 2026 21:00:00 -0800",
       "news": [
         {
-          "title": "[게시판] 농식품부, 4∼7일 대구서 '2026 국제농기계자재박람회'",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1186686"
+          "title": "호반, 한진칼 최대주주? 경영권 분쟁 시계제로",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/02/SN3N3CKNG5AJPF2X5RB3YJSTOA/"
         },
         {
-          "title": "미래 농업을 한눈에! 「2026 대한민국 국제농기계자재박람회」 개최",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=454577"
+          "title": "호반그룹, 한진칼 ’최대주주’ 등극…경영권 향방 주목 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2152867"
         },
         {
-          "title": "농부 일손 돕는 AI·로봇 한자리에…국제농기계박람회 4일 개막 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/11/02/2026110210115845191"
+          "title": "한진칼 최대주주 올라선 호반그룹…조원태 경영권은 또 안갯속",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/02/2026110280113.html"
         }
       ]
     },
     {
-      "title": "철원",
-      "approx_traffic": "100+",
-      "published": "Sun, 1 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "[속보] 육군 “강원도 철원 소재 전방 부대서 하사 1명 외상입고 사망”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611021114001"
-        },
-        {
-          "title": "육군 \"강원 철원 전방부대 하사 1명 외상 입고 사망\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102114428ACT"
-        },
-        {
-          "title": "[속보] 강원 철원 전방 부대서 부사관 숨진 채 발견",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261102580145"
-        }
-      ]
-    },
-    {
-      "title": "로스앤젤레스 fc 대 미네소타 유나이티드 fc 순위",
-      "approx_traffic": "50000+",
-      "published": "Sun, 1 Nov 2026 19:50:00 -0800",
-      "news": [
-        {
-          "title": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…PO 상위 시드 불발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102091400007"
-        },
-        {
-          "title": "손흥민 선발 풀타임에도 '대참사' LAFC, 12위 미네소타에 1-3 완패...전반에만 2골 허용→후반 추가골까지 '속수무책'",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112902576"
-        },
-        {
-          "title": "[MLS REVIEW] '손흥민 3경기 연속 침묵→LAFC 대참사!' 하위권 미네소타에 1-3 충격패…PO 홈 어드밴티지 확보도 실패",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016989"
-        }
-      ]
-    },
-    {
-      "title": "부평구",
+      "title": "보안",
       "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 19:50:00 -0800",
+      "published": "Sun, 1 Nov 2026 20:50:00 -0800",
       "news": [
         {
-          "title": "인천 부평구, ‘재개발·재건축 원스톱 지원센터’ 신설 박차… 현장 소통 강화",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353607"
+          "title": "해킹 퇴치 방패부터 로봇팔까지… 부산서 사이버보안 맞붙는다",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110214490035788"
         },
         {
-          "title": "부평구, 내년 '재개발·재건축 원스탑 지원센터' 신설",
+          "title": "주택금융공사, '2026 부산 사이버보안 콘퍼런스' 공동 개최",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261102000202"
+        },
+        {
+          "title": "부산시, 4~5일 '사이버보안 콘퍼런스'…AI 보안 위협 대응 논의",
           "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739290"
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739558"
         }
       ]
     },
     {
-      "title": "과태료",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 19:40:00 -0800",
+      "title": "조경태",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 20:50:00 -0800",
       "news": [
         {
-          "title": "\"과태료 부과했다\"…택시민원 허위종결한 부평구 공무원 해임",
-          "source": "KBC광주방송",
-          "url": "https://www.ikbc.co.kr/article/view/kbc202611020013"
-        },
-        {
-          "title": "택시 민원 전산기록 조작한 부평구 공무원 해임…공소청 송치",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261102580018"
-        },
-        {
-          "title": "택시 요금 민원에 \"과태료 부과했다\" 거짓 답변… 전 공무원, 공소청 송치",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/incident/2026/11/02/S632BMNXQRG2XKDKR3MX5AS5XI/"
-        }
-      ]
-    },
-    {
-      "title": "yaxel lendeborg",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 19:40:00 -0800",
-      "news": [
-        {
-          "title": "Yaxel Lendeborg joins Warriors legends Steph Curry, Wilt Chamberlain with 37-point night",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/7746646/2026/11/01/yaxel-lendeborg-37-points-steph-curry-wilt-chamberlain-warriors-rookie/"
-        },
-        {
-          "title": "\"As you get older, you start to understand\" - Aaron Gordon admits he got caught up in NBA materialism early in his career",
-          "source": "Basketball Network",
-          "url": "https://www.basketballnetwork.net/off-the-court/aaron-gordon-admits-he-got-caught-up-in-nba-materialism-early-in-his-career"
-        },
-        {
-          "title": "Stephen Curry and Yaxel Lendeborg have immediate chemistry",
-          "source": "NBA.com",
-          "url": "https://www.nba.com/watch/video/stephen-curry-and-yaxel-lendeborg-chemistry-mix"
-        }
-      ]
-    },
-    {
-      "title": "lakers vs raptors",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 19:40:00 -0800",
-      "news": [
-        {
-          "title": "Luka Doncic posts insane numbers never before seen in NBA history in Lakers win",
-          "source": "BasketNews.com",
-          "url": "https://basketnews.com/news-258653-luka-doncic-posts-insane-numbers-never-before-seen-in-nba-history-in-lakers-win.html"
-        },
-        {
-          "title": "3 Takeaways in Raptors Loss vs. Lakers",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/nba/raptors/onsi/3-takeaways-in-raptors-loss-vs-lakers"
-        },
-        {
-          "title": "Lakers 131-125 Raptors (Nov 1, 2026) Game Recap",
-          "source": "ESPN",
-          "url": "https://www.espn.com/nba/recap?gameId=401909906"
-        }
-      ]
-    },
-    {
-      "title": "중대범죄 수사청",
-      "approx_traffic": "2000+",
-      "published": "Sun, 1 Nov 2026 19:30:00 -0800",
-      "news": [
-        {
-          "title": "깐깐해진 공소청 검사, 이삿짐 덜 푼 중수청, 수사 늪에 빠진 경찰",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/11/02/L3ACB4PKOZBIBDC75XP454VQ3A/"
-        },
-        {
-          "title": "보완수사 요구 49% 늘어난 경기남부청…수사 초임 인력 약 10%",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102087700061"
-        },
-        {
-          "title": "[개정 형소법 한달]‘검사가 손 댄’ 증거는 재판에서 못 쓴다?···뺑뺑이 도는 피해자, 꼬여가는 형사재판",
+          "title": "[속보]이 대통령 “30년 만에 IMF 졸업···K자 성장 극복은 새 성장 공식으로”",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611020600111"
-        }
-      ]
-    },
-    {
-      "title": "주식시장",
-      "approx_traffic": "10000+",
-      "published": "Sun, 1 Nov 2026 19:20:00 -0800",
-      "news": [
-        {
-          "title": "주식 매도대금 하루 일찍 받는다…'T+1' 도입 로드맵 공개",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/general-stock/6339623"
+          "url": "https://www.khan.co.kr/article/202611021017001"
         },
         {
-          "title": "주식 결제 ‘T+1’로…묶인 자금 풀고 증시 효율 높인다",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261102500588"
-        },
-        {
-          "title": "증권시장 결제주기 단축 로드맵 발표...2028년 중 시행 목표",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611021102287860"
-        }
-      ]
-    },
-    {
-      "title": "이동건",
-      "approx_traffic": "2000+",
-      "published": "Sun, 1 Nov 2026 19:20:00 -0800",
-      "news": [
-        {
-          "title": "제주 카페 왜 문 닫았나 했더니…이동건, 결국 서울로 옮긴다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611029090H"
-        },
-        {
-          "title": "\"소문에 망했다던데\" 이동건, 제주도 카페 1년 6개월 만에 문 닫은 이유",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6339540"
-        },
-        {
-          "title": "이동건, 제주카페 폐업 이유 밝혔다 \"너무 힘들어\"",
+          "title": "국회 예결특위원장과 대화 나누는 조정식 국회의장",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261101_0003850014"
+          "url": "https://mobile.newsis.com/photo/NISI20261102_0021515336"
+        },
+        {
+          "title": "\"모두의 성장 대전환\"‥'821조' 예산안 협조 요청",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6862498_36974.html"
+        }
+      ]
+    },
+    {
+      "title": "수원삼성",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 20:50:00 -0800",
+      "news": [
+        {
+          "title": "수원 삼성 3년 만의 승격 보인다!…매직넘버 ‘1’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700604"
+        },
+        {
+          "title": "K리그2 수원, 대구와 무승부...3년 만의 1부 승격 확정 다음 주로",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610312323090902"
+        },
+        {
+          "title": "수원 삼성, 승격잔치 다음에...수원FC는 자동 승격 유리한 고지 점령",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363741103"
+        }
+      ]
+    },
+    {
+      "title": "기인",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 20:30:00 -0800",
+      "news": [
+        {
+          "title": "춘길X장혜리, 연습실 문까지 잠갔다…핑크빛 폭발 커플 요가 (천만기인쇼)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261102/134947673/1"
+        },
+        {
+          "title": "‘천만기인쇼’ 표창원 파격 변신에 춘길·장혜리 묘한 기류… 195점 기록 깨질까",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3445033"
+        },
+        {
+          "title": "춘길, 장혜리와 묘한 핑크빛 기류? 수위부터 남다른 '커플 요가' 포착 (천만기인쇼)",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/11/02/MMZTIMZYME3WINDDGFRTKZBXMQ/"
+        }
+      ]
+    },
+    {
+      "title": "정년 연장",
+      "approx_traffic": "5000+",
+      "published": "Sun, 1 Nov 2026 20:20:00 -0800",
+      "news": [
+        {
+          "title": "'박애'를 흔드는 프랑스 연금 갈등[투데이窓/박경덕] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/opinion/2026/11/02/2026110110081316176"
+        },
+        {
+          "title": "“임금 삭감·촉탁직 재고용 말고, 65세 온전한 정년연장 입법하라”",
+          "source": "https://www.ilabor.org/",
+          "url": "https://www.ilabor.org/news/articleView.html?idxno=12450"
+        },
+        {
+          "title": "정년연장, 나이만 올리면 끝?…임금·연금·퇴직 등 통합 설계해야\"[만났습니다②]",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01666246645618168&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "title": "신의 구슬",
+      "approx_traffic": "2000+",
+      "published": "Sun, 1 Nov 2026 20:20:00 -0800",
+      "news": [
+        {
+          "title": "안보현·이성민, 세대 뛰어넘는 특별한 전우호흡 예고…든든한 투샷(‘신의 구슬’)",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112902607"
+        },
+        {
+          "title": "‘신의 구슬’ 안보현·이성민, 관음보주 호송 작전서 맞선다… 첫 투샷 공개",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3445062"
+        },
+        {
+          "title": "'신의 구슬' 안보현·이성민, 관음보주 호송대 이끈다…세대 초월 전우 호흡",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523182"
+        }
+      ]
+    },
+    {
+      "title": "당구",
+      "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "경복당구회, ‘창립 20주년 기념 당구축제’ 성황리 마무리",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261102/134950261/1"
+        },
+        {
+          "title": "경복당구회 20주년 축제…동문 170명 참가 : 스포츠",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1065270"
+        },
+        {
+          "title": "'2026 진주시당구연맹회장배 3쿠션 당구대회' 열려",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739380"
+        }
+      ]
+    },
+    {
+      "title": "손태영",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "손태영, 미국서 아들 시집살이…\"스트레스 확 올라와\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850414"
+        },
+        {
+          "title": "손태영 “시어머니도 아니고 아들 시집살이”…룩희 때문에 스트레스",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261101/134946031/1"
+        },
+        {
+          "title": "\"이모님 쓴적 없다\"... 손태영, 17살 아들 시집살이 고백 \"시母도 아닌데 스트레스\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/GZRTIMJQMM4TSNZRHFRWEM3FG4/"
+        }
+      ]
+    },
+    {
+      "title": "농업",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 20:00:00 -0800",
+      "news": [
+        {
+          "title": "대동, 역대 최대 규모 키엠스타 참가…AI트랙터·신형 농업드론 공개 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/11/02/2026110213391627658"
+        },
+        {
+          "title": "대동, 국제농기계자재 박람회 참가…역대 최대 규모 전시장 마련",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1186824"
+        },
+        {
+          "title": "딸기 따는 휴머노이드부터 자율주행 농기계까지…대구서 만난다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850389"
         }
       ]
     }
