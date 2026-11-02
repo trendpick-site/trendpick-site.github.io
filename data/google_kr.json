@@ -1,8 +1,184 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-02T08:44:01+00:00",
+  "fetched_at": "2026-11-02T10:09:16+00:00",
   "items": [
+    {
+      "title": "김장훈",
+      "approx_traffic": "1000+",
+      "published": "Mon, 2 Nov 2026 00:30:00 -0800",
+      "news": [
+        {
+          "title": "'64세' 김장훈, 국민연금 예상액 듣고 깜짝 \"그렇게 많이 줘요?\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850381"
+        },
+        {
+          "title": "미운 우리 새끼 : [11월 8일 예고] 김장훈×이소라, 이제서야 풀어보는 그 시절 이야기★ (ft. 열애설)",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC482710047?div=live_end"
+        },
+        {
+          "title": "64세 김장훈, 57세 이소라와 열애설 났었다 “심지어 손 잡고 가”(‘미우새’)",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261101173638143"
+        }
+      ]
+    },
+    {
+      "title": "신영우",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 00:30:00 -0800",
+      "news": [
+        {
+          "title": "두산 최민석·NC 신영우, 팔꿈치 부상으로 APBC 대표팀 낙마",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102084200007"
+        },
+        {
+          "title": "태극마크 불발 충격! '스무살' 14승 우완 팔꿈치 탈났다, 부상 어느 정도인가 \"염좌 증세, 日서 회복 훈련 전념\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/02/MQYDMZBQGIYDIMBVMRRTGOBUME/"
+        },
+        {
+          "title": "김태균·오승환 APBC 인스트럭터 합류…최민석·신영우 부상 낙마(종합)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6339905"
+        }
+      ]
+    },
+    {
+      "title": "현대 제네시스",
+      "approx_traffic": "500+",
+      "published": "Mon, 2 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "현대차 생산라인 또 멈췄다…G80 신차 투입 인력 놓고 노사 충돌 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/02/2026110214030671642"
+        },
+        {
+          "title": "신차 투입 갈등에 제네시스 생산 차질…노조, 재개 여부 논의(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102116051057"
+        },
+        {
+          "title": "1.1조 물량 손실에 판매목표까지 낮췄는데⋯ 투싼 발목 잡은 현대차 노조, G80도 멈췄다",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261102501016"
+        }
+      ]
+    },
+    {
+      "title": "원익홀딩스",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "원익홀딩스, 삼성 P5 투자 가시화 '직수혜'…'휴머노이드 핵심' 로봇핸드 성장성까지 '주목'",
+          "source": "프라임경제",
+          "url": "https://m.newsprime.co.kr/section_view.html?no=753179&menu=1"
+        },
+        {
+          "title": "[리포트 브리핑]원익홀딩스, '실적개선(반도체)과 성장성(로봇)의 조화' Not Rated - iM증권",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261102001323"
+        },
+        {
+          "title": "원익홀딩스 주가 32% 상승…최원범 2위 도약 : 한국증시",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1065794"
+        }
+      ]
+    },
+    {
+      "title": "홋카이도 닛폰햄 파이터스",
+      "approx_traffic": "500+",
+      "published": "Mon, 2 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "'NPB 4년 최대 537억 잭팟 터졌다' 레이예스, 닛폰햄과 역사적 초대형 계약 합의",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202611020108"
+        },
+        {
+          "title": "일본 가서 대박났네! 프란밀 레이예스, 닛폰햄과 4년 4000만$, 리그 최고 대우 계약 연장",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12193479"
+        },
+        {
+          "title": "2019년 기쿠치 보고 동경…1년 전 포스팅 실패, 해외 FA로 다시 MLB 도전?",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202611020050"
+        }
+      ]
+    },
+    {
+      "title": "박수현",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "아침 7시, 동네 빵집 갔더니 “어디서 많이 본 사람인데”···도지사가 ‘첫 손님’ 된 이유",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611021012001"
+        },
+        {
+          "title": "박수현 \"국방기관 14곳 논산·계룡 유치 총력…국방수도 육성\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102142700063"
+        },
+        {
+          "title": "박수현 충남지사 ’소상공인 기 살리기 프로젝트’ 착수…소상공인 응원",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102101504LSK"
+        }
+      ]
+    },
+    {
+      "title": "샘스미스",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "샘 스미스, ‘망사스타킹+브래지어’ 파격 변신…“너무 예뻐 보인다”",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1646002"
+        },
+        {
+          "title": "샘 스미스, 초록 실크 가운·망사 스타킹 파격 패션 공개",
+          "source": "메디컬투데이",
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622438"
+        },
+        {
+          "title": "샘 스미스, 커밍아웃→약혼 후 근황…과감한 패션",
+          "source": "뉴스엔",
+          "url": "https://www.newsen.com/news_view.php?uid=202611020806270410"
+        }
+      ]
+    },
+    {
+      "title": "코스피",
+      "approx_traffic": "5000+",
+      "published": "Mon, 2 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "코스피 하락 출발 후 2.2% 반등...'인텔 쇼크' 버텼다",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611021621389187"
+        },
+        {
+          "title": "개인 1.8조 팔 때 기관이 받았다…연기금 이틀 새 1조 '안전판' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/02/2026110216034248456"
+        },
+        {
+          "title": "[증시-마감] 美·이란 기대감에 코스피 2%대 상승…기관 순매수",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442573"
+        }
+      ]
+    },
     {
       "title": "k리그",
       "approx_traffic": "200+",
@@ -19,177 +195,17 @@
           "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99838"
         },
         {
-          "title": "[K리그2 기자회견] 이정효 감독 \"7연승? 2부에서 기록 무의미해…우린 1부 올라갈 거다, 얼마 안 남았다\"",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20261025n11271?issue_sq=10989"
+          "title": "\"눈이 부어올라 보이질 않는다는데...\" 끝내 예기치 못한 선수 교체→아쉬움 토로한 김해운 감독 [성남 현장]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/sports/2026/10/25/2026102512421832638"
         }
       ]
     },
     {
       "title": "고령화",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sun, 1 Nov 2026 23:30:00 -0800",
       "news": []
-    },
-    {
-      "title": "서울 지하철 7호선",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 23:20:00 -0800",
-      "news": [
-        {
-          "title": "2호선 단전으로 서초역∼종합운동장역 한때 운행차질",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261101046700004"
-        },
-        {
-          "title": "\"7호선 열차 전면 중단\"...승객들 전부 하차한 지연 사태의 원인 [자막뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611020837523841"
-        },
-        {
-          "title": "서울 지하철 7호선 고장···1시간 넘게 상행선 운행 지연",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611011405001"
-        }
-      ]
-    },
-    {
-      "title": "시체",
-      "approx_traffic": "20000+",
-      "published": "Sun, 1 Nov 2026 22:20:00 -0800",
-      "news": [
-        {
-          "title": "아산 오폐수장서 발견된 태아 시신...“낳은 줄도 몰랐다”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261031580007"
-        },
-        {
-          "title": "산모 “낳은 줄 몰라”···아산 오폐수처리시설 태아 ‘출생 전 사산’ 범죄 혐의 없어 종결",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610302215001"
-        },
-        {
-          "title": "오수처리장 '20㎝ 태아' 시신...범죄 아니다? 혐의점 없어 '종결' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/31/2026103022515618610"
-        }
-      ]
-    },
-    {
-      "title": "전자팔찌",
-      "approx_traffic": "2000+",
-      "published": "Sun, 1 Nov 2026 22:10:00 -0800",
-      "news": []
-    },
-    {
-      "title": "제트기",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 22:10:00 -0800",
-      "news": [
-        {
-          "title": "\"곧 지면 충돌\" 교신 뒤 수직으로 주택가에‥美 플로리다 '제트기 참사'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6862461_36925.html"
-        },
-        {
-          "title": "‘슈웅- 쾅!’ 블랙박스에 찍힌 美 제트기 추락 순간 [현장영상]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701566"
-        },
-        {
-          "title": "美 플로리다주 제트기 추락 사고…탑승자 전원 사망",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611020948124Mt"
-        }
-      ]
-    },
-    {
-      "title": "김도영",
-      "approx_traffic": "5000+",
-      "published": "Sun, 1 Nov 2026 22:00:00 -0800",
-      "news": [
-        {
-          "title": "두산 최민석·NC 신영우, 팔꿈치 부상으로 APBC 대표팀 낙마",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102084200007"
-        },
-        {
-          "title": "'잔인한 운명' KS 멤버, 부상자 제외→APBC 투수 최종 탈락은 단 1명뿐…최원호 감독 \"경기 못 뛰어도 끝까지 동행\" [오!쎈 대전]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/11/02/HA4DINRVMNQTGOBQGQZDAZLBGI/"
-        },
-        {
-          "title": "김태균·오승환 APBC 인스트럭터 합류…최민석·신영우 부상 낙마(종합)",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6339905"
-        }
-      ]
-    },
-    {
-      "title": "황사",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 22:00:00 -0800",
-      "news": [
-        {
-          "title": "내일 아침에 패딩 꺼내야 하나···최저 기온 ‘0도’ 쌀쌀, 경기·강원 얼음 언다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611021559001"
-        },
-        {
-          "title": "서울에 '11월 황사' 6년만…수도권·서해안 미세먼지 '나쁨'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102108300530"
-        },
-        {
-          "title": "[날씨] 내일 출근길 반짝 추위…일교차 15도 안팎 커",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261102161028l50"
-        }
-      ]
-    },
-    {
-      "title": "암표",
-      "approx_traffic": "500+",
-      "published": "Sun, 1 Nov 2026 21:50:00 -0800",
-      "news": [
-        {
-          "title": "프로야구 한국시리즈 입장권 '110배' 부풀려 판매‥매크로 암표상 검거",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862448_36918.html"
-        },
-        {
-          "title": "한 총리 \"한국시리즈 티켓, 정가 110배에 판 일당 잡혀…암표 팔면 잡힙니다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261102_0003851600"
-        },
-        {
-          "title": "한국시리즈 표 한 장에 893만원…암표로 22억 챙긴 일당 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/02/2026110214242068189"
-        }
-      ]
-    },
-    {
-      "title": "선박",
-      "approx_traffic": "5000+",
-      "published": "Sun, 1 Nov 2026 21:40:00 -0800",
-      "news": [
-        {
-          "title": "국립한국해양대 \"자율운항선박 상황인지 시스템 표준개발 주도\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102130000051"
-        },
-        {
-          "title": "부산항만공사, 글로벌 항만 AI 협력 논의…부산항 디지털 전환 가속화",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261102500850"
-        },
-        {
-          "title": "BPA, 글로벌 디지털 협의체 ‘체인포트’ 정기총회 참석",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1709602/BPA-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%94%94%EC%A7%80%ED%84%B8-%ED%98%91%EC%9D%98%EC%B2%B4-%E2%80%98%EC%B2%B4%EC%9D%B8%ED%8F%AC-2026"
-        }
-      ]
     }
   ]
 }
