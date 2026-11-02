@@ -1,66 +1,198 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-02T01:06:50+00:00",
+  "fetched_at": "2026-11-02T02:08:23+00:00",
   "items": [
+    {
+      "title": "골든 스테이트 대 la 클리퍼스",
+      "approx_traffic": "1000+",
+      "published": "Sun, 1 Nov 2026 17:00:00 -0800",
+      "news": [
+        {
+          "title": "Steph Curry, Draymond Green ruled out for front end of Warriors' back-to-back",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/steph-curry-draymond-green-ruled-144308312.html"
+        },
+        {
+          "title": "Clippers Injury Report vs. Warriors: Are Brandon Ingram & Steph Curry Playing?",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/nba/clippers/onsi/clippers-injury-report-warriors-brandon-ingram-steph-curry-playing-01m6cjjhwna5"
+        },
+        {
+          "title": "With Steph Curry out, Yaxel Lendeborg could be key for Warriors",
+          "source": "KNBR",
+          "url": "https://www.thesportsleader.com/2026/10/31/with-steph-curry-out-yaxel-lendeborg-could-be-key-for-warriors/"
+        }
+      ]
+    },
+    {
+      "title": "영광",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 16:50:00 -0800",
+      "news": [
+        {
+          "title": "영광군, 착한가격업소 이용 시 영광사랑카드 혜택 확대",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420584"
+        },
+        {
+          "title": "한춘옥 특별시의원, “공공요금 심의 및 물가안정 기반 마련” > 뉴스",
+          "source": "더코리아",
+          "url": "https://www.thekorea.kr/567691"
+        }
+      ]
+    },
+    {
+      "title": "한남더힐 아파트",
+      "approx_traffic": "500+",
+      "published": "Sun, 1 Nov 2026 16:40:00 -0800",
+      "news": [
+        {
+          "title": "옥주현의 190억 한남더힐, 왜 경매에 넘어갔을까",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849898"
+        },
+        {
+          "title": "옥주현, '190억'에 산 한남동 고급주택 '경매' 넘어간 이유..\"M&A 절차\" [공식]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/GMYGEZJQHFTDMYJSGNSWMZBUMI/"
+        },
+        {
+          "title": "'190억' 신고가에 산 지 6개월 만에…옥주현 아파트 무슨 일",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610293897H"
+        }
+      ]
+    },
+    {
+      "title": "t 멤버십",
+      "approx_traffic": "200+",
+      "published": "Sun, 1 Nov 2026 16:40:00 -0800",
+      "news": [
+        {
+          "title": "늦가을의 특별한 즐거움, 11월 T 멤버십 혜택 총정리",
+          "source": "SK텔레콤 뉴스룸",
+          "url": "https://news.sktelecom.com/232556"
+        },
+        {
+          "title": "파파존스, KT 멤버십 고객에 방문 포장 50% 할인 혜택",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261102000129"
+        },
+        {
+          "title": "수능 끝나면 KT가 커피 쏜다…11월 멤버십 혜택 공개",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849621"
+        }
+      ]
+    },
+    {
+      "title": "삼성증권",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 16:40:00 -0800",
+      "news": [
+        {
+          "title": "삼성증권, 올해 IPO 주관 1위 노리나…3분기 누적 '선두' 올라",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442401"
+        },
+        {
+          "title": "삼성 선두에 미래에셋·NH 추격…연말 IPO 주관 순위 경쟁 가열",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03086486645641456"
+        },
+        {
+          "title": "[IPO 주관사 점검] [삼성증권] 올해 주관금액 1등…기술기업 '러브콜'",
+          "source": "DealSite경제TV",
+          "url": "https://news.dealsitetv.com/articles/177807"
+        }
+      ]
+    },
+    {
+      "title": "november",
+      "approx_traffic": "100+",
+      "published": "Sun, 1 Nov 2026 16:30:00 -0800",
+      "news": [
+        {
+          "title": "A taste of late-season warmth for the first week of November",
+          "source": "WTNH.com",
+          "url": "https://www.wtnh.com/weather/a-sunny-and-seasonable-first-sunday-of-november/"
+        },
+        {
+          "title": "First week of November weather forecast",
+          "source": "KATU",
+          "url": "https://katu.com/news/local/first-week-of-november-weather-forecast"
+        },
+        {
+          "title": "Widespread, heavy rain to kick off November",
+          "source": "KEYC News Now",
+          "url": "https://www.keyc.com/2026/10/31/widespread-heavy-rain-kick-off-november/"
+        }
+      ]
+    },
     {
       "title": "한국투자증권",
       "approx_traffic": "100+",
       "published": "Sun, 1 Nov 2026 15:50:00 -0800",
       "news": [
         {
-          "title": "한국투자증권, MTS 대규모 업데이트…연금자산 통합 조회 등",
-          "source": "아시아경제",
-          "url": "https://core.asiae.co.kr/article/2026110209482863028"
+          "title": "한투증권, MTS 업데이트…\"연금자산 통합조회·관심종목 개편\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102063400008"
         },
         {
-          "title": "한국투자증권, 연금 조회부터 배당 재투자까지..MTS 투자 편의성 강화",
-          "source": "한국정경신문",
-          "url": "https://kpenews.com/View.aspx?No=4292755"
+          "title": "한국투자증권, MTS 개편…편의성 대폭 확대",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102103557dz4"
+        },
+        {
+          "title": "[여의도단신]한국투자증권·신한투자증권·우리투자증권",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026110210251634115"
         }
       ]
     },
     {
       "title": "교도소",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sun, 1 Nov 2026 15:40:00 -0800",
       "news": [
         {
-          "title": "'이게 다 교도소 덕분'…소멸 위기 시골마을에 2040 몰렸다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026110185811"
+          "title": "[속보] “세금으로 먹고 자는데?”…교도소·구치소 수용자에 민생지원금 ‘73억’ 지급",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261102580032"
         },
         {
-          "title": "의성군의회, 교정시설 유치에 만장일치…지역 재도약 승부수",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110111205744677"
+          "title": "수감 중에도 민생지원금 받았다…지원 규모 73억원 이상 추산",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6339546"
         },
         {
-          "title": "보은군 4일 교정시설 유치제안서 제출",
-          "source": "충청매일",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1108164"
+          "title": "[단독]교도소 7만명 민생지원금 수령…“숙식 제공받는데 맞나” 지적",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261102/134946979/2"
         }
       ]
     },
     {
       "title": "뉴잉글랜드 대 인터 마이애미",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sun, 1 Nov 2026 15:30:00 -0800",
       "news": [
         {
-          "title": "New England vs. Miami (Nov 1, 2026) Team Stats",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/team-stats/_/gameId/761932/league/usa.1"
+          "title": "Inter Miami name XI for New England trip, final away game of regular season",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/en/news/inter-miami-name-xi-for-new-england-trip-final-away-game-of-regular-season-43710859"
         },
         {
-          "title": "Celtics vs. Magic (2 Nov, 2026) Live Score",
-          "source": "ESPN Philippines",
-          "url": "https://www.espn.ph/nba/game?gameId=401909903"
+          "title": "Starting Lineups (November 1) | Revolution vs. Inter Miami CF",
+          "source": "revolutionsoccer.net",
+          "url": "https://www.revolutionsoccer.net/news/starting-lineups-november-1-revs-vs-inter-miami-cf"
         },
         {
-          "title": "Sveindís Jane Jónsdóttir scores in the 72'",
-          "source": "ESPN",
-          "url": "https://www.espn.com/video/clip/_/id/50352897/sveindis-jane-jonsdottir-scores-72"
+          "title": "%*[[[SPORT TV>]* Miami vs. New England LIVE Free Broadcast ON Tv Channel 01 November ２０２6",
+          "source": "Pierce Manufacturing",
+          "url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-miami-vs-new-england-match-lie-nwdtumy"
         }
       ]
     },
@@ -83,138 +215,6 @@
           "title": "[사진]기쁨 나누는 원태인과 구자욱",
           "source": "OSEN",
           "url": "https://www.osen.co.kr/article/G1112902324"
-        }
-      ]
-    },
-    {
-      "title": "영감의 샘터",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 15:30:00 -0800",
-      "news": [
-        {
-          "title": "\"월세 지원에 주 4일 근무까지\"…이찬혁이 만든 기획사 파격 복지",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01859766645641456&mediaCodeNo=257"
-        },
-        {
-          "title": "'악뮤' 이찬혁-수현 남매, 북악산 뷰 3층집 공개 \"동거는 계속할 듯\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/01/2026110107275391684"
-        },
-        {
-          "title": "‘주4일+월세 지원’ 꿈의 직장인데..‘소속사 대표’ 악뮤 “성 겹치면 입사 불가” ('전참시')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MRTDCNJTGE2GCODEHFSDQMLEMI/"
-        }
-      ]
-    },
-    {
-      "title": "레이더",
-      "approx_traffic": "2000+",
-      "published": "Sun, 1 Nov 2026 15:10:00 -0800",
-      "news": [
-        {
-          "title": "이란, 미군의 ‘눈’부터 노렸다… 5억 달러 사드 레이더 파괴",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/11/02/VJQY3ANA6JDUZO7PXL7454SDOY/"
-        },
-        {
-          "title": "“미군기지 26곳 이란 공격에 수십억불 피해…레이더 우선표적”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700672"
-        },
-        {
-          "title": "\"이란, 美와 전쟁서 중동 美기지 26곳 타격…수십억 달러 피해\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/usa-canada/6339032"
-        }
-      ]
-    },
-    {
-      "title": "키미 안토넬리",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 15:10:00 -0800",
-      "news": [
-        {
-          "title": "20세 안토넬리, 역사를 썼다…F1 최연소 드라이버 챔피언 등극",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261101163401368"
-        },
-        {
-          "title": "키미 안토넬리, 메르세데스 F1 W16과 멕시코시티 그랑프리서 포즈",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738646"
-        },
-        {
-          "title": "키미 안토넬리, 미국 그랑프리 우승으로 월드 챔피언십 장악력 강화",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/10/f1-kimi-antonelli-tightens-grip-world-championship-following-united-states-grand-prix-triumph"
-        }
-      ]
-    },
-    {
-      "title": "aapl",
-      "approx_traffic": "200+",
-      "published": "Sun, 1 Nov 2026 15:10:00 -0800",
-      "news": [
-        {
-          "title": "Apple Diverges From Magnificent 7 as Options Point to Jump to $355 After Earnings",
-          "source": "Benzinga",
-          "url": "https://www.benzinga.com/markets/equities/26/11/62766171/apple-stock-diverges-from-magnificent-7-as-options-point-to-a-jump-to-355-after-earnings"
-        },
-        {
-          "title": "What analysts expect from Apple's Q4 2026 results on November 2",
-          "source": "AppleInsider",
-          "url": "https://appleinsider.com/articles/26/11/01/what-to-expect-from-apples-q4-2026-results-on-november-2"
-        },
-        {
-          "title": "Apple’s new earnings era begins at a critical time for Big Tech",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e"
-        }
-      ]
-    },
-    {
-      "title": "2027년 afc 아시안컵",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 15:00:00 -0800",
-      "news": [
-        {
-          "title": "'한국 축구 초대형 변수' 손흥민 라스트댄스 어쩌나...'64년만의 우승 도전' 2027 아시안컵, 끝내 연기 가능성 높다",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016931"
-        },
-        {
-          "title": "\"아시안컵 사실상 연기 결정\" AFC 내부 관계자 정보... 日언론 \"내년 1월→12월 변경, 조만간 공식 발표\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/02/2026110207482649879"
-        },
-        {
-          "title": "사우디 아시안컵 1년 연기 가능성…손흥민 '라스트 댄스' 변수",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261102000017"
-        }
-      ]
-    },
-    {
-      "title": "홍지선",
-      "approx_traffic": "1000+",
-      "published": "Sun, 1 Nov 2026 15:00:00 -0800",
-      "news": [
-        {
-          "title": "“김포가 주택공급 호구냐”…3만7천 호 신규택지 발표에 SNS 민심 ‘부글부글’",
-          "source": "중부일보",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363741088"
-        },
-        {
-          "title": "국힘 의정부갑·을 \"다락원 공공주택지구 추진 즉각 중단하라\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261102_0003850386"
-        },
-        {
-          "title": "[사설] 경기지역 신규 택지 공급 기대되지만",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335636"
         }
       ]
     }
