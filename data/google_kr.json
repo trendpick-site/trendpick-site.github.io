@@ -1,8 +1,113 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-03T02:26:32+00:00",
+  "fetched_at": "2026-11-03T03:29:15+00:00",
   "items": [
+    {
+      "title": "유가증권",
+      "approx_traffic": "1000+",
+      "published": "Mon, 2 Nov 2026 18:20:00 -0800",
+      "news": [
+        {
+          "title": "코스피, 장 중 3%대 '뚝'… AI 수익성 우려에 美 기술주 급락 여파 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/03/2026110308482056384"
+        },
+        {
+          "title": "[특징주] 삼전·닉스, 美반도체주 약세에 장초반 5% 안팎 급락",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103043700008"
+        },
+        {
+          "title": "오늘의 국내 증시 개장 시황",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261103_0021516118"
+        }
+      ]
+    },
+    {
+      "title": "디에이치 반포124",
+      "approx_traffic": "500+",
+      "published": "Mon, 2 Nov 2026 18:10:00 -0800",
+      "news": [
+        {
+          "title": "11월 수도권 아파트 분양 예정 물량 1만9천851가구",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039530"
+        },
+        {
+          "title": "11월 서울 6605가구 분양…서초 대어급 정비사업 줄줄이 출격 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/11/02/2026110210290677939"
+        },
+        {
+          "title": "11월 경기·인천 수도권 분양 물량 ‘봇물’…철저한 자금 계획 필수",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261102580059"
+        }
+      ]
+    },
+    {
+      "title": "저기압",
+      "approx_traffic": "1000+",
+      "published": "Mon, 2 Nov 2026 18:00:00 -0800",
+      "news": [
+        {
+          "title": "제31호 태풍 '인파' 심상찮은 진로 변화…한반도 영향 미칠까",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261101580312"
+        },
+        {
+          "title": "[뉴스초점] 비 내리고 또 기온 뚝…일본 향하는 태풍 '인파'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20261101010400038"
+        },
+        {
+          "title": "강도 4 태풍 '인파' 경로 바뀐다…일본 남쪽서 다시 북상",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02876566645618496&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "title": "lg디스플레이",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 18:00:00 -0800",
+      "news": [
+        {
+          "title": "LG디스플레이, DMZ 두루미 서식지 조성 나선다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611031059001"
+        },
+        {
+          "title": "LG디스플레이, 국립생태원과 파주사업장 주변 생태계 보전 추진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103040600003"
+        },
+        {
+          "title": "LG디스플레이, 생물다양성 보전을 위한 업무협약 체결",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261103000057"
+        }
+      ]
+    },
+    {
+      "title": "춘천 마라톤",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 17:20:00 -0800",
+      "news": [
+        {
+          "title": "금주·노카페인·턱걸이… 노력했지만 서브스리 실패",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/03/GHA2PLGXTJHPBD7EVL6LCGBOM4/"
+        },
+        {
+          "title": "이승만·김구가 우승컵 기증…1회 춘마 그 시절 그 풍경",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/01/E7MGWDIXF5HORMWWXCDXLZF5NM/"
+        }
+      ]
+    },
     {
       "title": "상속세",
       "approx_traffic": "5000+",
@@ -71,16 +176,11 @@
     },
     {
       "title": "지밀 레니 얼",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Mon, 2 Nov 2026 16:50:00 -0800",
       "news": [
         {
-          "title": "BTS 지민 부친 카페, 내년 영업 종료",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261103_0003851902"
-        },
-        {
-          "title": "“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 문 닫는다",
+          "title": "“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 1년 뒤 문 닫는다",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954529/1"
         },
@@ -88,6 +188,11 @@
           "title": "BTS 지민父 카페, 돌연 폐업 예고…“내년 영업 종료”",
           "source": "문화일보",
           "url": "https://www.munhwa.com/article/11628280"
+        },
+        {
+          "title": "BTS 지민 부친 카페, 내년 영업 종료",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261103_0003851902"
         }
       ]
     },
@@ -110,111 +215,6 @@
           "title": "[세계車트] 수출로 버틴 중국차, 유럽선 물량 제한 변수…리튬 가격 뚝",
           "source": "지디넷코리아",
           "url": "https://zdnet.co.kr/view/?no=20261102181547"
-        }
-      ]
-    },
-    {
-      "title": "미스트롯4",
-      "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 16:00:00 -0800",
-      "news": [
-        {
-          "title": "'미스트롯4' 톱7, 서울 앙코르로 6개월 전국투어 마무리",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026110310272151628"
-        },
-        {
-          "title": "[트롯돋보기] 왕관의 무게 견딘 ‘미스트롯4’ 톱7… 논란마저 잠재운 6개월의 눈물",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12193856"
-        },
-        {
-          "title": "‘미스트롯4’ 서울 앙코르 성료…허찬미 오열→TOP7 눈물바다",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261102/134947791/1"
-        }
-      ]
-    },
-    {
-      "title": "말자쇼",
-      "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 16:00:00 -0800",
-      "news": [
-        {
-          "title": "김원효♥심진화, 영화관서 결혼한 이유…“아내 한마디 듣고 바로 전화”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954308/1"
-        },
-        {
-          "title": "정범균, 개그계 군기 폭로…\"김원효와 NG 냈는데 나만 뺨 맞아\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261103_0003852377"
-        },
-        {
-          "title": "김원효, ♥심진화와 이혼 위기 고백 “투자 실패로 전 재산 날려..간실히 잘 사는 중”",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/03/MIZTGYJWMQ4DCZDBGFRWKNRRHA/"
-        }
-      ]
-    },
-    {
-      "title": "래블업",
-      "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 16:00:00 -0800",
-      "news": [
-        {
-          "title": "[특징주] 영광, 코스닥 상장 첫날 26% 상승 마감(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102032651008"
-        },
-        {
-          "title": "'AI 소프트웨어' 래블업 주가 코스닥 상장 첫날 장중 공모가보다 13%대 올라",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450999"
-        },
-        {
-          "title": "[IPO] 영광YKMC, 차세대 EUV 등 영역 확장…\"올 매출 800억 달성\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261102120713"
-        }
-      ]
-    },
-    {
-      "title": "양주시",
-      "approx_traffic": "100+",
-      "published": "Mon, 2 Nov 2026 16:00:00 -0800",
-      "news": [
-        {
-          "title": "\"창원이 복지 도시다\" … 창원특례시, '창원복지 들썩들썩! Talk' 행사 열어",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110221093996269"
-        },
-        {
-          "title": "강기윤 창원시장 \"시민이 체감하는 복지정책 추진\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261102001627"
-        }
-      ]
-    },
-    {
-      "title": "리센느 컴백",
-      "approx_traffic": "100+",
-      "published": "Mon, 2 Nov 2026 16:00:00 -0800",
-      "news": [
-        {
-          "title": "[Y초점] 밈으로 떴지만, 음악은 이미 달랐다…리센느가 기대되는 이유",
-          "source": "YTN star",
-          "url": "https://star.ytn.co.kr/_sn/0117_202611030930289185"
-        },
-        {
-          "title": "일방통행 아닌 쌍방향 호흡…리센느가 새 앨범 ‘PULSE’에 심은 유대 서사",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261103/134954927/1"
-        },
-        {
-          "title": "리센느, 머스크 향 품고 오늘(3일) 컴백..정주행의 시간",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/03/GY4DOZJZGEZDIZBYMMYTEMZZMU/"
         }
       ]
     }
