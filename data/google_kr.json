@@ -1,8 +1,96 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-03T18:24:11+00:00",
+  "fetched_at": "2026-11-03T19:31:43+00:00",
   "items": [
+    {
+      "title": "배추",
+      "approx_traffic": "200+",
+      "published": "Tue, 3 Nov 2026 09:50:00 -0800",
+      "news": [
+        {
+          "title": "쪽파는 갈아엎고 배추는 풍작…김장물가 전망은?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702998"
+        },
+        {
+          "title": "김장철 농수산물 최대 50% 할인",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611032048035"
+        },
+        {
+          "title": "최대 반값! 김장재료 6종 저렴하게! '농산물 착한가격 프로젝트'",
+          "source": "서울특별시",
+          "url": "https://mediahub.seoul.go.kr/archives/2019910"
+        }
+      ]
+    },
+    {
+      "title": "경기신용보증재단",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 09:40:00 -0800",
+      "news": [
+        {
+          "title": "법인·공동대표도 이제 스마트폰으로…경기신보 ‘이지원’ 문턱 낮췄다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261103/134958768/1"
+        },
+        {
+          "title": "우리은행, 납품 전 생산단계부터 지원하는 공급망금융 대출 출시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103053100002"
+        },
+        {
+          "title": "“물건 납품 전 발주만 받아도 대출”…우리은행, 중소기업에 2000억원 지원",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1187637"
+        }
+      ]
+    },
+    {
+      "title": "grok",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 09:40:00 -0800",
+      "news": [
+        {
+          "title": "Elon Musk Says Grok Bot Costs Were ‘Unsustainably High’ Amid Complaints Over Usage Limits",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/11/02/musk-says-grok-bots-costs-were-unsustainably-high-weeks-after-touting-rapid-growth/"
+        },
+        {
+          "title": "Musk is throttling Grok because its cost is 'unsustainably high'",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/article/musk-is-throttling-grok-because-its-cost-is-unsustainably-high-162959909.html"
+        },
+        {
+          "title": "AI firms ration usage as losses mount",
+          "source": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/business/2026/11/02/ai-firms-ration-usage-as-losses-mount/"
+        }
+      ]
+    },
+    {
+      "title": "us election",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 07:10:00 -0800",
+      "news": [
+        {
+          "title": "U.S. House Midterm Election Live Results 2026",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/politics/2026-elections/house-results"
+        },
+        {
+          "title": "2026 election results: National balance of power in Congress",
+          "source": "Los Angeles Times",
+          "url": "https://www.latimes.com/politics/story/2026-11-03/2026-midterm-election-live-results-balance-of-power-democrats-republicans-control-congress-senate"
+        },
+        {
+          "title": "How House districts might shift in the 2026 midterms",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/11/03/politics/house-districts-midterms-trump-vis"
+        }
+      ]
+    },
     {
       "title": "코너 맥그리거",
       "approx_traffic": "500+",
@@ -65,19 +153,19 @@
       "published": "Tue, 3 Nov 2026 05:30:00 -0800",
       "news": [
         {
-          "title": "How to watch live 2026 midterm election results on CBS News",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/where-to-watch-election-2026/"
+          "title": "Live Results: Minnesota Senate midterm election",
+          "source": "PBS",
+          "url": "https://www.pbs.org/newshour/politics/live-results-minnesota-senate-midterm-election"
         },
         {
-          "title": "Licensable picture: 2026 US midterm elections",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/2026-us-midterm-elections/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkNHT0FKWE03Rg"
+          "title": "Voters turn out in St. Cloud amid tight state legislative races",
+          "source": "MPR News",
+          "url": "https://www.mprnews.org/story/2026/11/03/voters-turn-out-in-st-cloud-amid-tight-state-legislative-races"
         },
         {
-          "title": "Election night counter-programming: What to watch on TV that’s NOT election coverage?",
-          "source": "Substack",
-          "url": "https://staticonthetv.substack.com/p/election-night-counter-programming"
+          "title": "Decision 2026: What to know before going to the polls",
+          "source": "KTTC | Rochester, MN",
+          "url": "https://www.kttc.com/2026/11/03/decision-2026-what-know-before-going-polls/"
         }
       ]
     },
@@ -100,94 +188,6 @@
           "title": "신규 수주 500% 급증…KAI, 부진 딛고 연말까지 달린다(종합)",
           "source": "연합인포맥스",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442802"
-        }
-      ]
-    },
-    {
-      "title": "small business",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 05:20:00 -0800",
-      "news": [
-        {
-          "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race"
-        },
-        {
-          "title": "Agriculture, small business shine in debut Ohio Proud holiday gift box",
-          "source": "WSYX",
-          "url": "https://abc6onyourside.com/news/local/ohio-agriculture-small-businesses-shines-in-debut-ohio-proud-holiday-gift-box-collection-oda-chocolate-buckeyes-jam-pumpkin-pretzels-maple-syrup-bourbon-pecans-america-250"
-        },
-        {
-          "title": "Shop Ohio Gift Guide -",
-          "source": "Northeast Ohio Parent",
-          "url": "https://www.northeastohioparent.com/things-to-do/shop-ohio-gift-guide/"
-        }
-      ]
-    },
-    {
-      "title": "폰지 사기",
-      "approx_traffic": "500+",
-      "published": "Tue, 3 Nov 2026 05:10:00 -0800",
-      "news": [
-        {
-          "title": "‘부동산 전문가’ 믿었는데…125억 가로챈 스타 강사",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702992"
-        },
-        {
-          "title": "'125억 원 투자사기' 유명 부동산 강사 구속 송치",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862761_36918.html"
-        },
-        {
-          "title": "“미리 얘기하면 원금 반환” 수강생 꼬드긴 부동산 유튜버",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1774046"
-        }
-      ]
-    },
-    {
-      "title": "이재현",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 05:00:00 -0800",
-      "news": [
-        {
-          "title": "[포토] 김성윤 '다 잡았다' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110321404496971"
-        },
-        {
-          "title": "\"셋 중 하나만 넘어갔더라면...\" 박진만의 장탄식, 흐름 바꾼 '파울홈런→적시타' 쏟아진 칭찬 세례 [KS1 현장]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/04/MQ4TSMRZMVSTSNZYGE3DAOLDME/"
-        },
-        {
-          "title": "KT와 점수차 좁히는 이재현의 적시타",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261103_0021517730"
-        }
-      ]
-    },
-    {
-      "title": "사토시",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 04:50:00 -0800",
-      "news": [
-        {
-          "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered"
-        },
-        {
-          "title": "Bitcoin got spooked this Halloween. Is a monster rebound brewing or another crypto nightmare?",
-          "source": "investingLive",
-          "url": "https://investinglive.com/cryptocurrency/bitcoin-got-spooked-this-halloween-is-a-monster-rebound-brewing-or-another-crypto-nightmare/"
-        },
-        {
-          "title": "One Paper, Infinite Markets: MEXC Marks 18 Years of the Bitcoin Whitepaper by Looking Beyond Bitcoin",
-          "source": "GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/11/02/3392929/0/en/one-paper-infinite-markets-mexc-marks-18-years-of-the-bitcoin-whitepaper-by-looking-beyond-bitcoin.html"
         }
       ]
     }
