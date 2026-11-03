@@ -1,220 +1,215 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-03T11:52:22+00:00",
+  "fetched_at": "2026-11-03T13:04:15+00:00",
   "items": [
     {
-      "title": "한승택",
+      "title": "전북 현대 대 조호르 다룰 탁짐 fc 순위",
+      "approx_traffic": "10000+",
+      "published": "Tue, 3 Nov 2026 04:00:00 -0800",
+      "news": [
+        {
+          "title": "모따·이탈로 꽝!꽝…전북, ACLE 4차전서 다룰 탁짐에 2-0 완승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103183700007"
+        },
+        {
+          "title": "송범근 선방 전북, 모따·이탈로 득점포로 조호르에 2-0 승리",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/sports/soccer/1285646.html"
+        },
+        {
+          "title": "“말레이시아 프로팀인데 베스트11에 자국선수 한 명도 없을지도…” 조호르 감독, 파격 용병술 예고 [오!쎈 전주]",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261102183808311"
+        }
+      ]
+    },
+    {
+      "title": "두산에너 빌리티",
+      "approx_traffic": "1000+",
+      "published": "Tue, 3 Nov 2026 03:50:00 -0800",
+      "news": [
+        {
+          "title": "겹악재에 52주 최저가 찍은 두산에너빌리티…4분기가 분수령",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611033095i"
+        },
+        {
+          "title": "두산에너빌, 3분기 영업이익 전년 대비 90.6%↑",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700617"
+        },
+        {
+          "title": "\"두산에너빌리티, 2027년 하반기 대형 원전 수주 본격화\"-대신",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03096326645618168&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "title": "kt wiz",
       "approx_traffic": "200+",
+      "published": "Tue, 3 Nov 2026 03:40:00 -0800",
+      "news": [
+        {
+          "title": "[Photo] Jang Chan-hee dominates on mound",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/03/PL47FCU4DRDT3PNTTC2TCQQSV4/"
+        },
+        {
+          "title": "Lee Kang-cheol vows to deliver after record 3.4 billion won re-signing",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/11/03/62B32AWVRBCKDCP56SNOVW5PJE/"
+        },
+        {
+          "title": "Game 1 of the Korean Series between the Samsung Lions and KT Wiz of the \"2026 Shinhan SOL KBO League..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12195258"
+        }
+      ]
+    },
+    {
+      "title": "캐시워크 정답",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 03:40:00 -0800",
+      "news": [
+        {
+          "title": "알리 캐시워크 돈 버는 퀴즈, 정답은?",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261102072836256"
+        }
+      ]
+    },
+    {
+      "title": "김광석",
+      "approx_traffic": "200+",
+      "published": "Tue, 3 Nov 2026 03:30:00 -0800",
+      "news": [
+        {
+          "title": "'그대 그리고 나' 부른 포크 그룹 소리새 김광석 별세",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103159200005"
+        },
+        {
+          "title": "‘그대 그리고 나’ 부른 소리새 김광석, 뇌병변 투병 끝 별세…향년 70세",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611031733003"
+        },
+        {
+          "title": "‘그대 그리고 나’ 그룹 소리새 김광석 별세…향년 70",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/culture/music/1285593.html"
+        }
+      ]
+    },
+    {
+      "title": "삼성 케이티",
+      "approx_traffic": "200+",
+      "published": "Tue, 3 Nov 2026 03:30:00 -0800",
+      "news": [
+        {
+          "title": "Davis Daniel (KT Wiz) showed off the dignity of the wizard corps ace.Danyel took the mound as KT's s..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12195296"
+        },
+        {
+          "title": "Former MLB player from Mansfield slugs his way into Korea’s World Series",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/former-mlb-player-mansfield-slugs-210140911.html"
+        },
+        {
+          "title": "Kim Hyun-soo Sets Postseason Hits Record in Korean Series",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/03/THXE2S3H3ZEUTJPDTNQFDD44CU/"
+        }
+      ]
+    },
+    {
+      "title": "잠실야구장",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 03:10:00 -0800",
+      "news": [
+        {
+          "title": "'아직' 잠실야구장 사라지기 전... 특별한 추억 남길 수 있다, 두산 베어스 8일, 11일, 20일, 24일 팬 투어 프로그램 진행 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/02/2026103122230050808"
+        },
+        {
+          "title": "'다큐멘터리 3일' 잠실야구장의 추억과 이별",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/304666"
+        },
+        {
+          "title": "“뱃속에 있을 때부터 야구장 왔어요”… ‘다큐멘터리 3일’ 잠실야구장에 쌓인 가족들의 추억",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16266483"
+        }
+      ]
+    },
+    {
+      "title": "오스카",
+      "approx_traffic": "200+",
+      "published": "Tue, 3 Nov 2026 03:10:00 -0800",
+      "news": [
+        {
+          "title": "설경구·전도연·조여정·조인성의 엇갈린 욕망…‘가능한 사랑’, 스토리 스틸 공개",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261103/134955024/1"
+        },
+        {
+          "title": "‘가능한 사랑’ 조인성·전도연, 묘한 기류 포착",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611031029023"
+        },
+        {
+          "title": "‘칸의 여왕’ 전도연, 이번엔 오스카 품나…이창동 ‘가능한 사랑’ 타고 美 레이스 정조준",
+          "source": "뉴스엔",
+          "url": "https://www.newsen.com/news_view.php?uid=202611021821042610"
+        }
+      ]
+    },
+    {
+      "title": "공룡",
+      "approx_traffic": "200+",
+      "published": "Tue, 3 Nov 2026 03:00:00 -0800",
+      "news": [
+        {
+          "title": "울산서 ‘공룡 꼬리’ 흔적 발견…“국내 유일 보존”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702705"
+        },
+        {
+          "title": "울주군 입암리 화석산지 가치규명 학술연구 최종 결과를 발표",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261103_0021516721"
+        },
+        {
+          "title": "\"공룡은 왜 꼬리 끌고 걸었을까?\" 울산 태화강변서 밝혀진 이유",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/regional/2026/11/03/KKZM3LRKD5BOREASX3R445ZHKU/"
+        }
+      ]
+    },
+    {
+      "title": "한승택",
+      "approx_traffic": "500+",
       "published": "Tue, 3 Nov 2026 02:40:00 -0800",
       "news": [
         {
-          "title": "침묵 깨고 1점 추가하는 KT 한승택",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261103_0021517574"
+          "title": "만년 백업서 가을의 영웅으로…kt 한승택, 안방과 타석에서 펄펄",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103183000007"
         },
         {
-          "title": "‘KIA→KT’ 10억 주전 포수마저 터졌다! 장찬희에 달아나는 솔로포 폭발…KT 6-0 리드 ‘1차전 승리 보인다’ [KS1]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112903485"
+          "title": "[KS] '이적생' KT 포수 한승택, 1차전 5회말 깜짝 솔로포…KT 6-0 리드",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261103001368"
         },
         {
           "title": "호랑이 피가 흐른다…FA 초대박 208안타 외야수-최고 가성비 포수, KIA 탈락 아픔 갚아줄까 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/11/03/202611030403779829O"
-        }
-      ]
-    },
-    {
-      "title": "다니엘기도회 2026",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 02:40:00 -0800",
-      "news": [
-        {
-          "title": "‘2026 다니엘기도회’ 21일간 영적 대장정 돌입",
-          "source": "기독신문",
-          "url": "https://www.kidok.com/news/articleView.html?idxno=509327"
-        },
-        {
-          "title": "[2026 다니엘기도회: 2일] “기도한 대로 이루어지지 않아도…” : 목회/신학",
-          "source": "크리스천투데이",
-          "url": "https://www.christiantoday.co.kr/news/378332"
-        },
-        {
-          "title": "'2026 다니엘기도회' 21일간의 여정 돌입…GOODTV 전 과정 생중계",
-          "source": "데일리굿뉴스",
-          "url": "https://www.goodnews1.com/news/articleView.html?idxno=465742"
-        }
-      ]
-    },
-    {
-      "title": "사기",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 02:30:00 -0800",
-      "news": [
-        {
-          "title": "총·방패 중무장 '방콕 빌라' 급습‥\"엎드려!\" 불호령 한국 남성들 '벌벌'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862897_36918.html"
-        },
-        {
-          "title": "\"유명인과 성매매\" 줄줄이 걸려들었다…일당 무더기 검거",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008828294"
-        },
-        {
-          "title": "조건만남 사이트에 6억 입금한 70대…‘가짜 여성’에 뜯겼다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261103/134956436/2"
-        }
-      ]
-    },
-    {
-      "title": "김현수",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 02:20:00 -0800",
-      "news": [
-        {
-          "title": "[사진]KT 김현수, '포스트시즌 통산 최다 루타 신기록'",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/03/GA4WINJVMJSDINZQGBTGIZJZMI/"
-        },
-        {
-          "title": "[포토] 김현수 150루타! PS 통산 최다 루타 신기록을 달성 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110320121384371"
-        },
-        {
-          "title": "리더의 품격…베테랑 이적생들이 써 내려갈 ‘가을의 전설’",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026110313470000742"
-        }
-      ]
-    },
-    {
-      "title": "돔 경기장",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 02:20:00 -0800",
-      "news": [
-        {
-          "title": "8년 뒤 세종에 2만석 돔구장이?…첫발 뗐지만 관건은 역시 ‘돈’ [100투더세종-20]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261102519465"
-        },
-        {
-          "title": "부천시, 돔구장 유치·AI 콤팩트시티 조성 추진",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202611031823357063&s_mcd=0115"
-        },
-        {
-          "title": "부산 동구 범일2동 주민자치위원회, '2026년 범일2동 주민자치위원회 단합대회' 개최, 북항 돔구장 유치 홍보도",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261103.99099001091"
-        }
-      ]
-    },
-    {
-      "title": "약",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 02:20:00 -0800",
-      "news": [
-        {
-          "title": "남편 약상자서 현금 3000만원…모르고 버렸다가 되찾아",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261103/134956777/2"
-        },
-        {
-          "title": "폐기용 약 상자에 든 3천만원…약국직원 선행으로 주인 품에",
-          "source": "데일리팜",
-          "url": "https://www.dailypharm.com/user/news/344120"
-        },
-        {
-          "title": "사별한 남편 약상자 속 현금 3000만원…되찾은 사연[오따뉴] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/03/2026110318461175847"
-        }
-      ]
-    },
-    {
-      "title": "보증금",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 02:10:00 -0800",
-      "news": [
-        {
-          "title": "경기도의회, 청년 주거지원 100억 삭감…조례로 되살리나",
-          "source": "서울경제TV",
-          "url": "https://www.sentv.co.kr/article/view/sentv202611030191"
-        },
-        {
-          "title": "신혼부부 주택구입자금 대출 2026년 총정리｜금리·소득조건·한도·신청방법",
-          "source": "유스연합",
-          "url": "https://www.youthassembly.kr/news/1026974"
-        },
-        {
-          "title": "수원특례시, 무주택 청년·신혼부부 298가구에 전월세보증금 대출잔액의 이자 1%지원 > 뉴스",
-          "source": "더코리아",
-          "url": "https://www.thekorea.kr/bbs/board.php?bo_table=news&wr_id=567283"
-        }
-      ]
-    },
-    {
-      "title": "jesus de miguel",
-      "approx_traffic": "500+",
-      "published": "Tue, 3 Nov 2026 02:00:00 -0800",
-      "news": [
-        {
-          "title": "Tenerife striker De Miguel dies after on-field collision",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/ck62yvz046pjo"
-        },
-        {
-          "title": "Spanish soccer player Jesús de Miguel dies after on-pitch collision",
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/11/03/sport/jesus-de-miguel-spain-dies-after-on-pitch-collision"
-        },
-        {
-          "title": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision"
-        }
-      ]
-    },
-    {
-      "title": "samsung vs kt",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 01:50:00 -0800",
-      "news": [
-        {
-          "title": "[Photo] Samsung manager Park Jin-man trusts Choi Hyoung-woo",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/03/DOQ6XFFF6FCILIDP65GIIUIVJE/"
-        },
-        {
-          "title": "Choi Hyoung-woo, Kang Min-ho Start Despite Aches in Korean Series",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/03/HK5YM5YWMJFEFOZ3V4OQQBCIWY/"
-        },
-        {
-          "title": "'Shock' turns out to be a side injury he played through! Kang Min-ho: \"I didn't want to lose to KIA → Because everyone expected us to lose\"",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/sports/2026/11/02/2026110114593041942"
-        }
-      ]
-    },
-    {
-      "title": "시사회",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 01:50:00 -0800",
-      "news": [
-        {
-          "title": "‘변이’ 4일 개봉…시사회 호평",
-          "source": "BNT뉴스",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202611030092"
-        },
-        {
-          "title": "영화 ‘변이’, 개봉주 특전은 시그니처 아트카드…수령 가능 지점 어디?",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264878"
         }
       ]
     }
