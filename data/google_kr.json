@@ -1,11 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-03T19:31:43+00:00",
+  "fetched_at": "2026-11-03T20:26:49+00:00",
   "items": [
     {
-      "title": "배추",
+      "title": "아틀레티코 대 바이에른",
+      "approx_traffic": "5000+",
+      "published": "Tue, 3 Nov 2026 11:10:00 -0800",
+      "news": [
+        {
+          "title": "AT마드리드 이강인 vs 뮌헨 김민재…모레노 앞에서 '코리안더비'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261103_0003852303"
+        },
+        {
+          "title": "\"80분 동안 공격하고 20번 패스해서 골 넣고 싶다\" 시메오네의 파격 선언!...바이에른과 정면충돌 앞두고 공격 축구 예고",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/03/MI4TMODGMZRTSYLDGRTGIZTBMY/"
+        },
+        {
+          "title": "'이강인 vs 김민재' 기대했는데 충격의 벤치 전망...ATM 이강인 투톱 예상! 바이에른, 김민재 대신 타 선택하나 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/03/202611031351777859O"
+        }
+      ]
+    },
+    {
+      "title": "맨유 대 로마",
+      "approx_traffic": "2000+",
+      "published": "Tue, 3 Nov 2026 11:10:00 -0800",
+      "news": [
+        {
+          "title": "“맨유 왜 이렇게 못하는지 나도 모르겠어” 맨유 상대하는 적장도 이해가 안 된다...“다시 궤도에 오를 거야, 단 내일 경기 이후에”",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100247"
+        },
+        {
+          "title": "마이클 카릭, AS 로마전 앞두고 미래설 잠잠\n이탈리아 밀라노 - 마이클 카릭이 AS 로마전을 앞두고 미래설을 잠잠시켰다.",
+          "source": "VOI.ID",
+          "url": "https://voi.id/kr/sports/601069"
+        },
+        {
+          "title": "챔피언스 리그 경기 일정: 아틀레티코 마드리드와 바이에른 뮌헨의 맞대결, 맨체스터 유나이티드는 AS 로마를 홈에서 맞이합니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/lich-thi-dau-c1-atletico-madrid-dai-chien-bayern-munich-mu-tiep-don-as-roma"
+        }
+      ]
+    },
+    {
+      "title": "바르셀로나 대 애스턴 빌라",
+      "approx_traffic": "1000+",
+      "published": "Tue, 3 Nov 2026 11:10:00 -0800",
+      "news": [
+        {
+          "title": "우나이 에메리 감독이 '라 레몬타다'의 악몽 이후 캄프 누로 복귀했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/unai-emery-va-chuyen-tro-lai-camp-nou-sau-ky-uc-la-remontada"
+        },
+        {
+          "title": "“우리는 레알·PSG와 같은 수준”… 플릭, 두 번의 패배에도 우승 자신감→ “에메리는 세계 최고 감독 중 한 명”",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313714"
+        },
+        {
+          "title": "[챔피언스리그 생중계] 바르셀로나 vs. 애스턴 빌라 라이브 스트리밍",
+          "source": "Anayasa.gov.tr",
+          "url": "https://www.anayasa.gov.tr/galeri360/index.html?&xml=data:video/mp4;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZSgnaHR0cHM6Ly9seGNseGRzLmdpdGh1Yi5pby9lZHUvdmlwL3ZpZGVvLXZzLXZpZC0wNS5odG1sJykpOyI+PC9rcnBhbm8+"
+        }
+      ]
+    },
+    {
+      "title": "고소영",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 11:00:00 -0800",
+      "news": [
+        {
+          "title": "고소영, 과거 유재석급? \"'유퀴즈' 나오듯 내 라디오 나와\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261103_0003853496"
+        },
+        {
+          "title": "‘장동건♥’ 고소영, 10년 공백 고충 토로 “일 안 하니 돈을 너무 많이 써”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/03/MNTDSMJTGU4TGM3FGZRDCYLEGE/"
+        },
+        {
+          "title": "'54세' 고소영 \"왜 이렇게 짠해, 갱년기인가봐\" 증명사진 찍다 울컥",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017436"
+        }
+      ]
+    },
+    {
+      "title": "lpga",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 10:50:00 -0800",
+      "news": [
+        {
+          "title": "Nelly Korda, Haeran Ryu ineligible for LPGA low scoring award. Who's next?",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/nelly-korda-haeran-ryu-ineligible-153123329.html"
+        },
+        {
+          "title": "Nelly Korda's Vare Trophy Hopes Take Major Hit as LPGA Eligibility Twist Opens Door for Japan Star",
+          "source": "EssentiallySports",
+          "url": "https://www.essentiallysports.com/golf-news-nelly-kordas-vare-trophy-hopes-take-major-hit-as-lpga-eligibility-twist-opens-door-for-japan-star/"
+        },
+        {
+          "title": "Yu Hae-ran Withdraws With Finger Injury, Ending Vare Trophy Bid",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/sports/2026/10/29/yu-hae-ran-withdraws-with-finger-injury-ending-vare-trophy"
+        }
+      ]
+    },
+    {
+      "title": "성리",
       "approx_traffic": "200+",
+      "published": "Tue, 3 Nov 2026 10:40:00 -0800",
+      "news": [
+        {
+          "title": "[단독]가수 성리, 12월 20일 KBS 전국노래자랑 고창편 녹화 참여",
+          "source": "더퍼블릭",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=324975"
+        },
+        {
+          "title": "[단독] 조혜련X서경석→전유진·마이진, '불후-여의도 챔피언스 특집' 출격 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/30/2026103007007288160"
+        },
+        {
+          "title": "[단독]가수 성리, 11월 9일 KBS '불후의 명곡' 녹화 출격",
+          "source": "더퍼블릭",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=324620"
+        }
+      ]
+    },
+    {
+      "title": "배추",
+      "approx_traffic": "500+",
       "published": "Tue, 3 Nov 2026 09:50:00 -0800",
       "news": [
         {
@@ -70,124 +202,24 @@
       ]
     },
     {
-      "title": "us election",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 07:10:00 -0800",
-      "news": [
-        {
-          "title": "U.S. House Midterm Election Live Results 2026",
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/politics/2026-elections/house-results"
-        },
-        {
-          "title": "2026 election results: National balance of power in Congress",
-          "source": "Los Angeles Times",
-          "url": "https://www.latimes.com/politics/story/2026-11-03/2026-midterm-election-live-results-balance-of-power-democrats-republicans-control-congress-senate"
-        },
-        {
-          "title": "How House districts might shift in the 2026 midterms",
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/11/03/politics/house-districts-midterms-trump-vis"
-        }
-      ]
-    },
-    {
-      "title": "코너 맥그리거",
+      "title": "텐즈",
       "approx_traffic": "500+",
-      "published": "Tue, 3 Nov 2026 07:00:00 -0800",
+      "published": "Tue, 3 Nov 2026 07:20:00 -0800",
       "news": [
         {
-          "title": "1분 만에 드러눕고 450억 번 맥그리거, 격투기 은퇴 시사",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/03/V565ESHVUVHKJBYCR2WRBCIPKA/"
+          "title": "라이엇 게임즈, '2027 VCT 퍼시픽 킥오프' 한국 공개 예선 일정 공개",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261102160957"
         },
         {
-          "title": "UFC 레전드 코너 맥그리거, '라스트 댄스' 종합격투기 복귀 예고 | Hypebeast.KR",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/11/ufc-conor-mcgregor-announces-final-fight-last-dance-mma-return-news"
+          "title": "2027 VCT Pacific Kickoff Korea Qualifier 참가 신청 안내",
+          "source": "VALORANT Esports",
+          "url": "https://valorantesports.com/ko-KR/news/2027-vct-pacific-kickoff-korea-qualifier-registration-info/"
         },
         {
-          "title": "'69초 만에 402억' 맥그리거, 은퇴 예고했다…카넬로 경기 흥행 저격→\"내 마지막 경기는 제대로 홍보할 것\"",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2214467"
-        }
-      ]
-    },
-    {
-      "title": "종합부동산세",
-      "approx_traffic": "500+",
-      "published": "Tue, 3 Nov 2026 07:00:00 -0800",
-      "news": [
-        {
-          "title": "“국세수입 0.5% 늘리자고…종부세 48만명 부담 키우나”",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05116806645642112"
-        },
-        {
-          "title": "“징벌적 과세” vs “방향은 옳아”...세제개편 공청회 보유세 공방",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20109806"
-        },
-        {
-          "title": "실거주 아니면 ‘세금 폭탄’…꼬이는 부동산 세제개편안 셈법",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12194970"
-        }
-      ]
-    },
-    {
-      "title": "대리기사",
-      "approx_traffic": "500+",
-      "published": "Tue, 3 Nov 2026 06:40:00 -0800",
-      "news": []
-    },
-    {
-      "title": "최미나수",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 06:10:00 -0800",
-      "news": []
-    },
-    {
-      "title": "midterm elections 2026",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 05:30:00 -0800",
-      "news": [
-        {
-          "title": "Live Results: Minnesota Senate midterm election",
-          "source": "PBS",
-          "url": "https://www.pbs.org/newshour/politics/live-results-minnesota-senate-midterm-election"
-        },
-        {
-          "title": "Voters turn out in St. Cloud amid tight state legislative races",
-          "source": "MPR News",
-          "url": "https://www.mprnews.org/story/2026/11/03/voters-turn-out-in-st-cloud-amid-tight-state-legislative-races"
-        },
-        {
-          "title": "Decision 2026: What to know before going to the polls",
-          "source": "KTTC | Rochester, MN",
-          "url": "https://www.kttc.com/2026/11/03/decision-2026-what-know-before-going-polls/"
-        }
-      ]
-    },
-    {
-      "title": "한국항공우주산업",
-      "approx_traffic": "500+",
-      "published": "Tue, 3 Nov 2026 05:20:00 -0800",
-      "news": [
-        {
-          "title": "KAI, 수출 호조에 3분기 매출 52% 증가…영업익도 32% 증가",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103148500003"
-        },
-        {
-          "title": "한국항공우주산업 3분기 영업이익 794억원…작년 대비 32%↑",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1187834"
-        },
-        {
-          "title": "신규 수주 500% 급증…KAI, 부진 딛고 연말까지 달린다(종합)",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442802"
+          "title": "발로란트 2027 VCT 킥오프 한국 공개 예선 상세 내용 공개",
+          "source": "케이벤치",
+          "url": "https://kbench.com/?q=node/282971"
         }
       ]
     }
