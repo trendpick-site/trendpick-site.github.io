@@ -1,8 +1,96 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-03T08:57:33+00:00",
+  "fetched_at": "2026-11-03T09:57:47+00:00",
   "items": [
+    {
+      "title": "헤수스 데 미겔",
+      "approx_traffic": "1000+",
+      "published": "Tue, 3 Nov 2026 00:40:00 -0800",
+      "news": [
+        {
+          "title": "골키퍼 니킥 맞고 쓰러진 공격수, 끝내 의식 잃고 세상 떠나",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202611030298"
+        },
+        {
+          "title": "라리가2 경기 중 발생한 아찔한 사고… 테네리페 “신경학적 상태 악화”",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190827"
+        },
+        {
+          "title": "충격 사고! \"상대 골키퍼 니킥 맞고 심정지\" 스페인에서 벌어진 최악의 부상, 상대 선수는 \"심각한 상태로 중환자실 입원\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-11-03/202611030100017270001596"
+        }
+      ]
+    },
+    {
+      "title": "삼성 대 kt",
+      "approx_traffic": "20000+",
+      "published": "Tue, 3 Nov 2026 00:30:00 -0800",
+      "news": [
+        {
+          "title": "\"73.8%를 잡아라\"...kt·삼성, 한국시리즈 1차전 격돌",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202611031713306242"
+        },
+        {
+          "title": "'정규시즌 우승 축하합니다'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261103_0021517336"
+        },
+        {
+          "title": "삼성 원태인 \"주자 남겨놓지 마\"…이승민 \"내로남불이 심하네\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103164500007"
+        }
+      ]
+    },
+    {
+      "title": "청년기본소득",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "경기 ‘청년기본소득’ 성남·동두천·연천 불참, 고양 참여",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8701502"
+        },
+        {
+          "title": "[패트롤] 과천시-광명시-안양시-의왕시-하남시",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261101022083949"
+        },
+        {
+          "title": "오산시, 24세 청년에 분기 25만원…청년기본소득 4분기 접수",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850912"
+        }
+      ]
+    },
+    {
+      "title": "지예은",
+      "approx_traffic": "200+",
+      "published": "Tue, 3 Nov 2026 00:00:00 -0800",
+      "news": [
+        {
+          "title": "지예은, 청첩장 공개…신동엽 앞에서 \"사회는 유재석\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/02/2026110223195918105"
+        },
+        {
+          "title": "'바타와 12월 결혼' 지예은, 유재석·신동엽·김종국·양세찬에 직접 청첩장 전달",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6341099"
+        },
+        {
+          "title": "유부녀 되는 지예은, 예비 신랑과 다정한 셀카",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261103_0003852523"
+        }
+      ]
+    },
     {
       "title": "폴더 블 스마트 폰",
       "approx_traffic": "1000+",
@@ -14,14 +102,14 @@
           "url": "https://www.mt.co.kr/tech/2026/11/03/2026110309453419418"
         },
         {
+          "title": "UBS, iPhone 판매 호조에 애플 목표주가 340달러로 상향",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/analyst-ratings/article-93CH-2155417"
+        },
+        {
           "title": "“삼성 여권폰 화면에 금이 쩍?”…조회수 천만 찍은 영상의 정체는? [잇슈#태그]",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8700914"
-        },
-        {
-          "title": "논란 터진 아이폰 듀오와 정반대…갤럭시 폴드8 '놀라운 상황' [지금이뉴스]",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202611031110041673&s_mcd=0545"
         }
       ]
     },
@@ -36,9 +124,9 @@
           "url": "https://www.jemin.com/news/articleView.html?idxno=846017"
         },
         {
-          "title": "우리들의 발라드 2 : 박예승, 파워풀한 목소리가 공통점인 한로이와 피할 수 없는 맞대결",
+          "title": "우리들의 발라드 2 : 한로이, 폭발적인 가창력으로 선사한 무대",
           "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC482723230?div=live_end"
+          "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC482723296"
         },
         {
           "title": "전현무, 데스매치 속 ‘안정형 탑백귀’ 빛났다(‘우발라2’)",
@@ -107,9 +195,9 @@
           "url": "https://ichannela.com/news/detail/000000558172.do"
         },
         {
-          "title": "Su-57 전투기는 여전히 현대화 잠재력이 매우 높습니다.",
+          "title": "방산업계 뉴스 3/11: Su-57D, 인도에서 공개 예정",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/tiem-nang-hien-dai-hoa-cua-tiem-kich-su-57-con-rat-cao"
+          "url": "https://www.vietnam.vn/ko/tin-cong-nghiep-quoc-phong-3-11-su-57d-se-duoc-gioi-thieu-tai-an-do"
         }
       ]
     },
@@ -132,94 +220,6 @@
           "title": "It’s Election Day in Florida",
           "source": "News From The States",
           "url": "https://www.newsfromthestates.com/article/its-election-day-florida"
-        }
-      ]
-    },
-    {
-      "title": "삼성",
-      "approx_traffic": "20000+",
-      "published": "Mon, 2 Nov 2026 22:10:00 -0800",
-      "news": [
-        {
-          "title": "45세 슈퍼모델 김자연, 70세 삼성전자 전 사장과 결혼",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261103_0003853011"
-        },
-        {
-          "title": "45세 슈퍼모델 김자연, 70세 '삼성전자 전 사장' 손영권과 결혼",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6341628"
-        },
-        {
-          "title": "모델 김자연, 70세 손영권 삼성전자 고문과 결혼…25세 차 극복 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/03/2026110316313869096"
-        }
-      ]
-    },
-    {
-      "title": "어린이",
-      "approx_traffic": "2000+",
-      "published": "Mon, 2 Nov 2026 21:50:00 -0800",
-      "news": [
-        {
-          "title": "수원대학교 운영 화성시 어린이·사회복지급식관리지원센터, 어린이 식생활 체험관 프로그램 성료",
-          "source": "베리타스알파",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=634895"
-        },
-        {
-          "title": "콩·두부와 친해지는 오감 식생활교육",
-          "source": "대한급식신문",
-          "url": "https://www.fsnews.co.kr/news/articleView.html?idxno=62533"
-        },
-        {
-          "title": "''수원대 운영 화성시 어린이/사회복지급식관리지원센터, '영양의 날' 맞이 식생활 캠페인 성료''",
-          "source": "베리타스알파",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=634900"
-        }
-      ]
-    },
-    {
-      "title": "스테픈 커리",
-      "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 21:50:00 -0800",
-      "news": [
-        {
-          "title": "[오늘의 NBA] (11/2) 황금 전사 군단의 새로운 희망",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/nba/shemagicnba/contents/261102145709508oy"
-        },
-        {
-          "title": "GSW ‘괴물 루키’ 렌더보그 ‘37득점 대폭발’···커리 이후 16년 만의 루키 최다골 ‘도미니카 르브론’ 주...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611021449003"
-        },
-        {
-          "title": "돈치치 꽈당! 충격 앵클 브레이크 스테판 커리의 철저한 복수. \"지독한 결과 나올 줄 몰랐다. 완벽한 오픈 3점은 정말 오랜만\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/basketball/2026/11/01/HBRWKZRTGBTDCMDBMVRDKYRZGA/"
-        }
-      ]
-    },
-    {
-      "title": "우량주",
-      "approx_traffic": "2000+",
-      "published": "Mon, 2 Nov 2026 21:40:00 -0800",
-      "news": [
-        {
-          "title": "\"다신 국장 안해\" … 李 '오천피' 무색, 우량주는 '코스피 2000' 시절로 회귀",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300107.html"
-        },
-        {
-          "title": "코스피 5000 넘어도 웃지 못한 우량주…’오천피’이면의 민낯…반도체 투톱 흔들리자 코스피 급락…",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1067693"
-        },
-        {
-          "title": "코스피 사이드카 발동과 SK 사장단 인사까지 이시각 주요뉴스",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442183"
         }
       ]
     }
