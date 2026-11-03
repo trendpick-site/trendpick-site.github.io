@@ -1,188 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-03T00:12:14+00:00",
+  "fetched_at": "2026-11-03T01:15:17+00:00",
   "items": [
     {
-      "title": "중앙일보",
-      "approx_traffic": "5000+",
-      "published": "Mon, 2 Nov 2026 15:00:00 -0800",
-      "news": [
-        {
-          "title": "투자는 계속, 성과는 아직…중앙일보 베팅 CJ, 미디어 M&A 시험대",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/29/2026102980194.html"
-        },
-        {
-          "title": "[단독] 중앙일보 새 주주 될 다우·CJ·신세계 신주인수계약체결 연기",
-          "source": "미디어오늘",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338136"
-        },
-        {
-          "title": "다우키움의 중앙일보·문학동네 인수 - 값을 치른 자본, 말을 배우지 못한 자본",
-          "source": "르몽드디플로마티크",
-          "url": "https://www.ilemonde.com/news/articleView.html?idxno=30843"
-        }
-      ]
-    },
-    {
-      "title": "xrpn",
-      "approx_traffic": "100+",
-      "published": "Mon, 2 Nov 2026 14:50:00 -0800",
-      "news": [
-        {
-          "title": "Key facts: Evernorth may sell XRP; Ripple releases 1B; Morgan's defense",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/tradingview:a60ae2855c5f9:0-key-facts-evernorth-may-sell-xrp-ripple-releases-1b-morgan-s-defense/"
-        },
-        {
-          "title": "Evernorth May Sell XRP as $30 Million Debt Obligation Raises Questions",
-          "source": "Cryptonews.net",
-          "url": "https://cryptonews.net/news/altcoins/33687152/"
-        }
-      ]
-    },
-    {
-      "title": "3기신도시 남양주 왕숙지구",
-      "approx_traffic": "100+",
-      "published": "Mon, 2 Nov 2026 14:50:00 -0800",
-      "news": []
-    },
-    {
-      "title": "백지영",
-      "approx_traffic": "100+",
-      "published": "Mon, 2 Nov 2026 14:40:00 -0800",
-      "news": [
-        {
-          "title": "백지영, '마약 파문' 정석원과 이혼 대신 함께한 이유…\"어떤 사람인지 아니까\"",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026110115490000083"
-        },
-        {
-          "title": "백지영, '필로폰 투약' 남편 품은 이유…\"원래 그런 사람 아냐\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103120461153098"
-        },
-        {
-          "title": "백지영, 남편 정석원과 각방 쓰는 사연 “아이 때문에 함께 못 자”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610311129003"
-        }
-      ]
-    },
-    {
-      "title": "ionq",
+      "title": "래블업",
       "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 14:40:00 -0800",
+      "published": "Mon, 2 Nov 2026 16:00:00 -0800",
       "news": [
         {
-          "title": "2 quantum computing stocks to turn $10 into $100 in a year",
-          "source": "Finbold",
-          "url": "https://finbold.com/2-quantum-computing-stocks-to-turn-10-into-100-in-a-year/"
-        },
-        {
-          "title": "D-Wave Quantum vs. Rigetti Computing: Which Quantum Computing Stock Is a Better Buy for 2027?",
-          "source": "The Motley Fool",
-          "url": "https://www.fool.com/coverage/better-buy/2026/11/02/d-wave-quantum-vs-rigetti-computing-which-quantum-computing-stock-is-a-better-buy-for-2027/"
-        },
-        {
-          "title": "The Quantum Investment Race Is On: 3 ETFs to Add to Your Portfolio Now",
-          "source": "Zacks Investment Research",
-          "url": "https://www.zacks.com/stock/news/3015765/the-quantum-investment-race-is-on-3-etfs-to-add-to-your-portfolio-now"
-        }
-      ]
-    },
-    {
-      "title": "t 멤버십",
-      "approx_traffic": "500+",
-      "published": "Mon, 2 Nov 2026 14:30:00 -0800",
-      "news": [
-        {
-          "title": "늦가을의 특별한 즐거움, 11월 T 멤버십 혜택 총정리",
-          "source": "SK텔레콤 뉴스룸",
-          "url": "https://news.sktelecom.com/232556"
-        },
-        {
-          "title": "파파존스, KT 멤버십 고객에 방문 포장 50% 할인 혜택",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261102000129"
-        },
-        {
-          "title": "한국파파존스, KT 멤버십 연계 포장 할인에 피자·사이드·음료 포함",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=20261102090958113204ead0791_12"
-        }
-      ]
-    },
-    {
-      "title": "김제시",
-      "approx_traffic": "100+",
-      "published": "Mon, 2 Nov 2026 14:20:00 -0800",
-      "news": [
-        {
-          "title": "이원택 전북지사 \"국가예산 확보 총력…일자리 창출 속도\" 주문",
+          "title": "[특징주] 영광, 코스닥 상장 첫날 26% 상승 마감(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102103700055"
+          "url": "https://www.yna.co.kr/view/AKR20261102032651008"
         },
         {
-          "title": "전북도의회 기행위, 정읍서 내년도 예산안 심사 대비 연찬회",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/jeonbuk/6340087"
-        },
-        {
-          "title": "김소원 TYM 대표 “새만금 프로젝트, 농업 분야 피지컬 AI 육성해야”",
+          "title": "[특징주] ‘AI 인프라 소프트웨어’ 래블업, 코스닥 입성 첫날 40% 급등",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/business-venture/2026/11/02/HIOR5LCF7ZG7TB3LBRRDVSHHE4/"
+          "url": "https://biz.chosun.com/stock/stock_general/2026/11/03/YIZTCKWR3VDNFC4IKDSPXNZJ5E/"
+        },
+        {
+          "title": "[IPO] 영광YKMC, 차세대 EUV 등 영역 확장…\"올 매출 800억 달성\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261102120713"
         }
       ]
     },
     {
-      "title": "필라델피아 반도체 지수",
-      "approx_traffic": "2000+",
-      "published": "Mon, 2 Nov 2026 14:20:00 -0800",
-      "news": [
-        {
-          "title": "인텔 폭락에 미국 증시 급락, 이번 주는 애플·AMD 실적에 달렸다",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3839_2_C1"
-        },
-        {
-          "title": "[1103개장체크] 美 증시, 대규모 AI 투자 수익성 우려 및 반도체·기술주 약세 By 인포스탁데일리",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2154846"
-        },
-        {
-          "title": "코스피 저점 5,100? \"그 가격은 이제 안온다..이미 '쌍바닥' 확인\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202611020640388023"
-        }
-      ]
-    },
-    {
-      "title": "미사동",
-      "approx_traffic": "100+",
-      "published": "Mon, 2 Nov 2026 14:20:00 -0800",
-      "news": []
-    },
-    {
-      "title": "vix",
+      "title": "미스트롯4",
       "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 14:20:00 -0800",
+      "published": "Mon, 2 Nov 2026 16:00:00 -0800",
       "news": [
         {
-          "title": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html"
+          "title": "'미스트롯4' 톱7, 20개 도시 투어 성료…서울 앙코르로 피날레",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261102_0003851037"
         },
         {
-          "title": "VIX Retreat Signals Unusual Calm in Options Trading",
-          "source": "Oz Arab Media",
-          "url": "https://ozarab.media/vix-retreat-signals-unusual-calm-in-options-trading/?utm_source=rss&utm_medium=rss&utm_campaign=vix-retreat-signals-unusual-calm-in-options-trading"
+          "title": "[트롯돋보기] 왕관의 무게 견딘 ‘미스트롯4’ 톱7… 논란마저 잠재운 6개월의 눈물",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12193856"
         },
         {
-          "title": "VIX Rises Above 20 as U.S. Stocks Sell Off and Risk Aversion Grows",
-          "source": "TOKENPOST",
-          "url": "https://www.tokenpost.com/news/investing/44957"
+          "title": "‘미스트롯4’ 서울 앙코르 성료…허찬미 오열→TOP7 눈물바다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261102/134947791/1"
+        }
+      ]
+    },
+    {
+      "title": "말자쇼",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 16:00:00 -0800",
+      "news": [
+        {
+          "title": "김원효, 심진화에 매년 명품백 선물 \"누적 금액 1억 넘어\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261102_0003851792"
+        },
+        {
+          "title": "김원효, ♥심진화와 이혼 위기 고백 “투자 실패로 전 재산 날려..간실히 잘 사는 중”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/03/MIZTGYJWMQ4DCZDBGFRWKNRRHA/"
+        },
+        {
+          "title": "김원효 “♥심진화 한마디에 영화관서 최초 결혼식”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954308/1"
+        }
+      ]
+    },
+    {
+      "title": "리센느 컴백",
+      "approx_traffic": "100+",
+      "published": "Mon, 2 Nov 2026 16:00:00 -0800",
+      "news": [
+        {
+          "title": "[Y초점] 밈으로 떴지만, 음악은 이미 달랐다…리센느가 기대되는 이유",
+          "source": "YTN star",
+          "url": "https://star.ytn.co.kr/_sn/0117_202611030930289185"
+        },
+        {
+          "title": "리센느, 머스크 향 품고 오늘(3일) 컴백..정주행의 시간",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/03/GY4DOZJZGEZDIZBYMMYTEMZZMU/"
+        },
+        {
+          "title": "일방통행 아닌 쌍방향 호흡…리센느가 새 앨범 ‘PULSE’에 심은 유대 서사",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261103/134954927/1"
+        }
+      ]
+    },
+    {
+      "title": "비야디",
+      "approx_traffic": "1000+",
+      "published": "Mon, 2 Nov 2026 15:50:00 -0800",
+      "news": [
+        {
+          "title": "'이럴 거면 그냥 국산차 탈걸'…BYD 차주들 비명 터졌다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110210431"
+        },
+        {
+          "title": "중국산 전기차의 공습...흔들리는 안방 시장",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202611021104314804"
+        },
+        {
+          "title": "[세계車트] 수출로 버틴 중국차, 유럽선 물량 제한 변수…리튬 가격 뚝",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261102181547"
+        }
+      ]
+    },
+    {
+      "title": "단기채",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 15:50:00 -0800",
+      "news": [
+        {
+          "title": "\"제로금리·1100원 환율 시대 안 올 듯… 달러 쪼개사고 단기채 담아라\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/money/2026/11/03/EYYBMPLNO5HDXF3SLB3I6FN5WA/"
+        },
+        {
+          "title": "1300원대 환율에 외화투자 관심 쑥, 달러예금 트래블통장 더해 ETF도 눈길",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450832"
+        },
+        {
+          "title": "쌀 때 빌리자…환율 내리자 달러대출 ‘쑥‘",
+          "source": "SBS Biz",
+          "url": "https://biz.sbs.co.kr/article/20000343318"
+        }
+      ]
+    },
+    {
+      "title": "도지코인",
+      "approx_traffic": "100+",
+      "published": "Mon, 2 Nov 2026 15:50:00 -0800",
+      "news": [
+        {
+          "title": "도지코인에 무슨 일이…대형 고래 1억 2,000만 개 던지고 가격은 5주째 추락",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/266853"
+        },
+        {
+          "title": "Dogecoin은 커뮤니티 주도 결제 네트워크로 작동합니다",
+          "source": "OneBullEx",
+          "url": "https://www.onebullex.com/ko-kr/academy/what-is-dogecoin-doge-and-how-does-it-work"
+        },
+        {
+          "title": "도지코인, '도지코인 랩스'로 일론 머스크 영향력 벗어나나",
+          "source": "갤러리",
+          "url": "https://gall.dcinside.com/board/view/?id=khgames&no=11735"
+        }
+      ]
+    },
+    {
+      "title": "매일경제",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 15:40:00 -0800",
+      "news": [
+        {
+          "title": "“진짜 괜찮아”…일본 10대들이 한국어에 빠진 이유는? [잇슈 키워드]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702107"
+        },
+        {
+          "title": "日 청춘들 입에서 “진짜” “언니”…뉴욕타임스도 주목한 ‘한본어’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/11/03/E2JWPFQR6ND2NO7FRGX47TDOA4/"
+        },
+        {
+          "title": "\"괜찮아\" \"형·언니\"…日 젊은층서 유행하는 '한본어'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103006700072"
+        }
+      ]
+    },
+    {
+      "title": "제민일보",
+      "approx_traffic": "500+",
+      "published": "Mon, 2 Nov 2026 15:30:00 -0800",
+      "news": [
+        {
+          "title": "제주시·서귀포시 체육회 제도 개선 건의",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845945"
+        },
+        {
+          "title": "“지방체육 현안 해결-제도 개선 공동 노력”",
+          "source": "삼다일보",
+          "url": "https://www.samdailbo.com/news/articleView.html?idxno=272154"
+        },
+        {
+          "title": "'금토금토 새연쇼', 대장정 마무리",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845942"
+        }
+      ]
+    },
+    {
+      "title": "김민",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 15:30:00 -0800",
+      "news": [
+        {
+          "title": "'나혼산' 위기마다 나타나는 구세주…시청률 71% 급등→5주 연속 1위 '김민 효과'",
+          "source": "Nate News",
+          "url": "https://news.nate.com/view/20261102n28641"
+        },
+        {
+          "title": "\"한국서 태어난 거 맞아?\" 김민, 이국적 외모에 외국인도 의심",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261031502742"
+        },
+        {
+          "title": "MBC '나혼산', 김민 또 활약…2054 예능 시청률 5주 연속 1위",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523194"
         }
       ]
     }
