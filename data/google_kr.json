@@ -1,27 +1,137 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-03T13:04:15+00:00",
+  "fetched_at": "2026-11-03T14:19:10+00:00",
   "items": [
     {
-      "title": "전북 현대 대 조호르 다룰 탁짐 fc 순위",
-      "approx_traffic": "10000+",
-      "published": "Tue, 3 Nov 2026 04:00:00 -0800",
+      "title": "폰지 사기",
+      "approx_traffic": "200+",
+      "published": "Tue, 3 Nov 2026 05:10:00 -0800",
       "news": [
         {
-          "title": "모따·이탈로 꽝!꽝…전북, ACLE 4차전서 다룰 탁짐에 2-0 완승",
+          "title": "‘부동산 전문가’ 믿었는데…125억 가로챈 스타 강사",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702992"
+        },
+        {
+          "title": "'125억 원 투자사기' 유명 부동산 강사 구속 송치",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862761_36918.html"
+        },
+        {
+          "title": "“미리 얘기하면 원금 회수” 수강생 꼬드긴 부동산 유튜버",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1774046"
+        }
+      ]
+    },
+    {
+      "title": "이재현",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 05:00:00 -0800",
+      "news": [
+        {
+          "title": "추가 실점위기, 역투하는 김정운",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261103_0021517759"
+        },
+        {
+          "title": "[사진]삼성 3루수 김영웅, '좋은 수비로 2사 만루 위기 막아내고'",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/03/GJTGMOJRGZRDIOLEMVSWIMLGME/"
+        },
+        {
+          "title": "[포토] 임기영 '막으면 디비진다' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110320411848267"
+        }
+      ]
+    },
+    {
+      "title": "사토시",
+      "approx_traffic": "200+",
+      "published": "Tue, 3 Nov 2026 04:50:00 -0800",
+      "news": [
+        {
+          "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered"
+        },
+        {
+          "title": "One Paper, Infinite Markets: MEXC Marks 18 Years of the Bitcoin Whitepaper by Looking Beyond Bitcoin",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/11/02/3392929/0/en/one-paper-infinite-markets-mexc-marks-18-years-of-the-bitcoin-whitepaper-by-looking-beyond-bitcoin.html"
+        },
+        {
+          "title": "Bitcoin White Paper Turns 18 With Payment Verification Still at Its Core",
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/news/newsbtc:eb129e82e094b:0-bitcoin-white-paper-turns-18-with-payment-verification-still-at-its-core/"
+        }
+      ]
+    },
+    {
+      "title": "kbo",
+      "approx_traffic": "1000+",
+      "published": "Tue, 3 Nov 2026 04:40:00 -0800",
+      "news": [
+        {
+          "title": "Live: Samsung Lions vs. KT Wiz in Game 1 of Korean Series",
+          "source": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/sports/live-samsung-lions-vs-kt-wiz-in-game-1-of-korean-series/12952792"
+        },
+        {
+          "title": "[Photo] Coach Park Kyung-soo throws ceremonial first pitch, wishing for the championship of the founding captain",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/sports/2026/11/03/2026110318364213990"
+        },
+        {
+          "title": "KT Manager Lee Kang-chul: \"Batters are in good rhythm... hope Daniel holds his own,\" \"Just pitch like you did in the regular season\"",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/editions/english/post/1068004"
+        }
+      ]
+    },
+    {
+      "title": "양도소득세",
+      "approx_traffic": "500+",
+      "published": "Tue, 3 Nov 2026 04:30:00 -0800",
+      "news": [
+        {
+          "title": "국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103183700007"
+          "url": "https://www.yna.co.kr/view/AKR20261103075200002"
         },
         {
-          "title": "송범근 선방 전북, 모따·이탈로 득점포로 조호르에 2-0 승리",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/sports/soccer/1285646.html"
+          "title": "국세청, 해외 주식 등 주식 양도소득세에서 기본공제 누락된 4687명에 21억원 환급 완료",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/11/03/GVDE3FMCNNGCFJPIJGZL3NSWAM/"
         },
         {
-          "title": "“말레이시아 프로팀인데 베스트11에 자국선수 한 명도 없을지도…” 조호르 감독, 파격 용병술 예고 [오!쎈 전주]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261102183808311"
+          "title": "“주식 양도세 납세자 확인 필수”... 기본공제 누락 4600여명에 환급",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11628518"
+        }
+      ]
+    },
+    {
+      "title": "하희라",
+      "approx_traffic": "200+",
+      "published": "Tue, 3 Nov 2026 04:10:00 -0800",
+      "news": [
+        {
+          "title": "최수종, ♥하희라에 지극정성 이유 있었다 \"4번 유산하고도 아이들 케어\" 애틋(옥문아)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/02/GEZTQOLCMIYGKOJWMRTDANRUGU/"
+        },
+        {
+          "title": "최수종, 2000년생 딸 언급 \"대학생인데 통금이 9시\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261103_0003853551"
+        },
+        {
+          "title": "최수종 \"39년 전과 몸무게 똑같아\"…동안 관리법 공개",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6341964"
         }
       ]
     },
@@ -53,19 +163,19 @@
       "published": "Tue, 3 Nov 2026 03:40:00 -0800",
       "news": [
         {
-          "title": "[Photo] Jang Chan-hee dominates on mound",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/03/PL47FCU4DRDT3PNTTC2TCQQSV4/"
+          "title": "Kim Hyun-soo's Homer Powers KT to 8-0 Lead in Korean Series",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/03/Y6UCGQ3MMVDJJCNUEQMYEFCJZY/"
         },
         {
-          "title": "Lee Kang-cheol vows to deliver after record 3.4 billion won re-signing",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/11/03/62B32AWVRBCKDCP56SNOVW5PJE/"
+          "title": "(LEAD) Wiz hold off Lions in Korean Series opener",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20261103012651315"
         },
         {
-          "title": "Game 1 of the Korean Series between the Samsung Lions and KT Wiz of the \"2026 Shinhan SOL KBO League..",
+          "title": "\"Our batters have gained confidence that they can hit even if the opponent's must-win group comes out.\"",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12195258"
+          "url": "https://www.mk.co.kr/en/sports/12195484"
         }
       ]
     },
@@ -83,7 +193,7 @@
     },
     {
       "title": "김광석",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Tue, 3 Nov 2026 03:30:00 -0800",
       "news": [
         {
@@ -92,124 +202,14 @@
           "url": "https://www.yna.co.kr/view/AKR20261103159200005"
         },
         {
+          "title": "‘그대 그리고 나’ 부른 소리새 김광석 별세…향년 70세",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12195259"
+        },
+        {
           "title": "‘그대 그리고 나’ 부른 소리새 김광석, 뇌병변 투병 끝 별세…향년 70세",
           "source": "스포츠경향",
           "url": "https://sports.khan.co.kr/article/202611031733003"
-        },
-        {
-          "title": "‘그대 그리고 나’ 그룹 소리새 김광석 별세…향년 70",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/culture/music/1285593.html"
-        }
-      ]
-    },
-    {
-      "title": "삼성 케이티",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 03:30:00 -0800",
-      "news": [
-        {
-          "title": "Davis Daniel (KT Wiz) showed off the dignity of the wizard corps ace.Danyel took the mound as KT's s..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12195296"
-        },
-        {
-          "title": "Former MLB player from Mansfield slugs his way into Korea’s World Series",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/former-mlb-player-mansfield-slugs-210140911.html"
-        },
-        {
-          "title": "Kim Hyun-soo Sets Postseason Hits Record in Korean Series",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/03/THXE2S3H3ZEUTJPDTNQFDD44CU/"
-        }
-      ]
-    },
-    {
-      "title": "잠실야구장",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 03:10:00 -0800",
-      "news": [
-        {
-          "title": "'아직' 잠실야구장 사라지기 전... 특별한 추억 남길 수 있다, 두산 베어스 8일, 11일, 20일, 24일 팬 투어 프로그램 진행 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/02/2026103122230050808"
-        },
-        {
-          "title": "'다큐멘터리 3일' 잠실야구장의 추억과 이별",
-          "source": "비즈엔터",
-          "url": "https://enter.etoday.co.kr/news/view/304666"
-        },
-        {
-          "title": "“뱃속에 있을 때부터 야구장 왔어요”… ‘다큐멘터리 3일’ 잠실야구장에 쌓인 가족들의 추억",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16266483"
-        }
-      ]
-    },
-    {
-      "title": "오스카",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 03:10:00 -0800",
-      "news": [
-        {
-          "title": "설경구·전도연·조여정·조인성의 엇갈린 욕망…‘가능한 사랑’, 스토리 스틸 공개",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261103/134955024/1"
-        },
-        {
-          "title": "‘가능한 사랑’ 조인성·전도연, 묘한 기류 포착",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611031029023"
-        },
-        {
-          "title": "‘칸의 여왕’ 전도연, 이번엔 오스카 품나…이창동 ‘가능한 사랑’ 타고 美 레이스 정조준",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202611021821042610"
-        }
-      ]
-    },
-    {
-      "title": "공룡",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 03:00:00 -0800",
-      "news": [
-        {
-          "title": "울산서 ‘공룡 꼬리’ 흔적 발견…“국내 유일 보존”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702705"
-        },
-        {
-          "title": "울주군 입암리 화석산지 가치규명 학술연구 최종 결과를 발표",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261103_0021516721"
-        },
-        {
-          "title": "\"공룡은 왜 꼬리 끌고 걸었을까?\" 울산 태화강변서 밝혀진 이유",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/regional/2026/11/03/KKZM3LRKD5BOREASX3R445ZHKU/"
-        }
-      ]
-    },
-    {
-      "title": "한승택",
-      "approx_traffic": "500+",
-      "published": "Tue, 3 Nov 2026 02:40:00 -0800",
-      "news": [
-        {
-          "title": "만년 백업서 가을의 영웅으로…kt 한승택, 안방과 타석에서 펄펄",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103183000007"
-        },
-        {
-          "title": "[KS] '이적생' KT 포수 한승택, 1차전 5회말 깜짝 솔로포…KT 6-0 리드",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261103001368"
-        },
-        {
-          "title": "호랑이 피가 흐른다…FA 초대박 208안타 외야수-최고 가성비 포수, KIA 탈락 아픔 갚아줄까 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/202611030403779829O"
         }
       ]
     }
