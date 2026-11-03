@@ -1,8 +1,162 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-03T06:34:06+00:00",
+  "fetched_at": "2026-11-03T07:51:56+00:00",
   "items": [
+    {
+      "title": "전투기",
+      "approx_traffic": "1000+",
+      "published": "Mon, 2 Nov 2026 22:30:00 -0800",
+      "news": [
+        {
+          "title": "北, 스텔스-자폭 드론 전력화 속도전… 南도 “공격형 앞당겨 배치”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261103/134953837/2"
+        },
+        {
+          "title": "[뉴스분석] 北 '드론 30종'의 허와 실… 대기업 족쇄 풀면 南이 앞선다",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261103001211"
+        },
+        {
+          "title": "[뉴스 동서남북] 북한 무인기 기술 급진전…일부는 대량생산에 들어가",
+          "source": "VOA 한국어 홈페이지",
+          "url": "https://www.voakorea.com/a/8217950.html"
+        }
+      ]
+    },
+    {
+      "title": "where to vote",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 22:30:00 -0800",
+      "news": [
+        {
+          "title": "It’s Election Day in Florida",
+          "source": "News From The States",
+          "url": "https://www.newsfromthestates.com/article/its-election-day-florida"
+        },
+        {
+          "title": "The ultimate voter guide for Tallahassee, Florida elections",
+          "source": "FSView & Florida Flambeau",
+          "url": "https://www.fsunews.com/story/news/2026/11/02/tallahassee-want-to-know-more-about-who-youre-voting-for-look-here/92563316007/"
+        },
+        {
+          "title": "Broward County voters prepare to make their voices heard on Election Day",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/miami/video/broward-county-voters-prepare-to-make-their-voices-heard-on-election-day/"
+        }
+      ]
+    },
+    {
+      "title": "삼성",
+      "approx_traffic": "20000+",
+      "published": "Mon, 2 Nov 2026 22:10:00 -0800",
+      "news": [
+        {
+          "title": "\"주식창 켰더니 이럴 수가\" 韓증시 와르르...4%대 동반 급락 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/03/2026110313380685347"
+        },
+        {
+          "title": "코스피, 3.59% 하락 마감‥5천600선으로 후퇴",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6862871_36932.html"
+        },
+        {
+          "title": "삼전·닉스, 美반도체 약세·중간선거 경계감에 4∼5%대 급락(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103043751008"
+        }
+      ]
+    },
+    {
+      "title": "김자연",
+      "approx_traffic": "2000+",
+      "published": "Mon, 2 Nov 2026 22:10:00 -0800",
+      "news": [
+        {
+          "title": "45세 슈퍼모델 김자연, 70세 삼성전자 전 사장과 결혼",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261103_0003853011"
+        },
+        {
+          "title": "25살 차이 극복…슈퍼모델 김자연, 전 삼성전자 사장 손영권과 결혼 [자막뉴스]",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/detail/000000558186.do"
+        },
+        {
+          "title": "‘25살 차’…슈퍼모델 김자연·손영권 삼성전자 고문 스위스서 결혼",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261103/134958436/1"
+        }
+      ]
+    },
+    {
+      "title": "어린이",
+      "approx_traffic": "2000+",
+      "published": "Mon, 2 Nov 2026 21:50:00 -0800",
+      "news": [
+        {
+          "title": "경기북부 겨울철 화재 연평균 678건…부주의가 41.9%",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335810"
+        },
+        {
+          "title": "“불조심 강조의 달” 소방청, 국민과 함께 화재예방 나선다",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110311090546993"
+        },
+        {
+          "title": "강원소방, 11월 '불조심 강조의 달' 운영…18개 소방서 캠페인",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102156200062"
+        }
+      ]
+    },
+    {
+      "title": "스테픈 커리",
+      "approx_traffic": "200+",
+      "published": "Mon, 2 Nov 2026 21:50:00 -0800",
+      "news": [
+        {
+          "title": "[오늘의 NBA] (11/2) 황금 전사 군단의 새로운 희망",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/nba/shemagicnba/contents/261102145709508oy"
+        },
+        {
+          "title": "GSW ‘괴물 루키’ 렌더보그 ‘37득점 대폭발’···커리 이후 16년 만의 루키 최다골 ‘도미니카 르브론’ 주...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611021449003"
+        },
+        {
+          "title": "돈치치 꽈당! 충격 앵클 브레이크 스테판 커리의 철저한 복수. \"지독한 결과 나올 줄 몰랐다. 완벽한 오픈 3점은 정말 오랜만\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/basketball/2026/11/01/HBRWKZRTGBTDCMDBMVRDKYRZGA/"
+        }
+      ]
+    },
+    {
+      "title": "우량주",
+      "approx_traffic": "1000+",
+      "published": "Mon, 2 Nov 2026 21:40:00 -0800",
+      "news": [
+        {
+          "title": "\"다신 국장 안해\" … 李 '오천피' 무색, 우량주는 '코스피 2000' 시절로 회귀",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300107.html"
+        },
+        {
+          "title": "[베트남 증시] 유동성 늘었지만 外人 '팔자' 지속에 하락...은행 등 대형주 ↓",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261102001612"
+        },
+        {
+          "title": "VN 지수가 급락하면서 증권사들은 시장이 바닥을 찾기 위한 노력을 계속하고 있다고 전망했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/vn-index-lui-sau-ctck-du-bao-thi-truong-tiep-tuc-do-day"
+        }
+      ]
+    },
     {
       "title": "이효리",
       "approx_traffic": "2000+",
@@ -19,9 +173,9 @@
           "url": "https://sports.donga.com/ent/article/all/20261103/134954904/1"
         },
         {
-          "title": "이효리 \"정신과 다닌다…건강검진 하듯 한 번 씩 가봐\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261103_0003851845"
+          "title": "“성남 얼짱이 이 정도?” 이효리, 2PM 준호 닮은꼴 남친에 뒷목 잡은 이유",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12194295"
         }
       ]
     },
@@ -53,163 +207,14 @@
           "url": "https://www.hankyung.com/article/202611031794i"
         },
         {
+          "title": "'무니코틴'이라더니 유사니코틴?…정부, 유사니코틴 독성 연구 추진",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261103000181"
+        },
+        {
           "title": "전자담배도 ‘발암물질’…비연소 키웠던 담배업계, 규제 변수 촉각",
           "source": "아시아타임즈",
           "url": "https://www.asiatime.co.kr/article/20261103500302"
-        },
-        {
-          "title": "\"담배 유해성분 공개만으론 부족\"…11년 동결 담뱃값·세제 재점검론",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/distribution/6341120"
-        }
-      ]
-    },
-    {
-      "title": "김원훈",
-      "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 20:10:00 -0800",
-      "news": [
-        {
-          "title": "지예은, 청첩장 공개…신동엽 앞에서 \"사회는 유재석\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/02/2026110223195918105"
-        },
-        {
-          "title": "유재석, 김종국에 아직도 서운…\"내 결혼식 때 부탁한 축가 거절\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261103_0003852089"
-        },
-        {
-          "title": "'바타와 12월 결혼' 지예은, 유재석·신동엽·김종국·양세찬에 직접 청첩장 전달",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6341099"
-        }
-      ]
-    },
-    {
-      "title": "유언",
-      "approx_traffic": "2000+",
-      "published": "Mon, 2 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "\"15억 전재산 동거녀에게 다 준다는 아버지 유언, 친자녀 몫은 0원?\"",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/02/2026110202845.html"
-        },
-        {
-          "title": "27년 부양한 자녀의 유류분, 대법원 판결",
-          "source": "로톡",
-          "url": "https://www.lawtalk.co.kr/posts/202511"
-        }
-      ]
-    },
-    {
-      "title": "버추얼 아이돌",
-      "approx_traffic": "200+",
-      "published": "Mon, 2 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "점심시간💜",
-          "source": "Weverse",
-          "url": "https://weverse.io/plave/live/1-181334450"
-        },
-        {
-          "title": "인간 아이돌 제쳤다… 올해 데뷔 4명 중 1명은 ‘버추얼’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/11/03/5XLTRHNKH5BQ7ALFLH4BLRZSSM/"
-        },
-        {
-          "title": "플레이브, '팬앤스타' 글로벌 핫스타 107주 연속 1위…빌보드 자체 최고 기록 '경신'",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/stars/read/starwars/2384280.htm"
-        }
-      ]
-    },
-    {
-      "title": "신세계그룹",
-      "approx_traffic": "100+",
-      "published": "Mon, 2 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "신세계그룹, '쓱데이' 막바지 할인 공세…최대 92% 재고 정리",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102151000030"
-        },
-        {
-          "title": "[똑똑한소비] SSG닷컴, 무신사, G마켓, GS25, 이마트24, 쿠팡, 컬리, 다이소",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261102028474268"
-        },
-        {
-          "title": "SSG닷컴, 쓱데이 맞아 '쓱7클럽' 혜택 확대…장보기 14% 적립",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1186452"
-        }
-      ]
-    },
-    {
-      "title": "엘니뇨",
-      "approx_traffic": "1000+",
-      "published": "Mon, 2 Nov 2026 19:50:00 -0800",
-      "news": [
-        {
-          "title": "무슨 일 벌어지려고 이러나, ’1000년래 최강' 엘니뇨",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/opinion/specialist_column/2026/11/02/UJXAJE7A4RBTLBUW3ENUJ3YHWA/"
-        },
-        {
-          "title": "\"이러다 진짜 큰일 난다\" 전 세계 덮칠까 '초비상'…이상기후 공포에 국가비상사태 선포한 볼리비아",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110219161384632"
-        },
-        {
-          "title": "볼리비아 어쩌나···‘슈퍼 엘니뇨’ 덮쳐 국가비상사태 선포, 가뭄에 가축 약 7만5000마리 폐사",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611021658001"
-        }
-      ]
-    },
-    {
-      "title": "교수",
-      "approx_traffic": "500+",
-      "published": "Mon, 2 Nov 2026 19:50:00 -0800",
-      "news": [
-        {
-          "title": "교통대 연구팀, 열 배출·내구성 높인 아라미드 필름 개발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102083200064"
-        },
-        {
-          "title": "교통대 김성룡 교수 연구팀, ‘방탄복 섬유 활용 고성능 방열·전자파 차단 필름’ 개발",
-          "source": "충청매일",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1108641"
-        },
-        {
-          "title": "국립한국교통대 김성룡 교수 연구팀, '방탄복 섬유 활용 고성능 방열/전자파 차단 필름' 개발",
-          "source": "베리타스알파",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=634962"
-        }
-      ]
-    },
-    {
-      "title": "신지애",
-      "approx_traffic": "5000+",
-      "published": "Mon, 2 Nov 2026 19:40:00 -0800",
-      "news": [
-        {
-          "title": "엄마가 남긴 1700만원으로 시작한 골프…68번 우승 끝에 처음 울었다",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261030513121"
-        },
-        {
-          "title": "LPGA 토토 저팬 클래식 5일 개막…아시안 스윙 한일 자존심 대결",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103048000007"
-        },
-        {
-          "title": "[LPGA] 김효주 vs 야마시타...한일 '스윙 머신 대결' 누가 웃을까",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261103000381"
         }
       ]
     }
