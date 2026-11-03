@@ -1,18 +1,35 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-03T17:30:06+00:00",
+  "fetched_at": "2026-11-03T18:24:11+00:00",
   "items": [
+    {
+      "title": "코너 맥그리거",
+      "approx_traffic": "500+",
+      "published": "Tue, 3 Nov 2026 07:00:00 -0800",
+      "news": [
+        {
+          "title": "1분 만에 드러눕고 450억 번 맥그리거, 격투기 은퇴 시사",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/03/V565ESHVUVHKJBYCR2WRBCIPKA/"
+        },
+        {
+          "title": "UFC 레전드 코너 맥그리거, '라스트 댄스' 종합격투기 복귀 예고 | Hypebeast.KR",
+          "source": "Hypebeast.KR",
+          "url": "https://hypebeast.kr/2026/11/ufc-conor-mcgregor-announces-final-fight-last-dance-mma-return-news"
+        },
+        {
+          "title": "'69초 만에 402억' 맥그리거, 은퇴 예고했다…카넬로 경기 흥행 저격→\"내 마지막 경기는 제대로 홍보할 것\"",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2214467"
+        }
+      ]
+    },
     {
       "title": "종합부동산세",
       "approx_traffic": "500+",
       "published": "Tue, 3 Nov 2026 07:00:00 -0800",
       "news": [
-        {
-          "title": "실거주 아니면 ‘세금 폭탄’…꼬이는 부동산 세제개편안 셈법",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12194970"
-        },
         {
           "title": "“국세수입 0.5% 늘리자고…종부세 48만명 부담 키우나”",
           "source": "마켓인",
@@ -22,28 +39,11 @@
           "title": "“징벌적 과세” vs “방향은 옳아”...세제개편 공청회 보유세 공방",
           "source": "서울경제",
           "url": "https://www.sedaily.com/article/20109806"
-        }
-      ]
-    },
-    {
-      "title": "코너 맥그리거",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 07:00:00 -0800",
-      "news": [
-        {
-          "title": "1분 만에 드러눕고 450억 번 맥그리거, 격투기 은퇴 시사",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/03/V565ESHVUVHKJBYCR2WRBCIPKA/"
         },
         {
-          "title": "UFC 레전드 코너 맥그리거, '라스트 댄스' 종합격투기 복귀 예고",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/11/ufc-conor-mcgregor-announces-final-fight-last-dance-mma-return-news"
-        },
-        {
-          "title": "'69초 만에 402억' 맥그리거, 은퇴 예고했다…카넬로 경기 흥행 저격→\"내 마지막 경기는 제대로 홍보할 것\"",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2214467"
+          "title": "실거주 아니면 ‘세금 폭탄’…꼬이는 부동산 세제개편안 셈법",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12194970"
         }
       ]
     },
@@ -70,14 +70,14 @@
           "url": "https://www.cbsnews.com/news/where-to-watch-election-2026/"
         },
         {
-          "title": "For Midterms Night, a TV Schedule Overflowing With Options",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html"
+          "title": "Licensable picture: 2026 US midterm elections",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/2026-us-midterm-elections/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkNHT0FKWE03Rg"
         },
         {
-          "title": "US mid-term elections: where to watch the results, analysis and commentary live on TV",
-          "source": "la Repubblica",
-          "url": "https://www.repubblica.it/en/entertainment/tv-radio/2026/11/03/news/us_mid-term_elections_where_to_watch_the_results_analysis_and_commentary_live_on_tv-425695297/"
+          "title": "Election night counter-programming: What to watch on TV that’s NOT election coverage?",
+          "source": "Substack",
+          "url": "https://staticonthetv.substack.com/p/election-night-counter-programming"
         }
       ]
     },
@@ -109,19 +109,19 @@
       "published": "Tue, 3 Nov 2026 05:20:00 -0800",
       "news": [
         {
-          "title": "What Small Business Owners Who Can’t Pay Their EIDL Loans Should Do Now",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/johnschroyer/2026/11/01/five-tips-for-small-businesses-struggling-with-eidl-loans-from-the-sba/"
+          "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race"
         },
         {
-          "title": "They Took Small Business Loans During COVID. Now The Government Is Coming To Collect",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/johnschroyer/2026/11/01/they-took-small-business-loans-during-covid-now-the-government-is-coming-to-collect/"
+          "title": "Agriculture, small business shine in debut Ohio Proud holiday gift box",
+          "source": "WSYX",
+          "url": "https://abc6onyourside.com/news/local/ohio-agriculture-small-businesses-shines-in-debut-ohio-proud-holiday-gift-box-collection-oda-chocolate-buckeyes-jam-pumpkin-pretzels-maple-syrup-bourbon-pecans-america-250"
         },
         {
-          "title": "Berkshire County veteran-owned businesses to support during Veterans Small Business Week",
-          "source": "Berkshire Eagle",
-          "url": "https://www.berkshireeagle.com/businesscolumnist/national-veterans-small-business-week-is-coming-heres-how-to-show-your-support/5045990"
+          "title": "Shop Ohio Gift Guide -",
+          "source": "Northeast Ohio Parent",
+          "url": "https://www.northeastohioparent.com/things-to-do/shop-ohio-gift-guide/"
         }
       ]
     },
@@ -131,9 +131,9 @@
       "published": "Tue, 3 Nov 2026 05:10:00 -0800",
       "news": [
         {
-          "title": "방송 출연한 ‘부동산 투자 전문가’…알고 보니 125억 폰지사기",
+          "title": "‘부동산 전문가’ 믿었는데…125억 가로챈 스타 강사",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702352"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702992"
         },
         {
           "title": "'125억 원 투자사기' 유명 부동산 강사 구속 송치",
@@ -148,19 +148,19 @@
       ]
     },
     {
-      "title": "사토시",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 04:50:00 -0800",
+      "title": "이재현",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 05:00:00 -0800",
       "news": [
+        {
+          "title": "[포토] 김성윤 '다 잡았다' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110321404496971"
+        },
         {
           "title": "\"셋 중 하나만 넘어갔더라면...\" 박진만의 장탄식, 흐름 바꾼 '파울홈런→적시타' 쏟아진 칭찬 세례 [KS1 현장]",
           "source": "조선일보",
           "url": "https://www.chosun.com/sports/baseball/2026/11/04/MQ4TSMRZMVSTSNZYGE3DAOLDME/"
-        },
-        {
-          "title": "[포토] 김영웅 '유후후 무사 만루다' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110321143392274"
         },
         {
           "title": "KT와 점수차 좁히는 이재현의 적시타",
@@ -170,24 +170,24 @@
       ]
     },
     {
-      "title": "내장산ic",
+      "title": "사토시",
       "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 04:40:00 -0800",
+      "published": "Tue, 3 Nov 2026 04:50:00 -0800",
       "news": [
         {
-          "title": "전북 도공, 호남고속道 내장산 IC~정읍IC 차로 부분통제",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261103_0003852421"
+          "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered"
         },
         {
-          "title": "호남고속도로 4~5일 '내장산IC~정읍IC 천안방향' 일부 통제",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/jeonbuk/6340941"
+          "title": "Bitcoin got spooked this Halloween. Is a monster rebound brewing or another crypto nightmare?",
+          "source": "investingLive",
+          "url": "https://investinglive.com/cryptocurrency/bitcoin-got-spooked-this-halloween-is-a-monster-rebound-brewing-or-another-crypto-nightmare/"
         },
         {
-          "title": "호남고속도로 내장산~정읍IC 천안 방향, 4~5일 부분 통제",
-          "source": "전북노컷",
-          "url": "https://jb.nocutnews.co.kr/news/6601085"
+          "title": "One Paper, Infinite Markets: MEXC Marks 18 Years of the Bitcoin Whitepaper by Looking Beyond Bitcoin",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/11/02/3392929/0/en/one-paper-infinite-markets-mexc-marks-18-years-of-the-bitcoin-whitepaper-by-looking-beyond-bitcoin.html"
         }
       ]
     }
