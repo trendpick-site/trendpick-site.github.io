@@ -1,215 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-04T08:59:34+00:00",
+  "fetched_at": "2026-11-04T10:06:29+00:00",
   "items": [
     {
-      "title": "할인",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 23:50:00 -0800",
-      "news": [
-        {
-          "title": "CJ ONE “KBO 한국시리즈 응원하고 5% 할인받으세요”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611041459001"
-        },
-        {
-          "title": "bhc, 직영점 11곳서 올해 한국시리즈 전 경기 중계",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102096400030"
-        },
-        {
-          "title": "CJ ONE 앱에서 KBO 야구 콘텐츠·굿즈 할인 즐기세요",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611041355106409"
-        }
-      ]
-    },
-    {
-      "title": "melbourne victory vs persib bandung",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 23:50:00 -0800",
-      "news": [
-        {
-          "title": "Verify to continue - Katadata",
-          "source": "Katadata.co.id",
-          "url": "https://katadata.co.id/lifestyle/varia/6ae0b29d2982d/prediksi-persib-bandung-vs-melbourne-victory-lengkap-head-to-head"
-        }
-      ]
-    },
-    {
-      "title": "scott colom",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 23:40:00 -0800",
-      "news": [
-        {
-          "title": "Mississippi U.S. Senate Midterm Election 2026: Live Results",
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/politics/2026-elections/mississippi-senate-results"
-        },
-        {
-          "title": "Mississippi U.S. Senate 2026: Live Midterm Election Results, Hyde-Smith vs. Colom",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-mississippi-us-senate.html"
-        },
-        {
-          "title": "LIVE: 2026 Mississippi election results",
-          "source": "Mississippi Today",
-          "url": "https://mississippitoday.org/2026/11/03/live-2026-election-mississippi-midterm-results-trump-scott-colom-cindy-hyde-smith/"
-        }
-      ]
-    },
-    {
-      "title": "mary peltola",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 23:30:00 -0800",
-      "news": [
-        {
-          "title": "Live updates: 2026 US midterm elections and results",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/live/cj1dw0ydn595t"
-        },
-        {
-          "title": "Alaska U.S. Senate Election 2026 Live Results: Mary Peltola, Dan Sullivan and More",
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/politics/2026-elections/alaska-senate-results"
-        },
-        {
-          "title": "Alaska U.S. Senate Election Live Results 2026",
-          "source": "AP News",
-          "url": "https://apnews.com/projects/elections-2026/alaska-us-senate-results/"
-        }
-      ]
-    },
-    {
-      "title": "김기수",
+      "title": "이영표",
       "approx_traffic": "500+",
-      "published": "Tue, 3 Nov 2026 23:20:00 -0800",
+      "published": "Wed, 4 Nov 2026 01:00:00 -0800",
       "news": [
         {
-          "title": "인상 달라진 김기수, 갸름한 턱선에 청순 메이크업",
+          "title": "아시안컵 내년 12월로 연기…‘임시 체제’ 한국, 시간 벌었다 [이런뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702725"
+        },
+        {
+          "title": "1년 밀린 손흥민의 ’라스트 댄스’…모레노 감독 거취는?",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261104184450N2i"
+        },
+        {
+          "title": "1년 시간 번 축구 대표팀, 무한경쟁 시작될까",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001602"
+        }
+      ]
+    },
+    {
+      "title": "전지윤",
+      "approx_traffic": "100+",
+      "published": "Wed, 4 Nov 2026 01:00:00 -0800",
+      "news": [
+        {
+          "title": "전지윤, 결혼한다…현아 이어 포미닛 두 번째 유부녀",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261104_0003853960"
+          "url": "https://www.newsis.com/view/NISX20261104_0003854645"
         },
         {
-          "title": "방송 접은 김기수, 얼굴 또 달라져…깜짝 놀란 근황 - 머니투데이",
+          "title": "'포미닛' 전지윤, 비연예인 연인과 백년가약…“부끄럽고 설레”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261104580454"
+        },
+        {
+          "title": "포미닛 전지윤, 11월 신부 된다…\"♥예비신랑, 나보다 멋져\" - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/04/2026110413472273399"
-        },
-        {
-          "title": "김기수, 이젠 몰라보게 달라진 비주얼..반전의 '청순' 분위기",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112903884"
+          "url": "https://www.mt.co.kr/entertainment/2026/11/04/2026110415061430379"
         }
       ]
     },
     {
-      "title": "이스타항공",
-      "approx_traffic": "500+",
-      "published": "Tue, 3 Nov 2026 23:20:00 -0800",
-      "news": [
-        {
-          "title": "“서울 찍고 부산? 이젠 먼저 간다” 외국인 관광객 부쩍",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261104/134964926/1"
-        },
-        {
-          "title": "‘부산병’ 열풍에... 이스타 부산 국제선 외국인 승객 171% 증가",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/11/04/LFFIXPFQHVEWJID3EGE6WNL32M/"
-        },
-        {
-          "title": "이스타항공, 부산 국제선 외국인 승객 171%↑… 노선 확장 효과",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261104500258"
-        }
-      ]
-    },
-    {
-      "title": "유선민 중령",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 23:20:00 -0800",
-      "news": [
-        {
-          "title": "이진숙 “李정권, 상관 지시 따른 군인 내란범 몰아… 국민 심판 받을 것”",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3445821"
-        },
-        {
-          "title": "이진숙, 유선민 중령 ``내란`이라 말하면 진급, 군 역사에 치부` 기자회견 공유",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026110416521931878"
-        },
-        {
-          "title": "현안 관련 기자회견 하는 이진숙 국민의힘 의원",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3742424"
-        }
-      ]
-    },
-    {
-      "title": "심유진",
+      "title": "테슬라",
       "approx_traffic": "1000+",
-      "published": "Tue, 3 Nov 2026 22:50:00 -0800",
+      "published": "Wed, 4 Nov 2026 01:00:00 -0800",
       "news": [
         {
-          "title": "'충격! 韓 배드민턴 기대주' 돌연 기권, 첫 경기 4-11서 심유진, 결국 포기...코리아오픈 우승 도전 허무하게 끝→무슨 일?",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017551"
+          "title": "\"테슬라 한 주도 안 팔았는데\"…30조 쥔 서학개미 '날벼락'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110336371"
         },
         {
-          "title": "'이럴 수가' 심유진, 코리아오픈 시작하자마자 기권…김민선에 1게임 인터벌 내주고 '조기 탈락'",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2215247"
-        },
-        {
-          "title": "'승률 98％' 배드민턴 퀸 안세영, 안방에서 시즌 11승 향해 순항",
+          "title": "테슬라·스페이스X 합병시 주식 안팔아도 양도소득세?…서학개미 비상",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104139900007"
+          "url": "https://www.yna.co.kr/view/AKR20261104138700008"
+        },
+        {
+          "title": "테슬라와 스페이스X 합병 추진, 머스크의 두 제국이 하나로?",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3782"
         }
       ]
     },
     {
-      "title": "원혁",
+      "title": "대학 총장",
       "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 22:50:00 -0800",
+      "published": "Wed, 4 Nov 2026 00:50:00 -0800",
       "news": [
         {
-          "title": "“언제까지 장인 덕 볼거냐고”…‘이용식 사위’ 원혁, 생방송 중 끝내 눈물 ‘펑펑’",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20110099"
+          "title": "﻿고대 총장 선거, 박종훈·조윤정 의대 교수 출사표",
+          "source": "데일리메디",
+          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=942209"
         },
         {
-          "title": "\"장인 덕에 연예인한다\"…'이용식 사위' 원혁, 생방송 중 오열",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611041448388565"
+          "title": "고려대 22대 총장선거에 10명 출사표…김동원 전 총장 연임 도전",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261102161000004"
         },
         {
-          "title": "원혁, 생방송서 오열 “장인 덕본다고... ‘이용식 사위’ 벗어나고파” 눈물",
+          "title": "“교수 연봉 3억 시대 열겠습니다”…서울 주요대 총장들 연임 승부수",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12195674"
+        }
+      ]
+    },
+    {
+      "title": "백만장자",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 00:40:00 -0800",
+      "news": [
+        {
+          "title": "“청바지로 10억 벌고 김치로 20억 날려”…정민서의 인생 역전기 (백만장자)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261104/134963470/1"
+        },
+        {
+          "title": "'백만장자' 정민서, 김치로 20억 날렸다…\"앞이 캄캄하다는 말 실감\"",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523491"
+        },
+        {
+          "title": "재벌가 사모님 픽 '김치 명장' 정민서 \"母, 지푸라기로 요리해도 맛있다는 말 듣기도\" (백만장자)",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/11/04/GNRTMYJWMZQTKNRVMY2WEOJSHE/"
+        }
+      ]
+    },
+    {
+      "title": "고영표",
+      "approx_traffic": "500+",
+      "published": "Wed, 4 Nov 2026 00:30:00 -0800",
+      "news": [
+        {
+          "title": "한국시리즈 2차전...kt \"홈 2연승\" 삼성 \"원정 1승 1패\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0107_202611041717473788_005.html"
+        },
+        {
+          "title": "[사진]첫 안타 치는 최원준",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/04/MVSTGYZVGM2TEYZYMQYGMMRSG4/"
+        },
+        {
+          "title": "좌타자 7명 도배한 박진만 삼성 감독 \"고영표만 내리면…\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261104157600007"
+        }
+      ]
+    },
+    {
+      "title": "배그 아이브",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 00:30:00 -0800",
+      "news": [
+        {
+          "title": "패치 노트 - 업데이트 44.1 - 뉴스 - PUBG: 배틀그라운드",
+          "source": "PUBG: BATTLEGROUNDS",
+          "url": "https://pubg.com/ko/news/11338"
+        },
+        {
+          "title": "장원영·카리나 똑같이 막혔다···아이브도 배그 ‘비키니 금지’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611041737003"
+        },
+        {
+          "title": "맵 서비스 리포트 - 업데이트 44.1 - 뉴스 - PUBG: 배틀그라운드",
+          "source": "PUBG: BATTLEGROUNDS",
+          "url": "https://pubg.com/ko/news/11336"
+        }
+      ]
+    },
+    {
+      "title": "레미콘",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "DL이앤씨, 콘크리트 품질관리 강화…외벽 미충전 면적 88% 줄여",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20261104500116"
+        },
+        {
+          "title": "레미콘 품질 논란... DL이앤씨의 해법, 주목받는 이유",
+          "source": "글로벌경제신문",
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=885916"
+        },
+        {
+          "title": "[후진국형 레미콘 타설 구조]③ 권고라더니 현장 감시…관내 레미콘 활용 압박",
+          "source": "대한경제",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031430024580437"
+        }
+      ]
+    },
+    {
+      "title": "가덕도 신공항",
+      "approx_traffic": "500+",
+      "published": "Wed, 4 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "가덕도공항, 6200억 공사비 매듭…대우건설 컨소, 착공 ‘카운트다운’",
+          "source": "대한경제",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031009404680338"
+        },
+        {
+          "title": "\"가덕도신공항 올해 예산집행률 고작 0.03%…정상화 시급\"",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261104.99099001194"
+        },
+        {
+          "title": "“신공항·LCC·도시철도 비상”… 김재운 시의원, 시정 무기력 질타",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/region/article/all/20261104/134962585/1"
+        }
+      ]
+    },
+    {
+      "title": "한국어",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 00:00:00 -0800",
+      "news": [
+        {
+          "title": "\"진짜? 미안해!\"…日 Z세대 입에서 '한국말' 쏟아지는 이유",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611044577i"
+        },
+        {
+          "title": "\"괜찮아\" \"형·언니\"…日 젊은층서 유행하는 '한본어'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103006700072"
+        },
+        {
+          "title": "[만물상] \"언니 진짜 아리가토!\"",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/04/GUZDMZLCGZSWCZRSG42DOMBSMQ/"
-        }
-      ]
-    },
-    {
-      "title": "테니스",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 22:50:00 -0800",
-      "news": [
-        {
-          "title": "세르지오 타키니, '서울오픈 챌린저' 공식 후원…윈터 테니스룩 선봬",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261104_0003853986"
-        },
-        {
-          "title": "피엠인터내셔널코리아, ‘서울오픈 챌린저’ 3년 연속 후원",
-          "source": "머니투데이",
-          "url": "https://theleader.mt.co.kr/articleView.html?no=2026110213257817699"
-        },
-        {
-          "title": "60주년 맞은 세르지오 타키니…서울오픈 챌린저 테니스 대회 후원",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1710561/60%EC%A3%BC%EB%85%84-%EB%A7%9E%EC%9D%80-%EC%84%B8%EB%A5%B4%EC%A7%80%EC%98%A4-%ED%83%80%ED%82%A4%EB%8B%88%EC%84%9C%EC%9A%B8%EC%98%A4%ED%94%88-2026"
+          "url": "https://www.chosun.com/opinion/manmulsang/2026/11/03/O363E5HI7RAOTJSMX4HH3APSFM/"
         }
       ]
     }
