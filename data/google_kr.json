@@ -1,209 +1,210 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-04T05:35:41+00:00",
+  "fetched_at": "2026-11-04T06:38:19+00:00",
   "items": [
     {
-      "title": "지민",
-      "approx_traffic": "500+",
-      "published": "Tue, 3 Nov 2026 20:20:00 -0800",
-      "news": [
-        {
-          "title": "“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 1년 뒤 문 닫는다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954529/1"
-        },
-        {
-          "title": "BTS 지민父 카페, 돌연 폐업 예고…“내년 영업 종료”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11628280"
-        },
-        {
-          "title": "'아미 성지였는데' 방탄소년단 지민 父 카페, 돌연 폐업..\"365일 남았다\"[Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/03/MJQTCNDBHAZDEYRYGIZTKMDEMY/"
-        }
-      ]
-    },
-    {
-      "title": "골프",
-      "approx_traffic": "2000+",
-      "published": "Tue, 3 Nov 2026 20:20:00 -0800",
-      "news": [
-        {
-          "title": "\"MBK, 골프존카운티 계약 전날 협상 중단\"...법적대응 예고한 골프존홀딩스 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/11/04/2026110409194480467"
-        },
-        {
-          "title": "골프존홀딩스 \"매각 협상 막판에 배제\"…MBK에 법적 대응 예고",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261104000834"
-        },
-        {
-          "title": "더 시에나 그룹, 골프존카운티 하이엔드 골프클럽 전환 추진… “경쟁력의 중심은 사람”",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261103000225"
-        }
-      ]
-    },
-    {
-      "title": "마이크로소프트",
+      "title": "약국",
       "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 20:20:00 -0800",
+      "published": "Tue, 3 Nov 2026 21:30:00 -0800",
       "news": [
         {
-          "title": "Xbox Game Pass: 2025년 12월 구독 포함 게임 목록",
-          "source": "Sortir à Paris",
-          "url": "https://www.sortiraparis.com/ko/palieseo-hal-il/noleum/articles/281796-xbox-game-pass-2026nyeon-11wol-singyu-geim-konsol-pc-mich-keullaudeu"
+          "title": "숨진 남편 약상자마다 5만원권이…약국 덕분에 3천만원 찾아",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1285700.html"
         },
         {
-          "title": "MS 게임패스, 11월 1차 신규 라인업 공개···〈FM27〉 등 출격",
-          "source": "글로벌E",
-          "url": "https://www.globale.co.kr/news/articleView.html?idxno=41414"
-        },
-        {
-          "title": "11월 중순에 구독이 시작됩니다. Xbox Game Pass 14경기를 남겨두고 떠날 것입니다",
-          "source": "GameGPU",
-          "url": "https://ko.gamegpu.com/news/igry/v-seredine-noyabrya-podpisku-xbox-game-pass-pokinut-14-igr"
+          "title": "하마터면 폐기할 뻔...약국 직원이 발견한 '봉투'의 정체 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611041043526841"
         }
       ]
     },
     {
-      "title": "이수민",
-      "approx_traffic": "500+",
-      "published": "Tue, 3 Nov 2026 20:10:00 -0800",
-      "news": []
-    },
-    {
-      "title": "소득세",
-      "approx_traffic": "2000+",
-      "published": "Tue, 3 Nov 2026 20:10:00 -0800",
-      "news": [
-        {
-          "title": "국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103075200002"
-        },
-        {
-          "title": "국세청, 해외 주식 등 주식 양도소득세에서 기본공제 누락된 4687명에 21억원 환급 완료",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/11/03/GVDE3FMCNNGCFJPIJGZL3NSWAM/"
-        },
-        {
-          "title": "“주식 양도세 납세자 확인 필수”... 기본공제 누락 4600여명에 환급",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11628518"
-        }
-      ]
-    },
-    {
-      "title": "nyt",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 20:10:00 -0800",
-      "news": [
-        {
-          "title": "K-pop täytti salin – liki 50 lasta ja nuorta tuli mukaan – Polvijärven Vauhti palkitsi aktiivejaan",
-          "source": "Outokummun Seutu",
-          "url": "https://www.outokummunseutu.fi/paikalliset/9924856"
-        },
-        {
-          "title": "Kaksi datakeskushanketta etenee Hausjärvellä – toisella jo rakennuslupa",
-          "source": "Hämeen Sanomat",
-          "url": "https://www.hameensanomat.fi/paikalliset/9924825"
-        },
-        {
-          "title": "Pilapiirros | Vainio 4.11.2026",
-          "source": "Karjalainen",
-          "url": "https://www.karjalainen.fi/paikalliset/9924333"
-        }
-      ]
-    },
-    {
-      "title": "리니지m",
+      "title": "헤지펀드",
       "approx_traffic": "1000+",
-      "published": "Tue, 3 Nov 2026 20:00:00 -0800",
+      "published": "Tue, 3 Nov 2026 21:20:00 -0800",
       "news": [
         {
-          "title": "'모험' 담은 리니지M 캠페인, '올해의 브랜드상' 수상",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1187632"
+          "title": "美 대형 헤지펀드의 '대폭락' 경고…\"주식 시장 망가졌다\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611045349i"
         },
         {
-          "title": "[게임업계 소식] 엔씨 ‘리니지M’, 한국광고학회 ‘2026 올해의 브랜드상’ 수상 外",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261103500481"
-        },
-        {
-          "title": "한진, 한국광고학회 '올해의 브랜드상' 수상… \"종합 물류 경쟁력 인정\"",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110310540777985"
-        }
-      ]
-    },
-    {
-      "title": "집",
-      "approx_traffic": "1000+",
-      "published": "Tue, 3 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "'분양가 25%로 내 집 마련'‥다음 달 고양창릉서 첫 분양",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6863084_36932.html"
-        },
-        {
-          "title": "20년 분할로 '내 집 마련'…李정부, 지분적립형 주택 통할까",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/economy/2384776.htm"
-        },
-        {
-          "title": "집값 25%만 내도 입주됩니다…LH ‘반의반값 분양’ 첫 실험",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12196145"
-        }
-      ]
-    },
-    {
-      "title": "trump",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "'Angry Trump' Sentiment Outshines 'Shy Trump' in Midterms",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008830281"
-        },
-        {
-          "title": "US: \"Even in places where the Democrats haven't won, the swing towards them has been significant\"",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/video/20261104-us-even-in-places-where-the-democrats-haven-t-won-the-swing-towards-them-has-been-significant"
-        },
-        {
-          "title": "The War, Stupid",
-          "source": "National Review",
-          "url": "https://www.nationalreview.com/corner/the-war-stupid/"
-        }
-      ]
-    },
-    {
-      "title": "이란",
-      "approx_traffic": "1000+",
-      "published": "Tue, 3 Nov 2026 19:40:00 -0800",
-      "news": [
-        {
-          "title": "트럼프 \"이란 방공시설 완공되자마자 어젯밤 타격…작은 공격\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103188000071"
-        },
-        {
-          "title": "트럼프 \"이란 즉각 공격 계획 없다\"...선거 후 전면전 개시 일축 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/world/2026/11/04/2026110412254539961"
-        },
-        {
-          "title": "카타르 매체 \"美, 이란에 제시된 양해각서 초안에 동의\"",
+          "title": "빌 애크먼 \"주식시장 망가졌다…레버리지 투기 거래에 주가 급등락\"",
           "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442833"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442832"
+        },
+        {
+          "title": "\"대공황 직전 광란과 비슷\"…헤지펀드 운용사의 섬뜩한 경고 [지금이뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0545_202611041020013501"
+        }
+      ]
+    },
+    {
+      "title": "윤석열",
+      "approx_traffic": "500+",
+      "published": "Tue, 3 Nov 2026 21:20:00 -0800",
+      "news": [
+        {
+          "title": "[속보]윤석열 ‘선거법 위반’ 2심도 징역형 집유···확정 땐 국민의힘 397억 반환",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611041443001"
+        },
+        {
+          "title": "[속보] 尹 선거법 2심도 당선무효형...확정시 국힘 397억 반환",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/11/04/EQUHUUGJYBFJTEIZBU2W5Z5XGY/"
+        },
+        {
+          "title": "[속보] 2심 재판부 \"변호사 소개·건진법사 발언, 중요 정보‥허위사실 공표로 선거인 선택 침해\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6863151_36918.html"
+        }
+      ]
+    },
+    {
+      "title": "비상식량",
+      "approx_traffic": "2000+",
+      "published": "Tue, 3 Nov 2026 21:10:00 -0800",
+      "news": [
+        {
+          "title": "일본 방재상 \"재해 틈탄 타국 공격 등에 대비해야\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611041402334345_005.html"
+        },
+        {
+          "title": "日방재상, 재해시 타국 공격 대비 언급해 주목…\"대응할 수 있을까\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261104_0003854502"
+        },
+        {
+          "title": "전 세계 33개국, 시민들에 ‘식량·의약품 비상 비축’ 권고… 인니 단체 “선제적 대응책 촉구”",
+          "source": "한인포스트",
+          "url": "https://haninpost.com/archives/132536"
+        }
+      ]
+    },
+    {
+      "title": "해병대 제2사단",
+      "approx_traffic": "500+",
+      "published": "Tue, 3 Nov 2026 21:10:00 -0800",
+      "news": [
+        {
+          "title": "CU '우리 부대 응원전' 1위는 제2해병사단…정동원 팬덤도 한몫",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261104031400030"
+        },
+        {
+          "title": "하나은행·하나카드, CU와 군부대에 간식차 릴레이 지원",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261104_0003854679"
+        },
+        {
+          "title": "하나은행·하나카드·CU, 국민 응원 모아 군 장병 간식 지원",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261104500527"
+        }
+      ]
+    },
+    {
+      "title": "물김치",
+      "approx_traffic": "500+",
+      "published": "Tue, 3 Nov 2026 21:00:00 -0800",
+      "news": [
+        {
+          "title": "“할머니 마지막 음식이었습니다”…‘공짜 물김치’ 건넨 식당 울린 청년의 보은",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261104/134963398/1"
+        },
+        {
+          "title": "\"할머니가 이것만 드셔\"…맨발 청년에 물김치 건넨 가게[오따뉴] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/04/2026110413412885090"
+        },
+        {
+          "title": "\"할머니가 이것만 드세요\"…심야에 건넨 물김치 한 그릇이 만든 기적 [따뜻했슈]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611040651310348"
+        }
+      ]
+    },
+    {
+      "title": "국채",
+      "approx_traffic": "500+",
+      "published": "Tue, 3 Nov 2026 20:50:00 -0800",
+      "news": [
+        {
+          "title": "'블루웨이브' 현실화?…AI 규제 강화 우려에 나스닥 선물 급락 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/04/2026110411132486111"
+        },
+        {
+          "title": "美 국채가, 이란 종전 협상 진전에 하락폭 축소",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442835"
+        },
+        {
+          "title": "유가 급락에 美 국채금리 하락세 지속",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103023300009"
+        }
+      ]
+    },
+    {
+      "title": "강남구",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 20:50:00 -0800",
+      "news": [
+        {
+          "title": "공인노무사가 노동법 실무교육…강남구 '고용노동대학'",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/life/2384616.htm"
+        }
+      ]
+    },
+    {
+      "title": "주한 미군",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 20:50:00 -0800",
+      "news": [
+        {
+          "title": "군사우편으로 대마 밀수한 주한미군 구속",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6863066_36932.html"
+        },
+        {
+          "title": "보충제 통에 숨긴 '합성대마'...평택세관, 군사우편 밀수 주한미군 구속",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261104000486"
+        },
+        {
+          "title": "‘주한미군이 美 군사우편으로 액상대마 밀수’…평택세관, 주한미군·공범 적발",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11628768"
+        }
+      ]
+    },
+    {
+      "title": "greg abbott",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 20:40:00 -0800",
+      "news": [
+        {
+          "title": "Texas Governor Election Live Results 2026",
+          "source": "AP News",
+          "url": "https://apnews.com/projects/elections-2026/texas-governor-results/"
+        },
+        {
+          "title": "Democrat Elected Texas Governor for First Time in 36 Years in Conservative Stronghold",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008830378"
+        },
+        {
+          "title": "Gina Hinojosa Wins Texas Governor Race in Major Upset, Defeating Greg Abbott",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/03/us/texas-governor-abbott-hinojosa.html"
         }
       ]
     }
