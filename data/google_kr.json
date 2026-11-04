@@ -1,17 +1,215 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-04T12:24:40+00:00",
+  "fetched_at": "2026-11-04T13:48:30+00:00",
   "items": [
+    {
+      "title": "야구중계",
+      "approx_traffic": "500+",
+      "published": "Wed, 4 Nov 2026 04:40:00 -0800",
+      "news": [
+        {
+          "title": "‘스포츠 명가’ 삼성의 부활…야구-축구-농구-배구 일제히 ‘파란 돌풍’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261103/134957943/1"
+        },
+        {
+          "title": "10구단 체제 KS, '업셋' 두 번…모두 PO 끝장 승부 승자가 정상",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6341143"
+        },
+        {
+          "title": "\"후라도가 다 했다\"...삼성, KIA 꺾고 2년 만에 한국시리즈 진출",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_sn/0107_202611011858450055"
+        }
+      ]
+    },
+    {
+      "title": "당기순이익",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 04:40:00 -0800",
+      "news": [
+        {
+          "title": "하림, 3분기 영업이익 53억원…전년 대비 71% 감소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261104154900030"
+        },
+        {
+          "title": "하림, 3분기 영업익 54억원… 전년比 71%↓",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/distribution/food/2026/11/04/BK2O3FD7JFBR7BOMNVHQ7AB7IE/"
+        },
+        {
+          "title": "하림, 3Q 영업익 54억 전년比 71%↓…매출 4059억 2.0%↓",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261104_0003854710"
+        }
+      ]
+    },
+    {
+      "title": "구자욱",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 04:30:00 -0800",
+      "news": [
+        {
+          "title": "기뻐하는 구자욱",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261104_0021519600"
+        },
+        {
+          "title": "[사진]멀티히트 최형우",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/MJRDINZRGFRTKNZQG4ZDOZRUG4/"
+        },
+        {
+          "title": "\"낯선 투수도 문제없다” 자신했지만…대니엘에 막힌 삼성, 뒤늦게 터진 방망이, 최원태 5실점 없었더라면 [KS1]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112903602"
+        }
+      ]
+    },
+    {
+      "title": "무죄",
+      "approx_traffic": "2000+",
+      "published": "Wed, 4 Nov 2026 04:10:00 -0800",
+      "news": [
+        {
+          "title": "‘당선무효형’ 대법 확정되면 윤석열이 ‘헌정 사상 첫 사례’",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12326499"
+        },
+        {
+          "title": "국민의힘, 397억 반납 현실화? 尹, 공직선거법 2심도 당선무효형",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11628855"
+        },
+        {
+          "title": "尹 “李 무죄 법리 적용해야” 주장했지만... 2심은 ‘李 유죄’ 판례로 징역형",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/11/04/57BKFWNXYRHCVLFZTAUPKSIHUU/"
+        }
+      ]
+    },
+    {
+      "title": "삼성갤",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 04:00:00 -0800",
+      "news": [
+        {
+          "title": "'갤럭시 버즈' 청력 기능 추가…식약처 허가 획득",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611041106147826"
+        },
+        {
+          "title": "이어폰이 보청기 역할한다…삼성 갤럭시 버즈, 식약처 의료기기 허가 획득",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/It/article/all/20261104/134962777/1"
+        },
+        {
+          "title": "청력 검사부터 사물 인식까지…웨어러블의 진화",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000241"
+        }
+      ]
+    },
+    {
+      "title": "이승민",
+      "approx_traffic": "500+",
+      "published": "Wed, 4 Nov 2026 04:00:00 -0800",
+      "news": [
+        {
+          "title": "삼성 원태인 \"주자 남겨놓지 마\"…이승민 \"내로남불이 심하네\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103164500007"
+        },
+        {
+          "title": "[사진]삼성 이승민, '실점은 없다'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/GIZDKOBXG43DMOBXGVSWMNDEGQ/"
+        },
+        {
+          "title": "KIA는 5경기 쩔쩔맸는데…1위팀은 다르다, ‘ERA 1.69’ 삼성 좌완 공략 자신 “충분히 해볼만한 투수” [KS1]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112903123"
+        }
+      ]
+    },
+    {
+      "title": "안현민",
+      "approx_traffic": "100+",
+      "published": "Wed, 4 Nov 2026 04:00:00 -0800",
+      "news": [
+        {
+          "title": "[포토] 안현민 '승리가 보인다' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110422052033405"
+        },
+        {
+          "title": "[사진]파울 라인 벗어나지 않는 안현민의 타구",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/GU2DEYTDMQZTANRVHE2DOZJXG4/"
+        },
+        {
+          "title": "‘PS 데뷔전부터 쾅!’ 신인왕 출신 국대 외야수, 1점 차 승리 이끈 값진 홈런 한 방…“박영현 폭투 때 가장 떨렸다” [KS1]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112903740"
+        }
+      ]
+    },
+    {
+      "title": "김성윤",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 03:50:00 -0800",
+      "news": [
+        {
+          "title": "[사진]환호하는 삼성 김성윤, '찬스 만들었어'",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/04/MZQTSYTFHEYWEMZVG5TDKOJZGU/"
+        },
+        {
+          "title": "[사진]실점 위기 탈출 김정운",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/G5SGGYTEGUZDKMJRGJSTKY3DGY/"
+        },
+        {
+          "title": "[사진]삼성 유격수 이재현, '위기는 병살로'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112904243"
+        }
+      ]
+    },
+    {
+      "title": "acl two",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 03:30:00 -0800",
+      "news": [
+        {
+          "title": "Lion City Sailors become first S’pore club to beat A-league team on Australian soil, netizens’ ...",
+          "source": "Must Share News",
+          "url": "https://mustsharenews.com/mixed-reactions-lcs-win-acl/"
+        },
+        {
+          "title": "Lion City vs Adelaide United AFC Champions League 2 Tips, Prediction & Live Stream - Lion City to ease past Adelaide at home",
+          "source": "Bets.com.au",
+          "url": "https://www.bets.com.au/soccer/asian-champions-league/lion-city-vs-adelaide-united-afc-champions-league-2-tips-prediction-live-stream-20261104-0006/"
+        },
+        {
+          "title": "‘Quite off’ Reds rocked by late Sailors strikes in Asia",
+          "source": "A-Leagues",
+          "url": "https://aleagues.com.au/news/quite-off-reds-rocked-by-late-sailors-strikes-in-asia/"
+        }
+      ]
+    },
     {
       "title": "다니엘기도회 2026",
       "approx_traffic": "100+",
       "published": "Wed, 4 Nov 2026 03:20:00 -0800",
       "news": [
         {
-          "title": "[2026 다니엘기도회: 3일] 원천희 선교사 “고난은 실패가 아니라 하나님의 훈련” : 목회/신학",
+          "title": "2026 다니엘기도회 4일차 강사, 도박 걱정 성직자 모임 정석용 사무총장 : 목회/신학",
           "source": "크리스천투데이",
-          "url": "https://www.christiantoday.co.kr/news/378363"
+          "url": "https://www.christiantoday.co.kr/news/378375"
         },
         {
           "title": "‘2026 다니엘기도회’ 21일간 영적 대장정 돌입",
@@ -22,204 +220,6 @@
           "title": "'2026 다니엘기도회' 21일간의 여정 돌입…GOODTV 전 과정 생중계",
           "source": "데일리굿뉴스",
           "url": "https://www.goodnews1.com/news/articleView.html?idxno=465742"
-        }
-      ]
-    },
-    {
-      "title": "류지혁",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 03:10:00 -0800",
-      "news": [
-        {
-          "title": "[한번에쓱] 최형우도 빼며 승부걸었는데 '아...역기서 병살타라니' 류지혁 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110420382150373"
-        },
-        {
-          "title": "[사진]충돌하는 류지혁과 류현인",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/GJSTGOLBMI3TKMTGGZTDGYTCMQ/"
-        },
-        {
-          "title": "만루 찬스 놓친 류지혁",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261104_0021519437"
-        }
-      ]
-    },
-    {
-      "title": "엘앤에프",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 03:00:00 -0800",
-      "news": [
-        {
-          "title": "[단독] 배터리 3사 싹쓸이…엘앤에프, 6만t LFP 신공장 짓는다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611033805i"
-        },
-        {
-          "title": "현대차, 포스코퓨처엠 베트남 음극재 사업에 1천억 투자 추진",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103137900003"
-        },
-        {
-          "title": "엘앤에프플러스, 현대제철과 LFP 양극재용 산화철 공급 협력",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374252"
-        }
-      ]
-    },
-    {
-      "title": "송혜교",
-      "approx_traffic": "2000+",
-      "published": "Wed, 4 Nov 2026 02:20:00 -0800",
-      "news": [
-        {
-          "title": "송혜교, 또 헤어스타일리스트 이일중과 투샷 포착",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261104_0003853703"
-        },
-        {
-          "title": "45세 송혜교, 흑백 사진 속 ‘눈부신 미모’..화면 뚫고 나오는 우아함",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112903727"
-        },
-        {
-          "title": "송혜교, 홍콩서 남사친 어깨에 '브이'…독보적 비주얼 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6342126"
-        }
-      ]
-    },
-    {
-      "title": "klasemen melbourne victory vs persib bandung",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 02:20:00 -0800",
-      "news": [
-        {
-          "title": "Hasil Babak Pertama Melbourne Victory vs Persib 0-0: Pertahanan Maung Solid, Lini Depan Kebingungan, Tolic Main Aman?",
-          "source": "AFU.id",
-          "url": "https://afu.id/olahraga/babak-pertama-melbourne-victory-vs-persib-00-pertahanan-maung-solid-lini-depan-kebingungan-tolic-main-aman"
-        },
-        {
-          "title": "Nyaris Bikin Persib Kalah, Tangis Fitrah Maulana Pecah di Pelukan Sandy Walsh",
-          "source": "Radar Cirebon",
-          "url": "https://radarcirebon.disway.id/sport/read/235089/nyaris-bikin-persib-kalah-tangis-fitrah-maulana-pecah-di-pelukan-sandy-walsh"
-        },
-        {
-          "title": "Takut Dibantai Persib Lagi, Melbourne Victory Lupakan Derby di Liga Australia",
-          "source": "VIVA.co.id",
-          "url": "https://www.viva.co.id/bola/1940959-takut-dibantai-persib-lagi-melbourne-victory-lupakan-derby-di-liga-australia"
-        }
-      ]
-    },
-    {
-      "title": "디아즈",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 02:10:00 -0800",
-      "news": [
-        {
-          "title": "[포토] 디아즈 '힐리어드 애썼데이' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110419364014137"
-        },
-        {
-          "title": "페덱의 실수",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261104_0021519397"
-        },
-        {
-          "title": "[사진]펜스와 충동하는 최원준",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112904124"
-        }
-      ]
-    },
-    {
-      "title": "김지찬",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 02:10:00 -0800",
-      "news": [
-        {
-          "title": "삼성 김지찬 \"아직 1패…우리가 먼저 네 번 이기면 된다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104160800007"
-        },
-        {
-          "title": "[사진]몸 날리는 장준원",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/03/GRRGEZJWMNQWMZDGGU3WKNJSG4/"
-        },
-        {
-          "title": "\"(김)상수 형, 은퇴 전 삼성 돌아왔으면\" 적으로 만난 4회 우승 선배 향한 김지찬 진심 \"그래도 반지는 우리가 가져갈게요\" [KS2 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110414025245468"
-        }
-      ]
-    },
-    {
-      "title": "서울 sk 대 대구 한국가스공사",
-      "approx_traffic": "1000+",
-      "published": "Wed, 4 Nov 2026 01:50:00 -0800",
-      "news": [
-        {
-          "title": "‘벨란겔 클러치타임 3점슛 미쳤다!’ 한국가스공사, SK 6연승 저지했다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112904320"
-        },
-        {
-          "title": "“힉스, 기대보다 훨씬 잘해준다”…전희철 감독이 꼽은 SK 상승세 이유 [쿠키 현장]",
-          "source": "쿠키뉴스",
-          "url": "https://www.kukinews.com/article/view/kuk202611040242"
-        },
-        {
-          "title": "[BK 프리뷰] ‘같은 5승, 다른 무게’ 5연승 SK vs 5할 복귀 노리는 한국가스공사",
-          "source": "바스켓코리아",
-          "url": "https://www.basketkorea.com/news/newsview.php?ncode=1065549458513778"
-        }
-      ]
-    },
-    {
-      "title": "난파선",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 01:50:00 -0800",
-      "news": [
-        {
-          "title": "고려 난파선서 길어 올린 800년 전 물류의 비밀",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611042028015"
-        },
-        {
-          "title": "영암서 곡물 싣고 개경으로…800년 전 태안 바다에 잠든 고려 배",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104000700005"
-        },
-        {
-          "title": "'바다의 경주'에 잠들었던 800년 전 선박…오늘 흔적 찾았다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/culture/2026/11/04/2026110414311187834"
-        }
-      ]
-    },
-    {
-      "title": "samsung vs kt",
-      "approx_traffic": "1000+",
-      "published": "Wed, 4 Nov 2026 01:30:00 -0800",
-      "news": [
-        {
-          "title": "Kim Jeong-woon's Seventh-Inning Struggle Leads to KT's 8-7 Victory",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/04/YWR7HGDQ5RE2TFDT3VIV2RIVW4/"
-        },
-        {
-          "title": "Jang Chan-hee mixes confidence and regret after Korean Series debut loss",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/11/04/BFGLBJFBAJAYRNVQFQJASZ3NAU/"
-        },
-        {
-          "title": "Wiz closer Park Yeong-hyun says belief in himself, catcher led to big Korean Series save",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20261104002400315"
         }
       ]
     }
