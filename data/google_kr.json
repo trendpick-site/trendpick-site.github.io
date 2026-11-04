@@ -1,210 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-04T06:38:19+00:00",
+  "fetched_at": "2026-11-04T07:55:05+00:00",
   "items": [
+    {
+      "title": "심유진",
+      "approx_traffic": "1000+",
+      "published": "Tue, 3 Nov 2026 22:50:00 -0800",
+      "news": [
+        {
+          "title": "'충격! 韓 배드민턴 기대주' 돌연 기권, 첫 경기 4-11서 심유진, 결국 포기...코리아오픈 우승 도전 허무하게 끝→무슨 일?",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017551"
+        },
+        {
+          "title": "'이럴 수가' 심유진, 코리아오픈 시작하자마자 기권…김민선에 1게임 인터벌 내주고 '조기 탈락'",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2215247"
+        }
+      ]
+    },
+    {
+      "title": "원혁",
+      "approx_traffic": "200+",
+      "published": "Tue, 3 Nov 2026 22:50:00 -0800",
+      "news": [
+        {
+          "title": "원혁, 생방송 중 오열…\"이용식 사위 아닌 자랑스러운 남편·아빠 되겠다\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6342607"
+        },
+        {
+          "title": "원혁, 생방송서 오열 \"장인 덕본다고..'이용식 사위' 벗어나고파\" 눈물[순간포착]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/04/GUZDMZLCGZSWCZRSG42DOMBSMQ/"
+        },
+        {
+          "title": "원혁, '이용식 사위' 꼬리표에 오열 \"제 이름으로 일어서겠다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261104_0003854308"
+        }
+      ]
+    },
+    {
+      "title": "테니스",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 22:50:00 -0800",
+      "news": [
+        {
+          "title": "세르지오 타키니, '서울오픈 챌린저' 공식 후원…윈터 테니스룩 선봬",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261104_0003853986"
+        },
+        {
+          "title": "피엠인터내셔널코리아, ‘서울오픈 챌린저’ 3년 연속 후원",
+          "source": "머니투데이",
+          "url": "https://theleader.mt.co.kr/articleView.html?no=2026110213257817699"
+        },
+        {
+          "title": "60주년 맞은 세르지오 타키니…서울오픈 챌린저 테니스 대회 후원",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1710561/60%EC%A3%BC%EB%85%84-%EB%A7%9E%EC%9D%80-%EC%84%B8%EB%A5%B4%EC%A7%80%EC%98%A4-%ED%83%80%ED%82%A4%EB%8B%88%EC%84%9C%EC%9A%B8%EC%98%A4%ED%94%88-2026"
+        }
+      ]
+    },
+    {
+      "title": "개",
+      "approx_traffic": "2000+",
+      "published": "Tue, 3 Nov 2026 22:40:00 -0800",
+      "news": [
+        {
+          "title": "배우 김수현, 가세연 영상 45개 삭제신청…법원 \"범위 축소해야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261104105400004"
+        },
+        {
+          "title": "김수현 측 “가세연 영상 전부 삭제” 가처분…법원 “범위 특정 먼저”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261104/134964115/1"
+        },
+        {
+          "title": "김수현 “가세연 영상 45개 삭제해달라”…법원 “범위 명확히 해야”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261104580211"
+        }
+      ]
+    },
+    {
+      "title": "전투기",
+      "approx_traffic": "2000+",
+      "published": "Tue, 3 Nov 2026 22:30:00 -0800",
+      "news": [
+        {
+          "title": "여객기 7대에 '폭탄 협박'‥공항 폐쇄·전투기 출격",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6862995_37012.html"
+        },
+        {
+          "title": "AI 해킹공격…냉장고로 시작, 항공기 테러로 확산하나",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/international/2026/11/04/20261104500246"
+        },
+        {
+          "title": "유럽 하늘길 불안…여객기 7대 폭파 위협 신고",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8703234"
+        }
+      ]
+    },
+    {
+      "title": "해병대 제 2 사단",
+      "approx_traffic": "1000+",
+      "published": "Tue, 3 Nov 2026 22:30:00 -0800",
+      "news": [
+        {
+          "title": "CU 軍 간식차 응원전 1위는? 정동원 복무하는 해병2사단...팬심 ‘총동원’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/04/5YYOKT7OYFBLHE3MUUNAOSRHC4/"
+        },
+        {
+          "title": "하나은행·하나카드·CU, 국민 응원 모아 군 장병 간식 지원",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261104500527"
+        },
+        {
+          "title": "CU '우리 부대 응원전' 1위는 제2해병사단…정동원 팬덤도 한몫",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261104031400030"
+        }
+      ]
+    },
+    {
+      "title": "veto",
+      "approx_traffic": "200+",
+      "published": "Tue, 3 Nov 2026 22:20:00 -0800",
+      "news": [
+        {
+          "title": "Trump says he is prepared to use \"tremendous powers\" if Democrats take control",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-midterm-election-2026-interview/"
+        },
+        {
+          "title": "Trump expresses ‘surprise’ at midterm outcome, notes he has the power of VETO",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/video/6407888463112"
+        },
+        {
+          "title": "Nervous White House plans for life after midterms defeat",
+          "source": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/us/politics/2026/11/02/white-house-ready-battle-as-trump-facing-midterms-defeat/"
+        }
+      ]
+    },
+    {
+      "title": "홍석천",
+      "approx_traffic": "200+",
+      "published": "Tue, 3 Nov 2026 22:10:00 -0800",
+      "news": [
+        {
+          "title": "\"그냥 게이랑 놀아\"…홍석천, '일라이 이혼' 지연수에 조언 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/03/2026110305355620873"
+        },
+        {
+          "title": "“그냥 게이랑 놀아” 홍석천, ‘일라이와 이혼’ 지연수에 연애 금지령",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261102/134954154/1"
+        },
+        {
+          "title": "지연수, 썸남 누구였길래..홍석천이 질투까지 “내가 특별히 예뻐한 애”(연수롭다)",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/02/HEYTMMBTGI4WKOJVHAYTINZRGE/"
+        }
+      ]
+    },
+    {
+      "title": "가덕도신공항",
+      "approx_traffic": "500+",
+      "published": "Tue, 3 Nov 2026 21:50:00 -0800",
+      "news": [
+        {
+          "title": "가덕도공항, 6200억 공사비 매듭…대우건설 컨소, 착공 ‘카운트다운’",
+          "source": "대한경제",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031009404680338"
+        },
+        {
+          "title": "\"가덕도신공항 올해 예산집행률 고작 0.03%…정상화 시급\"",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261104.99099001194"
+        },
+        {
+          "title": "“신공항·LCC·도시철도 비상”… 김재운 시의원, 시정 무기력 질타",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/region/article/all/20261104/134962585/1"
+        }
+      ]
+    },
     {
       "title": "약국",
       "approx_traffic": "200+",
       "published": "Tue, 3 Nov 2026 21:30:00 -0800",
       "news": [
         {
-          "title": "숨진 남편 약상자마다 5만원권이…약국 덕분에 3천만원 찾아",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1285700.html"
-        },
-        {
-          "title": "하마터면 폐기할 뻔...약국 직원이 발견한 '봉투'의 정체 [자막뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611041043526841"
-        }
-      ]
-    },
-    {
-      "title": "헤지펀드",
-      "approx_traffic": "1000+",
-      "published": "Tue, 3 Nov 2026 21:20:00 -0800",
-      "news": [
-        {
-          "title": "美 대형 헤지펀드의 '대폭락' 경고…\"주식 시장 망가졌다\"",
+          "title": "올리브영 넘어 약국으로…1세대 K뷰티 토니모리, 판매처 다변화",
           "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611045349i"
+          "url": "https://www.hankyung.com/article/202611044564g"
         },
         {
-          "title": "빌 애크먼 \"주식시장 망가졌다…레버리지 투기 거래에 주가 급등락\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442832"
-        },
-        {
-          "title": "\"대공황 직전 광란과 비슷\"…헤지펀드 운용사의 섬뜩한 경고 [지금이뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0545_202611041020013501"
-        }
-      ]
-    },
-    {
-      "title": "윤석열",
-      "approx_traffic": "500+",
-      "published": "Tue, 3 Nov 2026 21:20:00 -0800",
-      "news": [
-        {
-          "title": "[속보]윤석열 ‘선거법 위반’ 2심도 징역형 집유···확정 땐 국민의힘 397억 반환",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611041443001"
-        },
-        {
-          "title": "[속보] 尹 선거법 2심도 당선무효형...확정시 국힘 397억 반환",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/11/04/EQUHUUGJYBFJTEIZBU2W5Z5XGY/"
-        },
-        {
-          "title": "[속보] 2심 재판부 \"변호사 소개·건진법사 발언, 중요 정보‥허위사실 공표로 선거인 선택 침해\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6863151_36918.html"
-        }
-      ]
-    },
-    {
-      "title": "비상식량",
-      "approx_traffic": "2000+",
-      "published": "Tue, 3 Nov 2026 21:10:00 -0800",
-      "news": [
-        {
-          "title": "일본 방재상 \"재해 틈탄 타국 공격 등에 대비해야\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611041402334345_005.html"
-        },
-        {
-          "title": "日방재상, 재해시 타국 공격 대비 언급해 주목…\"대응할 수 있을까\"",
+          "title": "에이치피오 \"주닥, 佛 파리 K-뷰티 플래그십 허브 'mmm' 입점\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261104_0003854502"
+          "url": "https://www.newsis.com/view/NISX20261102_0003850172"
         },
         {
-          "title": "전 세계 33개국, 시민들에 ‘식량·의약품 비상 비축’ 권고… 인니 단체 “선제적 대응책 촉구”",
-          "source": "한인포스트",
-          "url": "https://haninpost.com/archives/132536"
-        }
-      ]
-    },
-    {
-      "title": "해병대 제2사단",
-      "approx_traffic": "500+",
-      "published": "Tue, 3 Nov 2026 21:10:00 -0800",
-      "news": [
-        {
-          "title": "CU '우리 부대 응원전' 1위는 제2해병사단…정동원 팬덤도 한몫",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104031400030"
-        },
-        {
-          "title": "하나은행·하나카드, CU와 군부대에 간식차 릴레이 지원",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261104_0003854679"
-        },
-        {
-          "title": "하나은행·하나카드·CU, 국민 응원 모아 군 장병 간식 지원",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261104500527"
-        }
-      ]
-    },
-    {
-      "title": "물김치",
-      "approx_traffic": "500+",
-      "published": "Tue, 3 Nov 2026 21:00:00 -0800",
-      "news": [
-        {
-          "title": "“할머니 마지막 음식이었습니다”…‘공짜 물김치’ 건넨 식당 울린 청년의 보은",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261104/134963398/1"
-        },
-        {
-          "title": "\"할머니가 이것만 드셔\"…맨발 청년에 물김치 건넨 가게[오따뉴] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/04/2026110413412885090"
-        },
-        {
-          "title": "\"할머니가 이것만 드세요\"…심야에 건넨 물김치 한 그릇이 만든 기적 [따뜻했슈]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611040651310348"
-        }
-      ]
-    },
-    {
-      "title": "국채",
-      "approx_traffic": "500+",
-      "published": "Tue, 3 Nov 2026 20:50:00 -0800",
-      "news": [
-        {
-          "title": "'블루웨이브' 현실화?…AI 규제 강화 우려에 나스닥 선물 급락 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/04/2026110411132486111"
-        },
-        {
-          "title": "美 국채가, 이란 종전 협상 진전에 하락폭 축소",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442835"
-        },
-        {
-          "title": "유가 급락에 美 국채금리 하락세 지속",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103023300009"
-        }
-      ]
-    },
-    {
-      "title": "강남구",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 20:50:00 -0800",
-      "news": [
-        {
-          "title": "공인노무사가 노동법 실무교육…강남구 '고용노동대학'",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/life/2384616.htm"
-        }
-      ]
-    },
-    {
-      "title": "주한 미군",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 20:50:00 -0800",
-      "news": [
-        {
-          "title": "군사우편으로 대마 밀수한 주한미군 구속",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6863066_36932.html"
-        },
-        {
-          "title": "보충제 통에 숨긴 '합성대마'...평택세관, 군사우편 밀수 주한미군 구속",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261104000486"
-        },
-        {
-          "title": "‘주한미군이 美 군사우편으로 액상대마 밀수’…평택세관, 주한미군·공범 적발",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11628768"
-        }
-      ]
-    },
-    {
-      "title": "greg abbott",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 20:40:00 -0800",
-      "news": [
-        {
-          "title": "Texas Governor Election Live Results 2026",
-          "source": "AP News",
-          "url": "https://apnews.com/projects/elections-2026/texas-governor-results/"
-        },
-        {
-          "title": "Democrat Elected Texas Governor for First Time in 36 Years in Conservative Stronghold",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008830378"
-        },
-        {
-          "title": "Gina Hinojosa Wins Texas Governor Race in Major Upset, Defeating Greg Abbott",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/03/us/texas-governor-abbott-hinojosa.html"
+          "title": "토니모리, 무신사 뷰티 ‘온누리약국 홍대점’ 입점",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=778957"
         }
       ]
     }
