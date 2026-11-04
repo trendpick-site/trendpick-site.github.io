@@ -1,225 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-04T21:52:15+00:00",
+  "fetched_at": "2026-11-04T22:51:58+00:00",
   "items": [
     {
-      "title": "근육",
-      "approx_traffic": "1000+",
-      "published": "Wed, 4 Nov 2026 12:40:00 -0800",
+      "title": "날씨",
+      "approx_traffic": "100000+",
+      "published": "Wed, 4 Nov 2026 13:40:00 -0800",
       "news": [
         {
-          "title": "뱃살 빼면서 근육은 지킨다…평균 72세 노인에게 효과 본 운동법",
-          "source": "주간조선",
-          "url": "https://weekly.chosun.com/news/articleView.html?idxno=56739"
+          "title": "[날씨] 오후까지 곳곳 가을비...이후 찬 바람 불며 기온 '뚝'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202611050652270870"
         },
         {
-          "title": "디앤디파마텍, DD01 연내 기술수출 총력…살 빼고 근육 지키는 신약 공개",
-          "source": "팜이데일리",
-          "url": "https://pharm.edaily.co.kr/News/Read?newsId=05248006645642112"
-        },
-        {
-          "title": "[현장+] 이슬기 디앤디파마텍 대표 \"향후 10년, 임상 결과로 입증할 것\"",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353750"
-        }
-      ]
-    },
-    {
-      "title": "slavia praha vs arsenal",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 12:40:00 -0800",
-      "news": [
-        {
-          "title": "Slavia - Arsenal | FOTBAL ONLINE: Sešívaní v LM proti gigantovi",
-          "source": "Sport.cz",
-          "url": "https://www.sport.cz/clanek/fotbal-liga-mistru-2026-2027-slavia-praha-arsenal-online-5569779"
-        },
-        {
-          "title": "Trpišovský versus Arteta: Roční plat 30 proti 750 milionům",
-          "source": "iSport.cz",
-          "url": "https://isport.blesk.cz/clanek/fotbal-evropske-pohary-liga-mistru/481729/trpisovsky-vs-arteta-ctvrte-dejstvi-brutalni-rozdil-v-platu-ale-stejna-posedlost-detaily.html"
-        },
-        {
-          "title": "Brankářské dilema ve Slavii: Trpišovskému se vrací Markovič, Domchak zaujal",
-          "source": "Ruik",
-          "url": "https://www.ruik.cz/brankarske-dilema-ve-slavii-trpisovskemu-se-vraci-markovic-domchak-zaujal/"
-        }
-      ]
-    },
-    {
-      "title": "기상청",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 12:40:00 -0800",
-      "news": [
-        {
-          "title": "[오늘의 날씨] 강원(5일, 목)…흐리고, 영서남부 중심 비",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/kangwon/6343469"
-        },
-        {
-          "title": "쌀쌀한 강원 아침 출근길…내륙 서리·산지 눈 날림",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103011000062"
-        },
-        {
-          "title": "[날씨] 강원도, 오늘 5~10mm 소나기· · ·내륙과 산지 영하권 잔입",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3742673"
-        }
-      ]
-    },
-    {
-      "title": "xrp 레저",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 12:30:00 -0800",
-      "news": [
-        {
-          "title": "\"XRP 20달러 부양하라\"…리플 경영진에 전달된 공개 서한 파장",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Securities/2026/11/202611021108046010e250e8e188_1"
-        },
-        {
-          "title": "XRP vs 이더리움(ETH), 5년 뒤 투자 성과 승자는?",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/267250"
-        },
-        {
-          "title": "부진한 10월 보낸 XRP…11월 반등 낙관하기 어려운 이유",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712152"
-        }
-      ]
-    },
-    {
-      "title": "젤다의 전설 시간의 오카리나",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 12:30:00 -0800",
-      "news": [
-        {
-          "title": "Why Nintendo is betting on a nearly 30-year-old game remake to win the holiday",
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/11/04/tech/nintendo-link-legend-of-zelda-ocarina-gta"
-        },
-        {
-          "title": "The Legend of Zelda: Ocarina of Time review – a dream come true",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch"
-        },
-        {
-          "title": "Ask the Developer Vol. 24: The Legend of Zelda: Ocarina of Time — Part 4",
-          "source": "Nintendo",
-          "url": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-4/"
-        }
-      ]
-    },
-    {
-      "title": "롯데마트",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 12:30:00 -0800",
-      "news": [
-        {
-          "title": "롯데마트, 햇굴 물량 전년 대비 1.5배 확보…최대 35% 할인",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104143200030"
-        },
-        {
-          "title": "굴값 급등에…롯데마트, 햇굴 물량 늘리고 35% 할인",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110420294338014"
-        },
-        {
-          "title": "롯데마트, 메가통큰 2주차…광어회까지 '반값 공세'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261104000223"
-        }
-      ]
-    },
-    {
-      "title": "해커",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 12:30:00 -0800",
-      "news": [
-        {
-          "title": "[인터뷰] 남기훈 람다256 CTO \"바이낸스 탈취 자금, 지금도 세탁 중\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104160600002"
-        },
-        {
-          "title": "중간선거 당일 '미사일 도발'‥\"선택지엔 대화도\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6863277_37012.html"
-        },
-        {
-          "title": "‘가짜 면접’으로 사내 PC 침투, 5개월간 다단계 공격",
+          "title": "전국 흐리고 곳곳 비…출근길 우산 챙기세요",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611042045015"
-        }
-      ]
-    },
-    {
-      "title": "날씨예보",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 12:30:00 -0800",
-      "news": [
+          "url": "https://www.khan.co.kr/article/202611050635001"
+        },
         {
-          "title": "전국 곳곳 비 소식…남해안·제주 돌풍·천둥번개 주의",
+          "title": "목요일 전국에 겨울 재촉하는 비…입동엔 영하권 추위",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105007600034"
-        },
-        {
-          "title": "[날씨클릭] 전국 추위 부르는 비…비 그친 뒤 주말 곳곳 영하권",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261105061654X0Y"
-        },
-        {
-          "title": "내일 전국에 비‥아침 최저기온 5~14도",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6863199_36981.html"
+          "url": "https://www.yna.co.kr/view/AKR20261104155100530"
         }
       ]
     },
     {
-      "title": "의사",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 12:20:00 -0800",
+      "title": "thời tiết",
+      "approx_traffic": "1000+",
+      "published": "Wed, 4 Nov 2026 13:40:00 -0800",
       "news": [
         {
-          "title": "신촌 세브란스병원 흉기 난동에 의사 1명 부상‥피의자 체포",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6863205_36918.html"
+          "title": "Thời tiết hôm nay 5-11: Nam Bộ có nơi 34 độ C, đêm nay Bắc Bộ đón không khí lạnh",
+          "source": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thoi-tiet-hom-nay-5-11-nam-bo-co-noi-34-do-c-du-mua-mua-moi-chom-het-dem-nay-bac-bo-don-khong-khi-lanh-10026110416362873.htm"
         },
         {
-          "title": "[속보]신촌세브란스 의사 얼굴에 흉기 휘둘러...피의자 검거",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12326492"
+          "title": "[Video] Dự báo thời tiết đêm nay và ngày mai 5/11: Bắc Bộ ngày nắng, cảnh báo dông lốc trên biển",
+          "source": "Báo Nhân Dân điện tử",
+          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-511-bac-bo-ngay-nang-canh-bao-dong-loc-tren-bien-post1000194.html"
         },
         {
-          "title": "[단독]\"담당 환자도 아니었다\"…흉기 막던 정신과 교수, 손뼈·머리까지 다쳐 - 머니투데이",
+          "title": "Dự báo thời tiết ngày 05/11/2026: Mưa rào và dông rải rác, phổ biến 25-32 độ",
+          "source": "moitruong.net.vn",
+          "url": "https://moitruong.net.vn/du-bao-thoi-tiet-ngay-05-11-2026-mua-rao-va-dong-rai-rac-pho-bien-25-32-do-103875.html"
+        }
+      ]
+    },
+    {
+      "title": "홍창기",
+      "approx_traffic": "100+",
+      "published": "Wed, 4 Nov 2026 13:40:00 -0800",
+      "news": [
+        {
+          "title": "‘다년 계약 거절→최악 부진→FA 취득’ 홍창기·박동원, LG 분위기가 달라졌다…차명석 단장 “시장은 움직이니까”",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112903112"
+        },
+        {
+          "title": "\"이주헌 키웠는데도 못 보내?\" LG 박동원, FA 앞두고 몸값이 고민되는 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3HNTpTd8BQ"
+        },
+        {
+          "title": "‘다년 계약 거절→최악 부진→FA 취득’ 홍창기·박동원, LG 분위기가 달라졌다…차명석 단장 “시장은 움직이니까” - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/04/2026110419091921307"
+          "url": "https://www.mt.co.kr/sports/2026/11/04/202611031549775965O"
         }
       ]
     },
     {
-      "title": "노원구",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 12:20:00 -0800",
+      "title": "สภาพอากาศ",
+      "approx_traffic": "1000+",
+      "published": "Wed, 4 Nov 2026 13:30:00 -0800",
       "news": [
         {
-          "title": "노원구, 상계2구역 재개발사업 관리처분계획 인가",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104074600004"
+          "title": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน ไทยมีฝนฟ้าคะนอง-ลมกระโชกแรง 39 จังหวัด",
+          "source": "Sanook",
+          "url": "https://www.sanook.com/news/9910994/"
         },
         {
-          "title": "홍지선 국토장관 “올해 수도권 정비사업 5.3만 가구 착공 전망”",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2644123"
+          "title": "เช็กลิสต์ปริมาณน้ำในอ่างเก็บน้ำ ล่าสุด รับมือสภาพอากาศแปรปรวน",
+          "source": "bangkokbiznews",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1259344"
         },
         {
-          "title": "상계2구역 2,646세대, 용적률 완화 - 당고개역 250m 안 67%, 조합원 1,343명의 분담금은 얼마나 줄어들까?",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/plaform/bg/contents/261104143531033an"
+          "title": "ปภ. แจ้งเตือน 61 จังหวัด และ กทม. เตรียมรับมือฝนฟ้าคะนอง-ลมแรง",
+          "source": "komchadluek",
+          "url": "https://www.komchadluek.net/news/general-news/625156"
+        }
+      ]
+    },
+    {
+      "title": "lens vs como",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 13:30:00 -0800",
+      "news": [
+        {
+          "title": "Show histórico de Cesc y Nico Paz",
+          "source": "Diario AS",
+          "url": "https://as.com/futbol/champions/show-historico-de-cesc-y-nico-paz-f202611-n/"
+        },
+        {
+          "title": "😱 ¿Rumbo a una goleada récord? ¡El debutante de Champions se desata!",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/es/noticias/rumbo-a-una-goleada-record-el-debutante-de-champions-se-desata-43727087"
+        },
+        {
+          "title": "1-9. El Como firma una noche histórica",
+          "source": "Infobae",
+          "url": "https://www.infobae.com/america/agencias/2026/11/04/1-9-el-como-firma-una-noche-historica/"
+        }
+      ]
+    },
+    {
+      "title": "서인영",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 13:30:00 -0800",
+      "news": [
+        {
+          "title": "서인영, 12월 26일 재혼 깜짝 발표…신랑은 NP 최지훈 대표",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12197068"
+        },
+        {
+          "title": "'12월 결혼' 서인영, 사회자로 '대세' 이재율에 러브콜",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261105_0003855427"
+        },
+        {
+          "title": "서인영, 12월 26일 재혼…\"교회에서 스몰웨딩\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/04/2026110422094748321"
+        }
+      ]
+    },
+    {
+      "title": "погода",
+      "approx_traffic": "1000+",
+      "published": "Wed, 4 Nov 2026 13:20:00 -0800",
+      "news": [
+        {
+          "title": "Жителей Беларуси предупреждают о гололедице на дорогах 5 ноября",
+          "source": "Gismeteo",
+          "url": "https://www.gismeteo.by/news/klimat/zhitelej-belarusi-preduprezhdajut-o-gololedice-na-dorogah-5-nojabrja/"
+        },
+        {
+          "title": "В Беларуси ночью и утром 5 ноября ожидается гололедица",
+          "source": "Новости Беларуси | БелТА",
+          "url": "https://belta.by/society/view/v-belarusi-nochjju-i-utrom-5-nojabrja-ozhidaetsja-gololeditsa-809291-2026/"
+        },
+        {
+          "title": "От +8°С до резких -7°С. Эту область Беларуси могут накрыть первые ноябрьские морозы",
+          "source": "Smartpress.by",
+          "url": "https://smartpress.by/news/ot-8-do-rezkikh-7-s-etu-oblast-belarusi-mogut-nakryt-pervye-noyabrskie-morozy/"
+        }
+      ]
+    },
+    {
+      "title": "天气",
+      "approx_traffic": "500+",
+      "published": "Wed, 4 Nov 2026 13:20:00 -0800",
+      "news": [
+        {
+          "title": "Winter Weather Advisory: Up to 10 inches of snow and flood warnings hit Colorado",
+          "source": "9News",
+          "url": "https://www.9news.com/article/weather/weather-colorado/winter-weather-advisory-up-to-10-inches-of-snow-and-flood-warnings-hit-colorado/73-b8eba437-a6dc-421d-9a8e-04afd49ffbe6"
+        },
+        {
+          "title": "Colorado weather: Up to 10 inches of snow forecast for mountains",
+          "source": "The Denver Post",
+          "url": "https://www.denverpost.com/2026/11/04/colorado-weather-forecast-snow-mountains-wednesday/"
+        },
+        {
+          "title": "Winter weather advisory issued for Summit County as back-to-back storms approach Colorado mountains",
+          "source": "SummitDaily.com",
+          "url": "https://www.summitdaily.com/news/winter-weather-advisory-issued-for-summit-county-as-back-to-back-storms-approach-colorado-mountains/"
+        }
+      ]
+    },
+    {
+      "title": "klasemen aek athens vs real madrid",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 13:10:00 -0800",
+      "news": []
+    },
+    {
+      "title": "sk에코플랜트",
+      "approx_traffic": "100+",
+      "published": "Wed, 4 Nov 2026 13:10:00 -0800",
+      "news": [
+        {
+          "title": "SK㈜, SK에코플랜트 잔여 지분 전량 인수…1조4462억원 투입해 완전자회사 편입 추진",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/04/2026110480207.html"
+        },
+        {
+          "title": "SK㈜, SK에코플랜트 주식 공개매수…상장 대신 완전자회사 편입",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1189136"
+        },
+        {
+          "title": "SK㈜, SK에코플랜트 IPO 대신 '완전 자회사' 선택",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7y56De1yQK"
         }
       ]
     }
