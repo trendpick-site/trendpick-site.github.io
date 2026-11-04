@@ -1,225 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-04T10:06:29+00:00",
+  "fetched_at": "2026-11-04T12:24:40+00:00",
   "items": [
     {
-      "title": "이영표",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 01:00:00 -0800",
-      "news": [
-        {
-          "title": "아시안컵 내년 12월로 연기…‘임시 체제’ 한국, 시간 벌었다 [이런뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702725"
-        },
-        {
-          "title": "1년 밀린 손흥민의 ’라스트 댄스’…모레노 감독 거취는?",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261104184450N2i"
-        },
-        {
-          "title": "1년 시간 번 축구 대표팀, 무한경쟁 시작될까",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001602"
-        }
-      ]
-    },
-    {
-      "title": "전지윤",
+      "title": "다니엘기도회 2026",
       "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 01:00:00 -0800",
+      "published": "Wed, 4 Nov 2026 03:20:00 -0800",
       "news": [
         {
-          "title": "전지윤, 결혼한다…현아 이어 포미닛 두 번째 유부녀",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261104_0003854645"
+          "title": "[2026 다니엘기도회: 3일] 원천희 선교사 “고난은 실패가 아니라 하나님의 훈련” : 목회/신학",
+          "source": "크리스천투데이",
+          "url": "https://www.christiantoday.co.kr/news/378363"
         },
         {
-          "title": "'포미닛' 전지윤, 비연예인 연인과 백년가약…“부끄럽고 설레”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261104580454"
+          "title": "‘2026 다니엘기도회’ 21일간 영적 대장정 돌입",
+          "source": "기독신문",
+          "url": "https://www.kidok.com/news/articleView.html?idxno=509327"
         },
         {
-          "title": "포미닛 전지윤, 11월 신부 된다…\"♥예비신랑, 나보다 멋져\" - 머니투데이",
+          "title": "'2026 다니엘기도회' 21일간의 여정 돌입…GOODTV 전 과정 생중계",
+          "source": "데일리굿뉴스",
+          "url": "https://www.goodnews1.com/news/articleView.html?idxno=465742"
+        }
+      ]
+    },
+    {
+      "title": "류지혁",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 03:10:00 -0800",
+      "news": [
+        {
+          "title": "[한번에쓱] 최형우도 빼며 승부걸었는데 '아...역기서 병살타라니' 류지혁 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/04/2026110415061430379"
-        }
-      ]
-    },
-    {
-      "title": "테슬라",
-      "approx_traffic": "1000+",
-      "published": "Wed, 4 Nov 2026 01:00:00 -0800",
-      "news": [
-        {
-          "title": "\"테슬라 한 주도 안 팔았는데\"…30조 쥔 서학개미 '날벼락'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026110336371"
+          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110420382150373"
         },
         {
-          "title": "테슬라·스페이스X 합병시 주식 안팔아도 양도소득세?…서학개미 비상",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104138700008"
-        },
-        {
-          "title": "테슬라와 스페이스X 합병 추진, 머스크의 두 제국이 하나로?",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3782"
-        }
-      ]
-    },
-    {
-      "title": "대학 총장",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 00:50:00 -0800",
-      "news": [
-        {
-          "title": "﻿고대 총장 선거, 박종훈·조윤정 의대 교수 출사표",
-          "source": "데일리메디",
-          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=942209"
-        },
-        {
-          "title": "고려대 22대 총장선거에 10명 출사표…김동원 전 총장 연임 도전",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261102161000004"
-        },
-        {
-          "title": "“교수 연봉 3억 시대 열겠습니다”…서울 주요대 총장들 연임 승부수",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12195674"
-        }
-      ]
-    },
-    {
-      "title": "백만장자",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 00:40:00 -0800",
-      "news": [
-        {
-          "title": "“청바지로 10억 벌고 김치로 20억 날려”…정민서의 인생 역전기 (백만장자)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261104/134963470/1"
-        },
-        {
-          "title": "'백만장자' 정민서, 김치로 20억 날렸다…\"앞이 캄캄하다는 말 실감\"",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523491"
-        },
-        {
-          "title": "재벌가 사모님 픽 '김치 명장' 정민서 \"母, 지푸라기로 요리해도 맛있다는 말 듣기도\" (백만장자)",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/11/04/GNRTMYJWMZQTKNRVMY2WEOJSHE/"
-        }
-      ]
-    },
-    {
-      "title": "고영표",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 00:30:00 -0800",
-      "news": [
-        {
-          "title": "한국시리즈 2차전...kt \"홈 2연승\" 삼성 \"원정 1승 1패\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0107_202611041717473788_005.html"
-        },
-        {
-          "title": "[사진]첫 안타 치는 최원준",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/04/MVSTGYZVGM2TEYZYMQYGMMRSG4/"
-        },
-        {
-          "title": "좌타자 7명 도배한 박진만 삼성 감독 \"고영표만 내리면…\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104157600007"
-        }
-      ]
-    },
-    {
-      "title": "배그 아이브",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 00:30:00 -0800",
-      "news": [
-        {
-          "title": "패치 노트 - 업데이트 44.1 - 뉴스 - PUBG: 배틀그라운드",
-          "source": "PUBG: BATTLEGROUNDS",
-          "url": "https://pubg.com/ko/news/11338"
-        },
-        {
-          "title": "장원영·카리나 똑같이 막혔다···아이브도 배그 ‘비키니 금지’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611041737003"
-        },
-        {
-          "title": "맵 서비스 리포트 - 업데이트 44.1 - 뉴스 - PUBG: 배틀그라운드",
-          "source": "PUBG: BATTLEGROUNDS",
-          "url": "https://pubg.com/ko/news/11336"
-        }
-      ]
-    },
-    {
-      "title": "레미콘",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 00:10:00 -0800",
-      "news": [
-        {
-          "title": "DL이앤씨, 콘크리트 품질관리 강화…외벽 미충전 면적 88% 줄여",
-          "source": "메트로신문",
-          "url": "https://www.metroseoul.co.kr/article/20261104500116"
-        },
-        {
-          "title": "레미콘 품질 논란... DL이앤씨의 해법, 주목받는 이유",
-          "source": "글로벌경제신문",
-          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=885916"
-        },
-        {
-          "title": "[후진국형 레미콘 타설 구조]③ 권고라더니 현장 감시…관내 레미콘 활용 압박",
-          "source": "대한경제",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031430024580437"
-        }
-      ]
-    },
-    {
-      "title": "가덕도 신공항",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 00:10:00 -0800",
-      "news": [
-        {
-          "title": "가덕도공항, 6200억 공사비 매듭…대우건설 컨소, 착공 ‘카운트다운’",
-          "source": "대한경제",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031009404680338"
-        },
-        {
-          "title": "\"가덕도신공항 올해 예산집행률 고작 0.03%…정상화 시급\"",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261104.99099001194"
-        },
-        {
-          "title": "“신공항·LCC·도시철도 비상”… 김재운 시의원, 시정 무기력 질타",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/region/article/all/20261104/134962585/1"
-        }
-      ]
-    },
-    {
-      "title": "한국어",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 00:00:00 -0800",
-      "news": [
-        {
-          "title": "\"진짜? 미안해!\"…日 Z세대 입에서 '한국말' 쏟아지는 이유",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611044577i"
-        },
-        {
-          "title": "\"괜찮아\" \"형·언니\"…日 젊은층서 유행하는 '한본어'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103006700072"
-        },
-        {
-          "title": "[만물상] \"언니 진짜 아리가토!\"",
+          "title": "[사진]충돌하는 류지혁과 류현인",
           "source": "조선일보",
-          "url": "https://www.chosun.com/opinion/manmulsang/2026/11/03/O363E5HI7RAOTJSMX4HH3APSFM/"
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/GJSTGOLBMI3TKMTGGZTDGYTCMQ/"
+        },
+        {
+          "title": "만루 찬스 놓친 류지혁",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261104_0021519437"
+        }
+      ]
+    },
+    {
+      "title": "엘앤에프",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 03:00:00 -0800",
+      "news": [
+        {
+          "title": "[단독] 배터리 3사 싹쓸이…엘앤에프, 6만t LFP 신공장 짓는다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611033805i"
+        },
+        {
+          "title": "현대차, 포스코퓨처엠 베트남 음극재 사업에 1천억 투자 추진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103137900003"
+        },
+        {
+          "title": "엘앤에프플러스, 현대제철과 LFP 양극재용 산화철 공급 협력",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374252"
+        }
+      ]
+    },
+    {
+      "title": "송혜교",
+      "approx_traffic": "2000+",
+      "published": "Wed, 4 Nov 2026 02:20:00 -0800",
+      "news": [
+        {
+          "title": "송혜교, 또 헤어스타일리스트 이일중과 투샷 포착",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261104_0003853703"
+        },
+        {
+          "title": "45세 송혜교, 흑백 사진 속 ‘눈부신 미모’..화면 뚫고 나오는 우아함",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112903727"
+        },
+        {
+          "title": "송혜교, 홍콩서 남사친 어깨에 '브이'…독보적 비주얼 [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6342126"
+        }
+      ]
+    },
+    {
+      "title": "klasemen melbourne victory vs persib bandung",
+      "approx_traffic": "500+",
+      "published": "Wed, 4 Nov 2026 02:20:00 -0800",
+      "news": [
+        {
+          "title": "Hasil Babak Pertama Melbourne Victory vs Persib 0-0: Pertahanan Maung Solid, Lini Depan Kebingungan, Tolic Main Aman?",
+          "source": "AFU.id",
+          "url": "https://afu.id/olahraga/babak-pertama-melbourne-victory-vs-persib-00-pertahanan-maung-solid-lini-depan-kebingungan-tolic-main-aman"
+        },
+        {
+          "title": "Nyaris Bikin Persib Kalah, Tangis Fitrah Maulana Pecah di Pelukan Sandy Walsh",
+          "source": "Radar Cirebon",
+          "url": "https://radarcirebon.disway.id/sport/read/235089/nyaris-bikin-persib-kalah-tangis-fitrah-maulana-pecah-di-pelukan-sandy-walsh"
+        },
+        {
+          "title": "Takut Dibantai Persib Lagi, Melbourne Victory Lupakan Derby di Liga Australia",
+          "source": "VIVA.co.id",
+          "url": "https://www.viva.co.id/bola/1940959-takut-dibantai-persib-lagi-melbourne-victory-lupakan-derby-di-liga-australia"
+        }
+      ]
+    },
+    {
+      "title": "디아즈",
+      "approx_traffic": "500+",
+      "published": "Wed, 4 Nov 2026 02:10:00 -0800",
+      "news": [
+        {
+          "title": "[포토] 디아즈 '힐리어드 애썼데이' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110419364014137"
+        },
+        {
+          "title": "페덱의 실수",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261104_0021519397"
+        },
+        {
+          "title": "[사진]펜스와 충동하는 최원준",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112904124"
+        }
+      ]
+    },
+    {
+      "title": "김지찬",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 02:10:00 -0800",
+      "news": [
+        {
+          "title": "삼성 김지찬 \"아직 1패…우리가 먼저 네 번 이기면 된다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261104160800007"
+        },
+        {
+          "title": "[사진]몸 날리는 장준원",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/03/GRRGEZJWMNQWMZDGGU3WKNJSG4/"
+        },
+        {
+          "title": "\"(김)상수 형, 은퇴 전 삼성 돌아왔으면\" 적으로 만난 4회 우승 선배 향한 김지찬 진심 \"그래도 반지는 우리가 가져갈게요\" [KS2 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110414025245468"
+        }
+      ]
+    },
+    {
+      "title": "서울 sk 대 대구 한국가스공사",
+      "approx_traffic": "1000+",
+      "published": "Wed, 4 Nov 2026 01:50:00 -0800",
+      "news": [
+        {
+          "title": "‘벨란겔 클러치타임 3점슛 미쳤다!’ 한국가스공사, SK 6연승 저지했다",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112904320"
+        },
+        {
+          "title": "“힉스, 기대보다 훨씬 잘해준다”…전희철 감독이 꼽은 SK 상승세 이유 [쿠키 현장]",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202611040242"
+        },
+        {
+          "title": "[BK 프리뷰] ‘같은 5승, 다른 무게’ 5연승 SK vs 5할 복귀 노리는 한국가스공사",
+          "source": "바스켓코리아",
+          "url": "https://www.basketkorea.com/news/newsview.php?ncode=1065549458513778"
+        }
+      ]
+    },
+    {
+      "title": "난파선",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 01:50:00 -0800",
+      "news": [
+        {
+          "title": "고려 난파선서 길어 올린 800년 전 물류의 비밀",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611042028015"
+        },
+        {
+          "title": "영암서 곡물 싣고 개경으로…800년 전 태안 바다에 잠든 고려 배",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261104000700005"
+        },
+        {
+          "title": "'바다의 경주'에 잠들었던 800년 전 선박…오늘 흔적 찾았다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/11/04/2026110414311187834"
+        }
+      ]
+    },
+    {
+      "title": "samsung vs kt",
+      "approx_traffic": "1000+",
+      "published": "Wed, 4 Nov 2026 01:30:00 -0800",
+      "news": [
+        {
+          "title": "Kim Jeong-woon's Seventh-Inning Struggle Leads to KT's 8-7 Victory",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/04/YWR7HGDQ5RE2TFDT3VIV2RIVW4/"
+        },
+        {
+          "title": "Jang Chan-hee mixes confidence and regret after Korean Series debut loss",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/11/04/BFGLBJFBAJAYRNVQFQJASZ3NAU/"
+        },
+        {
+          "title": "Wiz closer Park Yeong-hyun says belief in himself, catcher led to big Korean Series save",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20261104002400315"
         }
       ]
     }
