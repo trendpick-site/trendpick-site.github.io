@@ -1,33 +1,182 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-04T13:48:30+00:00",
+  "fetched_at": "2026-11-04T14:57:53+00:00",
   "items": [
     {
-      "title": "야구중계",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 04:40:00 -0800",
+      "title": "우규민",
+      "approx_traffic": "5000+",
+      "published": "Wed, 4 Nov 2026 05:30:00 -0800",
       "news": [
         {
-          "title": "‘스포츠 명가’ 삼성의 부활…야구-축구-농구-배구 일제히 ‘파란 돌풍’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261103/134957943/1"
+          "title": "연장 12회 혈투, 마지막 웃은 건 삼성...상대 실책 틈타 결승 득점",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/04/4XD4NGYJ3RAJ5GI75GDAD7WSOU/"
         },
         {
-          "title": "10구단 체제 KS, '업셋' 두 번…모두 PO 끝장 승부 승자가 정상",
+          "title": "2차전 살얼음판 승부…디아즈는 왜 뛰었을까?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704214"
+        },
+        {
+          "title": "삼성, 연장 12회 혈투 끝에 웃었다…kt 꺾고 KS 1승 1패",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261104184400007"
+        }
+      ]
+    },
+    {
+      "title": "이요원",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 05:20:00 -0800",
+      "news": [
+        {
+          "title": "이요원 美 명문대 졸업 큰딸 공개…173㎝ 엄마보다 큰 키 깜짝 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/04/2026110417294624501"
+        },
+        {
+          "title": "‘23세에 첫 출산’ 이요원, 미모 쏙 빼닮은 장녀 공개…美 명문대 졸업",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12196545"
+        },
+        {
+          "title": "김영란, '23세 결혼' 이요원에 \"너무 일찍 시집 가…신인 때 눈에 딱 들어왔다\"",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6341143"
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6342739"
+        }
+      ]
+    },
+    {
+      "title": "이유리",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 05:10:00 -0800",
+      "news": [
+        {
+          "title": "이유리, 이사한 새집 최초 공개…“전문가 18명이 짐 정리, 15시간 걸렸다”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20110100"
         },
         {
-          "title": "\"후라도가 다 했다\"...삼성, KIA 꺾고 2년 만에 한국시리즈 진출",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_sn/0107_202611011858450055"
+          "title": "이유리, 띠동갑 ♥목사와 결혼하더니..17년만 새 집 공개 \"전문가 18인 도움\"(편스토랑)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/04/GE2TKY3EHA4TCZDGGI2DINZXGI/"
+        },
+        {
+          "title": "\"드레스룸도 대용량 여신\" 이유리, 연민정룩→'1279만뷰' 원피스 다 있다 '감탄'('편스토랑')",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017525"
+        }
+      ]
+    },
+    {
+      "title": "수사",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 05:10:00 -0800",
+      "news": [
+        {
+          "title": "장윤기 사건 '케이블타이' 영상 지우라더니…\"징계 두려웠다\"는 경찰 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/04/2026110420022314127"
+        },
+        {
+          "title": "장윤기父에 수사 정보 누설 경찰관 \"고의·특혜 아냐…경솔한 행동\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gwangju-jeonnam/6343295"
+        },
+        {
+          "title": "장윤기 사건 수사팀장 \"사이코 패스만 의심… 고의 증거 은폐 아니었다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/regional/honam/2026/11/04/SNTQEGI33RDT7APIQRB7JTEPZM/"
+        }
+      ]
+    },
+    {
+      "title": "박계범",
+      "approx_traffic": "1000+",
+      "published": "Wed, 4 Nov 2026 05:10:00 -0800",
+      "news": [
+        {
+          "title": "이재현 '한점 더 달아나자'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8197854"
+        },
+        {
+          "title": "[사진]환호하는 삼성 김성윤, '찬스 만들었어'",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/04/MZQTSYTFHEYWEMZVG5TDKOJZGU/"
+        }
+      ]
+    },
+    {
+      "title": "kbo",
+      "approx_traffic": "2000+",
+      "published": "Wed, 4 Nov 2026 05:00:00 -0800",
+      "news": [
+        {
+          "title": "Si Hwan Roh leads next crop of MLB-bound KBO stars",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/si-hwan-roh-and-the-kbo-stars-who-could-be-mlb-bound"
+        },
+        {
+          "title": "Si-Hwan Roh Posted for MLB Teams, Top Landing Spots for Korean Star in Free Agency",
+          "source": "Bleacher Report",
+          "url": "https://bleacherreport.com/articles/25528615-si-hwan-roh-posted-mlb-teams-top-landing-spots-korean-star-free-agency"
+        },
+        {
+          "title": "Roh Si-hwan Receives D- Rating in MLB Posting Evaluation",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/04/HSLFPCWRXBEMNC4HQYK27OH5PQ/"
+        }
+      ]
+    },
+    {
+      "title": "알렉산더 즈베레프",
+      "approx_traffic": "1000+",
+      "published": "Wed, 4 Nov 2026 05:00:00 -0800",
+      "news": [
+        {
+          "title": "신네르·알카라스 양강 구도 균열 낸 츠베레프, 생애 첫 세계 1위 등극",
+          "source": "뉴시스",
+          "url": "https://nwww.newsis.com/view/NISX20261030_0003848322"
+        },
+        {
+          "title": "'최고령 생애 첫 1위 등극' 츠베레프... 불안함 지우고 유지 가능할까",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026110315390000771"
+        },
+        {
+          "title": "'차세대’ 꼬리표 떼고 마침내 정상… 즈베레프, 생애 첫 세계 1위",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05654726645618168&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "title": "kt wiz",
+      "approx_traffic": "1000+",
+      "published": "Wed, 4 Nov 2026 05:00:00 -0800",
+      "news": [
+        {
+          "title": "[Photo] Kim Sang-jun smashes first postseason at-bat hit",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/04/4RLO452UARGSVBV73E5EWHMGWQ/"
+        },
+        {
+          "title": "KT Seeks Second Straight Win as Samsung Aims to Strike Back",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008831132"
+        },
+        {
+          "title": "Lions defeat Wiz in extra innings to even up Korean Series",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20261104011400315"
         }
       ]
     },
     {
       "title": "당기순이익",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Wed, 4 Nov 2026 04:40:00 -0800",
       "news": [
         {
@@ -48,178 +197,24 @@
       ]
     },
     {
-      "title": "구자욱",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 04:30:00 -0800",
+      "title": "야구중계",
+      "approx_traffic": "1000+",
+      "published": "Wed, 4 Nov 2026 04:40:00 -0800",
       "news": [
         {
-          "title": "기뻐하는 구자욱",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261104_0021519600"
-        },
-        {
-          "title": "[사진]멀티히트 최형우",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/MJRDINZRGFRTKNZQG4ZDOZRUG4/"
-        },
-        {
-          "title": "\"낯선 투수도 문제없다” 자신했지만…대니엘에 막힌 삼성, 뒤늦게 터진 방망이, 최원태 5실점 없었더라면 [KS1]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112903602"
-        }
-      ]
-    },
-    {
-      "title": "무죄",
-      "approx_traffic": "2000+",
-      "published": "Wed, 4 Nov 2026 04:10:00 -0800",
-      "news": [
-        {
-          "title": "‘당선무효형’ 대법 확정되면 윤석열이 ‘헌정 사상 첫 사례’",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12326499"
-        },
-        {
-          "title": "국민의힘, 397억 반납 현실화? 尹, 공직선거법 2심도 당선무효형",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11628855"
-        },
-        {
-          "title": "尹 “李 무죄 법리 적용해야” 주장했지만... 2심은 ‘李 유죄’ 판례로 징역형",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/11/04/57BKFWNXYRHCVLFZTAUPKSIHUU/"
-        }
-      ]
-    },
-    {
-      "title": "삼성갤",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 04:00:00 -0800",
-      "news": [
-        {
-          "title": "'갤럭시 버즈' 청력 기능 추가…식약처 허가 획득",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611041106147826"
-        },
-        {
-          "title": "이어폰이 보청기 역할한다…삼성 갤럭시 버즈, 식약처 의료기기 허가 획득",
+          "title": "‘스포츠 명가’ 삼성의 부활…야구-축구-농구-배구 일제히 ‘파란 돌풍’",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/It/article/all/20261104/134962777/1"
+          "url": "https://www.donga.com/news/Culture/article/all/20261103/134957943/1"
         },
         {
-          "title": "청력 검사부터 사물 인식까지…웨어러블의 진화",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000241"
-        }
-      ]
-    },
-    {
-      "title": "이승민",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 04:00:00 -0800",
-      "news": [
-        {
-          "title": "삼성 원태인 \"주자 남겨놓지 마\"…이승민 \"내로남불이 심하네\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103164500007"
+          "title": "10구단 체제 KS, '업셋' 두 번…모두 PO 끝장 승부 승자가 정상",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6341143"
         },
         {
-          "title": "[사진]삼성 이승민, '실점은 없다'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/GIZDKOBXG43DMOBXGVSWMNDEGQ/"
-        },
-        {
-          "title": "KIA는 5경기 쩔쩔맸는데…1위팀은 다르다, ‘ERA 1.69’ 삼성 좌완 공략 자신 “충분히 해볼만한 투수” [KS1]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112903123"
-        }
-      ]
-    },
-    {
-      "title": "안현민",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 04:00:00 -0800",
-      "news": [
-        {
-          "title": "[포토] 안현민 '승리가 보인다' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110422052033405"
-        },
-        {
-          "title": "[사진]파울 라인 벗어나지 않는 안현민의 타구",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/GU2DEYTDMQZTANRVHE2DOZJXG4/"
-        },
-        {
-          "title": "‘PS 데뷔전부터 쾅!’ 신인왕 출신 국대 외야수, 1점 차 승리 이끈 값진 홈런 한 방…“박영현 폭투 때 가장 떨렸다” [KS1]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112903740"
-        }
-      ]
-    },
-    {
-      "title": "김성윤",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 03:50:00 -0800",
-      "news": [
-        {
-          "title": "[사진]환호하는 삼성 김성윤, '찬스 만들었어'",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/04/MZQTSYTFHEYWEMZVG5TDKOJZGU/"
-        },
-        {
-          "title": "[사진]실점 위기 탈출 김정운",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/G5SGGYTEGUZDKMJRGJSTKY3DGY/"
-        },
-        {
-          "title": "[사진]삼성 유격수 이재현, '위기는 병살로'",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112904243"
-        }
-      ]
-    },
-    {
-      "title": "acl two",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 03:30:00 -0800",
-      "news": [
-        {
-          "title": "Lion City Sailors become first S’pore club to beat A-league team on Australian soil, netizens’ ...",
-          "source": "Must Share News",
-          "url": "https://mustsharenews.com/mixed-reactions-lcs-win-acl/"
-        },
-        {
-          "title": "Lion City vs Adelaide United AFC Champions League 2 Tips, Prediction & Live Stream - Lion City to ease past Adelaide at home",
-          "source": "Bets.com.au",
-          "url": "https://www.bets.com.au/soccer/asian-champions-league/lion-city-vs-adelaide-united-afc-champions-league-2-tips-prediction-live-stream-20261104-0006/"
-        },
-        {
-          "title": "‘Quite off’ Reds rocked by late Sailors strikes in Asia",
-          "source": "A-Leagues",
-          "url": "https://aleagues.com.au/news/quite-off-reds-rocked-by-late-sailors-strikes-in-asia/"
-        }
-      ]
-    },
-    {
-      "title": "다니엘기도회 2026",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 03:20:00 -0800",
-      "news": [
-        {
-          "title": "2026 다니엘기도회 4일차 강사, 도박 걱정 성직자 모임 정석용 사무총장 : 목회/신학",
-          "source": "크리스천투데이",
-          "url": "https://www.christiantoday.co.kr/news/378375"
-        },
-        {
-          "title": "‘2026 다니엘기도회’ 21일간 영적 대장정 돌입",
-          "source": "기독신문",
-          "url": "https://www.kidok.com/news/articleView.html?idxno=509327"
-        },
-        {
-          "title": "'2026 다니엘기도회' 21일간의 여정 돌입…GOODTV 전 과정 생중계",
-          "source": "데일리굿뉴스",
-          "url": "https://www.goodnews1.com/news/articleView.html?idxno=465742"
+          "title": "[포토] 답변하는 박진만 감독",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1646903"
         }
       ]
     }
