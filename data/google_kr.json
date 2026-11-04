@@ -1,209 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-04T19:59:43+00:00",
+  "fetched_at": "2026-11-04T20:55:53+00:00",
   "items": [
     {
-      "title": "혈당",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 10:50:00 -0800",
-      "news": [
-        {
-          "title": "연인·가족과 함께할 때 몸도 편안해진다… “혈당 변동 폭 줄고 스트레스 완화”",
-          "source": "하이닥",
-          "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=69643"
-        },
-        {
-          "title": "“혈당 스파이크 막는다” 채정안이 식사 전 ‘깻잎’ 먼저 먹는 이유",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/11/03/2026110302219.html"
-        },
-        {
-          "title": "“식사 30분 전 ‘20g’ 먹어보세요”… 식후 혈당 급상승 막는 가장 쉬운 방법",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/11/04/2026110401962.html"
-        }
-      ]
-    },
-    {
-      "title": "김보연",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 10:40:00 -0800",
-      "news": []
-    },
-    {
-      "title": "강호동",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 10:40:00 -0800",
-      "news": [
-        {
-          "title": "경찰, '뇌물 수수 의혹' 강호동 농협중앙회장 구속영장 신청",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6863214_36918.html"
-        },
-        {
-          "title": "강호동 농협회장 1억대 금품수수…경찰, 수사 1년 만에 구속영장 신청",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611042059045"
-        },
-        {
-          "title": "강호동 농협중앙회장 구속영장 신청...개인 사법리스크 넘어 농협 개혁 시험대",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353883"
-        }
-      ]
-    },
-    {
-      "title": "소유진",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 10:30:00 -0800",
-      "news": [
-        {
-          "title": "'백종원♥' 소유진, 블랙 언더웨어 비치는 시스루톱 입고 외출…과감한 애셋맘",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/11/04/HA3GGZJZGJSDMMZQHBSTCMJQGU/"
-        },
-        {
-          "title": "`백종원♥` 소유진, 이렇게 화사할 수가…물 오른 미모에 감탄만",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026110413441670974"
-        },
-        {
-          "title": "‘백종원♥’ 소유진, 운동 끝나자마자 자녀들과 또 수영..강철 체력 ‘삼남매맘’",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261027160115705"
-        }
-      ]
-    },
-    {
-      "title": "도깨비",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 10:30:00 -0800",
-      "news": [
-        {
-          "title": "카카오게임즈 3분기 영업손실 263억원…적자 확대",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104026600527"
-        },
-        {
-          "title": "카카오게임즈, '도깨비의세계'서 희망 봤다…턴어라운드 기대감↑ - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/11/04/2026110409221390516"
-        },
-        {
-          "title": "[클릭 e종목]\"카카오게임즈, 게임업종 톱픽…목표가 상향\"",
-          "source": "아시아경제",
-          "url": "https://core.asiae.co.kr/article/2026110419271769585"
-        }
-      ]
-    },
-    {
-      "title": "레알마드리드",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 10:10:00 -0800",
-      "news": [
-        {
-          "title": "챔피언스 리그 AEK 아테네 대 레알 마드리드 경기 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-aek-athens-vs-real-madrid-tai-champions-league-1794631.ldo"
-        },
-        {
-          "title": "무리뉴: \"레알은 아직 어떤 타이틀도 따내지 못했습니다. 이제 시작일 뿐입니다.\"",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/mourinho-real-chua-thang-danh-hieu-nao-tat-ca-moi-bat-dau"
-        },
-        {
-          "title": "AEK 아테네 vs 레알 마드리드, 11월 5일 00:45: 생중계 링크, 분석 및 예측.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/aek-athens-vs-real-madrid-0h45-ngay-5-11-link-xem-truc-tiep-nhan-dinh-du-doan"
-        }
-      ]
-    },
-    {
-      "title": "리버풀",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 09:50:00 -0800",
-      "news": [
-        {
-          "title": "페네르바체 vs 리버풀 예측: 원정 경기에서의 경기력이 시험대에 오를 것이다",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-fenerbahce-vs-liverpool-ban-linh-san-khach-duoc-thu-lua"
-        },
-        {
-          "title": "[오피셜] 김민재 前 소속팀 페네르바체에서 김민재 지도하고, ‘승점 99점’ 준우승했던 감독 자진 사임",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99975"
-        },
-        {
-          "title": "[오피셜] ‘리버풀 출신’ 디르크 카윗, 페네르바체 임시 감독으로… 선수로 뛰던 친정팀 지휘한다",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313544"
-        }
-      ]
-    },
-    {
-      "title": "한화 이글스",
-      "approx_traffic": "1000+",
-      "published": "Wed, 4 Nov 2026 09:40:00 -0800",
-      "news": [
-        {
-          "title": "미 SI가 평가한 ‘한화 노시환’…“수비수로 어깨 강하지만 좌우 움직임 개선 필요”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611032037025"
-        },
-        {
-          "title": "'킹캉' 못잊는 피츠버그, 노시환 주목할 수밖에 없었던 숨은 이유…관건은 실제 제안",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/05/GFRTKYJZGA3GCMJZGI2TEYTFMU/"
-        },
-        {
-          "title": "“노시환은 노숙자 수준” 폰세와 한솥밥은 무리인가, 美매체 혹평일색…아시아 포스팅 선수 중 평가 꼴찌 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/04/202611041433772691O"
-        }
-      ]
-    },
-    {
-      "title": "aek vs real madrid",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 09:20:00 -0800",
-      "news": [
-        {
-          "title": "LIVE BLOG: AEK Athens vs Real Madrid | UEFA Champions League",
-          "source": "beIN SPORTS",
-          "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/live-blog-aek-athens-vs-real-madrid-uefa-champions-league-2026-11-04"
-        },
-        {
-          "title": "By video: the eighth, a historic Arab goal adds to Real Madrid's misery",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/news/by-video-the-eighth-a-historic-arab-goal-adds-to-real-madrid-s-misery/blt56befb6f8c4d1904"
-        },
-        {
-          "title": "Team A vs Team B Football Match Stats | Player & Team Statistics in Real-Time",
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/football-news/live-score/stats/fen-vs-liv-194013/"
-        }
-      ]
-    },
-    {
-      "title": "페네르바흐체 대 리버풀",
+      "title": "주가",
       "approx_traffic": "2000+",
-      "published": "Wed, 4 Nov 2026 08:50:00 -0800",
+      "published": "Wed, 4 Nov 2026 11:50:00 -0800",
       "news": [
         {
-          "title": "Champions League: Liverpool visit Fenerbahce before Arsenal and Man City in action",
+          "title": "'엔비디아 대항마' AMD 분기 매출 18조 원...데이터센터 덕에 사상 최고",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611041101327290"
+        },
+        {
+          "title": "얼라인테크놀로지 주가가 오늘 급등한 이유는?",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2157959"
+        },
+        {
+          "title": "AMD '깜짝 실적'에도…AI 투자 둘러싼 불확실성 확대",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1189111"
+        }
+      ]
+    },
+    {
+      "title": "이다해",
+      "approx_traffic": "500+",
+      "published": "Wed, 4 Nov 2026 11:50:00 -0800",
+      "news": [
+        {
+          "title": "“마지막 둘만의 여행”…이다해, 세븐과 일본서 찍은 ‘만삭 사진’ 공개",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12196425"
+        },
+        {
+          "title": "이다해, ♥세븐과 함께 태교 여행…셀프 만삭 화보 '눈길' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/04/2026110416061127602"
+        },
+        {
+          "title": "'중국풍 성형설' 이다해, 출산 초읽기..♥세븐과 떠난 마지막 \"단둘이 여행\"",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/04/HAZTONJXHA3DIMTCMMYWEOJYMU/"
+        }
+      ]
+    },
+    {
+      "title": "한남더힐아파트",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 11:50:00 -0800",
+      "news": [
+        {
+          "title": "옥주현 '한남더힐 190억' 매입과 대부업 대출…신사동 빌딩서 꼬인 '레버리지의 덫'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261104_0003854597"
+        },
+        {
+          "title": "옥주현 190억 집, 경매 넘어간 건 우연이 아니다?",
+          "source": "이데일리TV",
+          "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=02984806645641784&Kind=257"
+        },
+        {
+          "title": "옥주현, '190억'에 산 한남동 고급주택 '경매' 넘어간 이유..\"M&A 절차\" [공식]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112900937"
+        }
+      ]
+    },
+    {
+      "title": "택시",
+      "approx_traffic": "500+",
+      "published": "Wed, 4 Nov 2026 11:40:00 -0800",
+      "news": [
+        {
+          "title": "[나의 의정일지] 최수연 경기도의회 건설교통위원회 위원",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1774045"
+        },
+        {
+          "title": "경기도의회 건설교통위원회, 택시업계 민생예산 지키기에 한목소리",
+          "source": "누리일보",
+          "url": "https://nuriilbo.com/news/article.html?no=935973"
+        },
+        {
+          "title": "고찬석 위원장 “도민 체감 교통환경 개선 최선”",
+          "source": "동방일보",
+          "url": "https://www.dongbangilbo.co.kr/news/articleView.html?idxno=111824"
+        }
+      ]
+    },
+    {
+      "title": "real madrid",
+      "approx_traffic": "100+",
+      "published": "Wed, 4 Nov 2026 11:40:00 -0800",
+      "news": [
+        {
+          "title": "El Madrid borra al AEK de su lista de víctimas pendientes y solo quedan dos",
+          "source": "MARCA",
+          "url": "https://www.marca.com/futbol/real-madrid/2026/11/04/madrid-borra-aek-lista-victimas-pendientes.html"
+        },
+        {
+          "title": "Encabezada por Mbappé e integrada por Yamal: Valverde irrumpe en la lista de la artillería pesada europea",
+          "source": "Yahoo",
+          "url": "https://es-us.noticias.yahoo.com/deportes/encabezada-mbapp%C3%A9-integrada-yamal-valverde-203445818.html"
+        },
+        {
+          "title": "El Real Madrid sale con vida de la trampa de Atenas",
+          "source": "HolaNews",
+          "url": "https://holanews.com/el-real-madrid-sale-con-vida-de-la-trampa-de-atenas/"
+        }
+      ]
+    },
+    {
+      "title": "เฟแนร์บาห์เช พบ ลิเวอร์พูล",
+      "approx_traffic": "100+",
+      "published": "Wed, 4 Nov 2026 11:30:00 -0800",
+      "news": [
+        {
+          "title": "โปรแกรมการแข่งขันแชมเปี้ยนส์ลีก: แมนเชสเตอร์ ซิตี้ เยือนไลป์ซิก, ลิเวอร์พูล และอาร์เซนอล มุ่งสู่ชัยชนะ",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/lich-thi-dau-c1-manchester-city-lam-khach-truoc-leipzig-liverpool-va-arsenal-huong-toi-chien-thang"
+        },
+        {
+          "title": "ปรีวิว-ฟันธง! หงส์บุกอิสตันบูลซดทีมศิษย์เก่า",
+          "source": "แนวหน้า",
+          "url": "https://www.naewna.com/n/breaking/148223/"
+        },
+        {
+          "title": "คู่แรก UCL 'เฟเนร์บาห์เช่ พบ ลิเวอร์พูล' ดูบอลสด ยูฟ่า แชมเปี้ยนส์ ลีก",
+          "source": "bangkokbiznews",
+          "url": "https://www.bangkokbiznews.com/news/sport/1259252"
+        }
+      ]
+    },
+    {
+      "title": "슬라비아 프라하 대 아스널",
+      "approx_traffic": "1000+",
+      "published": "Wed, 4 Nov 2026 11:20:00 -0800",
+      "news": [
+        {
+          "title": "챔피언스 리그 슬라비아 프라하 대 아스날 경기 점수 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-slavia-prague-vs-arsenal-tai-champions-league-1794591.ldo"
+        },
+        {
+          "title": "슬라비아 프라하 vs 아스널, 11월 5일 새벽 3시: 생중계 링크, 분석 및 예측.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/slavia-praha-vs-arsenal-3h-ngay-5-11-link-xem-truc-tiep-nhan-dinh-du-doan"
+        },
+        {
+          "title": "슬라비아 프라하 vs 아스널 경기 예측, 11월 5일 오전 3시: 무패 행진 연장 가능성",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-slavia-praha-vs-arsenal-03h00-ngay-5-11-noi-dai-mach-bat-bai"
+        }
+      ]
+    },
+    {
+      "title": "에코프로",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 11:20:00 -0800",
+      "news": [
+        {
+          "title": "에이프로 주가 165원 상승 후 장마감",
+          "source": "아시아뉴스통신",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3214558"
+        },
+        {
+          "title": "에코프로 주가, 11월 2일 장중 72,800원 0.83% 상승",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16265951"
+        },
+        {
+          "title": "에코프로비엠 9.36% 상승…양극재 흑자 지속 기대",
+          "source": "잡포스트",
+          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=236487"
+        }
+      ]
+    },
+    {
+      "title": "라이프치히 대 맨 시티",
+      "approx_traffic": "1000+",
+      "published": "Wed, 4 Nov 2026 11:10:00 -0800",
+      "news": [
+        {
+          "title": "RB Leipzig vs Manchester City: UEFA Champions League stats & head-to-head",
           "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c6rmy8zvwnryt"
+          "url": "https://www.bbc.com/sport/football/live/cq1kd2r14z8rt"
         },
         {
-          "title": "Preview: Fenerbahce vs Liverpool - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/fenerbahce/champions-league/preview/fenerbahce-vs-liverpool-prediction-team-news-lineups_608293.html"
+          "title": "RB Leipzig vs Man City LIVE! Champions League match updates, team news, score and analysis",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/13607406/rb-leipzig-vs-man-city-live-champions-league-match-updates-team-news-score-and-analysis"
         },
         {
-          "title": "FOX Network: FENERBAHCE LIVERPOOL UEFA Champions League Match 𝐋𝐈𝐕𝐄 fRee",
-          "source": "tagesanzeiger.ch",
-          "url": "https://interaktiv.tagesanzeiger.ch/2016/plaine-morte/panos/camp/camp.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vbHVlOTM3Mmx1Y2FzLmdpdGh1Yi5pby91Y2xvbnR2L2ZpbGUueG1sIi8+PC9rcnBhbm8+&id=fenerbahce-liverpool-epl-live-on-usstv-qzwh7660"
+          "title": "Champions League expert picks, predictions, best bets: Manchester City aim for turnaround vs. RB Leipzig",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/soccer/news/champions-league-expert-picks-predictions-best-bets-manchester-city-aim-for-turnaround-vs-rb-leipzi/"
+        }
+      ]
+    },
+    {
+      "title": "나영석",
+      "approx_traffic": "100+",
+      "published": "Wed, 4 Nov 2026 11:10:00 -0800",
+      "news": [
+        {
+          "title": "[방송소식] 나영석 사단 예능 '그냥사람친구' 27일 tvN 첫선",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261104147700005"
+        },
+        {
+          "title": "[공식] 이서진·한지민→김용건·박정수, 나영석 새예능 ‘그사친’ 출격",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261104/134963334/1"
+        },
+        {
+          "title": "이서진·한지민→정연·주헌, 도합 85년 우정 여행…'그냥사람친구' 출격",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523511"
         }
       ]
     }
