@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-03T23:21:05+00:00",
+  "fetched_at": "2026-11-04T00:14:28+00:00",
   "items": [
     {
-      "title": "democratic party",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 14:10:00 -0800",
-      "news": [
-        {
-          "title": "Kim Nam-hee Wins Democratic Party Women’s Committee Chair",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/national-en/2026/11/03/R5V7H4HKW5FPVBVBOERJRWGUMI/"
-        },
-        {
-          "title": "Democratic Party of Korea (DPK) Elects 10 National Committee Chairs; Five Pro-Lee Lawmakers, Including Min Byeong-deok",
-          "source": "파이낸셜뉴스",
-          "url": "https://en.fnnews.com/news/202611032127225607"
-        },
-        {
-          "title": "Pro-Lee Faction Defeats Pro-Jung Rival: Kim Nam-hee Elected DPK Women's Committee Chair",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008829168"
-        }
-      ]
-    },
-    {
-      "title": "manchester united",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 14:10:00 -0800",
-      "news": [
-        {
-          "title": "Bruno Fernandes Dismisses Al-Hilal Interest, Stays at Manchester United",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/04/W2DILJLL3BAITLSKDNKPIHIHCI/"
-        },
-        {
-          "title": "Big-Money Club Preparing £45M January Bid For Bruno Fernandes Amid Price Tag Warning",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/big-money-club-preparing-45m-183031045.html"
-        },
-        {
-          "title": "Video - Paul Scholes Tells Bruno Fernandes To Leave Man Utd As \"Trust\" Claim Made",
-          "source": "roundtable.io",
-          "url": "https://roundtable.io/sports/soccer/premier-league/manchester-united/video/paul-scholes-tells-bruno-fernandes-to-leave-man-utd-trust-claim-made"
-        }
-      ]
-    },
-    {
-      "title": "해커",
+      "title": "제민 일보",
       "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 14:00:00 -0800",
+      "published": "Tue, 3 Nov 2026 15:10:00 -0800",
       "news": [
         {
-          "title": "[단독]“北, 원하는 건 뭐든 할 자금 확보… 中 범죄조직에 돈세탁 하청”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261104/134961390/2"
+          "title": "[제민탑] 제주 제2공항 건설 어디로 가고 있나",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=846070"
         },
         {
-          "title": "채용 면접관이 알고 보니 북한 해커…바이낸스 5개월간 노렸다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/world/12195825"
-        },
-        {
-          "title": "북한 해커, 바이낸스 직원 가짜면접해 컴퓨터에 악성코드 심었다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6862979_36925.html"
-        }
-      ]
-    },
-    {
-      "title": "육아",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 14:00:00 -0800",
-      "news": [
-        {
-          "title": "재취업지원서비스, 내년 7월부터 500인 이상 기업으로 확대",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974881"
-        },
-        {
-          "title": "사장 가족이 직장 내 성희롱해도 최대 1천만 원 과태료",
+          "title": "‘우여곡절’ 2공항 갈등조정협의회 출범…찬성 단체 ‘반발’",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702563"
-        },
-        {
-          "title": "직장 내 성희롱 과태료 확대…사업주 친족도 최대 1000만원 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/11/03/2026110314174639940"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702165"
         }
       ]
     },
     {
-      "title": "uefa champions league",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 13:50:00 -0800",
+      "title": "thứ hạng của man utd gặp as roma",
+      "approx_traffic": "500+",
+      "published": "Tue, 3 Nov 2026 15:10:00 -0800",
       "news": [
         {
-          "title": "Piotr Zieliński scores for Inter in the Champions League for the first time in almost a year — Interia Sport",
-          "source": "UA.NEWS",
-          "url": "https://ua.news/en/sport/piotr-zelinskii-zabiv-za-inter-u-lizi-chempioniv-upershe-maizhe-za-rik-interia-sport"
+          "title": "Man Utd thắng ngược khó tin trước Roma ở Champions League",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/man-utd-thang-nguoc-kho-tin-truoc-roma-o-champions-league-5140449.html"
         },
         {
-          "title": "This is why Kraaijeveld is suddenly in Feyenoord's starting XI",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/news/why-kraaijeveld-is-suddenly-in-feyenoord-s-starting-xi/blt14ecf524c238ad97"
-        },
-        {
-          "title": "[!LIVESTREAMs!]Tv] Inter e Feyenoord a confronto In Diretta Serie A italiana Stream",
-          "source": "Anayasa.gov.tr",
-          "url": "https://www.anayasa.gov.tr/galeri360/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5bmVwcHkuZ2l0aHViLmlvL2JhYnUvRmxvdy54bWwiLz48L2tycGFubz4=&id=video-inter-e-feyenoord-a-confronto-lie-en-str-tbs-hhcqfhk"
-        }
-      ]
-    },
-    {
-      "title": "전유진",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 13:50:00 -0800",
-      "news": [
-        {
-          "title": "‘한류연예대상’ 김다현 뒤집었다…0.5%P 차 접전",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611021509003"
-        },
-        {
-          "title": "“내 가수에게 우승 반지를!”… ‘트로트 절대반지’ 서바이벌 팬투표 막 올랐다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12193400"
-        },
-        {
-          "title": "‘트로트 절대반지’ 라인업 공개…김용빈·황영웅·성리·이찬원·김다현 등 팬투표 격돌",
-          "source": "m.mksports.co.kr",
-          "url": "https://www.mksports.co.kr/news/entertain/12188772"
-        }
-      ]
-    },
-    {
-      "title": "barcelona đấu với aston villa",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 13:50:00 -0800",
-      "news": [
-        {
-          "title": "Video bóng đá Barcelona - Aston Villa: Mưa lớn, mưa bàn thắng đi kèm (Cúp C1)",
+          "title": "Video bóng đá MU - AS Roma: Ngược dòng cảm xúc, Cunha chói sáng (Cúp C1)",
           "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-barcelona-aston-villa-mua-lon-mua-ban-thang-di-kem-cup-c1-c48a1808143.html"
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-mu-as-roma-tra-gia-sai-lam-cup-c1-c48a1808154.html"
         },
         {
-          "title": "سحق برشلونة أستون فيلا، مقترباً من صدارة المجموعة في دوري أبطال أوروبا.",
+          "title": "Michael Carrick không thể bỏ rơi Shea Lacey sau đêm kỳ diệu ở Champions League",
+          "source": "bongda.com.vn",
+          "url": "https://bongda.com.vn/michael-carrick-khong-the-bo-roi-shea-lacey-sau-dem-ky-dieu-o-champions-league-d853654.html"
+        }
+      ]
+    },
+    {
+      "title": "atlético madrid vs bayern munich standings",
+      "approx_traffic": "500+",
+      "published": "Tue, 3 Nov 2026 15:10:00 -0800",
+      "news": [
+        {
+          "title": "Atletico Madrid 0-2 Bayern Munich: Karl Lennart and Konrad Laimer goals give visitors win",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cmy0r2lw77r1t"
+        },
+        {
+          "title": "Atlético 0-2 Bayern (Nov 3, 2026) Game Analysis",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401915386"
+        },
+        {
+          "title": "Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/03/atletico-madrid-bayern-munich-champions-league-match-report"
+        }
+      ]
+    },
+    {
+      "title": "비행기",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 15:00:00 -0800",
+      "news": [
+        {
+          "title": "비행기가 이륙하려던 순간, 조종사는 40cm 길이의 \"끔찍한\" 물체를 발견하고 경악했습니다.",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ar/de-bep-aston-villa-barcelona-ap-sat-nhom-dau-champions-league"
+          "url": "https://www.vietnam.vn/ko/may-bay-sap-cat-canh-phi-cong-ta-hoa-phat-hien-thu-dang-so-dai-40cm"
         },
         {
-          "title": "Champions League: PSG thắng 6-0; Yamal phá kỷ lục của Mbappe khi Barca đánh bại Aston Villa",
-          "source": "thethaovanhoa.vn",
-          "url": "https://thethaovanhoa.vn/champions-league-psg-thang-6-0-yamal-pha-ky-luc-cua-mbappe-khi-barca-danh-bai-aston-villa-20261104054433842.htm"
-        }
-      ]
-    },
-    {
-      "title": "대기업",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 13:50:00 -0800",
-      "news": [
-        {
-          "title": "‘고졸이나 대졸이나 258만원’…신입 초봉 동일하게 책정한 日대기업",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11628490"
+          "title": "\"비행기에서 술 한 잔이 죄?\" 기내 음주의 역효과",
+          "source": "약사공론",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=547994"
         },
         {
-          "title": "日대기업, 고졸·대졸 초봉 통일…\"AI 시대 학력보단 대응 능력\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103097900009"
-        },
-        {
-          "title": "대졸 프리미엄 깨지나…AI 시대 日 기업, 고졸·대졸 초봉 똑같이",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261102/134954036/1"
-        }
-      ]
-    },
-    {
-      "title": "포스코퓨처엠",
-      "approx_traffic": "100+",
-      "published": "Tue, 3 Nov 2026 13:50:00 -0800",
-      "news": [
-        {
-          "title": "삼성증권 \"포스코인터, 에너지 사업 견고한 실적 흐름 지속\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103030000008"
-        },
-        {
-          "title": "[오늘의 브릿지경제 1면] 중국발 저가 공습 뚫은 ‘철강 빅2’⋯ 3분기 나란히 본업 반등 신호탄",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261102501122"
-        },
-        {
-          "title": "포스코 '트리플코어' 전략 통했다…포스코홀딩스, 3분기 영업이익 48% 증가",
-          "source": "매일경제TV",
-          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005952924&utm_source=msn&utm_medium=popular"
-        }
-      ]
-    },
-    {
-      "title": "젝스키스",
-      "approx_traffic": "200+",
-      "published": "Tue, 3 Nov 2026 13:40:00 -0800",
-      "news": [
-        {
-          "title": "젝스키스 팬덤, 고지용 팀 합류 반대…왜?",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611031124003"
-        },
-        {
-          "title": "젝스키스 디너쇼, 90만원 고가 티켓 논란에 \"객실 가격 예시일 뿐\"",
-          "source": "Nate News",
-          "url": "https://news.nate.com/view/20261103n07561"
-        },
-        {
-          "title": "돌아온 고지용, 23년 만에 새 프로필 촬영",
+          "title": "\"발냄새 못 참겠네\"…美 유명 여가수, 팔걸이 차지한 맨발에 스프레이 '칙'",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261103_0003853283"
+          "url": "https://www.newsis.com/view/NISX20261103_0003852003"
+        }
+      ]
+    },
+    {
+      "title": "election",
+      "approx_traffic": "100+",
+      "published": "Tue, 3 Nov 2026 14:50:00 -0800",
+      "news": [
+        {
+          "title": "Federal election monitors arrive in Colorado amid election scrutiny",
+          "source": "Colorado Public Radio",
+          "url": "https://www.cpr.org/2026/11/03/federal-election-monitors-adams-county/"
+        },
+        {
+          "title": "Federal, state and congressional observers converge on Adams and El Paso counties",
+          "source": "Rocky Mountain Voice -",
+          "url": "https://rockymountainvoice.com/2026/11/03/federal-state-and-congressional-observers-converge-on-adams-and-el-paso-counties/"
+        },
+        {
+          "title": "Colorado reporter says Justice Department observers are interacting with voters at polling locations",
+          "source": "thv11.com",
+          "url": "https://www.thv11.com/video/news/politics/elections/colorado-reporter-says-justice-department-observers-are-interacting-with-voters-at-polling-locations/507-62a3f988-a073-4add-a77e-fff67d80ba08"
+        }
+      ]
+    },
+    {
+      "title": "국민연금공단",
+      "approx_traffic": "5000+",
+      "published": "Tue, 3 Nov 2026 14:40:00 -0800",
+      "news": [
+        {
+          "title": "공무원연금·국민연금·사학연금, 국제협력 강화한다",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110315233502886"
+        },
+        {
+          "title": "\"K-연금제도 알려달라\" 34개국 러브콜에…국내 3대 연금 '맞손'",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/Read?newsId=04572326645642112"
+        },
+        {
+          "title": "사학연금공단-국민연금공단-공무원연금공단, 공적연금 제도 연수·지식공유 업무협약",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261103000329"
+        }
+      ]
+    },
+    {
+      "title": "박성현",
+      "approx_traffic": "1000+",
+      "published": "Tue, 3 Nov 2026 14:40:00 -0800",
+      "news": [
+        {
+          "title": "박성현, KLPGA 시드순위전 첫날 75위…안소현·유효주는?",
+          "source": "골프한국",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022538"
+        },
+        {
+          "title": "前 세계 1위 박성현·6승 이소영…톱골퍼도 피하지 못한 생존경쟁",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12193773"
+        },
+        {
+          "title": "'초심'으로 돌아간 두 여제…이정은·박성현의 아름다운 도전",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610293992i"
+        }
+      ]
+    },
+    {
+      "title": "안젤리나 졸리",
+      "approx_traffic": "200+",
+      "published": "Tue, 3 Nov 2026 14:40:00 -0800",
+      "news": [
+        {
+          "title": "안젤리나 졸리가 11월이 되자마자 꺼내입은 검정 코트",
+          "source": "Vogue korea",
+          "url": "https://www.vogue.co.kr/2026/11/03/%EC%95%88%EC%A0%A4%EB%A6%AC%EB%82%98-%EC%A1%B8%EB%A6%AC-%EB%B0%94%EB%A1%9C-%EC%96%B4%EC%A0%9C-%EC%9E%85%EC%9D%80-%EA%B2%80%EC%A0%95-%EC%BD%94%ED%8A%B8-%EB%A3%A9/"
+        },
+        {
+          "title": "브래드 피트, 18세 막내딸마저 '피트' 삭제...6남매 중 벌써 4명 [SC헐리우드]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/03/GAZTINDBMMZWEMZVMEYTEYLGGE/"
+        },
+        {
+          "title": "'앤젤리나 졸리 막내딸' 비비안도 父 '피트' 성 뺐다…법원 승인 [N해외연예]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/overseas-entertain/6340653"
+        }
+      ]
+    },
+    {
+      "title": "manchester united f.c. vs as roma standings",
+      "approx_traffic": "500+",
+      "published": "Tue, 3 Nov 2026 14:40:00 -0800",
+      "news": [
+        {
+          "title": "Manchester United 3-2 Roma: Champions League – as it happened",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/nov/03/manchester-united-v-roma-champions-league-live"
+        },
+        {
+          "title": "Matheus Cunha with two late goals and red as Man United secure miraculous comeback win over Roma",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7741817/2026/11/03/man-utd-roma-carrick-dalot/"
+        },
+        {
+          "title": "Licensable picture: UK: UEFA Champions League Matchday 4 of 8 Manchester United v Roma",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/uk-uefa-champions-league-matchday-4-of-8-manchester-united-v-roma/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBNWUtZT0o"
+        }
+      ]
+    },
+    {
+      "title": "시장",
+      "approx_traffic": "500+",
+      "published": "Tue, 3 Nov 2026 14:40:00 -0800",
+      "news": [
+        {
+          "title": "지씨셀, 검체검사 수가 개편 대응…바이오 물류·특수검사 강화 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/11/04/2026110408521524646"
+        },
+        {
+          "title": "검체검사 수가 조정…지씨셀 \"물류 인프라 활용\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261104_0003853857"
+        },
+        {
+          "title": "지씨셀 \"바이오 물류 특화 인프라로 시장 지배력 강화\"",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026110409053786259"
         }
       ]
     }
