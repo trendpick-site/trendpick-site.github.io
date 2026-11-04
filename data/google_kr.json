@@ -1,27 +1,66 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-04T14:57:53+00:00",
+  "fetched_at": "2026-11-04T15:57:46+00:00",
   "items": [
+    {
+      "title": "사랑제일교회",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 06:50:00 -0800",
+      "news": [
+        {
+          "title": "李, ‘전광훈 교회’ 강제집행 불발에 “법 어겨도 버티면 되는 세상 없다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261104/134967492/1"
+        },
+        {
+          "title": "‘닥치고 공급’ 강조한 이 대통령…“공공재개발 부정부패 적고 속도 빨라”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704163"
+        }
+      ]
+    },
+    {
+      "title": "사기",
+      "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 06:00:00 -0800",
+      "news": [
+        {
+          "title": "부친 ‘태영호’ 이름 내세워 18억 사기…장남 1심 징역 3년 6개월",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261104/134966808/2"
+        },
+        {
+          "title": "태영호 전 의원 장남 ‘18억 가상자산 사기’ 1심서 징역 3년6개월형",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611041520011"
+        },
+        {
+          "title": "父 이름 내세워 ‘투자 사기’ 태영호 장남...1심 징역 3년 6개월",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/11/04/TSF4VC4VBZGNDI3QJMDIIDSIXU/"
+        }
+      ]
+    },
     {
       "title": "우규민",
       "approx_traffic": "5000+",
       "published": "Wed, 4 Nov 2026 05:30:00 -0800",
       "news": [
         {
-          "title": "연장 12회 혈투, 마지막 웃은 건 삼성...상대 실책 틈타 결승 득점",
+          "title": "연장 12회 끝낸 건 실책... 삼성, 승부 원점으로 돌렸다",
           "source": "조선일보",
           "url": "https://www.chosun.com/sports/baseball/2026/11/04/4XD4NGYJ3RAJ5GI75GDAD7WSOU/"
         },
         {
-          "title": "2차전 살얼음판 승부…디아즈는 왜 뛰었을까?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704214"
+          "title": "프로야구 삼성, 연장 혈투 끝에 KS 2차전 승리‥'1승 1패' 균형",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6863252_36946.html"
         },
         {
-          "title": "삼성, 연장 12회 혈투 끝에 웃었다…kt 꺾고 KS 1승 1패",
+          "title": "감독에게 90도로 사과한 삼성 디아즈 \"지금까지 책임감 느껴\"(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104184400007"
+          "url": "https://www.yna.co.kr/view/AKR20261104183951007"
         }
       ]
     },
@@ -31,19 +70,41 @@
       "published": "Wed, 4 Nov 2026 05:20:00 -0800",
       "news": [
         {
-          "title": "이요원 美 명문대 졸업 큰딸 공개…173㎝ 엄마보다 큰 키 깜짝 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/04/2026110417294624501"
-        },
-        {
           "title": "‘23세에 첫 출산’ 이요원, 미모 쏙 빼닮은 장녀 공개…美 명문대 졸업",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/news/hot-issues/12196545"
         },
         {
+          "title": "이요원 美 명문대 졸업 큰딸 공개…173㎝ 엄마보다 큰 키 깜짝 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/04/2026110417294624501"
+        },
+        {
           "title": "김영란, '23세 결혼' 이요원에 \"너무 일찍 시집 가…신인 때 눈에 딱 들어왔다\"",
           "source": "뉴스1",
           "url": "https://www.news1.kr/entertain/celebrity-topic/6342739"
+        }
+      ]
+    },
+    {
+      "title": "로보락",
+      "approx_traffic": "100+",
+      "published": "Wed, 4 Nov 2026 05:20:00 -0800",
+      "news": [
+        {
+          "title": "로보락, 로봇청소기 구독 서비스 출시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261104032800003"
+        },
+        {
+          "title": "TCL, G마켓 빅스마일데이 참여…주요 가전 최대 26% 할인 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2154954"
+        },
+        {
+          "title": "로보락, S10 MaxV Ultra 구독 서비스로 제품 관리 방식 다변화",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202611040954121310204ead0791_12"
         }
       ]
     },
@@ -71,23 +132,23 @@
     },
     {
       "title": "수사",
-      "approx_traffic": "200+",
+      "approx_traffic": "2000+",
       "published": "Wed, 4 Nov 2026 05:10:00 -0800",
       "news": [
         {
-          "title": "장윤기 사건 '케이블타이' 영상 지우라더니…\"징계 두려웠다\"는 경찰 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/04/2026110420022314127"
+          "title": "'조작기소 특검법' 속전속결 법사위 통과...오늘 본회의 처리 전망",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202611050002297772"
         },
         {
-          "title": "장윤기父에 수사 정보 누설 경찰관 \"고의·특혜 아냐…경솔한 행동\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/gwangju-jeonnam/6343295"
-        },
-        {
-          "title": "장윤기 사건 수사팀장 \"사이코 패스만 의심… 고의 증거 은폐 아니었다\"",
+          "title": "[사설] 검찰 해체하고 대통령 위한 ‘사설 특검’ 만들겠다는 뻔뻔함",
           "source": "조선일보",
-          "url": "https://www.chosun.com/national/regional/honam/2026/11/04/SNTQEGI33RDT7APIQRB7JTEPZM/"
+          "url": "https://www.chosun.com/opinion/editorial/2026/11/05/EMW6Y2TI6VEWTDCW7G4XI24KTY/"
+        },
+        {
+          "title": "퇴장하는 국민의힘 의원들",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20261104087300013"
         }
       ]
     },
@@ -102,9 +163,14 @@
           "url": "https://www.news1.kr/photos/8197854"
         },
         {
-          "title": "[사진]환호하는 삼성 김성윤, '찬스 만들었어'",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/04/MZQTSYTFHEYWEMZVG5TDKOJZGU/"
+          "title": "[포토] 김성윤 '끝까지 가보자' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110422365243211"
+        },
+        {
+          "title": "[사진]실점 위기 탈출 김정운",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/G5SGGYTEGUZDKMJRGJSTKY3DGY/"
         }
       ]
     },
@@ -124,97 +190,31 @@
           "url": "https://bleacherreport.com/articles/25528615-si-hwan-roh-posted-mlb-teams-top-landing-spots-korean-star-free-agency"
         },
         {
-          "title": "Roh Si-hwan Receives D- Rating in MLB Posting Evaluation",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/04/HSLFPCWRXBEMNC4HQYK27OH5PQ/"
+          "title": "Blue Jays free agent target: Si-Hwan Roh",
+          "source": "Blue Jays Nation",
+          "url": "https://bluejaysnation.com/news/toronto-blue-jays-free-agent-target-si-hwan-roh"
         }
       ]
     },
     {
-      "title": "알렉산더 즈베레프",
-      "approx_traffic": "1000+",
+      "title": "송해나",
+      "approx_traffic": "100+",
       "published": "Wed, 4 Nov 2026 05:00:00 -0800",
       "news": [
         {
-          "title": "신네르·알카라스 양강 구도 균열 낸 츠베레프, 생애 첫 세계 1위 등극",
-          "source": "뉴시스",
-          "url": "https://nwww.newsis.com/view/NISX20261030_0003848322"
-        },
-        {
-          "title": "'최고령 생애 첫 1위 등극' 츠베레프... 불안함 지우고 유지 가능할까",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026110315390000771"
-        },
-        {
-          "title": "'차세대’ 꼬리표 떼고 마침내 정상… 즈베레프, 생애 첫 세계 1위",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05654726645618168&mediaCodeNo=257"
-        }
-      ]
-    },
-    {
-      "title": "kt wiz",
-      "approx_traffic": "1000+",
-      "published": "Wed, 4 Nov 2026 05:00:00 -0800",
-      "news": [
-        {
-          "title": "[Photo] Kim Sang-jun smashes first postseason at-bat hit",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/04/4RLO452UARGSVBV73E5EWHMGWQ/"
-        },
-        {
-          "title": "KT Seeks Second Straight Win as Samsung Aims to Strike Back",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008831132"
-        },
-        {
-          "title": "Lions defeat Wiz in extra innings to even up Korean Series",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20261104011400315"
-        }
-      ]
-    },
-    {
-      "title": "당기순이익",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 04:40:00 -0800",
-      "news": [
-        {
-          "title": "하림, 3분기 영업이익 53억원…전년 대비 71% 감소",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104154900030"
-        },
-        {
-          "title": "하림, 3분기 영업익 54억원… 전년比 71%↓",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/distribution/food/2026/11/04/BK2O3FD7JFBR7BOMNVHQ7AB7IE/"
-        },
-        {
-          "title": "하림, 3Q 영업익 54억 전년比 71%↓…매출 4059억 2.0%↓",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261104_0003854710"
-        }
-      ]
-    },
-    {
-      "title": "야구중계",
-      "approx_traffic": "1000+",
-      "published": "Wed, 4 Nov 2026 04:40:00 -0800",
-      "news": [
-        {
-          "title": "‘스포츠 명가’ 삼성의 부활…야구-축구-농구-배구 일제히 ‘파란 돌풍’",
+          "title": "송해나, 이승철 주선 소개팅 나간다…184㎝·축구마니아 스펙에 입꼬리 상승",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261103/134957943/1"
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261104/134965610/1"
         },
         {
-          "title": "10구단 체제 KS, '업셋' 두 번…모두 PO 끝장 승부 승자가 정상",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6341143"
+          "title": "송해나, '깜짝 소개팅' 나섰다…\"키 184cm·축구 마니아\"(신랑수업2)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523542"
         },
         {
-          "title": "[포토] 답변하는 박진만 감독",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1646903"
+          "title": "송해나, 이승철 주선으로 소개팅 \"184cm에 사윗감 직업 1위, 축구 마니아\"('신랑수업')",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017518"
         }
       ]
     }
