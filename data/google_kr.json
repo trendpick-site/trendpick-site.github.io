@@ -1,11 +1,55 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-04T15:57:46+00:00",
+  "fetched_at": "2026-11-04T16:58:44+00:00",
   "items": [
     {
-      "title": "사랑제일교회",
+      "title": "이찬원",
       "approx_traffic": "200+",
+      "published": "Wed, 4 Nov 2026 07:30:00 -0800",
+      "news": [
+        {
+          "title": "이찬원 ‘오내언사’ 1200만 뷰 돌파…팬 향한 사랑 담은 자작곡의 저력",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16267395"
+        },
+        {
+          "title": "“팬들에게 바친 사랑 고백” 이찬원, 직접 만든 노래가 무려 1200만 뷰 ‘대박’",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1646271"
+        },
+        {
+          "title": "이찬원 ‘시월의 시’ MV, 400만 뷰 돌파",
+          "source": "BNT뉴스",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610270174"
+        }
+      ]
+    },
+    {
+      "title": "microsoft",
+      "approx_traffic": "100+",
+      "published": "Wed, 4 Nov 2026 07:20:00 -0800",
+      "news": [
+        {
+          "title": "FY27 Q1 - Press Releases - Investor Relations",
+          "source": "Microsoft",
+          "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast"
+        },
+        {
+          "title": "Microsoft Wins Even If The AI Bubble Pops (NASDAQ:MSFT)",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4962094-microsoft-wins-even-if-the-ai-bubble-pops"
+        },
+        {
+          "title": "Microsoft Just Revealed a $677 Billion Reason to Buy Its Stock",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-just-revealed-677-billion-173102834.html"
+        }
+      ]
+    },
+    {
+      "title": "사랑제일교회",
+      "approx_traffic": "500+",
       "published": "Wed, 4 Nov 2026 06:50:00 -0800",
       "news": [
         {
@@ -14,9 +58,14 @@
           "url": "https://www.donga.com/news/Politics/article/all/20261104/134967492/1"
         },
         {
-          "title": "‘닥치고 공급’ 강조한 이 대통령…“공공재개발 부정부패 적고 속도 빨라”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704163"
+          "title": "李, 사랑제일교회 재개발 제외에 \"무력으로 버티면 되는 게 어딨나\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6863206_36911.html"
+        },
+        {
+          "title": "장위동 간 이 대통령 “부패 없고 신속한 공공개발로 중심 옮겨야”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611042118015"
         }
       ]
     },
@@ -44,7 +93,7 @@
     },
     {
       "title": "우규민",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Wed, 4 Nov 2026 05:30:00 -0800",
       "news": [
         {
@@ -58,15 +107,15 @@
           "url": "https://imnews.imbc.com/news/2026/sports/article/6863252_36946.html"
         },
         {
-          "title": "감독에게 90도로 사과한 삼성 디아즈 \"지금까지 책임감 느껴\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104183951007"
+          "title": "‘연장 12회 혈투’ 삼성, KT 꺾고 KS 1승 1패 균형",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8704319"
         }
       ]
     },
     {
       "title": "이요원",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Wed, 4 Nov 2026 05:20:00 -0800",
       "news": [
         {
@@ -110,7 +159,7 @@
     },
     {
       "title": "이유리",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Wed, 4 Nov 2026 05:10:00 -0800",
       "news": [
         {
@@ -136,9 +185,9 @@
       "published": "Wed, 4 Nov 2026 05:10:00 -0800",
       "news": [
         {
-          "title": "'조작기소 특검법' 속전속결 법사위 통과...오늘 본회의 처리 전망",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202611050002297772"
+          "title": "여권 주도 '조작기소 특검법' 국회 법사위 통과‥야당 반발",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6863228_36911.html"
         },
         {
           "title": "[사설] 검찰 해체하고 대통령 위한 ‘사설 특검’ 만들겠다는 뻔뻔함",
@@ -171,50 +220,6 @@
           "title": "[사진]실점 위기 탈출 김정운",
           "source": "조선일보",
           "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/G5SGGYTEGUZDKMJRGJSTKY3DGY/"
-        }
-      ]
-    },
-    {
-      "title": "kbo",
-      "approx_traffic": "2000+",
-      "published": "Wed, 4 Nov 2026 05:00:00 -0800",
-      "news": [
-        {
-          "title": "Si Hwan Roh leads next crop of MLB-bound KBO stars",
-          "source": "MLB.com",
-          "url": "https://www.mlb.com/news/si-hwan-roh-and-the-kbo-stars-who-could-be-mlb-bound"
-        },
-        {
-          "title": "Si-Hwan Roh Posted for MLB Teams, Top Landing Spots for Korean Star in Free Agency",
-          "source": "Bleacher Report",
-          "url": "https://bleacherreport.com/articles/25528615-si-hwan-roh-posted-mlb-teams-top-landing-spots-korean-star-free-agency"
-        },
-        {
-          "title": "Blue Jays free agent target: Si-Hwan Roh",
-          "source": "Blue Jays Nation",
-          "url": "https://bluejaysnation.com/news/toronto-blue-jays-free-agent-target-si-hwan-roh"
-        }
-      ]
-    },
-    {
-      "title": "송해나",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 05:00:00 -0800",
-      "news": [
-        {
-          "title": "송해나, 이승철 주선 소개팅 나간다…184㎝·축구마니아 스펙에 입꼬리 상승",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261104/134965610/1"
-        },
-        {
-          "title": "송해나, '깜짝 소개팅' 나섰다…\"키 184cm·축구 마니아\"(신랑수업2)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523542"
-        },
-        {
-          "title": "송해나, 이승철 주선으로 소개팅 \"184cm에 사윗감 직업 1위, 축구 마니아\"('신랑수업')",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017518"
         }
       ]
     }
