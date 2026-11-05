@@ -1,11 +1,99 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-05T11:59:24+00:00",
+  "fetched_at": "2026-11-05T13:13:36+00:00",
   "items": [
     {
+      "title": "커버 드 콜",
+      "approx_traffic": "500+",
+      "published": "Thu, 5 Nov 2026 03:50:00 -0800",
+      "news": [
+        {
+          "title": "[단독] \"원금 돌려받는 건데 왜 세금 떼가나\"…개미들 뿔났다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110591261"
+        },
+        {
+          "title": "빈틈없는 연말정산… ‘연금저축 600만원 + IRP 300만원’ 조합이 최적",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11628617"
+        },
+        {
+          "title": "같은 ETF도 계좌 따라 수익 달라진다…절세 투자법은",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03355446645642112"
+        }
+      ]
+    },
+    {
+      "title": "목동",
+      "approx_traffic": "200+",
+      "published": "Thu, 5 Nov 2026 03:50:00 -0800",
+      "news": [
+        {
+          "title": "비행기 소음 차단·41층 고층 조망 구현…IPARK현산, 목동 11단지 총력전 [르포]",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/04/2026110403009.html"
+        },
+        {
+          "title": "[르포] 목동11단지, 삼성·현대는 잠잠…대우·롯데·현산은 눈독",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001441"
+        },
+        {
+          "title": "[목동 수주전, 진짜 전쟁터는 어디④] 3조 '대장주' 7단지…현대·롯데 공들이고 삼성도 관심",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1421481"
+        }
+      ]
+    },
+    {
+      "title": "이세영",
+      "approx_traffic": "100+",
+      "published": "Thu, 5 Nov 2026 03:10:00 -0800",
+      "news": [
+        {
+          "title": "“언니라고 불러도 될까요?”…‘재혼 황후’ 막장 판타지 통했다…12개국 1위·종합 7위",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629082"
+        },
+        {
+          "title": "\"이태오 다음 소비에슈\"..'재혼 황후' 주지훈표 '사빠죄아' [Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/05/HAYWENBXGUZGGYJXMJRDINJYME/"
+        },
+        {
+          "title": "\"주지훈, 트로트 가수냐?\" 혹평 쏟아졌는데…해외선 '반전'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611057624H"
+        }
+      ]
+    },
+    {
+      "title": "표절",
+      "approx_traffic": "200+",
+      "published": "Thu, 5 Nov 2026 03:00:00 -0800",
+      "news": [
+        {
+          "title": "방탄소년단 '스윔' 표절 주장 소송, 원고 측 자진 취하…美 저작권 시비 종결",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261105509138"
+        },
+        {
+          "title": "BTS '스윔' 표절 의혹 美 소송 마무리…4개월 만에 취하",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261105090100005"
+        },
+        {
+          "title": "방탄소년단, '표절누명' 벗었다..저작권 소송 승소→원고 '자진취하'[Oh!쎈 이슈]",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/HBSDIZDGGZTGGNLCHFQTAMZVME/"
+        }
+      ]
+    },
+    {
       "title": "호날두",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Thu, 5 Nov 2026 02:40:00 -0800",
       "news": [
         {
@@ -14,14 +102,14 @@
           "url": "https://www.yna.co.kr/view/AKR20261105177200007"
         },
         {
-          "title": "호날두 대표팀 전격 은퇴 \"포르투갈 7번 이제 반납할 때\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/11/05/MPXQ7TAEPFHFZCVHWRRJCTFD3I/"
+          "title": "호날두, 대표팀 무단 이탈하더니…“포르투갈 7번 내려 놓을 때가 됐다” 전격 은퇴",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261105000531"
         },
         {
-          "title": "[오피셜] \"공식성명 발표\" 호날두, 갑작스러운 은퇴 \"7번 유니폼 돌려줄 시간\"…234경기 146골 남기고 포르투갈 대표팀과 작별",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017960"
+          "title": "“등번호 7번 내려놓을 때 왔다”…호날두, 23년만에 국대 은퇴",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261105/134975213/1"
         }
       ]
     },
@@ -70,15 +158,32 @@
       ]
     },
     {
+      "title": "울산 현대모비스 대 썬더스",
+      "approx_traffic": "1000+",
+      "published": "Thu, 5 Nov 2026 01:50:00 -0800",
+      "news": [
+        {
+          "title": "삼성, 현대모비스 꺾고 10승 선착",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/basketball/2026/11/05/JPSKBB5EHZCHFHPZIRHF4G4I6U/"
+        },
+        {
+          "title": "삼성, 현대모비스 꺾고 11경기 만에 10승…KBL 역대 최단 경기 타이",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261105_0003857015"
+        },
+        {
+          "title": "[사진] 한호빈, 정성종와 골 성공 하이파이브 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/05/202611052022778562O"
+        }
+      ]
+    },
+    {
       "title": "최종면접",
       "approx_traffic": "100+",
       "published": "Thu, 5 Nov 2026 01:40:00 -0800",
       "news": [
-        {
-          "title": "‘최종면접’ 브래드 피트 꺾고 개봉 첫날 1위 [MK박스오피스]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/movies/12197890"
-        },
         {
           "title": "조이현·김재원 '최종면접' 개봉일 1위...한국 영화로 22일만에 탈환",
           "source": "YTN",
@@ -88,6 +193,11 @@
           "title": "[인터뷰] 구직이라는 현실 뒤 진실이란, 김정훈 감독",
           "source": "씨네21",
           "url": "https://cine21.com/news/view/?mag_id=111183"
+        },
+        {
+          "title": "'괴물급 신예' 배강희, 독보적 분위기로 차세대 '여자의 악마' 등극",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/05/MNRDOMLBGQ4DOMLEGE3DKY3FMY/"
         }
       ]
     },
@@ -97,129 +207,19 @@
       "published": "Thu, 5 Nov 2026 01:30:00 -0800",
       "news": [
         {
-          "title": "국민건강보험공단, 건강보험 빅데이터 분석센터 4개소 신규 개소",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261105144826"
-        },
-        {
-          "title": "의료 빅데이터 연구 거점 늘린다…건보공단, 4개 센터 개소",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611058778h"
-        },
-        {
-          "title": "건강보험 빅데이터 분석센터 4개소 연내 문 연다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261105_0003856410"
-        }
-      ]
-    },
-    {
-      "title": "맘스터치",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 01:30:00 -0800",
-      "news": [
-        {
-          "title": "맘스터치, '주술회전' 협업 세트 출시…한정판 굿즈 3종 선봬",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261105000102"
-        },
-        {
-          "title": "맘스터치, 주술회전 시부야 사변 컬래버 세트 29일까지 한정 판매",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202611051007334474204ead0791_12"
-        },
-        {
-          "title": "주술회전 캐릭터가 버거·치킨과 함께…맘스터치, 29일까지 협업",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1172063"
-        }
-      ]
-    },
-    {
-      "title": "노동조합",
-      "approx_traffic": "1000+",
-      "published": "Thu, 5 Nov 2026 01:20:00 -0800",
-      "news": [
-        {
-          "title": "삼성전자 제6노조 설립 추진…동행노조 내부 갈등설 공방(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105049351003"
-        },
-        {
-          "title": "'합의 파기·직원 외면' … 명분 잃은 삼성전자 동행노조 수원 집회",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/05/2026110500340.html"
-        },
-        {
-          "title": "구호 외치는 삼성전자 동행노조 조합원들",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261105_0021521078"
-        }
-      ]
-    },
-    {
-      "title": "라파엘 나달",
-      "approx_traffic": "500+",
-      "published": "Thu, 5 Nov 2026 01:20:00 -0800",
-      "news": [
-        {
-          "title": "'테니스 스타' 나달, 레알 마드리드 이사회 합류…\"제안 수락\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105066500007"
-        },
-        {
-          "title": "‘흙신’ 나달, 레알 마드리드 구단 이사 된다…내친 김에 회장까지?",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261105/134971041/1"
-        },
-        {
-          "title": "'테니스 전설' 나달, 스페인 레알 마드리드 신임 이사 임명",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261105_0003855992"
-        }
-      ]
-    },
-    {
-      "title": "유네스코",
-      "approx_traffic": "500+",
-      "published": "Thu, 5 Nov 2026 01:00:00 -0800",
-      "news": [
-        {
-          "title": "2014년 4월에 멈춘 시간·노란 리본…23만점 기록에 새긴 세월호",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105168700005"
-        },
-        {
-          "title": "세월호 참사 기억·옛 조리서, 세계기록유산 아태 목록 등재",
+          "title": "[단독] 이 대통령 장남 \"해군기지 골프장 간 적 없어\"‥주진우 명예훼손 고소",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6863479_36918.html"
+          "url": "https://imnews.imbc.com/news/2026/society/article/6863475_36918.html"
         },
         {
-          "title": "‘잊지 않겠다’는 약속…세월호의 기억, 유네스코 기록유산이 되다",
+          "title": "李대통령 장남 동호씨, 주진우 의원 명예훼손으로 고소",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/11/05/X5JNQDHXMZDL7O2566K3WU3GNM/"
+        },
+        {
+          "title": "이재명 대통령 장남, 주진우 국민의힘 의원 명예훼손으로 고소···“특혜 골프는 사실 아냐, 의혹 제기 선 넘은 것”",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611051729001"
-        }
-      ]
-    },
-    {
-      "title": "외국인",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 01:00:00 -0800",
-      "news": [
-        {
-          "title": "40개국 글로벌 청년 하나로… 대전시, ‘2026 외국인 유학생 한마음 대회’ 개최",
-          "source": "뉴데일리 충청세종",
-          "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/05/2026110500101.html"
-        },
-        {
-          "title": "국적·언어 넘어선 청춘의 열정 한자리에",
-          "source": "충청매일",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109108"
-        },
-        {
-          "title": "[대전소식] 2026 외국인 유학생 한마음 대회 개최 외",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1421999"
+          "url": "https://www.khan.co.kr/article/202611052118001"
         }
       ]
     }
