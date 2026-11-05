@@ -1,225 +1,215 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-05T03:28:25+00:00",
+  "fetched_at": "2026-11-05T04:36:44+00:00",
   "items": [
     {
-      "title": "장기 기증",
-      "approx_traffic": "5000+",
-      "published": "Wed, 4 Nov 2026 18:20:00 -0800",
-      "news": [
-        {
-          "title": "아픈 언니 걱정하던 20대女 돌연 쓰러져…장기기증으로 8명에 새 삶",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261105/134970066/2"
-        },
-        {
-          "title": "아픈 언니 먼저 챙기던 22세 전수연씨, 8명에 생명 나누고 떠나",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105046700530"
-        },
-        {
-          "title": "간호사 꿈꾸던 20대…8명에 새 새명 나누고 떠나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/thebio/2026/11/05/2026110511271879144"
-        }
-      ]
-    },
-    {
-      "title": "열차",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 18:10:00 -0800",
-      "news": [
-        {
-          "title": "출근길 우이신설선 전 구간 열차 운행 지연…4시간여만에 정상화(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105032351004"
-        },
-        {
-          "title": "출근길 서울 우이신설선 경전철 운행 지연‥배차간격 늘어",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6863349_36918.html"
-        },
-        {
-          "title": "[속보] 출근길 우이신설선 전 구간 열차 운행 지연…복구 중",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831530"
-        }
-      ]
-    },
-    {
-      "title": "더현대 크리스마스",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 18:10:00 -0800",
-      "news": [
-        {
-          "title": "신세계百, 명동 본점 크리스마스 영상 6일 공개…3D입체 연출",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104148400030"
-        },
-        {
-          "title": "‘인증샷 명소’ 신세계百 명동 외벽, 6일 크리스마스 새 영상 공개",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/market_trend/2026/11/05/HFSZQ7VKUNGTRCP4H7WPHXA7LU/"
-        },
-        {
-          "title": "[기업] 롯데백화점, 크리스마스 장식 점등...유럽 정원풍 테마 앞세워",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202611031742194990"
-        }
-      ]
-    },
-    {
-      "title": "광주광역시",
+      "title": "1기 신도시",
       "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 18:10:00 -0800",
+      "published": "Wed, 4 Nov 2026 19:30:00 -0800",
       "news": [
         {
-          "title": "\"주민은 무단 점유, 장애인 지원은 미달\" 복지행정 질타",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261104_0003854813"
+          "title": "샛별·양지·더시범 시공사 입찰 채비…분당 선도지구 수주전 초읽기",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20110022"
         },
         {
-          "title": "이오숙 전남광주시의원 \"본청 장애인생산품 구매율 0.26% 불과\"",
+          "title": "1기 신도시 재건축 선도지구 시공자 선정 시작됐다",
+          "source": "하우징헤럴드",
+          "url": "https://www.housingherald.co.kr/news/articleView.html?idxno=63273"
+        },
+        {
+          "title": "'일산만 외톨이'…엇갈린 1기 신도시 정비사업",
+          "source": "비즈워치",
+          "url": "https://news.bizwatch.co.kr/article/real_estate/2026/11/02/0044"
+        }
+      ]
+    },
+    {
+      "title": "이효리",
+      "approx_traffic": "5000+",
+      "published": "Wed, 4 Nov 2026 19:10:00 -0800",
+      "news": [
+        {
+          "title": "수백미터 줄 서고 오픈런 터졌는데…이효리가 백기 들고 폐업한 이유",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261104520765"
+        },
+        {
+          "title": "이상순, 건강 이상 딛고 라디오 2주년 맞았다 \"오래오래 봐요\"",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2215840"
+        }
+      ]
+    },
+    {
+      "title": "안재욱",
+      "approx_traffic": "100+",
+      "published": "Wed, 4 Nov 2026 19:10:00 -0800",
+      "news": [
+        {
+          "title": "\"운동회가 소음?\"…안재욱, 삭막한 민원에 던진 '작심 일침'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261105_0003855398"
+        },
+        {
+          "title": "“딸 운동회 함성 시끄럽다 민원” 안재욱, 주민 신고에 작심 일침",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261104133017397"
+        },
+        {
+          "title": "안재욱, 태양과 학부모 모임에서 굴욕 \"아빠 달리기에서 졌다\"('라디오스타')",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/MM3TGZRXHE4GMMRYMFRWCNRYGQ/"
+        }
+      ]
+    },
+    {
+      "title": "르브론 제임스",
+      "approx_traffic": "100+",
+      "published": "Wed, 4 Nov 2026 19:10:00 -0800",
+      "news": [
+        {
+          "title": "‘르브론도 엠비드도 아니다’ 브라운의 선언···“7승1패 필라델피아, 진짜 주인은 타이리스 맥시”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611041005003"
+        },
+        {
+          "title": "르브론 날개 달고 선두 비상! 필라델피아 NBA 승률 전체 1위→최근 4연승, 시즌 성적 7승 1패",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026110416441400292"
+        }
+      ]
+    },
+    {
+      "title": "마라톤",
+      "approx_traffic": "1000+",
+      "published": "Wed, 4 Nov 2026 19:00:00 -0800",
+      "news": [
+        {
+          "title": "\"가슴 드러낸 채 42㎞ 마라톤 완주\"…'가슴 절제' 유방암 투병 여성의 용기",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/general-world/6342931"
+        },
+        {
+          "title": "[포착] “성적인 의도 없다” 상의 벗고 마라톤 완주…유방 당당하게 드러낸 이유",
+          "source": "TWIG",
+          "url": "https://www.twig24.com/news/world/global-topic/2026/11/04/20261104500037"
+        },
+        {
+          "title": "“성적 의도 없어” 상의 벗고 마라톤 뛴 女사업가 알고보니",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261104150818730"
+        }
+      ]
+    },
+    {
+      "title": "주식",
+      "approx_traffic": "10000+",
+      "published": "Wed, 4 Nov 2026 19:00:00 -0800",
+      "news": [
+        {
+          "title": "19일 수능날, 주식시장 오전 10시 개장…프리마켓도 쉰다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611051125001"
+        },
+        {
+          "title": "수능일 19일 증시 오전 10시 개장…마감도 1시간 순연",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04493606645642768"
+        },
+        {
+          "title": "수능일 증시 개장 1시간 늦춘다…오전 10시 개장·오후 4시30분 폐장",
           "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261105000390"
-        },
-        {
-          "title": "전남광주통합특별시의회 임미란 의원, “수십 년째 무단점유자로 남은 주민들, 행정이 답해야”",
-          "source": "코리아안전뉴스",
-          "url": "https://www.koreasafetynews.com/news/articleView.html?idxno=283829"
+          "url": "https://www.newspim.com/news/view/20261105000442"
         }
       ]
     },
     {
-      "title": "김숙",
-      "approx_traffic": "2000+",
-      "published": "Wed, 4 Nov 2026 17:50:00 -0800",
-      "news": [
-        {
-          "title": "김대호, 9세 연상 김숙과 동거설에 입 열었다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261105_0003855440"
-        },
-        {
-          "title": "김대호, 얼마나 성공하고 싶으면 “구본승 다음은 너” 김숙과 러브라인 (톡파원25시)[어제TV]",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202611050632281710"
-        },
-        {
-          "title": "김대호, ‘9세 연상’ 김숙과 동거설→직접 입 열었다…”열려 있다는 의미” (‘톡파원’)",
-          "source": "TV리포트",
-          "url": "https://tvreport.co.kr/entertainment/article/1088458/"
-        }
-      ]
-    },
-    {
-      "title": "교통",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 17:50:00 -0800",
-      "news": [
-        {
-          "title": "오산시의회, 화성시 정남면 덕절리 물류센터 관련 교통대책 마련 촉구",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335973"
-        },
-        {
-          "title": "조용호 오산시장 “화성 덕절리 물류센터 교통영향 재검토해야”",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026110511393763814"
-        },
-        {
-          "title": "민주당 오산시의원들, 대형 물류센터 공사현장 항의 방문",
-          "source": "메트로신문",
-          "url": "https://www.metroseoul.co.kr/article/20261104500631"
-        }
-      ]
-    },
-    {
-      "title": "아이폰",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 17:40:00 -0800",
-      "news": [
-        {
-          "title": "삼성·애플, 폴더블폰 '접는 기술' 경쟁 붙었다",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261104152151"
-        },
-        {
-          "title": "\"329만원 주고 샀다 깨질라\"…아이폰 듀오 화면 균열에 구매심리도 흔들",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261105_0003855658"
-        },
-        {
-          "title": "쇼마젠시, AI·카메라 기능 강화된 갤럭시 Z폴드8 11월 한정 프로모션 진행",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261104022515309"
-        }
-      ]
-    },
-    {
-      "title": "한남더힐 아파트",
-      "approx_traffic": "5000+",
-      "published": "Wed, 4 Nov 2026 17:10:00 -0800",
-      "news": [
-        {
-          "title": "옥주현 '한남더힐 190억' 매입과 대부업 대출…신사동 빌딩서 꼬인 '레버리지의 덫'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261104_0003854597"
-        },
-        {
-          "title": "옥주현 190억 집, 경매 넘어간 건 우연이 아니다?",
-          "source": "이데일리TV",
-          "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=02984806645641784&Kind=257"
-        },
-        {
-          "title": "'190억 한남더힐' 경매 넘어가자…옥주현 측 \"투자사가 상환 예정\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610294537H"
-        }
-      ]
-    },
-    {
-      "title": "레인보우로보틱스",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 16:40:00 -0800",
-      "news": [
-        {
-          "title": "레인보우로보틱스 \"양팔로봇, 57일 만에 개발…산업용 휴머노이드 확대\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443049"
-        },
-        {
-          "title": "레인보우로보틱스, 휴머노이드에 AI 결합…\"말로 로봇 부린다\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261104172211"
-        },
-        {
-          "title": "로봇 다루기도 ‘바이브 코딩’으로…레인보우, 현장 운용 SW 개발",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05671126645642440&mediaCodeNo=257"
-        }
-      ]
-    },
-    {
-      "title": "다문화 가정",
+      "title": "sk텔레콤",
       "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 16:30:00 -0800",
+      "published": "Wed, 4 Nov 2026 19:00:00 -0800",
       "news": [
         {
-          "title": "전체 혼인 8.1% 늘었는데 다문화 혼인은 감소…이혼은 1.4% 증가",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261105000179"
+          "title": "‘광안대교 보이는 방’ 하루 98만원···부산 불꽃축제 앞두고 숙박료 평균 94.5% 뛰었다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611041708001"
         },
         {
-          "title": "국민 혼인·출생 늘 때 다문화는 ‘역주행’… 작년 다문화 혼인·출생↓ 이혼 ↑",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/11/05/BOCYMI5MXZF2FJYT2NHZYNHNWQ/"
+          "title": "광안리 불꽃 하루로 끝낼 수 없어… 부산 전역 사계절 관광 추진",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026110511335545285"
         },
         {
-          "title": "다문화 부부 3쌍 중 1쌍 '남편 10살 이상 연상'…이혼 1.4%↑ - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/11/05/2026110508333550867"
+          "title": "불꽃쇼 앞둔 부산, ‘공정 숙소’ 34곳 공개",
+          "source": "서울Pn",
+          "url": "https://m.go.seoul.co.kr/news/2026/11/05/20261105019003"
+        }
+      ]
+    },
+    {
+      "title": "이범호",
+      "approx_traffic": "2000+",
+      "published": "Wed, 4 Nov 2026 18:50:00 -0800",
+      "news": [
+        {
+          "title": "이범호 쓸 대타도 없었다, 문제는 결국 ‘뎁스’였다… KIA 마지막 날의 분노, 대형 FA 영입으로 이어질까",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017817"
+        },
+        {
+          "title": "여기서 왜 김호령을…2025년 '김경문급' 실책, '네일 교체+김호령 대타'[PO4]",
+          "source": "스포츠한국",
+          "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942614"
+        },
+        {
+          "title": "[PO 포커스] 중견수 김호령과 박정우, 둘 중 한 명 터져야 KIA가 산다",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261028001626"
+        }
+      ]
+    },
+    {
+      "title": "필리핀",
+      "approx_traffic": "2000+",
+      "published": "Wed, 4 Nov 2026 18:50:00 -0800",
+      "news": [
+        {
+          "title": "美 F-16 추가 카드에 흔들리는 필리핀… KF-21 40대 도입설 기류 변화",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611050727155817fbbec65dfb_1"
+        },
+        {
+          "title": "한국산 함정 12척 주문한 필리핀…추가 호위함 건조 시작 [밀리터리+]",
+          "source": "나우뉴스",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261104601023"
+        },
+        {
+          "title": "필리핀 해군과 10년 협력…HD현대중공업, 필리핀 신형 호위함 건조 돌입 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2157577"
+        }
+      ]
+    },
+    {
+      "title": "유치원",
+      "approx_traffic": "1000+",
+      "published": "Wed, 4 Nov 2026 18:50:00 -0800",
+      "news": [
+        {
+          "title": "\"물리고 뇌진탕 진단에도 아동학대 피고소인\"…동료 유치원 교사들도 반발(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103167651063"
+        },
+        {
+          "title": "'교권침해 인정' 세종 유치원 교사...아동학대로 피소",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202611041759320699"
+        },
+        {
+          "title": "\"죽어야 끝날까요\" 온몸 피멍 특수교사 또 피소 '절규'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6863200_36918.html"
         }
       ]
     }
