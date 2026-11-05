@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-05T14:37:36+00:00",
+  "fetched_at": "2026-11-05T15:32:59+00:00",
   "items": [
+    {
+      "title": "제니",
+      "approx_traffic": "200+",
+      "published": "Thu, 5 Nov 2026 06:20:00 -0800",
+      "news": [
+        {
+          "title": "‘분노의 질주’ 속 수키로 변신한 제니, 붉은색 차량 앞 파격적인 레트로 룩",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1646060"
+        },
+        {
+          "title": "제니, 할로윈 신부 드레스로 퇴폐미 완성...파격 스타일에 '시선 집중'",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553669459"
+        },
+        {
+          "title": "자연 찾은 제니, 초록 비키니 입고 물가에서 힐링",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261104_0003853904"
+        }
+      ]
+    },
+    {
+      "title": "허태정",
+      "approx_traffic": "100+",
+      "published": "Thu, 5 Nov 2026 05:50:00 -0800",
+      "news": [
+        {
+          "title": "대전 시내버스, 공사에 밀리고 대책 없고…허태정표 교통행정 '갈팡질팡'",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261105000749"
+        },
+        {
+          "title": "대전참여연대 “트램 급전방식 확정 전 교량 공사, 문제”",
+          "source": "디트NEWS24",
+          "url": "https://www.dtnews24.com/news/articleView.html?idxno=816846"
+        },
+        {
+          "title": "대전시의회, 대덕대교 교통대책·어르신 버스비 한도 등 시정 현안 집중 점검",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109325"
+        }
+      ]
+    },
     {
       "title": "상장지수 펀드",
       "approx_traffic": "500+",
@@ -19,9 +63,9 @@
           "url": "https://www.investchosun.com/site/data/html_dir/2026/11/02/2026110280076.html"
         },
         {
-          "title": "TIGER 200, 수익률·분배금 1위…대표지수 ETF 경쟁력 입증",
-          "source": "블로그",
-          "url": "https://m.blog.naver.com/PostView.naver?blogId=dealsite&logNo=224462796220"
+          "title": "[뉴스후] KODEX200의 왕좌와 개미들의 'TIGER 미국S&P500' 대이동",
+          "source": "데일리연합",
+          "url": "https://dailyan.com/news/article.html?no=783290"
         }
       ]
     },
@@ -31,25 +75,25 @@
       "published": "Thu, 5 Nov 2026 05:10:00 -0800",
       "news": [
         {
-          "title": "[인사] 중소벤처기업부",
+          "title": "강원FC, 말레이시아 쿠칭에 0-2 패배…조 최하위로 추락",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105179400030"
+          "url": "https://www.yna.co.kr/view/AKR20261105185300007"
         },
         {
-          "title": "[영상] 한숨 나오는 자유투…“프로다운 농구가 절대 아니잖아”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702498"
+          "title": "강원, ACL2에서 쿠칭에 0-2 완패…동남아 팀에 2패째+조 최하위",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/soccer/6344906"
         },
         {
-          "title": "[핌in대구] 부상 딛고 해결사 역할 정관장 변준형 \"공격 균형 차츰 나아질 것\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261103000390"
+          "title": "강원, ACL2 말레이 쿠칭 원정서 0-2 패배…H조 최하위 추락",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261105_0003857099"
         }
       ]
     },
     {
       "title": "서정진",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Thu, 5 Nov 2026 05:00:00 -0800",
       "news": [
         {
@@ -71,7 +115,7 @@
     },
     {
       "title": "인천 유나이티드 fc",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Thu, 5 Nov 2026 04:50:00 -0800",
       "news": [
         {
@@ -109,6 +153,28 @@
       ]
     },
     {
+      "title": "교차로",
+      "approx_traffic": "100+",
+      "published": "Thu, 5 Nov 2026 04:10:00 -0800",
+      "news": [
+        {
+          "title": "\"누구 인생 망치려고\"…교차로서 아찔한 무단횡단 '분노'(영상)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261104_0003853781"
+        },
+        {
+          "title": "\"누구 인생 망치려고\" 대구 교차로서 위험천만 무단횡단[영상] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/05/2026110507575582637"
+        },
+        {
+          "title": "과천시, 횡단보도 기다림 줄이는 '반복 보행신호' 11월 11일부터 시범 운영",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20261104004700353"
+        }
+      ]
+    },
+    {
       "title": "커버 드 콜",
       "approx_traffic": "1000+",
       "published": "Thu, 5 Nov 2026 03:50:00 -0800",
@@ -132,9 +198,14 @@
     },
     {
       "title": "목동",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Thu, 5 Nov 2026 03:50:00 -0800",
       "news": [
+        {
+          "title": "“재건축 아직 멀었으니 고치고 살아야죠”…목동 주민들 찾는다는 ‘이곳’ [현장]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12198369"
+        },
         {
           "title": "비행기 소음 차단·41층 고층 조망 구현…IPARK현산, 목동 11단지 총력전 [르포]",
           "source": "땅집고",
@@ -144,77 +215,6 @@
           "title": "[르포] 목동11단지, 삼성·현대는 잠잠…대우·롯데·현산은 눈독",
           "source": "아시아투데이",
           "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001441"
-        },
-        {
-          "title": "[목동 수주전, 진짜 전쟁터는 어디④] 3조 '대장주' 7단지…현대·롯데 공들이고 삼성도 관심",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1421481"
-        }
-      ]
-    },
-    {
-      "title": "전국금속노동조합",
-      "approx_traffic": "100+",
-      "published": "Thu, 5 Nov 2026 03:40:00 -0800",
-      "news": [
-        {
-          "title": "광주글로벌모터스 노사, 단체협약 조인식…\"상생 관계 구축\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105169200054"
-        },
-        {
-          "title": "신연순 전남광주시의원 \"노사민정협의회, 운영 부실·중립성 한계\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261105001124"
-        },
-        {
-          "title": "\"GGM 복지 프로그램 12개 중 내세울 게 있나\"…시의회서 질타",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/gwangju-jeonnam/6343182"
-        }
-      ]
-    },
-    {
-      "title": "다니엘기도회 2026",
-      "approx_traffic": "100+",
-      "published": "Thu, 5 Nov 2026 03:20:00 -0800",
-      "news": [
-        {
-          "title": "[2026 다니엘기도회: 4일] 절이 교회가 된 한마디 “주가 쓰시겠다 하라” : 목회/신학",
-          "source": "크리스천투데이",
-          "url": "https://www.christiantoday.co.kr/news/378397"
-        },
-        {
-          "title": "'2026 다니엘기도회' 21일간의 여정 돌입…GOODTV 전 과정 생중계",
-          "source": "데일리굿뉴스",
-          "url": "https://www.goodnews1.com/news/articleView.html?idxno=465742"
-        },
-        {
-          "title": "8년 전 아버지의 ‘스무 살’ 기도 이뤄져⋯ 부자 함께 선 다니엘기도회",
-          "source": "더미션",
-          "url": "https://www.themission.co.kr/news/articleView.html?idxno=96675"
-        }
-      ]
-    },
-    {
-      "title": "이세영",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 03:10:00 -0800",
-      "news": [
-        {
-          "title": "“언니라고 불러도 될까요?”…‘재혼 황후’ 막장 판타지 통했다…12개국 1위·종합 7위",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629082"
-        },
-        {
-          "title": "\"이태오 다음 소비에슈\"..'재혼 황후' 주지훈표 '사빠죄아' [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/05/HAYWENBXGUZGGYJXMJRDINJYME/"
-        },
-        {
-          "title": "“유치한데 중독성 있네”…‘재혼 황후’ 호불호 속 디즈니 1위",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/culture/culture_general/1285884.html"
         }
       ]
     }
