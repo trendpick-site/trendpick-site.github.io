@@ -1,17 +1,122 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-05T13:13:36+00:00",
+  "fetched_at": "2026-11-05T14:37:36+00:00",
   "items": [
     {
-      "title": "커버 드 콜",
+      "title": "상장지수 펀드",
       "approx_traffic": "500+",
+      "published": "Thu, 5 Nov 2026 05:10:00 -0800",
+      "news": [
+        {
+          "title": "ETF 왕좌 지킨 KODEX200…개미는 TIGER 미국S&P500에 ‘우르르’",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202611030175"
+        },
+        {
+          "title": "균열 난 삼성 독주…KODEX·TIGER '1등 자존심' 싸움 재점화",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/02/2026110280076.html"
+        },
+        {
+          "title": "TIGER 200, 수익률·분배금 1위…대표지수 ETF 경쟁력 입증",
+          "source": "블로그",
+          "url": "https://m.blog.naver.com/PostView.naver?blogId=dealsite&logNo=224462796220"
+        }
+      ]
+    },
+    {
+      "title": "쿠칭시티",
+      "approx_traffic": "100+",
+      "published": "Thu, 5 Nov 2026 05:10:00 -0800",
+      "news": [
+        {
+          "title": "[인사] 중소벤처기업부",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261105179400030"
+        },
+        {
+          "title": "[영상] 한숨 나오는 자유투…“프로다운 농구가 절대 아니잖아”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702498"
+        },
+        {
+          "title": "[핌in대구] 부상 딛고 해결사 역할 정관장 변준형 \"공격 균형 차츰 나아질 것\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261103000390"
+        }
+      ]
+    },
+    {
+      "title": "서정진",
+      "approx_traffic": "100+",
+      "published": "Thu, 5 Nov 2026 05:00:00 -0800",
+      "news": [
+        {
+          "title": "서정진 셀트리온 회장, 인공장기 전망 물었더니 “전공 바꿔라”",
+          "source": "비즈한국",
+          "url": "https://bizhankook.com/articles/celltrion-chairman-ai-organ-research.html"
+        },
+        {
+          "title": "서정진 \"AI 도입 후 신입 채용 줄였다\"···셀트리온, R&D 방식도 변화",
+          "source": "뉴스웨이",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026110418150464125"
+        },
+        {
+          "title": "바이오 CDMO 3대장 '합종연횡'…글로벌 경쟁력 강화 \"속도\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/11/05/2026110510552772538"
+        }
+      ]
+    },
+    {
+      "title": "인천 유나이티드 fc",
+      "approx_traffic": "100+",
+      "published": "Thu, 5 Nov 2026 04:50:00 -0800",
+      "news": [
+        {
+          "title": "‘3년 만의 ACL 도전’ 이겨도 웃지 못하는 인천유나이티드…대표 리스크에 흔들리는 2027 시즌",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336054"
+        },
+        {
+          "title": "이청용 품으며 뚝심의 리더십…인천 윤정환 매직, 승격시즌 역대 9번째 파이널A행 반전",
+          "source": "Nate News",
+          "url": "https://m.news.nate.com/view/20261025n04463?issue_sq=10989"
+        },
+        {
+          "title": "아마추어 지도자 23년의 내공, 행정가로 펼친다…인천 정재권 테크니컬 디렉터가 그리는 청사진",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8B%E1%85%A1%E1%84%86%E1%85%A1%E1%84%8E%E1%85%AE%E1%84%8B%E1%85%A5-%E1%84%8C%E1%85%B5%E1%84%83%E1%85%A9%E1%84%8C%E1%85%A1-23%E1%84%82%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B4-%E1%84%82%E1%85%A2%E1%84%80%E1%85%A9%E1%86%BC-%E1%84%92%E1%85%A2%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A1%E1%84%85%E1%85%A9-%E1%84%91%E1%85%A7%E1%86%AF%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A1--%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8E%E1%85%A5%E1%86%AB-%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A2%E1%84%80%E1%85%AF%E1%86%AB-%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B3%E1%84%82%E1%85%B5%E1%84%8F%E1%85%A5%E1%86%AF-%E1%84%83%E1%85%B5%E1%84%85%E1%85%A6%E1%86%A8%E1%84%90%E1%85%A5%E1%84%80%E1%85%A1-%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8E%E1%85%A5%E1%86%BC%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB/blt6ed4773aff29088b"
+        }
+      ]
+    },
+    {
+      "title": "유현주",
+      "approx_traffic": "200+",
+      "published": "Thu, 5 Nov 2026 04:40:00 -0800",
+      "news": [
+        {
+          "title": "미녀 골퍼 유현주, 강호동 전현무와 한식구 되나 [공식입장]",
+          "source": "뉴스엔",
+          "url": "https://www.newsen.com/news_view.php?uid=202611050859555710"
+        },
+        {
+          "title": "[공식]SM C&C \"유현주 전속계약 논의중\" 스포테이너 본격 진출하나",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/11/05/2026110510275167250"
+        }
+      ]
+    },
+    {
+      "title": "커버 드 콜",
+      "approx_traffic": "1000+",
       "published": "Thu, 5 Nov 2026 03:50:00 -0800",
       "news": [
         {
-          "title": "[단독] \"원금 돌려받는 건데 왜 세금 떼가나\"…개미들 뿔났다",
+          "title": "[단독] \"원금 돌려받았는데 왜\"…서학개미, 美 커버드콜 '수천억 세금 환급' 집단 반발",
           "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026110591261"
+          "url": "https://www.hankyung.com/article/202611056806i"
         },
         {
           "title": "빈틈없는 연말정산… ‘연금저축 600만원 + IRP 300만원’ 조합이 최적",
@@ -48,8 +153,52 @@
       ]
     },
     {
-      "title": "이세영",
+      "title": "전국금속노동조합",
       "approx_traffic": "100+",
+      "published": "Thu, 5 Nov 2026 03:40:00 -0800",
+      "news": [
+        {
+          "title": "광주글로벌모터스 노사, 단체협약 조인식…\"상생 관계 구축\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261105169200054"
+        },
+        {
+          "title": "신연순 전남광주시의원 \"노사민정협의회, 운영 부실·중립성 한계\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261105001124"
+        },
+        {
+          "title": "\"GGM 복지 프로그램 12개 중 내세울 게 있나\"…시의회서 질타",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gwangju-jeonnam/6343182"
+        }
+      ]
+    },
+    {
+      "title": "다니엘기도회 2026",
+      "approx_traffic": "100+",
+      "published": "Thu, 5 Nov 2026 03:20:00 -0800",
+      "news": [
+        {
+          "title": "[2026 다니엘기도회: 4일] 절이 교회가 된 한마디 “주가 쓰시겠다 하라” : 목회/신학",
+          "source": "크리스천투데이",
+          "url": "https://www.christiantoday.co.kr/news/378397"
+        },
+        {
+          "title": "'2026 다니엘기도회' 21일간의 여정 돌입…GOODTV 전 과정 생중계",
+          "source": "데일리굿뉴스",
+          "url": "https://www.goodnews1.com/news/articleView.html?idxno=465742"
+        },
+        {
+          "title": "8년 전 아버지의 ‘스무 살’ 기도 이뤄져⋯ 부자 함께 선 다니엘기도회",
+          "source": "더미션",
+          "url": "https://www.themission.co.kr/news/articleView.html?idxno=96675"
+        }
+      ]
+    },
+    {
+      "title": "이세영",
+      "approx_traffic": "200+",
       "published": "Thu, 5 Nov 2026 03:10:00 -0800",
       "news": [
         {
@@ -63,163 +212,9 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/11/05/HAYWENBXGUZGGYJXMJRDINJYME/"
         },
         {
-          "title": "\"주지훈, 트로트 가수냐?\" 혹평 쏟아졌는데…해외선 '반전'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611057624H"
-        }
-      ]
-    },
-    {
-      "title": "표절",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 03:00:00 -0800",
-      "news": [
-        {
-          "title": "방탄소년단 '스윔' 표절 주장 소송, 원고 측 자진 취하…美 저작권 시비 종결",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261105509138"
-        },
-        {
-          "title": "BTS '스윔' 표절 의혹 美 소송 마무리…4개월 만에 취하",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105090100005"
-        },
-        {
-          "title": "방탄소년단, '표절누명' 벗었다..저작권 소송 승소→원고 '자진취하'[Oh!쎈 이슈]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/HBSDIZDGGZTGGNLCHFQTAMZVME/"
-        }
-      ]
-    },
-    {
-      "title": "호날두",
-      "approx_traffic": "2000+",
-      "published": "Thu, 5 Nov 2026 02:40:00 -0800",
-      "news": [
-        {
-          "title": "'대표팀 이탈' 파문 호날두, 결국 포르투갈 축구대표서 은퇴",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105177200007"
-        },
-        {
-          "title": "호날두, 대표팀 무단 이탈하더니…“포르투갈 7번 내려 놓을 때가 됐다” 전격 은퇴",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261105000531"
-        },
-        {
-          "title": "“등번호 7번 내려놓을 때 왔다”…호날두, 23년만에 국대 은퇴",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261105/134975213/1"
-        }
-      ]
-    },
-    {
-      "title": "사격",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 02:10:00 -0800",
-      "news": [
-        {
-          "title": "사격훈련서 실탄 3발 훔친 경찰관 송치…\"범죄 목적 확인 안돼\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105058100055"
-        },
-        {
-          "title": "전북경찰, 실탄 반출 경찰관 송치…고창 농업연구사 사망 관련자 입건",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261105131716ydW"
-        },
-        {
-          "title": "사격장서 실탄 3발 빼돌린 경감 송치…\"범죄 사용 목적 없어\"",
-          "source": "전북노컷",
-          "url": "https://jb.nocutnews.co.kr/news/6602582"
-        }
-      ]
-    },
-    {
-      "title": "nepal premier league",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 02:10:00 -0800",
-      "news": [
-        {
-          "title": "Jintimani Kalita batting bowling stats, averages and cricket statistics, 2026",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/cricketers/jintimani-kalita-1255387/bowling-batting-stats"
-        },
-        {
-          "title": "Lumbini Lions beat Janakpur Bolts by 16 runs to remain unbeaten in NPL",
-          "source": "Nepalnews.com",
-          "url": "https://english.nepalnews.com/s/sports/lumbini-lions-beat-janakpur-bolts-by-16-runs-to-remain-unbeaten-in-npl/"
-        },
-        {
-          "title": "Lumbini beat Janakpur to strengthen grip on NPL top spot",
-          "source": "The Kathmandu Post",
-          "url": "https://kathmandupost.com/cricket/2026/11/05/lumbini-beat-janakpur-to-strengthen-grip-on-npl-top-spot"
-        }
-      ]
-    },
-    {
-      "title": "울산 현대모비스 대 썬더스",
-      "approx_traffic": "1000+",
-      "published": "Thu, 5 Nov 2026 01:50:00 -0800",
-      "news": [
-        {
-          "title": "삼성, 현대모비스 꺾고 10승 선착",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/basketball/2026/11/05/JPSKBB5EHZCHFHPZIRHF4G4I6U/"
-        },
-        {
-          "title": "삼성, 현대모비스 꺾고 11경기 만에 10승…KBL 역대 최단 경기 타이",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261105_0003857015"
-        },
-        {
-          "title": "[사진] 한호빈, 정성종와 골 성공 하이파이브 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/05/202611052022778562O"
-        }
-      ]
-    },
-    {
-      "title": "최종면접",
-      "approx_traffic": "100+",
-      "published": "Thu, 5 Nov 2026 01:40:00 -0800",
-      "news": [
-        {
-          "title": "조이현·김재원 '최종면접' 개봉일 1위...한국 영화로 22일만에 탈환",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0106_202611051000169031"
-        },
-        {
-          "title": "[인터뷰] 구직이라는 현실 뒤 진실이란, 김정훈 감독",
-          "source": "씨네21",
-          "url": "https://cine21.com/news/view/?mag_id=111183"
-        },
-        {
-          "title": "'괴물급 신예' 배강희, 독보적 분위기로 차세대 '여자의 악마' 등극",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/05/MNRDOMLBGQ4DOMLEGE3DKY3FMY/"
-        }
-      ]
-    },
-    {
-      "title": "강원도민일보",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 01:30:00 -0800",
-      "news": [
-        {
-          "title": "[단독] 이 대통령 장남 \"해군기지 골프장 간 적 없어\"‥주진우 명예훼손 고소",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6863475_36918.html"
-        },
-        {
-          "title": "李대통령 장남 동호씨, 주진우 의원 명예훼손으로 고소",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/11/05/X5JNQDHXMZDL7O2566K3WU3GNM/"
-        },
-        {
-          "title": "이재명 대통령 장남, 주진우 국민의힘 의원 명예훼손으로 고소···“특혜 골프는 사실 아냐, 의혹 제기 선 넘은 것”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611052118001"
+          "title": "“유치한데 중독성 있네”…‘재혼 황후’ 호불호 속 디즈니 1위",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/culture/culture_general/1285884.html"
         }
       ]
     }
