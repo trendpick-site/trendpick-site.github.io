@@ -1,27 +1,159 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-05T09:04:04+00:00",
+  "fetched_at": "2026-11-05T10:07:54+00:00",
   "items": [
+    {
+      "title": "유네스코",
+      "approx_traffic": "200+",
+      "published": "Thu, 5 Nov 2026 01:00:00 -0800",
+      "news": [
+        {
+          "title": "2014년 4월에 멈춘 시간·노란 리본…23만점 기록에 새긴 세월호",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261105168700005"
+        },
+        {
+          "title": "‘잊지 않겠다’는 약속…세월호의 기억, 유네스코 기록유산이 되다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611051729001"
+        },
+        {
+          "title": "세월호 참사 기억·옛 조리서, 세계기록유산 아태 목록 등재",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6863479_36918.html"
+        }
+      ]
+    },
+    {
+      "title": "외국인",
+      "approx_traffic": "100+",
+      "published": "Thu, 5 Nov 2026 01:00:00 -0800",
+      "news": [
+        {
+          "title": "40개국 글로벌 청년 하나로… 대전시, ‘2026 외국인 유학생 한마음 대회’ 개최",
+          "source": "뉴데일리 충청세종",
+          "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/05/2026110500101.html"
+        },
+        {
+          "title": "국적·언어 넘어선 청춘의 열정 한자리에",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109108"
+        },
+        {
+          "title": "[대전소식] 2026 외국인 유학생 한마음 대회 개최 외",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1421999"
+        }
+      ]
+    },
+    {
+      "title": "하이닉스",
+      "approx_traffic": "10000+",
+      "published": "Thu, 5 Nov 2026 00:40:00 -0800",
+      "news": [
+        {
+          "title": "5300선까지 하락한 코스피...미국 반도체주·외국인 향방 주목 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/05/2026110515534966157"
+        },
+        {
+          "title": "美 '블루 쓰나미' 쇼크…외인 4조 패닉셀에 한국 증시 '초토화'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110586056"
+        },
+        {
+          "title": "[속보]코스피 5%대 급락…하닉 9%↓ 무슨일?",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629128"
+        }
+      ]
+    },
+    {
+      "title": "fifa u-17 여자 월드컵",
+      "approx_traffic": "100+",
+      "published": "Thu, 5 Nov 2026 00:20:00 -0800",
+      "news": [
+        {
+          "title": "북한, U-17 여자 월드컵 준결승서 고배…3연패 도전 무산",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261105/134970487/1"
+        },
+        {
+          "title": "북한, FIFA U-17 여자 월드컵 일본에 승부차기 패배…3연패 좌절",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831671"
+        },
+        {
+          "title": "[축구] 북한, FIFA U-17 여자 월드컵 준결승서 일본에 패배… 3연패 좌절",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3446136"
+        }
+      ]
+    },
+    {
+      "title": "어벤져스 둠스데이",
+      "approx_traffic": "200+",
+      "published": "Thu, 5 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "고조에서 세피로스까지: 어마어마한 라인업을 자랑하는 '어벤져스: 두무스데이' 일본어 더빙진",
+          "source": "Hypebeast.KR",
+          "url": "https://hypebeast.kr/2026/11/marvel-avengers-doomsday-japanese-dub-cast-anime-voice-actors-toshiyuki-morikawa-doctor-doom-announcement"
+        },
+        {
+          "title": "‘어벤져스: 둠스데이’ 벌써 뜨겁다…사상 최초 ‘30억 달러’ 돌파 전망",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261102/134948407/1"
+        },
+        {
+          "title": "[해외 캠페인] KFC, '어벤져스: 둠스데이' 메뉴 출시",
+          "source": "캠페인 인사이트",
+          "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=7066"
+        }
+      ]
+    },
+    {
+      "title": "장동민",
+      "approx_traffic": "500+",
+      "published": "Thu, 5 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "정현규, 태도 논란에도 '데블스플랜3' 또 출연…\"지금도 반성 중\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/05/2026110514584552886"
+        },
+        {
+          "title": "장동민부터 홍진호·하석진까지…'데블스 플랜3', 역대급 두뇌 전쟁 예고",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261105_0003856283"
+        },
+        {
+          "title": "[사진]이도 '정종연PD에게 수능 성적 공개로 출연 쟁취'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112904712"
+        }
+      ]
+    },
     {
       "title": "시험",
       "approx_traffic": "500+",
       "published": "Wed, 4 Nov 2026 23:50:00 -0800",
       "news": [
         {
-          "title": "서울 교사 임용시험서 '스마트안경' 검사‥\"1교시 전 안경 벗어 확인\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6863427_36918.html"
+          "title": "“안경 잘못 건드렸다 고소당할라”…수능 2주 앞 감독 기피하는 교사들",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261104580512"
         },
         {
-          "title": "전남광주교육청, 유·초등 교사 257명 선발…1,144명 지원",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110516375076897"
+          "title": "서울시립대, ’AI 안경 논술시험’ 수험생 2명 고소",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611051703272tz"
         },
         {
-          "title": "교사 임용시험에 ‘AI 안경 검사’ 등장...“1교시 전 벗어서 감독관에 보여줘야”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/education/2026/11/05/7BOZIPQDBZGVTKYTZEJB5QPSZM/"
+          "title": "[서해안] 수능 D-14",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039973"
         }
       ]
     },
@@ -48,6 +180,28 @@
       ]
     },
     {
+      "title": "프리지아",
+      "approx_traffic": "100+",
+      "published": "Wed, 4 Nov 2026 23:40:00 -0800",
+      "news": [
+        {
+          "title": "프리지아 측, 사생활 루머 일축…“선처 없는 법적 대응”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261105/134974386/1"
+        },
+        {
+          "title": "'갤럭시 쓰는 남자 별루' 프리지아, 기업인과 열애설 부인 \"법적 대응\"",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611051737585672"
+        },
+        {
+          "title": "‘솔로지옥’ 프리지아, 악성 루머에 칼 빼 들었다…“고소·고발 진행”",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261105010002233"
+        }
+      ]
+    },
+    {
       "title": "위험성",
       "approx_traffic": "200+",
       "published": "Wed, 4 Nov 2026 23:10:00 -0800",
@@ -66,155 +220,6 @@
           "title": "위험성평가 안 하면 과태료 1000만원…산업현장 안전관리 의무 대폭 강화",
           "source": "제민일보",
           "url": "https://www.jemin.com/news/articleView.html?idxno=846119"
-        }
-      ]
-    },
-    {
-      "title": "김태규",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 23:00:00 -0800",
-      "news": [
-        {
-          "title": "[속보] ‘전두환 내란부정’ 김태규 제명촉구결의안 민주당 주도 국회 통과",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12326645"
-        },
-        {
-          "title": "'내란 부정' 김태규 제명 촉구안 범여권 주도 본회의 통과",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202611051542280282&s_mcd=0101"
-        },
-        {
-          "title": "‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8704911"
-        }
-      ]
-    },
-    {
-      "title": "축제",
-      "approx_traffic": "500+",
-      "published": "Wed, 4 Nov 2026 23:00:00 -0800",
-      "news": [
-        {
-          "title": "“군민이 함께 피운 가을 동화”… 진도 보배섬 국화축제 5일 막 올랐다",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353949"
-        },
-        {
-          "title": "진도군, 가을 정취 만끽 보배섬 국화축제 5일 개막",
-          "source": "중도일보",
-          "url": "https://www.joongdo.co.kr/web/view.php?key=20261108010001877"
-        },
-        {
-          "title": "진도 국화축제 개막…전시 국화 75% 지역 농가 생산",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3743460"
-        }
-      ]
-    },
-    {
-      "title": "데이터센터",
-      "approx_traffic": "200+",
-      "published": "Wed, 4 Nov 2026 22:50:00 -0800",
-      "news": [
-        {
-          "title": "한화오션, ABB와 손잡고 부유식 데이터센터 핵심 기술 고도화",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105106200003"
-        },
-        {
-          "title": "AI 전력 출렁여도 끄떡없게… 한화오션, 해상 데이터센터 기술 손본다",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110515261238397"
-        },
-        {
-          "title": "한화오션, ABB 손잡고 부유식 데이터센터 기술 고도화",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05015126645642768"
-        }
-      ]
-    },
-    {
-      "title": "제주 감귤",
-      "approx_traffic": "1000+",
-      "published": "Wed, 4 Nov 2026 22:40:00 -0800",
-      "news": [
-        {
-          "title": "[독자기고] AI가 감귤 관측 현장을 바꾸고 있다",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=846190"
-        },
-        {
-          "title": "“점심시간에 만난 달콤함”…제주감귤연합회, 정부세종청사서 고당도 제주감귤 특별판매",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/economy/2026/11/05/20261105500202"
-        }
-      ]
-    },
-    {
-      "title": "삼성전자 주가",
-      "approx_traffic": "2000+",
-      "published": "Wed, 4 Nov 2026 22:30:00 -0800",
-      "news": [
-        {
-          "title": "삼성전자·하이닉스 주가 흔들…지금 ’줍줍’할까, 좀 더 후에 들어가야? 셈법 복잡 By FinancialPost",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2160533"
-        },
-        {
-          "title": "삼성전자 주주환원 유보에 증여세 논란…이사회 독립성 시험대",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443191"
-        },
-        {
-          "title": "\"주주환원 유보 검토해야\"…라이프운용, 삼성전자에 주주서한 보내",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/05/2026110508525959867"
-        }
-      ]
-    },
-    {
-      "title": "남대문 스카프 아저씨",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 22:30:00 -0800",
-      "news": [
-        {
-          "title": "[르포] 스카프 아저씨에 외국인까지… 남대문 상가 임대료는 올랐다",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/05/JY7PUGBGINGDHHRQNZRRALSWEQ/"
-        },
-        {
-          "title": "\"경찰도 찾아왔네\" 남대문 스카프 아저씨, 밀려드는 인파에 재휴업",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026110516430421244"
-        },
-        {
-          "title": "’남대문 스카프 아저씨’ 출근길 인증…영업 재개에 시장 들썩",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261104160854BFB"
-        }
-      ]
-    },
-    {
-      "title": "삼전 주가",
-      "approx_traffic": "100+",
-      "published": "Wed, 4 Nov 2026 22:00:00 -0800",
-      "news": [
-        {
-          "title": "\"버텨야 한다\"…삼전닉스 급락, 실적 아닌 '이것' 때문이라는데[부꾸미] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/05/2026110416385637497"
-        },
-        {
-          "title": "[포토] 산업은행, 사랑의 김장 나누기",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1190744"
-        },
-        {
-          "title": "\"AI 반도체 없어서 못 판다더니\"…삼전닉스 발목 잡은 '빅테크 현금흐름 쇼크'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261104_0003854928"
         }
       ]
     }
