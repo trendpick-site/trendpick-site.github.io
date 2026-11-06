@@ -1,8 +1,36 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-06T19:55:27+00:00",
+  "fetched_at": "2026-11-06T20:50:50+00:00",
   "items": [
+    {
+      "title": "카를로스 알카라스",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 11:40:00 -0800",
+      "news": [
+        {
+          "title": "알카라즈는 아무런 저항 없이 파리 마스터스 8강에 진출했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/alcaraz-bat-chien-tu-nhien-thanh-vao-tu-ket-paris-masters"
+        },
+        {
+          "title": "알카라스, 미켈센 2-0 제압…파리 마스터스 16강 진출",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2644533?trc=right_categori_news"
+        },
+        {
+          "title": "알카라스, 베레티니 부상 기권으로 파리 마스터스 8강…프리츠와 격돌",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2644971?trc=main_list_news"
+        }
+      ]
+    },
+    {
+      "title": "주가 대폭락",
+      "approx_traffic": "100+",
+      "published": "Fri, 6 Nov 2026 11:10:00 -0800",
+      "news": []
+    },
     {
       "title": "어 도어",
       "approx_traffic": "200+",
@@ -14,9 +42,9 @@
           "url": "https://www.khan.co.kr/article/202611061631011"
         },
         {
-          "title": "뉴진스 계약서 공개되자...하이브가 내놓은 답변 [자막뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611062336285237"
+          "title": "NYT, 뉴진스 계약서 공개… “성형비용 멤버가 부담”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/People/article/all/20261106/134982270/2"
         },
         {
           "title": "연애금지에 소속사가 초상권 무기한 사용…뉴진스 비밀계약 공개",
@@ -27,7 +55,7 @@
     },
     {
       "title": "농성",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 6 Nov 2026 10:20:00 -0800",
       "news": [
         {
@@ -44,6 +72,28 @@
           "title": "한화오션-하청노조 5차 교섭도 평행선…감독자들 “농성 중단해야”",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Society/article/all/20261106/134976846/1"
+        }
+      ]
+    },
+    {
+      "title": "옥수수",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 09:50:00 -0800",
+      "news": [
+        {
+          "title": "\"주인님, 저 이상해요\"…병 걸리면 SOS 보내는 옥수수 정체",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110615051"
+        },
+        {
+          "title": "AI로 작물 분석 병해충 감지시스템 개발",
+          "source": "농민신문",
+          "url": "https://www.nongmin.com/article/20261030500621"
+        },
+        {
+          "title": "병들면 보라색으로 변하는 옥수수…농약 줄이는 ‘스마트 작물’",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611060442i"
         }
       ]
     },
@@ -71,7 +121,7 @@
     },
     {
       "title": "시콜 스키 s 92",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Fri, 6 Nov 2026 09:40:00 -0800",
       "news": [
         {
@@ -85,15 +135,15 @@
           "url": "https://www.airdatanews.com/south-korea-orders-four-s-92-a-helicopters-to-replace-presidential-fleet/"
         },
         {
-          "title": "Sikorsky S-92A+ Selected as Korean Presidential Helicopter",
-          "source": "Joint Forces News",
-          "url": "https://www.joint-forces.com/defence-equipment-news/95404-sikorsky-s-92a-selected-as-korean-presidential-helicopter"
+          "title": "The military has finally selected Lockheed Martin's \"S-92A+\" as a presidential helicopter model to b..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/politics/12200557"
         }
       ]
     },
     {
       "title": "임형주",
-      "approx_traffic": "5000+",
+      "approx_traffic": "500+",
       "published": "Fri, 6 Nov 2026 08:10:00 -0800",
       "news": [
         {
@@ -137,73 +187,23 @@
     },
     {
       "title": "일론 머스크",
-      "approx_traffic": "100+",
-      "published": "Fri, 6 Nov 2026 07:50:00 -0800",
-      "news": [
-        {
-          "title": "머스크, X에 ‘테슬라 태극기’ 공유…한국시장 1위 질주 ‘자축’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611062104001"
-        },
-        {
-          "title": "벤츠코리아, 직판제 안착에 신차 효과…BMW 제치고 독일 3사 ‘선두’",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2644121"
-        },
-        {
-          "title": "“태극기에 테슬라 로고를 떡하니”…머스크가 올린 사진 ‘눈길’",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261106580392"
-        }
-      ]
-    },
-    {
-      "title": "한파",
-      "approx_traffic": "2000+",
-      "published": "Fri, 6 Nov 2026 07:50:00 -0800",
-      "news": [
-        {
-          "title": "갑자기 기온 뚝…내일 ’입동’ 서울 첫 영하권",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261106124747vqp"
-        },
-        {
-          "title": "주말 서울 첫 영하권, '강풍·풍랑' 비상...휴일엔 첫눈",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202611062145073803"
-        },
-        {
-          "title": "입동에 '초겨울 추위'…서울 올가을 첫 영하, 체감 '-4도'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106160100530"
-        }
-      ]
-    },
-    {
-      "title": "t1 kc",
       "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 07:10:00 -0800",
-      "news": []
-    },
-    {
-      "title": "유튜버",
-      "approx_traffic": "500+",
-      "published": "Fri, 6 Nov 2026 07:00:00 -0800",
+      "published": "Fri, 6 Nov 2026 07:50:00 -0800",
       "news": [
         {
-          "title": "‘볼리비아 사고 유튜버’ 故 진쓰레블, 마지막 영상 공개",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611061513013"
+          "title": "[주간 뉴스타파] 미국 중간선거 블루 쓰나미, 트럼프식 '정글의 법칙' 흔들리나",
+          "source": "뉴스타파",
+          "url": "https://newstapa.org/article/VVdwE"
         },
         {
-          "title": "자전거 여행 중 숨진 유튜버…\"마지막 여정을\" 친형의 글",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833712"
+          "title": "의회 장악한 美민주, 35년만에 하원 260석 '거대 야당'도 넘본다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261107002000071"
         },
         {
-          "title": "한국인 여행 유튜버, 남미서 뺑소니 사고로 사망…향년 33세",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629265"
+          "title": "(사설) 미국 민주당 의회 장악, 에너지 기업 투자 전략 재점검해야",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374349"
         }
       ]
     }
