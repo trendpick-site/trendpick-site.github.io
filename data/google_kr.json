@@ -1,39 +1,183 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-06T06:00:41+00:00",
+  "fetched_at": "2026-11-06T07:18:38+00:00",
   "items": [
     {
-      "title": "논쟁",
-      "approx_traffic": "5000+",
+      "title": "짜장면",
+      "approx_traffic": "200+",
+      "published": "Thu, 5 Nov 2026 22:10:00 -0800",
+      "news": [
+        {
+          "title": "경북북부제1교도소, 수용자 특식(짜장면) 제공",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=2026110610194868719a8c8bf58f_12"
+        },
+        {
+          "title": "\"짜장면 1,100그릇 쏟아졌다\"…교도소 수용자들에 특별한 점심 선물",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3744219"
+        },
+        {
+          "title": "“배달기사가 음식 몰래 빼먹어” vs 배달앱 “파손 음식 폐기 오해”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261106/134975922/1"
+        }
+      ]
+    },
+    {
+      "title": "농구",
+      "approx_traffic": "100+",
+      "published": "Thu, 5 Nov 2026 22:10:00 -0800",
+      "news": [
+        {
+          "title": "아시안게임 금메달 이정현 등 농구 월드컵 아시아 예선 출전",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106082900007"
+        },
+        {
+          "title": "‘AG 금메달’ 남자 농구, 월드컵 출전 명단 12인 확정…이현중은 제외",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8705919"
+        }
+      ]
+    },
+    {
+      "title": "수익률",
+      "approx_traffic": "200+",
+      "published": "Thu, 5 Nov 2026 22:00:00 -0800",
+      "news": [
+        {
+          "title": "반도체 꺾이자 돈 몰렸다…수익률 상위 10개 중 7개가 '이것' [이수의 ETF줌인]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110585586"
+        },
+        {
+          "title": "마이크론도 삼전닉스도 미끌…반도체 대신 이 ETF 뛰었다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/03/2026110315394457288"
+        },
+        {
+          "title": "퇴직연금 3년 새 '두 배' 불렸다…한국투자증권, 디폴트옵션 수익률 전체 1위 달성",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2644559"
+        }
+      ]
+    },
+    {
+      "title": "조진웅",
+      "approx_traffic": "500+",
+      "published": "Thu, 5 Nov 2026 21:50:00 -0800",
+      "news": [
+        {
+          "title": "tvN “조진웅 AI 교체 실패”…‘두번째 시그널’ 12월 7일 방영된다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611061354001"
+        },
+        {
+          "title": "'두번째 시그널', 12월 7일 첫 방송…\"조진웅 문제 옹호 아냐\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106106000005"
+        },
+        {
+          "title": "'두번째 시그널', 12월 7일 tvN 첫 방송…\"출연자 문제 옹호 아냐\"",
+          "source": "YTN star",
+          "url": "https://star.ytn.co.kr/_sn/0117_202611061412267620"
+        }
+      ]
+    },
+    {
+      "title": "트와이스",
+      "approx_traffic": "200+",
+      "published": "Thu, 5 Nov 2026 21:40:00 -0800",
+      "news": [
+        {
+          "title": "[사진]안은진, '어디서나 멋지게'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/05/GMYGKYJUMM2GIZDBG5RGCZJSGE/"
+        },
+        {
+          "title": "[포토] 위하준, 글로벌 건치 미남",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523745"
+        }
+      ]
+    },
+    {
+      "title": "김종철",
+      "approx_traffic": "200+",
+      "published": "Thu, 5 Nov 2026 21:30:00 -0800",
+      "news": [
+        {
+          "title": "[속보] 경찰청장 후보자 김종철 국가경찰위 참석‥\"막중한 책임감 느껴\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6863698_36918.html"
+        },
+        {
+          "title": "새 경찰청장 후보에 김종철 차장…1년 11개월 만",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12326819"
+        },
+        {
+          "title": "[속보]신임 경찰청장에 김종철 경찰청 차장 내정…“엄중한 시기 막중한 책임감”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611061329001"
+        }
+      ]
+    },
+    {
+      "title": "도상우",
+      "approx_traffic": "200+",
+      "published": "Thu, 5 Nov 2026 21:00:00 -0800",
+      "news": [
+        {
+          "title": "배우 도상우·모델 박지혜, 내년 2월 결혼",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261105173700005"
+        },
+        {
+          "title": "런웨이서 시작된 인연, 부부로…도상우·박지혜 내년 2월 결혼",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261106580059"
+        },
+        {
+          "title": "'결혼' 도상우, 박지혜에 프러포즈 현장 공개..가족사진 대방출 [핫피플]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/06/MU2DMZRZGE4TENJTHE2DIOBYME/"
+        }
+      ]
+    },
+    {
+      "title": "가즈아법당",
+      "approx_traffic": "100+",
       "published": "Thu, 5 Nov 2026 20:50:00 -0800",
       "news": [
         {
-          "title": "'닥터X', 김지원 정체 들키나…이정은·손현주 살벌 대치 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110613097225840"
+          "title": "“엄마 미안해, 돈 다 잃었어” 코스피 폭락에 개미들 몰려간 곳…절하고 굿까지 한다는데 [이슈, 풀어주리]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20110924"
         },
         {
-          "title": "'닥터X' 김지원, 동료 의사들에게 \"부탁드립니다\" 숙인 사연은…전대미문 체외 수술 도전",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833758"
+          "title": "“살려주세요” 삼전 차트 앞에서 108배…폭락장에 개미들 몰린 곳",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04431286645643096&mediaCodeNo=257"
         },
         {
-          "title": "[예술과 오늘]‘닥터X’와 사회파 메디컬드라마",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611042012025"
+          "title": "“엄마 미안해” 손실 참회까지…절하고 굿하는 개미들의 ‘가즈아 법당’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261104/134966391/1"
         }
       ]
     },
     {
       "title": "엘니뇨",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Thu, 5 Nov 2026 20:30:00 -0800",
       "news": [
         {
-          "title": "’역대 최강 엘니뇨’ 온다…올겨울 포근하고 눈·비 많을 듯",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106101553uEs"
+          "title": "올겨울 역대 최강 엘니뇨 온다…韓, 덜 춥고 비 많을 듯",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03949126645643096&mediaCodeNo=257"
         },
         {
           "title": "역대 최강 엘니뇨 온다…올겨울 기온·강수량↑",
@@ -49,7 +193,7 @@
     },
     {
       "title": "안산소방서",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Thu, 5 Nov 2026 20:30:00 -0800",
       "news": [
         {
@@ -66,160 +210,6 @@
           "title": "“불이 나면 어디로?”… 자석 붙이며 배우는 어린이 안전수칙",
           "source": "중부일보",
           "url": "https://www.joongboo.com/news/articleView.html?idxno=363741421"
-        }
-      ]
-    },
-    {
-      "title": "세종의사당",
-      "approx_traffic": "100+",
-      "published": "Thu, 5 Nov 2026 20:30:00 -0800",
-      "news": [
-        {
-          "title": "안신일 의장 “행정수도특별법·지방의회법 연내 제정해야”",
-          "source": "경충일보",
-          "url": "https://www.kcilbo.com/articles/2026110639461"
-        },
-        {
-          "title": "세종의사당 3년 지연…연내 입법 촉구",
-          "source": "충청일보",
-          "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2450067"
-        },
-        {
-          "title": "[사설] 행정수도 관문 첫마을IC 자꾸 늦어지면 곤란",
-          "source": "대전일보",
-          "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2310725"
-        }
-      ]
-    },
-    {
-      "title": "나나",
-      "approx_traffic": "5000+",
-      "published": "Thu, 5 Nov 2026 20:10:00 -0800",
-      "news": [
-        {
-          "title": "나나 “제가 도덕적 물의 일으켰나”…악플러에 일침 무슨 일?",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261106/134976663/2"
-        },
-        {
-          "title": "\"내가 무슨 잘못했나?\"…나나, '탑과 열애' 악플에 작심 발언 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110605173851313"
-        },
-        {
-          "title": "“공개 연애, 내 사생활… 미안할 일 아냐” 나나, ♥탑과 열애 비난에 정면 반박",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611060214003"
-        }
-      ]
-    },
-    {
-      "title": "징역형",
-      "approx_traffic": "1000+",
-      "published": "Thu, 5 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "모르는 여중생 뺨 때린 40대 남성...1심 벌금→2심 징역형, 왜?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611060851275372_005.html"
-        },
-        {
-          "title": "식당서 여중생 뺨 때린 40대…2심 “벌금형 가볍다” 징역형에 집유",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261106/134976304/2"
-        },
-        {
-          "title": "처음 본 13살 여중생 때린 40대, 항소심서 징역형 선거",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261106580010"
-        }
-      ]
-    },
-    {
-      "title": "김구라",
-      "approx_traffic": "2000+",
-      "published": "Thu, 5 Nov 2026 19:50:00 -0800",
-      "news": [
-        {
-          "title": "김구라 아들 그리, 결혼한다 “군대 기다려준 여친과 준비 중”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12200239"
-        },
-        {
-          "title": "서인영 \"주식·코인하던 지인들, 하루아침 부자 됐다 거지행\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110609304066291"
-        },
-        {
-          "title": "‘김구라, 며느리 보겠네’…子 그리 “여친과 결혼 준비 중”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611060907003"
-        }
-      ]
-    },
-    {
-      "title": "lng선",
-      "approx_traffic": "100+",
-      "published": "Thu, 5 Nov 2026 19:50:00 -0800",
-      "news": [
-        {
-          "title": "[단독]마스가 늦어져도 간다…한화, 美조선소 인력 7500명으로 확대 추진",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110609134821645"
-        },
-        {
-          "title": "韓 LNG선 최대 발주처인데…美 환경 평가 강화에 업황 악화 우려↑",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443438"
-        },
-        {
-          "title": "\"美 민주당 승리에 LNG선 수주 우려\"…韓 조선주 영향은",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03116006645643096"
-        }
-      ]
-    },
-    {
-      "title": "warriors vs heat",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 19:40:00 -0800",
-      "news": [
-        {
-          "title": "Heat vs Warriors Prediction, Top Picks & Best Bet for Tonight's NBA Game",
-          "source": "Covers.com",
-          "url": "https://www.covers.com/nba/heat-vs-warriors-prediction-picks-odds-nov-5-2026"
-        },
-        {
-          "title": "GAME THREAD: Klay Thompson returns to Golden State as Heat (3-5) face Warriors (5-3)",
-          "source": "Hot Hot Hoops",
-          "url": "https://hothothoops.com/2026/11/05/game-thread-klay-thompson-returns-to-golden-state-as-heat-3-5-face-warriors-5-3/"
-        },
-        {
-          "title": "How to watch Heat vs Warriors: Live stream NBA Basketball, TV channel",
-          "source": "The Big Lead",
-          "url": "https://www.thebiglead.com/how-to-watch-heat-vs-warriors-live-stream-nba-basketball-tv-channel/"
-        }
-      ]
-    },
-    {
-      "title": "래미안원베일리",
-      "approx_traffic": "1000+",
-      "published": "Thu, 5 Nov 2026 19:40:00 -0800",
-      "news": [
-        {
-          "title": "집 안가보고 잡던 원베일리도 14.5억 ‘뚝’, 강남 아파트 시련의 계절 왔다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12200273"
-        },
-        {
-          "title": "강남 소형 아파트도 하락 거래… 가격 조정 압력 커지나",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3446553"
-        },
-        {
-          "title": "강남권 조정, 외곽으로 번질까?...\"전월세난 주목해야\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202611052305343897"
         }
       ]
     }
