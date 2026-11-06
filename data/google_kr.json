@@ -1,209 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-05T22:26:52+00:00",
+  "fetched_at": "2026-11-06T00:18:23+00:00",
   "items": [
     {
-      "title": "아파트",
-      "approx_traffic": "1000+",
-      "published": "Thu, 5 Nov 2026 13:20:00 -0800",
+      "title": "군함",
+      "approx_traffic": "500+",
+      "published": "Thu, 5 Nov 2026 15:10:00 -0800",
       "news": [
         {
-          "title": "[르포] 강남 은마아파트 가보니 “분담금에 세금 겹쳐 급락했지만… 매수는 현금부자만”",
-          "source": "대한경제",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611041530490450645"
+          "title": "“전투기에 조기경보기·공중급유기까지 총동원”…대만 주변 하늘을 집어삼킨 중국의 무력시위 [밀리터리노트]",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/international/china/2026/11/05/20261105500075"
         },
         {
-          "title": "비강남권도 집값 상승 숨고르기…경기 남부는 상승세 지속",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20110897"
+          "title": "中군용기 14대 대만 주변 출현…12대 대만해협 중간선 넘어",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/northeast-asia/6343813"
         },
         {
-          "title": "강남권 조정, 외곽으로 번질까?...\"전월세난 주목해야\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202611052305343897"
+          "title": "\"中 육군병력 104만명, 해군작전함은 474척\"…대만 국방부 공개",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261104106400009"
         }
       ]
     },
     {
-      "title": "김지민",
+      "title": "하이닉스 주가",
       "approx_traffic": "2000+",
-      "published": "Thu, 5 Nov 2026 13:10:00 -0800",
+      "published": "Thu, 5 Nov 2026 15:10:00 -0800",
       "news": [
         {
-          "title": "김지민, 만삭 몸으로 나왔다가 30분만 털썩 “♥김준호에게 기대고 파” [IS하이컷]",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202611050067"
+          "title": "라이프운용, 삼성전자에 주주서한…\"주주환원 유보, 독립 검토 필요\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443127"
         },
         {
-          "title": "김지민, 임신 중 새벽 5시 반 ♥김준호·시어머니 김밥…“나 왜 설레지?”",
-          "source": "m.mksports.co.kr",
-          "url": "https://www.mksports.co.kr/news/entertain/12192472"
-        },
-        {
-          "title": "김지민, 삼겹살·매운 음식 먹방 “예전보다 훨씬 잘 먹어”…임신 중 괜찮을까? [건강팩트체크]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261030/134932595/2"
-        }
-      ]
-    },
-    {
-      "title": "셀트리온",
-      "approx_traffic": "100+",
-      "published": "Thu, 5 Nov 2026 13:10:00 -0800",
-      "news": [
-        {
-          "title": "셀트리온, 브라질서 바이오시밀러 3종 신규 출시",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105038300017"
-        },
-        {
-          "title": "셀트리온, 브라질서 자가면역·골질환 치료제 3종 출시",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/science-chosun/bio/2026/11/05/IXWTLNXXVRCDZDSK45XNZMUEPM/"
-        },
-        {
-          "title": "셀트리온, 브라질서 후속 바이오시밀러 3종 출시…중남미 핵심 시장 공략 By EBN",
+          "title": "삼성전자·하이닉스 주가 흔들…지금 ’줍줍’할까, 좀 더 후에 들어가야? 셈법 복잡 By FinancialPost",
           "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2160557"
+          "url": "https://kr.investing.com/news/stock-market-news/article-2160533"
+        },
+        {
+          "title": "“주가 1만원 내리면 이재용 증여세 650억↓”…75조 주주환원 이래서 미뤘나",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03552246645642768"
         }
       ]
     },
     {
-      "title": "이승우",
+      "title": "바이퍼",
       "approx_traffic": "100+",
-      "published": "Thu, 5 Nov 2026 13:10:00 -0800",
+      "published": "Thu, 5 Nov 2026 15:10:00 -0800",
       "news": [
         {
-          "title": "'슈팅 22개 ⇒ 무실점 선방 미쳤다!' 역시 국대 GK 송범근 \"선수들이 몸 사리지 않고 잘 버텨줘\" [현장 인터뷰]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/11/04/GZSTOZJRGBQWKNDGHA4GEMRTG4/"
+          "title": "[롤드컵] DK, '바이퍼' 앞세운 中 BLG 공세에 2세트도 패배...0-2 벼랑 끝 내몰려",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261105155925168"
         },
         {
-          "title": "모따·이탈로 꽝!꽝…전북, ACLE 4차전서 다룰 탁짐에 2-0 완승",
+          "title": "‘16분의 악몽!’ DK, 전령 한타서 와르르…中 BLG에 33분 만에 1세트 내줬다 [SS댈러스in]",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1647415"
+        },
+        {
+          "title": "[롤드컵] 바이퍼의 카시오페아 꺼낸 BLG, DK 꺾고 선취점",
+          "source": "게임뷰",
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62069"
+        }
+      ]
+    },
+    {
+      "title": "서킷브레이커",
+      "approx_traffic": "20000+",
+      "published": "Thu, 5 Nov 2026 15:00:00 -0800",
+      "news": [
+        {
+          "title": "AI 아마겟돈 코스피 덮치나…’블랙 프라이데이' 우려",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/stock-finance/2026/11/06/EVF5TJOLMFHQ7KVHGIS5HEHHIU/"
+        },
+        {
+          "title": "[속보] 삼전닉스 프리장 10% 폭락 … 美 증시도 투매 쇼크",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/06/2026110600023.html"
+        },
+        {
+          "title": "5300선까지 하락한 코스피...미국 반도체주·외국인 향방 주목 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/05/2026110515534966157"
+        }
+      ]
+    },
+    {
+      "title": "탁구",
+      "approx_traffic": "100+",
+      "published": "Thu, 5 Nov 2026 15:00:00 -0800",
+      "news": [
+        {
+          "title": "골든 라켓 탁구 토너먼트가 7년 만에 재개됩니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/khoi-tranh-giai-bong-ban-cay-vot-vang-sau-7-nam-vang-bong"
+        },
+        {
+          "title": "Khởi tranh Giải bóng bàn quốc tế Cây vợt vàng 2026",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/khoi-tranh-giai-bong-ban-quoc-te-cay-vot-vang-2026"
+        },
+        {
+          "title": "동탑: 2026년 전국 탁구 클럽 선수권 대회에서 금메달 2개와 동메달 1개를 획득했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/dong-thap-doat-2-hcv-1-hcd-tai-giai-vo-dich-bong-ban-cac-cau-lac-bo-quoc-gia-nam-2026"
+        }
+      ]
+    },
+    {
+      "title": "치매",
+      "approx_traffic": "2000+",
+      "published": "Thu, 5 Nov 2026 14:50:00 -0800",
+      "news": [
+        {
+          "title": "화성시, 경도인지장애 신규 등록자에 인지교구 무료 지원",
+          "source": "경인미래신문",
+          "url": "https://www.kifuture.com/news/article.html?no=177895"
+        },
+        {
+          "title": "문경시보건소, 농한기 어르신 찾아 치매 조기검진",
+          "source": "경북일보",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089853"
+        },
+        {
+          "title": "팔달구치매안심센터, 11월 찾아가는 치매조기검진 시행",
+          "source": "수원시 인터넷신문",
+          "url": "https://news.suwon.go.kr/?p=31&viewMode=view&reqIdx=202611031505122432"
+        }
+      ]
+    },
+    {
+      "title": "게이머",
+      "approx_traffic": "200+",
+      "published": "Thu, 5 Nov 2026 14:50:00 -0800",
+      "news": [
+        {
+          "title": "삼성D, 중국 인터넷카페 60곳 'QD-OLED 인증점' 지정 프로모션",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103183700007"
+          "url": "https://www.yna.co.kr/view/AKR20261105032800003"
         },
         {
-          "title": "‘아챔에서 또 터졌다!’ 모따의 감동적인 골 세리머니, 숨겨진 사연이 있었네 [오!쎈 전주]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112903653"
+          "title": "LGD, \"中 PC방서 OLED 모니터 수요 확대...앤트게이머 등에 납품\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261105123832"
+        },
+        {
+          "title": "LGD, “中 PC방 '아이카페'서 WOLED 게이밍 패널 수요 급증”",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261105000155"
         }
       ]
     },
     {
-      "title": "살림하는 남자들",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 13:00:00 -0800",
-      "news": []
-    },
-    {
-      "title": "김예건",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 13:00:00 -0800",
+      "title": "수능일",
+      "approx_traffic": "100+",
+      "published": "Thu, 5 Nov 2026 14:50:00 -0800",
       "news": [
         {
-          "title": "2008년생 MF 김예건, 유럽 1군 무대서 첫 공격포인트",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190545"
-        },
-        {
-          "title": "'韓 축구 미래' 18살 김예건, UEFA 무대 선발 데뷔전! 도움 기록 아쉽게 무산...즈베즈다는 퇴장 변수에도 2-1 기적의 역전승",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697880"
-        },
-        {
-          "title": "[스포츠 영상] 18살 김예건, 환상 드리블 이후 첫 도움",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862343_37004.html"
-        }
-      ]
-    },
-    {
-      "title": "배구",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 12:50:00 -0800",
-      "news": [
-        {
-          "title": "취임 4개월 이호진 KOVO 총재…‘재미·육성·교류’ 한국 배구 변화 어디까지 왔나",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435097"
-        },
-        {
-          "title": "배구를 영업할 수 있을까?",
-          "source": "브런치",
-          "url": "https://brunch.co.kr/@kim-lotus-root/183"
-        },
-        {
-          "title": "\"주말 홈경기 6번? 지금이 한국 배구의 골든 타임\" 최윤 OK금융그룹 회장의 진심",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202611050041"
-        }
-      ]
-    },
-    {
-      "title": "배드민턴",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 12:50:00 -0800",
-      "news": [
-        {
-          "title": "‘남자 안세영’은 프랑스에 있다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/06/XEIFOPBNEBHVBFQ5SKIJHOQJCY/"
-        },
-        {
-          "title": "‘충무공 이순신 장군의 고장’ 여수에서 일본선수한테 절대 지면 안되지! 안세영, 8강전부터 3연속 일본선수와 맞대결 예상",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112905046"
-        },
-        {
-          "title": "더 빨리 끝낸 16강전‥36분만에 52연승 행진",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863524_37004.html"
-        }
-      ]
-    },
-    {
-      "title": "dl이앤씨",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 12:50:00 -0800",
-      "news": [
-        {
-          "title": "[단독] 상대원2 시공권 다툼 소송전으로…DL이앤씨, GS건설 고소",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261105114033DaK"
-        },
-        {
-          "title": "DL이앤씨 GS건설 직원 고소, 성남 상대원2구역 재개발 시공권 갈등 격화",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451305"
-        },
-        {
-          "title": "DL·GS 시공권 다툼에 '맞불 해임'까지…상대원2구역 착공 안갯속",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261105000976"
-        }
-      ]
-    },
-    {
-      "title": "연금",
-      "approx_traffic": "10000+",
-      "published": "Thu, 5 Nov 2026 12:40:00 -0800",
-      "news": [
-        {
-          "title": "복수국적자 기초연금 급증… 내년 4월부터 ‘5년 거주’ 요건",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/welfare-medical/2026/11/05/QGCZQ2HYVVHFZNC43LPTWSJGPU/"
-        },
-        {
-          "title": "\"세금 낸 국민만 바보?\"…기초연금, 국내 5년 거주해야 받는다",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03916326645642768&mediaCodeNo=257"
-        },
-        {
-          "title": "복수국적 기초연금 수급자, 4년새 2.3배…'국내 거주요건' 검토",
+          "title": "19일 수능일, 주식시장 1시간 늦게 개장…정규장 오전 10시~오후 4시30분",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104141700530"
+          "url": "https://www.yna.co.kr/view/AKR20261105065500008"
+        },
+        {
+          "title": "수능날 증시 오전 10시 개장…거래시간 1시간 순연",
+          "source": "매일경제TV",
+          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005955951"
+        },
+        {
+          "title": "수능일 증시 개장 1시간 연기...오전 10시에 장 열린다",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/11/05/MI4TCNZWHEZTQOBTMIYDGZLGG4/"
+        }
+      ]
+    },
+    {
+      "title": "blg",
+      "approx_traffic": "200+",
+      "published": "Thu, 5 Nov 2026 14:40:00 -0800",
+      "news": [
+        {
+          "title": "Worlds 2026: Dplus KIA vs Bilibili Gaming, revenge on the Worlds Stage?",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/articles/worlds-2026-dplus-kia-vs-bilibili-gaming-revenge-on-the-worlds-stage/en"
+        },
+        {
+          "title": "BLG Wins Game 2 Behind 'Vi-ON' Duo... DK on the Brink at 0-2",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/28235/blg-wins-game-2-behind-vi-on-duo-dk-on-the-brink-at-0-2"
+        },
+        {
+          "title": "Invictus Gaming vs. Top Esports: Game 1 Team Total Kills",
+          "source": "Coinbase",
+          "url": "https://www.coinbase.com/en-ca/predictions/event/KXLOLKILLS-26NOV031700IGTES-1"
+        }
+      ]
+    },
+    {
+      "title": "대학수학능력시험",
+      "approx_traffic": "200+",
+      "published": "Thu, 5 Nov 2026 14:40:00 -0800",
+      "news": [
+        {
+          "title": "\"민원·책임 떠안을까 두렵다\"…수능 감독 교사들 '불안'",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=846307"
+        },
+        {
+          "title": "AI 안경 기자가 써보니… 수능 수학 고난도 문제 맞혔지만 3등급 받아",
+          "source": "주간동아",
+          "url": "https://weekly.donga.com/society/article/all/11/6447913/1"
+        },
+        {
+          "title": "이재명 대통령 “스마트안경 활용 수능 부정행위 차단” [영상]",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261105580283"
         }
       ]
     }
