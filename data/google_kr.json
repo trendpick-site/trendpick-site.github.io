@@ -1,33 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-06T11:31:37+00:00",
+  "fetched_at": "2026-11-06T12:31:36+00:00",
   "items": [
     {
-      "title": "구자욱",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 02:20:00 -0800",
+      "title": "kt wiz",
+      "approx_traffic": "100+",
+      "published": "Fri, 6 Nov 2026 02:50:00 -0800",
       "news": [
         {
-          "title": "[사진] 구자욱, 리드폭 늘리고 더그아웃 분위기 업",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/GU3TOYLGG5RDIOBXMQ3WCYRQGQ/"
-        },
-        {
-          "title": "[사진]2타점 적시타 환호하는 구자욱",
+          "title": "Ko Young-pyo Vows Win and MVP in Next Game",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/06/HAZDMY3DMQYTGOLEHA3TOOLEGU/"
+          "url": "https://www.chosun.com/english/sports-en/2026/11/06/NTA5PKNC2JHK3CMW6QHR5Q2GRY/"
         },
         {
-          "title": "부상에 체력 이슈에도 헌신…삼성 베테랑 강민호·구자욱의 투혼[KS]",
+          "title": "Starting pitchers engage in memorable duel in Korean Series",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20261104011500315"
+        },
+        {
+          "title": "Chris Fedek (Samsung Lions), the \"Ace of the Lion Corps,\" once again showed a brilliant fighting spi..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12196931"
+        }
+      ]
+    },
+    {
+      "title": "안현민",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 02:50:00 -0800",
+      "news": [
+        {
+          "title": "안현민의 투런 홈런으로 격차 벌리는 KT 위즈",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6344305"
+          "url": "https://www.news1.kr/photos/8195289"
+        },
+        {
+          "title": "\"도영아, 보고있니?\" PO 홈런 김도영에 연락했다는 안현민이 KS 홈런 치고 김도영에게 보낸 메시지 [베이스볼S]",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89154/22000639319"
+        },
+        {
+          "title": "[사진]디아즈 적시타에 기뻐하는 삼성 라이온즈",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/GEZDAY3FGA4DAZJXG4YDSMBXME/"
+        }
+      ]
+    },
+    {
+      "title": "김현수",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 02:40:00 -0800",
+      "news": [
+        {
+          "title": "KT 김현수, PS 통산 109경기로 최다 타이기록…홍성흔과 동률[KS]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261106_0003858580"
+        },
+        {
+          "title": "[사진]위기 탈출 기뻐하는 후라도, 7이닝 1실점",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/06/GA3TENTEGFRGGYLEGIZDENZQGU/"
+        },
+        {
+          "title": "승리에 한걸음 앞서",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8195457"
+        }
+      ]
+    },
+    {
+      "title": "힐리어드",
+      "approx_traffic": "100+",
+      "published": "Fri, 6 Nov 2026 02:40:00 -0800",
+      "news": [
+        {
+          "title": "[포토] 힐리어드, 빅토리 데이 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110618592665361"
+        },
+        {
+          "title": "부상 악재 대반전! 1위팀 1회부터 삼성 에이스 공략 성공…44홈런 외인 거포 선제 2루타 쾅 ‘KT 1-0 리드’ [KS3]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112905305"
+        },
+        {
+          "title": "[사진] 구자욱, 동료들과 함께 한 짜릿한 2타점 3루타",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/MYYDEM3BME4DSMRXG4ZGKMDBGA/"
+        }
+      ]
+    },
+    {
+      "title": "nepal premier league",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 02:40:00 -0800",
+      "news": [
+        {
+          "title": "16th Match, Nepal Premier League at Kirtipur, Nov 6 2026",
+          "source": "ESPN India",
+          "url": "https://www.espn.in/cricket/series/23081/scorecard/1558597/karnali-yaks-npl-vs-sudur-paschim-royals-npl-16th-match-nepal-premier-league-2026-27"
+        },
+        {
+          "title": "Sudurpaschim Royals set 177-run target for Karnali Yaks in NPL",
+          "source": "Nepalnews.com",
+          "url": "https://english.nepalnews.com/s/sports/sudurpaschim-royals-set-177-run-target-for-karnali-yaks-in-npl/"
+        },
+        {
+          "title": "Sudurpaschim Beat Karnali Despite Miller’s Unbeaten 93 on NPL Debut",
+          "source": "cricnepal",
+          "url": "https://www.cricnepal.com/sudurpaschim-beat-karnali-miller-debut"
+        }
+      ]
+    },
+    {
+      "title": "kt vs samsung",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 02:30:00 -0800",
+      "news": [
+        {
+          "title": "LIVE: KT Wiz vs. Samsung Lions in Korean Series Game 3",
+          "source": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/sports/live-kt-wiz-vs-samsung-lions-in-korean-series-game-3/12960263"
+        },
+        {
+          "title": "Kim Jeong-woon's Seventh-Inning Struggle Leads to KT's 8-7 Victory",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/04/YWR7HGDQ5RE2TFDT3VIV2RIVW4/"
+        },
+        {
+          "title": "A home run for the first hit of autumn baseball in the Korea Series... A comeback for a catcher in his 14th season who left KIA [KS1 On-site]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/sports/2026/11/04/2026110323302080228"
         }
       ]
     },
     {
       "title": "kt 삼성",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 6 Nov 2026 02:20:00 -0800",
       "news": [
         {
@@ -48,132 +158,54 @@
       ]
     },
     {
+      "title": "구자욱",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 02:20:00 -0800",
+      "news": [
+        {
+          "title": "[사진] 구자욱, 동료들과 함께 한 짜릿한 2타점 3루타",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/06/GBTDGYJXMRRTQOJZHA2DOYZTGI/"
+        },
+        {
+          "title": "[포토] 구자욱 '넘어가나' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110619262337816"
+        },
+        {
+          "title": "[사진]삼성 구자욱, '2타점 3루타에 전력질주'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112905435"
+        }
+      ]
+    },
+    {
       "title": "안양 정관장 대 서울 sk",
       "approx_traffic": "500+",
       "published": "Fri, 6 Nov 2026 02:00:00 -0800",
-      "news": []
+      "news": [
+        {
+          "title": "‘발목 통증’ 변준형 결장… 유도훈 감독 “선수 보호 차원에서 휴식”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611061854003"
+        },
+        {
+          "title": "[웜업터뷰] 골밑 우위 살릴 전희철 감독의 플랜 “워니의 골밑 공격으로 시작할 거다”",
+          "source": "점프볼",
+          "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065606836836084"
+        },
+        {
+          "title": "프로농구 오늘(6일) 경기 일정…안양 정관장 VS 서울 SK, 중계 채널→현재 순위?",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16269957"
+        }
+      ]
     },
     {
       "title": "야구중계",
       "approx_traffic": "500+",
       "published": "Fri, 6 Nov 2026 01:50:00 -0800",
       "news": []
-    },
-    {
-      "title": "tving",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 01:50:00 -0800",
-      "news": []
-    },
-    {
-      "title": "퇴직",
-      "approx_traffic": "20000+",
-      "published": "Fri, 6 Nov 2026 01:40:00 -0800",
-      "news": [
-        {
-          "title": "정부, 퇴직연금 사업자와 제도 개편 논의…기금형 연금 안착 지원",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374453"
-        },
-        {
-          "title": "연봉 7억인데 일 안하는 은행연합회장, 차라리 정치인에게?",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/06/2026110680001.html"
-        },
-        {
-          "title": "판 커지는 증권사 퇴직연금, 수익률·편의성 경쟁 '활발'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261105000148"
-        }
-      ]
-    },
-    {
-      "title": "티빙",
-      "approx_traffic": "2000+",
-      "published": "Fri, 6 Nov 2026 01:30:00 -0800",
-      "news": [
-        {
-          "title": "합치겠다던 티빙·웨이브, 3년째 평행선…토종 OTT 연합 ’안갯속’ By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2163527"
-        },
-        {
-          "title": "티빙·웨이브 합병 3년째 답보…방미통위 지원도 한계",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712272"
-        },
-        {
-          "title": "하나증권 \"CJ ENM, 간만의 TV 광고 회복세…목표가 상향\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106026900008"
-        }
-      ]
-    },
-    {
-      "title": "병사",
-      "approx_traffic": "100+",
-      "published": "Fri, 6 Nov 2026 01:20:00 -0800",
-      "news": [
-        {
-          "title": "‘강제 팔굽혀펴기’ 100회로 근육 녹게 한 軍간부, 재판 넘겨져",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261106/134978709/1"
-        },
-        {
-          "title": "'강제 팔굽혀펴기'로 병사 근육 녹인 군 간부 가혹행위죄 기소",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106074000062"
-        },
-        {
-          "title": "콜라색 소변 나올 때까지 '강제 팔굽혀펴기'…군 간부 기소 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/society/2026/11/06/2026110617374978702"
-        }
-      ]
-    },
-    {
-      "title": "한국시리즈 3차전",
-      "approx_traffic": "100+",
-      "published": "Fri, 6 Nov 2026 01:10:00 -0800",
-      "news": [
-        {
-          "title": "'국민타자' 이승엽, 삼성라이온즈파크에 뜬다…3차전 시구[KS]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261106_0003858363"
-        },
-        {
-          "title": "[사진]선취 타점 힐리어드, 시작하자마자 KT가 앞서간다",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/ME3TCMDCMEZDMY3EGM4DMMBZGU/"
-        },
-        {
-          "title": "'영원한 36번' 삼성 레전드 국민타자 명품 시구, \"삼성-KT, 야구 팬들에게 감동 주시길...향후 행보? 조금 더 기다릴 것\" [KS3]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112905317"
-        }
-      ]
-    },
-    {
-      "title": "배트맨",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 01:00:00 -0800",
-      "news": [
-        {
-          "title": "Scarlett Johansson Breaks Silence on ‘The Batman Part II’ Role: “It Was Very Hard to Figure Out”",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/scarlett-johansson-on-the-batman-part-ii-role-1236748021/"
-        },
-        {
-          "title": "Scarlett Johansson Says Batman Role Gave Her ‘a Lot of Existential Angst’",
-          "source": "Vulture",
-          "url": "https://www.vulture.com/article/scarlett-johansson-batman-existential-angst.html"
-        },
-        {
-          "title": "Mystery around 'The Batman: Part II' is growing. Scarlett Johansson has added to the suspense.",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/movies/article/mystery-around-the-batman-part-ii-is-growing-scarlett-johansson-has-added-to-the-suspense-145208330.html"
-        }
-      ]
     }
   ]
 }
