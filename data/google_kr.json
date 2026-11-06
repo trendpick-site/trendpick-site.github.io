@@ -1,209 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-06T21:44:47+00:00",
+  "fetched_at": "2026-11-06T22:45:22+00:00",
   "items": [
     {
-      "title": "두산에너빌리티",
-      "approx_traffic": "500+",
-      "published": "Fri, 6 Nov 2026 12:40:00 -0800",
-      "news": [
-        {
-          "title": "[리포트 브리핑]두산에너빌리티, '미국 신규 원전 건설 가속화 수혜주' 목표가 120,000원 - KB증권",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261105000927"
-        },
-        {
-          "title": "두산에너빌리티 주가 4,600원 하락 후 마감",
-          "source": "아시아뉴스통신",
-          "url": "https://m.anewsa.com/article_sub3.php?number=3215388&type=&mobile="
-        },
-        {
-          "title": "[특징주] 원전주 두산에너빌리티·한전기술·한전산업 등 전반적 약세…코스피·코스닥 급락 속 낙폭 차이",
-          "source": "CBC뉴스",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=624083"
-        }
-      ]
-    },
-    {
-      "title": "염경엽",
+      "title": "송해",
       "approx_traffic": "100+",
-      "published": "Fri, 6 Nov 2026 12:40:00 -0800",
+      "published": "Fri, 6 Nov 2026 13:40:00 -0800",
       "news": [
         {
-          "title": "“감독 하면서 제일 좋은 투수\" 염경엽 극찬...12승 톨허스트 교체 승부수도 있다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/06/202611042246775040O"
+          "title": "송해나 소개팅남 \"너무 예쁘셔서 깜짝 놀라..실물이 훨씬 더\" ('신랑수업2')",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/06/MJSDKNTCMJSTONLCMI3WINZYGU/"
         },
         {
-          "title": "LG 트윈스, 새 외국인 에이스 트리스탄 벡 영입…2027시즌 마운드 재편 시동",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=846226"
+          "title": "디테일한 질문을 통해 가까워지는 해나&승우?! 그리고 타로 선생님 국주?!",
+          "source": "채널A",
+          "url": "https://ichannela.com/program/clip/000000558837.do"
         },
         {
-          "title": "\"서울에서 만나 반가웠어!\" 이정후, LG 새 외인 벡과 깜짝 재회…옛 동료 향한 따뜻한 응원",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/06/MUZTQZBWMJQTCYLCMRRDGMRYGY/"
+          "title": "송해나, 6살 연하 변호사와 소개팅…이승철 주선",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6346170"
         }
       ]
     },
     {
-      "title": "twitch",
+      "title": "옥스퍼드 시티 fc 대 레스터 시티",
       "approx_traffic": "100+",
-      "published": "Fri, 6 Nov 2026 12:10:00 -0800",
+      "published": "Fri, 6 Nov 2026 13:40:00 -0800",
       "news": [
         {
-          "title": "Georgia football injury report vs. Ole Miss",
-          "source": "247Sports",
-          "url": "https://247sports.com/college/georgia/longformarticle/georgia-bulldogs-football-injury-report-update-ole-miss-rebels-292240149/"
+          "title": "Oxford City 2-4 Leicester City: League One side advance in FA Cup",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c98rz2612n2nt"
         },
         {
-          "title": "Georgia vs. Ole Miss prediction: 5 things that decide this SEC game",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/georgia-vs-ole-miss-prediction-193616731.html"
+          "title": "Josh Ashby slots in the goal for Oxford City",
+          "source": "ESPN",
+          "url": "https://www.espn.com/video/clip/_/id/50401800/josh-ashby-slots-goal-oxford-city"
         },
         {
-          "title": "Three Bold Predictions for Georgia Football vs. Ole Miss Football on Saturday Night",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/college/georgia/three-bold-predictions-for-georgia-football-vs-ole-miss-football-on-saturday-night-01m6pvmxbjv7"
+          "title": "Scott Pollock scores goal for Oxford City",
+          "source": "ESPN",
+          "url": "https://www.espn.com/video/clip/_/id/50401583/scott-pollock-scores-goal-oxford-city"
         }
       ]
     },
     {
-      "title": "젠슨 황",
-      "approx_traffic": "500+",
-      "published": "Fri, 6 Nov 2026 12:00:00 -0800",
-      "news": [
-        {
-          "title": "“술자리 옆 여성과 무슨 사이냐”…젠슨 황, ‘소환장’ 받았다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261106/134978932/1"
-        },
-        {
-          "title": "“술자리 옆 中 여성과 무슨 사이냐”…젠슨 황, 美의회 '소환장' 받았다",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261107000003"
-        },
-        {
-          "title": "미국 의회, 젠슨황에 “’중국 간첩 의혹’ 여성과 관계 직접 해명하라“",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106114956gph"
-        }
-      ]
-    },
-    {
-      "title": "송미령",
+      "title": "데이터 센터",
       "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 12:00:00 -0800",
+      "published": "Fri, 6 Nov 2026 13:30:00 -0800",
       "news": [
         {
-          "title": "햇빛 모아 부자 될 거야! 농사도 짓고 돈도 버는 영농형 태양광의 모든 것 - 영상 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148975227&pWise=sub&pWiseSub=C2"
+          "title": "백악관 \"데이터센터, 지지하는 주지사 있는 곳으로 이전할 것\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443570"
         },
         {
-          "title": "농식품부, 규제합리화 과제 선정…농지조사 후속 특별법 추진",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106171100030"
+          "title": "美 민주당 승리에 반도체 비상…데이터센터 제동",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000453"
         },
         {
-          "title": "농업과 에너지의 새로운 동행, '영농형태양광 상생한마당' 열려",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=455556"
-        }
-      ]
-    },
-    {
-      "title": "황인범",
-      "approx_traffic": "1000+",
-      "published": "Fri, 6 Nov 2026 11:50:00 -0800",
-      "news": [
-        {
-          "title": "투입 2분 만에 도움…황인범, 모레노 앞 매력 발산",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261105233057CdZ"
-        },
-        {
-          "title": "투입 2분 만에 쐐기골 도움…3연패 끊었다!",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008832927"
-        },
-        {
-          "title": "포르투 황인범, 챔피언스리그 교체투입 2분 만에 도움‥팀은 대승",
+          "title": "텍사스 \"데이터센터 멈춰야\"‥빅테크, 그래도 멈출 수 없다",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6863322_36946.html"
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863799_37004.html"
         }
       ]
     },
     {
-      "title": "카를로스 알카라스",
-      "approx_traffic": "1000+",
-      "published": "Fri, 6 Nov 2026 11:40:00 -0800",
-      "news": [
-        {
-          "title": "알카라스, 베레티니 부상 기권으로 파리 마스터스 8강…프리츠와 격돌",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2644971?trc=main_list_news"
-        },
-        {
-          "title": "알카라스, 미켈센 2-0 제압…파리 마스터스 16강 진출",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2644533?trc=right_categori_news"
-        },
-        {
-          "title": "베레티니 기권으로 알카라스, 파리 마스터스 준준결승 진출",
-          "source": "Mezha.net",
-          "url": "https://mezha.net/ko/news/mezha-c4653b992567e1b66d595656_alcaraz-advances-to-paris-masters-quarter/"
-        }
-      ]
-    },
-    {
-      "title": "주가 대폭락",
+      "title": "기소",
       "approx_traffic": "100+",
-      "published": "Fri, 6 Nov 2026 11:10:00 -0800",
-      "news": []
-    },
-    {
-      "title": "어 도어",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 10:30:00 -0800",
+      "published": "Fri, 6 Nov 2026 13:30:00 -0800",
       "news": [
         {
-          "title": "‘뉴진스’ 계약 불공정 논란…“가혹하다” vs “사실아냐”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706309"
+          "title": "李, 본인사건 수사 특검 ‘셀프 임명’ 할 수 있다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/11/07/F3CQ5CKKLVGSNJZNGDMQKZPGTI/"
         },
         {
-          "title": "“하이브 승인 없이 계약 불가능했다”…민희진, 뉴진스 ‘불공정 계약’ 논란에 하이브 책임전가 비판",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611061631011"
+          "title": "국민의힘, 한 달 만에 장외로…‘조작기소특검법’ 규탄",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261107053919WLg"
         },
         {
-          "title": "뉴진스 계약서 공개되자...하이브가 내놓은 답변 [자막뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611062336285237"
+          "title": "‘조작기소 있었나’ 17개 사건 다시 본다…특검법 통과",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12326871"
         }
       ]
     },
     {
-      "title": "농성",
-      "approx_traffic": "500+",
-      "published": "Fri, 6 Nov 2026 10:20:00 -0800",
+      "title": "은마아파트",
+      "approx_traffic": "1000+",
+      "published": "Fri, 6 Nov 2026 13:20:00 -0800",
       "news": [
         {
-          "title": "한화오션 생산 직·반장들 \"하청노조 고공농성 중단하라\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106056400052"
+          "title": "주택공급 발목잡는 재초환… 가구당 은마 4억, 반포현대 2억 내야",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/real_estate/2026/11/07/3FFT6HIJ7NG6JEFMGED6OS6BXA/"
         },
         {
-          "title": "한화오션, 생산 현장 직·반장 \"거제 경제·일터 수호\" 결의",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261106_0003857343"
+          "title": "강남 재건축 덮친 재초환…은마 조합원당 4.6억[집슐랭]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20111382"
         },
         {
-          "title": "한화오션-하청노조 5차 교섭도 평행선…감독자들 “농성 중단해야”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261106/134976846/1"
+          "title": "\"같은 평수 받으려면 9억?\"…은마아파트 집주인들 '날벼락'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110617271"
+        }
+      ]
+    },
+    {
+      "title": "비트코인",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 13:20:00 -0800",
+      "news": [
+        {
+          "title": "블랙록 IBIT, 5거래일 연속 10억 4,000만 달러 이탈…나스닥 5.5% 급락 여파",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1172576"
+        },
+        {
+          "title": "[ETF 특징주] 비트코인 펀드 이틀간 10억달러 '썰물' 바이낸스·중간선거 파장",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261104001165"
+        },
+        {
+          "title": "비트코인(BTC) 현물 ETF 12개 전부 '자금 유입 제로'…하루 5,859억 원 순유출",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/268219"
+        }
+      ]
+    },
+    {
+      "title": "패션",
+      "approx_traffic": "1000+",
+      "published": "Fri, 6 Nov 2026 13:10:00 -0800",
+      "news": [
+        {
+          "title": "Fashion Doesn’t Need Kanye West’s Yeezy",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/05/style/yeezy-season-01-fashion-show-kanye-west.html"
+        },
+        {
+          "title": "Yeezy Returns with LA Runway Show and JD Sports Partnership",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/yeezy-returns-with-la-runway-show-and-jd-sports-partnership"
+        },
+        {
+          "title": "North West Looks So Different With Icy Blue Contacts and Bleached Eyebrows",
+          "source": "InStyle",
+          "url": "https://www.instyle.com/north-west-looks-so-different-icy-blue-contacts-bleached-eyebrows-12238621"
+        }
+      ]
+    },
+    {
+      "title": "임영웅",
+      "approx_traffic": "100+",
+      "published": "Fri, 6 Nov 2026 13:10:00 -0800",
+      "news": [
+        {
+          "title": "임영웅, 공연 실황 영화 예고편 공개… “앞으로 10년도 함께”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/06/P6I7OBIKH5BJFPZCELCE7TOAIA/"
+        },
+        {
+          "title": "“영웅시대와 함께한 10년의 기적”…임영웅, 스타디움 감동 담은 예고편 공개",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261106500158"
+        },
+        {
+          "title": "눈앞엔 임영웅, 머리 위엔 불꽃…극장에서 되살리는 스타디움의 밤",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611060851550073"
+        }
+      ]
+    },
+    {
+      "title": "테일러 프리츠",
+      "approx_traffic": "100+",
+      "published": "Fri, 6 Nov 2026 13:10:00 -0800",
+      "news": [
+        {
+          "title": "Alcaraz saves 2 MPs, sinks Fritz in Paris late-night thriller",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/alcaraz-fritz-paris-2026-friday"
+        },
+        {
+          "title": "Where to watch Carlos Alcaraz vs Taylor Fritz tennis for free today",
+          "source": "Syracuse.com",
+          "url": "https://www.syracuse.com/tv/2026/11/where-to-watch-carlos-alcaraz-vs-taylor-fritz-tennis-for-free-today.html"
+        },
+        {
+          "title": "Follow the quarter-finals of the Paris Masters LIVE!",
+          "source": "Flashscore.com",
+          "url": "https://www.flashscore.com/news/paris-masters-live-scores-results-updates-alcaraz-shelton-paul-fritz-ruud-november-6-2026/QyBKYaMG/"
+        }
+      ]
+    },
+    {
+      "title": "박유천",
+      "approx_traffic": "100+",
+      "published": "Fri, 6 Nov 2026 13:00:00 -0800",
+      "news": [
+        {
+          "title": "[문화연예 플러스] 박유천, 일본 디너쇼 45만 원‥고가 논란",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6863597_37012.html"
+        },
+        {
+          "title": "기모노 입고 45만 원 티켓 홍보…박유천, ’일본 디너쇼’ 시끌",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106161721P8h"
+        },
+        {
+          "title": "기모노 입고 초고가 디너쇼…박유천 日 디너쇼 가격 논란 [자막뉴스]",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/detail/000000558566.do"
         }
       ]
     }
