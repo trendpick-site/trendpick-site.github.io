@@ -1,22 +1,66 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-06T18:55:30+00:00",
+  "fetched_at": "2026-11-06T19:55:27+00:00",
   "items": [
     {
-      "title": "이강철",
+      "title": "어 도어",
       "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 09:50:00 -0800",
+      "published": "Fri, 6 Nov 2026 10:30:00 -0800",
       "news": [
         {
-          "title": "'이럴수가' 알고보니 가을야구 9G 만에 첫 패전이라니! 이강철도 아쉽다 \"그런 볼넷 안 던지는 투수인데...\" [KS3 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/07/2026110620534942569"
+          "title": "“하이브 승인 없이 계약 불가능했다”…민희진, 뉴진스 ‘불공정 계약’ 논란에 하이브 책임전가 비판",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611061631011"
         },
+        {
+          "title": "뉴진스 계약서 공개되자...하이브가 내놓은 답변 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611062336285237"
+        },
+        {
+          "title": "연애금지에 소속사가 초상권 무기한 사용…뉴진스 비밀계약 공개",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106094700075"
+        }
+      ]
+    },
+    {
+      "title": "농성",
+      "approx_traffic": "100+",
+      "published": "Fri, 6 Nov 2026 10:20:00 -0800",
+      "news": [
+        {
+          "title": "한화오션 생산 직·반장들 \"하청노조 고공농성 중단하라\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106056400052"
+        },
+        {
+          "title": "한화오션, 생산 현장 직·반장 \"거제 경제·일터 수호\" 결의",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261106_0003857343"
+        },
+        {
+          "title": "한화오션-하청노조 5차 교섭도 평행선…감독자들 “농성 중단해야”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261106/134976846/1"
+        }
+      ]
+    },
+    {
+      "title": "이강철",
+      "approx_traffic": "500+",
+      "published": "Fri, 6 Nov 2026 09:50:00 -0800",
+      "news": [
         {
           "title": "‘KT 악재’ 손 다친 최원준, 선발 라인업 제외…“중요할 때 대타로”",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Sports/article/all/20261106/134981290/1"
+        },
+        {
+          "title": "'이럴수가' 알고보니 가을야구 9G 만에 첫 패전이라니! 이강철도 아쉽다 \"그런 볼넷 안 던지는 투수인데...\" [KS3 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/07/2026110620534942569"
         },
         {
           "title": "[사진] 이강철 감독, 시작이 좋아",
@@ -26,24 +70,24 @@
       ]
     },
     {
-      "title": "이승기",
+      "title": "시콜 스키 s 92",
       "approx_traffic": "500+",
-      "published": "Fri, 6 Nov 2026 08:10:00 -0800",
+      "published": "Fri, 6 Nov 2026 09:40:00 -0800",
       "news": [
         {
-          "title": "\"내 보물 둘\" 이승기·이다인, 생후 4개월 둘째 아들 첫 공개 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110605372731434"
+          "title": "South Korea selects Sikorsky S-92A+ for new presidential transport helicopter",
+          "source": "FlightGlobal",
+          "url": "https://www.flightglobal.com/defence/2026/11/south-korea-selects-sikorsky-s-92a-for-new-presidential-transport-helicopter/"
         },
         {
-          "title": "이다인, 4개월 된 둘째 아들 모습 최초 공개…이승기 ‘딸바보’ 인증도 눈길",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611060841003"
+          "title": "South Korea orders four S-92A+ helicopters to replace presidential fleet",
+          "source": "Air Data News",
+          "url": "https://www.airdatanews.com/south-korea-orders-four-s-92-a-helicopters-to-replace-presidential-fleet/"
         },
         {
-          "title": "\"동생 생겼어요\" 이승기♥이다인, 붕어빵 4식구 공개..화목한 생파 [핫피플]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/06/MYZGIODCGVRTCZBXME3DKOLGGA/"
+          "title": "Sikorsky S-92A+ Selected as Korean Presidential Helicopter",
+          "source": "Joint Forces News",
+          "url": "https://www.joint-forces.com/defence-equipment-news/95404-sikorsky-s-92a-selected-as-korean-presidential-helicopter"
         }
       ]
     },
@@ -70,30 +114,74 @@
       ]
     },
     {
+      "title": "이승기",
+      "approx_traffic": "500+",
+      "published": "Fri, 6 Nov 2026 08:10:00 -0800",
+      "news": [
+        {
+          "title": "\"내 보물 둘\" 이승기·이다인, 생후 4개월 둘째 아들 첫 공개 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110605372731434"
+        },
+        {
+          "title": "이다인, 4개월 된 둘째 아들 모습 최초 공개…이승기 ‘딸바보’ 인증도 눈길",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611060841003"
+        },
+        {
+          "title": "\"동생 생겼어요\" 이승기♥이다인, 붕어빵 4식구 공개..화목한 생파 [핫피플]",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/06/MYZGIODCGVRTCZBXME3DKOLGGA/"
+        }
+      ]
+    },
+    {
       "title": "일론 머스크",
       "approx_traffic": "100+",
       "published": "Fri, 6 Nov 2026 07:50:00 -0800",
       "news": [
         {
-          "title": "[주간 뉴스타파] 미국 중간선거 블루 쓰나미, 트럼프식 '정글의 법칙' 흔들리나",
-          "source": "뉴스타파",
-          "url": "https://newstapa.org/article/VVdwE"
+          "title": "머스크, X에 ‘테슬라 태극기’ 공유…한국시장 1위 질주 ‘자축’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611062104001"
         },
         {
-          "title": "의회 장악한 美민주, 35년만에 하원 260석 '거대 야당'도 넘본다",
+          "title": "벤츠코리아, 직판제 안착에 신차 효과…BMW 제치고 독일 3사 ‘선두’",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2644121"
+        },
+        {
+          "title": "“태극기에 테슬라 로고를 떡하니”…머스크가 올린 사진 ‘눈길’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261106580392"
+        }
+      ]
+    },
+    {
+      "title": "한파",
+      "approx_traffic": "2000+",
+      "published": "Fri, 6 Nov 2026 07:50:00 -0800",
+      "news": [
+        {
+          "title": "갑자기 기온 뚝…내일 ’입동’ 서울 첫 영하권",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261106124747vqp"
+        },
+        {
+          "title": "주말 서울 첫 영하권, '강풍·풍랑' 비상...휴일엔 첫눈",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202611062145073803"
+        },
+        {
+          "title": "입동에 '초겨울 추위'…서울 올가을 첫 영하, 체감 '-4도'",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261107002000071"
-        },
-        {
-          "title": "[특파원 리포트] 대통령 지지 철회한 美 유권자들",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/opinion/correspondent_column/2026/11/06/ND7NEAWKZNARLPDGJU4RSMR7SY/"
+          "url": "https://www.yna.co.kr/view/AKR20261106160100530"
         }
       ]
     },
     {
       "title": "t1 kc",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 6 Nov 2026 07:10:00 -0800",
       "news": []
     },
@@ -103,107 +191,19 @@
       "published": "Fri, 6 Nov 2026 07:00:00 -0800",
       "news": [
         {
-          "title": "자전거 여행 중 숨진 유튜버…\"마지막 여정을\" 친형의 글",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833712"
-        },
-        {
           "title": "‘볼리비아 사고 유튜버’ 故 진쓰레블, 마지막 영상 공개",
           "source": "스포츠경향",
           "url": "https://sports.khan.co.kr/article/202611061513013"
         },
         {
-          "title": "비보에도 쏟아진 악플…볼리비아서 '뺑소니' 숨진 유튜버 유족 호소 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/06/2026110616044871391"
-        }
-      ]
-    },
-    {
-      "title": "숲",
-      "approx_traffic": "2000+",
-      "published": "Fri, 6 Nov 2026 06:20:00 -0800",
-      "news": [
-        {
-          "title": "김상욱 시장, 중국 밍양그룹 방문…에너지 협력 논의",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8705397"
+          "title": "자전거 여행 중 숨진 유튜버…\"마지막 여정을\" 친형의 글",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833712"
         },
         {
-          "title": "中 부유식 해상풍력 '오션X'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8201790"
-        },
-        {
-          "title": "울산 조선업, 해상풍력에서 ‘미래 먹거리’ 찾는다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261105/134974363/2"
-        }
-      ]
-    },
-    {
-      "title": "삼성증권",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 06:10:00 -0800",
-      "news": [
-        {
-          "title": "한미약품, 두 번째 'Bio Innovation Day' 개최···신약·AI 헬스케어 교류의 장",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=354049"
-        },
-        {
-          "title": "한미약품·삼성증권, 유망 바이오벤처 투자 유치 지원 나선다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20111140"
-        },
-        {
-          "title": "한미약품·삼성증권, 27일 바이오벤처·투자자 교류 행사 개최",
-          "source": "주간한국",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7192626"
-        }
-      ]
-    },
-    {
-      "title": "노태문",
-      "approx_traffic": "500+",
-      "published": "Fri, 6 Nov 2026 06:00:00 -0800",
-      "news": [
-        {
-          "title": "삼성전자 노태문 대표이사, 자사주 3천 주 매입‥6억 3천만 원 규모",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6863796_36932.html"
-        },
-        {
-          "title": "노태문 삼성전자 사장, 증시 급락 속 자사주 6.3억원 어치 매입 \"책임경영\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261106_0003858472"
-        },
-        {
-          "title": "'20만전자' 무너지자…삼성전자 노태문, '3000주' 6억3000만원 규모 추가 매입",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261106000363"
-        }
-      ]
-    },
-    {
-      "title": "디씨",
-      "approx_traffic": "1000+",
-      "published": "Fri, 6 Nov 2026 05:50:00 -0800",
-      "news": [
-        {
-          "title": "Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html"
-        },
-        {
-          "title": "Trump Launches Triumphal Arch Website Right As Judge Blocks Construction",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/politics/politics-news/trump-launches-arch-website-judge-shuts-down-construction-1235653978/"
-        },
-        {
-          "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cq99zd93ryvko"
+          "title": "한국인 여행 유튜버, 남미서 뺑소니 사고로 사망…향년 33세",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629265"
         }
       ]
     }
