@@ -1,33 +1,138 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-06T09:34:07+00:00",
+  "fetched_at": "2026-11-06T10:40:06+00:00",
   "items": [
     {
+      "title": "티빙",
+      "approx_traffic": "2000+",
+      "published": "Fri, 6 Nov 2026 01:30:00 -0800",
+      "news": [
+        {
+          "title": "티빙, 3분기 영업손실 72억원...\"확실한 손익 개선 흐름\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261105152651"
+        },
+        {
+          "title": "하나증권 \"CJ ENM, 간만의 TV 광고 회복세…목표가 상향\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106026900008"
+        },
+        {
+          "title": "CJ온스타일 '탈홈쇼핑' 투자 고삐, 이선영 수익성 뒷걸음에도 미래 고객 확보 베팅",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451398"
+        }
+      ]
+    },
+    {
+      "title": "한국시리즈 3차전",
+      "approx_traffic": "100+",
+      "published": "Fri, 6 Nov 2026 01:10:00 -0800",
+      "news": [
+        {
+          "title": "[사진]선취 타점 힐리어드, 시작하자마자 KT가 앞서간다",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/ME3TCMDCMEZDMY3EGM4DMMBZGU/"
+        },
+        {
+          "title": "‘국민타자’ 이승엽, 삼성라이온즈파크에 뜬다…3차전 시구",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261106/134980475/1"
+        }
+      ]
+    },
+    {
+      "title": "배트맨",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 01:00:00 -0800",
+      "news": [
+        {
+          "title": "Scarlett Johansson Breaks Silence on ‘The Batman Part II’ Role: “It Was Very Hard to Figure Out”",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/scarlett-johansson-on-the-batman-part-ii-role-1236748021/"
+        },
+        {
+          "title": "Scarlett Johansson Says Batman Role Gave Her ‘a Lot of Existential Angst’",
+          "source": "Vulture",
+          "url": "https://www.vulture.com/article/scarlett-johansson-batman-existential-angst.html"
+        },
+        {
+          "title": "Mystery around 'The Batman: Part II' is growing. Scarlett Johansson has added to the suspense.",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/movies/article/mystery-around-the-batman-part-ii-is-growing-scarlett-johansson-has-added-to-the-suspense-145208330.html"
+        }
+      ]
+    },
+    {
+      "title": "박지후",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 00:40:00 -0800",
+      "news": [
+        {
+          "title": "‘미스트롯 포유’ 김동현, 이소나와 우승 정조준 “밥그릇 줄어들까 봐 걱정돼”",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523752"
+        },
+        {
+          "title": "진(眞) 저력 입증한 이소나, 변진섭 '그대 내게 다시'부터 김상배 '삼백초'까지",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3743776"
+        },
+        {
+          "title": "신기성, ‘미스트롯 포유’에서 발군의 노래 실력 뽐내",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11628672"
+        }
+      ]
+    },
+    {
+      "title": "강민호",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 00:40:00 -0800",
+      "news": [
+        {
+          "title": "\"번트? 저 강민호인데요\" 13년 전 CF대사, 올해 강민호에겐 없다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106134600007"
+        },
+        {
+          "title": "구자욱은 뛰지도 못하는데..득점 막는 '2개의 핸디캡' 삼성은 무슨 생각으로 '자동아웃' 포수를 라인업에 두고 있을까[KS]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/06/HFTGMY3GGJRDSNZYMEYDCMTBGY/"
+        },
+        {
+          "title": "\"내 몸이 중요한 게 아냐\" 투혼의 가을인데, '지명 포수' 됐다…'우승 성불'이 이렇게 힘들어야 할까 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/202611061046779299O"
+        }
+      ]
+    },
+    {
       "title": "kt 대 삼성",
-      "approx_traffic": "10000+",
+      "approx_traffic": "20000+",
       "published": "Fri, 6 Nov 2026 00:30:00 -0800",
       "news": [
+        {
+          "title": "한국시리즈 3차전 승리 팀은?...소형준 vs 후라도 선발 대결",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202611061727570999"
+        },
+        {
+          "title": "\"우승의 기쁨, 함께 나눠요\" 국민 유격수 향한 특별한 응원…대구CC 우승수 대표의 깜짝 이벤트 [KS3]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/06/GQ3WKNLCGUZTEOJUGBRDCYRRMQ/"
+        },
         {
           "title": "[포토] 박진만 감독 '김지찬 상태 괜찮다' - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/11/06/2026110616034073909"
-        },
-        {
-          "title": "후라도-KT 빈볼 신경전? 재발은 없다...\"메시지 줬다. 본인이 안다\" 박진만 자신있게 답했다 [KS3]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112905233"
-        },
-        {
-          "title": "'88.9% 확률' 걸린 KS 3차전…라팍 '대포 전쟁'에 달렸다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105109300007"
         }
       ]
     },
     {
       "title": "가상자산",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Fri, 6 Nov 2026 00:30:00 -0800",
       "news": [
         {
@@ -36,9 +141,9 @@
           "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975124"
         },
         {
-          "title": "가상자산 과세 또 유예‥\"투자자 눈치보기?\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6863714_36974.html"
+          "title": "정부 '가상자산 과세' 네 번째 유예, 디지털자산법 입법 지연에 정책 신뢰성·조세형평성 논란",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451394"
         },
         {
           "title": "“코인으로 1000만원 잃었는데 세금공제 없나요”…앞으로 3년까지 손실 인정",
@@ -53,19 +158,41 @@
       "published": "Fri, 6 Nov 2026 00:30:00 -0800",
       "news": [
         {
-          "title": "NYT가 입수한 ‘가혹한 뉴진스 계약서’ 파장···하이브 “적법한 계약” 해명",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611061345001"
-        },
-        {
-          "title": "NYT, 뉴진스 계약 공개...하이브 \"민희진이 주체\"",
+          "title": "하이브·어도어, \"뉴진스 계약서에 미성년자 보호 조항 빠졌다\"는 美 언론 보도 반박",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0106_202611061720011222"
+          "url": "https://www.ytn.co.kr/_ln/0117_202611061140471579"
         },
         {
           "title": "연애금지에 소속사가 초상권 무기한 사용…뉴진스 비밀계약 공개",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261106094700075"
+        },
+        {
+          "title": "NYT가 입수한 ‘가혹한 뉴진스 계약서’ 파장···하이브 “적법한 계약” 해명",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611061345001"
+        }
+      ]
+    },
+    {
+      "title": "부산 불꽃축제",
+      "approx_traffic": "100+",
+      "published": "Fri, 6 Nov 2026 00:30:00 -0800",
+      "news": [
+        {
+          "title": "카카오맵, ‘제21회 부산불꽃축제’ 축제 전용 지도 제공…혼잡 구역부터 일행 위치 확인까지",
+          "source": "카카오",
+          "url": "https://www.kakaocorp.com/page/detail/12194"
+        },
+        {
+          "title": "KT, 부산불꽃축제 특별 소통 대책 가동",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20261106013600013"
+        },
+        {
+          "title": "하늘엔 불꽃 터지고 땅엔 쓰레기 넘치고… 100만 인파에 쓰레기통 6개",
+          "source": "부산일보",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026110518155177295"
         }
       ]
     },
@@ -74,138 +201,6 @@
       "approx_traffic": "1000+",
       "published": "Fri, 6 Nov 2026 00:20:00 -0800",
       "news": []
-    },
-    {
-      "title": "스노클링",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 00:10:00 -0800",
-      "news": [
-        {
-          "title": "인니 발리 인근 섬서 스노클링하던 韓관광객, 한달째 실종",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106098000084"
-        },
-        {
-          "title": "\"제발 유리 좀 찾아주세요\"...30대 韓 여성, 대낮 휴양지서 사라져 한달째 실종",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611060606251303"
-        },
-        {
-          "title": "“바다거북 보러 갔다가 사라진 31세 한국 여성…인니서 한 달째 실종”",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261106000121"
-        }
-      ]
-    },
-    {
-      "title": "구급차",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 00:10:00 -0800",
-      "news": [
-        {
-          "title": "“아기가 나오려는데요?” 구급차에서 태어난 31주 신생아···50일 만에 집으로 갔다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611061118001"
-        },
-        {
-          "title": "구급차에서 태어난 31주 조산아…응급처치로 살렸다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8705843"
-        },
-        {
-          "title": "[D리포트] \"엄마 보러 가자! 제발 살자 아기야!!\"…바디캠에 담긴 '기적의 현장'",
-          "source": "m.news.sbs.co.kr",
-          "url": "https://m.news.sbs.co.kr/news/endPage.do?newsId=N1008834218"
-        }
-      ]
-    },
-    {
-      "title": "코리아오픈 배드민턴",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 00:10:00 -0800",
-      "news": [
-        {
-          "title": "'한 번만 더 이기면 진짜로 8전 전패 안세영과 또 만난다!' 日배드민턴 요정, 이번에도 2-0 완승…진짜 예쁘다!",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/05/GAZTSNRUMRSWKZJVGU2DCMLGGA/"
-        },
-        {
-          "title": "더 빨리 끝낸 16강전‥36분만에 52연승 행진",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863524_37004.html"
-        },
-        {
-          "title": "‘충무공 이순신 장군의 고장’ 여수에서 일본선수한테 절대 지면 안되지! 안세영, 8강전부터 3연속 일본선수와 맞대결 예상",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112905046"
-        }
-      ]
-    },
-    {
-      "title": "000660",
-      "approx_traffic": "20000+",
-      "published": "Thu, 5 Nov 2026 23:50:00 -0800",
-      "news": [
-        {
-          "title": "‘삼전닉스 폭락’ 투자자들 충격…‘블루쇼크’에 AI 호황 끝?",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12326862"
-        },
-        {
-          "title": "블루쓰나미에 AI 성장 서사 급제동…글로벌 증시 ‘패닉셀’",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611061030i"
-        },
-        {
-          "title": "[속보]코스피, 서킷브레이커 이어 매도 사이드카…5000선 턱걸이",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611060944001"
-        }
-      ]
-    },
-    {
-      "title": "이현중",
-      "approx_traffic": "100+",
-      "published": "Thu, 5 Nov 2026 23:50:00 -0800",
-      "news": [
-        {
-          "title": "이현중의 NBA 도전, 안방서 본다… 쿠팡플레이, G리그 생중계",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04362406645643096&mediaCodeNo=257"
-        },
-        {
-          "title": "NBA 꿈 택한 이현중…\"농구 여정 이제 시작\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031102546NmG"
-        },
-        {
-          "title": "이현중, 양한센과 G리그서 한솥밥···포틀랜드, 중국 센터 립시티로 내려보내 ‘한중 스타 만남 주목’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610291101003"
-        }
-      ]
-    },
-    {
-      "title": "나혜미",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 23:30:00 -0800",
-      "news": [
-        {
-          "title": "'에릭♥' 나혜미 \"TV 부서지고 소파엔 낙서\"…아들 둘 현실육아",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110608494136149"
-        },
-        {
-          "title": "♥에릭 없이 독박육아..나혜미, 아둘맘 쉽지 않다 \"에라 모르겠다\" [핫피플]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/06/GMZTCMTCMFTDEMJZGQ2DIY3GG4/"
-        },
-        {
-          "title": "에릭이 벌써 두 아이 아빠…나혜미, 에릭 쏙 빼닮은 아들 사진 공개",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12199566"
-        }
-      ]
     }
   ]
 }
