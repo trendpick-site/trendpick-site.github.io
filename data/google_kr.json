@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-06T15:53:27+00:00",
+  "fetched_at": "2026-11-06T16:55:48+00:00",
   "items": [
+    {
+      "title": "t1 kc",
+      "approx_traffic": "500+",
+      "published": "Fri, 6 Nov 2026 07:10:00 -0800",
+      "news": [
+        {
+          "title": "BLG 벽 앞에 무너진 디플러스 기아…월즈 8강전서 0-3 패",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106093800017"
+        },
+        {
+          "title": "[롤드컵]젠지, 4강서 중국 IG와 격돌…한중 자존심 대결",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261105_0003856558"
+        },
+        {
+          "title": "[롤드컵 톡톡] \"과거 기록 의미 없어, 다음 무대 중요\"... BLG '온' 러원쥔의 4강 출사표",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112905616"
+        }
+      ]
+    },
+    {
+      "title": "유튜버",
+      "approx_traffic": "2000+",
+      "published": "Fri, 6 Nov 2026 07:00:00 -0800",
+      "news": [
+        {
+          "title": "‘여성 학대 의혹’ 유튜버 카광, 채널 삭제 이어 ‘출국금지’… 경찰 수사 본격화",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611061749003"
+        },
+        {
+          "title": "인기 유튜버, 女 학대 생중계 논란…16년 전 파묘 (궁금한 이야기Y)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261106/134981087/1"
+        },
+        {
+          "title": "'지적장애女 학대 의혹' 유튜버 카광, 가학 생방송 전말 고발된다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261106_0003858579"
+        }
+      ]
+    },
     {
       "title": "숲",
       "approx_traffic": "2000+",
@@ -75,19 +119,19 @@
       "published": "Fri, 6 Nov 2026 05:50:00 -0800",
       "news": [
         {
-          "title": "Hegseth expands National Guard presence in DC",
-          "source": "Politico",
-          "url": "https://www.politico.com/news/2026/11/05/hegseth-expands-d-c-national-guard-presence-01151398"
+          "title": "Judge blocks construction on Trump's 250-foot arch for now",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-arch-approval-national-capital-planning-commission/"
         },
         {
-          "title": "National Guard to Expand Patrols in Washington With Military Vehicles and Boats",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/05/us/politics/washington-dc-national-guard-troops-hegseth-trump.html"
+          "title": "Trump Obsesses Over Triumphal Arch After Judge Blocks Construction",
+          "source": "The New Republic",
+          "url": "https://newrepublic.com/post/217692/trump-obsesses-triumphal-arch-judge-blocks-construction"
         },
         {
-          "title": "National Guard gets boats and Humvees as D.C. leaders seek to oust troops",
-          "source": "The Washington Post",
-          "url": "https://www.washingtonpost.com/dc-md-va/2026/11/05/national-guard-adding-boats-humvees-dc-leaders-hope-oust-troops/"
+          "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon"
         }
       ]
     },
@@ -115,7 +159,7 @@
     },
     {
       "title": "장유빈",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Fri, 6 Nov 2026 05:00:00 -0800",
       "news": [
         {
@@ -141,19 +185,19 @@
       "published": "Fri, 6 Nov 2026 04:50:00 -0800",
       "news": [
         {
-          "title": "아들과 절연한 이혜정 \"언젠가 화해할 날 있겠지\" 눈물",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261106_0003858051"
+          "title": "이혜정, 2년 전 절연한 아들 생각에 눈물…“언젠가는 화해하겠지”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261106503569"
+        },
+        {
+          "title": "이혜정, '절연' 아들 생각에 '후회·눈물' \"결혼하고 변해..화해할 날 오길\"[핫피플]",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261105014133164"
         },
         {
           "title": "이혜정, '남편팔이' 욕먹었는데 \"'외도' 남편 흉 안봤더니 예능 끊겨\" 씁쓸",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/GYZWCMZUGM2GMOJUMZSDCNTBGM/"
-        },
-        {
-          "title": "‘빅마마’ 이혜정 “남편 욕 안했더니 방송 끊겨”…아들과 갈등 고백하며 눈물도",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611061225003"
         }
       ]
     },
@@ -176,50 +220,6 @@
           "title": "KT 로건 vs 삼성 '루키' 장찬희 깜짝 선발…KS 4차전서 선발 맞대결",
           "source": "뉴스1",
           "url": "https://www.news1.kr/sports/baseball/6346226"
-        }
-      ]
-    },
-    {
-      "title": "현장르포 특종세상",
-      "approx_traffic": "500+",
-      "published": "Fri, 6 Nov 2026 04:40:00 -0800",
-      "news": [
-        {
-          "title": "'성형 부작용' 김세레나 근황…\"100억 빌려 주고 못 받아\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110523315220253"
-        },
-        {
-          "title": "김세레나 \"첫 남편 유부남인 줄 몰랐다\"…굴곡진 인생사 털어놔",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261106501275"
-        },
-        {
-          "title": "79세 김세레나, 불법 성형 시술 부작용 고백…“세월에 장사 없더라, 안 늙으려 발악”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20110967"
-        }
-      ]
-    },
-    {
-      "title": "sbs",
-      "approx_traffic": "500+",
-      "published": "Fri, 6 Nov 2026 04:40:00 -0800",
-      "news": [
-        {
-          "title": "Magnitude 6.1 Earthquake Hits Waters Off Chiba City, Chiba Prefecture, Japan",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008834827"
-        },
-        {
-          "title": "6.2-magnitude quake hits off Honshu coast",
-          "source": "Breakingthenews.net",
-          "url": "https://breakingthenews.net/Article/6.2-magnitude-quake-hits-off-Honshu-coast/67504737"
-        },
-        {
-          "title": "Magnitude-6.1 earthquake hits off Tokyo, no tsunami alert: weather agency",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/tokyo-japan-earthquake-weather-updates-november-6-2026/article71674193.ece"
         }
       ]
     }
