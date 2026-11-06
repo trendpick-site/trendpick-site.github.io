@@ -1,8 +1,190 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-06T08:34:29+00:00",
+  "fetched_at": "2026-11-06T09:34:07+00:00",
   "items": [
+    {
+      "title": "kt 대 삼성",
+      "approx_traffic": "10000+",
+      "published": "Fri, 6 Nov 2026 00:30:00 -0800",
+      "news": [
+        {
+          "title": "[포토] 박진만 감독 '김지찬 상태 괜찮다' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110616034073909"
+        },
+        {
+          "title": "후라도-KT 빈볼 신경전? 재발은 없다...\"메시지 줬다. 본인이 안다\" 박진만 자신있게 답했다 [KS3]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112905233"
+        },
+        {
+          "title": "'88.9% 확률' 걸린 KS 3차전…라팍 '대포 전쟁'에 달렸다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261105109300007"
+        }
+      ]
+    },
+    {
+      "title": "가상자산",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 00:30:00 -0800",
+      "news": [
+        {
+          "title": "가상자산 소득과세 2년 유예 추진…2029년 시행 기반 마련",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975124"
+        },
+        {
+          "title": "가상자산 과세 또 유예‥\"투자자 눈치보기?\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6863714_36974.html"
+        },
+        {
+          "title": "“코인으로 1000만원 잃었는데 세금공제 없나요”…앞으로 3년까지 손실 인정",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1190777"
+        }
+      ]
+    },
+    {
+      "title": "어도어",
+      "approx_traffic": "1000+",
+      "published": "Fri, 6 Nov 2026 00:30:00 -0800",
+      "news": [
+        {
+          "title": "NYT가 입수한 ‘가혹한 뉴진스 계약서’ 파장···하이브 “적법한 계약” 해명",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611061345001"
+        },
+        {
+          "title": "NYT, 뉴진스 계약 공개...하이브 \"민희진이 주체\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0106_202611061720011222"
+        },
+        {
+          "title": "연애금지에 소속사가 초상권 무기한 사용…뉴진스 비밀계약 공개",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106094700075"
+        }
+      ]
+    },
+    {
+      "title": "005930",
+      "approx_traffic": "1000+",
+      "published": "Fri, 6 Nov 2026 00:20:00 -0800",
+      "news": []
+    },
+    {
+      "title": "스노클링",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "인니 발리 인근 섬서 스노클링하던 韓관광객, 한달째 실종",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106098000084"
+        },
+        {
+          "title": "\"제발 유리 좀 찾아주세요\"...30대 韓 여성, 대낮 휴양지서 사라져 한달째 실종",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611060606251303"
+        },
+        {
+          "title": "“바다거북 보러 갔다가 사라진 31세 한국 여성…인니서 한 달째 실종”",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261106000121"
+        }
+      ]
+    },
+    {
+      "title": "구급차",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "“아기가 나오려는데요?” 구급차에서 태어난 31주 신생아···50일 만에 집으로 갔다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611061118001"
+        },
+        {
+          "title": "구급차에서 태어난 31주 조산아…응급처치로 살렸다",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8705843"
+        },
+        {
+          "title": "[D리포트] \"엄마 보러 가자! 제발 살자 아기야!!\"…바디캠에 담긴 '기적의 현장'",
+          "source": "m.news.sbs.co.kr",
+          "url": "https://m.news.sbs.co.kr/news/endPage.do?newsId=N1008834218"
+        }
+      ]
+    },
+    {
+      "title": "코리아오픈 배드민턴",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "'한 번만 더 이기면 진짜로 8전 전패 안세영과 또 만난다!' 日배드민턴 요정, 이번에도 2-0 완승…진짜 예쁘다!",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/05/GAZTSNRUMRSWKZJVGU2DCMLGGA/"
+        },
+        {
+          "title": "더 빨리 끝낸 16강전‥36분만에 52연승 행진",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863524_37004.html"
+        },
+        {
+          "title": "‘충무공 이순신 장군의 고장’ 여수에서 일본선수한테 절대 지면 안되지! 안세영, 8강전부터 3연속 일본선수와 맞대결 예상",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112905046"
+        }
+      ]
+    },
+    {
+      "title": "000660",
+      "approx_traffic": "20000+",
+      "published": "Thu, 5 Nov 2026 23:50:00 -0800",
+      "news": [
+        {
+          "title": "‘삼전닉스 폭락’ 투자자들 충격…‘블루쇼크’에 AI 호황 끝?",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12326862"
+        },
+        {
+          "title": "블루쓰나미에 AI 성장 서사 급제동…글로벌 증시 ‘패닉셀’",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611061030i"
+        },
+        {
+          "title": "[속보]코스피, 서킷브레이커 이어 매도 사이드카…5000선 턱걸이",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611060944001"
+        }
+      ]
+    },
+    {
+      "title": "이현중",
+      "approx_traffic": "100+",
+      "published": "Thu, 5 Nov 2026 23:50:00 -0800",
+      "news": [
+        {
+          "title": "이현중의 NBA 도전, 안방서 본다… 쿠팡플레이, G리그 생중계",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04362406645643096&mediaCodeNo=257"
+        },
+        {
+          "title": "NBA 꿈 택한 이현중…\"농구 여정 이제 시작\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031102546NmG"
+        },
+        {
+          "title": "이현중, 양한센과 G리그서 한솥밥···포틀랜드, 중국 센터 립시티로 내려보내 ‘한중 스타 만남 주목’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610291101003"
+        }
+      ]
+    },
     {
       "title": "나혜미",
       "approx_traffic": "200+",
@@ -22,204 +204,6 @@
           "title": "에릭이 벌써 두 아이 아빠…나혜미, 에릭 쏙 빼닮은 아들 사진 공개",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/news/entertain/12199566"
-        }
-      ]
-    },
-    {
-      "title": "과징금",
-      "approx_traffic": "500+",
-      "published": "Thu, 5 Nov 2026 23:30:00 -0800",
-      "news": [
-        {
-          "title": "[속보] 법원 \"'이용자 1천만 명 기록 무단수집' 쿠팡 과징금 2천억 효력정지\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6863701_36918.html"
-        },
-        {
-          "title": "법원, 쿠팡 2011억 과징금 효력 정지…이용자 기록 무단수집 관련",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1286118.html"
-        },
-        {
-          "title": "쿠팡 6천억대 '개인정보 과징금' 중 2천억원 효력 정지(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106100951004"
-        }
-      ]
-    },
-    {
-      "title": "무덤",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 23:20:00 -0800",
-      "news": [
-        {
-          "title": "2000년전 세계 누빈 흉노…무덤서 ‘로마 유리잔’까지 나왔다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261106/134977387/1"
-        },
-        {
-          "title": "표주박 모양 장식·유리잔…2천년 전 흉노 무덤에 남은 교류사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106051100005"
-        },
-        {
-          "title": "2000년전 흉노 무덤서 로마 유리잔·낙랑 계통 말장식 유물이!",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629400"
-        }
-      ]
-    },
-    {
-      "title": "테일즈위버 모바일",
-      "approx_traffic": "100+",
-      "published": "Thu, 5 Nov 2026 23:20:00 -0800",
-      "news": [
-        {
-          "title": "넥슨, '테일즈위버 모바일' 공개…FGT 참가자 모집",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106102400017"
-        },
-        {
-          "title": "넥슨, 추억의 게임 '테일즈위버' 모바일서 만난다",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/article/2026110616405864666"
-        },
-        {
-          "title": "넥슨, 신작 '테일즈위버 모바일' 첫 공개…FGT 참가자 모집",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261106151832"
-        }
-      ]
-    },
-    {
-      "title": "과태료",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 23:00:00 -0800",
-      "news": [
-        {
-          "title": "공시의무 위반시, 이제 과태료 부과기준이 달라집니다! - 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975107"
-        },
-        {
-          "title": "공정위, ’4회부터’ 붙던 공시 반복 위반 가중 1회로…최대 50%까지 By 알파경제 alphabiz",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2157356"
-        },
-        {
-          "title": "대기업집단 공시의무 반복 위반 땐 과태료 최대 50% 가중",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261103000430"
-        }
-      ]
-    },
-    {
-      "title": "죽음",
-      "approx_traffic": "5000+",
-      "published": "Thu, 5 Nov 2026 22:40:00 -0800",
-      "news": [
-        {
-          "title": "[단독]잇단 정신질환자 흉기 난동…정부, '비자의 입원' 제도 손질",
-          "source": "이데일리TV",
-          "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=01912246645643096&Kind=257"
-        },
-        {
-          "title": "우울증 약값 낮추고 위기 환자 이송까지…정신건강 안전망 손본다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/bio/welfare-medical/6343251"
-        },
-        {
-          "title": "하루 38.8명 죽음이 던진 과제",
-          "source": "프라임경제",
-          "url": "https://m.newsprime.co.kr/section_view.html?no=753812&menu=index"
-        }
-      ]
-    },
-    {
-      "title": "남대문시장",
-      "approx_traffic": "200+",
-      "published": "Thu, 5 Nov 2026 22:40:00 -0800",
-      "news": [
-        {
-          "title": "남대문 스카프 아저씨 \"경찰까지 출동\"…영업 재개 하루 만에 또 휴업 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/05/2026110514064120180"
-        },
-        {
-          "title": "말 없는 출근길 영상인데‥조회 수 300만",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6863584_37012.html"
-        },
-        {
-          "title": "[르포] 스카프 아저씨에 외국인까지… 남대문 상가 임대료는 올랐다",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/05/JY7PUGBGINGDHHRQNZRRALSWEQ/"
-        }
-      ]
-    },
-    {
-      "title": "래미안 원베일리",
-      "approx_traffic": "1000+",
-      "published": "Thu, 5 Nov 2026 22:40:00 -0800",
-      "news": [
-        {
-          "title": "[르포] 강남 은마아파트 가보니 “분담금에 세금 겹쳐 급락했지만… 매수는 현금부자만”",
-          "source": "대한경제",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611041530490450645"
-        },
-        {
-          "title": "“20억 하던 강남 아파트가 14억?”…강남 소형 아파트까지 가격 ‘뚝’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12200391"
-        },
-        {
-          "title": "강남권 조정, 외곽으로 번질까?...\"전월세난 주목해야\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202611052305343897"
-        }
-      ]
-    },
-    {
-      "title": "이용철",
-      "approx_traffic": "5000+",
-      "published": "Thu, 5 Nov 2026 22:30:00 -0800",
-      "news": [
-        {
-          "title": "[속보] 법무장관에 ‘대장동 특혜 의혹’ 이용철 방사청장 지명",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/politics_general/2026/11/06/GWOKLSMYBRGR3EAZXCNXDJCYFU/"
-        },
-        {
-          "title": "[속보] 박균택도 양부남도 아니었다···법무부장관 후보자에 이용철 방사청장",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202611061547011"
-        },
-        {
-          "title": "[속보] 靑 신임 정무수석에 최인호 전 더불어민주당 의원",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6863726_36911.html"
-        }
-      ]
-    },
-    {
-      "title": "동티모르",
-      "approx_traffic": "100+",
-      "published": "Thu, 5 Nov 2026 22:30:00 -0800",
-      "news": [
-        {
-          "title": "이 대통령 \"한·동티모르 협력 확대…미래 위한 동행으로 발전\"",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975198"
-        },
-        {
-          "title": "노벨평화상 수상자 오르타 \"韓 빛의 혁명, 노벨상 후보로 적극 추천\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443502"
-        },
-        {
-          "title": "치안협력을 위한 기술약정 체결식 참석한 김종철 경찰청장 직무대행",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261106_0021521796"
         }
       ]
     }
