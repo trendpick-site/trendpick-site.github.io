@@ -1,22 +1,44 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-07T17:14:40+00:00",
+  "fetched_at": "2026-11-07T18:11:59+00:00",
   "items": [
+    {
+      "title": "노팅엄 포레스트 대 맨 시티",
+      "approx_traffic": "2000+",
+      "published": "Sat, 7 Nov 2026 08:40:00 -0800",
+      "news": [
+        {
+          "title": "Premier League LIVE: Live text, radio & score updates from across the Premier League",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t"
+        },
+        {
+          "title": "Nottingham Forest vs. Man City LIVE: Premier League updates, score and commentary",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50408822/nottingham-forest-vs-man-city-live-premier-league-updates-score-commentary-result"
+        },
+        {
+          "title": "Nottingham Forest v Manchester City: Premier League – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live"
+        }
+      ]
+    },
     {
       "title": "일본 지진",
       "approx_traffic": "200+",
       "published": "Sat, 7 Nov 2026 08:00:00 -0800",
       "news": [
         {
-          "title": "일본 시즈오카현 하마마쓰시 북쪽서 규모 5.7 지진",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261108001400530"
+          "title": "일본 시즈오카현 하마마쓰시 북쪽 21km 지역 규모 5.7 지진",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706831"
         },
         {
-          "title": "일본 지바현 지바시 동남동쪽 202km 해역 규모 6.1 지진",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706275"
+          "title": "일본 지바현 지바시 동남동쪽 바다서 규모 6.1 지진 발생",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106183200530"
         },
         {
           "title": "일본 지바현 앞바다서 규모 6.1 지진···쓰나미 경보 없어",
@@ -31,19 +53,19 @@
       "published": "Sat, 7 Nov 2026 07:30:00 -0800",
       "news": [
         {
-          "title": "“분위기 어쩌다 이렇게 됐나”…이천수, 대표팀 갈등설에 조언",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261107/134983161/1"
+          "title": "심하은, 이천수♥ '1도 안 닮은' 키즈모델 딸 공개..\"매거진 나오는 날\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-07/202611070100051710005164"
         },
         {
-          "title": "'손흥민-96라인 불화설'...'前 국가대표' 이천수 작심 발언 \"축구에만 집중하길\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018354"
+          "title": "이천수 “은퇴 번복 창피해 10억 제안 거절”…♥심하은 “말렸어야 했다”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20110260"
         },
         {
-          "title": "김민재-황인범-황희찬 눈물의 은퇴 논란 '96즈'…모레노 감독 '직관'→대한민국 축구 '중심축'임은 변함없다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/11/05/GY2GENJVHBRDCNDGMQZGCZJYGI/"
+          "title": "이천수, 김지혜와 키스 신 세 자녀가 목격",
+          "source": "미디어파인",
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=94296"
         }
       ]
     },
@@ -53,6 +75,11 @@
       "published": "Sat, 7 Nov 2026 07:20:00 -0800",
       "news": [
         {
+          "title": "1249회 로또 1등 14명…1인당 20억3천만원",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611072132001"
+        },
+        {
           "title": "\"20억 대박\" 로또 1등 14명 당첨…서울에서만 7곳 최다",
           "source": "이데일리",
           "url": "https://www.edaily.co.kr/News/Read?newsId=03778566645643424&mediaCodeNo=257"
@@ -61,33 +88,50 @@
           "title": "“자동 7명·수동 7명 황금 비율”… 20억 배출 명당 어디?",
           "source": "경기일보",
           "url": "https://www.kyeonggi.com/article/20261107580125"
+        }
+      ]
+    },
+    {
+      "title": "하정우",
+      "approx_traffic": "1000+",
+      "published": "Sat, 7 Nov 2026 07:10:00 -0800",
+      "news": [
+        {
+          "title": "하정우, 12월 결혼 앞두고...확 달라진 비주얼 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110716222760934"
         },
         {
-          "title": "1249회 로또 1등 14명…1인당 20억3천만원",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611072132001"
+          "title": "'차정원♥' 하정우, 결혼 앞두고 달라진 비주얼 공개",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261107_0003859045"
+        },
+        {
+          "title": "‘차정원♥’ 하정우, 12월 결혼 앞두고 근황…한층 날렵해진 모습",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261107/134983571/1"
         }
       ]
     },
     {
       "title": "mainz vs bayern",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 7 Nov 2026 07:10:00 -0800",
       "news": [
         {
-          "title": "Bayern und Dortmund siegen und teilen weiter die Bundesliga-Spitze",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/de/news/bayern-und-dortmund-siegen-und-teilen-weiter-die-bundesliga-spitze-43741775"
+          "title": "Neuer avanciert zu Bayerns ältestem Bundesliga-Profi – Eberl äußert sich zu Wintertransfers",
+          "source": "Transfermarkt",
+          "url": "https://www.transfermarkt.ch/neuer-avanciert-zu-bayerns-altestem-bundesliga-profi-eberl-aussert-sich-zu-wintertransfers/view/news/490223"
         },
         {
-          "title": "Christoph Baumgartner trifft, Carney Chukwuemeka verletzt",
-          "source": "Kleine Zeitung",
-          "url": "https://www.kleinezeitung.at/artikel/41429588/christoph-baumgartner-trifft-carney-chukwuemeka-verletzt"
-        },
-        {
-          "title": "Video-Highlights: 1. FSV Mainz 05",
+          "title": "Video: Pressekonferenz nach 1. FSV Mainz 05",
           "source": "FC Bayern",
-          "url": "https://fcbayern.com/fcbayerntv/de/video/spiele/2026/11/1.-fsv-mainz-05-fc-bayern-die-highlights"
+          "url": "https://fcbayern.com/fcbayerntv/de/video/2026/11/die-pressekonferenz-nach-dem-spiel-beim-1.-fsv-mainz-05"
+        },
+        {
+          "title": "BILD-Einzelkritik: Note 4 für zwei Bayern-Stars",
+          "source": "BILD",
+          "url": "https://www.bild.de/sport/fussball/bild-einzelkritik-note-4-fuer-zwei-bayern-stars-6aef2caaa389bc337cfc9214"
         }
       ]
     },
@@ -97,19 +141,19 @@
       "published": "Sat, 7 Nov 2026 06:50:00 -0800",
       "news": [
         {
+          "title": "'장모 살해·아내 납치' 김성우 구속 기소...스토킹 끝에 범행",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611062253499852"
+        },
+        {
           "title": "[다시보기] 그것이 알고싶다 1511회",
           "source": "programs.sbs.co.kr",
           "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000639438"
         },
         {
-          "title": "[이슈5] \"보자마자 흉기 휘둘러\"…장모 살해 김성우 구속기소 外",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20261106018400038"
-        },
-        {
-          "title": "'장모 살해·아내 납치' 김성우 구속 기소...스토킹 끝에 범행",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611062253499852"
+          "title": "‘장모 살해·아내 납치’ 김성우 재판행…공소청 “보복으로 살해한 사실 규명”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611061541001"
         }
       ]
     },
@@ -146,14 +190,14 @@
           "url": "https://www.bbc.com/sport/football/live/cvlyd97z1k92t"
         },
         {
-          "title": "Preview: Birmingham City v Swansea City",
-          "source": "Birmingham City Football Club",
-          "url": "https://www.bcfc.com/pages/en/media-article/preview-birmingham-city-v-swansea-city"
+          "title": "Birmingham 2-1 Swansea: Jay Stansfield scores twice as Blues go top of the Championship",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13592975/birmingham-2-1-swansea-jay-stansfield-scores-twice-as-blues-go-top-of-the-championship"
         },
         {
-          "title": "Vitor Matos | We have to be ready for another tough challenge",
-          "source": "Swansea City",
-          "url": "https://www.swanseacity.com/news/vitor-matos-we-have-be-ready-another-tough-challenge"
+          "title": "Licensable picture: Birmingham City v Swansea City - Sky Bet Championship 2026/27",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/birmingham-city-v-swansea-city-sky-bet-championship-202627/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMEo2NUQxRw"
         }
       ]
     },
@@ -163,63 +207,19 @@
       "published": "Sat, 7 Nov 2026 06:20:00 -0800",
       "news": [
         {
-          "title": "Premier League LIVE: Live text, radio & score updates from across the Premier League",
+          "title": "Arsenal 1-0 Hull City, Fulham v Newcastle United, FA Cup and more: football – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-v-hull-city-fulham-v-newcastle-united-fa-cup-and-more-football-live"
+        },
+        {
+          "title": "Arsenal 1-0 Hull City: Martin Odegaard scores winner for Gunners",
           "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t"
+          "url": "https://www.bbc.com/sport/football/live/c64g1dvlpjzkt"
         },
         {
-          "title": "Team news: Arteta makes six changes for visit of Hull City",
-          "source": "Arsenal.com",
-          "url": "https://www.arsenal.com/news/team-news-arteta-makes-six-changes-for-visit-of-hull-city-aFm6p5H0sRkP"
-        },
-        {
-          "title": "Arteta on travel demands, Saka’s recovery, the Interlull and more",
-          "source": "Arseblog News",
-          "url": "https://arseblog.news/2026/11/arteta-on-travel-demands-sakas-recovery-the-interlull-and-more/"
-        }
-      ]
-    },
-    {
-      "title": "아스널 대 헐 시티",
-      "approx_traffic": "5000+",
-      "published": "Sat, 7 Nov 2026 06:10:00 -0800",
-      "news": [
-        {
-          "title": "아스널 0-0 헐 시티 (전반전): 선제골을 넣기 위한 공격에 박차를 가하고 있다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tiep-arsenal-0-0-hull-city-h2-tang-toc-tim-ban-mo-ty-so"
-        },
-        {
-          "title": "리버풀은 빌라, 유벤투스는 나폴리…11월 1~2일 유럽축구 일정 : 스포츠",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1064325"
-        },
-        {
-          "title": "잉글랜드 프리미어 리그 아스날 대 헐 시티 축구 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/the-thao/nhan-dinh-bong-da-arsenal-vs-hull-city-tai-giai-ngoai-hang-anh-1796210.ldo"
-        }
-      ]
-    },
-    {
-      "title": "풀럼 대 뉴캐슬",
-      "approx_traffic": "1000+",
-      "published": "Sat, 7 Nov 2026 06:10:00 -0800",
-      "news": [
-        {
-          "title": "프리미어 리그 풀럼 대 뉴캐슬 경기 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-fulham-vs-newcastle-tai-premier-league-1795650.ldo"
-        },
-        {
-          "title": "경기 프리뷰: 풀럼 vs 뉴캐슬, 11월 7일 22시: 정상 등극을 향한 결의.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-fulham-vs-newcastle-22h00-ngay-7-11-quyet-chi-vuon-len"
-        },
-        {
-          "title": "풀럼 vs 뉴캐슬 예측: 상위권 경쟁의 뜨거운 승부",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-fulham-vs-newcastle-diem-nong-cuoc-dua-top-dau"
+          "title": "Arsenal ratings: Captain Fantastic Odegaard takes matters into his own hands after Havertz froze in front of goal",
+          "source": "The Sun",
+          "url": "https://www.thesun.co.uk/sport/40948326/arsenal-player-ratings-hull-odegaard-madueke-havertz/"
         }
       ]
     }
