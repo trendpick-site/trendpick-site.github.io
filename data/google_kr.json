@@ -1,33 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-07T15:16:10+00:00",
+  "fetched_at": "2026-11-07T16:16:30+00:00",
   "items": [
+    {
+      "title": "mainz vs bayern",
+      "approx_traffic": "100+",
+      "published": "Sat, 7 Nov 2026 07:10:00 -0800",
+      "news": [
+        {
+          "title": "FSV Mainz 05: Gegen den FC Bayern München droht ein Debakel",
+          "source": "FAZ",
+          "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/mainz-05/fsv-mainz-05-gegen-den-fc-bayern-muenchen-droht-ein-debakel-accg-201659357.html"
+        },
+        {
+          "title": "Bundesliga: Wer zeigt / überträgt Mainz 05 vs. FC Bayern im TV und LIVE-STREAM?",
+          "source": "DAZN",
+          "url": "https://www.dazn.com/de-DE/news/fussball/bundesliga-wer-zeigt-uebertraegt-mainz-05-vs-fc-bayern-im-tv-und-live-stream/1cumq1imznl6c14skzqshjj7gr"
+        },
+        {
+          "title": "Verteidigen die Bayern gegen Mainz mit Urs Fischer ihren Leaderthorn?",
+          "source": "blue News",
+          "url": "https://www.bluewin.ch/de/sport/fussball/bundesliga/verteidigen-die-bayern-gegen-mainz-mit-urs-fischer-ihren-leaderthorn-li.3664998"
+        }
+      ]
+    },
+    {
+      "title": "김성우",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 06:50:00 -0800",
+      "news": [
+        {
+          "title": "[이슈5] \"보자마자 흉기 휘둘러\"…장모 살해 김성우 구속기소 外",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20261106018400038"
+        },
+        {
+          "title": "'장모 살해·아내 납치' 김성우 구속 기소...스토킹 끝에 범행",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611062253499852"
+        },
+        {
+          "title": "‘장모 살해·아내 납치’ 김성우 재판행…공소청 “보복으로 살해한 사실 규명”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611061541001"
+        }
+      ]
+    },
+    {
+      "title": "nepal premier league",
+      "approx_traffic": "100+",
+      "published": "Sat, 7 Nov 2026 06:50:00 -0800",
+      "news": [
+        {
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+          "source": "Cricbuzz",
+          "url": "https://www.cricbuzz.com/player-match-performance/match/177730/player/1739/batting"
+        },
+        {
+          "title": "Kathmandu Ghorkaj Defeats Lumbini Lions by 36 Runs in Nepal Premier League",
+          "source": "Ratopati",
+          "url": "https://english.ratopati.com/story/86002/undefeated-lumbinis-journey-halted-kathmandu-wins-by-36-runs"
+        },
+        {
+          "title": "Match Predictions: Nepal Premier League 2026 - 18th Match - Kathmandu Gorkhas vs Lumbini Lions - 7th November",
+          "source": "Cricket World",
+          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-18th-match-kathmandu-gorkhas-vs-lumbini-lions-7th-november/114221.htm"
+        }
+      ]
+    },
+    {
+      "title": "버밍엄 대 스완지 시티",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 06:30:00 -0800",
+      "news": [
+        {
+          "title": "Birmingham City v Swansea City: Championship stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cvlyd97z1k92t"
+        },
+        {
+          "title": "Preview: Birmingham City v Swansea City",
+          "source": "Birmingham City Football Club",
+          "url": "https://www.bcfc.com/pages/en/media-article/preview-birmingham-city-v-swansea-city"
+        },
+        {
+          "title": "Vitor Matos | We have to be ready for another tough challenge",
+          "source": "Swansea City",
+          "url": "https://www.swanseacity.com/news/vitor-matos-we-have-be-ready-another-tough-challenge"
+        }
+      ]
+    },
+    {
+      "title": "arsenal vs hull",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 06:20:00 -0800",
+      "news": [
+        {
+          "title": "Premier League LIVE: Live text, radio & score updates from across the Premier League",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t"
+        },
+        {
+          "title": "Arteta's update on Saka, Saliba and Konsa",
+          "source": "Arsenal.com",
+          "url": "https://www.arsenal.com/news/artetas-update-on-saka-saliba-and-konsa-aopoW1X0hn87"
+        },
+        {
+          "title": "Arsenal vs. Hull City match thread: back at home",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/arsenal-vs-hull-city-match-141009349.html"
+        }
+      ]
+    },
     {
       "title": "아스널 대 헐 시티",
       "approx_traffic": "2000+",
       "published": "Sat, 7 Nov 2026 06:10:00 -0800",
       "news": [
         {
-          "title": "노팅엄 포레스트 vs 맨체스터 시티 예측: 선두 자리를 노릴 기회",
+          "title": "아스널 0-0 헐 시티 (전반전) 생중계: 경기가 시작됩니다",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-nottingham-forest-vs-manchester-city-co-hoi-bam-duoi-ngoi-dau"
-        },
-        {
-          "title": "잉글랜드 프리미어 리그 아스날 대 헐 시티 축구 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/the-thao/nhan-dinh-bong-da-arsenal-vs-hull-city-tai-giai-ngoai-hang-anh-1796210.ldo"
+          "url": "https://www.vietnam.vn/ko/truc-tiep-arsenal-0-0-hull-city-h1-tran-dau-bat-dau"
         },
         {
           "title": "리버풀은 빌라, 유벤투스는 나폴리…11월 1~2일 유럽축구 일정 : 스포츠",
           "source": "재경일보",
           "url": "https://news.jkn.co.kr/post/1064325"
+        },
+        {
+          "title": "잉글랜드 프리미어 리그 아스날 대 헐 시티 축구 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/the-thao/nhan-dinh-bong-da-arsenal-vs-hull-city-tai-giai-ngoai-hang-anh-1796210.ldo"
         }
       ]
     },
     {
       "title": "풀럼 대 뉴캐슬",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sat, 7 Nov 2026 06:10:00 -0800",
       "news": [
         {
@@ -48,32 +158,15 @@
       ]
     },
     {
-      "title": "라이프치히 대 아우크스부르크",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 06:00:00 -0800",
-      "news": [
-        {
-          "title": "⚡ Kade shock for Leipzig! Augsburg's fast starters stun RB",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/kade-shock-leipzig-augsburgs-fast-143900988.html"
-        },
-        {
-          "title": "RB Leipzig vs Augsburg: German Bundesliga stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c6qxn7zrq0yet"
-        },
-        {
-          "title": "Confirmed Lineups: RB Leipzig vs. FC Augsburg",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/confirmed-lineups-rb-leipzig-vs-132500786.html"
-        }
-      ]
-    },
-    {
       "title": "도르트문트 대 엘버스베르크",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sat, 7 Nov 2026 06:00:00 -0800",
       "news": [
+        {
+          "title": "Borussia Dortmund vs Elversberg: German Bundesliga stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cwvgdj931ez7t"
+        },
         {
           "title": "Confirmed lineups: Borussia Dortmund vs. SV Elversberg",
           "source": "Yahoo Sports",
@@ -83,11 +176,28 @@
           "title": "Match Preview: BVB Host SV Elversberg",
           "source": "Fear The Wall",
           "url": "https://www.fearthewall.com/general/25389/match-preview-bvb-host-sv-elversberg"
+        }
+      ]
+    },
+    {
+      "title": "라이프치히 대 아우크스부르크",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 06:00:00 -0800",
+      "news": [
+        {
+          "title": "Licensable picture: Fall Weather in Bad Homburg",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/fall-weather-in-bad-homburg/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjExMDdYOTlYMjAzNjcx"
         },
         {
-          "title": "Borussia Dortmund vs Elversberg predictions for Saturday (2.30pm KO): Hosts to keep it tight and win to nil",
-          "source": "Squawka",
-          "url": "https://www.squawka.com/en/news/previews/borussia-dortmund-vs-elversberg-predictions-saturday-07-11-2026/"
+          "title": "2. Bundesliga: Keller strikes late to secure important Fürth victory over Kiel",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/2-bundesliga-keller-strikes-secure-145500365.html"
+        },
+        {
+          "title": "Licensable picture: Naumann Foundation Freedom Award",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/naumann-foundation-freedom-award/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjExMDdYOTlYMjAxOTY4"
         }
       ]
     },
@@ -97,129 +207,19 @@
       "published": "Sat, 7 Nov 2026 06:00:00 -0800",
       "news": [
         {
-          "title": "Roberto De Zerbi reaction: What did Spurs boss say after losing at Leeds?",
-          "source": "NBC Sports",
-          "url": "https://www.nbcsports.com/soccer/news/roberto-de-zerbi-reaction-what-did-spurs-boss-say-after-losing-at-leeds"
-        },
-        {
-          "title": "Every word De Zerbi said on crunch Tottenham meeting, Williams-Barnett dilemma and injuries",
-          "source": "Football London",
-          "url": "https://www.football.london/tottenham-hotspur-fc/news/roberto-de-zerbi-transcript-leeds-34874141"
+          "title": "Roberto De Zerbi reveals Tottenham injury latest in new four-man Leeds update",
+          "source": "London Evening Standard",
+          "url": "https://www.standard.co.uk/sport/football/tottenham-injury-news-leeds-savio-bergvall-b1303848.html"
         },
         {
           "title": "De Zerbi on when Tosin, Bergvall, Mudryk and Savio could return",
           "source": "Tottenham Hotspur",
           "url": "https://www.tottenhamhotspur.com/news/1182782/de-zerbi-on-when-tosin-bergvall-mudryk-and-savio-could-return"
-        }
-      ]
-    },
-    {
-      "title": "마인츠 05 대 바이에른",
-      "approx_traffic": "5000+",
-      "published": "Sat, 7 Nov 2026 05:40:00 -0800",
-      "news": [
-        {
-          "title": "“96라인 은퇴설” 김민재, 바이에른 뮌헨 선발 명단 제외…‘92라인’ 이재성은 선발 출격",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112906194"
         },
         {
-          "title": "“국가대표 은퇴해라!” 논란의 김민재, 마인츠전 예상 선발 명단 포함…이재성은 벤치 출발 전망, 코리안 더비 성사될까",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/football/2026/11/07/GVRGIY3CMNRDQMZQGNTDOYRQG4/"
-        },
-        {
-          "title": "바이에른 뮌헨 김민재, 2경기 연속 선발 제외…마인츠 이재성은 선발 출격",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026110722362619001"
-        }
-      ]
-    },
-    {
-      "title": "페드로 포로",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 05:20:00 -0800",
-      "news": [
-        {
-          "title": "‘월드컵 위너’ 포로, “가장 존경하는 선수는 쏘니”…손흥민 향한 진심",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1647554"
-        },
-        {
-          "title": "포로에게 손흥민은 은인이었다…“존경할 수밖에 없는 사람, 토트넘 전설임에도 날 가족처럼 받아줬어”",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100360"
-        },
-        {
-          "title": "손흥민을 너무 좋아한다! “호날두vs메시? 쏘니!” 극찬했던 토트넘 수비수, 이번엔 “존경할 만한 사람”",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697959"
-        }
-      ]
-    },
-    {
-      "title": "ลีดส์ พบ สเปอร์ส",
-      "approx_traffic": "100+",
-      "published": "Sat, 7 Nov 2026 05:20:00 -0800",
-      "news": [
-        {
-          "title": "การคาดการณ์ผลการแข่งขันระหว่างลีดส์กับท็อตแนม: จุดสนใจสำคัญในการลุ้นแย่งตำแหน่งสูงสุด",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-leeds-vs-tottenham-diem-nong-cuoc-dua-top-dau"
-        },
-        {
-          "title": "สำรองแผลงฤทธิ์ ! ลีดส์ เปิดบ้านเฉือน สเปอร์ส 1-0 หยุดสถิติ สเปอร์ส ชนะรวดใน พรีเมียร์ ลีก 2026/27",
-          "source": "Mainstand",
-          "url": "https://mainstand.co.th/index.php/th/news/1/article/27491"
-        },
-        {
-          "title": "ผลบอลสด ลีดส์ ยูไนเต็ด พบ ทอตแนม ฮอตสเปอร์ พรีเมียร์ลีก 2026-27 ผลบอลวันนี้",
-          "source": "www.thairath.co.th",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2970858"
-        }
-      ]
-    },
-    {
-      "title": "검사",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 04:50:00 -0800",
-      "news": [
-        {
-          "title": "\"대통령 탈옥법\" 국힘 장외집회‥\"진상 드러날까 두렵나\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863931_37004.html"
-        },
-        {
-          "title": "“이재명 탈옥법” 국힘, ‘조작기소 특검법’ 규탄 도심 집회",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261107/134983683/1"
-        },
-        {
-          "title": "검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과",
-          "source": "뉴스타파",
-          "url": "https://newstapa.org/article/HxPrq"
-        }
-      ]
-    },
-    {
-      "title": "닥터x 하얀 마피아의 시대",
-      "approx_traffic": "1000+",
-      "published": "Sat, 7 Nov 2026 04:30:00 -0800",
-      "news": [
-        {
-          "title": "“이것이 제 선택입니다” 투표장을 등지고 생명을 살리겠다는 일념으로 수술실로 발걸음을 옮긴 손현주의 선택!",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC483056078"
-        },
-        {
-          "title": "‘닥터X’ 김지원·손현주·이정은, ‘구서대 어벤져스’…8세 소아암 환자 살렸다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611072334003"
-        },
-        {
-          "title": "‘닥터X’도 ‘꿀알바’도…사회적 메시지-재미, 두 마리 토끼 잡기 어려운 이유",
-          "source": "미디어오늘",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338264"
+          "title": "Three Spurs stars ruled out of Leeds clash",
+          "source": "Hayters",
+          "url": "https://hayters.com/three-spurs-stars-ruled-out-of-leeds-clash/"
         }
       ]
     }
