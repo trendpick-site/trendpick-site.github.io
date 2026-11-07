@@ -1,27 +1,93 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-07T16:16:30+00:00",
+  "fetched_at": "2026-11-07T17:14:40+00:00",
   "items": [
+    {
+      "title": "일본 지진",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 08:00:00 -0800",
+      "news": [
+        {
+          "title": "일본 시즈오카현 하마마쓰시 북쪽서 규모 5.7 지진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261108001400530"
+        },
+        {
+          "title": "일본 지바현 지바시 동남동쪽 202km 해역 규모 6.1 지진",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706275"
+        },
+        {
+          "title": "일본 지바현 앞바다서 규모 6.1 지진···쓰나미 경보 없어",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611062024001"
+        }
+      ]
+    },
+    {
+      "title": "이천수",
+      "approx_traffic": "100+",
+      "published": "Sat, 7 Nov 2026 07:30:00 -0800",
+      "news": [
+        {
+          "title": "“분위기 어쩌다 이렇게 됐나”…이천수, 대표팀 갈등설에 조언",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261107/134983161/1"
+        },
+        {
+          "title": "'손흥민-96라인 불화설'...'前 국가대표' 이천수 작심 발언 \"축구에만 집중하길\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018354"
+        },
+        {
+          "title": "김민재-황인범-황희찬 눈물의 은퇴 논란 '96즈'…모레노 감독 '직관'→대한민국 축구 '중심축'임은 변함없다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/11/05/GY2GENJVHBRDCNDGMQZGCZJYGI/"
+        }
+      ]
+    },
+    {
+      "title": "복권",
+      "approx_traffic": "5000+",
+      "published": "Sat, 7 Nov 2026 07:20:00 -0800",
+      "news": [
+        {
+          "title": "\"20억 대박\" 로또 1등 14명 당첨…서울에서만 7곳 최다",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03778566645643424&mediaCodeNo=257"
+        },
+        {
+          "title": "“자동 7명·수동 7명 황금 비율”… 20억 배출 명당 어디?",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261107580125"
+        },
+        {
+          "title": "1249회 로또 1등 14명…1인당 20억3천만원",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611072132001"
+        }
+      ]
+    },
     {
       "title": "mainz vs bayern",
       "approx_traffic": "100+",
       "published": "Sat, 7 Nov 2026 07:10:00 -0800",
       "news": [
         {
-          "title": "FSV Mainz 05: Gegen den FC Bayern München droht ein Debakel",
-          "source": "FAZ",
-          "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/mainz-05/fsv-mainz-05-gegen-den-fc-bayern-muenchen-droht-ein-debakel-accg-201659357.html"
+          "title": "Bayern und Dortmund siegen und teilen weiter die Bundesliga-Spitze",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/de/news/bayern-und-dortmund-siegen-und-teilen-weiter-die-bundesliga-spitze-43741775"
         },
         {
-          "title": "Bundesliga: Wer zeigt / überträgt Mainz 05 vs. FC Bayern im TV und LIVE-STREAM?",
-          "source": "DAZN",
-          "url": "https://www.dazn.com/de-DE/news/fussball/bundesliga-wer-zeigt-uebertraegt-mainz-05-vs-fc-bayern-im-tv-und-live-stream/1cumq1imznl6c14skzqshjj7gr"
+          "title": "Christoph Baumgartner trifft, Carney Chukwuemeka verletzt",
+          "source": "Kleine Zeitung",
+          "url": "https://www.kleinezeitung.at/artikel/41429588/christoph-baumgartner-trifft-carney-chukwuemeka-verletzt"
         },
         {
-          "title": "Verteidigen die Bayern gegen Mainz mit Urs Fischer ihren Leaderthorn?",
-          "source": "blue News",
-          "url": "https://www.bluewin.ch/de/sport/fussball/bundesliga/verteidigen-die-bayern-gegen-mainz-mit-urs-fischer-ihren-leaderthorn-li.3664998"
+          "title": "Video-Highlights: 1. FSV Mainz 05",
+          "source": "FC Bayern",
+          "url": "https://fcbayern.com/fcbayerntv/de/video/spiele/2026/11/1.-fsv-mainz-05-fc-bayern-die-highlights"
         }
       ]
     },
@@ -31,6 +97,11 @@
       "published": "Sat, 7 Nov 2026 06:50:00 -0800",
       "news": [
         {
+          "title": "[다시보기] 그것이 알고싶다 1511회",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000639438"
+        },
+        {
           "title": "[이슈5] \"보자마자 흉기 휘둘러\"…장모 살해 김성우 구속기소 外",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/MYH20261106018400038"
@@ -39,11 +110,6 @@
           "title": "'장모 살해·아내 납치' 김성우 구속 기소...스토킹 끝에 범행",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_ln/0103_202611062253499852"
-        },
-        {
-          "title": "‘장모 살해·아내 납치’ 김성우 재판행…공소청 “보복으로 살해한 사실 규명”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611061541001"
         }
       ]
     },
@@ -102,26 +168,26 @@
           "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t"
         },
         {
-          "title": "Arteta's update on Saka, Saliba and Konsa",
+          "title": "Team news: Arteta makes six changes for visit of Hull City",
           "source": "Arsenal.com",
-          "url": "https://www.arsenal.com/news/artetas-update-on-saka-saliba-and-konsa-aopoW1X0hn87"
+          "url": "https://www.arsenal.com/news/team-news-arteta-makes-six-changes-for-visit-of-hull-city-aFm6p5H0sRkP"
         },
         {
-          "title": "Arsenal vs. Hull City match thread: back at home",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/arsenal-vs-hull-city-match-141009349.html"
+          "title": "Arteta on travel demands, Saka’s recovery, the Interlull and more",
+          "source": "Arseblog News",
+          "url": "https://arseblog.news/2026/11/arteta-on-travel-demands-sakas-recovery-the-interlull-and-more/"
         }
       ]
     },
     {
       "title": "아스널 대 헐 시티",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Sat, 7 Nov 2026 06:10:00 -0800",
       "news": [
         {
-          "title": "아스널 0-0 헐 시티 (전반전) 생중계: 경기가 시작됩니다",
+          "title": "아스널 0-0 헐 시티 (전반전): 선제골을 넣기 위한 공격에 박차를 가하고 있다.",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tiep-arsenal-0-0-hull-city-h1-tran-dau-bat-dau"
+          "url": "https://www.vietnam.vn/ko/truc-tiep-arsenal-0-0-hull-city-h2-tang-toc-tim-ban-mo-ty-so"
         },
         {
           "title": "리버풀은 빌라, 유벤투스는 나폴리…11월 1~2일 유럽축구 일정 : 스포츠",
@@ -154,72 +220,6 @@
           "title": "풀럼 vs 뉴캐슬 예측: 상위권 경쟁의 뜨거운 승부",
           "source": "Vietnam.vn",
           "url": "https://www.vietnam.vn/ko/nhan-dinh-fulham-vs-newcastle-diem-nong-cuoc-dua-top-dau"
-        }
-      ]
-    },
-    {
-      "title": "도르트문트 대 엘버스베르크",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 06:00:00 -0800",
-      "news": [
-        {
-          "title": "Borussia Dortmund vs Elversberg: German Bundesliga stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cwvgdj931ez7t"
-        },
-        {
-          "title": "Confirmed lineups: Borussia Dortmund vs. SV Elversberg",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/confirmed-lineups-borussia-dortmund-vs-132600612.html"
-        },
-        {
-          "title": "Match Preview: BVB Host SV Elversberg",
-          "source": "Fear The Wall",
-          "url": "https://www.fearthewall.com/general/25389/match-preview-bvb-host-sv-elversberg"
-        }
-      ]
-    },
-    {
-      "title": "라이프치히 대 아우크스부르크",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 06:00:00 -0800",
-      "news": [
-        {
-          "title": "Licensable picture: Fall Weather in Bad Homburg",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/fall-weather-in-bad-homburg/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjExMDdYOTlYMjAzNjcx"
-        },
-        {
-          "title": "2. Bundesliga: Keller strikes late to secure important Fürth victory over Kiel",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/2-bundesliga-keller-strikes-secure-145500365.html"
-        },
-        {
-          "title": "Licensable picture: Naumann Foundation Freedom Award",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/naumann-foundation-freedom-award/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjExMDdYOTlYMjAxOTY4"
-        }
-      ]
-    },
-    {
-      "title": "리즈 유나이티드 대 토트넘 홋스퍼 fc 라인업",
-      "approx_traffic": "100+",
-      "published": "Sat, 7 Nov 2026 06:00:00 -0800",
-      "news": [
-        {
-          "title": "Roberto De Zerbi reveals Tottenham injury latest in new four-man Leeds update",
-          "source": "London Evening Standard",
-          "url": "https://www.standard.co.uk/sport/football/tottenham-injury-news-leeds-savio-bergvall-b1303848.html"
-        },
-        {
-          "title": "De Zerbi on when Tosin, Bergvall, Mudryk and Savio could return",
-          "source": "Tottenham Hotspur",
-          "url": "https://www.tottenhamhotspur.com/news/1182782/de-zerbi-on-when-tosin-bergvall-mudryk-and-savio-could-return"
-        },
-        {
-          "title": "Three Spurs stars ruled out of Leeds clash",
-          "source": "Hayters",
-          "url": "https://hayters.com/three-spurs-stars-ruled-out-of-leeds-clash/"
         }
       ]
     }
