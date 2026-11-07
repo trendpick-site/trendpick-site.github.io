@@ -1,55 +1,121 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-07T03:27:23+00:00",
+  "fetched_at": "2026-11-07T04:29:12+00:00",
   "items": [
+    {
+      "title": "아이뉴스24",
+      "approx_traffic": "2000+",
+      "published": "Fri, 6 Nov 2026 19:10:00 -0800",
+      "news": [
+        {
+          "title": "이제 미국엔 데이터센터를 못 짓는 걸까",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706616"
+        },
+        {
+          "title": "텍사스-조지아 등 美민주 주지사 당선인들 “AI 데이터센터 규제”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261106/134982640/2"
+        },
+        {
+          "title": "‘세금 더 내고, 이름 바꾸고’…성난 데이터센터 민심에 빅테크 백기 들까",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611070700031"
+        }
+      ]
+    },
+    {
+      "title": "kc t1",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 18:50:00 -0800",
+      "news": [
+        {
+          "title": "AEW's Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
+          "source": "The Sporting Tribune",
+          "url": "https://www.thesportingtribune.com/2026/11/06/claudio-castagnoli-worlds-2026-aew-league-of-legends"
+        },
+        {
+          "title": "Impregnable 'Peyz-Keria' Duo... T1 Beats KC 3-1 to Face BLG in Semifinals",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/28298/impregnable-peyz-keria-duo-t1-beats-kc-3-1-to-face-blg-in-semifinals"
+        },
+        {
+          "title": "Karmine Corp vs T1: Why T1 Will Crush KC at Worlds 2026",
+          "source": "The Loadout",
+          "url": "https://theloadout.com/karmine-corp-vs-t1"
+        }
+      ]
+    },
+    {
+      "title": "타릭 스쿠발",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 18:40:00 -0800",
+      "news": [
+        {
+          "title": "\"날 떠나지마\" 최대 4억불 초대어 투수 잔류 원하는 다저스, 스넬까지 나섰다…결말은",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/11/06/MY2TQMJQGUZDQOBYMNQTSYZRMU/"
+        },
+        {
+          "title": "\"설득 끝냈다\" 스쿠발과 형-동생하더니…양대리그 CY 수상자 핵폭탄급 의미심장 한마디 \"잔류 가능성 있어\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018048"
+        },
+        {
+          "title": "[오늘의 MLB] (11/5) 2026-27 메이저리그 FA 랭킹 TOP 20",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/mlbtoday/mlb/contents/261106173425396jg"
+        }
+      ]
+    },
+    {
+      "title": "nz vs ind",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 18:10:00 -0800",
+      "news": [
+        {
+          "title": "India A vs New Zealand A Live Score, 3rd Unofficial Test Day 1 Updates",
+          "source": "NDTV Sports",
+          "url": "https://sports.ndtv.com/cricket/india-a-vs-new-zealand-a-live-score-3rd-unofficial-test-day-1-live-updates-yashasvi-jaiswal-jasprit-bumrah-ravindra-jadeja-12294328"
+        },
+        {
+          "title": "Sports News Today: Rishabh Pant set to miss third unofficial Test, Chris Lynn's update",
+          "source": "Mid-Day",
+          "url": "https://www.mid-day.com/sports/cricket/article/sports-news-today-rishabh-pant-set-to-miss-third-unofficial-test-chris-lynn-update-23658837"
+        },
+        {
+          "title": "Jasprit Bumrah returns to red-ball cricket for India A in Lincoln on Saturday",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/sports/cricket/jasprit-bumrah-return-india-a-new-zealand-a-lincoln-fitness-test-10952356/"
+        }
+      ]
+    },
     {
       "title": "사건반장",
       "approx_traffic": "200+",
       "published": "Fri, 6 Nov 2026 18:10:00 -0800",
       "news": [
         {
-          "title": "조개구이 리필까지 하고 먹튀…무단횡단도 했다",
+          "title": "\"강아지인 줄\"…파란 불에 횡단보도 건너는 너구리",
           "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12326939"
+          "url": "https://news.jtbc.co.kr/video/NB12326940"
         },
         {
-          "title": "'무전취식' 방송에 식당 수십곳 당했다…\"나 뜨면 경찰 긴장\" 조롱까지 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/04/2026110409234736027"
+          "title": "\"저거 강아지인가 봐~\" 초록불에 건너온 ‘너구리’?",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/video/ND10779067"
         },
         {
-          "title": "성북구 보문동 식당가, 인터넷 방송 켠 '무전취식' 남성에 피해 호소",
-          "source": "스페셜타임스",
-          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=481484"
-        }
-      ]
-    },
-    {
-      "title": "nz vs ind",
-      "approx_traffic": "500+",
-      "published": "Fri, 6 Nov 2026 18:10:00 -0800",
-      "news": [
-        {
-          "title": "NZ vs Ind, 2nd ODI, Live Blog - Windy Wellington is rainy too",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-odi-1539438/live-match-blog"
-        },
-        {
-          "title": "Why Wellington's Weather Could Test India's Cricket Superstars",
-          "source": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/short-videos/briefs/why-wellingtons-weather-could-test-indias-cricket-superstars/videoshow/135618131.cms"
-        },
-        {
-          "title": "India tour of New Zealand 2026 2nd ODI: Match preview, head-to-head and streaming details",
-          "source": "SportsMint Media",
-          "url": "https://sportsmintmedia.com/india-tour-of-new-zealand-2026-2nd-odi-match-preview-head-to-head-and-streaming-details/"
+          "title": "\"내가 뜨면 경찰서 초토화\" 보문동 자영업자 ‘킬러’ 유튜버 논란",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/video/NB12326440"
         }
       ]
     },
     {
       "title": "유언",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Fri, 6 Nov 2026 18:00:00 -0800",
       "news": [
         {
@@ -58,26 +124,26 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=06064726645642768&mediaCodeNo=257"
         },
         {
-          "title": "“이 돈, 내연녀줘” 남편 마지막 유언...아내는 진짜 1억 뺏겼다",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261106130047620"
-        },
-        {
           "title": "“삼남매 말고 사위에 전재산” 치매 아빠의 유언장",
           "source": "문화일보",
           "url": "https://www.munhwa.com/article/11629202"
+        },
+        {
+          "title": "“이 돈, 내연녀줘” 남편 마지막 유언...아내는 진짜 1억 뺏겼다",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261106130047620"
         }
       ]
     },
     {
       "title": "미래에셋",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Fri, 6 Nov 2026 18:00:00 -0800",
       "news": [
         {
-          "title": "미래에셋증권, 해킹으로 고객 3천여 명·임직원 3만여 명 정보 유출",
+          "title": "미래에셋증권 해킹‥고객 3,800명 계좌번호 유출",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6863876_36932.html"
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6863893_36967.html"
         },
         {
           "title": "미래에셋증권도 뚫렸다…고객·임직원 3만9000명 정보 유출",
@@ -115,111 +181,45 @@
     },
     {
       "title": "잠수함",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Fri, 6 Nov 2026 17:50:00 -0800",
       "news": [
         {
-          "title": "한국 원잠 사업 스타트, 암초는 美 민주당",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/11/07/H3XJMEDRAVFCBEQPI3MPYP4PAQ/"
+          "title": "“한국 역대 최강 잠수함”…美 매체가 서희함에 주목한 이유 [밀리터리+]",
+          "source": "나우뉴스",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261106601014"
         },
         {
-          "title": "한국형 핵잠, 타당성조사 면제…내년 착수 속도내기",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106104100504"
+          "title": "\"정보 47만 건·10억 원 유출\"...금융당국, 전 금융권 대책 회의",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611061059592785"
         },
         {
-          "title": "\"존재 그 자체가 위협\"‥'8천 톤급' 국산 핵잠수함 내년 개발 착수",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863817_37004.html"
+          "title": "한화에어로스페이스 잠수함용 리튬배터리 상용화, 이부환 전기 추진 선박용 배터리 사업 진출 타진",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451404"
         }
       ]
     },
     {
-      "title": "blg",
+      "title": "new zealand vs india",
       "approx_traffic": "200+",
       "published": "Fri, 6 Nov 2026 17:50:00 -0800",
       "news": [
         {
-          "title": "Karmine Corp vs T1: Why T1 Will Crush KC at Worlds 2026",
-          "source": "The Loadout",
-          "url": "https://theloadout.com/karmine-corp-vs-t1"
+          "title": "New Zealand vs India Live Score, 2nd ODI: Auqib Nabi, Kamboj strike inside PowerPlay; NZ 29/3 (10) vs IND",
+          "source": "Sportstar",
+          "url": "https://sportstar.thehindu.com/cricket/ind-nz-live-score-2nd-odi-wellington-weather-news-updates-india-new-zealand/article71675947.ece"
         },
         {
-          "title": "AEW's Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
-          "source": "The Sporting Tribune",
-          "url": "https://www.thesportingtribune.com/2026/11/06/claudio-castagnoli-worlds-2026-aew-league-of-legends"
+          "title": "India A vs New Zealand A Live Score, 3rd Unofficial Test Day 1 Updates",
+          "source": "NDTV Sports",
+          "url": "https://sports.ndtv.com/cricket/india-a-vs-new-zealand-a-live-score-3rd-unofficial-test-day-1-live-updates-yashasvi-jaiswal-jasprit-bumrah-ravindra-jadeja-12294328"
         },
         {
-          "title": "T1 became the final Worlds 2026 semifinalist after beating Karmine Corp",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/de/articles/t1-become-the-final-worlds-2026-semifinalist-after-beating-karmine-corp/en"
-        }
-      ]
-    },
-    {
-      "title": "기뢰",
-      "approx_traffic": "500+",
-      "published": "Fri, 6 Nov 2026 17:40:00 -0800",
-      "news": [
-        {
-          "title": "이란 혁명수비대 \"호르무즈 해협서 유조선 2척 기뢰와 충돌\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106174900099"
-        },
-        {
-          "title": "이란 연계 선박들, 호르무즈 오만만 해저 케이블 위 '수상한 배회'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/middleeast-africa/6346328"
-        },
-        {
-          "title": "이란 “호르무즈서 유조선 2척 기뢰 충돌·화재”···해상 당국 확인은 없어",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611061923001"
-        }
-      ]
-    },
-    {
-      "title": "보험",
-      "approx_traffic": "2000+",
-      "published": "Fri, 6 Nov 2026 17:00:00 -0800",
-      "news": [
-        {
-          "title": "“혼자 늙는 것도 서러운데, 다 가져가야만 했냐”…고령 1인가구 보험료 ‘쑥’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12201283"
-        },
-        {
-          "title": "4년 새 60% 폭증…소득보다 2.7배 더 뛴 60세 이상 1인 가구 보험료",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261107503545?OutUrl=google"
-        },
-        {
-          "title": "혼자 사는 어르신, 보험료 부담 4년새 60% 증가",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/view/2026/11/605557/"
-        }
-      ]
-    },
-    {
-      "title": "지스타",
-      "approx_traffic": "500+",
-      "published": "Fri, 6 Nov 2026 17:00:00 -0800",
-      "news": [
-        {
-          "title": "AGF 2026, 참가사 106곳 역대 최대…전년보다 49% 증가",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20110777"
-        },
-        {
-          "title": "\"지스타 대신 AGF로 간다\"…'오타쿠'에 베팅하는 게임사들",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026110614741"
-        },
-        {
-          "title": "'귀멸의 칼날 무한성편' 막차 탔다…'AGF 2026' 참가사 106개 확정 최대 규모",
-          "source": "https://cinejin.co.kr/ko-kr",
-          "url": "https://cinejin.co.kr/article/395036564963"
+          "title": "Sports News Today: Rishabh Pant set to miss third unofficial Test, Chris Lynn's update",
+          "source": "Mid-Day",
+          "url": "https://www.mid-day.com/sports/cricket/article/sports-news-today-rishabh-pant-set-to-miss-third-unofficial-test-chris-lynn-update-23658837"
         }
       ]
     }
