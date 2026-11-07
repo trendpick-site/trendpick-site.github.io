@@ -1,29 +1,79 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-07T13:32:08+00:00",
+  "fetched_at": "2026-11-07T14:22:45+00:00",
   "items": [
+    {
+      "title": "검사",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 04:50:00 -0800",
+      "news": [
+        {
+          "title": "“이재명 탈옥법” 국힘, ‘조작기소 특검법’ 규탄 도심 집회",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261107/134983683/1"
+        },
+        {
+          "title": "\"대통령 탈옥법\" 국힘 장외집회‥\"진상 드러날까 두렵나\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863931_37004.html"
+        },
+        {
+          "title": "검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과",
+          "source": "뉴스타파",
+          "url": "https://newstapa.org/article/HxPrq"
+        }
+      ]
+    },
+    {
+      "title": "닥터x 하얀 마피아의 시대",
+      "approx_traffic": "1000+",
+      "published": "Sat, 7 Nov 2026 04:30:00 -0800",
+      "news": [
+        {
+          "title": "‘닥터X’ 김영민, 참 멋없는데… 누구보다 멋진 ‘진짜 의사’였다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611070054003"
+        },
+        {
+          "title": "“이것이 제 선택입니다” 투표장을 등지고 생명을 살리겠다는 일념으로 수술실로 발걸음을 옮긴 손현주의 선택!",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC483056078"
+        },
+        {
+          "title": "'닥터X' 김지원X이정은, 사제 합동 역대 최대 규모 수술...실패 없는 성공일까 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110713267224990"
+        }
+      ]
+    },
+    {
+      "title": "sbs",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 04:30:00 -0800",
+      "news": [
+        {
+          "title": "Cha Cheong-hwa joins SBS drama 9 to 6 as corporate support head",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-entertainment/2026/11/05/5HE6SVDTEVGWTOJWGZ4ORT5ECI/"
+        },
+        {
+          "title": "Cha Chung-hwa Cast as Political Management Head in 'Nine to Six'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/kpop-culture-en/2026/11/05/7IKXEKZ3XBDTTETMY6DI6FDFCE/"
+        },
+        {
+          "title": "Worker in 50s Dies After Fall at Construction Site in Anseong",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008835408"
+        }
+      ]
+    },
     {
       "title": "persija jakarta vs persebaya",
       "approx_traffic": "200+",
       "published": "Sat, 7 Nov 2026 04:00:00 -0800",
-      "news": [
-        {
-          "title": "Persija vs Persebaya at JIS, Macan Kemayoran Can Seize Top Spot Without Dony Tri",
-          "source": "Aktualita.co",
-          "url": "https://aktualita.co/en/football/persija-vs-persebaya-at-jis-macan-kemayoran-can-seize-top-spot-without-dony-tri"
-        },
-        {
-          "title": "Persija vs Persebaya Tonight, November 7, 2026: Shin Tae-yong Targets Victory, Yuran 100 Percent Ready",
-          "source": "Aktualita.co",
-          "url": "https://aktualita.co/en/sports/persija-vs-persebaya-tonight-november-7-2026-shin-tae-yong-targets-victory-yuran-100-percent-ready"
-        },
-        {
-          "title": "This Week's BRI Super League Schedule: Persija vs Persebaya to Borneo FC vs PSM, Check the Live Broadcasts",
-          "source": "Aktualita.co",
-          "url": "https://aktualita.co/en/sports/this-weeks-bri-super-league-schedule-persija-vs-persebaya-to-borneo-fc-vs-psm-check-the-live-broadcasts"
-        }
-      ]
+      "news": []
     },
     {
       "title": "agf",
@@ -36,14 +86,14 @@
           "url": "https://perspectives.agf.com/the-fed-in-uncharted-territory-with-new-communication-policy/"
         },
         {
-          "title": "The fed’s new approach",
-          "source": "thecabin.net",
-          "url": "https://www.thecabin.net/opinion/the-fed-s-new-approach/article_d26c91eb-79bb-5078-b8a9-c73cabad0629.html"
-        },
-        {
           "title": "AGF Management : The Fed in Uncharted Territory with New Communication Policy",
           "source": "www.marketscreener.com",
           "url": "https://www.marketscreener.com/news/agf-management-the-fed-in-uncharted-territory-with-new-communication-policy-ce785fd2da8cff2c"
+        },
+        {
+          "title": "AGF Management (TSX:AGF.B): High Earnings Per Employee Shows the Leverage of an Asset-Light Investment Manager",
+          "source": "kalkine.ca",
+          "url": "https://kalkine.ca/news/financial/agf-management-tsxagfb-high-earnings-per-employee-shows-the-leverage-of-an-asset-light-investment-manager"
         }
       ]
     },
@@ -53,19 +103,41 @@
       "published": "Sat, 7 Nov 2026 03:50:00 -0800",
       "news": [
         {
-          "title": "[날씨] 내일 중부 중심 비... 경기 북동부·강원 눈",
+          "title": "[날씨] 충청권 올가을 첫 영하권...주말 나들이 옷차림 두툼",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202611071926171521"
+          "url": "https://www.ytn.co.kr/_ln/0115_202611071646040743"
         },
         {
-          "title": "설악산은 벌써 영하 9도라니…서울·인천·대전 곳곳 올가을 첫얼음",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611071002001"
+          "title": "’입동’ 추위 서울 첫얼음…내일 중부 비·강원 눈",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261107225235CVg"
         },
         {
-          "title": "'입동 추위' 서울 첫 얼음 관측‥내일은 비 소식",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863939_37004.html"
+          "title": "입동 추위에 중무장",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261107_0021523191&pID=1&cID=&sID=1&type=photoMain&idx=6"
+        }
+      ]
+    },
+    {
+      "title": "leeds vs spurs",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 03:50:00 -0800",
+      "news": [
+        {
+          "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t"
+        },
+        {
+          "title": "Leeds United v Tottenham Hotspur: Premier League – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live"
+        },
+        {
+          "title": "Team News: Injury updates on Calvert-Lewin, Okafor & Stach",
+          "source": "Leeds United | Official Website - Leeds United",
+          "url": "https://www.leedsunited.com/en/news/team-news-injury-updates-on-calvert-lewin-okafor-and-stach"
         }
       ]
     },
@@ -92,46 +164,24 @@
       ]
     },
     {
-      "title": "leeds vs spurs",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 03:50:00 -0800",
-      "news": [
-        {
-          "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t"
-        },
-        {
-          "title": "Team News: Injury updates on Calvert-Lewin, Okafor & Stach",
-          "source": "Leeds United | Official Website - Leeds United",
-          "url": "https://www.leedsunited.com/en/news/team-news-injury-updates-on-calvert-lewin-okafor-and-stach"
-        },
-        {
-          "title": "Premier League live: score, updates and analysis",
-          "source": "The Times",
-          "url": "https://www.thetimes.com/sport/football/article/premier-league-live-score-analysis-commentary-latest-news-68ktq0k38"
-        }
-      ]
-    },
-    {
       "title": "유방암",
       "approx_traffic": "2000+",
       "published": "Sat, 7 Nov 2026 03:40:00 -0800",
       "news": [
         {
-          "title": "“일주일에 두 번쯤이야” 했는데…‘이것’ 즐겨 먹은 여성들 유방암 위험 높았다 [헬시타임]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20111438"
+          "title": "27세 女의대생이 두달만에 사망한 무서운 병[의료톡톡]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629554"
         },
         {
-          "title": "\"스트레스 풀려고 가끔만 먹었는데?\"…일주일 딱 2번에 암 위험 28% 높아 '날벼락'",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110515040815942"
+          "title": "\"진단 두 달 만에 사망\"…27세 의대생 앗아간 '가장 독한 암'의 정체 [헬스톡]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611060911192468"
         },
         {
-          "title": "[김길원의 헬스노트] 단맛 즐긴 여성, 유방암 위험 28% 높았다…과일은?",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1189768"
+          "title": "유방암을 섬유선종으로 자가 진단한 27세 의대 졸업생... 박사과정 진학 앞두고 숨져",
+          "source": "인사이트",
+          "url": "https://www.insight.co.kr/news/580573"
         }
       ]
     },
@@ -154,56 +204,6 @@
           "title": "No. 19 Iowa football prepares to face Northwestern and its new Wildcat Wall in road matchup",
           "source": "The Gazette",
           "url": "https://www.thegazette.com/sports/college/iowa-football/no-19-iowa-football-prepares-to-face-northwestern-and-its-new-wildcat-wall-in-road/article_8065a5cc-4cef-43cf-b4fb-83e4d16ac904.html"
-        }
-      ]
-    },
-    {
-      "title": "погода завтра",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 03:40:00 -0800",
-      "news": []
-    },
-    {
-      "title": "thời tiết ngày mai",
-      "approx_traffic": "1000+",
-      "published": "Sat, 7 Nov 2026 03:40:00 -0800",
-      "news": [
-        {
-          "title": "Không khí lạnh mạnh sắp gây mưa dông, miền Bắc chuyển rét từ 9.11",
-          "source": "Tổng Liên Đoàn Lao Động Việt Nam",
-          "url": "https://congdoanvietnam.vn/thoi-su/khong-khi-lanh-manh-sap-gay-mua-dong-mien-bac-chuyen-ret-tu-911-47912.tld"
-        },
-        {
-          "title": "Dự báo thời tiết đêm 7 và ngày 8/11",
-          "source": "Báo Lào Cai điện tử",
-          "url": "https://baolaocai.vn/du-bao-thoi-tiet-dem-7-va-ngay-811-post913854.html"
-        },
-        {
-          "title": "[Video] Dự báo thời tiết đêm nay và ngày mai 8/11/2026: Bắc Bộ sắp đón không khí lạnh, Bắc Trung Bộ mưa lớn",
-          "source": "Báo Nhân Dân điện tử",
-          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-8112026-bac-bo-sap-don-khong-khi-lanh-bac-trung-bo-mua-lon-post1000913.html"
-        }
-      ]
-    },
-    {
-      "title": "리즈 유나이티드 대 토트넘",
-      "approx_traffic": "20000+",
-      "published": "Sat, 7 Nov 2026 03:30:00 -0800",
-      "news": [
-        {
-          "title": "\"맨유전 3시간 불꽃 난상토론\" 데제르비의 토트넘, '3연승' 대반전 이유가 밝혀졌다! 최하위→9위→오늘밤 리즈 원정 승리시 '톱5' 눈앞",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/07/GRRDKNZQMM2GMODCMVSDCNDFG4/"
-        },
-        {
-          "title": "‘EPL 20→9위’ 수직 상승! 616일, 손흥민과 이별 후 처음 터진 상승세! 토트넘의 반등 이유 “신뢰 회...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611072029003"
-        },
-        {
-          "title": "‘토트넘이 3연승 했다고? 우리도 따라하자!’ 유럽은 지금 ‘합숙 열풍’...나폴리-아탈란타도 합세",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100349"
         }
       ]
     }
