@@ -1,12 +1,128 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-07T06:26:31+00:00",
+  "fetched_at": "2026-11-07T07:41:23+00:00",
   "items": [
+    {
+      "title": "미야지",
+      "approx_traffic": "100+",
+      "published": "Fri, 6 Nov 2026 22:30:00 -0800",
+      "news": [
+        {
+          "title": "[포토] 미야지 '식지 않는 인기' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/07/2026110713554747083"
+        },
+        {
+          "title": "\"삼성 떠났지만 애정은 더 커졌다\" 방출된 日 투수의 특별한 라팍 방문…\"다시 한국에서 뛰고 싶다\" [KS3]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/07/GJSDKZLBGEYGGYJZMI2DKOJWMQ/"
+        },
+        {
+          "title": "대구 찾은 삼성의 '깜짝 응원군'…미야지 \"충분히 우승 가능!\"[KS]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261107_0003858766"
+        }
+      ]
+    },
+    {
+      "title": "통장",
+      "approx_traffic": "1000+",
+      "published": "Fri, 6 Nov 2026 22:00:00 -0800",
+      "news": [
+        {
+          "title": "국민은행 'KB아동수당통장' 출시…최고 연 3.1% 금리",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106070100002"
+        },
+        {
+          "title": "KB국민은행, 아동수당 받으면 최고 연 3.1% 파킹통장 출시 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2163513"
+        },
+        {
+          "title": "국민銀, 최고 연 3.1% ‘KB아동수당통장’ 출시 [코주부]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20111185"
+        }
+      ]
+    },
+    {
+      "title": "디아즈",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 21:40:00 -0800",
+      "news": [
+        {
+          "title": "삼성 배찬승, 첫 PS 세이브에 포효 \"좀 더 멋있게 해보겠다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106137800007"
+        },
+        {
+          "title": "반갑다! 밀어내기",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8202157"
+        },
+        {
+          "title": "[사진]사토시, 이재희! 땡큐",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/MRQTCZJZMJSDQMJYGVSDIZDEMQ/"
+        }
+      ]
+    },
+    {
+      "title": "안현민",
+      "approx_traffic": "500+",
+      "published": "Fri, 6 Nov 2026 21:30:00 -0800",
+      "news": [
+        {
+          "title": "[포토] 안현민 '뛰겠습니다' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110620061228498"
+        },
+        {
+          "title": "수비 출전 부담됐나…KT 안현민, 타석 침묵에 수비도 아쉬웠다[KS3]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6346224"
+        },
+        {
+          "title": "\"도영아, 보고있니?\" PO 홈런 김도영에 연락했다는 안현민이 KS 홈런 치고 김도영에게 보낸 메시지 [베이스볼S]",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89154/22000639319"
+        }
+      ]
+    },
     {
       "title": "tving",
       "approx_traffic": "200+",
       "published": "Fri, 6 Nov 2026 21:20:00 -0800",
+      "news": []
+    },
+    {
+      "title": "lakers vs trail blazers",
+      "approx_traffic": "100+",
+      "published": "Fri, 6 Nov 2026 21:20:00 -0800",
+      "news": [
+        {
+          "title": "Portland Trail Blazers vs Los Angeles Lakers Nov 6, 2026 Box Scores",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/game/por-vs-lal-0022600032/box-score"
+        },
+        {
+          "title": "Player Grades: Cavs at Thunder: Donovan Mitchell’s fourth-quarter outing not enough",
+          "source": "Fear The Sword",
+          "url": "https://www.fearthesword.com/cavs-analysis/53922/player-grades-cavs-at-thunder-donovan-mitchells-fourth-quarter-outing-not-enough"
+        },
+        {
+          "title": "Gilgeous-Alexander's 85 in two games: Canadians in the NBA this week",
+          "source": "Squawka",
+          "url": "https://www.squawka.com/ca/news/nba/canadians-nba-this-week-6-november-2026/"
+        }
+      ]
+    },
+    {
+      "title": "창원 lg 대 고양 소노",
+      "approx_traffic": "500+",
+      "published": "Fri, 6 Nov 2026 21:00:00 -0800",
       "news": []
     },
     {
@@ -20,9 +136,9 @@
           "url": "https://www.yna.co.kr/view/AKR20261107033200007"
         },
         {
-          "title": "[사진]안현민과 'KS 4차전 선제 솔로포 기쁨 나누는 장진혁",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/GA2TSYJYHEYTIZJYMQZTSM3BME/"
+          "title": "[사진]박승규, 2안타 3타점 맹폭",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/07/MNSTGZBYG44WKMDDMRTGCZRSGI/"
         },
         {
           "title": "[KS4] '2타수 2안타' 장진혁, 삼성 장찬희 상대 선제 솔로 홈런 폭발",
@@ -64,130 +180,14 @@
           "url": "https://www.yna.co.kr/view/AKR20261107034700007"
         },
         {
-          "title": "[사진]한국시리즈 4차전 역투 펼치는 삼성 선발 장찬희",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/07/GUYGINTDMNQTANJYMJQTEOJXGE/"
-        },
-        {
-          "title": "‘AG 유도 금메달리스트’ 허미미, 한국시리즈 4차전 시구한다…가수 홍이삭 애국가 제창 [KS4] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/07/202611071215771021O"
-        }
-      ]
-    },
-    {
-      "title": "배트맨",
-      "approx_traffic": "500+",
-      "published": "Fri, 6 Nov 2026 20:40:00 -0800",
-      "news": [
-        {
-          "title": "Absolute Batman #25 by Nick Dragotta/Jim Lee/Clay Mann Sells For $19K",
-          "source": "Bleeding Cool News",
-          "url": "https://bleedingcool.com/comics/absolute-batman-25-by-nick-dragotta-jim-lee-clay-mann-sells-for-19k/"
-        },
-        {
-          "title": "The Absolute Batman #25 Clay Mann Cover Jumps From $8 To $60 In A Day",
-          "source": "Bleeding Cool News",
-          "url": "https://bleedingcool.com/comics/the-absolute-batman-25-clay-mann-cover-jumps-from-8-to-60-in-a-day/"
-        },
-        {
-          "title": "Scarlett Johansson Breaks Silence on ‘The Batman Part II’ Role: “It Was Very Hard to Figure Out”",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/articles/scarlett-johansson-breaks-silence-batman-230310752.html"
-        }
-      ]
-    },
-    {
-      "title": "삼전 닉스",
-      "approx_traffic": "10000+",
-      "published": "Fri, 6 Nov 2026 20:10:00 -0800",
-      "news": [
-        {
-          "title": "\"삼전닉스 믿고 버텼는데\"…증권가가 내놓은 뜻밖의 조언 [종목+]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026110610246"
-        },
-        {
-          "title": "주가폭락했는데 삼전닉스 LTA 믿어도 되나…마이크론 사례 보니",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443491"
-        },
-        {
-          "title": "“韓메모리, 1~3년치 완판됐지만 중장기 설비투자 차질 우려”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261106/134982628/2"
-        }
-      ]
-    },
-    {
-      "title": "한국대학신문",
-      "approx_traffic": "500+",
-      "published": "Fri, 6 Nov 2026 20:00:00 -0800",
-      "news": []
-    },
-    {
-      "title": "대치동 은마아파트",
-      "approx_traffic": "10000+",
-      "published": "Fri, 6 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "주택공급 발목잡는 ‘재초환’… 은마아파트 가구당 4억 내야",
+          "title": "[사진]만루 위기 등판 이재희",
           "source": "조선일보",
-          "url": "https://www.chosun.com/economy/real_estate/2026/11/07/3FFT6HIJ7NG6JEFMGED6OS6BXA/"
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/MMZTQZJQMJSWCZDDG5SWMOBWGY/"
         },
         {
-          "title": "영등포 2.2억·강북 1.2억…재초환 억대 부담금에 '닥공' 발목",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12200669"
-        },
-        {
-          "title": "공사비·추가 분담금·재초환까지…강남 재건축 지연 우려",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20111373"
-        }
-      ]
-    },
-    {
-      "title": "조작 기소 의혹 특검법 통과에 따른 핵심 쟁점과 최신 뉴스 알려줘",
-      "approx_traffic": "500+",
-      "published": "Fri, 6 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "정청래의 ‘조희대 탄핵’ 주장이 대통령 공격인 이유…김웅의 분석",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629487"
-        },
-        {
-          "title": "與, '조작기소 특검 장외투쟁' 국힘에 \"본질 외면한 채 국민 호도\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6863902_36911.html"
-        },
-        {
-          "title": "주가 5000 붕괴-집값 오르는데 … 집권세력은 '이재명 방탄-당권 투쟁'에만 골몰",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/06/2026110600216.html"
-        }
-      ]
-    },
-    {
-      "title": "환자",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "독감 입원환자 2배 이상 늘어…예방접종·신속 진료 당부",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975199&pWise=sub&pWiseSub=R6"
-        },
-        {
-          "title": "초등학교 곳곳서 ‘콜록콜록’…독감 다시 확산세",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706178"
-        },
-        {
-          "title": "독감 2주 연속 증가세...\"예방접종 서둘러야\"",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611061102587709"
+          "title": "‘올림픽 은메달-AG 금메달’ 세계 최고 유도선수도 KS 마운드는 떨렸다 “정말 영광스러워, 선수들 대단하다” [KS4]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112905869"
         }
       ]
     }
