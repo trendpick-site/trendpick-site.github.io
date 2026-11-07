@@ -1,225 +1,188 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-07T04:29:12+00:00",
+  "fetched_at": "2026-11-07T05:27:08+00:00",
   "items": [
     {
+      "title": "삼전 닉스",
+      "approx_traffic": "5000+",
+      "published": "Fri, 6 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "\"삼전닉스 믿고 버텼는데\"…증권가가 내놓은 뜻밖의 조언 [종목+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110610246"
+        },
+        {
+          "title": "주가폭락했는데 삼전닉스 LTA 믿어도 되나…마이크론 사례 보니",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443491"
+        },
+        {
+          "title": "“韓메모리, 1~3년치 완판됐지만 중장기 설비투자 차질 우려”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261106/134982628/2"
+        }
+      ]
+    },
+    {
+      "title": "한국대학신문",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 20:00:00 -0800",
+      "news": []
+    },
+    {
+      "title": "조작 기소 의혹 특검법 통과에 따른 핵심 쟁점과 최신 뉴스 알려줘",
+      "approx_traffic": "1000+",
+      "published": "Fri, 6 Nov 2026 20:00:00 -0800",
+      "news": [
+        {
+          "title": "국민의힘 ‘조작기소 특검법’ 장외투쟁…민주당 “진실규명마저 반대하나”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611071138001"
+        },
+        {
+          "title": "한동훈, 與 '조작기소 특검법'에 \"권력자에 특권 주는 '특권법'\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261107_0003858866"
+        },
+        {
+          "title": "李, 본인사건 수사 특검 ‘셀프 임명’ 할 수 있다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/11/07/F3CQ5CKKLVGSNJZNGDMQKZPGTI/"
+        }
+      ]
+    },
+    {
+      "title": "환자",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 20:00:00 -0800",
+      "news": [
+        {
+          "title": "독감 입원환자 2배 이상 늘어…예방접종·신속 진료 당부",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975199&pWise=sub&pWiseSub=R6"
+        },
+        {
+          "title": "초등학교 곳곳서 ‘콜록콜록’…독감 다시 확산세",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706178"
+        },
+        {
+          "title": "독감 2주 연속 증가세…소아·청소년 비중 높아",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261106124824JMX"
+        }
+      ]
+    },
+    {
+      "title": "미스 글로브",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 19:50:00 -0800",
+      "news": [
+        {
+          "title": "Nguyen Thu Thao가 2026년 미스 글로브로 선정되었습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nguyen-thu-thao-dang-quang-hoa-hau-hoan-cau-the-miss-globe-2026"
+        },
+        {
+          "title": "키 171cm의 준우승자는 2026년 미스 글로브 인터내셔널에서 베트남 대표로 출전할 예정이다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/a-hau-cao-1-71m-dai-dien-viet-nam-thi-hoa-hau-hoan-cau-quoc-te-2026"
+        },
+        {
+          "title": "응우옌 투 타오는 2026 미스 글로브 민족 의상 부문에서 톱 6에 진출했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nguyen-thu-thao-vao-top-6-trang-phuc-dan-toc-tai-the-miss-globe-2026"
+        }
+      ]
+    },
+    {
+      "title": "기만",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 19:50:00 -0800",
+      "news": []
+    },
+    {
+      "title": "백종원",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 19:40:00 -0800",
+      "news": [
+        {
+          "title": "피자 배달 알바 나선 백종원…아내 소유진도 댓글",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629480"
+        },
+        {
+          "title": "백종원 뭐하고 사나 봤더니…“오토바이 타고 피자 배달”",
+          "source": "www.twig24.com",
+          "url": "https://www.twig24.com/news/entertainments/celebrity/2026/11/06/20261106500185"
+        },
+        {
+          "title": "백종원 더본코리아 대표, '빽보이피자' 하루 배달 기사로 나서",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106041700030"
+        }
+      ]
+    },
+    {
+      "title": "멧 갈라",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 19:40:00 -0800",
+      "news": [
+        {
+          "title": "2027년, 메트로폴리탄 미술관은 ‘평범한 옷’에 주목합니다",
+          "source": "Vogue korea",
+          "url": "https://www.vogue.co.kr/2026/11/06/2027%EB%85%84-%EB%A9%94%ED%8A%B8%EB%A1%9C%ED%8F%B4%EB%A6%AC%ED%83%84-%EB%AF%B8%EC%88%A0%EA%B4%80%EC%9D%80-%ED%8F%89%EB%B2%94%ED%95%9C-%EC%98%B7%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%A9%EB%8B%88/"
+        },
+        {
+          "title": "쿠튀르에서 블루 진까지: 메트로폴리탄 미술관, 2027년 봄을 맞아 일상의 패션에 주목하다",
+          "source": "Hypebeast.KR",
+          "url": "https://hypebeast.kr/2026/11/the-met-gala-2027-pivots-theme-exhibition-extraordinary-fashion-and-the-poetics-of-the-everyday"
+        },
+        {
+          "title": "평범한 티셔츠도 예술이 된다. 2027 멧 갈라가 주목하는 일상의 패션 – 마리끌레르 코리아",
+          "source": "마리끌레르 코리아",
+          "url": "https://www.marieclairekorea.com/fashion/2026/11/met/"
+        }
+      ]
+    },
+    {
+      "title": "mcr",
+      "approx_traffic": "100+",
+      "published": "Fri, 6 Nov 2026 19:20:00 -0800",
+      "news": [
+        {
+          "title": "My Chemical Romance goes to No. 1 on the Billboard albums chart",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6027352/my-chemical-romance-goes-to-no-1-on-the-billboard-albums-chart"
+        },
+        {
+          "title": "How Big a Deal Is My Chemical Romance Scoring Its First No. 1 Album With a 20-Year-Old LP?",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/my-chemical-romance-black-parade-billboard-200-number-one-1236374049/"
+        },
+        {
+          "title": "My Chemical Romance Top the ‘Billboard’ 200 With 20-Year-Old Album",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-billboard-200-number-one-1235650097/"
+        }
+      ]
+    },
+    {
       "title": "아이뉴스24",
-      "approx_traffic": "2000+",
+      "approx_traffic": "1000+",
       "published": "Fri, 6 Nov 2026 19:10:00 -0800",
       "news": [
         {
-          "title": "이제 미국엔 데이터센터를 못 짓는 걸까",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706616"
+          "title": "그라비티 게임 테크, 7일 방콕서 ‘라그나로크 페스타 2026’ 개최",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261106135203"
         },
         {
-          "title": "텍사스-조지아 등 美민주 주지사 당선인들 “AI 데이터센터 규제”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261106/134982640/2"
-        },
-        {
-          "title": "‘세금 더 내고, 이름 바꾸고’…성난 데이터센터 민심에 빅테크 백기 들까",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611070700031"
-        }
-      ]
-    },
-    {
-      "title": "kc t1",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 18:50:00 -0800",
-      "news": [
-        {
-          "title": "AEW's Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
-          "source": "The Sporting Tribune",
-          "url": "https://www.thesportingtribune.com/2026/11/06/claudio-castagnoli-worlds-2026-aew-league-of-legends"
-        },
-        {
-          "title": "Impregnable 'Peyz-Keria' Duo... T1 Beats KC 3-1 to Face BLG in Semifinals",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/28298/impregnable-peyz-keria-duo-t1-beats-kc-3-1-to-face-blg-in-semifinals"
-        },
-        {
-          "title": "Karmine Corp vs T1: Why T1 Will Crush KC at Worlds 2026",
-          "source": "The Loadout",
-          "url": "https://theloadout.com/karmine-corp-vs-t1"
-        }
-      ]
-    },
-    {
-      "title": "타릭 스쿠발",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 18:40:00 -0800",
-      "news": [
-        {
-          "title": "\"날 떠나지마\" 최대 4억불 초대어 투수 잔류 원하는 다저스, 스넬까지 나섰다…결말은",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/06/MY2TQMJQGUZDQOBYMNQTSYZRMU/"
-        },
-        {
-          "title": "\"설득 끝냈다\" 스쿠발과 형-동생하더니…양대리그 CY 수상자 핵폭탄급 의미심장 한마디 \"잔류 가능성 있어\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018048"
-        },
-        {
-          "title": "[오늘의 MLB] (11/5) 2026-27 메이저리그 FA 랭킹 TOP 20",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/mlbtoday/mlb/contents/261106173425396jg"
-        }
-      ]
-    },
-    {
-      "title": "nz vs ind",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 18:10:00 -0800",
-      "news": [
-        {
-          "title": "India A vs New Zealand A Live Score, 3rd Unofficial Test Day 1 Updates",
-          "source": "NDTV Sports",
-          "url": "https://sports.ndtv.com/cricket/india-a-vs-new-zealand-a-live-score-3rd-unofficial-test-day-1-live-updates-yashasvi-jaiswal-jasprit-bumrah-ravindra-jadeja-12294328"
-        },
-        {
-          "title": "Sports News Today: Rishabh Pant set to miss third unofficial Test, Chris Lynn's update",
-          "source": "Mid-Day",
-          "url": "https://www.mid-day.com/sports/cricket/article/sports-news-today-rishabh-pant-set-to-miss-third-unofficial-test-chris-lynn-update-23658837"
-        },
-        {
-          "title": "Jasprit Bumrah returns to red-ball cricket for India A in Lincoln on Saturday",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/sports/cricket/jasprit-bumrah-return-india-a-new-zealand-a-lincoln-fitness-test-10952356/"
-        }
-      ]
-    },
-    {
-      "title": "사건반장",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 18:10:00 -0800",
-      "news": [
-        {
-          "title": "\"강아지인 줄\"…파란 불에 횡단보도 건너는 너구리",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/video/NB12326940"
-        },
-        {
-          "title": "\"저거 강아지인가 봐~\" 초록불에 건너온 ‘너구리’?",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/video/ND10779067"
-        },
-        {
-          "title": "\"내가 뜨면 경찰서 초토화\" 보문동 자영업자 ‘킬러’ 유튜버 논란",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/video/NB12326440"
-        }
-      ]
-    },
-    {
-      "title": "유언",
-      "approx_traffic": "2000+",
-      "published": "Fri, 6 Nov 2026 18:00:00 -0800",
-      "news": [
-        {
-          "title": "삼남매 두고 \"전재산은 사위에\" 유언장 남긴 父 속사정",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=06064726645642768&mediaCodeNo=257"
-        },
-        {
-          "title": "“삼남매 말고 사위에 전재산” 치매 아빠의 유언장",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629202"
-        },
-        {
-          "title": "“이 돈, 내연녀줘” 남편 마지막 유언...아내는 진짜 1억 뺏겼다",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261106130047620"
-        }
-      ]
-    },
-    {
-      "title": "미래에셋",
-      "approx_traffic": "500+",
-      "published": "Fri, 6 Nov 2026 18:00:00 -0800",
-      "news": [
-        {
-          "title": "미래에셋증권 해킹‥고객 3,800명 계좌번호 유출",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6863893_36967.html"
-        },
-        {
-          "title": "미래에셋증권도 뚫렸다…고객·임직원 3만9000명 정보 유출",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12326943"
-        },
-        {
-          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261107025000011"
-        }
-      ]
-    },
-    {
-      "title": "오일 머니",
-      "approx_traffic": "100+",
-      "published": "Fri, 6 Nov 2026 18:00:00 -0800",
-      "news": [
-        {
-          "title": "새로운 골프? ‘오일 머니’ 끊기니 1년도 못 버텼다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/11/07/VBSXSSMMDREP5MG74E7LKRKLCY/"
-        },
-        {
-          "title": "DP월드투어, 디섐보에게 출전권 제안…LIV 선수들 어디로?",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106039500007"
-        },
-        {
-          "title": "LIV 골프, 자금난 끝 5년 만에 해산",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611070904125ZS"
-        }
-      ]
-    },
-    {
-      "title": "잠수함",
-      "approx_traffic": "5000+",
-      "published": "Fri, 6 Nov 2026 17:50:00 -0800",
-      "news": [
-        {
-          "title": "“한국 역대 최강 잠수함”…美 매체가 서희함에 주목한 이유 [밀리터리+]",
-          "source": "나우뉴스",
-          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261106601014"
-        },
-        {
-          "title": "\"정보 47만 건·10억 원 유출\"...금융당국, 전 금융권 대책 회의",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611061059592785"
-        },
-        {
-          "title": "한화에어로스페이스 잠수함용 리튬배터리 상용화, 이부환 전기 추진 선박용 배터리 사업 진출 타진",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451404"
-        }
-      ]
-    },
-    {
-      "title": "new zealand vs india",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 17:50:00 -0800",
-      "news": [
-        {
-          "title": "New Zealand vs India Live Score, 2nd ODI: Auqib Nabi, Kamboj strike inside PowerPlay; NZ 29/3 (10) vs IND",
-          "source": "Sportstar",
-          "url": "https://sportstar.thehindu.com/cricket/ind-nz-live-score-2nd-odi-wellington-weather-news-updates-india-new-zealand/article71675947.ece"
-        },
-        {
-          "title": "India A vs New Zealand A Live Score, 3rd Unofficial Test Day 1 Updates",
-          "source": "NDTV Sports",
-          "url": "https://sports.ndtv.com/cricket/india-a-vs-new-zealand-a-live-score-3rd-unofficial-test-day-1-live-updates-yashasvi-jaiswal-jasprit-bumrah-ravindra-jadeja-12294328"
-        },
-        {
-          "title": "Sports News Today: Rishabh Pant set to miss third unofficial Test, Chris Lynn's update",
-          "source": "Mid-Day",
-          "url": "https://www.mid-day.com/sports/cricket/article/sports-news-today-rishabh-pant-set-to-miss-third-unofficial-test-chris-lynn-update-23658837"
+          "title": "그라비티 게임 테크(GGT), 라그나로크 IP 글로벌 게임 페스티벌 ‘RAGNAROK FESTA 2026’ 개최!",
+          "source": "케이벤치",
+          "url": "https://kbench.com/?q=node/283122"
         }
       ]
     }
