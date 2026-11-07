@@ -1,220 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-07T22:14:39+00:00",
+  "fetched_at": "2026-11-07T23:12:45+00:00",
   "items": [
     {
-      "title": "인터 마이애미 대 샬럿",
+      "title": "노시환",
       "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 13:10:00 -0800",
+      "published": "Sat, 7 Nov 2026 14:00:00 -0800",
       "news": [
         {
-          "title": "인터 마이애미 대 샬럿 경기 생중계: VAR 판독 결과 샬럿의 골이 취소되었습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-inter-miami-vs-charlotte-charlotte-bi-var-tu-choi-ban-thang"
-        },
-        {
-          "title": "인터 마이애미 대 샬럿 경기 예측: 손에 땀을 쥐게 하는 접전이 예상됩니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-inter-miami-vs-charlotte-hua-hen-man-doi-cong"
-        },
-        {
-          "title": "인터 마이애미 vs 샬럿 생중계: 선발 라인업",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-inter-miami-vs-charlotte-doi-hinh-xuat-phat"
-        }
-      ]
-    },
-    {
-      "title": "심폐소생술",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 13:10:00 -0800",
-      "news": [
-        {
-          "title": "동두천소방서, 여성단체협의회 심폐소생술 교육",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336165"
-        },
-        {
-          "title": "의왕시, 공무원 대상 심폐소생술 등 응급처치 교육실시",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261106500631"
-        },
-        {
-          "title": "동두천소방서, 여성단체 회원 대상 심폐소생술 교육",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261106580267"
-        }
-      ]
-    },
-    {
-      "title": "real madrid",
-      "approx_traffic": "100+",
-      "published": "Sat, 7 Nov 2026 13:10:00 -0800",
-      "news": [
-        {
-          "title": "Valencia - Real Madrid en directo | El Madrid golea al Valencia en Mestalla y mete presión al Barça y al Atlético",
-          "source": "EL PAÍS",
-          "url": "https://elpais.com/deportes/futbol/2026-11-07/valencia-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html"
-        },
-        {
-          "title": "Partidos de hoy de fútbol: horario y dónde ver por TV",
-          "source": "Mundo Deportivo",
-          "url": "https://www.mundodeportivo.com/horarios/futbol/20261107/1004248097/partidos-hoy-futbol-horario-ver-tv.html"
-        },
-        {
-          "title": "Un gol 'made in Valverde' abre la lata en Mestalla",
-          "source": "MARCA",
-          "url": "https://www.marca.com/futbol/real-madrid/2026/11/07/gol-made-in-valverde-abre-lata-mestalla.html"
-        }
-      ]
-    },
-    {
-      "title": "드라마",
-      "approx_traffic": "1000+",
-      "published": "Sat, 7 Nov 2026 13:00:00 -0800",
-      "news": [
-        {
-          "title": "\"넷플릭스에선 대박 나는데\"…한국 드라마 업계의 비명 [김예랑의 K컬처인사이드]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611060276H"
-        },
-        {
-          "title": "드라마 업계 12개 단체 \"제작 감소로 K드라마 생태계 붕괴 위기, 국가가 지원해야\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/04/4V2DMJFDBBGYXAOL73AJ5T4ZU4/"
-        },
-        {
-          "title": "[박동선의 머니&엔터] '좋은 콘텐츠'만으론 부족하다…K-콘텐츠 산업의 새 화두",
-          "source": "뉴스컬처",
-          "url": "https://www.nc.press/news/articleView.html?idxno=630205"
-        }
-      ]
-    },
-    {
-      "title": "습관",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 13:00:00 -0800",
-      "news": [
-        {
-          "title": "“아침에 ‘이 습관’ 없으면 신장에 돌 생긴다”…美 의사 경고 나왔다 [헬시타임]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20111484"
-        },
-        {
-          "title": "“콩팥에 돌 생길라”…‘이 음료’ 과다 섭취땐 신장건강 악영향",
-          "source": "농민신문",
-          "url": "https://www.nongmin.com/article/20261104500125"
-        },
-        {
-          "title": "작은 돌멩이 하나가 주는 극심한 고통: 부주의한 자에게는 값비싼 교훈이다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/con-dau-thau-xuong-tu-vien-soi-nho-bai-hoc-dat-gia-cho-nguoi-chu-quan"
-        }
-      ]
-    },
-    {
-      "title": "valencia vs madrid",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 13:00:00 -0800",
-      "news": [
-        {
-          "title": "Real Madrid legend pokes fun at Valencia star during La Liga clash",
-          "source": "Get Spanish Football News",
-          "url": "https://getfootballnewsspain.com/real-madrid-legend-pokes-fun-at-valencia-star-during-la-liga-clash/"
-        },
-        {
-          "title": "‘This is pointless, s**t’ – Valencia star explodes in half-time interview vs Real Madrid",
-          "source": "Get Spanish Football News",
-          "url": "https://getfootballnewsspain.com/this-is-pointless-st-valencia-star-explodes-in-half-time-interview-vs-real-madrid/"
-        },
-        {
-          "title": "Maffeo at Valencia-Real Madrid half-time: It's shit doing this interview",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/maffeo-valencia-real-madrid-half-205700078.html"
-        }
-      ]
-    },
-    {
-      "title": "이창훈",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 13:00:00 -0800",
-      "news": [
-        {
-          "title": "\"그때 난리가 났다\"...이창훈, 송혜교와 '열애설' 입 열었다 - 머니투데이",
+          "title": "\"난 영원한 한화맨이야!\" 눈물로 떠났는데…뉴욕서 깜짝 재회하나, 노시환 잠재력 깨운 '타격 일타강사' 메츠행 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110715595549078"
+          "url": "https://www.mt.co.kr/sports/2026/11/07/202611061754778235O"
         },
         {
-          "title": "이창훈 “송혜교와 열애설? ‘원조교제’ 억지에 욕하기도”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629502"
-        },
-        {
-          "title": "이창훈, 송혜교와 열애설 부인 \"\"원조교제' 표현에 쌍욕\"..이젠 \"알아서 생각해\" ('유정 그리고 주정')",
+          "title": "'충격 전망' 노시환 307억 포기할까...\"장타력 있지만, 한국 잔류 확률 더 높아\" 美 통계사이트 포스팅 실패 예상",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/07/GBTGMMZSME2WIMRTGFRDMNDCGA/"
+          "url": "https://www.chosun.com/sports/world-baseball/2026/11/07/GY3TEOBZG4ZDGZRTHA3WGN3CME/"
+        },
+        {
+          "title": "모두를 놀라게 한 노시환의 MLB 도전…빅리그 입성 가능성은? [스한 위클리]",
+          "source": "한국아이닷컴",
+          "url": "https://www.hankooki.com/news/articleView.html?idxno=347993"
         }
       ]
     },
     {
-      "title": "잠실주공5단지 아파트",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 12:50:00 -0800",
+      "title": "순위",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 14:00:00 -0800",
       "news": [
         {
-          "title": "30년 기다린 잠실주공5 재건축 올스톱 위기…사업시행인가 무용지물 가능성",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/06/2026110602056.html"
+          "title": "탄화성은 전국 예산 수입 순위에서 9위를 차지하고 있습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/thanh-hoa-thu-ngan-sach-dung-thu-9-toan-quoc"
         },
         {
-          "title": "잠실5단지 재건축, 이번엔 ‘중학교 일조권’ 암초",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12195368"
+          "title": "2027년 탄화성 및 전국 각 지역의 성장 목표.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/muc-tieu-tang-truong-nam-2027-cua-thanh-hoa-va-cac-dia-phuong-trong-ca-nuoc"
+        },
+        {
+          "title": "탄화성은 2027년까지 성장률이 가장 높은 상위 10개 성 및 도시에 포함되는 것을 목표로 삼았습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/thanh-hoa-de-ra-muc-tieu-nam-2027-nam-trong-top-10-tinh-thanh-co-toc-do-tang-truong-cao-nhat"
         }
       ]
     },
     {
-      "title": "valencia vs real madrid",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 12:40:00 -0800",
+      "title": "하이닉스",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 14:00:00 -0800",
       "news": [
         {
-          "title": "Real Madrid threaten Valencia with a record not achieved in four decades",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/news/real-madrid-threaten-valencia-with-a-record-not-achieved-in-four-decades/blt30d4d51e6b8dbacb"
+          "title": "외국인, 지난주 삼전닉스 7.6조 던졌다…보유율도 수년만 최저",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261107026400008"
         },
         {
-          "title": "Valencia 0-3 Real Madrid LIVE: La Liga",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga"
+          "title": "오를 땐 팔고 급락하니 산다…'떨어지는 칼날' 잡는 개미들",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/general-stock/6346269"
         },
         {
-          "title": "Licensable video: Real Madrid's final training session before facing Valencia",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/real-madrids-final-training-session-before-facing-valencia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzU1MDIxOTEwOTc4MDAx"
+          "title": "반도체 급락장에도 SK하이닉스 담은 상위 1% [주식 초고수는 지금]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20111147"
         }
       ]
     },
     {
-      "title": "농민",
+      "title": "삼성 라이온즈",
+      "approx_traffic": "5000+",
+      "published": "Sat, 7 Nov 2026 13:50:00 -0800",
+      "news": [
+        {
+          "title": "최대 미스터리! 107억 다승왕까지 대기했는데, 5회 만루 찬스→왜 대타 안 썼나 \"김상수 연습 때는 잘 쳤는데…\" [KS4]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/08/MZRTIZRQMU4TSODFGU3TAMZTGI/"
+        },
+        {
+          "title": "삼성, 한국시리즈 3승 선점‥오늘 5차전",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6863972_37012.html"
+        },
+        {
+          "title": "장찬희·이재희 호투+박승규 3타점 펄펄…삼성, 12년 만의 KS 정상까지 ‘1승’ 남았다.",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629549"
+        }
+      ]
+    },
+    {
+      "title": "몽레알 대 화이트캡스",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 13:50:00 -0800",
+      "news": [
+        {
+          "title": "PREVIEW: 'Caps travel to Montreal on Decision Day | Watch on Apple TV",
+          "source": "www.whitecapsfc.com",
+          "url": "https://www.whitecapsfc.com/news/preview-montreal-decision-day-watch-on-apple-tv"
+        },
+        {
+          "title": "Montreal - Vancouver LIVE. Major League Soccer latest updates",
+          "source": "MARCA",
+          "url": "https://www.marca.com/en/soccer/major-league-soccer/montreal-vancouver/2026/11/07/01_0164_20261107_1616_1708-live.html"
+        },
+        {
+          "title": "Vancouver Whitecaps vs Montreal Prediction (Nov 7): Vancouver Whitecaps 49% — Odds & Live Score",
+          "source": "AccuScore",
+          "url": "https://www.accuscore.com/game/cmv01ijmjutanmn01sy9ocn8n"
+        }
+      ]
+    },
+    {
+      "title": "암호화폐",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 13:50:00 -0800",
+      "news": [
+        {
+          "title": "비트코인 7만5000달러대…추가 하락 경고등",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02164806645643424"
+        },
+        {
+          "title": "美 선거에 변동성 커진 비트코인… 1억원선 줄다리기 [주간코인시황]",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000354"
+        },
+        {
+          "title": "[주간코인] 수급 없는 상승의 끝…비트코인 반등 꺾였나",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1711817/%EC%A3%BC%EA%B0%84%EC%BD%94%EC%9D%B8-%EC%88%98%EA%B8%89-%EC%97%86%EB%8A%94-%EC%83%81%EC%8A%B9-%EB%81%9D%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-2026"
+        }
+      ]
+    },
+    {
+      "title": "루키",
       "approx_traffic": "100+",
-      "published": "Sat, 7 Nov 2026 12:40:00 -0800",
+      "published": "Sat, 7 Nov 2026 13:50:00 -0800",
       "news": [
         {
-          "title": "추미애 지사 \"농업은 식량안보이자 환경 지키는 미래 산업...투자 확대할 것\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261107000127"
+          "title": "진바비·아누드서울, KGMA KK-뷰티페스타 참가...'K-패션과 K-POP의 만남'",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3743084"
         },
         {
-          "title": "제31회 경기도 농업인의 날 기념식‥‘농업인의 날’ 유공자·‘농어민 대상’ 수상자 표창",
-          "source": "경기도뉴스포털",
-          "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202611061722326191C048&s_code=C048"
+          "title": "비보이즈, ‘제2회 K컬쳐어워즈 2026’ K-POP 루키상 수상",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16270931"
         },
         {
-          "title": "김미숙 경기도의회 부의장 “제31회 경기도 농업인의 날 맞아 농업인에 감사와 존경 전해”",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/newsView.php?id=20261106500331"
+          "title": "방춘자볶곱 ‘김꽃이’, 입맛 넘어 무대까지 접수 [JP포토]",
+          "source": "잡포스트",
+          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=237061"
+        }
+      ]
+    },
+    {
+      "title": "valencia đấu với real madrid",
+      "approx_traffic": "100+",
+      "published": "Sat, 7 Nov 2026 13:50:00 -0800",
+      "news": [
+        {
+          "title": "Nhận định bóng đá Valencia vs Real Madrid, 03h00 ngày 8/11: Khuất phục ‘Bầy Dơi’",
+          "source": "Tạp chí Bóng đá",
+          "url": "https://bongdaplus.vn/la-liga/nhan-dinh-bong-da-valencia-vs-real-madrid-03h00-ngay-8-11-khuat-phuc-bay-doi-5282092611.html"
+        },
+        {
+          "title": "Trực tiếp Valencia vs Real Madrid: Valencia mất người",
+          "source": "Báo Lâm Đồng",
+          "url": "https://baolamdong.vn/truc-tiep-valencia-vs-real-madrid-valencia-mat-nguoi-473352.html"
+        },
+        {
+          "title": "Mourinho: 'Tôi sợ trận gặp Valencia'",
+          "source": "tin.skydoor.net",
+          "url": "https://tin.skydoor.net/news/tay-ban-nha-mourinho-toi-so-tran-gap-valencia-8419522"
+        }
+      ]
+    },
+    {
+      "title": "한화",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 13:40:00 -0800",
+      "news": [
+        {
+          "title": "국립의대 신설 확정 경북도청신도시, ‘경북도청 푸르지오 퍼스티온’ 11월 분양",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261106/134979250/1"
+        },
+        {
+          "title": "대우건설·한화 건설부문·계룡건설, 수도권 및 지방 주요 지역 11월 분양 나서",
+          "source": "스포츠한국",
+          "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942986"
+        },
+        {
+          "title": "'경북도청 푸르지오 퍼스티온' 11월 분양 예정...전용 84㎡ 1165가구",
+          "source": "한경매거진",
+          "url": "https://magazine.hankyung.com/money/article/202611060880c"
+        }
+      ]
+    },
+    {
+      "title": "天気",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 13:40:00 -0800",
+      "news": [
+        {
+          "title": "北日本で大荒れの天気 あすにかけ暴風高波に警戒 大雪に注意を | NHKニュース | 大雪・寒さ、気象",
+          "source": "NHKニュース",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261107de72009"
+        },
+        {
+          "title": "8日朝 東京など冷え込み今季一番",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/pickup/6601681"
+        },
+        {
+          "title": "過去10年で2番目の早さ ササラ電車初出動 札幌は今季初の積雪11cm あすにかけ日本海側大雪警戒",
+          "source": "TBS NEWS DIG",
+          "url": "https://newsdig.tbs.co.jp/articles/hbc/3069648"
         }
       ]
     }
