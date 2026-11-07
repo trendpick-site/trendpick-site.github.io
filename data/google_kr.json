@@ -1,8 +1,174 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-07T08:28:52+00:00",
+  "fetched_at": "2026-11-07T09:26:01+00:00",
   "items": [
+    {
+      "title": "수원fc 대 경남 fc 순위",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 00:20:00 -0800",
+      "news": []
+    },
+    {
+      "title": "하희라",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "최수종♥하희라도 싸운다..유일한 갈등 원인 '이것' 때문에 ('살림남')",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261106152251067"
+        },
+        {
+          "title": "은지원, 아내에게 쓴 편지 정체…“러브레터 아닌 변명 레터”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261107/134983006/1"
+        },
+        {
+          "title": "이요원 \"남편과 24시간 밀착? 정신건강에 안 좋아\"... 최수종·하희라와 극과극 (살림남)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/05/MM3DIZDEMZSDAZRSGAYWMNRRMI/"
+        }
+      ]
+    },
+    {
+      "title": "이승민",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "'놀랍다' ERA '0' 대체 삼성 '이 선수' 韓 대표팀 왜 안 뽑혔나, 가을바람 신들린 '히어로' 찬사 폭발 [KS] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/07/2026110707491780846"
+        },
+        {
+          "title": "[사진]한국시리즈 4차전 9회 마운드 오른 삼성 이승민",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/G44WMNDDHFRDMYZQGU3TMZLGMY/"
+        },
+        {
+          "title": "“KT에 박영현 있다면 삼성엔 내가 있다” 지칠 줄 모르는 74G 좌완의 자신감…“수원 갈 일 없게 만들겠다” [KS]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112905739"
+        }
+      ]
+    },
+    {
+      "title": "주권",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 00:00:00 -0800",
+      "news": [
+        {
+          "title": "[박성진의 국방 B컷](69) 집속탄 사진에 흔들리는 한국과 김정은의 ‘사진 정치’",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202611061326001"
+        },
+        {
+          "title": "전작권 전환 대비 독자적 역량 갖추려면…\"탄약 비축 체계 보완 시급\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6343392"
+        },
+        {
+          "title": "안보1차장 \"美, 과거만큼 한반도 방위 힘쓰기 어려워\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/11/04/ZPPTEASJQVB2LJJBXPYKKXWDIE/"
+        }
+      ]
+    },
+    {
+      "title": "나탈리 하프",
+      "approx_traffic": "200+",
+      "published": "Fri, 6 Nov 2026 23:50:00 -0800",
+      "news": [
+        {
+          "title": "Trump Hands Natalie Harp New Deeply Personal Role",
+          "source": "The Daily Beast",
+          "url": "https://www.thedailybeast.com/trump-hands-natalie-harp-new-deeply-personal-role"
+        },
+        {
+          "title": "Trump’s constant companion aide Natalie Harp seems to have taken on a more personal role",
+          "source": "The Independent",
+          "url": "https://www.the-independent.com/news/world/americas/us-politics/trump-mobile-phone-natalie-harp-b3079434.html"
+        },
+        {
+          "title": "Trump’s Favorite Aide Has Taken Control of His Personal Cell Phone",
+          "source": "The New Republic",
+          "url": "https://newrepublic.com/post/217623/donald-trump-natalie-harp-taken-control-cell-phone"
+        }
+      ]
+    },
+    {
+      "title": "혈당",
+      "approx_traffic": "2000+",
+      "published": "Fri, 6 Nov 2026 23:40:00 -0800",
+      "news": [
+        {
+          "title": "\"혈당 재려 손 잡았는데\"...119구급대원 폭행한 60대 벌금 700만원",
+          "source": "KBC광주방송",
+          "url": "https://www.ikbc.co.kr/article/view/kbc202611070005"
+        },
+        {
+          "title": "\"뭐하냐\" 소리치며 얼굴 '퍽'…구급대원 때린 60대 벌금형 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/07/2026110713433748825"
+        },
+        {
+          "title": "쓰러진 환자 혈당 확인하려다 봉변…119구급대원 때린 60대",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611070756001"
+        }
+      ]
+    },
+    {
+      "title": "김영철",
+      "approx_traffic": "500+",
+      "published": "Fri, 6 Nov 2026 23:30:00 -0800",
+      "news": [
+        {
+          "title": "\"치킨 사 오겠다던 형, 그날 세상 떠나\"…김영철이 떠올린 35년 전 비극 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110710284750683"
+        },
+        {
+          "title": "김영철·정선희, '재혼황후' 됐다..\"2시간 8분 통화, 이봉주 마라톤 기록 쯤\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112905732"
+        },
+        {
+          "title": "김영철, 정선희와 20년 지기 우정 여전 \"내 인생 선배이자 멘토\" ('오리지널')",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/06/MEYWMMDBGIZGEY3DGIYTENRRGM/"
+        }
+      ]
+    },
+    {
+      "title": "수원 kt 대 대구 한국가스공사",
+      "approx_traffic": "500+",
+      "published": "Fri, 6 Nov 2026 23:30:00 -0800",
+      "news": []
+    },
+    {
+      "title": "젠슨황",
+      "approx_traffic": "2000+",
+      "published": "Fri, 6 Nov 2026 23:20:00 -0800",
+      "news": [
+        {
+          "title": "美의회, 젠슨 황에 \"'中간첩 의혹' 여성과 관계 직접 해명하라\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/usa-canada/6345644"
+        },
+        {
+          "title": "FT “美, 젠슨 황 ’中스파이’ 여성과 연인 관계 판단“",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261107180548Z7u"
+        },
+        {
+          "title": "\"미 정부, 젠슨황 '중국 스파이 의혹' 여성과 연인 관계였다고 판단\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6863914_36925.html"
+        }
+      ]
+    },
     {
       "title": "우규민",
       "approx_traffic": "500+",
@@ -22,194 +188,6 @@
           "title": "’우승 0번’ KT 우규민, 삼성 강민호…반드시 한 명은 반지 낀다",
           "source": "연합뉴스TV",
           "url": "https://www.yonhapnewstv.co.kr/news/MYH202611052122384WX"
-        }
-      ]
-    },
-    {
-      "title": "젠슨황",
-      "approx_traffic": "2000+",
-      "published": "Fri, 6 Nov 2026 23:20:00 -0800",
-      "news": [
-        {
-          "title": "젠슨 황, 중국 스파이 의심 여성과 연인 관계였나···미 정보당국 메모에 드러난 새로운 사실",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611071346001"
-        },
-        {
-          "title": "美의회, 젠슨 황에 \"'中간첩 의혹' 여성과 관계 직접 해명하라\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/usa-canada/6345644"
-        },
-        {
-          "title": "“술자리 옆 여성과 무슨 사이냐”…젠슨 황, ‘소환장’ 받았다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261106/134978932/1"
-        }
-      ]
-    },
-    {
-      "title": "맥도날드",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 23:10:00 -0800",
-      "news": [
-        {
-          "title": "\"존박이 랩으로 주문했더니\"…맥도날드가 진짜 만든 '이것' [김소연의 얼굴전략]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611060608g"
-        },
-        {
-          "title": "[기자의눈] “주문하신 광고 나왔습니다”…달라진 마케팅 공식",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261105010001847"
-        },
-        {
-          "title": "[문화연예 플러스] 존박, 랩으로 '햄버거 주문'‥조회 수 900만 돌파",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6863019_37012.html"
-        }
-      ]
-    },
-    {
-      "title": "류현인",
-      "approx_traffic": "100+",
-      "published": "Fri, 6 Nov 2026 23:10:00 -0800",
-      "news": [
-        {
-          "title": "류현인 ‘한 점씩 추격한다’[포토]",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2216806"
-        },
-        {
-          "title": "생애 첫 KS, 설렘보다 분함이 앞섰던 KT 류현인 \"내가 '이것밖에 안 되나' 싶었죠\" [KS3 인터뷰]",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202611060048"
-        },
-        {
-          "title": "\"한국시리즈 무대에서 홈런 치는 상상 했는데…기회가 왔다\" 4할1푼2리 → 3할3푼8리 → 다음은? 강철매직의 비밀무기 [인터뷰]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/02/MM3DGMDCMI3WGMJWMM3DOZJXMU/"
-        }
-      ]
-    },
-    {
-      "title": "박승규",
-      "approx_traffic": "1000+",
-      "published": "Fri, 6 Nov 2026 23:00:00 -0800",
-      "news": [
-        {
-          "title": "[포토]'따라오면 도망가면 되지' 5회말 2타점 2루타 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/07/2026110716150697584"
-        },
-        {
-          "title": "이러니 좋아할 수밖에! 박승규, KT 거센 추격 따돌리는 2타점 2루타 폭발 [KS4]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112905999"
-        },
-        {
-          "title": "[사진] 승리의 미소 번진 삼성 더그아웃",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/MM4WGMRTMVSWGNLDMFQWMYRYMQ/"
-        }
-      ]
-    },
-    {
-      "title": "루카 돈치치",
-      "approx_traffic": "100+",
-      "published": "Fri, 6 Nov 2026 23:00:00 -0800",
-      "news": [
-        {
-          "title": "[스포츠 영상] '통곡의 벽' 웸반야마‥'10초 만에 3블록'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863527_37004.html"
-        },
-        {
-          "title": "'돈치치가 MVP 1순위라고?' 웸반야마의 무력시위. 52P-24R, 그리고 8블록. MVP 후보 0순위 입증",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/basketball/2026/11/06/MNTDSZDFMY3WEZLBGE2DKMJRMY/"
-        },
-        {
-          "title": "NBA 샌안토니오, 댈러스 112-111 격파…웸반야마 52점 '커리어 하이'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261105_0003856270"
-        }
-      ]
-    },
-    {
-      "title": "롯데 자이언츠",
-      "approx_traffic": "5000+",
-      "published": "Fri, 6 Nov 2026 22:50:00 -0800",
-      "news": [
-        {
-          "title": "\"내가 하고 싶은 야구 찾았다\" 전미르의 '이도류' 2년 종료 → 롯데에선 어떨까 [인터뷰]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/06/MYYWGYLFMQYTONZWMVTDIYZZGM/"
-        },
-        {
-          "title": "롯데가 설렌다, 대표팀 투수보다 구위가 더 좋았다니… 찬바람에도 150㎞, 선물이 찾아오나",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018251"
-        }
-      ]
-    },
-    {
-      "title": "이재희",
-      "approx_traffic": "2000+",
-      "published": "Fri, 6 Nov 2026 22:50:00 -0800",
-      "news": [
-        {
-          "title": "[포토] 이재희 '내일도 등판 가능' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/07/2026110716573250691"
-        },
-        {
-          "title": "[사진]5회 선두타자 안타 뽑아내는 KT 한승택",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/MMZDIOLCGRQWCOJQGJSTAN3BGU/"
-        }
-      ]
-    },
-    {
-      "title": "배찬승",
-      "approx_traffic": "200+",
-      "published": "Fri, 6 Nov 2026 22:50:00 -0800",
-      "news": [
-        {
-          "title": "[포토] 배찬승, 볼 판정에 엉거주춤 항의 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/07/2026110716151460673"
-        },
-        {
-          "title": "반갑다! 밀어내기",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8202157"
-        },
-        {
-          "title": "[사진]밀어내기 볼넷에 환호하는 KT 김현수",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112905973"
-        }
-      ]
-    },
-    {
-      "title": "미야지",
-      "approx_traffic": "100+",
-      "published": "Fri, 6 Nov 2026 22:30:00 -0800",
-      "news": [
-        {
-          "title": "KS 4차전 찾은 미야지 유라",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8202217"
-        },
-        {
-          "title": "[포토] 미야지 '식지 않는 인기' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/07/2026110713554747083"
-        },
-        {
-          "title": "\"삼성 떠났지만 애정은 더 커졌다\" 방출된 日 투수의 특별한 라팍 방문…\"다시 한국에서 뛰고 싶다\" [KS3]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/07/GJSDKZLBGEYGGYJZMI2DKOJWMQ/"
         }
       ]
     }
