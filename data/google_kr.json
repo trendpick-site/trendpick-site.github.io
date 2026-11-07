@@ -1,22 +1,198 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-07T14:22:45+00:00",
+  "fetched_at": "2026-11-07T15:16:10+00:00",
   "items": [
+    {
+      "title": "아스널 대 헐 시티",
+      "approx_traffic": "2000+",
+      "published": "Sat, 7 Nov 2026 06:10:00 -0800",
+      "news": [
+        {
+          "title": "노팅엄 포레스트 vs 맨체스터 시티 예측: 선두 자리를 노릴 기회",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-nottingham-forest-vs-manchester-city-co-hoi-bam-duoi-ngoi-dau"
+        },
+        {
+          "title": "잉글랜드 프리미어 리그 아스날 대 헐 시티 축구 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/the-thao/nhan-dinh-bong-da-arsenal-vs-hull-city-tai-giai-ngoai-hang-anh-1796210.ldo"
+        },
+        {
+          "title": "리버풀은 빌라, 유벤투스는 나폴리…11월 1~2일 유럽축구 일정 : 스포츠",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1064325"
+        }
+      ]
+    },
+    {
+      "title": "풀럼 대 뉴캐슬",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 06:10:00 -0800",
+      "news": [
+        {
+          "title": "프리미어 리그 풀럼 대 뉴캐슬 경기 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-fulham-vs-newcastle-tai-premier-league-1795650.ldo"
+        },
+        {
+          "title": "경기 프리뷰: 풀럼 vs 뉴캐슬, 11월 7일 22시: 정상 등극을 향한 결의.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-fulham-vs-newcastle-22h00-ngay-7-11-quyet-chi-vuon-len"
+        },
+        {
+          "title": "풀럼 vs 뉴캐슬 예측: 상위권 경쟁의 뜨거운 승부",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-fulham-vs-newcastle-diem-nong-cuoc-dua-top-dau"
+        }
+      ]
+    },
+    {
+      "title": "라이프치히 대 아우크스부르크",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 06:00:00 -0800",
+      "news": [
+        {
+          "title": "⚡ Kade shock for Leipzig! Augsburg's fast starters stun RB",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/kade-shock-leipzig-augsburgs-fast-143900988.html"
+        },
+        {
+          "title": "RB Leipzig vs Augsburg: German Bundesliga stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c6qxn7zrq0yet"
+        },
+        {
+          "title": "Confirmed Lineups: RB Leipzig vs. FC Augsburg",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/confirmed-lineups-rb-leipzig-vs-132500786.html"
+        }
+      ]
+    },
+    {
+      "title": "도르트문트 대 엘버스베르크",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 06:00:00 -0800",
+      "news": [
+        {
+          "title": "Confirmed lineups: Borussia Dortmund vs. SV Elversberg",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/confirmed-lineups-borussia-dortmund-vs-132600612.html"
+        },
+        {
+          "title": "Match Preview: BVB Host SV Elversberg",
+          "source": "Fear The Wall",
+          "url": "https://www.fearthewall.com/general/25389/match-preview-bvb-host-sv-elversberg"
+        },
+        {
+          "title": "Borussia Dortmund vs Elversberg predictions for Saturday (2.30pm KO): Hosts to keep it tight and win to nil",
+          "source": "Squawka",
+          "url": "https://www.squawka.com/en/news/previews/borussia-dortmund-vs-elversberg-predictions-saturday-07-11-2026/"
+        }
+      ]
+    },
+    {
+      "title": "리즈 유나이티드 대 토트넘 홋스퍼 fc 라인업",
+      "approx_traffic": "100+",
+      "published": "Sat, 7 Nov 2026 06:00:00 -0800",
+      "news": [
+        {
+          "title": "Roberto De Zerbi reaction: What did Spurs boss say after losing at Leeds?",
+          "source": "NBC Sports",
+          "url": "https://www.nbcsports.com/soccer/news/roberto-de-zerbi-reaction-what-did-spurs-boss-say-after-losing-at-leeds"
+        },
+        {
+          "title": "Every word De Zerbi said on crunch Tottenham meeting, Williams-Barnett dilemma and injuries",
+          "source": "Football London",
+          "url": "https://www.football.london/tottenham-hotspur-fc/news/roberto-de-zerbi-transcript-leeds-34874141"
+        },
+        {
+          "title": "De Zerbi on when Tosin, Bergvall, Mudryk and Savio could return",
+          "source": "Tottenham Hotspur",
+          "url": "https://www.tottenhamhotspur.com/news/1182782/de-zerbi-on-when-tosin-bergvall-mudryk-and-savio-could-return"
+        }
+      ]
+    },
+    {
+      "title": "마인츠 05 대 바이에른",
+      "approx_traffic": "5000+",
+      "published": "Sat, 7 Nov 2026 05:40:00 -0800",
+      "news": [
+        {
+          "title": "“96라인 은퇴설” 김민재, 바이에른 뮌헨 선발 명단 제외…‘92라인’ 이재성은 선발 출격",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112906194"
+        },
+        {
+          "title": "“국가대표 은퇴해라!” 논란의 김민재, 마인츠전 예상 선발 명단 포함…이재성은 벤치 출발 전망, 코리안 더비 성사될까",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/football/2026/11/07/GVRGIY3CMNRDQMZQGNTDOYRQG4/"
+        },
+        {
+          "title": "바이에른 뮌헨 김민재, 2경기 연속 선발 제외…마인츠 이재성은 선발 출격",
+          "source": "마이데일리",
+          "url": "https://www.mydaily.co.kr/page/view/2026110722362619001"
+        }
+      ]
+    },
+    {
+      "title": "페드로 포로",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 05:20:00 -0800",
+      "news": [
+        {
+          "title": "‘월드컵 위너’ 포로, “가장 존경하는 선수는 쏘니”…손흥민 향한 진심",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1647554"
+        },
+        {
+          "title": "포로에게 손흥민은 은인이었다…“존경할 수밖에 없는 사람, 토트넘 전설임에도 날 가족처럼 받아줬어”",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100360"
+        },
+        {
+          "title": "손흥민을 너무 좋아한다! “호날두vs메시? 쏘니!” 극찬했던 토트넘 수비수, 이번엔 “존경할 만한 사람”",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697959"
+        }
+      ]
+    },
+    {
+      "title": "ลีดส์ พบ สเปอร์ส",
+      "approx_traffic": "100+",
+      "published": "Sat, 7 Nov 2026 05:20:00 -0800",
+      "news": [
+        {
+          "title": "การคาดการณ์ผลการแข่งขันระหว่างลีดส์กับท็อตแนม: จุดสนใจสำคัญในการลุ้นแย่งตำแหน่งสูงสุด",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-leeds-vs-tottenham-diem-nong-cuoc-dua-top-dau"
+        },
+        {
+          "title": "สำรองแผลงฤทธิ์ ! ลีดส์ เปิดบ้านเฉือน สเปอร์ส 1-0 หยุดสถิติ สเปอร์ส ชนะรวดใน พรีเมียร์ ลีก 2026/27",
+          "source": "Mainstand",
+          "url": "https://mainstand.co.th/index.php/th/news/1/article/27491"
+        },
+        {
+          "title": "ผลบอลสด ลีดส์ ยูไนเต็ด พบ ทอตแนม ฮอตสเปอร์ พรีเมียร์ลีก 2026-27 ผลบอลวันนี้",
+          "source": "www.thairath.co.th",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2970858"
+        }
+      ]
+    },
     {
       "title": "검사",
       "approx_traffic": "500+",
       "published": "Sat, 7 Nov 2026 04:50:00 -0800",
       "news": [
         {
-          "title": "“이재명 탈옥법” 국힘, ‘조작기소 특검법’ 규탄 도심 집회",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261107/134983683/1"
-        },
-        {
           "title": "\"대통령 탈옥법\" 국힘 장외집회‥\"진상 드러날까 두렵나\"",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863931_37004.html"
+        },
+        {
+          "title": "“이재명 탈옥법” 국힘, ‘조작기소 특검법’ 규탄 도심 집회",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261107/134983683/1"
         },
         {
           "title": "검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과",
@@ -31,179 +207,19 @@
       "published": "Sat, 7 Nov 2026 04:30:00 -0800",
       "news": [
         {
-          "title": "‘닥터X’ 김영민, 참 멋없는데… 누구보다 멋진 ‘진짜 의사’였다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611070054003"
-        },
-        {
           "title": "“이것이 제 선택입니다” 투표장을 등지고 생명을 살리겠다는 일념으로 수술실로 발걸음을 옮긴 손현주의 선택!",
           "source": "programs.sbs.co.kr",
           "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC483056078"
         },
         {
-          "title": "'닥터X' 김지원X이정은, 사제 합동 역대 최대 규모 수술...실패 없는 성공일까 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110713267224990"
-        }
-      ]
-    },
-    {
-      "title": "sbs",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 04:30:00 -0800",
-      "news": [
-        {
-          "title": "Cha Cheong-hwa joins SBS drama 9 to 6 as corporate support head",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/11/05/5HE6SVDTEVGWTOJWGZ4ORT5ECI/"
+          "title": "‘닥터X’ 김지원·손현주·이정은, ‘구서대 어벤져스’…8세 소아암 환자 살렸다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611072334003"
         },
         {
-          "title": "Cha Chung-hwa Cast as Political Management Head in 'Nine to Six'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/kpop-culture-en/2026/11/05/7IKXEKZ3XBDTTETMY6DI6FDFCE/"
-        },
-        {
-          "title": "Worker in 50s Dies After Fall at Construction Site in Anseong",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008835408"
-        }
-      ]
-    },
-    {
-      "title": "persija jakarta vs persebaya",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 04:00:00 -0800",
-      "news": []
-    },
-    {
-      "title": "agf",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 04:00:00 -0800",
-      "news": [
-        {
-          "title": "The Fed in Uncharted Territory with New Communication Policy",
-          "source": "AGF Perspectives",
-          "url": "https://perspectives.agf.com/the-fed-in-uncharted-territory-with-new-communication-policy/"
-        },
-        {
-          "title": "AGF Management : The Fed in Uncharted Territory with New Communication Policy",
-          "source": "www.marketscreener.com",
-          "url": "https://www.marketscreener.com/news/agf-management-the-fed-in-uncharted-territory-with-new-communication-policy-ce785fd2da8cff2c"
-        },
-        {
-          "title": "AGF Management (TSX:AGF.B): High Earnings Per Employee Shows the Leverage of an Asset-Light Investment Manager",
-          "source": "kalkine.ca",
-          "url": "https://kalkine.ca/news/financial/agf-management-tsxagfb-high-earnings-per-employee-shows-the-leverage-of-an-asset-light-investment-manager"
-        }
-      ]
-    },
-    {
-      "title": "내일 날씨",
-      "approx_traffic": "200000+",
-      "published": "Sat, 7 Nov 2026 03:50:00 -0800",
-      "news": [
-        {
-          "title": "[날씨] 충청권 올가을 첫 영하권...주말 나들이 옷차림 두툼",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202611071646040743"
-        },
-        {
-          "title": "’입동’ 추위 서울 첫얼음…내일 중부 비·강원 눈",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261107225235CVg"
-        },
-        {
-          "title": "입동 추위에 중무장",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261107_0021523191&pID=1&cID=&sID=1&type=photoMain&idx=6"
-        }
-      ]
-    },
-    {
-      "title": "leeds vs spurs",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 03:50:00 -0800",
-      "news": [
-        {
-          "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t"
-        },
-        {
-          "title": "Leeds United v Tottenham Hotspur: Premier League – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live"
-        },
-        {
-          "title": "Team News: Injury updates on Calvert-Lewin, Okafor & Stach",
-          "source": "Leeds United | Official Website - Leeds United",
-          "url": "https://www.leedsunited.com/en/news/team-news-injury-updates-on-calvert-lewin-okafor-and-stach"
-        }
-      ]
-    },
-    {
-      "title": "로또1249",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 03:50:00 -0800",
-      "news": [
-        {
-          "title": "[속보]로또 1249회 당첨번호 '2·11·16·25·34·35'…보너스 '14'",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03758886645643424&mediaCodeNo=257"
-        },
-        {
-          "title": "“자동 7명·수동 7명 황금 비율”… 20억 배출 명당 어디?",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261107580125"
-        },
-        {
-          "title": "[오늘 로또]1,249회 로또 1등 14명 …당첨금 20억2천여만 원",
-          "source": "남도일보",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=928449"
-        }
-      ]
-    },
-    {
-      "title": "유방암",
-      "approx_traffic": "2000+",
-      "published": "Sat, 7 Nov 2026 03:40:00 -0800",
-      "news": [
-        {
-          "title": "27세 女의대생이 두달만에 사망한 무서운 병[의료톡톡]",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629554"
-        },
-        {
-          "title": "\"진단 두 달 만에 사망\"…27세 의대생 앗아간 '가장 독한 암'의 정체 [헬스톡]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611060911192468"
-        },
-        {
-          "title": "유방암을 섬유선종으로 자가 진단한 27세 의대 졸업생... 박사과정 진학 앞두고 숨져",
-          "source": "인사이트",
-          "url": "https://www.insight.co.kr/news/580573"
-        }
-      ]
-    },
-    {
-      "title": "weather tomorrow",
-      "approx_traffic": "5000+",
-      "published": "Sat, 7 Nov 2026 03:40:00 -0800",
-      "news": [
-        {
-          "title": "How to Watch the Iowa Hawkeyes at Northwestern Wildcats",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/watch-iowa-hawkeyes-northwestern-wildcats-123100484.html"
-        },
-        {
-          "title": "Hawkeye Preview: Intel on Northwestern from the Zach Koons of the Bleav in Northwestern podcast",
-          "source": "KCRG",
-          "url": "https://www.kcrg.com/video/2026/11/06/hawkeye-preview-intel-northwestern-zach-koons-bleav-northwestern-podcast/"
-        },
-        {
-          "title": "No. 19 Iowa football prepares to face Northwestern and its new Wildcat Wall in road matchup",
-          "source": "The Gazette",
-          "url": "https://www.thegazette.com/sports/college/iowa-football/no-19-iowa-football-prepares-to-face-northwestern-and-its-new-wildcat-wall-in-road/article_8065a5cc-4cef-43cf-b4fb-83e4d16ac904.html"
+          "title": "‘닥터X’도 ‘꿀알바’도…사회적 메시지-재미, 두 마리 토끼 잡기 어려운 이유",
+          "source": "미디어오늘",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338264"
         }
       ]
     }
