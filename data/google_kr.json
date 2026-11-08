@@ -1,11 +1,105 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-08T08:55:38+00:00",
+  "fetched_at": "2026-11-08T09:51:33+00:00",
   "items": [
     {
-      "title": "김우석",
+      "title": "파주 대 충남 아산 fc",
+      "approx_traffic": "100+",
+      "published": "Sun, 8 Nov 2026 00:40:00 -0800",
+      "news": [
+        {
+          "title": "충남아산FC, ‘준우승 주역’ 황기욱·박한근 전역 후 복귀",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109709"
+        },
+        {
+          "title": "혹시 모를 '6위의 희망', 승격 전쟁 뒤흔들 칼자루 쥔 '충남아산-김포-경남' 고춧가루 부대 3형제",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-11-03/202611030100019400001869"
+        },
+        {
+          "title": "충남아산FC, 파주 원정에서 플레이오프 추격 불씨 살린다!",
+          "source": "아시아뉴스통신",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3215031&type=&mobile="
+        }
+      ]
+    },
+    {
+      "title": "천안 시티 fc 대 부산 아이파크 순위",
+      "approx_traffic": "500+",
+      "published": "Sun, 8 Nov 2026 00:30:00 -0800",
+      "news": [
+        {
+          "title": "'이규민 데뷔골' 천안시티, 갈길 바쁜 부산 잡고 홈 3연승",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859426"
+        },
+        {
+          "title": "천안시티 박진섭 감독 \"잘 버텨준 선수들에게 감사\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859443"
+        },
+        {
+          "title": "부산아이파크, 천안에 0-1패",
+          "source": "부산일보",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026110816483170775"
+        }
+      ]
+    },
+    {
+      "title": "서울교통공사 채용",
       "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 00:20:00 -0800",
+      "news": []
+    },
+    {
+      "title": "이승엽",
+      "approx_traffic": "100+",
+      "published": "Sun, 8 Nov 2026 00:20:00 -0800",
+      "news": [
+        {
+          "title": "‘라이언킹’ 삼성 전설 이승엽 시구에 캡틴 구자욱이 답했다",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706380"
+        },
+        {
+          "title": "'와' 국민타자 생생 증언, \"김도영 모르는 사람 없어\"…'어나더 클래스' 슈퍼스타, 도쿄돔 3번째 쇼케이스 준비 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/07/202611070221776603O"
+        },
+        {
+          "title": "'국민타자' 눈에도 '슈퍼스타'는 특별했다…\"한국 레벨이 아니야\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6346315"
+        }
+      ]
+    },
+    {
+      "title": "김재서",
+      "approx_traffic": "2000+",
+      "published": "Sun, 8 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "김민경, 게임 개발자 일상에 반했다? “좋은 신랑감” (전착시)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261108/134984561/1"
+        },
+        {
+          "title": "'모솔연애2' 김재서, '게임 괴인'으로 돌아온다…메이크오버 소용없던 '회사생활 24시'('전착시')",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018488"
+        },
+        {
+          "title": "MBC 전지적 집착 시점, 배틀그라운드 개발자 김재서의 ‘회사 숙식’ 게임 일상 공개",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16271026"
+        }
+      ]
+    },
+    {
+      "title": "김우석",
+      "approx_traffic": "1000+",
       "published": "Sat, 7 Nov 2026 23:50:00 -0800",
       "news": [
         {
@@ -26,28 +120,6 @@
       ]
     },
     {
-      "title": "유현조",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 23:50:00 -0800",
-      "news": [
-        {
-          "title": "유현조, KLPGA 최종전 우승…김민솔은 대상·상금왕 석권",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706942"
-        },
-        {
-          "title": "'솔림대전' 승자 김민솔 \"스트레스받아…교림이와 밥 먹을 것\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261108043300007"
-        },
-        {
-          "title": "‘신인왕’ 김민솔이 대역전 ‘대상 타이틀’까지…시즌 최종전 우승자 유현조는 ‘평균타수상’ 획득 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/08/202611081545775037O"
-        }
-      ]
-    },
-    {
       "title": "권동진",
       "approx_traffic": "2000+",
       "published": "Sat, 7 Nov 2026 23:40:00 -0800",
@@ -63,9 +135,9 @@
           "url": "https://www.mt.co.kr/sports/2026/11/08/2026110815415245634"
         },
         {
-          "title": "얼굴에 타구 맞은 권동진",
+          "title": "'통합우승 실패' KT 이강철 감독 \"2차전서 승리 놓친 게 시리즈 패인\"[KS]",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261108_0021524736"
+          "url": "https://www.newsis.com/view/NISX20261108_0003859479"
         }
       ]
     },
@@ -75,41 +147,19 @@
       "published": "Sat, 7 Nov 2026 23:40:00 -0800",
       "news": [
         {
-          "title": "'12·3 국민주권의 날' 이달 지정…관련 기록물 1천625건 등록",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261107033000530"
+          "title": "’12·3 국민주권의 날’ 이번 달 기념일 지정…기록물 1,625건 등록",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611081759505QP"
         },
         {
           "title": "12·3 '빛의 혁명' 기념일 이달 지정…기록물 1625점 등록",
-          "source": "산경일보",
-          "url": "https://www.sankyungilbo.com/news/articleView.html?idxno=538585"
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859320"
         },
         {
-          "title": "‘12·3 국민주권의 날’ 이달 지정…기록물 1625건 등록",
-          "source": "경북매일",
-          "url": "https://www.kbmaeil.com/article/20261108500371"
-        }
-      ]
-    },
-    {
-      "title": "kt",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 23:40:00 -0800",
-      "news": [
-        {
-          "title": "KT Wiz Manager Lee Kang-cheol Plans Pitching Strategy to Extend Series",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/08/O5UZBIWI5ZGIJMW3HZNGIJ2UZY/"
-        },
-        {
-          "title": "Cornered KT Makes Bold Move, Excluding Ahn Hyun-min and Starting Jang Jin-hyuk",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008835919"
-        },
-        {
-          "title": "Following dominant regular season, Wiz go out with whimper in Korean Series",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20261108003000315"
+          "title": "12월 3일 ‘국민주권의 날’ 지정 추진...이달 말 확정 전망",
+          "source": "M이코노미뉴스",
+          "url": "https://www.m-economynews.com/news/article.html?no=72741"
         }
       ]
     },
@@ -141,85 +191,19 @@
       "published": "Sat, 7 Nov 2026 23:20:00 -0800",
       "news": [
         {
+          "title": "‘국민체육진흥공단 이어 코레일도’… 충주상고, 공기업 합격 ‘대박’",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109601"
+        },
+        {
+          "title": "충주상고 박시은, 코레일 최종 합격",
+          "source": "충북일보",
+          "url": "https://www.inews365.com/news/article.html?no=942507"
+        },
+        {
           "title": "김성덕 제3대 양주도시공사 사장 취임…2029년 11월까지 3년 임기",
           "source": "브릿지경제",
           "url": "https://www.viva100.com/article/20261108500132"
-        },
-        {
-          "title": "김성덕 신임 양주도시공사 사장 “시민 신뢰받는 공기업 만들 것”",
-          "source": "중부일보",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363741787"
-        },
-        {
-          "title": "김성덕 제3대 양주도시공사 사장 취임식…미래 대응형 경영혁신 다짐",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261106580263"
-        }
-      ]
-    },
-    {
-      "title": "박진만",
-      "approx_traffic": "1000+",
-      "published": "Sat, 7 Nov 2026 23:20:00 -0800",
-      "news": [
-        {
-          "title": "선수로 6번·감독으로 첫 정상…'부드러운 승부사' 삼성 박진만",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261108021800007"
-        },
-        {
-          "title": "[포토] 박진만 감독, 감동의 우승 헹가래 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/08/2026110817403077461"
-        },
-        {
-          "title": "[KS5] 박진만 감독이 꼽은 삼성 상승세의 주역 박승규...\"미친 듯이 즐기고 있다\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261108000038"
-        }
-      ]
-    },
-    {
-      "title": "창원 lg 대 부산 kcc",
-      "approx_traffic": "1000+",
-      "published": "Sat, 7 Nov 2026 23:10:00 -0800",
-      "news": [
-        {
-          "title": "허웅+롱+킹 91점 폭발한 프로농구 KCC, 안방에서 EASL 2연승",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8705274"
-        },
-        {
-          "title": "[EASL] 72-66으로 쫓겼던 KCC? 게임을 터뜨린 루이스 킹!",
-          "source": "바스켓코리아",
-          "url": "https://m.basketkorea.com/news/newsview.php?ncode=1065614072983284"
-        },
-        {
-          "title": "\"KBL 챔피언 자존심 지켰다!\" 킹·롱·웅 ‘91점 합작’ KCC, 호우촌 완파하고 EASL 2연승…B조 단독 선두 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/05/202611052148775589O"
-        }
-      ]
-    },
-    {
-      "title": "기사",
-      "approx_traffic": "2000+",
-      "published": "Sat, 7 Nov 2026 23:10:00 -0800",
-      "news": [
-        {
-          "title": "\"배달 기사가 먹고 있더라\" 공개한 사진, 알고보니",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02414086645643096&mediaCodeNo=257"
-        },
-        {
-          "title": "’라이더가 음식 먹었다’ 논란에…배민 “사실 아냐“",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106180401ayC"
-        },
-        {
-          "title": "“배달 기사가 몰래 탕수육 빼먹는다?”…“파손 처리 과정서 오해”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261106580003"
         }
       ]
     }
