@@ -1,27 +1,115 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-08T10:48:03+00:00",
+  "fetched_at": "2026-11-08T11:43:54+00:00",
   "items": [
     {
-      "title": "생계",
+      "title": "폴란드 총기난사",
       "approx_traffic": "1000+",
+      "published": "Sun, 8 Nov 2026 02:40:00 -0800",
+      "news": [
+        {
+          "title": "폴란드 크라쿠프서 총기난사로 사상자 수십명 발생...'용의자는 극단적 민족주의자'",
+          "source": "BBC",
+          "url": "https://www.bbc.com/korean/articles/cv0ld3444wp5o"
+        },
+        {
+          "title": "폴란드 총기 난사로 22명 사상‥\"극우 이념 심취\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864079_37004.html"
+        },
+        {
+          "title": "\"6명 사망\" 충격 휩싸인 폴란드…총격범 집엔 ‘시신 3구’",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327015"
+        }
+      ]
+    },
+    {
+      "title": "최해천",
+      "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 02:10:00 -0800",
+      "news": [
+        {
+          "title": "차기 서울대 총장에 최해천 기계공학부 교수",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/11/08/3R5JJK6GPJBH5OQCKJELN67FDQ/"
+        },
+        {
+          "title": "서울대 총장 최종 후보에 최해천 공과대학 교수 선출",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261108/134987457/2"
+        },
+        {
+          "title": "[속보]서울대 총장 최종후보자 최해천 공과대학 교수",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611081813001"
+        }
+      ]
+    },
+    {
+      "title": "김세레나",
+      "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 02:10:00 -0800",
+      "news": [
+        {
+          "title": "김세레나 \"첫 남편 유부남인 줄 몰랐다\"…굴곡진 인생사 털어놔",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261106501275"
+        },
+        {
+          "title": "'성형 부작용' 김세레나 근황…\"100억 빌려 주고 못 받아\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110523315220253"
+        },
+        {
+          "title": "\"예쁜 얼굴 다 망가졌다\" 김세레나, 파라핀 성형 부작용 고백 [헬스톡]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611061948054807"
+        }
+      ]
+    },
+    {
+      "title": "wec",
+      "approx_traffic": "100+",
+      "published": "Sun, 8 Nov 2026 02:00:00 -0800",
+      "news": [
+        {
+          "title": "Fuoco puts Ferrari on pole at Monza",
+          "source": "WEC",
+          "url": "https://www.fiawec.com/en/news/fuoco-puts-ferrari-on-pole-at-monza/13928"
+        },
+        {
+          "title": "Two Toyotas, three titles to settle: When and where to watch the WEC finale at Monza",
+          "source": "Grande Prêmio",
+          "url": "https://grandepremio.com/en/endurance/wec/6-hours-of-monza-2026-where-to-watch-the-wec-finale-live-and-when-the-race-starts/"
+        },
+        {
+          "title": "The Headlines from FP3 at Monza",
+          "source": "WEC",
+          "url": "https://www.fiawec.com/en/news/the-headlines-from-fp3-at-monza/13926"
+        }
+      ]
+    },
+    {
+      "title": "생계",
+      "approx_traffic": "2000+",
       "published": "Sun, 8 Nov 2026 01:30:00 -0800",
       "news": [
         {
-          "title": "기초연금 올려봤자 생계급여 삭감…빈곤노인 78만명 '제자리'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106131200530"
+          "title": "내년에 25조 쏟아붓는 기초연금…생계급여 깎여 노인빈곤 개선 '헛바퀴'",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01908966645643752&mediaCodeNo=257"
         },
         {
-          "title": "기초연금 늘지만 생계급여 줄어…빈곤노인 78만명은 '제자리'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261108_0003859409"
+          "title": "“연금 오르면 뭐하나”…생계급여 삭감에 빈곤노인 78만명은 답보 상태",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261108504769"
         },
         {
-          "title": "“기초연금 인상분만큼 생계급여 삭감”…연금 개편에도 빈곤노인 소득은 그대로",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002778"
+          "title": "기초연금 3만원 더 받는 저소득층, 생계급여 삭감…인상 효과 미미",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261108/134985262/1"
         }
       ]
     },
@@ -36,14 +124,14 @@
           "url": "https://www.segye.com/newsView/20261108507475"
         },
         {
-          "title": "밤바다에 핀 불꽃 8만 송이…120만 명 홀렸다(종합)",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261109.22002002322"
-        },
-        {
           "title": "100만 인파 몰렸다‥부산불꽃축제",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863938_37004.html"
+        },
+        {
+          "title": "1시간에 불꽃 8만발 터진 광안리해수욕장···부산시 예상 넘어 120만 명 몰렸다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611081000011"
         }
       ]
     },
@@ -58,9 +146,9 @@
           "url": "https://www.jemin.com/news/articleView.html?idxno=846466"
         },
         {
-          "title": "23년 만의 최다 N수생…올해 수능 재학생 부담 커진다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261108/134985897/1"
+          "title": "수험생 가족의 간절한 촛불 공양",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8203062"
         },
         {
           "title": "\"수능 최대 변수는 국어\"...N수생 20만 명 역대 최다",
@@ -75,11 +163,6 @@
       "published": "Sun, 8 Nov 2026 01:00:00 -0800",
       "news": [
         {
-          "title": "서울대 강단 선 최태원…“AI시대 복합 위기, ‘4대 해법’으로 뚫자”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20110913"
-        },
-        {
           "title": "맏형 최태원의 28년 궤적… SK 행복 씨앗으로 ‘국가 AI’ 설계",
           "source": "아시아투데이",
           "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010002998"
@@ -88,6 +171,11 @@
           "title": "최태원 “돈이 너무 많이 풀려...롤러코스피 이어질 것”",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/news/business/12200335"
+        },
+        {
+          "title": "서울대 강단 선 최태원…“AI시대 복합 위기, ‘4대 해법’으로 뚫자”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20110913"
         }
       ]
     },
@@ -102,14 +190,14 @@
           "url": "https://newsroom.genesis.com/ko-ko/%ED%98%84%EB%8C%80%EC%B0%A8-%C2%B7%EA%B8%B0%EC%95%84-%252C-%EB%A3%A8%ED%81%AC-%EB%8F%99%EC%BB%A4%EB%B3%BC%EC%BC%80-CCO-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-%EC%A0%84%EC%8B%9C-%EA%B0%9C%EC%B5%9C/"
         },
         {
-          "title": "‘제네시스 신화 어떻게 탄생했나’⋯ 현대차·기아, 동커볼케 ‘비밀 노트’ 공개",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261108500210"
+          "title": "자동차 디자인은 어떻게 탄생하나…동커볼케 작업 기록 공개",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01476006645643752&mediaCodeNo=257"
         },
         {
-          "title": "현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261108014400003"
+          "title": "제네시스 디자인 이끈 동커볼케…10년 혁신의 기록 공개",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611080938146163"
         }
       ]
     },
@@ -124,78 +212,11 @@
           "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109709"
         },
         {
-          "title": "\"파주 팬들에게 기쁨을 선사하겠다\" 제라드 누스의 남은 시즌 목표는? [케터뷰]",
+          "title": "‘헤더 동점골’ 파주 유재준, “이승우·포든 보며 배워” 축구는 신장이 아닌 심장으로 [케터뷰]",
           "source": "풋볼리스트",
-          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216619"
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216629"
         }
       ]
-    },
-    {
-      "title": "천안 시티 fc 대 부산 아이파크 순위",
-      "approx_traffic": "500+",
-      "published": "Sun, 8 Nov 2026 00:30:00 -0800",
-      "news": [
-        {
-          "title": "'이규민 데뷔골' 천안시티, 갈길 바쁜 부산 잡고 홈 3연승",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261108_0003859426"
-        },
-        {
-          "title": "천안시티 박진섭 감독 \"잘 버텨준 선수들에게 감사\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261108_0003859443"
-        },
-        {
-          "title": "부산아이파크, 천안에 0-1패",
-          "source": "부산일보",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026110816483170775"
-        }
-      ]
-    },
-    {
-      "title": "스포츠",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 00:30:00 -0800",
-      "news": [
-        {
-          "title": "세종시 생활체육야구대회. 8일 개막 3주간 열전 돌입",
-          "source": "세종의소리",
-          "url": "https://www.sjsori.com/news/articleView.html?idxno=89577"
-        },
-        {
-          "title": "'세종 스포츠 메카'를 꿈꾸며…제10회 세종시장기 생활체육야구대회 개막...96개 팀 참가",
-          "source": "이세종경제",
-          "url": "https://www.e-sejong.co.kr/news/articleView.html?idxno=14695"
-        },
-        {
-          "title": "[포토] 아디다스코리아, 구일역 체육시설 재단장 '야간 스포츠 축제 개최'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261108000047"
-        }
-      ]
-    },
-    {
-      "title": "난방",
-      "approx_traffic": "2000+",
-      "published": "Sun, 8 Nov 2026 00:20:00 -0800",
-      "news": [
-        {
-          "title": "\"어려운 이웃의 든든한 힘 되는 행사\"",
-          "source": "충청타임즈",
-          "url": "https://www.cctimes.kr/news/articleView.html?idxno=935523"
-        },
-        {
-          "title": "양평군, 취약계층 겨울나기 지원…내년 1월까지 연탄·난방비 모금",
-          "source": "뉴스티앤티",
-          "url": "https://www.newstnt.com/news/articleView.html?idxno=727116"
-        }
-      ]
-    },
-    {
-      "title": "서울교통공사 채용",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 00:20:00 -0800",
-      "news": []
     }
   ]
 }
