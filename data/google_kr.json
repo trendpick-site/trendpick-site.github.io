@@ -1,211 +1,227 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-08T03:55:42+00:00",
+  "fetched_at": "2026-11-08T04:56:33+00:00",
   "items": [
     {
-      "title": "허미미",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 18:50:00 -0800",
+      "title": "상속세",
+      "approx_traffic": "5000+",
+      "published": "Sat, 7 Nov 2026 19:40:00 -0800",
       "news": [
         {
-          "title": "한국시리즈 시구한 유도 간판 허미미 \"세계랭킹 회복에 전념\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261107034700007"
+          "title": "상속세 0원이라던 국세청, 또 세무조사해 “12억 내라”…법원 판결은[세금GO]",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01128326645643752&mediaCodeNo=257"
         },
         {
-          "title": "[사진]삼성 이재희, '한국시리즈 역투'",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/07/MQ2TGZJUGJRTSNBYMRRTMZDEHA/"
+          "title": "산은이 한진칼 지분 '경쟁입찰'로 일개 건설사를 도와줄 이유가 있나",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/05/2026110580030.html"
         },
         {
-          "title": "[사진]연속 밀어내기 볼넷에 주저 앉은 배찬승",
+          "title": "‘한진칼 최대 주주’ 호반…실제 인수는 불가능한 이유",
+          "source": "에너지경제신문",
+          "url": "https://www.ekn.kr/web/view.php?key=20261108029126753"
+        }
+      ]
+    },
+    {
+      "title": "지수",
+      "approx_traffic": "2000+",
+      "published": "Sat, 7 Nov 2026 19:40:00 -0800",
+      "news": [
+        {
+          "title": "블핑 지수, 맵부심 어느 정도길래..셰프들 시식 포기 \"가장 매운 단계 떡볶이·돈가스 먹어\"(냉부해)",
           "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112905967"
+          "url": "https://www.osen.co.kr/article/G1112906244"
+        },
+        {
+          "title": "블랙핑크 지수+에이티즈 산X우영, 첫 만남 공개 (냉부)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611080932023"
+        },
+        {
+          "title": "지수, 정호영과 투샷 공개되자 직접 등판…뜻밖의 반응 ‘눈길’",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261108/134985181/1"
         }
       ]
     },
     {
-      "title": "코리안투어",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 18:10:00 -0800",
-      "news": [
-        {
-          "title": "Hwang Jae-min Maintains Lead on Day Two of KPGA Tour Championship, Pursuing First Win at Age 40",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008835433"
-        },
-        {
-          "title": "Scorecard Error Disqualifies Jang Yu-bin, Ends Prize Money Lead",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/06/TKN5DK6MHVFVNHJ7C6UVC7VDV4/"
-        },
-        {
-          "title": "“Genesis Award Four-Way Race, and Park Sang-hyun’s Breakthrough of 6 Billion Won”: Who Will Be the King of Jeju to Close Out 2026? [KPGA]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/sports/2026/11/03/2026110312104253923"
-        }
-      ]
-    },
-    {
-      "title": "미스 베트남",
-      "approx_traffic": "1000+",
-      "published": "Sat, 7 Nov 2026 17:50:00 -0800",
-      "news": [
-        {
-          "title": "2026년 미스 베트남에 하노이 소녀 Nguyen Yen Trang이 선정되었습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/co-gai-ha-noi-nguyen-yen-trang-dang-quang-hoa-hau-viet-nam-2026"
-        },
-        {
-          "title": "새로운 미스 베트남 응우옌 짱(Nguyen Yen Trang)의 첫 걸음.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhung-buoc-chan-dau-tien-cua-tan-hoa-hau-nguyen-yen-trang"
-        },
-        {
-          "title": "응우옌 옌 짱,,,베트남 미인대회 2026 우승",
-          "source": "굿모닝베트남미디어",
-          "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=84464"
-        }
-      ]
-    },
-    {
-      "title": "이다현",
+      "title": "총기 난사",
       "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 17:40:00 -0800",
+      "published": "Sat, 7 Nov 2026 19:40:00 -0800",
       "news": [
         {
-          "title": "‘환상 블로킹’ 韓 미녀 스타 이다현이 경기 끝냈다…10득점 맹활약, NEC 2연패 탈출→3위 도약",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/volleyball/2026/11/08/MVSGKNBYMFRTGNRTHFQTIMJQGY/"
+          "title": "폴란드 총기 난사로 22명 사상...\"군복 입은 20대 극우 추정\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611080729540713"
         },
         {
-          "title": "이다현 '매치 포인트' 만든 블로킹 포함 10점 제몫…히로타 26점 NEC, 아란마레와 주말 2연전 첫날 승리",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026110717402841925"
-        },
-        {
-          "title": "‘환상 블로킹’ 韓 미녀 스타 이다현이 경기 끝냈다…10득점 맹활약, NEC 2연패 탈출→3위 도약 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/08/202611080103778569O"
-        }
-      ]
-    },
-    {
-      "title": "음악회",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 17:40:00 -0800",
-      "news": [
-        {
-          "title": "청도읍성에 울려 퍼진 풍물가락…읍성밟기로 가을 축제 흥겨움",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002751"
-        },
-        {
-          "title": "청도 읍성 예술제 '읍성 밟기' 재현 행사",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8202671"
-        },
-        {
-          "title": "청도군, 음악으로 물든 가을밤 주민 화합의 장",
-          "source": "뉴데일리 대구경북",
-          "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/06/2026110600306.html"
-        }
-      ]
-    },
-    {
-      "title": "미디어오늘",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 17:40:00 -0800",
-      "news": [
-        {
-          "title": "언론노조 위원장, “방미통위는 윤석열의 YTN장악 바로잡을 의지 있는가”",
-          "source": "미디어오늘",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338284"
-        },
-        {
-          "title": "언론노조, 국회서 'YTN 청문 지연' 방미통위 규탄 \"무책임\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6863653_36911.html"
-        },
-        {
-          "title": "유진ENT 2차 청문 내달 22일…방미통위 “독립된 주재자가 정한 것”",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12326587"
-        }
-      ]
-    },
-    {
-      "title": "루이바오",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 17:30:00 -0800",
-      "news": [
-        {
-          "title": "용인시, 루이·후이바오에 ‘명예시민증’… 슈바오는 ‘아기 주민증’",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261106580394"
-        },
-        {
-          "title": "쌍둥이 판다, 중국행 앞두고 용인 명예시민증 받아",
+          "title": "폴란드 총격범 자택서 가족 추정 시신 3구 발견",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706067"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706901"
         },
         {
-          "title": "용인특례시의회, 루이·후이바오에 ‘시민행복 감사장’ 전달",
-          "source": "메트로신문",
-          "url": "https://www.metroseoul.co.kr/article/20261107500047"
+          "title": "폴란드 ‘무차별 총격 테러’ 범인 집서 시신 3구 추가 발견…가족 추정",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327011"
         }
       ]
     },
     {
-      "title": "자산",
-      "approx_traffic": "10000+",
-      "published": "Sat, 7 Nov 2026 17:20:00 -0800",
+      "title": "임창정",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 19:40:00 -0800",
       "news": [
         {
-          "title": "금융당국, 가상자산업계 잇단 해킹에 보안 책임자 소집",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611081126524B0"
+          "title": "'서하얀♥' 임창정, 4년 만에 큰 결단..'전국노래자랑' 등판",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/06/HBQWMYZVGQ3WGMDFGI2GGMZTMI/"
         },
         {
-          "title": "잇단 가상자산 거래소 해킹... 금감원, 가상자산사업자 CISO 소집한다",
-          "source": "보안뉴스",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=147086"
+          "title": "'전국노래자랑' 김용빈·임창정·김용임·김유라·손희주, 축하 무대",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/304911"
         },
         {
-          "title": "고팍스, 해킹 예고 협박 메일에 출금 차단",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106174700002"
+          "title": "\"4년 만에 전국노래자랑 등판\"… 임창정 '소주 한 잔'·'탓탓탓' 열창",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3745439"
         }
       ]
     },
     {
-      "title": "blg t1",
+      "title": "옆자리 프란체스카",
       "approx_traffic": "100+",
-      "published": "Sat, 7 Nov 2026 17:20:00 -0800",
+      "published": "Sat, 7 Nov 2026 19:40:00 -0800",
       "news": [
         {
-          "title": "T1 Doran: “What Makes You A Great Player Is How You Get Through The Pressure”",
-          "source": "Hotspawn",
-          "url": "https://www.hotspawn.com/league-of-legends/news/t1-doran-worlds-2026-interview"
+          "title": "\"자극 대신 일상 웃음\"…안방극장 돌아온 '시트콤의 진화'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261107023500005"
         },
         {
-          "title": "Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/aews-claudio-castagnoli-calls-league-012456063.html"
+          "title": "심혜진·박슬기, 20년 만에 '프란체스카' 귀환…\"그때로 돌아간 듯\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611051454504040"
         },
         {
-          "title": "T1 Eliminate Karmine Corp, Face BLG in Worlds 2026 Semifinal",
-          "source": "RG.org",
-          "url": "https://rg.org/news/esports/t1-beat-karmine-corp-worlds-2026-quarterfinal-blg-semifinal"
+          "title": "'안성댁' 박희진, 하나도 안 늙었다..20년만에 \"이 무슨 시추에이션?\"",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/GUZGIZTCMM4TINLBMJRTGNTBMI/"
         }
       ]
     },
     {
-      "title": "액화천연가스",
+      "title": "이종석",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 19:30:00 -0800",
+      "news": [
+        {
+          "title": "이종석, 43억에 산 한남동 빌라 10년새 200억…'630억 자산가'의 남다른 부동산 재테크",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261107_0003859046"
+        },
+        {
+          "title": "43억에 샀는데 지금은 200억…이종석만 웃은 게 아니다",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261108125103394"
+        },
+        {
+          "title": "이종석, 부동산 자산만 600억대…43억에 산 빌라 지금 200억 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/11/08/2026110810294110272"
+        }
+      ]
+    },
+    {
+      "title": "양산시",
       "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 17:10:00 -0800",
-      "news": []
+      "published": "Sat, 7 Nov 2026 19:30:00 -0800",
+      "news": [
+        {
+          "title": "양산시 3년간 수의계약 1만4천건·특정업체 136건…\"쏠림 심각\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106108500052"
+        },
+        {
+          "title": "창원시, ‘수의계약 몰아주기’ 차단…기준 제한",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706762"
+        },
+        {
+          "title": "평택시, 공공계약 운영계획 시행…업체별 수의계약 연 5회 제한",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1192357"
+        }
+      ]
+    },
+    {
+      "title": "earthquake",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 19:20:00 -0800",
+      "news": [
+        {
+          "title": "Magnitude 5.7 Earthquake Hits Western Shizuoka Prefecture, Japan... \"Caution Urged for Strong Aftershocks\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008835890"
+        },
+        {
+          "title": "Strong earthquake with preliminary magnitude of 5.7 strikes Japan",
+          "source": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/world/20261108/strong-earthquake-with-preliminary-magnitude-of-57-strikes-japan"
+        },
+        {
+          "title": "Magnitude 5.7 Earthquake Strikes West of Shizuoka, Japan... \"Stay Alert for 2-3 Days\"",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/world-general/2026110809505870867"
+        }
+      ]
+    },
+    {
+      "title": "lng선",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 19:20:00 -0800",
+      "news": [
+        {
+          "title": "K조선 독주하던 LNG 운반선마저…중국 10월 수주 한국 추월",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261107049200003"
+        },
+        {
+          "title": "LNG 공급망 흔들리는데 中 추격까지…韓조선 '고부가 전략' 시험대",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01705606645643752"
+        },
+        {
+          "title": "수주잔고 200조인데 인력은 반토막…K-조선 호황의 이면",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026110717482202215"
+        }
+      ]
+    },
+    {
+      "title": "warriors vs magic",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 19:20:00 -0800",
+      "news": [
+        {
+          "title": "Curry magic lifts Warriors to overtime victory over Orlando as win streak hits seven",
+          "source": "The Mercury News",
+          "url": "https://www.mercurynews.com/2026/11/07/warriors-magic-steph-curry-yaxel-ldendeborg-wagner/"
+        },
+        {
+          "title": "Golden State Warriors vs. Orlando Magic - 3rd Quarter Highlights",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/watch/video/golden-state-warriors-vs-orlando-magic-3rd-quarter-highlights-2?plsrc=nba&collection=steph-curry"
+        },
+        {
+          "title": "Warriors-Magic Injury Report Features Dray, GPII, Santos, Banchero, Suggs",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/nba/warriors/onsi/warriors-magic-injury-report-features-dray-gpii-santos-banchero-suggs-01m6vgxzqhkk"
+        }
+      ]
     }
   ]
 }
