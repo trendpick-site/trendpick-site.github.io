@@ -1,11 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-08T12:53:56+00:00",
+  "fetched_at": "2026-11-08T13:53:20+00:00",
   "items": [
     {
-      "title": "malut united vs persib bandung",
+      "title": "tvn",
+      "approx_traffic": "100+",
+      "published": "Sun, 8 Nov 2026 04:50:00 -0800",
+      "news": [
+        {
+          "title": "TVP zmienia ramówkę na czas żałoby narodowej. Zobaczymy „Rolnika”?",
+          "source": "Telemagazyn",
+          "url": "https://telemagazyn.pl/tvp-zmienia-ramowke-na-czas-zaloby-narodowej-zobaczymy-rolnik-szuka-zony-zmiany-w-programie-tv/ar/c13p2-29509413"
+        },
+        {
+          "title": "Flagi przed instytucjami UE opuszczone do połowy masztu na znak solidarności z Polską",
+          "source": "Polska Agencja Prasowa SA",
+          "url": "https://www.pap.pl/aktualnosci/flagi-przed-instytucjami-ue-opuszczone-do-polowy-masztu-na-znak-solidarnosci-z-polska"
+        },
+        {
+          "title": "Kolejni artyści odwołują występy po tragedii w Krakowie. Wśród nich Krzysztof Cugowski i Ralph Kaminski",
+          "source": "Interia Muzyka",
+          "url": "https://muzyka.interia.pl/pop/news-kolejni-artysci-odwoluja-wystepy-po-tragedii-w-krakowie-wsro,nId,23570749"
+        }
+      ]
+    },
+    {
+      "title": "철도망",
       "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 04:20:00 -0800",
+      "news": [
+        {
+          "title": "10년 철도투자 청사진 ‘제5차 철도망’ 윤곽…노선 경쟁 막 오른다",
+          "source": "대한경제",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611081342521000099"
+        },
+        {
+          "title": "국토부, ‘제5차 국가철도망 구축계획’ 국민 의견 듣는다",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261108580061"
+        },
+        {
+          "title": "부울경, “동남권 광역 철도망 확충은 30분 생활권 완성에 꼭 필요”",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261108.99099002153"
+        }
+      ]
+    },
+    {
+      "title": "제주항공",
+      "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 04:20:00 -0800",
+      "news": [
+        {
+          "title": "[단독] 진에어, 새 부사장에 대한항공 출신 이진호 선임…통합 LCC 출범 앞두고 조직 정비",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2645248"
+        },
+        {
+          "title": "[리포트 브리핑]진에어, '통합 이후 경쟁력 강화 기대' 목표가 7,500원 - 유안타증권",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261106001022"
+        },
+        {
+          "title": "[통합 진에어 카운트다운]④ 출범 넉달 앞 '선장' 잃은 진에어",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9wnys6nQNx"
+        }
+      ]
+    },
+    {
+      "title": "malut united vs persib bandung",
+      "approx_traffic": "500+",
       "published": "Sun, 8 Nov 2026 03:50:00 -0800",
       "news": [
         {
@@ -43,14 +109,14 @@
       "published": "Sun, 8 Nov 2026 03:00:00 -0800",
       "news": [
         {
-          "title": "서울대 총장 최종 후보에 최해천 공과대학 교수 선출",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261108/134987457/2"
-        },
-        {
           "title": "[속보]서울대 총장 최종후보자 최해천 공과대학 교수",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202611081813001"
+        },
+        {
+          "title": "서울대 총장 최종 후보에 최해천 공과대학 교수 선출",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261108/134987457/2"
         },
         {
           "title": "서울대총장 최종후보 최해천 석좌교수…공과대 출신 20년만",
@@ -64,6 +130,28 @@
       "approx_traffic": "200+",
       "published": "Sun, 8 Nov 2026 02:10:00 -0800",
       "news": []
+    },
+    {
+      "title": "박한이",
+      "approx_traffic": "100+",
+      "published": "Sun, 8 Nov 2026 02:00:00 -0800",
+      "news": [
+        {
+          "title": "[포토] 디아즈, 어쩌다 타격감 상 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/08/2026110817500911158"
+        },
+        {
+          "title": "[사진]부상으로 실려나가는 권동진",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/08/MEYDONZSMJQTIOLDMIZDIZJTGY/"
+        },
+        {
+          "title": "'좌타 라인 무섭네' 삼성, 3회 2사 후 구자욱-디아즈-최형우-김영웅 4연속 안타 폭발...3-1 역전 [KS5]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112906427"
+        }
+      ]
     },
     {
       "title": "wec",
@@ -106,94 +194,6 @@
           "title": "기초연금 3만원 더 받는 저소득층, 생계급여 삭감…인상 효과 미미",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Society/article/all/20261108/134985262/1"
-        }
-      ]
-    },
-    {
-      "title": "광안리해수욕장",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 01:30:00 -0800",
-      "news": [
-        {
-          "title": "광안리 해변에 돗자리 깔아두고 ‘10만 원’…중학생까지 자릿세 장사",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261108507475"
-        },
-        {
-          "title": "100만 인파 몰렸다‥부산불꽃축제",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863938_37004.html"
-        },
-        {
-          "title": "1시간에 불꽃 8만발 터진 광안리해수욕장···부산시 예상 넘어 120만 명 몰렸다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611081000011"
-        }
-      ]
-    },
-    {
-      "title": "수능",
-      "approx_traffic": "1000+",
-      "published": "Sun, 8 Nov 2026 01:20:00 -0800",
-      "news": [
-        {
-          "title": "\"수능 최대 변수는 국어\"...N수생 20만 명 역대 최다",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611081615422561"
-        },
-        {
-          "title": "수험생 가족의 촛불 공양",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8203052"
-        },
-        {
-          "title": "수능 열흘 앞으로…생활 리듬 관리 잘해야",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=846466"
-        }
-      ]
-    },
-    {
-      "title": "최태원",
-      "approx_traffic": "5000+",
-      "published": "Sun, 8 Nov 2026 01:00:00 -0800",
-      "news": [
-        {
-          "title": "맏형 최태원의 28년 궤적… SK 행복 씨앗으로 ‘국가 AI’ 설계",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010002998"
-        },
-        {
-          "title": "최태원 “돈이 너무 많이 풀려...롤러코스피 이어질 것”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12200335"
-        },
-        {
-          "title": "서울대 강단 선 최태원…“AI시대 복합 위기, ‘4대 해법’으로 뚫자”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20110913"
-        }
-      ]
-    },
-    {
-      "title": "기아",
-      "approx_traffic": "5000+",
-      "published": "Sun, 8 Nov 2026 00:50:00 -0800",
-      "news": [
-        {
-          "title": "기아, 12년만에 판매목표 달성하나…내년에도 신차 골든 사이클",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261107026700003"
-        },
-        {
-          "title": "'RV가 갈라놓은 형제간 승부' 스포티지 7708대 vs 팰리세이드 3322대",
-          "source": "다나와 자동차",
-          "url": "https://auto.danawa.com/news/?Work=detail&no=6078132&Tab=N1&p=&NewsGroup=M"
-        },
-        {
-          "title": "기아, 12년만에 판매 목표 달성 눈앞…335만대 돌파 초읽기",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20111553"
         }
       ]
     }
