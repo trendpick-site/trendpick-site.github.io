@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-08T21:18:19+00:00",
+  "fetched_at": "2026-11-08T22:14:36+00:00",
   "items": [
     {
-      "title": "김도영",
-      "approx_traffic": "500+",
-      "published": "Sun, 8 Nov 2026 12:10:00 -0800",
+      "title": "kbo 리그",
+      "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 13:10:00 -0800",
       "news": [
         {
-          "title": "“김도영 파워, MLB에서도 통한다” MLB가 이렇게 낙관한 타자 있었나… 美에서도 커져가는 신드롬",
+          "title": "다저스 유니폼 입었던 前 롯데 좌승사자 KBO리그 복귀 추진해보나…美도 \"주목할 만한 마이너 FA\" 조명",
           "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018468"
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018099"
         },
         {
-          "title": "'벌써' KIA 슈퍼스타 최소 1400억 꽃길 예고…美 \"곧 대형 계약 가능, 파워 ML도 통한다\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-11-08/202611080100053240005256"
+          "title": "[오피셜] 다저스산 초대형 매물 韓 리턴? 롯데 자이언츠 前 에이스 반즈, 두산 베어스 前 투수 콜 어빈 모두 FA",
+          "source": "스포탈코리아",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553676712"
         },
         {
-          "title": "“김도영 충분한 파워와 스피드, 그러나…” 美낙관과 우려, 유격수 45홈런이면 ML 몸값 폭등? 1억달러 깔고 간다",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026110817362808032"
+          "title": "KBO 출신엔 큰 벽이었나…'롯데 에이스' 반즈+'두산 어깨빵' 콜어빈, LA 다저스서 나란히 짐 쌌다→MLB 복귀 성공, 결국 FA 시장 간다",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2216683"
         }
       ]
     },
     {
-      "title": "뉴진스",
+      "title": "경제",
       "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 12:10:00 -0800",
+      "published": "Sun, 8 Nov 2026 13:10:00 -0800",
       "news": [
         {
-          "title": "330억 소송에도 각별한 뉴진스…하니·다니엘 얼굴 맞댔다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261108_0003859383"
+          "title": "예결위, 오늘(9일)부터 부처별 내년도 예산안 심사",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8707058"
         },
         {
-          "title": "‘뉴진스 퇴출’ 다니엘, 하니와 마라톤 행사서 포착",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12201681"
+          "title": "[AM-PM] 국회 예결위, 821조 예산안 본격 심사 돌입 外",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261109065440F2I"
         },
         {
-          "title": "뉴진스 하니·다니엘, 국내서 다시 뭉쳤다…어도어 분쟁 속 선행 꾸준",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611080857003"
+          "title": "821조 슈퍼예산 심사 돌입…인천·경기 의원들 ‘지역 예산 사수전’",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336220"
         }
       ]
     },
     {
-      "title": "atlético vs barcelona",
+      "title": "강사",
       "approx_traffic": "500+",
-      "published": "Sun, 8 Nov 2026 12:00:00 -0800",
+      "published": "Sun, 8 Nov 2026 13:00:00 -0800",
       "news": [
         {
-          "title": "Atlético de Madrid - Barcelona en directo, La Liga en vivo | Fermín empata el partido antes del descanso",
-          "source": "EL PAÍS",
-          "url": "https://elpais.com/deportes/futbol/2026-11-08/atletico-de-madrid-barcelona-en-directo-la-liga-en-vivo.html"
-        },
-        {
-          "title": "Atlético-Barça: cuenta atrás para los ONCES en el Metropolitano",
-          "source": "Yahoo",
-          "url": "https://es-us.noticias.yahoo.com/deportes/atl%C3%A9tico-bar%C3%A7a-atr%C3%A1s-onces-metropolitano-175000227.html"
-        },
-        {
-          "title": "XI Oficial: Kang-in Lee acompaña a Julián en la punta de ataque",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/es/noticias/xi-oficial-kang-in-lee-acompana-a-julian-en-la-punta-de-ataque-43747996"
-        }
-      ]
-    },
-    {
-      "title": "thứ hạng của man utd gặp aston villa",
-      "approx_traffic": "500+",
-      "published": "Sun, 8 Nov 2026 12:00:00 -0800",
-      "news": [
-        {
-          "title": "'Lại là nhục nhã cho Man Utd' Kỳ tích hòa 4-4 nhưng vẫn ở vị trí xuống hạng 18... 'Mất 2 bàn trong 3 phút 42 giây' Kỷ lục buồn nhất lịch sử EPL của câu lạc bộ",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/vi/sports/2026/11/09/2026110904123635758"
-        },
-        {
-          "title": "Man United 0-0 Aston Villa: Bruno Fernandes và Matheus Cunha đá chính",
-          "source": "yeuthethao.net.vn",
-          "url": "https://yeuthethao.net.vn/man-united-0-0-aston-villa-bruno-fernandes-va-matheus-cunha-da-chinh-d901731.html"
-        },
-        {
-          "title": "맨체스터 유나이티드 vs 아스톤 빌라 생중계: 전반전 종료, 2-2 무승부",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-manchester-united-vs-aston-villa-het-hiep-1-hoa-2-2"
-        }
-      ]
-    },
-    {
-      "title": "현금",
-      "approx_traffic": "100+",
-      "published": "Sun, 8 Nov 2026 11:50:00 -0800",
-      "news": [
-        {
-          "title": "삼성전자 현금 보유액 200조원 돌파... 하루 2700억원씩 늘어",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/11/08/P6W2K5K3DNEO3MEA4O5EJ7PX3U/"
-        },
-        {
-          "title": "“삼성전자에 돈이 이렇게 많았나”...주주에게 풀 돈도 ‘역대급’",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261108020146772"
-        },
-        {
-          "title": "‘200조’ 역대급 현금 쌓은 삼성… 반도체 증설로 시장지배력 ‘업’",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010003001"
-        }
-      ]
-    },
-    {
-      "title": "잠수함",
-      "approx_traffic": "1000+",
-      "published": "Sun, 8 Nov 2026 11:40:00 -0800",
-      "news": [
-        {
-          "title": "캐나다 잠수함 발주 축소에 독 117조 공약 압박…한화 예비 지위 눈길",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611080818311806fbbec65dfb_1"
-        },
-        {
-          "title": "\"한국 잠수함 제쳐놓더니\"…캐나다, 독일과 계약에 변수",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026110723987"
-        },
-        {
-          "title": "한국 잠수함 탈락시키더니…캐나다 “8척만 먼저 주문” 분할 발주? [밀리터리+]",
-          "source": "나우뉴스",
-          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261105601015"
-        }
-      ]
-    },
-    {
-      "title": "아틀레티코 대 바르셀로나",
-      "approx_traffic": "10000+",
-      "published": "Sun, 8 Nov 2026 11:10:00 -0800",
-      "news": [
-        {
-          "title": "[엠빅뉴스] ‘이강인 질문’에 발끈한 시메오네 감독? 기자가 안절부절못하자..",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/original/mbig/6864035_29041.html"
-        },
-        {
-          "title": "\"야말 나와!\" 이강인, 알바레스와 최전방 투톱 출격... '바르셀로나 사냥' 선봉장 출격 \"리그 1위 탈환한다\" - 머니투데이",
+          "title": "수능 앞두고 \"강의 중단→예능 출연?\"...사탐 강사 이도 '뭇매' - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/09/2026110904422345453"
+          "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110820523921628"
         },
         {
-          "title": "이강인vs야말 맞대결 성사! 아틀레티코, 바르셀로나전 이강인·알바레스 투톱 출격",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12201976"
+          "title": "\"아프다며 강의 중단하더니…\" 넷플 예능 나온 유명 강사 '시끌'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20261108n17414"
+        },
+        {
+          "title": "'인간 마운자로' 신동 인사드립니다",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8198572"
         }
       ]
     },
     {
-      "title": "사랑이 온다",
-      "approx_traffic": "1000+",
-      "published": "Sun, 8 Nov 2026 11:00:00 -0800",
+      "title": "김유정",
+      "approx_traffic": "500+",
+      "published": "Sun, 8 Nov 2026 13:00:00 -0800",
       "news": [
         {
-          "title": "‘사랑이 온다’ 진경, 하석진 향한 광기 폭발… 류승수 위로에 결국 ‘눈물’ 쏟았다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611072149003"
+          "title": "'100일의 거짓말', 운명의 거사 그 후...김유정 기차 탑승→김현주 살기 눈빛 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110814087249543"
         },
         {
-          "title": "[사랑이 온다] 하석진, 회피 루트 타려는 배윤규에 현실 조언 “네가 갔던 길에 대한 대가는 치러야지”",
-          "source": "KBS연예",
-          "url": "https://kstar.kbs.co.kr/list_view.html?idx=414228"
+          "title": "“감독님 나와보세요”…‘100일의 거짓말’, 박진영 폭탄 엔딩 속 시청률 상승[美친시청률]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/08/GU3TENTBGE3TGMBWGYZTAYJSG4/"
         },
         {
-          "title": "'사랑이 온다' 시청률 14.7% 동시간대 1위 수성",
-          "source": "비즈엔터",
-          "url": "https://enter.etoday.co.kr/news/view/304914"
+          "title": "김현주, 김유정 약속 지켰다 \"내일 밤에 미국으로 떠나\" (100일의 거짓말)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20261107n12899"
         }
       ]
     },
     {
-      "title": "압구정동",
-      "approx_traffic": "1000+",
-      "published": "Sun, 8 Nov 2026 10:50:00 -0800",
-      "news": [
-        {
-          "title": "좀만 참을 걸…김동현 100억에 산 압구정현대, 80억대로",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11628648"
-        },
-        {
-          "title": "UFC파이터 김동현도 ‘주인 근저당’ … 100억 압구정아파트 절반 집주인 돈 빌려",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12196333"
-        },
-        {
-          "title": "김동현, 압구정 100억 아파트 샀는데…50억 빌려준 사람 누구? [집코노미-핫!부동산]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026103070927"
-        }
-      ]
-    },
-    {
-      "title": "f1",
+      "title": "카를로스 알카라스",
       "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 10:50:00 -0800",
+      "published": "Sun, 8 Nov 2026 13:00:00 -0800",
       "news": [
         {
-          "title": "F1 LIVE: Sao Paulo Grand Prix 2026 reaction & result as Norris wins in Interlagos",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/formula1/live/ckge0zygre7t"
+          "title": "루드 꺾고 결승행, 환호하는 알카라스",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261108_0002285952"
         },
         {
-          "title": "TREMAYNE: Why this Mercedes title victory is one of Toto Wolff’s greatest triumphs",
-          "source": "Formula 1",
-          "url": "https://www.formula1.com/en/latest/article/why-this-mercedes-title-victory-is-one-of-toto-wolffs-greatest-triumphs.520nWmdi7JAxC4ALa8HnPd"
+          "title": "알카라스, 베레티니 부상 기권으로 파리 마스터스 8강…프리츠와 격돌",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2644971"
         },
         {
-          "title": "Brazilian GP: Lando Norris wins in the rain, podium for Isack Hadjar",
-          "source": "https://www.autohebdof1.com/",
-          "url": "https://www.autohebdof1.com/news/f1/Brazilian-GP%3A-Lando-Norris-wins-in-the-rain--podium-for-Isack-Hadjar.html"
+          "title": "프리츠, 알카라스전 매치 포인트 2개 놓치고 ATP 파이널스 진출 실패",
+          "source": "Mezha.net",
+          "url": "https://mezha.net/ko/news/mezha-bb874327a8ee1e5b7e6bfa15_fritz-misses-atp-finals-after-losing/"
+        }
+      ]
+    },
+    {
+      "title": "김연경",
+      "approx_traffic": "1000+",
+      "published": "Sun, 8 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "'신인감독 김연경2', 역전할 수 있을까…황연주 체력 빨간불",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02282886645643424&mediaCodeNo=257"
+        },
+        {
+          "title": "김연경, 결국 작전판 내던졌다…인쿠시 플레이에 '극대노' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110902163423027"
+        },
+        {
+          "title": "김연경도 주목한 이예은의 재발견…신흥콤비 ‘옌쿠시’ 등장(‘신인감독2’)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/08/GEYTIMLEMEYTQODCHAZWCYJQGQ/"
+        }
+      ]
+    },
+    {
+      "title": "jensen huang",
+      "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 12:40:00 -0800",
+      "news": [
+        {
+          "title": "Statement from NVIDIA Board of Directors",
+          "source": "NVIDIA Newsroom",
+          "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+        },
+        {
+          "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+        },
+        {
+          "title": "Jensen Huang Rumored to Have Had Romantic Relationship with Chinese Spy... Controversy Grows",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008835443"
+        }
+      ]
+    },
+    {
+      "title": "พยากรณ์อากาศ",
+      "approx_traffic": "100+",
+      "published": "Sun, 8 Nov 2026 12:40:00 -0800",
+      "news": [
+        {
+          "title": "กรมอุตุฯ เตือนฉบับที่ 1 ไทยตอนบนจะมีอากาศเย็นลง ใต้ฝนตกหนักถึงหนักมาก 9-13 พ.ย.",
+          "source": "Matichon Online",
+          "url": "https://www.matichon.co.th/local/news_5967161"
+        },
+        {
+          "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉ.1 | 8 พ.ย. 2569 เวลา 17.00 น. 🌧️ 9–13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก ไทยตอนบนอากาศเย็นลง มีลมแรง กรมอุตุฯ เตือนฝนตกหนัก-หนักมากภาคใต้ ช่วง 9–13 พฤศจิกายน 2569 เสี่ยงน้ำท่วมฉับพลันและน้ำป่าไหลหลาก โดยเฉพาะพื้นที่ลาดเชิงเขาใกล้ทาง",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/tmd.go.th/posts/-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B8%891-8-%E0%B8%9E%E0%B8%A2-2569-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1700-%E0%B8%99%EF%B8%8F-913-%E0%B8%9E%E0%B8%A2-%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%9D%E0%B8%99%E0%B8%95%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2/1605830921589037/"
+        },
+        {
+          "title": "รัฐบาลเตือนภาคใต้เตรียมรับมือฝนตกต่อเนื่องและฝนสะสม เสี่ยงอุทกภัย 8 - 13 พ.ย. 69 สั่งจนท.เฝ้าระวัง",
+          "source": "SondhiX",
+          "url": "https://sondhitalk.com/detail/9690000106888"
+        }
+      ]
+    },
+    {
+      "title": "종신보험",
+      "approx_traffic": "100+",
+      "published": "Sun, 8 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "라이나생명, 종신보험 카드납 허용 제한 해제",
+          "source": "보험매일",
+          "url": "https://www.fins.co.kr/news/articleView.html?idxno=110441"
+        },
+        {
+          "title": "죽기전 꺼내쓰고, 보험금 ‘리필’도…2030 사로잡은 종신보험의 변신",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261108/134985905/1"
+        }
+      ]
+    },
+    {
+      "title": "사관학교",
+      "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 12:20:00 -0800",
+      "news": [
+        {
+          "title": "해사 이전 반대…“통합 철회·사업비 공개해야”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706270"
+        },
+        {
+          "title": "[단독] 전면 통합 대신… 사관학교 분리·통합 병행 검토",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/politics/diplomacy/2026/11/09/20261109001006"
+        },
+        {
+          "title": "진해시민 \"80년 역사 해군사관학교 지켜내자\"",
+          "source": "경남매일",
+          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=598186"
         }
       ]
     }
