@@ -1,11 +1,187 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-08T01:06:22+00:00",
+  "fetched_at": "2026-11-08T02:08:06+00:00",
   "items": [
     {
-      "title": "밥",
+      "title": "첫눈",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 17:00:00 -0800",
+      "news": [
+        {
+          "title": "\"이대로 겨울 오는 건 아냐\"...때 이른 추위, 언제까지? [Y녹취록]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0134_202611080929115361_005.html"
+        },
+        {
+          "title": "[날씨] 휴일 낮에도 쌀쌀해…중부 약한 비·진눈깨비",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261108104057lTc"
+        },
+        {
+          "title": "쌀쌀하고 흐린 주말…산불 주의",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706864"
+        }
+      ]
+    },
+    {
+      "title": "인구감소지역",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 16:50:00 -0800",
+      "news": [
+        {
+          "title": "사람은 많이 오는데 “여기서 살 생각은 없어요”…인구감소 ‘경남의 역설’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12201563"
+        },
+        {
+          "title": "경남 인구감소지역 11곳, 등록 인구↓·체류 인구↑",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706757"
+        },
+        {
+          "title": "공주에 무슨 일?… 생활인구 14만명 늘며 전국 2위 도약",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261105_0003856782"
+        }
+      ]
+    },
+    {
+      "title": "이자",
+      "approx_traffic": "500+",
+      "published": "Sat, 7 Nov 2026 16:50:00 -0800",
+      "news": [
+        {
+          "title": "금융위, 햇살론 2천500억원 등 '포용금융' 예산 증액 추진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261107040900002"
+        },
+        {
+          "title": "금융위, 햇살론 예산 2455억원 증액 추진…취약계층 이자 부담 낮춘다",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/11/08/HE3GGMZUGU3TGNJQMVSTSYLBMQ/"
+        },
+        {
+          "title": "“빚 갚으면 이자 환급” 금융위 파격 카드",
+          "source": "한경매거진",
+          "url": "https://magazine.hankyung.com/business/article/202611082787b"
+        }
+      ]
+    },
+    {
+      "title": "우박",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 16:50:00 -0800",
+      "news": [
+        {
+          "title": "세계 곳곳 우박 피해 속출…우박이 점점 커지는 이유",
+          "source": "DongA Science",
+          "url": "https://www.dongascience.com/ko/news/80745"
+        },
+        {
+          "title": "\"우박 폭풍 얼마나 심했길래…\" 기체 찌그러지고 조종석 유리 깨지고",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/life/2026-10-30/202610300100195980013750"
+        },
+        {
+          "title": "11월 8일부터 11일까지 집중호우에 대비하여 관개 시설의 안전을 확보하고 대응합니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/bao-dam-an-toan-cong-trinh-thuy-loi-ung-pho-mua-lon-tu-8-11-11"
+        }
+      ]
+    },
+    {
+      "title": "코리아 그랜드 뮤직 어워즈",
       "approx_traffic": "1000+",
+      "published": "Sat, 7 Nov 2026 16:40:00 -0800",
+      "news": [
+        {
+          "title": "튜이드, 데뷔 2개월 반만에 ‘2026 KGMA’ 첫 신인상 수상 ‘대세 신인’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/music/2026/11/08/GY3DQMTDMZSGMMRUHEYDSNDGMQ/"
+        },
+        {
+          "title": "'대세' 리센느, 'KGMA' 4관왕…소속사 대표도 수상-리더 원이 MC 데뷔",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6603610"
+        },
+        {
+          "title": "트레저, '대상' 포함 4관왕 됐다..성공적 'YG 힙합 DNA'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112906225"
+        }
+      ]
+    },
+    {
+      "title": "sk하이닉스",
+      "approx_traffic": "20000+",
+      "published": "Sat, 7 Nov 2026 16:30:00 -0800",
+      "news": [
+        {
+          "title": "지난주 삼전닉스 7조 던진 외인...보유율도 최저",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611080926229369_005.html"
+        },
+        {
+          "title": "외국인, 지난주 삼전닉스 7.6조 던졌다…보유율도 수년만 최저",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261107026400008"
+        },
+        {
+          "title": "오를 땐 팔고 급락하니 산다…'떨어지는 칼날' 잡는 개미들",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/general-stock/6346269"
+        }
+      ]
+    },
+    {
+      "title": "후티",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 16:30:00 -0800",
+      "news": [
+        {
+          "title": "후티 반군 \"사우디 국제공항·아람코 석유 저장탱크 타격\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443609"
+        },
+        {
+          "title": "후티 \"사우디 공습에 60여 명 사상\"...시리아, 사우디 지원군 보내나?",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611080750445178"
+        },
+        {
+          "title": "시리아군 사우디·예멘 파병설…시리아 정부 측 부인",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261108001900099"
+        }
+      ]
+    },
+    {
+      "title": "메이저 리그 베이스볼",
+      "approx_traffic": "200+",
+      "published": "Sat, 7 Nov 2026 16:20:00 -0800",
+      "news": [
+        {
+          "title": "WBC 한국전서 세이브 올린 대만 쩡쥔웨, MLB 문 두드린다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859183"
+        },
+        {
+          "title": "'WBC 한국전 세이브' 대만 투수 쩡쥔웨, MLB 진출 도전",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/overseas-baseball/6346604"
+        },
+        {
+          "title": "`MLB행 도전합니다` 대만 투수 쩡쥔웨 포스팅 공시…2026 WBC 한국 상대 세이브올려",
+          "source": "마이데일리",
+          "url": "https://www.mydaily.co.kr/page/view/2026110810210667324"
+        }
+      ]
+    },
+    {
+      "title": "밥",
+      "approx_traffic": "2000+",
       "published": "Sat, 7 Nov 2026 15:50:00 -0800",
       "news": [
         {
@@ -44,166 +220,6 @@
           "title": "스카프에 아동복까지…’핫플’ 된 남대문시장",
           "source": "연합뉴스TV",
           "url": "https://www.yonhapnewstv.co.kr/news/MYH20261107091619emp"
-        }
-      ]
-    },
-    {
-      "title": "기초 연구",
-      "approx_traffic": "100+",
-      "published": "Sat, 7 Nov 2026 15:40:00 -0800",
-      "news": [
-        {
-          "title": "[김우재의 플라이룸](89) 빈 의자의 R&D…예산은 39.5조원, 사람은 왜 늘지 않나",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202611061327001"
-        },
-        {
-          "title": "2027년도 기초연구사업 2.91조 원 투자 총 과제 수 18,516개로 역대 최대 지원",
-          "source": "BRIC",
-          "url": "https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=10063428&title=2027%EB%85%84%EB%8F%84+%EA%B8%B0%EC%B4%88%EC%97%B0%EA%B5%AC%EC%82%AC%EC%97%85+2.91%EC%A1%B0+%EC%9B%90+%ED%88%AC%EC%9E%90+%EC%B4%9D+%EA%B3%BC%EC%A0%9C+%EC%88%98+18%2C516%EA%B0%9C%EB%A1%9C+%EC%97%AD%EB%8C%80+%EC%B5%9C%EB%8C%80+%EC%A7%80%EC%9B%90"
-        },
-        {
-          "title": "내년 '기초연구' 2조 9102억 투자…지역·청년 연구 지원 확대",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975126"
-        }
-      ]
-    },
-    {
-      "title": "솔트레이크 대 la 갤럭시",
-      "approx_traffic": "5000+",
-      "published": "Sat, 7 Nov 2026 15:30:00 -0800",
-      "news": [
-        {
-          "title": "How the LA Galaxy can clinch a spot in the Audi 2026 MLS Cup Playoffs",
-          "source": "LA Galaxy",
-          "url": "https://www.lagalaxy.com/news/how-the-la-galaxy-can-clinch-a-spot-in-the-audi-2026-mls-cup-playoffs"
-        },
-        {
-          "title": "RSL Hosts Must-Win Matchup Against Storied Rival LA Galaxy Saturday in Sandy",
-          "source": "Real Salt Lake",
-          "url": "https://www.rsl.com/news/rsl-hosts-must-win-matchup-against-storied-rival-la-galaxy-saturday-in-sandy"
-        },
-        {
-          "title": "Real Salt Lake fights for a playoff spot in season finale game",
-          "source": "KUTV",
-          "url": "https://kutv.com/features/fresh-living/real-salt-lake-fights-for-a-playoff-spot-in-season-finale-game"
-        }
-      ]
-    },
-    {
-      "title": "상호저축은행",
-      "approx_traffic": "200+",
-      "published": "Sat, 7 Nov 2026 15:30:00 -0800",
-      "news": [
-        {
-          "title": "'1000억 족쇄' 못 푼 저축은행… 자산관리회사 설립 해 넘긴다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/11/08/2026110614230969126"
-        },
-        {
-          "title": "[기획] 신협, 자산관리회사 설립 본격화… 부실자산 관리 전문성 강화:시사앤피플",
-          "source": "시사앤피플",
-          "url": "https://www.sisanpeople.com/17200"
-        },
-        {
-          "title": "연 4% 예금·연 10% 적금…다시 은행으로",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706379"
-        }
-      ]
-    },
-    {
-      "title": "코스피 11% 급락 원인과 정부의 반대매매 완화 조치 내용 알려줘",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 15:20:00 -0800",
-      "news": []
-    },
-    {
-      "title": "리암 델랍",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 15:20:00 -0800",
-      "news": [
-        {
-          "title": "[속보] ‘충격’ 현실···맨유 결국 ‘PL 18위 강등권’ 추락, 맨시티의 예상 못한 패배의 나비 효과, 빌라...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611080508003"
-        },
-        {
-          "title": "도쿠, “포레스트 원정에서 스스로 어렵게 만들었다”",
-          "source": "Manchester City FC",
-          "url": "https://kr.mancity.com/news/mens/doku-post-forest-reaction-pl-7-nov-63929682"
-        },
-        {
-          "title": "'가파른 내리막' 7연승→3연패→선두 아스널과 승점 6점차, 단단히 화난 맨체스터 시티 마레스카 감독 \"(선수들) 강렬함이 부족했다\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-11-08/202611080100053150005251"
-        }
-      ]
-    },
-    {
-      "title": "시애틀 사운더스 대 엘에이 fc",
-      "approx_traffic": "20000+",
-      "published": "Sat, 7 Nov 2026 15:10:00 -0800",
-      "news": [
-        {
-          "title": "SEAvLAFC Starting XI: Coach Schmetzer names his lineup for Decision Day clash with LAFC",
-          "source": "Seattle Sounders FC",
-          "url": "https://www.soundersfc.com/news/seavlafc-starting-xi-coach-schmetzer-names-his-lineup-for-decision-day-clash-with-lafc"
-        },
-        {
-          "title": "Sounders vs. LAFC, livestream: Kickoff, lineups, updates",
-          "source": "Sounder at Heart",
-          "url": "https://www.sounderatheart.com/2026/11/sounders-vs-lafc-livestream-kickoff-lineups-updates/"
-        },
-        {
-          "title": "Seattle Sounders face historic stakes in Decision Day clash with LAFC",
-          "source": "MLSsoccer.com",
-          "url": "https://www.mlssoccer.com/news/seattle-sounders-face-historic-stakes-in-decision-day-clash-with-lafc"
-        }
-      ]
-    },
-    {
-      "title": "야구",
-      "approx_traffic": "10000+",
-      "published": "Sat, 7 Nov 2026 15:10:00 -0800",
-      "news": [
-        {
-          "title": "최대 미스터리! 107억 다승왕까지 대기했는데, 5회 만루 찬스→왜 대타 안 썼나 \"김상수 연습 때는 잘 쳤는데…\" [KS4]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/08/MZRTIZRQMU4TSODFGU3TAMZTGI/"
-        },
-        {
-          "title": "'90승' 1위팀 우승 확률 고작 5.3%라니…승패패패 충격→600승 명장 최후의 총력전 선언 “고영표 소형준까지 대기” [KS] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/08/202611080729775319O"
-        },
-        {
-          "title": "장찬희·이재희 호투+박승규 3타점 펄펄…삼성, 12년 만의 KS 정상까지 ‘1승’ 남았다.",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629549"
-        }
-      ]
-    },
-    {
-      "title": "kn-23",
-      "approx_traffic": "500+",
-      "published": "Sat, 7 Nov 2026 15:10:00 -0800",
-      "news": [
-        {
-          "title": "Russia and Ukraine Launch Massive Missile and Drone Attacks Ahead of End-of-War Negotiations",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008835475"
-        },
-        {
-          "title": "Zelenskyy Says North Korean KN-23 Missiles Used in Ukraine Energy Attacks",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/world-en/2026/11/08/GJR3FXN4CZCRRKT7FFCYDTQDNY/"
-        },
-        {
-          "title": "Zelenskyy: Russia used North Korean KN-23 missiles to strike Ukraine’s energy facilities",
-          "source": "파이낸셜뉴스",
-          "url": "https://en.fnnews.com/news/202611080120138722"
         }
       ]
     }
