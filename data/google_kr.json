@@ -1,40 +1,47 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-08T11:43:54+00:00",
+  "fetched_at": "2026-11-08T12:53:56+00:00",
   "items": [
     {
-      "title": "폴란드 총기난사",
-      "approx_traffic": "1000+",
-      "published": "Sun, 8 Nov 2026 02:40:00 -0800",
+      "title": "malut united vs persib bandung",
+      "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 03:50:00 -0800",
       "news": [
         {
-          "title": "폴란드 크라쿠프서 총기난사로 사상자 수십명 발생...'용의자는 극단적 민족주의자'",
-          "source": "BBC",
-          "url": "https://www.bbc.com/korean/articles/cv0ld3444wp5o"
+          "title": "Java United vs Persib Bandung Today: Live Score, Statistics, and Latest Match Updates",
+          "source": "Aktualita.co",
+          "url": "https://aktualita.co/en/sports/java-united-vs-persib-bandung-today-live-score-statistics-and-latest-match-updates"
         },
         {
-          "title": "폴란드 총기 난사로 22명 사상‥\"극우 이념 심취\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864079_37004.html"
-        },
-        {
-          "title": "\"6명 사망\" 충격 휩싸인 폴란드…총격범 집엔 ‘시신 3구’",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12327015"
+          "title": "Java United vs Persib Bandung Today: Live Schedule, Predicted Lineups, and Head-to-Head",
+          "source": "Aktualita.co",
+          "url": "https://aktualita.co/en/sports/java-united-vs-persib-bandung-today-live-schedule-predicted-lineups-and-head-to-head"
         }
       ]
     },
     {
-      "title": "최해천",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 02:10:00 -0800",
+      "title": "국민 총소득",
+      "approx_traffic": "1000+",
+      "published": "Sun, 8 Nov 2026 03:20:00 -0800",
       "news": [
         {
-          "title": "차기 서울대 총장에 최해천 기계공학부 교수",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/11/08/3R5JJK6GPJBH5OQCKJELN67FDQ/"
+          "title": "4인가구 소득 2억이라고?…'부자 한국' 속 서민의 한숨",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110832811"
         },
+        {
+          "title": "“한 산업에 의존한 성장, 지속 어려워… ‘제2 반도체’ 육성 힘 모아야”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261106/134975484/2"
+        }
+      ]
+    },
+    {
+      "title": "최해천 교수",
+      "approx_traffic": "500+",
+      "published": "Sun, 8 Nov 2026 03:00:00 -0800",
+      "news": [
         {
           "title": "서울대 총장 최종 후보에 최해천 공과대학 교수 선출",
           "source": "동아일보",
@@ -44,6 +51,11 @@
           "title": "[속보]서울대 총장 최종후보자 최해천 공과대학 교수",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202611081813001"
+        },
+        {
+          "title": "서울대총장 최종후보 최해천 석좌교수…공과대 출신 20년만",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261108044500004"
         }
       ]
     },
@@ -51,27 +63,11 @@
       "title": "김세레나",
       "approx_traffic": "200+",
       "published": "Sun, 8 Nov 2026 02:10:00 -0800",
-      "news": [
-        {
-          "title": "김세레나 \"첫 남편 유부남인 줄 몰랐다\"…굴곡진 인생사 털어놔",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261106501275"
-        },
-        {
-          "title": "'성형 부작용' 김세레나 근황…\"100억 빌려 주고 못 받아\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110523315220253"
-        },
-        {
-          "title": "\"예쁜 얼굴 다 망가졌다\" 김세레나, 파라핀 성형 부작용 고백 [헬스톡]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611061948054807"
-        }
-      ]
+      "news": []
     },
     {
       "title": "wec",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sun, 8 Nov 2026 02:00:00 -0800",
       "news": [
         {
@@ -141,19 +137,19 @@
       "published": "Sun, 8 Nov 2026 01:20:00 -0800",
       "news": [
         {
-          "title": "수능 열흘 앞으로…생활 리듬 관리 잘해야",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=846466"
-        },
-        {
-          "title": "수험생 가족의 간절한 촛불 공양",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8203062"
-        },
-        {
           "title": "\"수능 최대 변수는 국어\"...N수생 20만 명 역대 최다",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_ln/0103_202611081615422561"
+        },
+        {
+          "title": "수험생 가족의 촛불 공양",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8203052"
+        },
+        {
+          "title": "수능 열흘 앞으로…생활 리듬 관리 잘해야",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=846466"
         }
       ]
     },
@@ -181,40 +177,23 @@
     },
     {
       "title": "기아",
-      "approx_traffic": "10000+",
+      "approx_traffic": "5000+",
       "published": "Sun, 8 Nov 2026 00:50:00 -0800",
       "news": [
         {
-          "title": "현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시 개최",
-          "source": "Genesis Newsroom",
-          "url": "https://newsroom.genesis.com/ko-ko/%ED%98%84%EB%8C%80%EC%B0%A8-%C2%B7%EA%B8%B0%EC%95%84-%252C-%EB%A3%A8%ED%81%AC-%EB%8F%99%EC%BB%A4%EB%B3%BC%EC%BC%80-CCO-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-%EC%A0%84%EC%8B%9C-%EA%B0%9C%EC%B5%9C/"
+          "title": "기아, 12년만에 판매목표 달성하나…내년에도 신차 골든 사이클",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261107026700003"
         },
         {
-          "title": "자동차 디자인은 어떻게 탄생하나…동커볼케 작업 기록 공개",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01476006645643752&mediaCodeNo=257"
+          "title": "'RV가 갈라놓은 형제간 승부' 스포티지 7708대 vs 팰리세이드 3322대",
+          "source": "다나와 자동차",
+          "url": "https://auto.danawa.com/news/?Work=detail&no=6078132&Tab=N1&p=&NewsGroup=M"
         },
         {
-          "title": "제네시스 디자인 이끈 동커볼케…10년 혁신의 기록 공개",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611080938146163"
-        }
-      ]
-    },
-    {
-      "title": "파주 대 충남 아산 fc",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 00:40:00 -0800",
-      "news": [
-        {
-          "title": "충남아산FC, ‘준우승 주역’ 황기욱·박한근 전역 후 복귀",
-          "source": "충청매일",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109709"
-        },
-        {
-          "title": "‘헤더 동점골’ 파주 유재준, “이승우·포든 보며 배워” 축구는 신장이 아닌 심장으로 [케터뷰]",
-          "source": "풋볼리스트",
-          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216629"
+          "title": "기아, 12년만에 판매 목표 달성 눈앞…335만대 돌파 초읽기",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20111553"
         }
       ]
     }
