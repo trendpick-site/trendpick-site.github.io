@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-09T18:28:15+00:00",
+  "fetched_at": "2026-11-09T19:38:02+00:00",
   "items": [
+    {
+      "title": "1인당 국민소득",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 09:20:00 -0800",
+      "news": [
+        {
+          "title": "\"1인당 5700만원 번다고?\"…현실은 딴판인 이유 있었다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110956791"
+        },
+        {
+          "title": "민생 현장에 안 퍼지는 ‘반도체 온기’… 자영업자 돌아섰다",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/politics/2026/11/09/20261109008004"
+        },
+        {
+          "title": "[PPSS 경제진단] 수출 9300억 달러의 역설…나라 경제는 뛰는데 서민 지갑은 닫혔다",
+          "source": "https://www.ppss.kr/",
+          "url": "https://www.ppss.kr/news/articleView.html?idxno=319774"
+        }
+      ]
+    },
     {
       "title": "사이비 종교",
       "approx_traffic": "100+",
@@ -27,7 +49,7 @@
     },
     {
       "title": "골드만삭스",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Mon, 9 Nov 2026 09:00:00 -0800",
       "news": [
         {
@@ -41,9 +63,9 @@
           "url": "https://bloomingbit.io/feed/news/124012"
         },
         {
-          "title": "Morgan Stanley Calls Tesla the “Very Obvious Player” as Data Centers Outbuy the Grid on Batteries",
-          "source": "TIKR.com",
-          "url": "https://www.tikr.com/ko/blog/morgan-stanley-calls-tesla-the-very-obvious-player-as-data-centers-outbuy-the-grid-on-batteries"
+          "title": "미 데이터센터 자체 발전 계획 90GW…실제 가동은 2GW",
+          "source": "토큰포스트",
+          "url": "https://www.tokenpost.kr/news/ai/435373"
         }
       ]
     },
@@ -71,7 +93,7 @@
     },
     {
       "title": "신애",
-      "approx_traffic": "1000+",
+      "approx_traffic": "500+",
       "published": "Mon, 9 Nov 2026 08:20:00 -0800",
       "news": [
         {
@@ -99,18 +121,18 @@
     },
     {
       "title": "gta6",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Mon, 9 Nov 2026 07:20:00 -0800",
       "news": [
         {
-          "title": "GTA6 Release Triggers 1.5M U.S. Absences",
+          "title": "GTA6 Release Sparks $1B Economic Fears",
           "source": "조선일보",
-          "url": "https://www.chosun.com/english/industry-en/2026/11/10/SGZQM3ZS6NBEPE7EBXVFVCBDTE/"
+          "url": "https://www.chosun.com/english/industry-en/2026/11/09/ME7KYHBGNNCIXB3PPQW2ULLC4Q/"
         },
         {
-          "title": "GTA VI launch set to cost bosses £12m as workers book 83,000 days off to play long-awaited game",
-          "source": "The Sun",
-          "url": "https://www.thesun.co.uk/news/40963228/gta-vi-launch-cost-workers-book-days-off/"
+          "title": "German GTA 6 Players Can Legally Take Time Off to Play the Game on Launch, But Spots Are Limited",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch"
         },
         {
           "title": "Australia Reminds GTA 6 Players Their Boss Can Ask for Sick Leave Evidence",
@@ -142,28 +164,6 @@
       ]
     },
     {
-      "title": "nvda",
-      "approx_traffic": "100+",
-      "published": "Mon, 9 Nov 2026 06:50:00 -0800",
-      "news": [
-        {
-          "title": "Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html"
-        },
-        {
-          "title": "Nvidia scandal could lead to reduced microchip exports: Strategist",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/video/2026/11/09/nvidia-scandal-could-lead-to-reduced-microchip-exports-strategist.html"
-        },
-        {
-          "title": "Nvidia Legal Chief's Email Preceded Transfer of Megaspeed Chip Probe to DOJ",
-          "source": "BigGo Finance",
-          "url": "https://finance.biggo.com/news/98c6fded-2278-4a1d-b570-17ddd86db1ae"
-        }
-      ]
-    },
-    {
       "title": "안드레이 알롭스키",
       "approx_traffic": "200+",
       "published": "Mon, 9 Nov 2026 06:20:00 -0800",
@@ -181,10 +181,26 @@
       ]
     },
     {
-      "title": "안랩",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 06:00:00 -0800",
-      "news": []
+      "title": "ai 데이터 센터",
+      "approx_traffic": "100+",
+      "published": "Mon, 9 Nov 2026 06:10:00 -0800",
+      "news": [
+        {
+          "title": "삼성에스디에스 '다음 이정표는 AI DC 계획 확대' 증권사 발표에 강세…2.98%",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1193641"
+        },
+        {
+          "title": "[클릭 e종목]\"삼성SDS, 데이터센터 추가 확보 기대…목표가 ↑\"",
+          "source": "아시아경제",
+          "url": "https://core.asiae.co.kr/article/2026110915263348144"
+        },
+        {
+          "title": "구미 다시 뛰게 한 삼성 `투자 홈런`…TK 달군 `삼성 신화`",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026110816474590350"
+        }
+      ]
     }
   ]
 }
