@@ -1,27 +1,144 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-09T05:08:34+00:00",
+  "fetched_at": "2026-11-09T06:11:05+00:00",
   "items": [
     {
-      "title": "pak vs sl",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 20:00:00 -0800",
+      "title": "윤여정",
+      "approx_traffic": "500+",
+      "published": "Sun, 8 Nov 2026 21:00:00 -0800",
       "news": [
         {
-          "title": "Kusal Mendis: 'I have no doubt in my batting line-up'",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/story/pak-vs-sl-1st-test-kusal-mendis-has-no-doubt-his-batters-can-deal-with-all-sorts-of-conditions-1561879"
+          "title": "[사진]윤여정 '우아한 출국길'",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/09/GVSGKMTEMRRDCMTFHE3GEMTGGU/"
         },
         {
-          "title": "PAK vs SL 1st Test 2026 live scorecard, toss winner, winning probability, result and highlights from Rawalpindi",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/pak-vs-sl-1st-test-183001983.html"
+          "title": "[영상] 윤여정, 깔끔하고 고급진 할꾸 '멋쟁이 할머니 코어'",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524068"
+        },
+        {
+          "title": "80세 윤여정, 연예계 최고령 공항패션…백발에 화이트코트 ‘우아 그 자체’[Oh!쎈 이슈]",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261108180651252"
+        }
+      ]
+    },
+    {
+      "title": "의과대학",
+      "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 20:50:00 -0800",
+      "news": [
+        {
+          "title": "'의대 탈락' 목포지역에 전남대병원 분원 설립 검토",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261109052200054"
+        },
+        {
+          "title": "김형동 국회의원, 국립경국대 의대 설립으로 경북 북부권 의료 혁신 기대",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261109500635"
+        },
+        {
+          "title": "[패트롤]안동시-영주시",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261108023246778"
+        }
+      ]
+    },
+    {
+      "title": "아나운서",
+      "approx_traffic": "2000+",
+      "published": "Sun, 8 Nov 2026 20:40:00 -0800",
+      "news": [
+        {
+          "title": "쌩얼에 안경쓰고 ‘지진 속보’ 전한 공영방송 아나운서…일본서 화제",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629830"
+        },
+        {
+          "title": "'파란 스웨터·안경·민낯' 日 새벽 1시 지진 속보 전한 아나운서 모습에 누리꾼 '엄지척'",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026110914204581600"
+        },
+        {
+          "title": "일본 5.7 지진에 20여 명 부상...\"2~3일 강한 여진 주의\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611090840181300"
+        }
+      ]
+    },
+    {
+      "title": "pakistan vs sri lanka",
+      "approx_traffic": "1000+",
+      "published": "Sun, 8 Nov 2026 20:40:00 -0800",
+      "news": [
+        {
+          "title": "Babar: 'Selection not in my hands, I simply give my inputs'",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/story/pak-vs-sl-2026-babar-azam-selection-not-in-my-hands-i-simply-give-my-inputs-1561918"
         },
         {
           "title": "Pakistan update WTC27 series squad against Sri Lanka",
           "source": "ICC",
           "url": "https://www.icc-cricket.com/news/pakistan-update-wtc27-series-squad-against-sri-lanka"
+        },
+        {
+          "title": "'Everyone knows how to play on a green wicket': Kusal Mendis backs Sri Lanka batters to tackle Pakistan's pace challenge",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/everyone-knows-play-green-wicket-213000642.html"
+        }
+      ]
+    },
+    {
+      "title": "로켓",
+      "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 20:40:00 -0800",
+      "news": [
+        {
+          "title": "이노스페이스, 준궤도 로켓 '세빛' 재도전…29일 발사 목표",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261109030000017"
+        },
+        {
+          "title": "‘와신상담’ 국내 민간로켓 세빛, 이번엔 발사 성공할까…오는 29일 우주행 재도전",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611091159001"
+        }
+      ]
+    },
+    {
+      "title": "반계리 은행나무",
+      "approx_traffic": "2000+",
+      "published": "Sun, 8 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "'비 내리듯 우수수' 거짓말처럼 잎 떨군 원주 반계리 은행나무",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261109063100062"
+        },
+        {
+          "title": "[포토] 사랑을 남기고 떠나는 가을",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261109500540"
+        },
+        {
+          "title": "1시간 만에 앙상해졌다…'우수수' 바닥에 쌓인 황금빛",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837348"
+        }
+      ]
+    },
+    {
+      "title": "트로이 왓슨",
+      "approx_traffic": "100+",
+      "published": "Sun, 8 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "'트로이 '목마' 왓슨 FA 됐다' LG와 한화, 또 격한 영입 경쟁할까?...NPB 진출 가능성도",
+          "source": "마니아타임즈",
+          "url": "https://www.maniareport.com/view.php?ud=20261106060801229691b55a0d56_19"
         }
       ]
     },
@@ -36,20 +153,42 @@
           "url": "https://view.asiae.co.kr/article/2026110908402307630"
         },
         {
-          "title": "맏형 최태원의 28년 궤적… SK 행복 씨앗으로 ‘국가 AI’ 설계",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010002998"
-        },
-        {
           "title": "\"가만히 갖고 있으라더니\"…40% 고꾸라진 주가에 하닉 개미들 속앓이",
           "source": "더팩트",
           "url": "https://news.tf.co.kr/read/economy/2386242.htm"
+        },
+        {
+          "title": "맏형 최태원의 28년 궤적… SK 행복 씨앗으로 ‘국가 AI’ 설계",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010002998"
+        }
+      ]
+    },
+    {
+      "title": "생일",
+      "approx_traffic": "500+",
+      "published": "Sun, 8 Nov 2026 19:50:00 -0800",
+      "news": [
+        {
+          "title": "린, 생일 맞아 포스터 공개…단독 콘서트 앞두고 근황",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16271464"
+        },
+        {
+          "title": "린, 붉은 드레스와 미소로 전한 생일 근황…팬심 사로잡다",
+          "source": "진일보 | 전남일보",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000080815"
+        },
+        {
+          "title": "가수 린, 고궁 야경 아래 드레스 자태…10월 끝에 전한 노래 한 곡",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264699"
         }
       ]
     },
     {
       "title": "용산공원",
-      "approx_traffic": "500+",
+      "approx_traffic": "200+",
       "published": "Sun, 8 Nov 2026 19:50:00 -0800",
       "news": [
         {
@@ -58,147 +197,14 @@
           "url": "https://www.khan.co.kr/article/202611091152001"
         },
         {
-          "title": "\"용산공원에 아파트 짓지 마라\"…용산구, 주택 공급 위한 법 개정 반대",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/realestate/general/6347693"
+          "title": "서울 용산구, '용산공원 특별법' 개정 추진에 \"분명한 반대\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837227"
         },
         {
-          "title": "정부 “용산공원 주택공급, 장교숙소 등 우선 검토”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261109/134988236/2"
-        }
-      ]
-    },
-    {
-      "title": "소방",
-      "approx_traffic": "100+",
-      "published": "Sun, 8 Nov 2026 19:50:00 -0800",
-      "news": [
-        {
-          "title": "이 대통령 \"정부가 소방의 119 될 것\"‥처우 개선·재원 확보 약속",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6864224_36911.html"
-        },
-        {
-          "title": "이 대통령 \"소방재원 안정적 확보…처우 세심히\"",
+          "title": "[단독] \"제발 용산에 청년 아파트 그만\"…행정감사 서울시의원 발언 논란",
           "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261109135548Vrx"
-        },
-        {
-          "title": "국힘, 국회서 영화 '소방관' 상영회…\"소방예산 확 바꾸겠다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261109077300001"
-        }
-      ]
-    },
-    {
-      "title": "김연아",
-      "approx_traffic": "2000+",
-      "published": "Sun, 8 Nov 2026 19:30:00 -0800",
-      "news": [
-        {
-          "title": "'임신설 부인' 김연아, 볼살 통통하게 오른 모습 공개…여전한 미모 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6347161"
-        },
-        {
-          "title": "‘고우림♥’ 김연아, 여전한 청순 미모",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12202061"
-        },
-        {
-          "title": "'화이트 골드' 아닌 김연아 골드!…드디어 YUNA 커피 나왔다→초대형 박스 끌어 안고 '활짝'",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20261107n00768"
-        }
-      ]
-    },
-    {
-      "title": "연차",
-      "approx_traffic": "1000+",
-      "published": "Sun, 8 Nov 2026 19:20:00 -0800",
-      "news": []
-    },
-    {
-      "title": "jtbc",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 19:20:00 -0800",
-      "news": [
-        {
-          "title": "JTBC launches sale, to pick preferred buyer in January",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-finance/2026/11/09/I67ZL7I37VCOJOM7A6MXFLPHRM/"
-        },
-        {
-          "title": "Troubled broadcaster JTBC to select preferred bidder in Jan.",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20261109001900315"
-        },
-        {
-          "title": "In the M&A market next week, KDB Life Insurance, which is nearing the end of the preferred bidde..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/stock/12201625"
-        }
-      ]
-    },
-    {
-      "title": "삼전닉스",
-      "approx_traffic": "20000+",
-      "published": "Sun, 8 Nov 2026 19:10:00 -0800",
-      "news": [
-        {
-          "title": "\"개미들 공포에 떠는데\"…월가 큰손들 반도체 다시 보는 까닭 [빈난새의 빈틈없이마켓]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611094448i"
-        },
-        {
-          "title": "양시장 반등…코스피 5100선 넘어",
-          "source": "아시아경제",
-          "url": "https://core.asiae.co.kr/article/2026110913524831135"
-        },
-        {
-          "title": "외국인 7일째 '팔자'에도…ETF 담는 개미들, 삼전닉스 들어 올렸다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/09/2026110911301182528"
-        }
-      ]
-    },
-    {
-      "title": "김희영",
-      "approx_traffic": "100+",
-      "published": "Sun, 8 Nov 2026 19:10:00 -0800",
-      "news": [
-        {
-          "title": "“최태원 동거인은 중국간첩” 주장한 ‘배터리 아저씨’ 2심도 벌금 700만원",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12093593"
-        },
-        {
-          "title": "‘최태원 동거인 간첩설’ 배터리 아저씨, 항소심도 벌금형",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/11/06/Y66KXM4JOZA5RBAAVDX3FYHUTM/"
-        }
-      ]
-    },
-    {
-      "title": "신인감독 김연경",
-      "approx_traffic": "5000+",
-      "published": "Sun, 8 Nov 2026 18:50:00 -0800",
-      "news": [
-        {
-          "title": "'신인감독' 김연경, 흥국생명에 3대2 대역전 '2연승 쾌거' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110902291872728"
-        },
-        {
-          "title": "“짜증 나 죽겠네” 작전판 내던진 김연경…역대급 대노한 이유는",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261109504342"
-        },
-        {
-          "title": "김연경도 주목한 이예은의 재발견…신흥콤비 ‘옌쿠시’ 등장(‘신인감독2’)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/08/GEYTIMLEMEYTQODCHAZWCYJQGQ/"
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108174544Z2c"
         }
       ]
     }
