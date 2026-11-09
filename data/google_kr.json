@@ -1,11 +1,160 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-09T20:29:28+00:00",
+  "fetched_at": "2026-11-09T21:29:13+00:00",
   "items": [
     {
-      "title": "장례",
+      "title": "드라마",
+      "approx_traffic": "1000+",
+      "published": "Mon, 9 Nov 2026 12:20:00 -0800",
+      "news": [
+        {
+          "title": "5.18 다룬 뒤 '에잇'하고 시청자가 떠났다? '닥터 X' 때린 조선일보",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283151"
+        },
+        {
+          "title": "\"닥터X, 의사 집단 매도하는 막장 드라마\" 홍준표의 직격",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611090614421952"
+        },
+        {
+          "title": "'암살자들'·'닥터X' 역사왜곡 논란 계기…野김승수·김장겸, 11일 국회 토론회",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1712669/%EC%95%94%EC%82%B4%EC%9E%90%EB%93%A4%EB%8B%A5%ED%84%B0X-%EC%97%AD%EC%82%AC%EC%99%9C%EA%B3%A1-%EB%85%BC%EB%9E%80-%EA%B3%84%EA%B8%B0%E9%87%8E%EA%B9%80-2026"
+        }
+      ]
+    },
+    {
+      "title": "박수홍",
+      "approx_traffic": "500+",
+      "published": "Mon, 9 Nov 2026 12:20:00 -0800",
+      "news": [
+        {
+          "title": "박수홍 아내, 딸 고가 패딩 '돈자랑' 논란에 남긴 말 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110808321587107"
+        },
+        {
+          "title": "‘박수홍♥’ 김다예, 딸 명품 패딩 논란에 심경 토로…“지치고 슬퍼”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611081036003"
+        },
+        {
+          "title": "[센터엔터] 박수홍 아내, 자녀 명품 의류 자랑 논란에 \"지친다\" 外",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261109130619fmy"
+        }
+      ]
+    },
+    {
+      "title": "삼성전기",
+      "approx_traffic": "500+",
+      "published": "Mon, 9 Nov 2026 11:50:00 -0800",
+      "news": [
+        {
+          "title": "삼성전기 'MLCC' 품귀… 가격 올려도 장기계약 몰린다",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611081825175377"
+        },
+        {
+          "title": "\"없어서 못 파는 AI 부품\"…증설 나선 삼성전기, LG이노텍은 왜 기다리나",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/article/2026110720174965684"
+        }
+      ]
+    },
+    {
+      "title": "홈플러스",
+      "approx_traffic": "500+",
+      "published": "Mon, 9 Nov 2026 11:50:00 -0800",
+      "news": [
+        {
+          "title": "월급 밀리고 매대는 ‘텅텅’ 또다시 휘청이는 홈플러스···“기업회생 진짜 물건너 가나”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611081518001"
+        },
+        {
+          "title": "매대 비고 월급도 밀려…홈플러스, 자금 악순환에 회생 '빨간불'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106192400030"
+        },
+        {
+          "title": "2000억 수혈에도 급여 절반 미지급…홈플러스, 희망퇴직 400명도 철회",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/distribution/6346778"
+        }
+      ]
+    },
+    {
+      "title": "1기 신도시",
       "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 11:50:00 -0800",
+      "news": [
+        {
+          "title": "산본·중동 거래 늘고, 분당·평촌 집값 뛰고",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336359"
+        },
+        {
+          "title": "군포 산본 아파트 거래량 108% 급증…1기 신도시 증가율 1위",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040258"
+        },
+        {
+          "title": "'토허제'가 갈랐다…산본 거래량 2배 늘때 분당 '반토막'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110957091"
+        }
+      ]
+    },
+    {
+      "title": "로스앤젤레스 다저스",
+      "approx_traffic": "100+",
+      "published": "Mon, 9 Nov 2026 11:50:00 -0800",
+      "news": [
+        {
+          "title": "Cubs plan to sit out Tarik Skubal bidding war, but pitching needs are clear",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7764521/2026/11/09/cubs-tarik-skubal-pitching-needs-offseason/"
+        },
+        {
+          "title": "MLB rumors: Why the Dodgers could be Tarik Skubal or bust; Red Sox looking for pitching depth",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/mlb/news/mlb-rumors-dodgers-tarik-skubal-contract-red-sox-pitching-depth/"
+        },
+        {
+          "title": "MLB offseason buzz: Intel on Skubal, free agency, trade rumors",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/50328890/mlb-early-free-agency-buzz-intel-skubal-trade-rumors"
+        }
+      ]
+    },
+    {
+      "title": "신한은행",
+      "approx_traffic": "100+",
+      "published": "Mon, 9 Nov 2026 11:30:00 -0800",
+      "news": [
+        {
+          "title": "[게시판] 신한은행, 최고 연 4% 정기예금 2차 특판",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261109038200002"
+        },
+        {
+          "title": "신한은행, 연 4% 예금 '슈퍼SOL 웰컴 정기예금' 2차 특판",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261109_0003859953"
+        },
+        {
+          "title": "신한은행, 최고 연 4% 정기예금 다시 내놨다…5000억원 한도",
+          "source": "폴리뉴스 Polinews",
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748074"
+        }
+      ]
+    },
+    {
+      "title": "장례",
+      "approx_traffic": "1000+",
       "published": "Mon, 9 Nov 2026 11:20:00 -0800",
       "news": [
         {
@@ -26,6 +175,28 @@
       ]
     },
     {
+      "title": "스카프 아저씨",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 11:10:00 -0800",
+      "news": [
+        {
+          "title": "\"수능 대박\" 남대문 '스카프리오' 따뜻한 마음까지",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05566166645644080&mediaCodeNo=257"
+        },
+        {
+          "title": "\"인성 정말 좋은 친구\"…남대문 스카프 아저씨 고교 동창도 '엄지척'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261109_0003860601"
+        },
+        {
+          "title": "[지지대] TPO에 맞게",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261109580254"
+        }
+      ]
+    },
+    {
       "title": "신현준",
       "approx_traffic": "100+",
       "published": "Mon, 9 Nov 2026 11:10:00 -0800",
@@ -36,174 +207,14 @@
           "url": "https://www.donga.com/news/Society/article/all/20261109/134992698/1"
         },
         {
-          "title": "[단독] 서울시뿐 아니었다···신현준 영화제에 아내 회사 5220만원 챙겨",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611080931003"
-        },
-        {
           "title": "'아내 회사 특혜 의혹' 신현준, 오늘(9일) 첫 공식 석상…입장 밝힐까",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_ln/0117_202611091033422134"
-        }
-      ]
-    },
-    {
-      "title": "google",
-      "approx_traffic": "100+",
-      "published": "Mon, 9 Nov 2026 11:00:00 -0800",
-      "news": [
-        {
-          "title": "Google Escalates Nvidia Rivalry With Specialized Versions of AI Chips",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems"
         },
         {
-          "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
-          "source": "blog.google",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
-        },
-        {
-          "title": "Google’s chip business is on a faster track than Nvidia’s own AI boom",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/googles-chip-business-is-on-a-faster-track-than-nvidias-own-ai-boom-135447046.html"
-        }
-      ]
-    },
-    {
-      "title": "1인당 국민소득",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 09:20:00 -0800",
-      "news": [
-        {
-          "title": "\"1인당 5700만원 번다고?\"…현실은 딴판인 이유 있었다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026110956791"
-        },
-        {
-          "title": "7억 성과급과 100만 폐업... 양극화 심화에 갈라진 대한민국",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026102913310004277"
-        },
-        {
-          "title": "민생 현장에 안 퍼지는 ‘반도체 온기’… 자영업자 돌아섰다",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/politics/2026/11/09/20261109008004"
-        }
-      ]
-    },
-    {
-      "title": "사이비 종교",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 09:10:00 -0800",
-      "news": [
-        {
-          "title": "15화 사이비 종교 신도 2,000명이 방송국으로 몰려간 밤",
-          "source": "브런치",
-          "url": "https://brunch.co.kr/@poet/68"
-        },
-        {
-          "title": "\"목사들이 위험하다고\"...박진영 종교 '사이비 논란'에 입 열었다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/09/2026110905275910960"
-        },
-        {
-          "title": "\"한 번만 들어보면 알 텐데\"…박진영, 사이비 논란에도 소신 행보",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12327150"
-        }
-      ]
-    },
-    {
-      "title": "골드만삭스",
-      "approx_traffic": "500+",
-      "published": "Mon, 9 Nov 2026 09:00:00 -0800",
-      "news": [
-        {
-          "title": "골드만삭스, 2030년 글로벌 데이터센터 용량 전망 273GW로 상향",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2164829"
-        },
-        {
-          "title": "골드만삭스 CEO \"미국 데이터센터·컴퓨팅 인프라 투자 지속될 것\"",
-          "source": "블루밍비트",
-          "url": "https://bloomingbit.io/feed/news/124012"
-        },
-        {
-          "title": "미 데이터센터 자체 발전 계획 90GW…실제 가동은 2GW",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/ai/435373"
-        }
-      ]
-    },
-    {
-      "title": "대한민국 해군",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 08:50:00 -0800",
-      "news": [
-        {
-          "title": "부울병무청, 9일 '해군병 입영문화제' 개최",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3746333"
-        },
-        {
-          "title": "해군교육사령부 기초군사교육단, “부모님, 건강하게 다녀오겠습니다”…해군병 730기 가족 배웅 속 입영",
-          "source": "시사의창",
-          "url": "https://sisaissue.com/View.aspx?No=4304650"
-        },
-        {
-          "title": "해군병 730기 320여 명, 진해 해군교육사 입영… 정예 해군 향한 첫걸음",
-          "source": "코리아이글뉴스",
-          "url": "https://www.koreaeaglenews.com/news/articleView.html?idxno=107560"
-        }
-      ]
-    },
-    {
-      "title": "신애",
-      "approx_traffic": "500+",
-      "published": "Mon, 9 Nov 2026 08:20:00 -0800",
-      "news": [
-        {
-          "title": "'17년째 활동 중단' 신애, 깜짝 근황…여전한 미모 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110917541840072"
-        },
-        {
-          "title": "'17년째 활동 중단' 신애, 오랜만에 근황 포착…'이규한♥' 솔비 만났네",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20261109n26947"
-        },
-        {
-          "title": "‘활동중단’ 신애, 비주얼은 17년 전 그대로..‘4월 결혼’ 솔비 만났다 [핫피플]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/MNSTKZJSHEYWKZTFHAYDAOJYGQ/"
-        }
-      ]
-    },
-    {
-      "title": "kf-21 보라매",
-      "approx_traffic": "2000+",
-      "published": "Mon, 9 Nov 2026 07:20:00 -0800",
-      "news": []
-    },
-    {
-      "title": "gta6",
-      "approx_traffic": "500+",
-      "published": "Mon, 9 Nov 2026 07:20:00 -0800",
-      "news": [
-        {
-          "title": "GTA6 Release Sparks $1B Economic Fears",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/industry-en/2026/11/09/ME7KYHBGNNCIXB3PPQW2ULLC4Q/"
-        },
-        {
-          "title": "GTA VI launch set to cost bosses £12m as workers book 83,000 days off to play long-awaited game",
-          "source": "The Sun",
-          "url": "https://www.thesun.co.uk/news/40963228/gta-vi-launch-cost-workers-book-days-off/"
-        },
-        {
-          "title": "Australia Reminds GTA 6 Players Their Boss Can Ask for Sick Leave Evidence",
-          "source": "GTA BOOM",
-          "url": "https://www.gtaboom.com/fair-work-ombudsman-follows-up-igta-6-leave-advice-with-a-sickie-warning-8cdb"
+          "title": "[단독] 서울시뿐 아니었다···신현준 영화제에 아내 회사 5220만원 챙겨",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611080931003"
         }
       ]
     }
