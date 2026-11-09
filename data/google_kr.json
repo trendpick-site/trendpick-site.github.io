@@ -1,210 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-09T06:11:05+00:00",
+  "fetched_at": "2026-11-09T07:36:17+00:00",
   "items": [
     {
-      "title": "윤여정",
+      "title": "실업",
       "approx_traffic": "500+",
+      "published": "Sun, 8 Nov 2026 22:10:00 -0800",
+      "news": [
+        {
+          "title": "노동부, 고용보험 부정수급 집중신고…자진신고하면 추가징수 면제",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374488"
+        },
+        {
+          "title": "울산노동지청, 올해 고용보험 부정수급액 14억 적발",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261109_0003860488"
+        },
+        {
+          "title": "실업급여 받아 ‘욜로’ 즐긴다?…노동부, 부정수급 특별점검",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611082055005"
+        }
+      ]
+    },
+    {
+      "title": "상장지수 펀드",
+      "approx_traffic": "500+",
+      "published": "Sun, 8 Nov 2026 22:10:00 -0800",
+      "news": [
+        {
+          "title": "\"레버리지도 아닌데\"…일제히 '10%대 급등' ETF 뭐길래",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611094906i"
+        },
+        {
+          "title": "[ETF 시황] 우주항공·양자 ETF 날았다…2차전지 레버리지는 12% 급락",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261109001123"
+        },
+        {
+          "title": "한달 만에 1000만원→299만원 됐다...'야수의 심장' 개미, 눈물의 물타기 [서학픽] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/09/2026110814501193864"
+        }
+      ]
+    },
+    {
+      "title": "정지선",
+      "approx_traffic": "2000+",
+      "published": "Sun, 8 Nov 2026 21:50:00 -0800",
+      "news": [
+        {
+          "title": "정지선, 대만 매장서 직원 10명 퇴사…“한 달 반 만에 다 나갔다”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261109502858"
+        },
+        {
+          "title": "정지선 \"140평 대만 식당 한 달 반 만에 10명 퇴사해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859545"
+        },
+        {
+          "title": "“아이라인 그려주세요” 정지선, 대만 ‘국민셰프’된 비결? MZ 취향 저격 ‘AI 광고’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611081818003"
+        }
+      ]
+    },
+    {
+      "title": "lg전자",
+      "approx_traffic": "500+",
+      "published": "Sun, 8 Nov 2026 21:40:00 -0800",
+      "news": [
+        {
+          "title": "[기업] LG전자, 차량 통신 모듈 안전 최고등급...\"중대 사고 방지\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611091433199410"
+        },
+        {
+          "title": "LG전자, 차량 통신모듈 안전성 최고 등급 획득…제네시스 GV90 탑재",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02191046645644080"
+        },
+        {
+          "title": "LG전자 차량 통신제어 모듈, 업계 최초로 자동차 기능안전 국제표준 최고 등급 획득",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451457"
+        }
+      ]
+    },
+    {
+      "title": "이규한",
+      "approx_traffic": "500+",
+      "published": "Sun, 8 Nov 2026 21:40:00 -0800",
+      "news": [
+        {
+          "title": "이규한, 예비신부 솔비 향한 남다른 사랑…“분리수거도 안 시킬 것”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261109502020"
+        },
+        {
+          "title": "솔비와 결혼 티낸 이규한 \"짧은머리 이상형…결혼 압박 없어\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859533"
+        },
+        {
+          "title": "\"솔비에 분리수거도 안 시킬 것\"…이규한 사랑꾼 면모 '눈길' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110909101718149"
+        }
+      ]
+    },
+    {
+      "title": "논문",
+      "approx_traffic": "1000+",
+      "published": "Sun, 8 Nov 2026 21:30:00 -0800",
+      "news": [
+        {
+          "title": "황우석 전 서울대 교수, UAE 국적 취득해 한국 국적 상실",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611091126001"
+        },
+        {
+          "title": "‘줄기세포 논문조작’ 황우석, UAE 국적 취득…韓국적 상실",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261109/134990701/2"
+        },
+        {
+          "title": "황우석 박사, 아랍에미리트 국적 취득…韓 국적 상실",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261109504842"
+        }
+      ]
+    },
+    {
+      "title": "박진혁",
+      "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 21:20:00 -0800",
+      "news": [
+        {
+          "title": "“배우 닮았다” 8년째 美수배 北최고해커 박진혁 다시 주목받는 이유",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629685"
+        },
+        {
+          "title": "[단독] 北 해킹 장물에 개미들 ‘830억 돈잔치’… “공포장 속 황당 횡재”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/stock/12202311"
+        },
+        {
+          "title": "알고도 털린 8조4000억원: 보안의 가장 오래된 취약점, ‘사람’",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147003"
+        }
+      ]
+    },
+    {
+      "title": "금융감독원",
+      "approx_traffic": "500+",
+      "published": "Sun, 8 Nov 2026 21:10:00 -0800",
+      "news": [
+        {
+          "title": "\"AI 사이버 공격 일상화\"...대응 시스템 재설계 절실",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611091141375284"
+        },
+        {
+          "title": "금융 당국, 미래에셋증권 해킹 현장 점검 착수",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6864252_36932.html"
+        },
+        {
+          "title": "[기자수첩] 망분리 풀기 전에 적정성부터 검증해야",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261108500318"
+        }
+      ]
+    },
+    {
+      "title": "catl",
+      "approx_traffic": "500+",
+      "published": "Sun, 8 Nov 2026 21:10:00 -0800",
+      "news": [
+        {
+          "title": "CATL is exploring an air-breathing battery. Could it give EVs 2,000 km of range?",
+          "source": "CarNewsChina.com",
+          "url": "https://carnewschina.com/2026/11/07/catl-is-exploring-an-air-breathing-battery-could-it-give-evs-2000-km-of-range/"
+        },
+        {
+          "title": "1,200-mile EV range: Chinese firm’s new lithium air EV battery offers 5x energy density",
+          "source": "Interesting Engineering",
+          "url": "https://interestingengineering.com/energy/1200-miles-chinese-firms-new-ev-battery"
+        },
+        {
+          "title": "World’s Biggest EV Battery Maker Explores Theoretical 1,243-Mile Range",
+          "source": "Autoblog",
+          "url": "https://www.autoblog.com/news/worlds-biggest-ev-battery-maker-explores-theoretical-1243-mile-range"
+        }
+      ]
+    },
+    {
+      "title": "윤여정",
+      "approx_traffic": "1000+",
       "published": "Sun, 8 Nov 2026 21:00:00 -0800",
       "news": [
         {
-          "title": "[사진]윤여정 '우아한 출국길'",
+          "title": "80세 윤여정, 연예계 최고령 공항패션…백발에 화이트코트 ‘우아 그 자체’[Oh!쎈 이슈]",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/09/GVSGKMTEMRRDCMTFHE3GEMTGGU/"
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/09/ME4DMYLFHAZTEYJRMMYWMZBZGA/"
+        },
+        {
+          "title": "[사진]윤여정, '런던으로 떠나요'",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112907063"
         },
         {
           "title": "[영상] 윤여정, 깔끔하고 고급진 할꾸 '멋쟁이 할머니 코어'",
           "source": "iMBC 연예",
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524068"
-        },
-        {
-          "title": "80세 윤여정, 연예계 최고령 공항패션…백발에 화이트코트 ‘우아 그 자체’[Oh!쎈 이슈]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261108180651252"
-        }
-      ]
-    },
-    {
-      "title": "의과대학",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 20:50:00 -0800",
-      "news": [
-        {
-          "title": "'의대 탈락' 목포지역에 전남대병원 분원 설립 검토",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261109052200054"
-        },
-        {
-          "title": "김형동 국회의원, 국립경국대 의대 설립으로 경북 북부권 의료 혁신 기대",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261109500635"
-        },
-        {
-          "title": "[패트롤]안동시-영주시",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261108023246778"
-        }
-      ]
-    },
-    {
-      "title": "아나운서",
-      "approx_traffic": "2000+",
-      "published": "Sun, 8 Nov 2026 20:40:00 -0800",
-      "news": [
-        {
-          "title": "쌩얼에 안경쓰고 ‘지진 속보’ 전한 공영방송 아나운서…일본서 화제",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629830"
-        },
-        {
-          "title": "'파란 스웨터·안경·민낯' 日 새벽 1시 지진 속보 전한 아나운서 모습에 누리꾼 '엄지척'",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026110914204581600"
-        },
-        {
-          "title": "일본 5.7 지진에 20여 명 부상...\"2~3일 강한 여진 주의\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202611090840181300"
-        }
-      ]
-    },
-    {
-      "title": "pakistan vs sri lanka",
-      "approx_traffic": "1000+",
-      "published": "Sun, 8 Nov 2026 20:40:00 -0800",
-      "news": [
-        {
-          "title": "Babar: 'Selection not in my hands, I simply give my inputs'",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/story/pak-vs-sl-2026-babar-azam-selection-not-in-my-hands-i-simply-give-my-inputs-1561918"
-        },
-        {
-          "title": "Pakistan update WTC27 series squad against Sri Lanka",
-          "source": "ICC",
-          "url": "https://www.icc-cricket.com/news/pakistan-update-wtc27-series-squad-against-sri-lanka"
-        },
-        {
-          "title": "'Everyone knows how to play on a green wicket': Kusal Mendis backs Sri Lanka batters to tackle Pakistan's pace challenge",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/everyone-knows-play-green-wicket-213000642.html"
-        }
-      ]
-    },
-    {
-      "title": "로켓",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 20:40:00 -0800",
-      "news": [
-        {
-          "title": "이노스페이스, 준궤도 로켓 '세빛' 재도전…29일 발사 목표",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261109030000017"
-        },
-        {
-          "title": "‘와신상담’ 국내 민간로켓 세빛, 이번엔 발사 성공할까…오는 29일 우주행 재도전",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611091159001"
-        }
-      ]
-    },
-    {
-      "title": "반계리 은행나무",
-      "approx_traffic": "2000+",
-      "published": "Sun, 8 Nov 2026 20:10:00 -0800",
-      "news": [
-        {
-          "title": "'비 내리듯 우수수' 거짓말처럼 잎 떨군 원주 반계리 은행나무",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261109063100062"
-        },
-        {
-          "title": "[포토] 사랑을 남기고 떠나는 가을",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261109500540"
-        },
-        {
-          "title": "1시간 만에 앙상해졌다…'우수수' 바닥에 쌓인 황금빛",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837348"
-        }
-      ]
-    },
-    {
-      "title": "트로이 왓슨",
-      "approx_traffic": "100+",
-      "published": "Sun, 8 Nov 2026 20:10:00 -0800",
-      "news": [
-        {
-          "title": "'트로이 '목마' 왓슨 FA 됐다' LG와 한화, 또 격한 영입 경쟁할까?...NPB 진출 가능성도",
-          "source": "마니아타임즈",
-          "url": "https://www.maniareport.com/view.php?ud=20261106060801229691b55a0d56_19"
-        }
-      ]
-    },
-    {
-      "title": "최태원",
-      "approx_traffic": "10000+",
-      "published": "Sun, 8 Nov 2026 19:50:00 -0800",
-      "news": [
-        {
-          "title": "최태원 \"코스피, 결국 '이렇게' 될 것\"…증시 붕괴 '섬뜩한 시나리오' 재조명",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110908402307630"
-        },
-        {
-          "title": "\"가만히 갖고 있으라더니\"…40% 고꾸라진 주가에 하닉 개미들 속앓이",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/economy/2386242.htm"
-        },
-        {
-          "title": "맏형 최태원의 28년 궤적… SK 행복 씨앗으로 ‘국가 AI’ 설계",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010002998"
-        }
-      ]
-    },
-    {
-      "title": "생일",
-      "approx_traffic": "500+",
-      "published": "Sun, 8 Nov 2026 19:50:00 -0800",
-      "news": [
-        {
-          "title": "린, 생일 맞아 포스터 공개…단독 콘서트 앞두고 근황",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16271464"
-        },
-        {
-          "title": "린, 붉은 드레스와 미소로 전한 생일 근황…팬심 사로잡다",
-          "source": "진일보 | 전남일보",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000080815"
-        },
-        {
-          "title": "가수 린, 고궁 야경 아래 드레스 자태…10월 끝에 전한 노래 한 곡",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264699"
-        }
-      ]
-    },
-    {
-      "title": "용산공원",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 19:50:00 -0800",
-      "news": [
-        {
-          "title": "용산국제업무지구 주택물량 8000가구 놓고 말 다른 서울시와 국토부",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611091152001"
-        },
-        {
-          "title": "서울 용산구, '용산공원 특별법' 개정 추진에 \"분명한 반대\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837227"
-        },
-        {
-          "title": "[단독] \"제발 용산에 청년 아파트 그만\"…행정감사 서울시의원 발언 논란",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108174544Z2c"
         }
       ]
     }
