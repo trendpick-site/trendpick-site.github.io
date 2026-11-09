@@ -1,8 +1,53 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-09T14:35:26+00:00",
+  "fetched_at": "2026-11-09T15:34:09+00:00",
   "items": [
+    {
+      "title": "안드레이 알롭스키",
+      "approx_traffic": "100+",
+      "published": "Mon, 9 Nov 2026 06:20:00 -0800",
+      "news": [
+        {
+          "title": "사망 조롱 논란에 “죄송합니다”…UFC 전 챔피언 “영어는 제2외국어” 해명",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202611090129"
+        },
+        {
+          "title": "사망 조롱 후폭풍…“관심에 인간성까지 팔았다” UFC 전 챔피언까지 비판 가세",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202611090177"
+        }
+      ]
+    },
+    {
+      "title": "ai 데이터 센터",
+      "approx_traffic": "1000+",
+      "published": "Mon, 9 Nov 2026 06:10:00 -0800",
+      "news": [
+        {
+          "title": "“미국에 못 짓는 AI 데이터센터 한국에 유치하자”?…정말 기회이기만 할까",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611081638001"
+        },
+        {
+          "title": "노르웨이도 데이터센터 규제…전력망 부담에 신규 전력 연결 중단 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/09/2026110920291565451"
+        },
+        {
+          "title": "재경장관 \"대미 투자 1호 '텍사스 발전소', 상황 지켜볼 필요\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6864310_36911.html"
+        }
+      ]
+    },
+    {
+      "title": "안랩",
+      "approx_traffic": "100+",
+      "published": "Mon, 9 Nov 2026 06:00:00 -0800",
+      "news": []
+    },
     {
       "title": "티머니",
       "approx_traffic": "100+",
@@ -75,19 +120,19 @@
       "published": "Mon, 9 Nov 2026 03:50:00 -0800",
       "news": [
         {
-          "title": "NVIDIA, 리벨리온·SK텔레콤과 NVLink Fusion 기반 소버린 AI 인프라 고도화 협력 발표",
+          "title": "과기정통부와 함께 AI 스타트업 파트너십 포럼 개최한 NVIDIA, 국내 스타트업 투자 확대",
           "source": "NVIDIA",
-          "url": "https://blogs.nvidia.co.kr/blog/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion/"
+          "url": "https://blogs.nvidia.co.kr/blog/korean-startup-investments-msit/"
+        },
+        {
+          "title": "정석근 SKT \"GPU·NPU 결합해 세계서 가장 싸게 토큰 생산\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261109161556"
         },
         {
           "title": "에이전틱 AI·피지컬 AI부터 인프라까지 아우른 “엔비디아 AI 데이 서울 2026”",
           "source": "동아일보",
           "url": "https://www.donga.com/news/It/article/all/20261109/134995914/1"
-        },
-        {
-          "title": "\"엔비디아냐 AMD냐\"...기로에 선 K-반도체",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261109180536"
         }
       ]
     },
@@ -137,7 +182,7 @@
     },
     {
       "title": "변호사",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Mon, 9 Nov 2026 03:30:00 -0800",
       "news": [
         {
@@ -154,72 +199,6 @@
           "title": "법무법인 대륙아주·린 합병계약 체결…국내 6위 로펌 'D&L' 탄생 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/society/2026/11/09/2026110916085215493"
-        }
-      ]
-    },
-    {
-      "title": "이지혜",
-      "approx_traffic": "1000+",
-      "published": "Mon, 9 Nov 2026 02:50:00 -0800",
-      "news": [
-        {
-          "title": "이지혜, 샵 서지영과 부둥켜안고 울며 화해..\"딸들 앞에서 '스위티' 불러\"[핫피플]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/09/HAZDOOLCGQ2GMNLDMQ2WKM3FMI/"
-        },
-        {
-          "title": "\"부둥켜 안고 오열\"…이지혜, 서지영과 불화 끝 화해 [소셜in]",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/M/Detail/524168"
-        },
-        {
-          "title": "이지혜, ‘은퇴’ 서지영과 다 잊었다…“설거지 하고 샵 노래 불러”(새롭게하소서)",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202611091625452310&code=100100"
-        }
-      ]
-    },
-    {
-      "title": "해커",
-      "approx_traffic": "2000+",
-      "published": "Mon, 9 Nov 2026 02:30:00 -0800",
-      "news": [
-        {
-          "title": "“배우 닮았다” 8년째 美수배 北최고해커 박진혁 다시 주목받는 이유",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629685"
-        },
-        {
-          "title": "[新테크용어] 바이낸스 해커는 왜 코인 쪼갰을까…’필 체인’ 수법이란",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261109155158"
-        },
-        {
-          "title": "[단독] 北 해킹 장물에 개미들 ‘830억 돈잔치’… “공포장 속 황당 횡재”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/stock/12202311"
-        }
-      ]
-    },
-    {
-      "title": "고양이",
-      "approx_traffic": "1000+",
-      "published": "Mon, 9 Nov 2026 02:30:00 -0800",
-      "news": [
-        {
-          "title": "고양이 보호센터·천문과학관으로 변신한 폐교…활용 우수사례 7곳 선정",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611081336001"
-        },
-        {
-          "title": "전북도교육청, 폐교 활용 사례 2건 전국 우수사례 선정···교육부장관상 수상",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=354152"
-        },
-        {
-          "title": "방치됐던 강화 강후초 ‘천문과학관’ 탈바꿈…행안부 장관상 선정",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261108580065"
         }
       ]
     }
