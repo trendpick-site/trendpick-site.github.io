@@ -1,11 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-09T11:00:36+00:00",
+  "fetched_at": "2026-11-09T11:59:28+00:00",
   "items": [
     {
+      "title": "해커",
+      "approx_traffic": "500+",
+      "published": "Mon, 9 Nov 2026 02:30:00 -0800",
+      "news": [
+        {
+          "title": "“배우 닮았다” 8년째 美수배 北최고해커 박진혁 다시 주목받는 이유",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629685"
+        },
+        {
+          "title": "[단독] 北 해킹 장물에 개미들 ‘830억 돈잔치’… “공포장 속 황당 횡재”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/stock/12202311"
+        },
+        {
+          "title": "[이슈 칼럼] 알고도 털린 8조4000억원: 보안의 가장 오래된 취약점, ‘사람’",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147003"
+        }
+      ]
+    },
+    {
+      "title": "고양이",
+      "approx_traffic": "1000+",
+      "published": "Mon, 9 Nov 2026 02:30:00 -0800",
+      "news": [
+        {
+          "title": "독사와 맞짱 뜬 아기 고양이 근황…\"생사 오가는 치료 중\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327146"
+        },
+        {
+          "title": "독사와 싸워 살아남은 생후 3개월 아기고양이…새 주인 찾았다",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261108000070"
+        },
+        {
+          "title": "독사와 싸워 이긴 800g 새끼 고양이…공동묘지 인근서 급히 구조",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110915214228805"
+        }
+      ]
+    },
+    {
+      "title": "아놀드 슈워제네거",
+      "approx_traffic": "2000+",
+      "published": "Mon, 9 Nov 2026 02:00:00 -0800",
+      "news": [
+        {
+          "title": "“가정부와 불륜으로 낳은 아들”…슈워제네거 혼외자, 보디빌딩 5위",
+          "source": "www.twig24.com",
+          "url": "https://www.twig24.com/news/2026/11/09/20261109500162"
+        },
+        {
+          "title": "'터미네이터' 슈워제네거 혼외자 보디빌더 데뷔…\"父, 최고 운동 파트너\"",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110917171140991"
+        },
+        {
+          "title": "'터미네이터' 슈워제네거 29세 혼외자도 부전자전…보디빌딩 5위 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/09/2026110915000965555"
+        }
+      ]
+    },
+    {
       "title": "착륙",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Mon, 9 Nov 2026 01:40:00 -0800",
       "news": [
         {
@@ -49,7 +115,7 @@
     },
     {
       "title": "김부선",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Mon, 9 Nov 2026 01:10:00 -0800",
       "news": [
         {
@@ -93,7 +159,7 @@
     },
     {
       "title": "스타틴",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Mon, 9 Nov 2026 00:50:00 -0800",
       "news": [
         {
@@ -149,67 +215,6 @@
           "title": "심야 지하철서 잠든 여성에 성폭력…60대 구속 송치",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8707577"
-        }
-      ]
-    },
-    {
-      "title": "볼더링",
-      "approx_traffic": "500+",
-      "published": "Sun, 8 Nov 2026 23:50:00 -0800",
-      "news": [
-        {
-          "title": "고난도 볼더링 영상 짜깁기 논란…증거 요구 확산 : 스포츠",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1080793"
-        },
-        {
-          "title": "스포츠클라이밍 대표팀, 국가대항전서 볼더링·리드 은메달",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261109124800007"
-        }
-      ]
-    },
-    {
-      "title": "에너지",
-      "approx_traffic": "500+",
-      "published": "Sun, 8 Nov 2026 23:50:00 -0800",
-      "news": [
-        {
-          "title": "한전 에너지캐시백 가입자 200만호…제주 가정 1년 전력량 절약",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261109094200003"
-        },
-        {
-          "title": "한전, 주택용 에너지캐시백 200만호 돌파…1025GWh 절감",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261109_0003860845"
-        },
-        {
-          "title": "한전 \"주택용 에너지캐시백 200만호 돌파…도입 6년 만\"",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261109.99099002562"
-        }
-      ]
-    },
-    {
-      "title": "한국 민속촌",
-      "approx_traffic": "2000+",
-      "published": "Sun, 8 Nov 2026 23:30:00 -0800",
-      "news": [
-        {
-          "title": "[자막뉴스] \"말 잘 들을거야?\" 귀신 훈육 놀이에…터져버린 '아동학대' 논란",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836764"
-        },
-        {
-          "title": "\"민속촌 참교육 중단해야\" '귀신 훈육' 아동학대 논란 [앵커리포트]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611091416020041"
-        },
-        {
-          "title": "“아이 훈육을 귀신에게?”…한국민속촌 ‘귀신 훈육’ 아동학대 논란",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261109580335"
         }
       ]
     }
