@@ -1,22 +1,149 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-09T01:50:40+00:00",
+  "fetched_at": "2026-11-09T02:54:16+00:00",
   "items": [
     {
-      "title": "삼성전자 주식",
-      "approx_traffic": "100+",
-      "published": "Sun, 8 Nov 2026 16:40:00 -0800",
+      "title": "중앙일보",
+      "approx_traffic": "5000+",
+      "published": "Sun, 8 Nov 2026 17:50:00 -0800",
       "news": [
         {
-          "title": "노태문, 삼성전자 자사주 3000주 장내 매입…주당 가격은",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110714573867999"
+          "title": "[부고] 김병수 씨(중앙일보 마케팅솔루션국 리더) 부친상",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/life-culture/press/6347157"
         },
+        {
+          "title": "[부고] 김병수씨(중앙일보 마케팅솔루션국 리더) 부친상",
+          "source": "퍼블릭타임스",
+          "url": "https://www.public25.com/news/articleView.html?idxno=58146"
+        }
+      ]
+    },
+    {
+      "title": "항공 승무원",
+      "approx_traffic": "100+",
+      "published": "Sun, 8 Nov 2026 17:50:00 -0800",
+      "news": [
+        {
+          "title": "비행기 텅 비었는데…\"자리 옮기면 안 된다\" 제지한 승무원 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/09/2026110909193257655"
+        },
+        {
+          "title": "좌석 절반 비었는데 옮기면 안 된다?…미국 항공사 규정 갑론을박",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110818283606331"
+        },
+        {
+          "title": "좌석 절반 빈 美 여객기…자리 이동 요청에 돌아온 답변은?",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108092035TFP"
+        }
+      ]
+    },
+    {
+      "title": "젠지",
+      "approx_traffic": "1000+",
+      "published": "Sun, 8 Nov 2026 17:30:00 -0800",
+      "news": [
+        {
+          "title": "젠지, 2026 LoL 월드 챔피언십 결승 진출…IG에 3-0 완승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261108016600017"
+        },
+        {
+          "title": "'쵸비' 정지훈 \"부담감 버리고 찾은 즐거움, 누가 올라오든 직접 꺾고 우승할 것\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112906954"
+        },
+        {
+          "title": "쵸비·기인, 커리어 첫 월즈 결승…성불까지 단 '한 걸음' [이주현의 로그인 e스포츠]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611083066i"
+        }
+      ]
+    },
+    {
+      "title": "pistons vs lakers",
+      "approx_traffic": "100+",
+      "published": "Sun, 8 Nov 2026 17:20:00 -0800",
+      "news": [
+        {
+          "title": "(WAY) TO WATCH Pistons vs Lakers LIVE Streams Reddit ON TV CHANNEL",
+          "source": "Gold Derby",
+          "url": "https://www.goldderby.com/topic/way-to-watch-pistons-vs-lakers-live-streams-reddit-on-tv-channel/"
+        },
+        {
+          "title": "With his 40th point of the night in Detroit, Austin …",
+          "source": "HoopsHype",
+          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/08/with-his-40th-point-of-the-night-in-detroit-austin/92685097007/"
+        },
+        {
+          "title": "Luka Doncic misses Sunday’s game against Pistons",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/luka-doncic-out-lakers-game-vs-pistons"
+        }
+      ]
+    },
+    {
+      "title": "젠슨 황 부인",
+      "approx_traffic": "20000+",
+      "published": "Sun, 8 Nov 2026 17:10:00 -0800",
+      "news": [
+        {
+          "title": "“아내에 불충실했다”…젠슨황, 첩자 의혹女와 불륜 인정",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629698"
+        },
+        {
+          "title": "불륜 인정한 젠슨 황, 中 스파이 연루 의혹에 리더십 '흔들'",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261109112712"
+        },
+        {
+          "title": "젠슨황, 中스파이 의심 여성과 불륜 인정…이사회 독립조사 착수(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261109005251091"
+        }
+      ]
+    },
+    {
+      "title": "마산가고파국화축제",
+      "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 17:00:00 -0800",
+      "news": [
+        {
+          "title": "창원시, 오늘부터 창동 라면 축제…‘이색 라면’ 공개",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8705704"
+        },
+        {
+          "title": "확대운영 마산가고파국화축제, 9일간 일정 성황리 폐막",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261109_0003859690"
+        },
+        {
+          "title": "[마산가고파국화축제 결산] 1억5000만 송이 국화, 100만 눈길 사로잡았다",
+          "source": "경남신문",
+          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1554591"
+        }
+      ]
+    },
+    {
+      "title": "삼성전자 주식",
+      "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 16:40:00 -0800",
+      "news": [
         {
           "title": "주당 21만원에 3천주 매입했다…삼성전자 노태문, 6억3천만원 규모",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/news/business/12200736"
+        },
+        {
+          "title": "노태문, 삼성전자 자사주 3000주 장내 매입…주당 가격은",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110714573867999"
         },
         {
           "title": "삼성전자 20만원 무너지자…노태문 사장, 자사주 6억 더 샀다",
@@ -31,19 +158,19 @@
       "published": "Sun, 8 Nov 2026 16:30:00 -0800",
       "news": [
         {
-          "title": "이용철, '공소취소' 질문에 \"진상규명 집중...나머진 법과 원칙으로\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611090927573039"
+          "title": "[단독] 유동규 \"이용철과 포커 최소 세 번\"…\"도박 안 했다\" 李 주장에 반박",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/11/09/OTPHRKRSQJBC5MIVHXZEHM7WTM/"
         },
         {
-          "title": "이용철 법무 장관 후보자, 공소취소 질문 받고 \"진상규명에 집중해야\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/09/2026110910264779616"
+          "title": "이용철 엄호 나선 與 \"현장 역량 쌓은 실력자…흠집내기 멈춰야\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109113910lCM"
         },
         {
-          "title": "[전국 주요 신문 사설](9일 조간)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261109012100011"
+          "title": "[속보]이용철 “대통령과의 친분, 장관 결격 사유 안돼”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261109/134989477/1"
         }
       ]
     },
@@ -85,125 +212,9 @@
           "url": "https://www.donga.com/news/Society/article/all/20261109/134989499/1"
         },
         {
-          "title": "공연 도중 관객 이탈까지... 호평받던 악뮤 콘서트, 쏟아진 혹평",
+          "title": "\"17만원 VIP석도 무대 안보여\"... 악뮤 강릉 콘서트 불만 폭발",
           "source": "조선일보",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/GUZGIYRXMM4DKODCMFSDGYJVG4/"
-        }
-      ]
-    },
-    {
-      "title": "포티나이너스 대 레이더스",
-      "approx_traffic": "100+",
-      "published": "Sun, 8 Nov 2026 16:00:00 -0800",
-      "news": [
-        {
-          "title": "The San Francisco 49ers' top plays vs. Las Vegas Raiders | Week 9",
-          "source": "NFL.com",
-          "url": "https://www.nfl.com/videos/49ers-top-plays-vs-raiders-week-9"
-        },
-        {
-          "title": "Las Vegas Raiders vs. San Francisco 49ers Highlights | Week 9",
-          "source": "San Francisco 49ers",
-          "url": "https://www.49ers.com/video/las-vegas-raiders-vs-san-francisco-49ers-highlights-week-9"
-        },
-        {
-          "title": "Raiders 38-33 Jets (Nov 1, 2026) Game Recap",
-          "source": "ESPN",
-          "url": "https://www.espn.com/nfl/recap/_/gameId/401873029"
-        }
-      ]
-    },
-    {
-      "title": "매일경제신문",
-      "approx_traffic": "2000+",
-      "published": "Sun, 8 Nov 2026 15:50:00 -0800",
-      "news": [
-        {
-          "title": "“삼전닉스 적정 주가는?”…현금 확보가 필요한 이유 [경제한방]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706862"
-        },
-        {
-          "title": "“고점서 60% 빠졌는데 당연히 사야죠”...삼전닉스 지금 매수하라는 노익장",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/stock/12201921"
-        },
-        {
-          "title": "“코스피 상승 추세 꺾여… 요즘처럼 어려운 장에서는 나라면 주식 안 사”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261108/134984111/1"
-        }
-      ]
-    },
-    {
-      "title": "르브론 제임스",
-      "approx_traffic": "100+",
-      "published": "Sun, 8 Nov 2026 15:30:00 -0800",
-      "news": [
-        {
-          "title": "‘클리블랜드 악몽 씻었다’ 르브론, 22점 폭발···필라델피아 ‘주전 3총사 78점 합작’ 불스 꺾고 반등",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611090850003"
-        },
-        {
-          "title": "NBA 필라델피아, 클리블랜드에 24점 차 완패…르브론 '8점' 부진",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/basketball/6346369"
-        },
-        {
-          "title": "'르브론 효과는 명확하다' 필라델피아 초반 러시. 미 ESPN의 분석 \"에이스는 맥시. 맥시 업그레이드, 르브론 영향 미쳐\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/basketball/2026/11/08/MY3WMZTEHFSGGNJSG5STGMDEMQ/"
-        }
-      ]
-    },
-    {
-      "title": "도란",
-      "approx_traffic": "5000+",
-      "published": "Sun, 8 Nov 2026 15:20:00 -0800",
-      "news": [
-        {
-          "title": "[롤드컵] '아차차 '바이퍼''...T1, BLG에 후반 집중력 싸움 밀려 3세트 패배 벼랑 끝",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112907073"
-        },
-        {
-          "title": "[롤드컵] '페이커 노데스 캐리'…T1, BLG에 2세트 반격 성공 1-1 원점",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112907057"
-        },
-        {
-          "title": "\"T1답지 않은 경기력\"⋯BLG에 무너진 T1, 월즈 4강 1세트 패배",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2645520"
-        }
-      ]
-    },
-    {
-      "title": "개발제한구역",
-      "approx_traffic": "1000+",
-      "published": "Sun, 8 Nov 2026 15:20:00 -0800",
-      "news": []
-    },
-    {
-      "title": "마린 올솝",
-      "approx_traffic": "500+",
-      "published": "Sun, 8 Nov 2026 15:10:00 -0800",
-      "news": [
-        {
-          "title": "지휘자 마린 알솝 \"임윤찬은 우리 세기의 위대한 피아니스트 될 것\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/09/3KYP7RTFZBFRRBFPBVQIYBSZYE/"
-        },
-        {
-          "title": "임윤찬의 힘찬 건반, 벨벳처럼 감싼 악단… 4년전 거장울린 감동 그대로",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629755"
-        },
-        {
-          "title": "4년 전 눈물에서… 4년 후 눈맞춤으로",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261109/134988145/2"
         }
       ]
     }
