@@ -1,11 +1,177 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-09T02:54:16+00:00",
+  "fetched_at": "2026-11-09T03:58:35+00:00",
   "items": [
     {
-      "title": "중앙일보",
+      "title": "신인감독 김연경",
+      "approx_traffic": "2000+",
+      "published": "Sun, 8 Nov 2026 18:50:00 -0800",
+      "news": [
+        {
+          "title": "'신인감독' 김연경, 흥국생명에 3대2 대역전 '2연승 쾌거' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110902291872728"
+        },
+        {
+          "title": "'신인감독2' 원더독스 VS 전 주장 표승주…승자는?!",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523982"
+        },
+        {
+          "title": "김연경, 친정팀 흥국생명에 역전승 거둘까…0대 10 반격 시작('신인감독2')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/08/GU4WIYJXGRTDGOBWGYYTMZJUGI/"
+        }
+      ]
+    },
+    {
+      "title": "한남더힐 아파트",
+      "approx_traffic": "2000+",
+      "published": "Sun, 8 Nov 2026 18:20:00 -0800",
+      "news": [
+        {
+          "title": "옥주현 한남더힐 경매 사태…\"50억으로 400억 당겼다가 청산된 것\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/realestate/general/6346754"
+        },
+        {
+          "title": "‘190억이 경매로’…옥주현 사는 한남동 최고가 아파트는[누구집]",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01131606645643752&mediaCodeNo=257"
+        },
+        {
+          "title": "“옥주현, 180억 대부업체 대출 추정…연이자만 20억 이상” 변호사 분석 [이슈픽]",
+          "source": "TWIG",
+          "url": "https://www.twig24.com/news/entertainments/celebrity/2026/11/05/20261105500315"
+        }
+      ]
+    },
+    {
+      "title": "노점상",
+      "approx_traffic": "2000+",
+      "published": "Sun, 8 Nov 2026 18:10:00 -0800",
+      "news": [
+        {
+          "title": "\"하루 3만원 버는데…\" 붕어빵 노점상 울린 판사의 한마디 [사장님 고충백서]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611083087i"
+        },
+        {
+          "title": "\"하루 3만원 버는 보통 사람들\"…무허가 붕어빵 노점상 울린 한마디",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327118"
+        },
+        {
+          "title": "랑코 해변의 불법 노점들을 철거하고 해변 공간을 복원하기로 합의했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/dong-thuan-thao-do-hang-quan-lan-chiem-tra-lai-khong-gian-bai-bien-lang-co"
+        }
+      ]
+    },
+    {
+      "title": "연구",
+      "approx_traffic": "500+",
+      "published": "Sun, 8 Nov 2026 18:10:00 -0800",
+      "news": [
+        {
+          "title": "국방 AI 선도연구기관에 카이스트·ETRI·LG AI연구원 지정",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707263"
+        },
+        {
+          "title": "방사청, AI 분야 선도연구기관 ‘KAIST·ETRI·LG AI연구원’ 3곳 지정",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629799"
+        },
+        {
+          "title": "방산 AIDC 구축과 기술보호로 K-방산의 미래를 열다",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147071"
+        }
+      ]
+    },
+    {
+      "title": "파주시",
+      "approx_traffic": "500+",
+      "published": "Sun, 8 Nov 2026 18:10:00 -0800",
+      "news": [
+        {
+          "title": "고성군, ‘2026년 하반기 불법자동차 일제단속’ 실시",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261107500098"
+        },
+        {
+          "title": "경남도 특별사법경찰, 자동차 불법 정비업체 기획수사 추진",
+          "source": "시민행정신문",
+          "url": "https://citizenadmnews.co.kr/mobile/article.html?no=1478612"
+        }
+      ]
+    },
+    {
+      "title": "알 테오 젠",
+      "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 18:10:00 -0800",
+      "news": [
+        {
+          "title": "[특징주] 알테오젠, 美 약가협상 규정 확정에 15% 급락…SC 전환 수익성 우려",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/11/09/UZES6NYL4JFW5FOP6QH3QOSVWQ/"
+        },
+        {
+          "title": "[특징주] 알테오젠, 키트루다SC 특허분쟁 확대에 17%대 급락",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261109500332"
+        }
+      ]
+    },
+    {
+      "title": "홍창기",
       "approx_traffic": "5000+",
+      "published": "Sun, 8 Nov 2026 18:00:00 -0800",
+      "news": [
+        {
+          "title": "롯데서 은퇴선언, FA 영입 1순위로 이 선수 지목했다…\"올해는 시행착오, 내년부터 괜찮아질 것\" 기대",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018505"
+        },
+        {
+          "title": "‘다년 계약 거절→최악 부진→FA 취득’ 홍창기·박동원, LG 분위기가 달라졌다…차명석 단장 “시장은 움직이니까”",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112903112"
+        },
+        {
+          "title": "\"이주헌 키웠는데도 못 보내?\" LG 박동원, FA 앞두고 몸값이 고민되는 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3HNTpTd8BQ"
+        }
+      ]
+    },
+    {
+      "title": "빈",
+      "approx_traffic": "100+",
+      "published": "Sun, 8 Nov 2026 18:00:00 -0800",
+      "news": [
+        {
+          "title": "청와대 몰려간 국민의힘 \"죄수에게 탈옥 열쇠 쥐어준 꼴\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6864201_36911.html"
+        },
+        {
+          "title": "장동혁 \"대통령 탄핵해야\"...민주 \"세계에서 존경받는 대통령\" [시사정각]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202611091217262261"
+        },
+        {
+          "title": "특정인 위해 특검수사로 재판 뒤집기 논란… 법조 “헌법과 법치 무너진다”",
+          "source": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229007"
+        }
+      ]
+    },
+    {
+      "title": "중앙일보",
+      "approx_traffic": "10000+",
       "published": "Sun, 8 Nov 2026 17:50:00 -0800",
       "news": [
         {
@@ -22,11 +188,11 @@
     },
     {
       "title": "항공 승무원",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sun, 8 Nov 2026 17:50:00 -0800",
       "news": [
         {
-          "title": "비행기 텅 비었는데…\"자리 옮기면 안 된다\" 제지한 승무원 - 머니투데이",
+          "title": "\"빈자리 왜 못 옮겨?\" vs \"돈 더 내야\"…항공기 좌석 이동 논란 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/world/2026/11/09/2026110909193257655"
         },
@@ -39,182 +205,6 @@
           "title": "좌석 절반 빈 美 여객기…자리 이동 요청에 돌아온 답변은?",
           "source": "연합뉴스TV",
           "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108092035TFP"
-        }
-      ]
-    },
-    {
-      "title": "젠지",
-      "approx_traffic": "1000+",
-      "published": "Sun, 8 Nov 2026 17:30:00 -0800",
-      "news": [
-        {
-          "title": "젠지, 2026 LoL 월드 챔피언십 결승 진출…IG에 3-0 완승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261108016600017"
-        },
-        {
-          "title": "'쵸비' 정지훈 \"부담감 버리고 찾은 즐거움, 누가 올라오든 직접 꺾고 우승할 것\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112906954"
-        },
-        {
-          "title": "쵸비·기인, 커리어 첫 월즈 결승…성불까지 단 '한 걸음' [이주현의 로그인 e스포츠]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611083066i"
-        }
-      ]
-    },
-    {
-      "title": "pistons vs lakers",
-      "approx_traffic": "100+",
-      "published": "Sun, 8 Nov 2026 17:20:00 -0800",
-      "news": [
-        {
-          "title": "(WAY) TO WATCH Pistons vs Lakers LIVE Streams Reddit ON TV CHANNEL",
-          "source": "Gold Derby",
-          "url": "https://www.goldderby.com/topic/way-to-watch-pistons-vs-lakers-live-streams-reddit-on-tv-channel/"
-        },
-        {
-          "title": "With his 40th point of the night in Detroit, Austin …",
-          "source": "HoopsHype",
-          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/08/with-his-40th-point-of-the-night-in-detroit-austin/92685097007/"
-        },
-        {
-          "title": "Luka Doncic misses Sunday’s game against Pistons",
-          "source": "NBA.com",
-          "url": "https://www.nba.com/news/luka-doncic-out-lakers-game-vs-pistons"
-        }
-      ]
-    },
-    {
-      "title": "젠슨 황 부인",
-      "approx_traffic": "20000+",
-      "published": "Sun, 8 Nov 2026 17:10:00 -0800",
-      "news": [
-        {
-          "title": "“아내에 불충실했다”…젠슨황, 첩자 의혹女와 불륜 인정",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629698"
-        },
-        {
-          "title": "불륜 인정한 젠슨 황, 中 스파이 연루 의혹에 리더십 '흔들'",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261109112712"
-        },
-        {
-          "title": "젠슨황, 中스파이 의심 여성과 불륜 인정…이사회 독립조사 착수(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261109005251091"
-        }
-      ]
-    },
-    {
-      "title": "마산가고파국화축제",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 17:00:00 -0800",
-      "news": [
-        {
-          "title": "창원시, 오늘부터 창동 라면 축제…‘이색 라면’ 공개",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8705704"
-        },
-        {
-          "title": "확대운영 마산가고파국화축제, 9일간 일정 성황리 폐막",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261109_0003859690"
-        },
-        {
-          "title": "[마산가고파국화축제 결산] 1억5000만 송이 국화, 100만 눈길 사로잡았다",
-          "source": "경남신문",
-          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1554591"
-        }
-      ]
-    },
-    {
-      "title": "삼성전자 주식",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 16:40:00 -0800",
-      "news": [
-        {
-          "title": "주당 21만원에 3천주 매입했다…삼성전자 노태문, 6억3천만원 규모",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12200736"
-        },
-        {
-          "title": "노태문, 삼성전자 자사주 3000주 장내 매입…주당 가격은",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110714573867999"
-        },
-        {
-          "title": "삼성전자 20만원 무너지자…노태문 사장, 자사주 6억 더 샀다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20111340"
-        }
-      ]
-    },
-    {
-      "title": "이용철",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 16:30:00 -0800",
-      "news": [
-        {
-          "title": "[단독] 유동규 \"이용철과 포커 최소 세 번\"…\"도박 안 했다\" 李 주장에 반박",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/11/09/OTPHRKRSQJBC5MIVHXZEHM7WTM/"
-        },
-        {
-          "title": "이용철 엄호 나선 與 \"현장 역량 쌓은 실력자…흠집내기 멈춰야\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109113910lCM"
-        },
-        {
-          "title": "[속보]이용철 “대통령과의 친분, 장관 결격 사유 안돼”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261109/134989477/1"
-        }
-      ]
-    },
-    {
-      "title": "공장",
-      "approx_traffic": "1000+",
-      "published": "Sun, 8 Nov 2026 16:10:00 -0800",
-      "news": [
-        {
-          "title": "세아베스틸, 철강공장 특화 AI 안전 솔루션 개발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261109043900003"
-        },
-        {
-          "title": "세아베스틸, AI 안전 설루션 개발… 안전 경영 ‘강화’",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/company/2026/11/09/UTPPKOPSB5BDPMVH5GEBXRMEQ4/"
-        },
-        {
-          "title": "\"크레인 이동 예측까지\"…세아베스틸, AI 안전망 구축",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/general-industry/6347278"
-        }
-      ]
-    },
-    {
-      "title": "이찬혁",
-      "approx_traffic": "2000+",
-      "published": "Sun, 8 Nov 2026 16:00:00 -0800",
-      "news": [
-        {
-          "title": "\"17만원 냈는데 앞사람 머리만 봤다\" 악뮤 콘서트 '혹평'…왜? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110814103286435"
-        },
-        {
-          "title": "악뮤 강릉 콘서트 시야 제한 논란…“17만 원 VIP석도 안 보여”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261109/134989499/1"
-        },
-        {
-          "title": "\"17만원 VIP석도 무대 안보여\"... 악뮤 강릉 콘서트 불만 폭발",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/GUZGIYRXMM4DKODCMFSDGYJVG4/"
         }
       ]
     }
