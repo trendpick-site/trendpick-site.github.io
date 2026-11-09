@@ -1,11 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-09T11:59:28+00:00",
+  "fetched_at": "2026-11-09T13:15:35+00:00",
   "items": [
     {
-      "title": "해커",
+      "title": "캐시워크 정답",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 04:10:00 -0800",
+      "news": [
+        {
+          "title": "[단독] 캐시워크 돈버는퀴즈 정답 11월 9일",
+          "source": "BNT뉴스",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202611090065"
+        },
+        {
+          "title": "종근당건강 비타콜라겐…캐시워크 돈버는퀴즈 정답 공개",
+          "source": "게임톡",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112874"
+        },
+        {
+          "title": "9일 캐시워크 돈버는퀴즈 정답…코리아 그랜드 페스티벌·픽스 온풍기",
+          "source": "CBC뉴스",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=624049"
+        }
+      ]
+    },
+    {
+      "title": "빅테크",
+      "approx_traffic": "2000+",
+      "published": "Mon, 9 Nov 2026 03:50:00 -0800",
+      "news": [
+        {
+          "title": "한국 주요 오픈 모델의 프로덕션 배포 가속하는 NVIDIA Dynamo",
+          "source": "NVIDIA",
+          "url": "https://blogs.nvidia.co.kr/blog/nvidia-dynamo-korea-open-models/"
+        },
+        {
+          "title": "국산 AI반도체, 엔비디아 생태계 편입",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611092056015"
+        },
+        {
+          "title": "정석근 SKT \"GPU·NPU 결합해 세계서 가장 싸게 토큰 생산\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261109161556"
+        }
+      ]
+    },
+    {
+      "title": "아시아나항공",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 03:50:00 -0800",
+      "news": [
+        {
+          "title": "아시아나항공 주가 170원 하락 후 장마감",
+          "source": "아시아뉴스통신",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3215988&type=&mobile="
+        },
+        {
+          "title": "[장중수급포착] 아시아나항공, 기관 6일 연속 순매수행진... 주가 +4.13%",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261103000361"
+        },
+        {
+          "title": "아시아나항공 주가 하락중",
+          "source": "아시아뉴스통신",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3215676&type=&mobile="
+        }
+      ]
+    },
+    {
+      "title": "박승규",
       "approx_traffic": "500+",
+      "published": "Mon, 9 Nov 2026 03:50:00 -0800",
+      "news": [
+        {
+          "title": "무명서 가을 스타로… 박승규 “우승 반지로 청혼할래요”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629827"
+        },
+        {
+          "title": "\"팬도 선수도 함께 쓰러질 때까지…\" 박승규의 비장한 우승 다짐 [베이스볼S]",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89153/22000639518"
+        },
+        {
+          "title": "\"미친 X 되겠다\" 삼성에 대기록까지 포기하더니 또 팀만 먼저 생각하는 '영웅'이 있다 [KS] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/08/2026110809521745200"
+        }
+      ]
+    },
+    {
+      "title": "변호사",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 03:30:00 -0800",
+      "news": [
+        {
+          "title": "대륙아주·린, ‘디앤엘(D&L)’로 새출발… 국내 6위 로펌으로",
+          "source": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229091"
+        },
+        {
+          "title": "대륙아주·린 합병…변호사 규모 6위 로펌 'D&L' 출범",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261109139800004"
+        },
+        {
+          "title": "법무법인 대륙아주·린 합병계약 체결…국내 6위 로펌 'D&L' 탄생 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/09/2026110916085215493"
+        }
+      ]
+    },
+    {
+      "title": "이지혜",
+      "approx_traffic": "2000+",
+      "published": "Mon, 9 Nov 2026 02:50:00 -0800",
+      "news": [
+        {
+          "title": "섬뜩한 얼굴로 \"왜 말 안 들어\"…'아동학대' 논란 터졌다",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836764"
+        },
+        {
+          "title": "이지혜, 민속촌 귀신 ‘아동학대 논란’에 입장 밝혔다 “트라우마까진..”(관종언니)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/G43GMOJZMIYDONZZGE4DEZRYMU/"
+        },
+        {
+          "title": "'민속촌 귀신' 민원에...용인시, 한국민속촌 실태 조사",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202611091607420480"
+        }
+      ]
+    },
+    {
+      "title": "해커",
+      "approx_traffic": "1000+",
       "published": "Mon, 9 Nov 2026 02:30:00 -0800",
       "news": [
         {
@@ -31,19 +163,19 @@
       "published": "Mon, 9 Nov 2026 02:30:00 -0800",
       "news": [
         {
-          "title": "독사와 맞짱 뜬 아기 고양이 근황…\"생사 오가는 치료 중\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12327146"
+          "title": "고양이 보호센터·천문과학관으로 변신한 폐교…활용 우수사례 7곳 선정",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611081336001"
         },
         {
-          "title": "독사와 싸워 살아남은 생후 3개월 아기고양이…새 주인 찾았다",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261108000070"
+          "title": "문 닫은 학교가 체험·생태교육장으로…부안·임실, 교육장관상 수상",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/jeonbuk/6347585"
         },
         {
-          "title": "독사와 싸워 이긴 800g 새끼 고양이…공동묘지 인근서 급히 구조",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026110915214228805"
+          "title": "경남 폐교 활용 경진대회서 총리상 수상",
+          "source": "경남매일",
+          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=598191"
         }
       ]
     },
@@ -63,15 +195,15 @@
           "url": "https://view.asiae.co.kr/article/2026110917171140991"
         },
         {
-          "title": "'터미네이터' 슈워제네거 29세 혼외자도 부전자전…보디빌딩 5위 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/09/2026110915000965555"
+          "title": "아빠 무대에 도전장 낸 ‘터미네이터 2세’…프로 데뷔전 5위",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/shorts/ND10779283"
         }
       ]
     },
     {
       "title": "착륙",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Mon, 9 Nov 2026 01:40:00 -0800",
       "news": [
         {
@@ -88,133 +220,6 @@
           "title": "미군 항공기가 예기치 않게 고속도로에 착륙하여 주행 중인 차량과 충돌했습니다.",
           "source": "Vietnam.vn",
           "url": "https://www.vietnam.vn/ko/may-bay-my-bat-ngo-ha-canh-xuong-cao-toc-quet-vao-o-to-dang-chay"
-        }
-      ]
-    },
-    {
-      "title": "가상자산",
-      "approx_traffic": "500+",
-      "published": "Mon, 9 Nov 2026 01:20:00 -0800",
-      "news": [
-        {
-          "title": "대법, 가상자산 압류·현금화 절차 마련",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12202498"
-        },
-        {
-          "title": "못 받은 돈, 채무자 코인 팔아 회수…대법원, 집행 절차 정비 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/09/2026110915384474564"
-        },
-        {
-          "title": "\"코인 압류해달라\" 올해만 약 3200건…법원, 집행절차 마련",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261109_0003860779"
-        }
-      ]
-    },
-    {
-      "title": "김부선",
-      "approx_traffic": "10000+",
-      "published": "Mon, 9 Nov 2026 01:10:00 -0800",
-      "news": [
-        {
-          "title": "김부선 \"월 300만원 '무상 지원' 소송서 승리…2억 다 안 갚아도 된다\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6347578"
-        },
-        {
-          "title": "’2억 변제 소송’ 김부선, 일부 승소…“완승과도 같은 결과“",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109155246gBN"
-        },
-        {
-          "title": "김부선 \"2억 변제 소송, 사실상 완승…원고 추가 청구 전부 기각\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/09/2026110915460134238"
-        }
-      ]
-    },
-    {
-      "title": "nepal premier league",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 01:00:00 -0800",
-      "news": [
-        {
-          "title": "Pokhara Avengers beat Karnali Yaks by 63 runs for first NPL win",
-          "source": "Nepalnews.com",
-          "url": "https://english.nepalnews.com/s/sports/pokhara-avengers-beat-karnali-yaks-by-63-runs-for-first-npl-win/"
-        },
-        {
-          "title": "Yuvraj Samrat Scores First Half-Century in Nepal Premier League",
-          "source": "Ratopati",
-          "url": "https://english.ratopati.com/story/86113/yuvraj-samras-first-half-century-in-npl"
-        },
-        {
-          "title": "NPL: Four teams in action in today’s two matches",
-          "source": "The Rising Nepal",
-          "url": "https://risingnepaldaily.com/news/88526"
-        }
-      ]
-    },
-    {
-      "title": "스타틴",
-      "approx_traffic": "2000+",
-      "published": "Mon, 9 Nov 2026 00:50:00 -0800",
-      "news": [
-        {
-          "title": "동맥경화성 심혈관질환 환자에 ‘이 약’ 추가했더니···‘나쁜 콜레스테롤’ 더 빨리 줄이는 데 효과",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611091453001"
-        },
-        {
-          "title": "심혈관질환, LDL 콜레스테롤 확 낮추는 '이 방법'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261109_0003860308"
-        }
-      ]
-    },
-    {
-      "title": "김장훈",
-      "approx_traffic": "5000+",
-      "published": "Mon, 9 Nov 2026 00:00:00 -0800",
-      "news": [
-        {
-          "title": "김장훈, 국민연금 예상액 듣고 깜짝…“그렇게 많이 주냐”",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261109502306"
-        },
-        {
-          "title": "\"이렇게 많이 줘?\" 63세 김장훈, 국민연금 수령액 깜짝...또 기부? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110917220064923"
-        },
-        {
-          "title": "미운 우리 새끼 : 이소라, ‘스타일리스트’ 없는 김장훈 위해 직접 공연 의상 맞춤 코디 시작",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483065713"
-        }
-      ]
-    },
-    {
-      "title": "구속",
-      "approx_traffic": "5000+",
-      "published": "Sun, 8 Nov 2026 23:50:00 -0800",
-      "news": [
-        {
-          "title": "지하철에서 잠든 여성에 성폭력‥60대 남성 구속 송치",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6864258_36918.html"
-        },
-        {
-          "title": "지하철서 잠든 20대 여성에 입 맞추고 신체 접촉…60대 구속 송치",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261109580406"
-        },
-        {
-          "title": "심야 지하철서 잠든 여성에 성폭력…60대 구속 송치",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707577"
         }
       ]
     }
