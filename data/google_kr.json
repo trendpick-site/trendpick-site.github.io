@@ -1,8 +1,74 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-09T19:38:02+00:00",
+  "fetched_at": "2026-11-09T20:29:28+00:00",
   "items": [
+    {
+      "title": "장례",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 11:20:00 -0800",
+      "news": [
+        {
+          "title": "죽어서도 자식 부담 주기 싫다…연 5000건 몰린 '이 장례'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110956691"
+        },
+        {
+          "title": "울산하늘공원 추모공간 2배 이상 확대…산분장도 첫 도입",
+          "source": "울산매일 - 울산최초, 최고의 조간신문",
+          "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1070048"
+        },
+        {
+          "title": "울산하늘공원 봉안실 7만1천476기로 확대…산분장 도입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103134000057"
+        }
+      ]
+    },
+    {
+      "title": "신현준",
+      "approx_traffic": "100+",
+      "published": "Mon, 9 Nov 2026 11:10:00 -0800",
+      "news": [
+        {
+          "title": "신현준, 아내 회사 특혜 의혹에 입 열었다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261109/134992698/1"
+        },
+        {
+          "title": "[단독] 서울시뿐 아니었다···신현준 영화제에 아내 회사 5220만원 챙겨",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611080931003"
+        },
+        {
+          "title": "'아내 회사 특혜 의혹' 신현준, 오늘(9일) 첫 공식 석상…입장 밝힐까",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611091033422134"
+        }
+      ]
+    },
+    {
+      "title": "google",
+      "approx_traffic": "100+",
+      "published": "Mon, 9 Nov 2026 11:00:00 -0800",
+      "news": [
+        {
+          "title": "Google Escalates Nvidia Rivalry With Specialized Versions of AI Chips",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems"
+        },
+        {
+          "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+          "source": "blog.google",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+        },
+        {
+          "title": "Google’s chip business is on a faster track than Nvidia’s own AI boom",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/googles-chip-business-is-on-a-faster-track-than-nvidias-own-ai-boom-135447046.html"
+        }
+      ]
+    },
     {
       "title": "1인당 국민소득",
       "approx_traffic": "200+",
@@ -14,20 +80,20 @@
           "url": "https://www.hankyung.com/article/2026110956791"
         },
         {
+          "title": "7억 성과급과 100만 폐업... 양극화 심화에 갈라진 대한민국",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026102913310004277"
+        },
+        {
           "title": "민생 현장에 안 퍼지는 ‘반도체 온기’… 자영업자 돌아섰다",
           "source": "서울신문",
           "url": "https://www.seoul.co.kr/news/politics/2026/11/09/20261109008004"
-        },
-        {
-          "title": "[PPSS 경제진단] 수출 9300억 달러의 역설…나라 경제는 뛰는데 서민 지갑은 닫혔다",
-          "source": "https://www.ppss.kr/",
-          "url": "https://www.ppss.kr/news/articleView.html?idxno=319774"
         }
       ]
     },
     {
       "title": "사이비 종교",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 9 Nov 2026 09:10:00 -0800",
       "news": [
         {
@@ -71,7 +137,7 @@
     },
     {
       "title": "대한민국 해군",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 9 Nov 2026 08:50:00 -0800",
       "news": [
         {
@@ -130,75 +196,14 @@
           "url": "https://www.chosun.com/english/industry-en/2026/11/09/ME7KYHBGNNCIXB3PPQW2ULLC4Q/"
         },
         {
-          "title": "German GTA 6 Players Can Legally Take Time Off to Play the Game on Launch, But Spots Are Limited",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch"
+          "title": "GTA VI launch set to cost bosses £12m as workers book 83,000 days off to play long-awaited game",
+          "source": "The Sun",
+          "url": "https://www.thesun.co.uk/news/40963228/gta-vi-launch-cost-workers-book-days-off/"
         },
         {
           "title": "Australia Reminds GTA 6 Players Their Boss Can Ask for Sick Leave Evidence",
           "source": "GTA BOOM",
           "url": "https://www.gtaboom.com/fair-work-ombudsman-follows-up-igta-6-leave-advice-with-a-sickie-warning-8cdb"
-        }
-      ]
-    },
-    {
-      "title": "버거킹",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 07:10:00 -0800",
-      "news": [
-        {
-          "title": "\"소방관 응원해요\"…유통가, 소방의 날 맞이 캠페인",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109133837fmD"
-        },
-        {
-          "title": "료혼, 소방의 날 맞아 소방공무원 대상 ‘1+1’ 사은 행사 개최",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202611091831329301204ead0791_12"
-        },
-        {
-          "title": "버거킹, 소방관·가족 초청해 감사 행사…와퍼 콤보 1190개 전달",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261109000029"
-        }
-      ]
-    },
-    {
-      "title": "안드레이 알롭스키",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 06:20:00 -0800",
-      "news": [
-        {
-          "title": "사망 조롱 논란에 “죄송합니다”…UFC 전 챔피언 “영어는 제2외국어” 해명",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202611090129"
-        },
-        {
-          "title": "사망 조롱 후폭풍…“관심에 인간성까지 팔았다” UFC 전 챔피언까지 비판 가세",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202611090177"
-        }
-      ]
-    },
-    {
-      "title": "ai 데이터 센터",
-      "approx_traffic": "100+",
-      "published": "Mon, 9 Nov 2026 06:10:00 -0800",
-      "news": [
-        {
-          "title": "삼성에스디에스 '다음 이정표는 AI DC 계획 확대' 증권사 발표에 강세…2.98%",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1193641"
-        },
-        {
-          "title": "[클릭 e종목]\"삼성SDS, 데이터센터 추가 확보 기대…목표가 ↑\"",
-          "source": "아시아경제",
-          "url": "https://core.asiae.co.kr/article/2026110915263348144"
-        },
-        {
-          "title": "구미 다시 뛰게 한 삼성 `투자 홈런`…TK 달군 `삼성 신화`",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026110816474590350"
         }
       ]
     }
