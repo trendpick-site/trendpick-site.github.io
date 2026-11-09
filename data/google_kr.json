@@ -1,11 +1,193 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-09T00:13:13+00:00",
+  "fetched_at": "2026-11-09T01:50:40+00:00",
   "items": [
     {
-      "title": "마린 올솝",
+      "title": "삼성전자 주식",
       "approx_traffic": "100+",
+      "published": "Sun, 8 Nov 2026 16:40:00 -0800",
+      "news": [
+        {
+          "title": "노태문, 삼성전자 자사주 3000주 장내 매입…주당 가격은",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110714573867999"
+        },
+        {
+          "title": "주당 21만원에 3천주 매입했다…삼성전자 노태문, 6억3천만원 규모",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12200736"
+        },
+        {
+          "title": "삼성전자 20만원 무너지자…노태문 사장, 자사주 6억 더 샀다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20111340"
+        }
+      ]
+    },
+    {
+      "title": "이용철",
+      "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 16:30:00 -0800",
+      "news": [
+        {
+          "title": "이용철, '공소취소' 질문에 \"진상규명 집중...나머진 법과 원칙으로\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611090927573039"
+        },
+        {
+          "title": "이용철 법무 장관 후보자, 공소취소 질문 받고 \"진상규명에 집중해야\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/09/2026110910264779616"
+        },
+        {
+          "title": "[전국 주요 신문 사설](9일 조간)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261109012100011"
+        }
+      ]
+    },
+    {
+      "title": "공장",
+      "approx_traffic": "1000+",
+      "published": "Sun, 8 Nov 2026 16:10:00 -0800",
+      "news": [
+        {
+          "title": "세아베스틸, 철강공장 특화 AI 안전 솔루션 개발",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261109043900003"
+        },
+        {
+          "title": "세아베스틸, AI 안전 설루션 개발… 안전 경영 ‘강화’",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/company/2026/11/09/UTPPKOPSB5BDPMVH5GEBXRMEQ4/"
+        },
+        {
+          "title": "\"크레인 이동 예측까지\"…세아베스틸, AI 안전망 구축",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/general-industry/6347278"
+        }
+      ]
+    },
+    {
+      "title": "이찬혁",
+      "approx_traffic": "2000+",
+      "published": "Sun, 8 Nov 2026 16:00:00 -0800",
+      "news": [
+        {
+          "title": "\"17만원 냈는데 앞사람 머리만 봤다\" 악뮤 콘서트 '혹평'…왜? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110814103286435"
+        },
+        {
+          "title": "악뮤 강릉 콘서트 시야 제한 논란…“17만 원 VIP석도 안 보여”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261109/134989499/1"
+        },
+        {
+          "title": "공연 도중 관객 이탈까지... 호평받던 악뮤 콘서트, 쏟아진 혹평",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/GUZGIYRXMM4DKODCMFSDGYJVG4/"
+        }
+      ]
+    },
+    {
+      "title": "포티나이너스 대 레이더스",
+      "approx_traffic": "100+",
+      "published": "Sun, 8 Nov 2026 16:00:00 -0800",
+      "news": [
+        {
+          "title": "The San Francisco 49ers' top plays vs. Las Vegas Raiders | Week 9",
+          "source": "NFL.com",
+          "url": "https://www.nfl.com/videos/49ers-top-plays-vs-raiders-week-9"
+        },
+        {
+          "title": "Las Vegas Raiders vs. San Francisco 49ers Highlights | Week 9",
+          "source": "San Francisco 49ers",
+          "url": "https://www.49ers.com/video/las-vegas-raiders-vs-san-francisco-49ers-highlights-week-9"
+        },
+        {
+          "title": "Raiders 38-33 Jets (Nov 1, 2026) Game Recap",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873029"
+        }
+      ]
+    },
+    {
+      "title": "매일경제신문",
+      "approx_traffic": "2000+",
+      "published": "Sun, 8 Nov 2026 15:50:00 -0800",
+      "news": [
+        {
+          "title": "“삼전닉스 적정 주가는?”…현금 확보가 필요한 이유 [경제한방]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706862"
+        },
+        {
+          "title": "“고점서 60% 빠졌는데 당연히 사야죠”...삼전닉스 지금 매수하라는 노익장",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/stock/12201921"
+        },
+        {
+          "title": "“코스피 상승 추세 꺾여… 요즘처럼 어려운 장에서는 나라면 주식 안 사”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261108/134984111/1"
+        }
+      ]
+    },
+    {
+      "title": "르브론 제임스",
+      "approx_traffic": "100+",
+      "published": "Sun, 8 Nov 2026 15:30:00 -0800",
+      "news": [
+        {
+          "title": "‘클리블랜드 악몽 씻었다’ 르브론, 22점 폭발···필라델피아 ‘주전 3총사 78점 합작’ 불스 꺾고 반등",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611090850003"
+        },
+        {
+          "title": "NBA 필라델피아, 클리블랜드에 24점 차 완패…르브론 '8점' 부진",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/basketball/6346369"
+        },
+        {
+          "title": "'르브론 효과는 명확하다' 필라델피아 초반 러시. 미 ESPN의 분석 \"에이스는 맥시. 맥시 업그레이드, 르브론 영향 미쳐\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/basketball/2026/11/08/MY3WMZTEHFSGGNJSG5STGMDEMQ/"
+        }
+      ]
+    },
+    {
+      "title": "도란",
+      "approx_traffic": "5000+",
+      "published": "Sun, 8 Nov 2026 15:20:00 -0800",
+      "news": [
+        {
+          "title": "[롤드컵] '아차차 '바이퍼''...T1, BLG에 후반 집중력 싸움 밀려 3세트 패배 벼랑 끝",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112907073"
+        },
+        {
+          "title": "[롤드컵] '페이커 노데스 캐리'…T1, BLG에 2세트 반격 성공 1-1 원점",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112907057"
+        },
+        {
+          "title": "\"T1답지 않은 경기력\"⋯BLG에 무너진 T1, 월즈 4강 1세트 패배",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2645520"
+        }
+      ]
+    },
+    {
+      "title": "개발제한구역",
+      "approx_traffic": "1000+",
+      "published": "Sun, 8 Nov 2026 15:20:00 -0800",
+      "news": []
+    },
+    {
+      "title": "마린 올솝",
+      "approx_traffic": "500+",
       "published": "Sun, 8 Nov 2026 15:10:00 -0800",
       "news": [
         {
@@ -14,196 +196,14 @@
           "url": "https://www.chosun.com/culture-life/culture_general/2026/11/09/3KYP7RTFZBFRRBFPBVQIYBSZYE/"
         },
         {
+          "title": "임윤찬의 힘찬 건반, 벨벳처럼 감싼 악단… 4년전 거장울린 감동 그대로",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629755"
+        },
+        {
           "title": "4년 전 눈물에서… 4년 후 눈맞춤으로",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Culture/article/all/20261109/134988145/2"
-        },
-        {
-          "title": "감동은 그대로… 임윤찬의 새로운 ‘라흐마니노프’",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/life/performance/2026/11/09/20261109018001"
-        }
-      ]
-    },
-    {
-      "title": "bulls vs 76ers",
-      "approx_traffic": "100+",
-      "published": "Sun, 8 Nov 2026 15:00:00 -0800",
-      "news": [
-        {
-          "title": "LeBron James makes a key adjustment to help Sixers bounce back against Bulls",
-          "source": "PhillyVoice",
-          "url": "https://www.phillyvoice.com/sixers-vs-bulls-76ers-highlights-score-joel-embiid-lebron-james-jaylen-brown-tyrese-maxey-vj-edgecombe-nba-chi/"
-        },
-        {
-          "title": "Bulls fall to the 76ers, 127‑121",
-          "source": "NBA.com",
-          "url": "https://www.nba.com/bulls/videos/bulls-fall-to-the-76ers-127-121"
-        },
-        {
-          "title": "Tyrese Maxey posts 27 points, seven assists",
-          "source": "NBC Sports",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-08/tyrese-maxey-posts-27-points-seven-assists"
-        }
-      ]
-    },
-    {
-      "title": "노동법",
-      "approx_traffic": "500+",
-      "published": "Sun, 8 Nov 2026 14:50:00 -0800",
-      "news": []
-    },
-    {
-      "title": "기영식",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 14:50:00 -0800",
-      "news": [
-        {
-          "title": "‘나솔사계’ 14기 광수 독주에 7기 영식·영호 질투 폭발",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435261"
-        },
-        {
-          "title": "[사계 191회 예고] 백합에게 스킨십?! 14광수의 과감한 행동에 삐진 7영식 #나솔사계 EP.191ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000639414"
-        },
-        {
-          "title": "7기 영식, 백합 좋다고 오열까지 했는데…“이러다 뺏기겠는데” (나솔사계)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261107/134983091/1"
-        }
-      ]
-    },
-    {
-      "title": "황유민",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 14:50:00 -0800",
-      "news": [
-        {
-          "title": "황유민·김효주 LPGA 토토 저팬 공동 6위…우승은 사쿠마",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261108030300007"
-        },
-        {
-          "title": "황유민, LPGA 토토 저팬 클래식 3R 공동 3위…선두에 2타 차",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706681"
-        },
-        {
-          "title": "'일본 여자골프 뒷심'…사쿠마 우승해 LPGA 투어 시즌 최다 8승",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02364886645643752&mediaCodeNo=257"
-        }
-      ]
-    },
-    {
-      "title": "수능날",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 14:50:00 -0800",
-      "news": [
-        {
-          "title": "“수능날, 오답노트 대신 챙겨라”…불수능 만점자의 비밀무기",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261106130050591"
-        },
-        {
-          "title": "[똑똑한교육] 재능교육, 리딩앤, 하모니힐스, 웅진씽크빅, 대교 눈높이, 소노아임레디, YBN인강, 천재교과서",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261031020183718"
-        },
-        {
-          "title": "“공부는 재미없지만 해야 할 이유는 분명히 있어요”",
-          "source": "여성동아",
-          "url": "https://woman.donga.com/edu/article/all/12/6444559/1"
-        }
-      ]
-    },
-    {
-      "title": "할증",
-      "approx_traffic": "2000+",
-      "published": "Sun, 8 Nov 2026 14:40:00 -0800",
-      "news": [
-        {
-          "title": "택시 ‘요일별 할증제’ 추진… 불금·주말엔 더 비싸지나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/11/09/S4OFKKJL6JCMVC6T75PFLXXBQQ/"
-        },
-        {
-          "title": "택시비, 심야 이어 요일별 할증도 가능해진다…국토부 훈령 개정 추진",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/realestate/general/6346045"
-        },
-        {
-          "title": "“금요일에 타면 더 비싸다고?” 택시요금에 생기는 변화…심야 할증에 요일별 할증까지",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20111715"
-        }
-      ]
-    },
-    {
-      "title": "의약품",
-      "approx_traffic": "500+",
-      "published": "Sun, 8 Nov 2026 14:40:00 -0800",
-      "news": [
-        {
-          "title": "소아 자료보호의약품 총 26개… 올해만 18개 품목 등재",
-          "source": "헬스코리아뉴스",
-          "url": "https://www.hkn24.com/news/articleView.html?idxno=351602"
-        },
-        {
-          "title": "희귀질환 신약 5종, 건보 신속 등재 시범사업 대상 선정",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/science-chosun/bio/2026/11/07/KKD5WKHFN5EV7I56KWCFFHGCWU/"
-        },
-        {
-          "title": "복지부, 루게릭병 '칼소디주' 등 희귀질환약 5종 신속등재 추진",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261106_0003857608"
-        }
-      ]
-    },
-    {
-      "title": "t1",
-      "approx_traffic": "500+",
-      "published": "Sun, 8 Nov 2026 14:40:00 -0800",
-      "news": [
-        {
-          "title": "[롤드컵] '첫 걸음부터 꼬인 T1' BLG 맞춤 설계에 4강 서전 30분만에 참패",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112907031"
-        },
-        {
-          "title": "\"T1답지 않은 경기력\"⋯BLG에 무너진 T1, 월즈 4강 1세트 패배",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2645520"
-        },
-        {
-          "title": "T1, 카르민코프에 3-1 승…월드 챔피언십 4강 진출",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261107026500017"
-        }
-      ]
-    },
-    {
-      "title": "lck",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 14:40:00 -0800",
-      "news": [
-        {
-          "title": "Gen.G Reaches Worlds Finals; Chovy Aims for First Title",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/08/FVLDQDSLPFEPPKMIHASQTVYA74/"
-        },
-        {
-          "title": "Gen.G beats China's IG to reach Worlds finals for first time in nine years",
-          "source": "게임메카",
-          "url": "https://www.gamemeca.com/en/view.php?gid=1783144"
-        },
-        {
-          "title": "Worlds 2026: Gen.G versus Invictus Gaming reached 2.19 million Peak Viewers",
-          "source": "Esports Charts",
-          "url": "https://escharts.com/news/worlds-2026-first-semifinal-viewership"
         }
       ]
     }
