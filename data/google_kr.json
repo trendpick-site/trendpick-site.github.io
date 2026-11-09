@@ -1,8 +1,135 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-09T08:49:47+00:00",
+  "fetched_at": "2026-11-09T10:03:41+00:00",
   "items": [
+    {
+      "title": "nepal premier league",
+      "approx_traffic": "100+",
+      "published": "Mon, 9 Nov 2026 01:00:00 -0800",
+      "news": [
+        {
+          "title": "Pokhara set 218-run target for Karnali in NPL",
+          "source": "Nepalnews.com",
+          "url": "https://english.nepalnews.com/s/sports/pokhara-set-218-run-target-for-karnali-in-npl/"
+        },
+        {
+          "title": "Yuvraj Samrat Scores First Half-Century in Nepal Premier League",
+          "source": "Ratopati",
+          "url": "https://english.ratopati.com/story/86113/yuvraj-samras-first-half-century-in-npl"
+        },
+        {
+          "title": "NPL: Four teams in action in today’s two matches",
+          "source": "The Rising Nepal",
+          "url": "https://risingnepaldaily.com/news/88526"
+        }
+      ]
+    },
+    {
+      "title": "스타틴",
+      "approx_traffic": "500+",
+      "published": "Mon, 9 Nov 2026 00:50:00 -0800",
+      "news": [
+        {
+          "title": "동맥경화성 심혈관질환 환자에 ‘이 약’ 추가했더니···‘나쁜 콜레스테롤’ 더 빨리 줄이는 데 효과",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611091453001"
+        },
+        {
+          "title": "심혈관질환, LDL 콜레스테롤 확 낮추는 '이 방법'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261109_0003860308"
+        },
+        {
+          "title": "동맥경화성 심혈관질환, 치료 초기 '스타틴·에제티미브' 병용 효과 입증",
+          "source": "헬스미디어뉴스",
+          "url": "https://www.healthmedia.co.kr/news/articleView.html?idxno=107290"
+        }
+      ]
+    },
+    {
+      "title": "김장훈",
+      "approx_traffic": "5000+",
+      "published": "Mon, 9 Nov 2026 00:00:00 -0800",
+      "news": [
+        {
+          "title": "김장훈, 국민연금 예상액 듣고 깜짝…“그렇게 많이 주냐”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261109502306"
+        },
+        {
+          "title": "\"이렇게 많이 줘?\" 63세 김장훈, 국민연금 수령액 깜짝...또 기부? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110917220064923"
+        },
+        {
+          "title": "미운 우리 새끼 : 이소라, ‘스타일리스트’ 없는 김장훈 위해 직접 공연 의상 맞춤 코디 시작",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483065713"
+        }
+      ]
+    },
+    {
+      "title": "구속",
+      "approx_traffic": "5000+",
+      "published": "Sun, 8 Nov 2026 23:50:00 -0800",
+      "news": [
+        {
+          "title": "한밤 지하철서 잠든 20대 여성에 성폭력…60대 구속송치",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261109/134991935/1"
+        },
+        {
+          "title": "지하철에서 잠든 여성에 성폭력‥60대 남성 구속 송치",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6864258_36918.html"
+        },
+        {
+          "title": "지하철서 잠든 20대 여성에 입 맞추고 신체 접촉…60대 구속 송치",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261109580406"
+        }
+      ]
+    },
+    {
+      "title": "볼더링",
+      "approx_traffic": "500+",
+      "published": "Sun, 8 Nov 2026 23:50:00 -0800",
+      "news": [
+        {
+          "title": "고난도 볼더링 영상 짜깁기 논란…증거 요구 확산 : 스포츠",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1080793"
+        },
+        {
+          "title": "스포츠클라이밍 대표팀, 국가대항전서 볼더링·리드 은메달",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261109124800007"
+        }
+      ]
+    },
+    {
+      "title": "에너지",
+      "approx_traffic": "200+",
+      "published": "Sun, 8 Nov 2026 23:50:00 -0800",
+      "news": [
+        {
+          "title": "한전 에너지캐시백 가입자 200만호…제주 가정 1년 전력량 절약",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1193673"
+        },
+        {
+          "title": "한전, 주택용 에너지캐시백 200만호 돌파…1025GWh 절감",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261109_0003860845"
+        },
+        {
+          "title": "한전 \"주택용 에너지캐시백 200만호 돌파…도입 6년 만\"",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261109.99099002562"
+        }
+      ]
+    },
     {
       "title": "한국 민속촌",
       "approx_traffic": "2000+",
@@ -19,9 +146,9 @@
           "url": "https://www.kyeonggi.com/article/20261109580335"
         },
         {
-          "title": "\"귀신이 잡아간다\"...'민속촌 참교육'에 엇갈린 반응 [자막뉴스]",
+          "title": "\"민속촌 참교육 중단해야\" '귀신 훈육' 아동학대 논란 [앵커리포트]",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611091434572751"
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611091416020041_005.html"
         }
       ]
     },
@@ -53,9 +180,9 @@
       "published": "Sun, 8 Nov 2026 22:50:00 -0800",
       "news": [
         {
-          "title": "한화에어로, 천무 해상 사격 시험… 무인수상정 탑재 추진",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/company/2026/11/09/MFAUDA76S5FGBCLNWX6SX4DZJA/"
+          "title": "한화에어로스페이스, 육상용 ‘천무’ 바다에서 쏜다…美 무인함정 시장 공략",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/09/7MFLUFVJQRHAHGO6FKCDX5LWEU/"
         },
         {
           "title": "한화오션 미국 해군 중형상륙함 수주는 '미미' 평가, 블룸버그 \"한국 조선업체 투자 유인할 추가 발주 필요\"",
@@ -74,138 +201,6 @@
       "approx_traffic": "500+",
       "published": "Sun, 8 Nov 2026 22:40:00 -0800",
       "news": []
-    },
-    {
-      "title": "실업",
-      "approx_traffic": "500+",
-      "published": "Sun, 8 Nov 2026 22:10:00 -0800",
-      "news": [
-        {
-          "title": "'자발적 퇴사' 청년에 月100만원 검토…\"도덕적 해이 우려 적어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261109_0003859821"
-        },
-        {
-          "title": "내 발로 퇴사해도 실업급여… “도덕적 해이 우려 크지 않아”",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3447169"
-        },
-        {
-          "title": "\"퇴사 반복하면 어쩌나 했더니\"…月 100만원 지급안에 '반전'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026110946277"
-        }
-      ]
-    },
-    {
-      "title": "상장지수 펀드",
-      "approx_traffic": "500+",
-      "published": "Sun, 8 Nov 2026 22:10:00 -0800",
-      "news": [
-        {
-          "title": "\"레버리지도 아닌데\"…일제히 '10%대 급등' ETF 뭐길래",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611094906i"
-        },
-        {
-          "title": "[ETF 시황] 우주항공·양자 ETF 날았다…2차전지 레버리지는 12% 급락",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261109001123"
-        },
-        {
-          "title": "한달 만에 1000만원→299만원 됐다...'야수의 심장' 개미, 눈물의 물타기 [서학픽] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/09/2026110814501193864"
-        }
-      ]
-    },
-    {
-      "title": "정지선",
-      "approx_traffic": "5000+",
-      "published": "Sun, 8 Nov 2026 21:50:00 -0800",
-      "news": [
-        {
-          "title": "정지선, 대만 매장서 직원 10명 퇴사…“한 달 반 만에 다 나갔다”",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261109502858"
-        },
-        {
-          "title": "정지선 \"140평 대만 식당 한 달 반 만에 10명 퇴사해\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261108_0003859545"
-        },
-        {
-          "title": "“아이라인 그려주세요” 정지선, 대만 ‘국민셰프’된 비결? MZ 취향 저격 ‘AI 광고’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611081818003"
-        }
-      ]
-    },
-    {
-      "title": "lg전자",
-      "approx_traffic": "1000+",
-      "published": "Sun, 8 Nov 2026 21:40:00 -0800",
-      "news": [
-        {
-          "title": "[기업] LG전자, 차량 통신 모듈 안전 최고등급...\"중대 사고 방지\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202611091433199410"
-        },
-        {
-          "title": "LG전자, 차량 통신모듈 안전성 최고 등급…GV90에 탑재 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2165275"
-        },
-        {
-          "title": "LG전자 차량 통신제어 모듈, 업계 최초로 자동차 기능안전 국제표준 최고 등급 획득",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451457"
-        }
-      ]
-    },
-    {
-      "title": "이규한",
-      "approx_traffic": "1000+",
-      "published": "Sun, 8 Nov 2026 21:40:00 -0800",
-      "news": [
-        {
-          "title": "이규한, 예비신부 솔비 향한 남다른 사랑…“분리수거도 안 시킬 것”",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261109502020"
-        },
-        {
-          "title": "솔비와 결혼 티낸 이규한 \"짧은머리 이상형…결혼 압박 없어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261108_0003859533"
-        },
-        {
-          "title": "\"솔비에 분리수거도 안 시킬 것\"…이규한 사랑꾼 면모 '눈길' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110909101718149"
-        }
-      ]
-    },
-    {
-      "title": "논문",
-      "approx_traffic": "1000+",
-      "published": "Sun, 8 Nov 2026 21:30:00 -0800",
-      "news": [
-        {
-          "title": "’줄기세포 논문조작’ 황우석, UAE 국적 취득…한국 국적 상실",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109105059lM2"
-        },
-        {
-          "title": "황우석 전 서울대 교수, UAE 국적 취득해 한국 국적 상실",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611091126001"
-        },
-        {
-          "title": "황우석 박사, 아랍에미리트 국적 취득…韓 국적 상실",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261109504842"
-        }
-      ]
     }
   ]
 }
