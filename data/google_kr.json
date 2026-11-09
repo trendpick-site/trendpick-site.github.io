@@ -1,17 +1,83 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-09T10:03:41+00:00",
+  "fetched_at": "2026-11-09T11:00:36+00:00",
   "items": [
     {
+      "title": "착륙",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 01:40:00 -0800",
+      "news": [
+        {
+          "title": "[영상] \"세계 최고도 기록\"…印 수송기, 해발 4천154ｍ 비행장 착륙",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261109127800704"
+        },
+        {
+          "title": "인도 ＂공군 대형 수송기 해발 4천여ｍ 비행장에 착륙＂",
+          "source": "한국경제TV",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261109047100009"
+        },
+        {
+          "title": "미군 항공기가 예기치 않게 고속도로에 착륙하여 주행 중인 차량과 충돌했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/may-bay-my-bat-ngo-ha-canh-xuong-cao-toc-quet-vao-o-to-dang-chay"
+        }
+      ]
+    },
+    {
+      "title": "가상자산",
+      "approx_traffic": "500+",
+      "published": "Mon, 9 Nov 2026 01:20:00 -0800",
+      "news": [
+        {
+          "title": "대법, 가상자산 압류·현금화 절차 마련",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12202498"
+        },
+        {
+          "title": "못 받은 돈, 채무자 코인 팔아 회수…대법원, 집행 절차 정비 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/09/2026110915384474564"
+        },
+        {
+          "title": "\"코인 압류해달라\" 올해만 약 3200건…법원, 집행절차 마련",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261109_0003860779"
+        }
+      ]
+    },
+    {
+      "title": "김부선",
+      "approx_traffic": "5000+",
+      "published": "Mon, 9 Nov 2026 01:10:00 -0800",
+      "news": [
+        {
+          "title": "김부선 \"월 300만원 '무상 지원' 소송서 승리…2억 다 안 갚아도 된다\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6347578"
+        },
+        {
+          "title": "’2억 변제 소송’ 김부선, 일부 승소…“완승과도 같은 결과“",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109155246gBN"
+        },
+        {
+          "title": "김부선 \"2억 변제 소송, 사실상 완승…원고 추가 청구 전부 기각\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/09/2026110915460134238"
+        }
+      ]
+    },
+    {
       "title": "nepal premier league",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 9 Nov 2026 01:00:00 -0800",
       "news": [
         {
-          "title": "Pokhara set 218-run target for Karnali in NPL",
+          "title": "Pokhara Avengers beat Karnali Yaks by 63 runs for first NPL win",
           "source": "Nepalnews.com",
-          "url": "https://english.nepalnews.com/s/sports/pokhara-set-218-run-target-for-karnali-in-npl/"
+          "url": "https://english.nepalnews.com/s/sports/pokhara-avengers-beat-karnali-yaks-by-63-runs-for-first-npl-win/"
         },
         {
           "title": "Yuvraj Samrat Scores First Half-Century in Nepal Premier League",
@@ -27,7 +93,7 @@
     },
     {
       "title": "스타틴",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Mon, 9 Nov 2026 00:50:00 -0800",
       "news": [
         {
@@ -39,11 +105,6 @@
           "title": "심혈관질환, LDL 콜레스테롤 확 낮추는 '이 방법'",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261109_0003860308"
-        },
-        {
-          "title": "동맥경화성 심혈관질환, 치료 초기 '스타틴·에제티미브' 병용 효과 입증",
-          "source": "헬스미디어뉴스",
-          "url": "https://www.healthmedia.co.kr/news/articleView.html?idxno=107290"
         }
       ]
     },
@@ -75,11 +136,6 @@
       "published": "Sun, 8 Nov 2026 23:50:00 -0800",
       "news": [
         {
-          "title": "한밤 지하철서 잠든 20대 여성에 성폭력…60대 구속송치",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261109/134991935/1"
-        },
-        {
           "title": "지하철에서 잠든 여성에 성폭력‥60대 남성 구속 송치",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/society/article/6864258_36918.html"
@@ -88,6 +144,11 @@
           "title": "지하철서 잠든 20대 여성에 입 맞추고 신체 접촉…60대 구속 송치",
           "source": "경기일보",
           "url": "https://www.kyeonggi.com/article/20261109580406"
+        },
+        {
+          "title": "심야 지하철서 잠든 여성에 성폭력…60대 구속 송치",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707577"
         }
       ]
     },
@@ -110,13 +171,13 @@
     },
     {
       "title": "에너지",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 8 Nov 2026 23:50:00 -0800",
       "news": [
         {
           "title": "한전 에너지캐시백 가입자 200만호…제주 가정 1년 전력량 절약",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1193673"
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261109094200003"
         },
         {
           "title": "한전, 주택용 에너지캐시백 200만호 돌파…1025GWh 절감",
@@ -141,66 +202,16 @@
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836764"
         },
         {
+          "title": "\"민속촌 참교육 중단해야\" '귀신 훈육' 아동학대 논란 [앵커리포트]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611091416020041"
+        },
+        {
           "title": "“아이 훈육을 귀신에게?”…한국민속촌 ‘귀신 훈육’ 아동학대 논란",
           "source": "경기일보",
           "url": "https://www.kyeonggi.com/article/20261109580335"
-        },
-        {
-          "title": "\"민속촌 참교육 중단해야\" '귀신 훈육' 아동학대 논란 [앵커리포트]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611091416020041_005.html"
         }
       ]
-    },
-    {
-      "title": "류지현",
-      "approx_traffic": "500+",
-      "published": "Sun, 8 Nov 2026 23:00:00 -0800",
-      "news": [
-        {
-          "title": "‘류지현호’ 첫발 뗀 한화…내년 전력 구상 과제는?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706798"
-        },
-        {
-          "title": "정우주 선발? 불펜? 그보다 중요한 이야기가 있었다…2년 차 영건과 깊은 대화, 신임 감독은 무슨 메시지 전했나 [오!쎈 미야자키] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/09/202611090808777879O"
-        },
-        {
-          "title": "'LG 원클럽맨 새출발' 그런데 투수코치가 포수 미트를?…손가락 인대 다쳤던 열정, 한화에도 시작됐다 [미야자키 현장]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/09/GY4DEMLBMNSTIY3GMNSGGZRVGM/"
-        }
-      ]
-    },
-    {
-      "title": "천무 다연장로켓",
-      "approx_traffic": "200+",
-      "published": "Sun, 8 Nov 2026 22:50:00 -0800",
-      "news": [
-        {
-          "title": "한화에어로스페이스, 육상용 ‘천무’ 바다에서 쏜다…美 무인함정 시장 공략",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/11/09/7MFLUFVJQRHAHGO6FKCDX5LWEU/"
-        },
-        {
-          "title": "한화오션 미국 해군 중형상륙함 수주는 '미미' 평가, 블룸버그 \"한국 조선업체 투자 유인할 추가 발주 필요\"",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451483"
-        },
-        {
-          "title": "美 차기 ‘호위함’ 후보 오른 충남급...‘韓·日·튀르키예’ 삼파전",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002950"
-        }
-      ]
-    },
-    {
-      "title": "근로장려금",
-      "approx_traffic": "500+",
-      "published": "Sun, 8 Nov 2026 22:40:00 -0800",
-      "news": []
     }
   ]
 }
