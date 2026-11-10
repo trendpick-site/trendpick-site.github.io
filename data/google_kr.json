@@ -1,11 +1,155 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-10T22:47:51+00:00",
+  "fetched_at": "2026-11-10T23:40:56+00:00",
   "items": [
     {
-      "title": "메이저 리그 사커",
+      "title": "부동산",
+      "approx_traffic": "500+",
+      "published": "Tue, 10 Nov 2026 14:30:00 -0800",
+      "news": [
+        {
+          "title": "제11회 부동산 산업의 날 …AI·데이터 기반 산업 혁신 논의",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261110133300003"
+        },
+        {
+          "title": "7일 걸리던 집계 10분 만에…우미건설, AI로 현장 업무 개선",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261110_0003862646"
+        },
+        {
+          "title": "우미건설, AI로 공사관리·안전서류 자동화…건설현장 업무 혁신",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261110501310"
+        }
+      ]
+    },
+    {
+      "title": "맨체스터 유나이티드 fc",
+      "approx_traffic": "500+",
+      "published": "Tue, 10 Nov 2026 14:20:00 -0800",
+      "news": [
+        {
+          "title": "‘리그 10경기 1승, 18위’ 최악의 맨유, 캐릭 감독 경질 가닥",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708520"
+        },
+        {
+          "title": "[속보] '비피셜' 英 BBC 떴다! \"사퇴 안 할 건데?\" 캐릭, 하루 만에 경질 유력...'손흥민 스승' 포체티노 美 감독, 차기 사령탑 급부상",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112907519"
+        },
+        {
+          "title": "\"흥민아 나 맨유 간다!\" 맨유, 캐릭 경질하고 포체티노 검토…문제는 134억 원 위약금",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/10/GA2TSNJUMVRWMZRYGUZDSZLCHE/"
+        }
+      ]
+    },
+    {
+      "title": "난민",
       "approx_traffic": "200+",
+      "published": "Tue, 10 Nov 2026 14:20:00 -0800",
+      "news": [
+        {
+          "title": "난민신청 해놓고 강제추행 등 벌금만 3번 냈는데…“출국명령은 부당”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11630036"
+        },
+        {
+          "title": "여성 추행하고 무면허 운전까지 한 난민, 그대로 한국에 살게 된 '이유'",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1173206"
+        },
+        {
+          "title": "‘반복 범죄’ 예멘 난민 신청자, 출국명령 취소소송 승소…“돌아가면 생명 위험”",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12094005"
+        }
+      ]
+    },
+    {
+      "title": "통영어부장터",
+      "approx_traffic": "100+",
+      "published": "Tue, 10 Nov 2026 14:20:00 -0800",
+      "news": [
+        {
+          "title": "강레오 손길 거쳤는데 단돈 7000원…통영 축제 ‘역대급 메뉴’",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25476270"
+        }
+      ]
+    },
+    {
+      "title": "vix",
+      "approx_traffic": "500+",
+      "published": "Tue, 10 Nov 2026 14:10:00 -0800",
+      "news": [
+        {
+          "title": "Dan Ives Warns Chip Stocks Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an '",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/markets/tech/26/11/62904872/dan-ives-warns-chip-stocks-arent-done-falling-sees-another-12-drop-but-tom-lee-calls-ai-selloff-an-overreaction-predicts-20-tech-rally"
+        },
+        {
+          "title": "Video: Macro Minute: More evidence bottom is in: stocks rally on bad news. And also, VIX term structure uninverted",
+          "source": "Fundstrat Direct",
+          "url": "https://fundstratdirect.com/macro-strategy/macro-minute/2026/11/09/video-macro-minute-more-evidence-bottom-is-in-stocks-rally-on-bad-news-and/"
+        },
+        {
+          "title": "Fundstrat's Tom Lee: Markets are a lot safer than people think",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/video/2026/11/09/fundstrats-tom-lee-markets-are-a-lot-safer-than-people-think.html"
+        }
+      ]
+    },
+    {
+      "title": "코어위브 주가",
+      "approx_traffic": "200+",
+      "published": "Tue, 10 Nov 2026 14:00:00 -0800",
+      "news": [
+        {
+          "title": "코어위브, 매출·손실 모두 급증세…실적 전망 상향에 주가 약 2% 상승 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/11/2026111106370882172"
+        },
+        {
+          "title": "CoreWeave, 2026년 매출 전망 상향…AI 인프라 수요 급증",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/earnings/article-2169373"
+        },
+        {
+          "title": "코어위브 3분기 영업익 전년비 4배…매출 전망도 높이자 시간외 주가↑",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444061"
+        }
+      ]
+    },
+    {
+      "title": "조인성",
+      "approx_traffic": "100+",
+      "published": "Tue, 10 Nov 2026 13:50:00 -0800",
+      "news": [
+        {
+          "title": "‘가능한 사랑’ 설경구 “내가 아닌 다른 배우가 출연한다 상상하니까 끔찍’”[인터뷰]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261110/134999674/1"
+        },
+        {
+          "title": "'가능한 사랑' 조인성, 전도연과 '전라' 바다 수영 신…\"굉장히 긴장하며 촬영\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/movie/6348997"
+        },
+        {
+          "title": "조여정 \"이창동 감독 앞에서 감독 연기, 제 숙제였죠\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261110100800005"
+        }
+      ]
+    },
+    {
+      "title": "메이저 리그 사커",
+      "approx_traffic": "500+",
       "published": "Tue, 10 Nov 2026 13:40:00 -0800",
       "news": [
         {
@@ -48,178 +192,24 @@
       ]
     },
     {
-      "title": "엄정욱",
-      "approx_traffic": "500+",
-      "published": "Tue, 10 Nov 2026 13:30:00 -0800",
-      "news": [
-        {
-          "title": "배우 지안, ‘158km 강속구 투수’ 엄정욱과 결혼…“웃음 끊이지 않게 살 것”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611091718003"
-        },
-        {
-          "title": "지안, 전 야구선수 엄정욱과 결혼…신랑이 직접 축가까지 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110919015122711"
-        },
-        {
-          "title": "“160km 강속구보다 짜릿해!” 배우 지안♥엄정욱 ‘꿀 뚝뚝’ 결혼식 현장 공개",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20112004"
-        }
-      ]
-    },
-    {
-      "title": "gs칼텍스",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 13:30:00 -0800",
-      "news": [
-        {
-          "title": "정유공장의 새로운 엔진 AI…허세홍號 GS칼텍스, 디지털 전환 '시너지'",
-          "source": "파이낸셜포스트",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285901"
-        },
-        {
-          "title": "[Who Is ?] 허세홍 GS칼텍스 대표이사 부회장",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450340"
-        },
-        {
-          "title": "(보도설명) 12차 석유 최고가격은 결정된 바 없습니다.",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148975425"
-        }
-      ]
-    },
-    {
-      "title": "제네시스 gv90",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 13:30:00 -0800",
-      "news": [
-        {
-          "title": "제네시스, 앞·뒤 차 문 마주 열리는 ‘GV90’ 출시···최고 2억3950만원",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611101005001"
-        },
-        {
-          "title": "‘엉따’ 넘어 온돌로 ‘발따’... 2억, 역대 최고가 국산차 나왔다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/auto/2026/11/10/SRJ3NFM7R5AVBANWP2NR4KOL2U/"
-        },
-        {
-          "title": "“독일·영국 최고명차와 경쟁한다”…한국 ‘전통의 美’ 담은 제네시스 GV90 출시",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261110/134998152/1"
-        }
-      ]
-    },
-    {
-      "title": "이소라",
-      "approx_traffic": "2000+",
-      "published": "Tue, 10 Nov 2026 13:20:00 -0800",
-      "news": [
-        {
-          "title": "이소라, 바람이 분다 등 45곡 압류 신청…상대는 전 소속사 대표",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261110504836"
-        },
-        {
-          "title": "가수 이소라, 전 소속사와 분쟁…‘바람이 분다’ 등 45곡 저작인접권 압류",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611102102001"
-        },
-        {
-          "title": "이소라, 전 소속사 대표와 갈등 시작엔 ‘횡령 의혹’..“최소 수십억원” [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/MUYTQNLFMEYGMY3EMZRWMYRRG4/"
-        }
-      ]
-    },
-    {
-      "title": "빅토르 안",
-      "approx_traffic": "500+",
-      "published": "Tue, 10 Nov 2026 13:10:00 -0800",
-      "news": [
-        {
-          "title": "'러시아 귀화' 빅토르 안, '스피드퀸' 출연…7년만 국내 예능",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110148200005"
-        },
-        {
-          "title": "'러시아 귀화' 빅토르 안, 국내 예능 출연…쇼트트랙 코치로 합류 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111014380579096"
-        },
-        {
-          "title": "‘올림픽 6관왕’ 빅토르 안, ‘스피드퀸’ 히든 코치 합류…전이경이 직접 제안",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261110/134999243/1"
-        }
-      ]
-    },
-    {
-      "title": "의료",
+      "title": "예산",
       "approx_traffic": "100+",
-      "published": "Tue, 10 Nov 2026 13:10:00 -0800",
+      "published": "Tue, 10 Nov 2026 13:40:00 -0800",
       "news": [
         {
-          "title": "지자체 요청 시 ‘의료취약지’ 즉시 지정… 법 개정 추진",
-          "source": "간호사신문",
-          "url": "https://www.nursenews.co.kr/news/articleView.html?idxno=46425"
+          "title": "미래기금으로 주민센터 재건축? 고정지출 '21조' 논란도",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864652_37004.html"
         },
         {
-          "title": "병원 문 닫아 필수의료 공백 우려 땐…시·도지사가 취약지 지정 요청",
-          "source": "뉴스더보이스헬스케어",
-          "url": "https://www.newsthevoice.com/news/articleView.html?idxno=48008"
+          "title": "국회 예결위 경제부처 심사 이틀째…민생 예산·호남 반도체 등 질의",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708693"
         },
         {
-          "title": "탈북 남성 사망위험, 한국인보다 68% 높다",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261110000428"
-        }
-      ]
-    },
-    {
-      "title": "송지효",
-      "approx_traffic": "500+",
-      "published": "Tue, 10 Nov 2026 13:10:00 -0800",
-      "news": [
-        {
-          "title": "송지효, 속옷 모델까지 했는데 '적자'...유재석도 걱정 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110920491280966"
-        },
-        {
-          "title": "송지효, 제주도에서 해녀복 입었다 \"명예 해녀로 일하는 중\"…미모 여전 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6349393"
-        },
-        {
-          "title": "“사업 계속 적자”……송지효, ‘런닝맨’서 한 달 지출 내역 공개",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261109504653"
-        }
-      ]
-    },
-    {
-      "title": "아들",
-      "approx_traffic": "5000+",
-      "published": "Tue, 10 Nov 2026 13:00:00 -0800",
-      "news": [
-        {
-          "title": "‘배우 부부’ 차경은×이유진, 긴장감 가득한 2세 여름이 성별 공개!",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483092556"
-        },
-        {
-          "title": "이효정 아들 이유진 \"배우 장동윤이 동서…평소 좋아했다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261111_0003862937"
-        },
-        {
-          "title": "11월 결혼 이유진♥차경은, 혼전임신 고백 “살림 이미 합쳤다”",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112908014"
+          "title": "아동기본수당·출산지원금도 ‘미래대응기금’으로···복지재원 지속성 논란",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611101545001"
         }
       ]
     }
