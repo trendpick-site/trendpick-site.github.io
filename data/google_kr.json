@@ -1,11 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-10T04:57:05+00:00",
+  "fetched_at": "2026-11-10T05:57:29+00:00",
   "items": [
     {
-      "title": "정웅인",
+      "title": "김효주",
+      "approx_traffic": "100+",
+      "published": "Mon, 9 Nov 2026 20:50:00 -0800",
+      "news": [
+        {
+          "title": "'3연속 톱10' 김효주, 세계랭킹 5위로↑…황유민도 상승 [LPGA]",
+          "source": "골프한국",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022608"
+        },
+        {
+          "title": "김민솔 16억원 돌파부터 박민지 20승까지…풍성했던 KLPGA 투어",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261110089000007"
+        },
+        {
+          "title": "KLPGA 시즌 최종전 제패 유현조, 세계랭킹 30위…김효주 ’톱5’ 복귀",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110084617BwB"
+        }
+      ]
+    },
+    {
+      "title": "군대",
       "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 20:20:00 -0800",
+      "news": [
+        {
+          "title": "군번줄 V자 홈, 전사자 이빨에 끼우는 용도?…수십 년 이어진 군대 낭설",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202611081448001"
+        },
+        {
+          "title": "군인들의 삶에 법을 적용하는 것.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/dua-phap-luat-vao-doi-song-bo-doi"
+        },
+        {
+          "title": "제416기갑여단(제9군관구)은 선전 및 법률 교육을 실시합니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/lu-doan-tang-thiet-giap-416-quan-khu-9-tuyen-truyen-pho-bien-giao-duc-phap-luat"
+        }
+      ]
+    },
+    {
+      "title": "new zealand national cricket team vs india national cricket team match scorecard",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "Gurnoor Brar stakes claim for ODI World Cup with New Zealand show | Cricket",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/cricket/gurnoor-brar-stakes-claim-for-odi-world-cup-with-new-zealand-show-101794149170492.html"
+        },
+        {
+          "title": "India avoid a ‘stinker’ as short-ball ploy strikes both sides",
+          "source": "Cricbuzz",
+          "url": "https://www.cricbuzz.com/cricket-news/140823/india-avoid-a-stinker-as-short-ball-ploy-strikes-both-sides-cricbuzzcom"
+        },
+        {
+          "title": "Mitchell calls Wellington surface a ‘trampoline’",
+          "source": "The Shillong Times",
+          "url": "https://theshillongtimes.com/2026/11/08/mitchell-calls-wellington-surface-a-trampoline/"
+        }
+      ]
+    },
+    {
+      "title": "분당 신도시",
+      "approx_traffic": "2000+",
+      "published": "Mon, 9 Nov 2026 20:00:00 -0800",
+      "news": [
+        {
+          "title": "1기 신도시 거래 11.4% 늘었지만…분당·평촌 줄고 집값은 더 뛰었다",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261109513181"
+        },
+        {
+          "title": "산본·중동 거래 늘고, 분당·평촌 집값 뛰고",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336359"
+        },
+        {
+          "title": "군포 산본 아파트 거래량 108% 급증…1기 신도시 증가율 1위",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040258"
+        }
+      ]
+    },
+    {
+      "title": "송금",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 20:00:00 -0800",
+      "news": [
+        {
+          "title": "[정동칼럼]송금 영수증에 남지 않은 것들",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611092001005"
+        },
+        {
+          "title": "[단독]외국인 노동자 98%, 월급받아 해외로 보낸다…연간 최소 4.6조 송금",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01394006645644080&mediaCodeNo=257"
+        },
+        {
+          "title": "[원옥금의 한국에 산다는 것] 이주민의 삶은 숫자가 아니다",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261108071231189"
+        }
+      ]
+    },
+    {
+      "title": "이동경",
+      "approx_traffic": "100+",
+      "published": "Mon, 9 Nov 2026 20:00:00 -0800",
+      "news": [
+        {
+          "title": "이동경 아내 예린, 유튜브 시작…\"아이돌 같아\" 첫 브이로그부터 미모에 관심 [핫피플]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/MNSDEYZSGAZTMOBUGNRDEMZYGI/"
+        },
+        {
+          "title": "“이동경은 세금 20배” 박예린, 미모 본격 노출…유튜브 데뷔에 반응 폭발",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1648699"
+        },
+        {
+          "title": "축구선수 이동경 아내 박예린, 얼굴 공개하자 난리 났다…\"세금 20배 내라\"",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026111011470007912"
+        }
+      ]
+    },
+    {
+      "title": "정웅인",
+      "approx_traffic": "500+",
       "published": "Mon, 9 Nov 2026 19:50:00 -0800",
       "news": [
         {
@@ -14,20 +146,20 @@
           "url": "https://www.donga.com/news/Culture/article/all/20261110/134997213/2"
         },
         {
+          "title": "'세 딸 아빠' 정웅인, 통장잔고 걱정 \"자다가 벌떡벌떡 일어나\" 울컥",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6348967"
+        },
+        {
           "title": "정웅인, 세 딸 향한 책임감에 눈물 \"통장 잔고 걱정으로 잠 못 이뤄\"",
           "source": "톱스타뉴스",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16272775"
-        },
-        {
-          "title": "정웅인, 세 딸 아빠의 눈물 고백 “통장잔고 걱정…자다가도 일어나” (남겨서 뭐하게)",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202611100754291710&code=100100"
         }
       ]
     },
     {
       "title": "유해란",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Mon, 9 Nov 2026 19:50:00 -0800",
       "news": [
         {
@@ -36,22 +168,27 @@
           "url": "https://www.yna.co.kr/view/AKR20261110021500007"
         },
         {
-          "title": "[골프] 넬리 코다, 대회 4승·명예의 전당 도전… LPGA 투어 디 안니카 12일 개막",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3447418"
-        },
-        {
           "title": "손가락 부상 털어낸 유해란, 시즌 3승 도전…‘돌아온 최강자’ 넬리 코다 넘어설까",
           "source": "스포츠동아",
           "url": "https://sports.donga.com/sports/article/all/20261110/134998175/1"
+        },
+        {
+          "title": "윤이나·최혜진, 안니카 대회에서 재도전…유해란·김세영 추가 우승 기대 [LPGA]",
+          "source": "골프한국",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022612"
         }
       ]
     },
     {
       "title": "테니스",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 9 Nov 2026 19:50:00 -0800",
       "news": [
+        {
+          "title": "한국 선수의 첫 국제대회 우승을 기념하여 열린 일정(一庭)배 전국시니어테니스대회",
+          "source": "테니스코리아",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54277"
+        },
         {
           "title": "세종시청 이은지, 한국테니스선수권대회 준우승",
           "source": "뉴데일리 충청세종",
@@ -61,11 +198,6 @@
           "title": "이경서, 정의수 꺾고 한국테니스선수권 여자단식 첫 우승",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261108032400007"
-        },
-        {
-          "title": "권순우·박의성, 한국테니스선수권 남자 복식 우승",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261107000124"
         }
       ]
     },
@@ -80,146 +212,14 @@
           "url": "https://en.yna.co.kr/view/AEN20261110002651320"
         },
         {
-          "title": "KT Q3 Operating Profit Falls 6% as AX Orders Jump",
-          "source": "Seoul Economic Daily",
-          "url": "https://en.sedaily.com/business/2026/11/10/kt-q3-operating-profit-falls-6-percent-as-ax-orders-jump"
+          "title": "KT Confirms AX Business Gains Amid Telecom Recovery as Q3 Operating Profit Falls 6.1% (Comprehensive)",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/2026111010120330421"
         },
         {
           "title": "KT's Q3 Operating Profit Falls 6.1%",
           "source": "조선일보",
           "url": "https://www.chosun.com/english/industry-en/2026/11/10/I3CJ2E2M7RDJLDUYW5VH75MUT4/"
-        }
-      ]
-    },
-    {
-      "title": "전영현",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 19:40:00 -0800",
-      "news": [
-        {
-          "title": "‘회장님 차’ 제네시스 G90만 수십 대 줄줄이…그들이 향한 곳은?",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/11/09/UPCGNJ6NH5D2DJ2LYCNAVRZ5OM/"
-        },
-        {
-          "title": "삼성·현대차 손잡은 미래산업, 정부가 걸림돌 돼선 안 돼[사설]",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11630205"
-        },
-        {
-          "title": "삼성·현대차, 배터리로 더 가까워질까…삼성SDI 공급 확대 주목",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261109149600003"
-        }
-      ]
-    },
-    {
-      "title": "자녀",
-      "approx_traffic": "2000+",
-      "published": "Mon, 9 Nov 2026 19:30:00 -0800",
-      "news": [
-        {
-          "title": "“내 아이 귀족 스포츠 시켰더니”…골프 치는 자녀 10명 중 8명은 ‘다 큰 어른’ [권준영의 머니볼]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261110500663"
-        },
-        {
-          "title": "인천장애인종합복지관, 한솔교육희망재단과 장애인 부모 자녀 지원",
-          "source": "미디어생활",
-          "url": "https://www.imedialife.co.kr/news/articleView.html?idxno=70784"
-        },
-        {
-          "title": "인천 장애인 가정 자녀 한글교육 확대...강사가 찾아간다",
-          "source": "www.facton.co.kr",
-          "url": "https://www.facton.co.kr/news/articleView.html?idxno=2491"
-        }
-      ]
-    },
-    {
-      "title": "배추",
-      "approx_traffic": "2000+",
-      "published": "Mon, 9 Nov 2026 19:30:00 -0800",
-      "news": [
-        {
-          "title": "우상호 강원지사, 평창서 김장 담그며 배추 소비 확대 호소",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611101333247119"
-        },
-        {
-          "title": "심재국 평창군수·우상호 도지사, 고랭지김장축제서 어린이들과 김장 체험",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3747291"
-        },
-        {
-          "title": "고랭지 농가 이중고 시름.. 김장축제로 소비 촉진 > 뉴스데스크",
-          "source": "MBC 강원영동",
-          "url": "https://www.mbceg.co.kr/post/141738"
-        }
-      ]
-    },
-    {
-      "title": "채령",
-      "approx_traffic": "100+",
-      "published": "Mon, 9 Nov 2026 19:30:00 -0800",
-      "news": [
-        {
-          "title": "[Y현장] 채령 \"ITZY 때 참았던 '쪼', 솔로로 마음껏\"…7년 만에 꺼낸 진짜 매력",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202611091512339031"
-        },
-        {
-          "title": "[사진]빌리 시윤, 윙크 볼콕",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/10/HBSTENLCMQZWIMBTGJRTCNZVGI/"
-        },
-        {
-          "title": "[현장포토] \"띵똥!\"…조혜진, 누르고픈 비주얼",
-          "source": "디스패치",
-          "url": "https://www.dispatch.co.kr/2350500"
-        }
-      ]
-    },
-    {
-      "title": "이재영",
-      "approx_traffic": "1000+",
-      "published": "Mon, 9 Nov 2026 19:20:00 -0800",
-      "news": [
-        {
-          "title": "\"사랑해요!\" 이재영·이다영, 쌍둥이 깜짝 근황…日 국적 동료와 댄스로 각별한 우정 과시→소속팀은 사상 첫 챔스 본선 진출 유력",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20261110n01642"
-        },
-        {
-          "title": "이재영·다영 소속팀 투란, CEV 챔스 본선행 위해 '순항중'…예선 3라운드 불가리아 원정 첫 경기 승리",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026110615140663862"
-        },
-        {
-          "title": "\"사랑해요\" 한국어 남기며 하트 춤...유럽서 승승장구하는 이재영·이다영 근황",
-          "source": "인사이트",
-          "url": "https://www.insight.co.kr/news/581302"
-        }
-      ]
-    },
-    {
-      "title": "테슬라 모델 y",
-      "approx_traffic": "2000+",
-      "published": "Mon, 9 Nov 2026 19:00:00 -0800",
-      "news": [
-        {
-          "title": "11월에도 자체 보조금… 테슬라 “모델 Y만 215만원”…BYD “4종 모두 제공”",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261106000223"
-        },
-        {
-          "title": "아이오닉5 프리미엄은 모던보다 535만원 비싸… 보조금은 절반만 나온다",
-          "source": "래디언스리포트",
-          "url": "https://www.radiancereport.kr/news/articleView.html?idxno=16382"
-        },
-        {
-          "title": "테슬라 모델Y 가격표 제원 전비, 1700만원 더 내면 105km만 늘어날까",
-          "source": "네이트뷰",
-          "url": "https://view.nate.com/auto/view/421407/"
         }
       ]
     }
