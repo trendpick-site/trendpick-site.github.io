@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-10T19:56:43+00:00",
+  "fetched_at": "2026-11-10T20:50:01+00:00",
   "items": [
+    {
+      "title": "브래드 갈링하우스",
+      "approx_traffic": "100+",
+      "published": "Tue, 10 Nov 2026 11:30:00 -0800",
+      "news": [
+        {
+          "title": "리플 1.16달러 흔들…비트코인 ETF 4억달러 유출 직격",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Securities/2026/11/202611090339561840e7e8286d56_1"
+        },
+        {
+          "title": "바이낸스 XRP 입금, 2년 만에 최고치...매도 시그널?",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/269111"
+        },
+        {
+          "title": "리플, OCC 최종 승인에 기업 금융 전략 확대",
+          "source": "경향게임스",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309887"
+        }
+      ]
+    },
+    {
+      "title": "경찰",
+      "approx_traffic": "200+",
+      "published": "Tue, 10 Nov 2026 11:10:00 -0800",
+      "news": [
+        {
+          "title": "취재진 질문에 답변하는 천호성 전북교육감",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20261110183300055"
+        },
+        {
+          "title": "경찰, 천호성 전북교육감 소환 조사…변호사비 대납 등 혐의",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708938"
+        },
+        {
+          "title": "‘변호사비 6000만원 대납 의혹’ 천호성 전북교육감, 경찰서 9시간 조사",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/incident/2026/11/10/2VEL22F45NAXZNBEY2XAF63QYU/"
+        }
+      ]
+    },
     {
       "title": "전원주",
       "approx_traffic": "2000+",
@@ -19,15 +63,37 @@
           "url": "https://www.newsis.com/view/NISX20261110_0003861778"
         },
         {
-          "title": "87세 전원주, 빙판길 사고에 치매 전 단계... 어눌한 발음까지 ‘건강이상설’",
+          "title": "전원주, '경도인지장애' 딛고 연극 무대 출격…\"내가 왜 짠순이 노릇 했나\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6348167"
+        }
+      ]
+    },
+    {
+      "title": "메이저 리그 베이스볼",
+      "approx_traffic": "100+",
+      "published": "Tue, 10 Nov 2026 10:30:00 -0800",
+      "news": [
+        {
+          "title": "[MLB] 2026 WBC 韓 상대 SV 기록한 대만 쩡쥔웨, 美 진출 선언",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261109000764"
+        },
+        {
+          "title": "\"저도 ML 가겠습니다\" 깜짝 선언, 158km로 김도영 잡더니 한국 대신 미국간다",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/GJSDCYJQGVSWEOBTMZRDKZRSGY/"
+          "url": "https://www.chosun.com/sports/world-baseball/2026/11/08/MRRDMZJSG4ZGMNBXGEZDIYZXGQ/"
+        },
+        {
+          "title": "김도영·김혜성 막고 한국 울렸던 대만 ‘158km’ 마무리, MLB 도전장→다저스·컵스도 관심",
+          "source": "MHN스포츠",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1691020"
         }
       ]
     },
     {
       "title": "예금",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Tue, 10 Nov 2026 10:20:00 -0800",
       "news": [
         {
@@ -107,9 +173,9 @@
           "url": "https://www.donga.com/news/Society/article/all/20261110/135002688/1"
         },
         {
-          "title": "젝스키스 디너쇼 파행…이재진 “참여 안한다”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11630306"
+          "title": "이재진, 젝스키스 연말 공연 불참 선언…\"개인 계좌 티켓 판매·미환불 문제\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261110001430"
         }
       ]
     },
@@ -119,9 +185,9 @@
       "published": "Tue, 10 Nov 2026 08:40:00 -0800",
       "news": [
         {
-          "title": "Tarik Skubal in the spotlight as MLB’s GM meetings begin in Vegas - The Athletic",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/7769378/2026/11/10/gm-meetings-tarik-skubal-age/"
+          "title": "Hot Stove rumors: Padres, Skubal, Seiya, Morejon, Yanks",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-10"
         },
         {
           "title": "MLB rumors: A new Tarik Skubal suitor, the Mets' vision, plus what the Braves plan to do with Ronald Acuńa Jr.",
@@ -129,9 +195,9 @@
           "url": "https://www.cbssports.com/mlb/news/mlb-rumors-tarik-skubal-padres-mets-cubs-braves-ronald-acuna-jr-adrian-morejon-red-sox-trevor-story/"
         },
         {
-          "title": "Padres Have Expressed Interest In Tarik Skubal",
-          "source": "MLB Trade Rumors",
-          "url": "https://www.mlbtraderumors.com/2026/11/padres-have-expressed-interest-in-tarik-skubal.html"
+          "title": "Tarik Skubal in the spotlight as MLB’s GM meetings begin in Vegas - The Athletic",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7769378/2026/11/10/gm-meetings-tarik-skubal-age/"
         }
       ]
     },
@@ -154,72 +220,6 @@
           "title": "실리콘밸리 희대의 사기꾼 '엘리자베스 홈즈' 다큐, 함께 보면 좋은 작품은?",
           "source": "https://cinejin.co.kr/ko-kr",
           "url": "https://cinejin.co.kr/article/284276485797"
-        }
-      ]
-    },
-    {
-      "title": "추위",
-      "approx_traffic": "1000+",
-      "published": "Tue, 10 Nov 2026 07:40:00 -0800",
-      "news": [
-        {
-          "title": "수요일 아침 영하권 추위·낮엔 포근…일교차 15도 안팎",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110156300530"
-        },
-        {
-          "title": "[날씨] 내일도 맑지만 일교차 큰 날씨...주말 전국 가을비",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202611101923577786"
-        },
-        {
-          "title": "밤사이 짙은 안개·도로 살얼음 주의…일교차 커",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709344"
-        }
-      ]
-    },
-    {
-      "title": "임준우",
-      "approx_traffic": "2000+",
-      "published": "Tue, 10 Nov 2026 06:30:00 -0800",
-      "news": [
-        {
-          "title": "[단독] “아빠 저만 믿으세요”···임창정 아들, 4년 만에 ‘KPGA 프로’ 됐다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611101805013"
-        },
-        {
-          "title": "임창정 아들, 4년 전 골프 선수 꿈 이뤘다…KPGA 프로 입회",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261110_0003862839"
-        },
-        {
-          "title": "임창정 자식농사 대박…20살子, KPGA 프로 입회 '동반 골프예능 4년만'[이슈S]",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019096"
-        }
-      ]
-    },
-    {
-      "title": "장동윤",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 06:30:00 -0800",
-      "news": [
-        {
-          "title": "동상이몽2_너는 내 운명 : 이유진, 직접 웨딩 영상 만들어 업체들과 협업하고 결혼 비용 절감",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483092209"
-        },
-        {
-          "title": "11월 결혼 이유진♥차경은, 혼전임신 고백 “살림 이미 합쳤다”",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/HAZDEMJZGUYDKOJTMU4GENJRHE/"
-        },
-        {
-          "title": "'동상이몽2' 이효정, 며느리 차경은 자랑 위해 출격 \"아들이 처음으로 효도\"",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524345"
         }
       ]
     }
