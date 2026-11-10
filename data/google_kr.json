@@ -1,27 +1,159 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-10T11:28:47+00:00",
+  "fetched_at": "2026-11-10T12:30:49+00:00",
   "items": [
     {
-      "title": "임영웅 아임 히어로 더 스타디움",
+      "title": "jtbc",
+      "approx_traffic": "500+",
+      "published": "Tue, 10 Nov 2026 03:20:00 -0800",
+      "news": [
+        {
+          "title": "JTBC launches sale, to pick preferred buyer in January",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-finance/2026/11/09/I67ZL7I37VCOJOM7A6MXFLPHRM/"
+        },
+        {
+          "title": "“Open competitive bidding”: Who will be JTBC’s new owner? ... Preferred bidder to be selected next January",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/business/12202035"
+        },
+        {
+          "title": "JTBC Seeks About 500 Billion Won in Sale as Hoban, Taekwang Eye Bid",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/signal/article/jtbc-seeks-about-500-billion-won-in-sale-as-hoban-taekwang"
+        }
+      ]
+    },
+    {
+      "title": "금융보안원",
       "approx_traffic": "200+",
+      "published": "Tue, 10 Nov 2026 03:10:00 -0800",
+      "news": [
+        {
+          "title": "[속보] '금융보안 문지기' 금융보안원마저 해킹으로 정보유출‥긴급 차단조치",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864653_37004.html"
+        },
+        {
+          "title": "정보 유출했는데 1000원짜리 보험 가입?…은행권 보상책 실효성 논란",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261110104631"
+        },
+        {
+          "title": "금융보안원도 해킹에 뚫려…금융사 보안평가 정보 일부 유출(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261110174700002"
+        }
+      ]
+    },
+    {
+      "title": "악뮤 콘서트",
+      "approx_traffic": "200+",
+      "published": "Tue, 10 Nov 2026 02:50:00 -0800",
+      "news": [
+        {
+          "title": "“17만 원대 좌석인데 시야 가려”…악뮤 강릉 콘서트에 관객 불만",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611091159360525"
+        },
+        {
+          "title": "\"17만 원 냈는데\"…악뮤 공연 시야 제한 논란",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261109100939Eid"
+        },
+        {
+          "title": "“17만원 VIP석도 무대 안보여”…악뮤 강릉 콘서트 불만 폭발",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261109/134989499/1"
+        }
+      ]
+    },
+    {
+      "title": "시가총액",
+      "approx_traffic": "1000+",
+      "published": "Tue, 10 Nov 2026 02:30:00 -0800",
+      "news": [
+        {
+          "title": "대경 상장사 시총 15조 증발… 포스코·한화시스템 직격",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314983"
+        },
+        {
+          "title": "대구·경북 상장법인 시가총액 3개월 만에 '100조' 붕괴",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6348748"
+        },
+        {
+          "title": "대구 10월, 상장법인 시총 전월비 14조8624억 증발",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261110_0003862732"
+        }
+      ]
+    },
+    {
+      "title": "cpi",
+      "approx_traffic": "200+",
+      "published": "Tue, 10 Nov 2026 02:30:00 -0800",
+      "news": [
+        {
+          "title": "Bitcoin trades around $74,000 as markets await U.S. inflation data [Crypto Briefing]",
+          "source": "파이낸셜뉴스",
+          "url": "https://en.fnnews.com/news/202611101049484195"
+        },
+        {
+          "title": "3 Signals That Could Determine Bitcoin’s Next Move: Analysts",
+          "source": "CryptoPotato",
+          "url": "https://cryptopotato.com/3-signals-that-could-determine-bitcoins-next-move-analysts/"
+        },
+        {
+          "title": "[Today's Key Economic and Crypto Events] US October CPI Due",
+          "source": "bloomingbit",
+          "url": "https://en.bloomingbit.io/feed/news/124037"
+        }
+      ]
+    },
+    {
+      "title": "cpi 발표",
+      "approx_traffic": "100+",
+      "published": "Tue, 10 Nov 2026 02:30:00 -0800",
+      "news": [
+        {
+          "title": "가슴 쓸어내린 코인 시장…이번주도 긴장 못 늦추는 이유",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3914_32_C60"
+        },
+        {
+          "title": "[코인 시황] 비트코인, 美 CPI 앞두고 7만5000달러 하회…채굴업체 대규모 매도에 투심 위축",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261110001504"
+        },
+        {
+          "title": "비트코인, 규제 불확실성·ETF 자금 유출에 7만5천 달러 아래서 횡보",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2167655"
+        }
+      ]
+    },
+    {
+      "title": "임영웅 아임 히어로 더 스타디움",
+      "approx_traffic": "500+",
       "published": "Tue, 10 Nov 2026 02:10:00 -0800",
       "news": [
         {
-          "title": "임영웅, 또 역대급 스케일…10주년 공연실황 '아임 히어로 2' IMAX 개봉 확정",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/11/10/GMYDEOBUGU3GKM3EG4YDQYZXMM/"
+          "title": "“함성까지 다시 듣는다” 임영웅 스타디움, IMAX로 귀환",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12203793"
         },
         {
-          "title": "'트로트 가수' 1위 임영웅, 이번엔 IMAX로 영웅시대 만난다",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611101916233580"
+          "title": "임영웅 10주년 콘서트 실황 영화, IMAX로 본다…포스터 공개",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/movie/6349064"
         },
         {
-          "title": "임영웅 ‘아임 히어로 더 스타디움 2’, 18일 개봉…4면 SCREENX 상영",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261109500192"
+          "title": "임영웅 영화 '임영웅│아임 히어로 더 스타디움 2', 차원이 다른 특별 경험 예고 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110909347280543"
         }
       ]
     },
@@ -31,25 +163,20 @@
       "published": "Tue, 10 Nov 2026 02:10:00 -0800",
       "news": [
         {
-          "title": "[사진]리센느 원이, 미소 가득",
+          "title": "[사진]리센느, With",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/10/MY4DSMBZGFSTIZRUGAZTCYJVHA/"
+          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/10/G5TDMMZYMU2DCMJQMIZWKYLDG4/"
         },
         {
-          "title": "[사진]싸이커스 민재-플레어 유 최립우, MC 케미",
+          "title": "[포토] 비보이즈, 치명적인 퍼포먼스",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/10/HEZTANZWG5RGGNJXGQ3TCZJVHA/"
-        },
-        {
-          "title": "‘더쇼’ 리센느·샤오쥔·피원하모니·싸이커스 등 컴백 무대",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611101122003"
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/10/GEYDCMBUGM4TAOBSHBSDCMTGMY/"
         }
       ]
     },
     {
       "title": "광명시",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Tue, 10 Nov 2026 02:00:00 -0800",
       "news": [
         {
@@ -58,14 +185,14 @@
           "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336400"
         },
         {
-          "title": "“돔구장은 광명으로”…5만 석 돔구장 유치에 시민 1만3000여 명 “힘 보탰다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261110/134999835/1"
+          "title": "경기도 지자체, 돔구장 유치전 가열",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20112630"
         },
         {
-          "title": "광명시, 5만석 규모 돔구장 유치 서명에 시민 1만3000명 참여",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611101444001"
+          "title": "파주시, 스포츠·공연 복합형 돔구장 유치에 총력",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040461"
         }
       ]
     },
@@ -80,130 +207,14 @@
           "url": "https://www.yna.co.kr/view/AKR20261110085500530"
         },
         {
-          "title": "퇴직공무원 절반 “연금 공백기에 월 200만원 이상 부족”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261110/134999748/1"
-        },
-        {
           "title": "“국민연금 받는 급여만큼 기초생활 수급비 깎여”…조기연금 신청하는 저소득층 노인들",
           "source": "세계일보",
           "url": "https://www.segye.com/newsView/20261109501982"
-        }
-      ]
-    },
-    {
-      "title": "울산 현대모비스 대 고양 소노",
-      "approx_traffic": "1000+",
-      "published": "Tue, 10 Nov 2026 01:50:00 -0800",
-      "news": [
-        {
-          "title": "스카티 제임스도 쓰러졌다! 외인 부상 경계령. 4개팀 초비상. KBL 순위 판도 최대 변수",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/basketball/2026/11/10/MEZTQYRZHBSDAYZSGA3WIZBTGU/"
         },
         {
-          "title": "[현장리포트] 고양 소노, 스카티 제임스 대체외인 영입. 현대모비스도 스펠맨 보좌할 대체 외인 구했다",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/basketball/2026-11-10/202611100100074240006892"
-        },
-        {
-          "title": "“눈 감았다 뜨면 부상자 나와”…정관장 유도훈 감독의 한숨 “국내 선수들이 버텨줘야” [쿠키 현장]",
-          "source": "쿠키뉴스",
-          "url": "https://www.kukinews.com/article/view/kuk202611060189"
-        }
-      ]
-    },
-    {
-      "title": "투수",
-      "approx_traffic": "500+",
-      "published": "Tue, 10 Nov 2026 01:40:00 -0800",
-      "news": [
-        {
-          "title": "프로야구 LG, 유원상·최성훈 투수 코치와 계약",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202611101524467665"
-        },
-        {
-          "title": "[오피셜] '한화로 떠난 김광삼 빈자리' 21홀드 필승조 출신이 채우나! '4위 마감' LG, 유원상·최성훈 코치 동시 영입 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/10/2026111014544749724"
-        },
-        {
-          "title": "[프로야구] LG, 유원상·최성훈 코치 영입...투수 코치진 전면 교체",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261110001416"
-        }
-      ]
-    },
-    {
-      "title": "의사",
-      "approx_traffic": "1000+",
-      "published": "Tue, 10 Nov 2026 01:30:00 -0800",
-      "news": [
-        {
-          "title": "'고소득' 의사 부부, 병원 나란히 퇴사 알고보니…기막힌 꼼수",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611107416i"
-        },
-        {
-          "title": "아파트 부정청약 354건 적발…위장전입, 334건으로 최다",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975362"
-        },
-        {
-          "title": "[간추린 경제] 1. 4%대 급등 2. 위장전입에 위장 퇴사까지‥부정 청약 354건 적발",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6864606_36981.html"
-        }
-      ]
-    },
-    {
-      "title": "자주포",
-      "approx_traffic": "500+",
-      "published": "Tue, 10 Nov 2026 01:30:00 -0800",
-      "news": [
-        {
-          "title": "철원 국도서 자주포·민간 차량 3중 추돌 사고…1명 사망",
+          "title": "퇴직공무원 절반 “연금 공백기에 월 200만원 이상 부족”",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261110/135000427/2"
-        },
-        {
-          "title": "밤길 국도 달리던 자주포에 민간인 차량 추돌…운전자 1명 사망",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708789"
-        },
-        {
-          "title": "[영상] 밤길 국도 주행 육군 자주포에 3중 추돌…블랙박스 영상 보니",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20261110016200704?section=video/all"
-        }
-      ]
-    },
-    {
-      "title": "9440",
-      "approx_traffic": "100+",
-      "published": "Tue, 10 Nov 2026 01:20:00 -0800",
-      "news": []
-    },
-    {
-      "title": "ai 버블",
-      "approx_traffic": "500+",
-      "published": "Tue, 10 Nov 2026 01:00:00 -0800",
-      "news": [
-        {
-          "title": "\"AI 버블 터지면 닷컴버블 때보다 충격 클 것\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611106951i"
-        },
-        {
-          "title": "\"감원해서라도 AI 투자 늘린다\"…빅테크 생존 경쟁 속 반도체의 길",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261109_0003860402"
-        },
-        {
-          "title": "주식 급락에 개미들 손실 커지는데…전문가 \"이런 선택이 최악\" 경고",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611100652423367"
+          "url": "https://www.donga.com/news/Politics/article/all/20261110/134999748/1"
         }
       ]
     }
