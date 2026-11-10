@@ -1,225 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-10T20:50:01+00:00",
+  "fetched_at": "2026-11-10T21:45:40+00:00",
   "items": [
     {
-      "title": "브래드 갈링하우스",
-      "approx_traffic": "100+",
-      "published": "Tue, 10 Nov 2026 11:30:00 -0800",
-      "news": [
-        {
-          "title": "리플 1.16달러 흔들…비트코인 ETF 4억달러 유출 직격",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Securities/2026/11/202611090339561840e7e8286d56_1"
-        },
-        {
-          "title": "바이낸스 XRP 입금, 2년 만에 최고치...매도 시그널?",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/269111"
-        },
-        {
-          "title": "리플, OCC 최종 승인에 기업 금융 전략 확대",
-          "source": "경향게임스",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309887"
-        }
-      ]
-    },
-    {
-      "title": "경찰",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 11:10:00 -0800",
-      "news": [
-        {
-          "title": "취재진 질문에 답변하는 천호성 전북교육감",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20261110183300055"
-        },
-        {
-          "title": "경찰, 천호성 전북교육감 소환 조사…변호사비 대납 등 혐의",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708938"
-        },
-        {
-          "title": "‘변호사비 6000만원 대납 의혹’ 천호성 전북교육감, 경찰서 9시간 조사",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/incident/2026/11/10/2VEL22F45NAXZNBEY2XAF63QYU/"
-        }
-      ]
-    },
-    {
-      "title": "전원주",
-      "approx_traffic": "2000+",
-      "published": "Tue, 10 Nov 2026 10:30:00 -0800",
-      "news": [
-        {
-          "title": "'87세' 전원주...\"병원 가보시라\" 누리꾼 걱정 산 영상 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111015121395830"
-        },
-        {
-          "title": "'경도인지장애 고백' 전원주, 어눌해진 발음에 건강 염려",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261110_0003861778"
-        },
-        {
-          "title": "전원주, '경도인지장애' 딛고 연극 무대 출격…\"내가 왜 짠순이 노릇 했나\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6348167"
-        }
-      ]
-    },
-    {
-      "title": "메이저 리그 베이스볼",
-      "approx_traffic": "100+",
-      "published": "Tue, 10 Nov 2026 10:30:00 -0800",
-      "news": [
-        {
-          "title": "[MLB] 2026 WBC 韓 상대 SV 기록한 대만 쩡쥔웨, 美 진출 선언",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261109000764"
-        },
-        {
-          "title": "\"저도 ML 가겠습니다\" 깜짝 선언, 158km로 김도영 잡더니 한국 대신 미국간다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/08/MRRDMZJSG4ZGMNBXGEZDIYZXGQ/"
-        },
-        {
-          "title": "김도영·김혜성 막고 한국 울렸던 대만 ‘158km’ 마무리, MLB 도전장→다저스·컵스도 관심",
-          "source": "MHN스포츠",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1691020"
-        }
-      ]
-    },
-    {
-      "title": "예금",
-      "approx_traffic": "1000+",
-      "published": "Tue, 10 Nov 2026 10:20:00 -0800",
-      "news": [
-        {
-          "title": "‘소액대출’ 금리도 상승…취약계층 울상",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611092056035"
-        },
-        {
-          "title": "“고정이냐 변동이냐”…주담대 금리 격차 실종, 기준금리 인상 촉각",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261109025167334"
-        },
-        {
-          "title": "[단독] \"대출도 예금도 이상하다\"…뒤집힌 금리 공식",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111084481"
-        }
-      ]
-    },
-    {
-      "title": "넥슨",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 10:20:00 -0800",
-      "news": [
-        {
-          "title": "넥슨 3분기 영업익 3천718억…메이플·FC 성과에 전망치 상회",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110137000017"
-        },
-        {
-          "title": "[속보]크래프톤, 3분기 영업이익 2250억원…전년比 35.5%↓ - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/tech/2026/11/10/2026111015505174081"
-        },
-        {
-          "title": "넥슨게임즈, 3분기 매출 386억원…‘던파 키우기’ 등 신작 개발 집중",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261110191131"
-        }
-      ]
-    },
-    {
-      "title": "espn",
-      "approx_traffic": "100+",
-      "published": "Tue, 10 Nov 2026 09:50:00 -0800",
-      "news": [
-        {
-          "title": "How idle week impacts Indiana football in CFP rankings, projections",
-          "source": "IndyStar",
-          "url": "https://www.indystar.com/story/sports/college/indiana/2026/11/10/cfp-rankings-projections-indiana-football-week-10-bye-week-predictions-iu-football/92704285007/"
-        },
-        {
-          "title": "ESPN FPI Predicts Indiana's Chance Against USC in Top-20 Showdown",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/college/indiana/football/espn-fpi-predicts-indiana-usc"
-        },
-        {
-          "title": "Scores From Around the Nation: Indiana’s Week 9 Opponent Recap",
-          "source": "SportsGrid",
-          "url": "https://www.sportsgrid.com/ncaaf/article/scores-from-around-the-nation-indianas-week-9-opponent-recap"
-        }
-      ]
-    },
-    {
-      "title": "이재진",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 09:30:00 -0800",
-      "news": [
-        {
-          "title": "[단독] 무산된 젝키 디너쇼, 결국 경찰서까지…주최측 “오늘부터 공식 환불”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611101816003"
-        },
-        {
-          "title": "젝스키스 3인 공연, 이재진 불참에 결국 취소…예매 방식 갈등",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261110/135002688/1"
-        },
-        {
-          "title": "이재진, 젝스키스 연말 공연 불참 선언…\"개인 계좌 티켓 판매·미환불 문제\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261110001430"
-        }
-      ]
-    },
-    {
-      "title": "로스앤젤레스 다저스",
+      "title": "샤워",
       "approx_traffic": "500+",
-      "published": "Tue, 10 Nov 2026 08:40:00 -0800",
+      "published": "Tue, 10 Nov 2026 12:40:00 -0800",
       "news": [
         {
-          "title": "Hot Stove rumors: Padres, Skubal, Seiya, Morejon, Yanks",
-          "source": "MLB.com",
-          "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-10"
+          "title": "[친절한 변호사K] 층간소음 피해, 현명한 대처법은?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707943"
         },
         {
-          "title": "MLB rumors: A new Tarik Skubal suitor, the Mets' vision, plus what the Braves plan to do with Ronald Acuńa Jr.",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/mlb/news/mlb-rumors-tarik-skubal-padres-mets-cubs-braves-ronald-acuna-jr-adrian-morejon-red-sox-trevor-story/"
+          "title": "“새벽 샤워·엘리베이터 자제해달라”…선 넘은 배려 요구인가",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261110/134996297/1"
         },
         {
-          "title": "Tarik Skubal in the spotlight as MLB’s GM meetings begin in Vegas - The Athletic",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/7769378/2026/11/10/gm-meetings-tarik-skubal-age/"
+          "title": "“밤 10시 이후 샤워 피해달라” 아파트 입주민 주장 논란",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25476859"
         }
       ]
     },
     {
-      "title": "엘리자베스 홈즈",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 08:30:00 -0800",
+      "title": "투자",
+      "approx_traffic": "1000+",
+      "published": "Tue, 10 Nov 2026 12:40:00 -0800",
       "news": [
         {
-          "title": "'유 캔 씨 에브리씽', 북미 역대 비음악 다큐멘터리 흥행 2위 등극",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/11/a24-you-can-see-everything-second-highest-grossing-non-music-documentary-north-america-record-news"
+          "title": "Marsh, 투자자문사 Wilshire 인수 합의",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/company-news/article-93CH-2169358"
         },
         {
-          "title": "북미 뒤흔든 ‘사기꾼’ 엘리자베스 홈즈 다큐…‘유 캔 씨 에브리씽’, 12월 9일 국내 개봉",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261108/134984075/1"
+          "title": "\"AI 시대에 주식 승자 되려면\"…거장은 '이 상품'에 돈 묻는다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611107191i"
         },
         {
-          "title": "실리콘밸리 희대의 사기꾼 '엘리자베스 홈즈' 다큐, 함께 보면 좋은 작품은?",
-          "source": "https://cinejin.co.kr/ko-kr",
-          "url": "https://cinejin.co.kr/article/284276485797"
+          "title": "스테이트스트리트 회장 \"AI 투자, 거품이라 부르기 어렵다\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442791"
+        }
+      ]
+    },
+    {
+      "title": "항공기",
+      "approx_traffic": "100+",
+      "published": "Tue, 10 Nov 2026 12:40:00 -0800",
+      "news": [
+        {
+          "title": "‘닭장’ 항공기는 옛말… 좌석 간격 넓히는 LCC",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/10/25QH3ZRFFFGQBEJZUJWEXJKUSQ/"
+        },
+        {
+          "title": "에어프레미아, 이코노미 공간 넓혔다",
+          "source": "트래블데일리",
+          "url": "https://www.traveldaily.co.kr/news/articleView.html?idxno=72542"
+        },
+        {
+          "title": "“좌석 18석 덜고 공간 넓혔다”…에어프레미아, 기내 좌석 재편",
+          "source": "서울경제TV",
+          "url": "https://www.sentv.co.kr/article/view/sentv202611020043"
+        }
+      ]
+    },
+    {
+      "title": "안세영",
+      "approx_traffic": "1000+",
+      "published": "Tue, 10 Nov 2026 12:40:00 -0800",
+      "news": [
+        {
+          "title": "\"아버지는 복싱 국가대표\"...'55연승' 안세영의 특별한 가족사에 해외 언론도 주목",
+          "source": "KBC광주방송",
+          "url": "https://www.ikbc.co.kr/article/view/kbc202611100031"
+        },
+        {
+          "title": "\"안세영 보면 전성기 내 모습 떠오른다\" 올림픽 金 전설의 극찬... \"출전할 때마다 우승, 나도 늘 정상만 생각했다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111104162947473"
+        },
+        {
+          "title": "[오늘의 영상] 경이로운 세영 역대 최다 11승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707003"
+        }
+      ]
+    },
+    {
+      "title": "헤지펀드",
+      "approx_traffic": "100+",
+      "published": "Tue, 10 Nov 2026 12:40:00 -0800",
+      "news": [
+        {
+          "title": "\"월가가 亞 낮 시간대 들어온다\"… 나스닥 '23시간 거래' 도입에 홍콩 방어전 돌입",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026111022120915720c8c1c064d_1"
+        },
+        {
+          "title": "美 거래소 24X, 내달 6일부터 하루 23시간 주식 거래",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/article/2026111012454832552"
+        },
+        {
+          "title": "키움증권, 美증시 23시간 거래 전환 앞두고 직접중개 확대…중개수수료율 90% 절감 추진",
+          "source": "업코리아",
+          "url": "https://www.upkoreanews.kr/news/articleView.html?idxno=101083"
+        }
+      ]
+    },
+    {
+      "title": "두산에너빌리티",
+      "approx_traffic": "1000+",
+      "published": "Tue, 10 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "[장중수급포착] 두산에너빌리티, 외국인/기관 동시 순매수… 주가 +6.00%",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261110000746"
+        },
+        {
+          "title": "‘체코 원전 계약 불발’ 두산에너빌… 증권가 “시총 하락 과도”",
+          "source": "부산일보",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026110117035043286"
+        },
+        {
+          "title": "[마감분석] 두산에너빌리티 8%대 급등 마감 : 기업주식정보",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1083450"
+        }
+      ]
+    },
+    {
+      "title": "이정후",
+      "approx_traffic": "200+",
+      "published": "Tue, 10 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "KBO 타율 1위도 MLB 벽 높았다",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261110070205827"
+        },
+        {
+          "title": "\"LEE 옵트아웃 안하면 SF 부담스러운 상황\", '이정후↔2,3선발급' 또 불거진 트레이드 시나리오",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-11-10/202611100100073890006860"
+        },
+        {
+          "title": "이정후, 2031년 추신수 넘는다?...통산 수입 1억 5,000만 달러 돌파할까",
+          "source": "마니아타임즈",
+          "url": "https://www.maniareport.com/view.php?ud=20261107082108182591b55a0d56_19"
+        }
+      ]
+    },
+    {
+      "title": "가덕도신공항",
+      "approx_traffic": "100+",
+      "published": "Tue, 10 Nov 2026 12:20:00 -0800",
+      "news": [
+        {
+          "title": "가덕도신공항 부지조성 실시설계 착수…2035년 개항 추진",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374552"
+        },
+        {
+          "title": "부산상의, 전 국회의장에 가덕 연내착공·LCC 본사 유치 건의",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261111.22001003206"
+        },
+        {
+          "title": "[건설업계 브리핑]대우건설·현대엔지니어링·GS건설·SP삼화·우리자산신탁",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423747"
+        }
+      ]
+    },
+    {
+      "title": "가상자산",
+      "approx_traffic": "100+",
+      "published": "Tue, 10 Nov 2026 12:20:00 -0800",
+      "news": [
+        {
+          "title": "두나무 김형년 \"삼전닉스 해외서만 토큰 거래 가슴 아파\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261110126200002"
+        },
+        {
+          "title": "축사하는 정점식 원내대표",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261110_0021527609"
+        },
+        {
+          "title": "오경석 두나무 대표 “디지털자산, 금융혁신·국가 경쟁력 핵심”",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000681"
+        }
+      ]
+    },
+    {
+      "title": "한남더힐 아파트",
+      "approx_traffic": "500+",
+      "published": "Tue, 10 Nov 2026 12:10:00 -0800",
+      "news": [
+        {
+          "title": "옥주현, 190억 매입 한남동 아파트 경매 이어 구청에 압류",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611100816003"
+        },
+        {
+          "title": "190억 한남더힐 품은 지 반년 만에…옥주현이 마주한 300억 대출 잔혹사",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261103516607"
+        },
+        {
+          "title": "“옥주현 190억 한남더힐에 근저당 237억”…집값보다 빚이 많다는 뜻일까? [DD집톡]",
+          "source": "디지털데일리",
+          "url": "https://www.ddaily.co.kr/page/view/2026111010481084231"
         }
       ]
     }
