@@ -1,225 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-10T05:57:29+00:00",
+  "fetched_at": "2026-11-10T07:11:43+00:00",
   "items": [
     {
-      "title": "김효주",
-      "approx_traffic": "100+",
-      "published": "Mon, 9 Nov 2026 20:50:00 -0800",
-      "news": [
-        {
-          "title": "'3연속 톱10' 김효주, 세계랭킹 5위로↑…황유민도 상승 [LPGA]",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022608"
-        },
-        {
-          "title": "김민솔 16억원 돌파부터 박민지 20승까지…풍성했던 KLPGA 투어",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110089000007"
-        },
-        {
-          "title": "KLPGA 시즌 최종전 제패 유현조, 세계랭킹 30위…김효주 ’톱5’ 복귀",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110084617BwB"
-        }
-      ]
-    },
-    {
-      "title": "군대",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 20:20:00 -0800",
-      "news": [
-        {
-          "title": "군번줄 V자 홈, 전사자 이빨에 끼우는 용도?…수십 년 이어진 군대 낭설",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202611081448001"
-        },
-        {
-          "title": "군인들의 삶에 법을 적용하는 것.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/dua-phap-luat-vao-doi-song-bo-doi"
-        },
-        {
-          "title": "제416기갑여단(제9군관구)은 선전 및 법률 교육을 실시합니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/lu-doan-tang-thiet-giap-416-quan-khu-9-tuyen-truyen-pho-bien-giao-duc-phap-luat"
-        }
-      ]
-    },
-    {
-      "title": "new zealand national cricket team vs india national cricket team match scorecard",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 20:10:00 -0800",
-      "news": [
-        {
-          "title": "Gurnoor Brar stakes claim for ODI World Cup with New Zealand show | Cricket",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/cricket/gurnoor-brar-stakes-claim-for-odi-world-cup-with-new-zealand-show-101794149170492.html"
-        },
-        {
-          "title": "India avoid a ‘stinker’ as short-ball ploy strikes both sides",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/cricket-news/140823/india-avoid-a-stinker-as-short-ball-ploy-strikes-both-sides-cricbuzzcom"
-        },
-        {
-          "title": "Mitchell calls Wellington surface a ‘trampoline’",
-          "source": "The Shillong Times",
-          "url": "https://theshillongtimes.com/2026/11/08/mitchell-calls-wellington-surface-a-trampoline/"
-        }
-      ]
-    },
-    {
-      "title": "분당 신도시",
+      "title": "kbo 리그",
       "approx_traffic": "2000+",
-      "published": "Mon, 9 Nov 2026 20:00:00 -0800",
+      "published": "Mon, 9 Nov 2026 21:50:00 -0800",
       "news": [
         {
-          "title": "1기 신도시 거래 11.4% 늘었지만…분당·평촌 줄고 집값은 더 뛰었다",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261109513181"
+          "title": "\"100만 달러면 돼\" KBO 가고 싶다고 애원했는데 모두가 외면→3년 뒤 4년 538억 잭팟 터졌다",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018990"
         },
         {
-          "title": "산본·중동 거래 늘고, 분당·평촌 집값 뛰고",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336359"
+          "title": "'NPB 4년 최대 537억 잭팟 터졌다' 레이예스, 닛폰햄과 역사적 초대형 계약 합의",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202611020108"
         },
         {
-          "title": "군포 산본 아파트 거래량 108% 급증…1기 신도시 증가율 1위",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040258"
-        }
-      ]
-    },
-    {
-      "title": "송금",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "[정동칼럼]송금 영수증에 남지 않은 것들",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611092001005"
-        },
-        {
-          "title": "[단독]외국인 노동자 98%, 월급받아 해외로 보낸다…연간 최소 4.6조 송금",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01394006645644080&mediaCodeNo=257"
-        },
-        {
-          "title": "[원옥금의 한국에 산다는 것] 이주민의 삶은 숫자가 아니다",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261108071231189"
-        }
-      ]
-    },
-    {
-      "title": "이동경",
-      "approx_traffic": "100+",
-      "published": "Mon, 9 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "이동경 아내 예린, 유튜브 시작…\"아이돌 같아\" 첫 브이로그부터 미모에 관심 [핫피플]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/MNSDEYZSGAZTMOBUGNRDEMZYGI/"
-        },
-        {
-          "title": "“이동경은 세금 20배” 박예린, 미모 본격 노출…유튜브 데뷔에 반응 폭발",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1648699"
-        },
-        {
-          "title": "축구선수 이동경 아내 박예린, 얼굴 공개하자 난리 났다…\"세금 20배 내라\"",
+          "title": "'와 537억 초대박' 일본야구 역사 바꿨다, 도대체 누구인가…\"일본서도 큰돈 벌 수 있다는 걸 보여줘, ML이었으면 상상도 어려워\"",
           "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026111011470007912"
+          "url": "https://mydaily.co.kr/page/view/2026110309353419441"
         }
       ]
     },
     {
-      "title": "정웅인",
+      "title": "대만 해협",
       "approx_traffic": "500+",
-      "published": "Mon, 9 Nov 2026 19:50:00 -0800",
+      "published": "Mon, 9 Nov 2026 21:40:00 -0800",
       "news": [
         {
-          "title": "정웅인 “통장 잔고 생각에 자다가 벌떡”…세 딸 바라보며 결국 눈물",
+          "title": "30~40대 남성 절반 비만...성인 비만율 10년 새 26%↑",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611091632358497&s_hcd="
+        },
+        {
+          "title": "대만해협 흔든 서희함의 심장…한화오션 국산 리튬전지가 비대칭 잠항 열었다",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611100637117444fbbec65dfb_1"
+        },
+        {
+          "title": "김정은 보란듯 北겨냥 ‘바닷속 미사일 기지’…발사관 10개 서희함 떴다 [권윤희의 軍토피아]",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/politics/diplomacy/2026/11/07/20261107500029"
+        }
+      ]
+    },
+    {
+      "title": "골프존카운티",
+      "approx_traffic": "500+",
+      "published": "Mon, 9 Nov 2026 21:40:00 -0800",
+      "news": []
+    },
+    {
+      "title": "공포탄",
+      "approx_traffic": "1000+",
+      "published": "Mon, 9 Nov 2026 21:30:00 -0800",
+      "news": [
+        {
+          "title": "중대장에 공포탄 맞은 대대장…발끈해 2발로 되갚았다가 결국",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327297"
+        },
+        {
+          "title": "“너 나와”…실수로 공포탄 쏜 부하에 맞대응한 대대장 재판행",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261110580296"
+        },
+        {
+          "title": "중대장이 실수로 공포탄 쏘자…대대장 “너 나와” 2발 ‘탕 탕’",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261110/134997213/2"
-        },
+          "url": "https://www.donga.com/news/Politics/article/all/20261110/134996843/2"
+        }
+      ]
+    },
+    {
+      "title": "신랑",
+      "approx_traffic": "5000+",
+      "published": "Mon, 9 Nov 2026 21:20:00 -0800",
+      "news": [
         {
-          "title": "'세 딸 아빠' 정웅인, 통장잔고 걱정 \"자다가 벌떡벌떡 일어나\" 울컥",
+          "title": "신부 가슴에 얼굴 파묻고 흔들흔들…신랑 돌발 행동에 하객들 당혹",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6348967"
+          "url": "https://www.news1.kr/world/global-topic/6347972"
         },
         {
-          "title": "정웅인, 세 딸 향한 책임감에 눈물 \"통장 잔고 걱정으로 잠 못 이뤄\"",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16272775"
+          "title": "결혼식 중 신부 가슴에 얼굴 파묻은 신랑…“애들도 보는데” 논란 [월드픽]",
+          "source": "www.twig24.com",
+          "url": "https://www.twig24.com/news/world/global-topic/2026/11/05/20261105500253"
+        },
+        {
+          "title": "배우 지안, ‘158km 강속구 투수’ 엄정욱과 결혼…“웃음 끊이지 않게 살 것”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611091718003"
         }
       ]
     },
     {
-      "title": "유해란",
+      "title": "이세계아이돌",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 21:20:00 -0800",
+      "news": [
+        {
+          "title": "게임 ‘대어’들, AGF 집결… ‘서브컬처 격전’ 예고",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447190"
+        },
+        {
+          "title": "SOOP, AGF 2026에 버추얼 스트리머 28명 선보인다",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/it-science/internet-platform/6348726"
+        },
+        {
+          "title": "SOOP, 'AGF'에 버추얼 스트리머 28명 출격…이세계아이돌 총출동",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611101012503438"
+        }
+      ]
+    },
+    {
+      "title": "안영명",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 21:20:00 -0800",
+      "news": [
+        {
+          "title": "프로야구 한화, 김강 타격 코치·안영명 퍼포먼스 코치 영입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261110104000007"
+        },
+        {
+          "title": "한화이글스, 김강 타격 코치·안영명 퍼포먼스 코치 영입",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202611101427225762"
+        },
+        {
+          "title": "류지현호, 3·4호 코치 영입은 'KT산'... '한화 출신' 김강 타격코치-안영명 퍼포먼스 코치 영입 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/10/2026111013323974240"
+        }
+      ]
+    },
+    {
+      "title": "시어머니",
+      "approx_traffic": "2000+",
+      "published": "Mon, 9 Nov 2026 21:10:00 -0800",
+      "news": [
+        {
+          "title": "“이혼 앞두고 애들 준 세뱃돈 돌려달라는 시어머니”-YTN상담소",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629996"
+        },
+        {
+          "title": "\"양육비는 좀 줄여도 되는 거 아냐?\"…아이들 세뱃돈 통장 들먹인 남편",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611090148472120"
+        },
+        {
+          "title": "이혼하려니 아이들 세뱃돈까지 달라는 남편…양육비도 깎자해",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261109_0003859818"
+        }
+      ]
+    },
+    {
+      "title": "전차",
       "approx_traffic": "500+",
-      "published": "Mon, 9 Nov 2026 19:50:00 -0800",
+      "published": "Mon, 9 Nov 2026 21:10:00 -0800",
       "news": [
         {
-          "title": "돌아온 코르다, LPGA 투어 디 안니카에서 단일 대회 4승 도전",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110021500007"
+          "title": "모로코가 전차 수송차 50대를 사들인 까닭…현대로템 K2 향한 시선 쏠리는 배경은?",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611100943588335fbbec65dfb_1"
         },
         {
-          "title": "손가락 부상 털어낸 유해란, 시즌 3승 도전…‘돌아온 최강자’ 넬리 코다 넘어설까",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261110/134998175/1"
+          "title": "모로코, 현대로템 광역급행철도 등 대규모 철도 인프라 예산안 확정",
+          "source": "더구루",
+          "url": "https://www.theguru.co.kr/news/article.html?no=109321"
         },
         {
-          "title": "윤이나·최혜진, 안니카 대회에서 재도전…유해란·김세영 추가 우승 기대 [LPGA]",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022612"
+          "title": "벵게리르에 철도 공장 세우는 모로코… 현대로템 광역급행 110량 생산 축 맡는다",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611060702319622fbbec65dfb_1"
         }
       ]
     },
     {
-      "title": "테니스",
+      "title": "뷰익",
       "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 19:50:00 -0800",
+      "published": "Mon, 9 Nov 2026 21:10:00 -0800",
       "news": [
         {
-          "title": "한국 선수의 첫 국제대회 우승을 기념하여 열린 일정(一庭)배 전국시니어테니스대회",
-          "source": "테니스코리아",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54277"
+          "title": "\"BYD에 맞불\"…뷰익, 5m급 PHEV 세단 '일렉트라 GS' 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/VVu9ggrNsS"
         },
         {
-          "title": "세종시청 이은지, 한국테니스선수권대회 준우승",
-          "source": "뉴데일리 충청세종",
-          "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/09/2026110900168.html"
+          "title": "KGM·체리 공동개발 'SE10', 렉스턴 이름으로 인증⋯내년 초 출시 가시화",
+          "source": "엠투데이",
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601877"
         },
         {
-          "title": "이경서, 정의수 꺾고 한국테니스선수권 여자단식 첫 우승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261108032400007"
-        }
-      ]
-    },
-    {
-      "title": "kt",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 19:50:00 -0800",
-      "news": [
-        {
-          "title": "(LEAD) KT Q3 operating profit down amid data breach fallout, AI expenditures",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20261110002651320"
-        },
-        {
-          "title": "KT Confirms AX Business Gains Amid Telecom Recovery as Q3 Operating Profit Falls 6.1% (Comprehensive)",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026111010120330421"
-        },
-        {
-          "title": "KT's Q3 Operating Profit Falls 6.1%",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/industry-en/2026/11/10/I3CJ2E2M7RDJLDUYW5VH75MUT4/"
+          "title": "“렉스턴 기다렸는데 충전기도 봐야겠네” 후속 SUV 인증, 7인승에 32.4kWh 배터리",
+          "source": "네이트뷰",
+          "url": "https://view.nate.com/auto/view/422743/"
         }
       ]
     }
