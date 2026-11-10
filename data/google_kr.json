@@ -1,11 +1,127 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-10T09:30:30+00:00",
+  "fetched_at": "2026-11-10T10:33:56+00:00",
   "items": [
     {
+      "title": "의사",
+      "approx_traffic": "500+",
+      "published": "Tue, 10 Nov 2026 01:30:00 -0800",
+      "news": [
+        {
+          "title": "'고소득' 의사 부부, 병원 나란히 퇴사 알고보니…기막힌 꼼수",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611107416i"
+        },
+        {
+          "title": "위장전입·자격매매로 노린 아파트 당첨…부정청약 의심 354건 적발",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363742109"
+        },
+        {
+          "title": "아파트 부정청약 354건 적발…위장전입, 334건으로 최다",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975362"
+        }
+      ]
+    },
+    {
+      "title": "자주포",
+      "approx_traffic": "200+",
+      "published": "Tue, 10 Nov 2026 01:30:00 -0800",
+      "news": [
+        {
+          "title": "철원 국도서 자주포·민간 차량 3중 추돌 사고…1명 사망",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261110/135000427/2"
+        },
+        {
+          "title": "밤길 국도 달리던 자주포에 민간인 차량 추돌…운전자 1명 사망",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708789"
+        },
+        {
+          "title": "[영상] 밤길 국도 주행 육군 자주포에 3중 추돌…블랙박스 영상 보니",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20261110016200704?section=video/all"
+        }
+      ]
+    },
+    {
+      "title": "9440",
+      "approx_traffic": "100+",
+      "published": "Tue, 10 Nov 2026 01:20:00 -0800",
+      "news": []
+    },
+    {
+      "title": "ai 버블",
+      "approx_traffic": "500+",
+      "published": "Tue, 10 Nov 2026 01:00:00 -0800",
+      "news": [
+        {
+          "title": "\"AI 버블 터지면 닷컴버블 때보다 충격 클 것\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611106951i"
+        },
+        {
+          "title": "\"감원해서라도 AI 투자 늘린다\"…빅테크 생존 경쟁 속 반도체의 길",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261109_0003860402"
+        },
+        {
+          "title": "주식 급락에 개미들 손실 커지는데…전문가 \"이런 선택이 최악\" 경고",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611100652423367"
+        }
+      ]
+    },
+    {
+      "title": "이선균",
+      "approx_traffic": "200+",
+      "published": "Tue, 10 Nov 2026 01:00:00 -0800",
+      "news": [
+        {
+          "title": "'이선균 수사정보 유출' 전직 경찰관, 2심서도 징역형 집행유예",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261110134000065"
+        },
+        {
+          "title": "이선균 수사 정보 유출 전직 경찰, 항소심도 집행유예…기자도 벌금형",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261110580420"
+        },
+        {
+          "title": "'이선균 수사 정보 유출' 전직 경찰관, 2심 징역형 집행유예",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6864594_36918.html"
+        }
+      ]
+    },
+    {
+      "title": "정부",
+      "approx_traffic": "200+",
+      "published": "Tue, 10 Nov 2026 00:50:00 -0800",
+      "news": [
+        {
+          "title": "호르무즈 인근에 한국군 전력 추가…정부, 청해부대 파견 확대",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327330"
+        },
+        {
+          "title": "'청해부대 작전구역 확대' 의결… 조작기소 특검법은 내주 상정",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611101827182086"
+        },
+        {
+          "title": "청해부대 파견 동의안 국무회의 의결‥'작전구역 확대·초계기 투입'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6864550_36911.html"
+        }
+      ]
+    },
+    {
       "title": "조혜련",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Tue, 10 Nov 2026 00:20:00 -0800",
       "news": [
         {
@@ -36,20 +152,42 @@
           "url": "https://www.khan.co.kr/article/202611101022001"
         },
         {
-          "title": "대만, 젠슨 황 불륜 상대 '中스파이 의혹'에 안보조사 착수",
+          "title": "'젠슨 황 불륜' 앨리스 황은…\"홍콩 영주권 보유 42세 中사업가\"(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110163200083"
+          "url": "https://www.yna.co.kr/view/AKR20261110008851075"
         },
         {
-          "title": "엔비디아 '나홀로 폭락'‥주주들 '집단소송'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6864574_36974.html"
+          "title": "“내가 엔비디아 위기 해결” 전청조 과거발언 재소환 이유",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11630270"
+        }
+      ]
+    },
+    {
+      "title": "kfc 둠스데이",
+      "approx_traffic": "200+",
+      "published": "Tue, 10 Nov 2026 00:00:00 -0800",
+      "news": [
+        {
+          "title": "\"블랙 번으로 구현한 닥터 둠\"…KFC, '어벤져스' 협업 신메뉴 한정 판매 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/11/10/2026111013393536758"
+        },
+        {
+          "title": "KFC, 마블 영화 협업 메뉴 5종 운영",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202611100826387033204ead0791_12"
+        },
+        {
+          "title": "KFC, ‘어벤져스: 둠스데이’ 협업...닥터둠 버거 솔직 후기·리뷰 보니",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3747698"
         }
       ]
     },
     {
       "title": "재활용",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Mon, 9 Nov 2026 23:50:00 -0800",
       "news": [
         {
@@ -66,144 +204,6 @@
           "title": "안산시, 2037년까지 하루 360t 소각시설 구축",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261110_0003862028"
-        }
-      ]
-    },
-    {
-      "title": "만성콩팥병",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 23:30:00 -0800",
-      "news": [
-        {
-          "title": "\"만성콩팥병 환자 과도한 단백질 제한 시 사망 위험 117% ↑\"",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611101103278079"
-        },
-        {
-          "title": "만성 콩팥병 환자, 단백질 무조건 줄이면 '독'…투석·사망 위험",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261109131700530"
-        },
-        {
-          "title": "100년간 이어진 '만성콩팥병 저단백' 원칙…무조건 줄이면 위험 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/thebio/2026/11/10/2026110916022641173"
-        }
-      ]
-    },
-    {
-      "title": "백용환",
-      "approx_traffic": "2000+",
-      "published": "Mon, 9 Nov 2026 23:10:00 -0800",
-      "news": [
-        {
-          "title": "“이범호가 부르자 고민도 없었다”…롯데 떠난 백용환, 5년 만에 KIA 귀환",
-          "source": "FT스포츠",
-          "url": "https://www.ftimes.kr/news/articleView.html?idxno=40989"
-        },
-        {
-          "title": "'롯데 굿바이' KIA 영입 완료, 5년 만에 친정 돌아왔다…\"새롭네요, 불러주셔서 감사합니다\"[오키나와 현장]",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/baseball/2026-11-09/202611100100065920006214"
-        },
-        {
-          "title": "“이범호가 부르자 고민도 없었다” 롯데 떠난 백용환, 5년 만에 KIA 귀환",
-          "source": "네이트뷰",
-          "url": "https://view.nate.com/enter/view/423423/"
-        }
-      ]
-    },
-    {
-      "title": "담보 대출",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 22:50:00 -0800",
-      "news": [
-        {
-          "title": "‘소액대출’ 금리도 상승…취약계층 울상",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611092056035"
-        },
-        {
-          "title": "변동형 주택담보대출 금리, 고정형 금리 역전",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261110_0021527584"
-        },
-        {
-          "title": "고정형 내리고 변동형 오르고…주담대 금리 역전",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/11/10/MM3WEN3BMM4TSZTGGEYDQMLCHA/"
-        }
-      ]
-    },
-    {
-      "title": "kbo 리그",
-      "approx_traffic": "2000+",
-      "published": "Mon, 9 Nov 2026 21:50:00 -0800",
-      "news": [
-        {
-          "title": "미국 매체, 삼성 페덱에 “MLB 복귀보다 삼성 잔류하라”",
-          "source": "www.stnsports.co.kr",
-          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325346"
-        },
-        {
-          "title": "하늘 날던 육군 무인기, 김포 공원에 ‘쿵’…교육비행 중 사고",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12327319"
-        },
-        {
-          "title": "삼성의 ’실용·혁신·원팀’ 통했다…라이온즈, 12년 만에 정상 탈환 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2167825"
-        }
-      ]
-    },
-    {
-      "title": "대만 해협",
-      "approx_traffic": "1000+",
-      "published": "Mon, 9 Nov 2026 21:40:00 -0800",
-      "news": [
-        {
-          "title": "30~40대 남성 절반 비만...성인 비만율 10년 새 26%↑",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611091632358497&s_hcd="
-        },
-        {
-          "title": "대만해협 흔든 서희함의 심장…한화오션 국산 리튬전지가 비대칭 잠항 열었다",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611100637117444fbbec65dfb_1"
-        },
-        {
-          "title": "김정은 보란듯 北겨냥 ‘바닷속 미사일 기지’…발사관 10개 서희함 떴다 [권윤희의 軍토피아]",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/politics/diplomacy/2026/11/07/20261107500029"
-        }
-      ]
-    },
-    {
-      "title": "골프존카운티",
-      "approx_traffic": "1000+",
-      "published": "Mon, 9 Nov 2026 21:40:00 -0800",
-      "news": []
-    },
-    {
-      "title": "공포탄",
-      "approx_traffic": "2000+",
-      "published": "Mon, 9 Nov 2026 21:30:00 -0800",
-      "news": [
-        {
-          "title": "중대장에 공포탄 맞은 대대장…발끈해 2발로 되갚았다가 결국",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12327297"
-        },
-        {
-          "title": "훈련 중 공포탄 쏜 부하에 맞대응 사격…대대장 재판행",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261110085611FhD"
-        },
-        {
-          "title": "육군 대대장과 중대장이 서로 공포탄 사격…대대장 군사재판 회부",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707967"
         }
       ]
     }
