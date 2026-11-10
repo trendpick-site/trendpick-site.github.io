@@ -1,215 +1,215 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-09T23:21:00+00:00",
+  "fetched_at": "2026-11-10T00:13:10+00:00",
   "items": [
     {
-      "title": "tqqq",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 14:10:00 -0800",
-      "news": [
-        {
-          "title": "TQQQ Price Prediction: Oversold bounce attempt faces a heavy trend filter",
-          "source": "Blockchain News",
-          "url": "https://blockchain.news/news/20261109-price-prediction-tqqq-oversold-bounce-attempt-faces-a-heavy"
-        }
-      ]
-    },
-    {
-      "title": "lig 디펜스&에어로스페이스",
-      "approx_traffic": "100+",
-      "published": "Mon, 9 Nov 2026 14:10:00 -0800",
-      "news": [
-        {
-          "title": "[특징주] LIG D&A, 3분기 어닝 쇼크에 장중 52주 신저가",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261109044500008"
-        },
-        {
-          "title": "\"LIG디펜스, 생산량 확충 과도기…목표가 54만원으로↓\"-BNK - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/09/2026110908584340752"
-        },
-        {
-          "title": "[특징주] LIG D&A, 증권가 목표가 ‘반토막’ 조정에 7%대 하락",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/11/09/HNZXIBVZOVC75E3EFNOF3OEL7Y/"
-        }
-      ]
-    },
-    {
-      "title": "피의자신문",
-      "approx_traffic": "100+",
-      "published": "Mon, 9 Nov 2026 14:00:00 -0800",
-      "news": [
-        {
-          "title": "인권위 \"경사 이하 단독 조서작성 개선권고\"…경찰청, 일부 수용",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261109070700004?section=society/all"
-        },
-        {
-          "title": "경찰, ‘사법경찰리 피의자 신문’ 개선 권고 ‘일부 수용’…인권위 “실질적 효과에 한계”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611091200021"
-        },
-        {
-          "title": "법대로 수사하라는데 사람은 없고…인권위 권고에 경찰 ‘진퇴양난’",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010003354"
-        }
-      ]
-    },
-    {
-      "title": "자동차",
-      "approx_traffic": "5000+",
-      "published": "Mon, 9 Nov 2026 13:50:00 -0800",
-      "news": [
-        {
-          "title": "‘회장님 차’ 제네시스 G90만 수십 대 줄줄이…그들이 향한 곳은?",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/11/09/UPCGNJ6NH5D2DJ2LYCNAVRZ5OM/"
-        },
-        {
-          "title": "삼성-현대차그룹, ‘원팀’으로 미래 첨단 산업 선점 – 삼성전자 뉴스룸",
-          "source": "samsung.com",
-          "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1-%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%EC%9B%90%ED%8C%80%EC%9C%BC%EB%A1%9C-%EB%AF%B8%EB%9E%98-%EC%B2%A8%EB%8B%A8-%EC%82%B0%EC%97%85-%EC%84%A0%EC%A0%90"
-        },
-        {
-          "title": "이재용-정의선 배터리 협업의 스노우볼...삼성과 현대자동차그룹이 '원팀'으로 뭉친다",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112907292"
-        }
-      ]
-    },
-    {
-      "title": "수능 날짜",
-      "approx_traffic": "100+",
-      "published": "Mon, 9 Nov 2026 13:40:00 -0800",
-      "news": [
-        {
-          "title": "2026 수능 날짜·시간표, 미리 확인하세요",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1173061"
-        },
-        {
-          "title": "[알고보자] N수생보다 등급 오른 고3이 강세라고?.. ‘변화율로 정시 판도 단정 어려워’",
-          "source": "베리타스알파",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=635249"
-        },
-        {
-          "title": "[2027 수능] 9월보다 수능 등급 오른 고3 16.9%…졸업생은 9.8%",
-          "source": "교육을 비추다",
-          "url": "https://www.kyobit.com/news/articleView.html?idxno=8025"
-        }
-      ]
-    },
-    {
-      "title": "전도연",
-      "approx_traffic": "100+",
-      "published": "Mon, 9 Nov 2026 13:40:00 -0800",
-      "news": [
-        {
-          "title": "이창동 감독 “해고 노동자의 입장 대변 가능한가, 10년 묵힌 고민 풀어내”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261109/134995376/2"
-        },
-        {
-          "title": "[현장톡] '가능한 사랑' 설경구 \"다른 배우가 했으면 못 견뎠을 것…이창동이라 선택\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261109001072"
-        },
-        {
-          "title": "“다른 배우가 한다면 못 견딜 것 같았다”···설경구·전도연이 만난 이창동의 ‘가능한 사랑’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611091844001"
-        }
-      ]
-    },
-    {
-      "title": "김구라",
+      "title": "재혼 황후",
       "approx_traffic": "2000+",
-      "published": "Mon, 9 Nov 2026 13:30:00 -0800",
+      "published": "Mon, 9 Nov 2026 15:10:00 -0800",
       "news": [
         {
-          "title": "김구라 \"올해 번 돈 다 까먹었다\"…주식 폭락에 한숨 - 머니투데이",
+          "title": "'재혼 황후', '100일의 거짓말'·'닥터X' 제쳤다...화제성 1위 등극 [iZE 포커스] - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111005403695983"
+          "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111007007295399"
         },
         {
-          "title": "“올해 번 돈 다 까먹었다”…김구라, 주식 상승분 반납에 한숨",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12202957"
-        },
-        {
-          "title": "\"올해 번 거 다 까먹었다\"…김구라도 못 피한 증시 하락",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111062617"
-        }
-      ]
-    },
-    {
-      "title": "김치",
-      "approx_traffic": "1000+",
-      "published": "Mon, 9 Nov 2026 13:30:00 -0800",
-      "news": [
-        {
-          "title": "광주시 경안동 5개 단체, 취약계층·경로당에 김장김치 2천610㎏ 전달",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261109580389"
-        },
-        {
-          "title": "[생생갤러리] 깊어가는 가을...2026 파주 새마을회 사랑의 김장",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20261107005900038"
-        },
-        {
-          "title": "울릉 농협·농주모, 온기 담은 ‘사랑의 밑반찬’ 나눔",
-          "source": "경북매일",
-          "url": "https://www.kbmaeil.com/article/20261109500451"
-        }
-      ]
-    },
-    {
-      "title": "미스터트롯3",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 13:30:00 -0800",
-      "news": [
-        {
-          "title": "트로트가수 남승민, 고양이 분장으로 전한 미스터트롯3 콘서트 소감",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16271433"
-        },
-        {
-          "title": "남승민, 고양이 분장으로 전한 미스터트롯3 콘서트의 마지막 아쉬움",
-          "source": "진일보 | 전남일보",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000080813"
-        },
-        {
-          "title": "1년 만에 대구 돌아온 '미스터트롯3' 톱7, 뜨거웠던 180분",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6604316"
-        }
-      ]
-    },
-    {
-      "title": "fable 5.2",
-      "approx_traffic": "200+",
-      "published": "Mon, 9 Nov 2026 13:20:00 -0800",
-      "news": [
-        {
-          "title": "Anthropic Unveils New AI Models Commanding 1,000 Agents",
+          "title": "\"웹툰 출신은 역시 달라\"…'재혼 황후' 이종석, 신비로운 왕자→귀여운 '새'종석 K-로판 얼굴됐다",
           "source": "조선일보",
-          "url": "https://www.chosun.com/english/industry-en/2026/11/10/JZUGSKIAJNDF5BSQTA5BH3NIMY/"
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/HE2TONTEGQ3GGZDEGM2GKMLEHA/"
         },
         {
-          "title": "Anthropic's New AI Can Design Hardware, Find Cybersecurity Flaws And Solve Physics Problems",
-          "source": "Benzinga",
-          "url": "https://www.benzinga.com/markets/private-markets/26/11/63066268/anthropics-new-ai-can-design-hardware-find-cybersecurity-flaws-and-solve-physics-problems"
+          "title": "‘원작 시어머니’도 웃게 했다…빤해도 설레는 ‘재혼 황후’[더 리뷰]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629772"
+        }
+      ]
+    },
+    {
+      "title": "치어리더",
+      "approx_traffic": "1000+",
+      "published": "Mon, 9 Nov 2026 15:10:00 -0800",
+      "news": [
+        {
+          "title": "‘삐끼삐끼’ 이주은 여전히 핫하네, 이번엔 대만 농구행",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261108/134985735/1"
         },
         {
-          "title": "Anthropic's Claude Fable 5.2 scores S-plus on coding but is \"not at the frontier\" for writing, reviewer says",
-          "source": "BigGo Finance",
-          "url": "https://finance.biggo.com/news/838cc0139ecae2b0"
+          "title": "'4억 몸매' 이주은, 대만 팬들은 좋겠네…야구 시즌 끝나자 전한 깜짝 소식",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2216671"
+        },
+        {
+          "title": "화장 고치다 ‘삐끼삐끼’…대만서 ‘아이돌급 인기’ 대박 난 韓치어리더, 깜짝 근황",
+          "source": "www.twig24.com",
+          "url": "https://www.twig24.com/news/world/global-topic/2026/11/06/20261106500052"
+        }
+      ]
+    },
+    {
+      "title": "함박마을",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 15:10:00 -0800",
+      "news": [
+        {
+          "title": "인천 연수구 함박마을 초등생 떠나간다",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040387"
+        }
+      ]
+    },
+    {
+      "title": "귀금속",
+      "approx_traffic": "100+",
+      "published": "Mon, 9 Nov 2026 15:10:00 -0800",
+      "news": [
+        {
+          "title": "“금값 오른다”…중고 귀금속 매물 실종",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629702"
+        },
+        {
+          "title": "금값 급등에 중고 주얼리 거래 위축…실속 브랜드는 성장",
+          "source": "팩트인뉴스",
+          "url": "https://www.factinnews.co.kr/news/articleView.html?idxno=300920"
+        },
+        {
+          "title": "\"금값 다시 꿈틀\"…주얼리 중고매물 쏙 들어갔네",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261106_0003858256"
+        }
+      ]
+    },
+    {
+      "title": "엑사원",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 15:10:00 -0800",
+      "news": [
+        {
+          "title": "韓 독파모 개발사 한자리에…\"K-AI 경쟁력 높이려면 기술 협력 필수\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261109160357"
+        },
+        {
+          "title": "LG, 'K-엑사원 2.5' API 전면 무료 개방…개발자 진입 장벽 낮춘다",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217175"
+        },
+        {
+          "title": "LG 엑사원 2.5, 학습 8주 만에 성능 70% 개선…3차 독파모 개발도 박차",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=354131"
+        }
+      ]
+    },
+    {
+      "title": "장인화",
+      "approx_traffic": "500+",
+      "published": "Mon, 9 Nov 2026 14:50:00 -0800",
+      "news": [
+        {
+          "title": "장인화 포스코그룹 회장 연임에 무게…'전 정권 인사' 꼬리표 넘나",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/08/2026110880024.html"
+        },
+        {
+          "title": "포스코 장인화, 첫 파업 딛고 '연임' 시험대…12월 차기회장 경쟁 돌입",
+          "source": "신아일보",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078921"
+        },
+        {
+          "title": "[CEO PICK] 포스코 장인화…연임 시험대, 성적 '쑥'·노사 '수습'",
+          "source": "신아일보",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078955"
+        }
+      ]
+    },
+    {
+      "title": "트와이스",
+      "approx_traffic": "200+",
+      "published": "Mon, 9 Nov 2026 14:50:00 -0800",
+      "news": [
+        {
+          "title": "'틈만나면,' 나연, \"유재석 선배님 커피\"...유재석 함박웃음 지은 커피 취향 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111008287258347"
+        },
+        {
+          "title": "지수, 소탈美 넘치는 일상 \"평소 버스 애용\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261109_0003860382"
+        },
+        {
+          "title": "나연 “재석 선배님이랑 같은 논현 아파트 산다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261110/134996313/1"
+        }
+      ]
+    },
+    {
+      "title": "수능",
+      "approx_traffic": "2000+",
+      "published": "Mon, 9 Nov 2026 14:40:00 -0800",
+      "news": [
+        {
+          "title": "수능 전 \"건강 악화\" 강의 중단, 예능 활동 나선 입시 강사",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/education/2026/11/09/7FHWOOY7BRF67I67NZ444X64XE/"
+        },
+        {
+          "title": "수능 3주 전 강의 접고 '데블스 플랜3'行…이도 행보에 '갑론을박'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261109_0003859612"
+        },
+        {
+          "title": "수능 앞두고 강의 중단 후 방송 활동… '모솔연애' 이도에 수강생들 비판",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026110908150003062"
+        }
+      ]
+    },
+    {
+      "title": "중대범죄수사청",
+      "approx_traffic": "500+",
+      "published": "Mon, 9 Nov 2026 14:40:00 -0800",
+      "news": [
+        {
+          "title": "피해자가 새 증거 찾아도… 검사 \"직접 못 받아\" 경찰 \"손 떠난 사건\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/11/10/MNTQTB3TAZC7TBSLCRCGAXGEH4/"
+        },
+        {
+          "title": "[이달우의 신우시산국 (35)]사법부 두 기관의 대조적인 불빛",
+          "source": "경상일보",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071992"
+        },
+        {
+          "title": "[기자수첩]모두가 법대로 했는데 피해자만 손해 본다",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110908394189019"
+        }
+      ]
+    },
+    {
+      "title": "카타르",
+      "approx_traffic": "100+",
+      "published": "Mon, 9 Nov 2026 14:40:00 -0800",
+      "news": [
+        {
+          "title": "모레노호 대표팀, 평가전 결전지 카타르 도착‥해외파도 속속 합류",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6864292_36946.html"
+        },
+        {
+          "title": "김민재·이재성 합류…‘카타르 입성’ 모레노호, 오늘 완전체로 첫 훈련",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261110/134996319/1"
+        },
+        {
+          "title": "중동 원정 친선경기 위해 출국하는 한국 축구 국가대표팀",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261108_0021525339&provider_id=&cID=&type=Main&catg=&idx=2"
         }
       ]
     }
