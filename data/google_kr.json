@@ -1,11 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-10T10:33:56+00:00",
+  "fetched_at": "2026-11-10T11:28:47+00:00",
   "items": [
     {
-      "title": "의사",
+      "title": "임영웅 아임 히어로 더 스타디움",
+      "approx_traffic": "200+",
+      "published": "Tue, 10 Nov 2026 02:10:00 -0800",
+      "news": [
+        {
+          "title": "임영웅, 또 역대급 스케일…10주년 공연실황 '아임 히어로 2' IMAX 개봉 확정",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/music/2026/11/10/GMYDEOBUGU3GKM3EG4YDQYZXMM/"
+        },
+        {
+          "title": "'트로트 가수' 1위 임영웅, 이번엔 IMAX로 영웅시대 만난다",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611101916233580"
+        },
+        {
+          "title": "임영웅 ‘아임 히어로 더 스타디움 2’, 18일 개봉…4면 SCREENX 상영",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261109500192"
+        }
+      ]
+    },
+    {
+      "title": "더쇼",
+      "approx_traffic": "100+",
+      "published": "Tue, 10 Nov 2026 02:10:00 -0800",
+      "news": [
+        {
+          "title": "[사진]리센느 원이, 미소 가득",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/10/MY4DSMBZGFSTIZRUGAZTCYJVHA/"
+        },
+        {
+          "title": "[사진]싸이커스 민재-플레어 유 최립우, MC 케미",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/10/HEZTANZWG5RGGNJXGQ3TCZJVHA/"
+        },
+        {
+          "title": "‘더쇼’ 리센느·샤오쥔·피원하모니·싸이커스 등 컴백 무대",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611101122003"
+        }
+      ]
+    },
+    {
+      "title": "광명시",
       "approx_traffic": "500+",
+      "published": "Tue, 10 Nov 2026 02:00:00 -0800",
+      "news": [
+        {
+          "title": "파주, 1조원대 돔구장 유치전 뛰어들었다…경기도 후보지 선정이 1차 관문",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336400"
+        },
+        {
+          "title": "“돔구장은 광명으로”…5만 석 돔구장 유치에 시민 1만3000여 명 “힘 보탰다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261110/134999835/1"
+        },
+        {
+          "title": "광명시, 5만석 규모 돔구장 유치 서명에 시민 1만3000명 참여",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611101444001"
+        }
+      ]
+    },
+    {
+      "title": "정년",
+      "approx_traffic": "2000+",
+      "published": "Tue, 10 Nov 2026 01:50:00 -0800",
+      "news": [
+        {
+          "title": "정년퇴직 후 연금까지 최대 5년…공무원 92% \"소득공백 우려\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261110085500530"
+        },
+        {
+          "title": "퇴직공무원 절반 “연금 공백기에 월 200만원 이상 부족”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261110/134999748/1"
+        },
+        {
+          "title": "“국민연금 받는 급여만큼 기초생활 수급비 깎여”…조기연금 신청하는 저소득층 노인들",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261109501982"
+        }
+      ]
+    },
+    {
+      "title": "울산 현대모비스 대 고양 소노",
+      "approx_traffic": "1000+",
+      "published": "Tue, 10 Nov 2026 01:50:00 -0800",
+      "news": [
+        {
+          "title": "스카티 제임스도 쓰러졌다! 외인 부상 경계령. 4개팀 초비상. KBL 순위 판도 최대 변수",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/basketball/2026/11/10/MEZTQYRZHBSDAYZSGA3WIZBTGU/"
+        },
+        {
+          "title": "[현장리포트] 고양 소노, 스카티 제임스 대체외인 영입. 현대모비스도 스펠맨 보좌할 대체 외인 구했다",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/basketball/2026-11-10/202611100100074240006892"
+        },
+        {
+          "title": "“눈 감았다 뜨면 부상자 나와”…정관장 유도훈 감독의 한숨 “국내 선수들이 버텨줘야” [쿠키 현장]",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202611060189"
+        }
+      ]
+    },
+    {
+      "title": "투수",
+      "approx_traffic": "500+",
+      "published": "Tue, 10 Nov 2026 01:40:00 -0800",
+      "news": [
+        {
+          "title": "프로야구 LG, 유원상·최성훈 투수 코치와 계약",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202611101524467665"
+        },
+        {
+          "title": "[오피셜] '한화로 떠난 김광삼 빈자리' 21홀드 필승조 출신이 채우나! '4위 마감' LG, 유원상·최성훈 코치 동시 영입 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/10/2026111014544749724"
+        },
+        {
+          "title": "[프로야구] LG, 유원상·최성훈 코치 영입...투수 코치진 전면 교체",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261110001416"
+        }
+      ]
+    },
+    {
+      "title": "의사",
+      "approx_traffic": "1000+",
       "published": "Tue, 10 Nov 2026 01:30:00 -0800",
       "news": [
         {
@@ -14,20 +146,20 @@
           "url": "https://www.hankyung.com/article/202611107416i"
         },
         {
-          "title": "위장전입·자격매매로 노린 아파트 당첨…부정청약 의심 354건 적발",
-          "source": "중부일보",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363742109"
-        },
-        {
           "title": "아파트 부정청약 354건 적발…위장전입, 334건으로 최다",
           "source": "대한민국 정책브리핑",
           "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975362"
+        },
+        {
+          "title": "[간추린 경제] 1. 4%대 급등 2. 위장전입에 위장 퇴사까지‥부정 청약 354건 적발",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6864606_36981.html"
         }
       ]
     },
     {
       "title": "자주포",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Tue, 10 Nov 2026 01:30:00 -0800",
       "news": [
         {
@@ -72,138 +204,6 @@
           "title": "주식 급락에 개미들 손실 커지는데…전문가 \"이런 선택이 최악\" 경고",
           "source": "파이낸셜뉴스",
           "url": "https://www.fnnews.com/news/202611100652423367"
-        }
-      ]
-    },
-    {
-      "title": "이선균",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 01:00:00 -0800",
-      "news": [
-        {
-          "title": "'이선균 수사정보 유출' 전직 경찰관, 2심서도 징역형 집행유예",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110134000065"
-        },
-        {
-          "title": "이선균 수사 정보 유출 전직 경찰, 항소심도 집행유예…기자도 벌금형",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261110580420"
-        },
-        {
-          "title": "'이선균 수사 정보 유출' 전직 경찰관, 2심 징역형 집행유예",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6864594_36918.html"
-        }
-      ]
-    },
-    {
-      "title": "정부",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 00:50:00 -0800",
-      "news": [
-        {
-          "title": "호르무즈 인근에 한국군 전력 추가…정부, 청해부대 파견 확대",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12327330"
-        },
-        {
-          "title": "'청해부대 작전구역 확대' 의결… 조작기소 특검법은 내주 상정",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611101827182086"
-        },
-        {
-          "title": "청해부대 파견 동의안 국무회의 의결‥'작전구역 확대·초계기 투입'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6864550_36911.html"
-        }
-      ]
-    },
-    {
-      "title": "조혜련",
-      "approx_traffic": "5000+",
-      "published": "Tue, 10 Nov 2026 00:20:00 -0800",
-      "news": [
-        {
-          "title": "\"무서운 사이비\" 일본 종교 믿었던 조혜련 반전 근황…\"가족들도 탈출\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111011242830979"
-        },
-        {
-          "title": "“신도 100만 종교서 온 가족 탈출”…이단 경계 나선 조혜련",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12203806"
-        },
-        {
-          "title": "조혜련, 日 사이비 종교서 온 가족 탈출…\"진짜 무서운 사이비\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6348953"
-        }
-      ]
-    },
-    {
-      "title": "젠슨 황 스캔들",
-      "approx_traffic": "2000+",
-      "published": "Tue, 10 Nov 2026 00:00:00 -0800",
-      "news": [
-        {
-          "title": "젠슨 황이 표적이었나…미인계는 옛말, 중국 스파이가 세계 거물들에 접근하는 방식 [이윤정 기자의 소소월드]",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611101022001"
-        },
-        {
-          "title": "'젠슨 황 불륜' 앨리스 황은…\"홍콩 영주권 보유 42세 中사업가\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110008851075"
-        },
-        {
-          "title": "“내가 엔비디아 위기 해결” 전청조 과거발언 재소환 이유",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11630270"
-        }
-      ]
-    },
-    {
-      "title": "kfc 둠스데이",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 00:00:00 -0800",
-      "news": [
-        {
-          "title": "\"블랙 번으로 구현한 닥터 둠\"…KFC, '어벤져스' 협업 신메뉴 한정 판매 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/11/10/2026111013393536758"
-        },
-        {
-          "title": "KFC, 마블 영화 협업 메뉴 5종 운영",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202611100826387033204ead0791_12"
-        },
-        {
-          "title": "KFC, ‘어벤져스: 둠스데이’ 협업...닥터둠 버거 솔직 후기·리뷰 보니",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3747698"
-        }
-      ]
-    },
-    {
-      "title": "재활용",
-      "approx_traffic": "500+",
-      "published": "Mon, 9 Nov 2026 23:50:00 -0800",
-      "news": [
-        {
-          "title": "“생활폐기물 감량부터 재활용까지”…안산시, 자원순환 정책 본격 추진",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336429"
-        },
-        {
-          "title": "안산시 \"생활폐기물 처리기반 확충·자원순환 체계 구축한다\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261110001120"
-        },
-        {
-          "title": "안산시, 2037년까지 하루 360t 소각시설 구축",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261110_0003862028"
         }
       ]
     }
