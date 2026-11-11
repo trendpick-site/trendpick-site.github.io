@@ -1,11 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-11T05:03:43+00:00",
+  "fetched_at": "2026-11-11T06:03:25+00:00",
   "items": [
     {
+      "title": "굴착기",
+      "approx_traffic": "200+",
+      "published": "Tue, 10 Nov 2026 20:40:00 -0800",
+      "news": [
+        {
+          "title": "“피땀 흘려 번 돈을 돌려줘” 중국 관공서 습격한 굴착기 [잇슈 SNS]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709444"
+        },
+        {
+          "title": "中남성, 관공서에 굴착기 몰고 가 난동…철거 보상 불만 추정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261110119700083"
+        },
+        {
+          "title": "당국 미지급 보상금에 앙심… 中 40대 굴착기 몰고 정부 청사 돌진",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447802"
+        }
+      ]
+    },
+    {
+      "title": "총파업",
+      "approx_traffic": "2000+",
+      "published": "Tue, 10 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "[속보] 코레일 노조 \"12월 10일 오전 9시부터 무기한 총파업\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/labor/2026/11/11/CLIGBGE3C5BOZBLVTVH4FLFFEI/"
+        },
+        {
+          "title": "철도노조, 12월 10일 무기한 총파업 예고…코레일 \"열차 75.2% 운행 예상\"",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=354387"
+        },
+        {
+          "title": "공항철도 노조, 13일 경고파업…일반열차 28.7% 감축 운행",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611111408001"
+        }
+      ]
+    },
+    {
+      "title": "폴 조지",
+      "approx_traffic": "100+",
+      "published": "Tue, 10 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "[토토 투데이] 브라운-조지, 이적 후 첫 친정팀 맞대결…필라델피아-보스턴 동부 선두 경쟁에 프로토 승부식 발매",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112907576"
+        },
+        {
+          "title": "보스턴 만나는 제일런 브라운…필라델피아-보스턴전, 프로토 승부식 133회차 발매",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261110/134998391/1"
+        },
+        {
+          "title": "적이 되어 다시 만난 두 사람, 테이텀이 웃었다...보스턴, 필라델피아에 승리",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12205274"
+        }
+      ]
+    },
+    {
       "title": "스마일게이트",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Tue, 10 Nov 2026 20:00:00 -0800",
       "news": []
     },
@@ -15,9 +81,9 @@
       "published": "Tue, 10 Nov 2026 20:00:00 -0800",
       "news": [
         {
-          "title": "호박 장식 주둥이에 껴 물도 못마신 사슴…10일 추격 끝 구조",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202611111006445491"
+          "title": "\"사슴 주둥이에 웬 호박이\"…미국서 열흘간 추격 끝 구조",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110171404jdp"
         },
         {
           "title": "핼러윈 호박통에 입 끼어 열흘간 물도 못 마신 어린 사슴…강물 네 번 건너 구조 나서",
@@ -25,9 +91,9 @@
           "url": "https://view.asiae.co.kr/article/2026111109000568590"
         },
         {
-          "title": "\"사슴 주둥이에 웬 호박이\"…미국서 열흘간 추격 끝 구조",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110171404jdp"
+          "title": "호박 장식 주둥이에 껴 물도 못마신 사슴…10일 추격 끝 구조",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611111006445491"
         }
       ]
     },
@@ -37,25 +103,25 @@
       "published": "Tue, 10 Nov 2026 19:50:00 -0800",
       "news": [
         {
-          "title": "강진군, 공무원 AI활용 능력 근무성적평가 반영",
+          "title": "보은군 공무원노조, 비방글 반복 게시한 민원인 고발",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111044000054"
+          "url": "https://www.yna.co.kr/view/AKR20261111081400064"
         },
         {
-          "title": "\"AI 역량을 근무평정에 반영\"… 강진군, 디지털 행정 혁신 속도",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=354349"
+          "title": "보은군 공무원노조, 담당 공무원 비방 게시물 관련 민원인 고발",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261111000317"
         },
         {
-          "title": "정선군, 인공지능 기반 민원 안내 시스템 자체 개발 추진",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=802609"
+          "title": "전공노 보은군지부, 80여 차례 비방글 게시한 민원인 고발",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/sejong-chungbuk/6350329"
         }
       ]
     },
     {
       "title": "이세계아이돌",
-      "approx_traffic": "500+",
+      "approx_traffic": "200+",
       "published": "Tue, 10 Nov 2026 19:40:00 -0800",
       "news": [
         {
@@ -69,9 +135,9 @@
           "url": "https://www.etnews.com/20261110000265"
         },
         {
-          "title": "`이세계아이돌` 6인 전원, AGF 2026 뜬다…SOOP, 버추얼 28명 집결",
-          "source": "디지털데일리",
-          "url": "https://m.ddaily.co.kr/page/view/2026111010452385680"
+          "title": "지스타 비우고 AGF로…일산에 눈 돌린 게임사",
+          "source": "주간한국",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7192526"
         }
       ]
     },
@@ -97,9 +163,9 @@
           "url": "https://www.newsis.com/view/NISX20261111_0003863078"
         },
         {
-          "title": "데이트 또 포착..이광수♥이선빈, 9년 차 커플의 '부부 바이브' [핫피플]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261110082002723"
+          "title": "'공개 열애 9년째' 이광수♥이선빈, 또 데이트 목격담…설레는 27㎝ 키 차이",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6349787"
         }
       ]
     },
@@ -109,9 +175,9 @@
       "published": "Tue, 10 Nov 2026 19:10:00 -0800",
       "news": [
         {
-          "title": "삼성·현대차, 배터리 공급 넘어 설계까지 맞손…전고체 개발도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110163700003"
+          "title": "현대차그룹-삼성, ‘원팀’으로 미래 첨단 산업 선점 | 뉴스 | 현대자동차그룹",
+          "source": "Hyundai Motor Group",
+          "url": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-group-samsung-one-team-future-advanced-industry"
         },
         {
           "title": "‘삼성·현대차그룹 동맹’ 배터리 공급 넘어 설계까지 확장",
@@ -119,70 +185,9 @@
           "url": "https://www.munhwa.com/article/11630522"
         },
         {
-          "title": "현대차그룹-삼성, ‘원팀’으로 미래 첨단 산업 선점 | 뉴스 | 현대자동차그룹",
-          "source": "Hyundai Motor Group",
-          "url": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-group-samsung-one-team-future-advanced-industry"
-        }
-      ]
-    },
-    {
-      "title": "경기도지사",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 19:00:00 -0800",
-      "news": [
-        {
-          "title": "경기도, 내년 예산안 법정 제출기한 넘겨 13일쯤 제출",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709868"
-        },
-        {
-          "title": "(경기도 대변인 서면 브리핑)민주당 경기도당과 함께 경기도민의 삶을 지키겠습니다",
-          "source": "경기도뉴스포털",
-          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71960"
-        },
-        {
-          "title": "추미애, 국회의원·도당과 예산협력…“경기도 재정난 함께 풀기로”",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336499"
-        }
-      ]
-    },
-    {
-      "title": "김범",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 19:00:00 -0800",
-      "news": [
-        {
-          "title": "김범, 해외서 의문의 여성과 포착…턱에 손대자 '깜짝'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261110_0003862006"
-        },
-        {
-          "title": "“여자 손이 쓱” 김범, 日여행 갔다가 깜짝 열애설..알고보니 지인 ‘해프닝’ [Oh!쎈 이슈]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112908082"
-        },
-        {
-          "title": "김범, 초밥 먹다가 볼 만지는 '의문의 여성' 손 포착...日데이트? 술렁",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/10/GI2GKNRZG4ZDSNRRMJSWKNJTME/"
-        }
-      ]
-    },
-    {
-      "title": "이현중",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 18:50:00 -0800",
-      "news": [
-        {
-          "title": "이현중, NBA G리그 개막전 선발 출전해 3점·6리바운드",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111048100007"
-        },
-        {
-          "title": "‘NBA 도전’ 이현중, G리그 개막전 출격…3득점 6리바운드",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709638"
+          "title": "삼성·현대가 보여준 피지컬AI 합종연횡 시대…기업 '코피티션' 본격화",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=354286"
         }
       ]
     }
