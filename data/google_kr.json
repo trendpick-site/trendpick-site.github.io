@@ -1,27 +1,203 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-10T23:40:56+00:00",
+  "fetched_at": "2026-11-11T00:17:05+00:00",
   "items": [
+    {
+      "title": "광주시",
+      "approx_traffic": "500+",
+      "published": "Tue, 10 Nov 2026 15:10:00 -0800",
+      "news": [
+        {
+          "title": "\"경기도교육감 개표 결과 달라져\"...특검, 압수수색",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611102211380963"
+        },
+        {
+          "title": "\"경기도교육감 개표 상황표 위조\"‥압수수색",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6864763_37012.html"
+        },
+        {
+          "title": "선관위 특검팀, 경기도·광주시선관위 압수수색",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336478"
+        }
+      ]
+    },
+    {
+      "title": "훈련",
+      "approx_traffic": "1000+",
+      "published": "Tue, 10 Nov 2026 15:00:00 -0800",
+      "news": [
+        {
+          "title": "'이제는 끈끈한 원팀!'…모레노호, 도하서 첫 완전체 훈련",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/IPT20261111000001365?section=gallery/index"
+        },
+        {
+          "title": "긴 대화 나눈 손흥민·황희찬…‘92-96’ 갈등 해소될까?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709473"
+        },
+        {
+          "title": "축구대표팀, 불화설 이후 첫 소집‥'갈등 봉합됐나'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864663_37004.html"
+        }
+      ]
+    },
+    {
+      "title": "불",
+      "approx_traffic": "200+",
+      "published": "Tue, 10 Nov 2026 15:00:00 -0800",
+      "news": [
+        {
+          "title": "새벽 구룡마을 또 화재…소방 진화 작업 중",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611110707133b3"
+        },
+        {
+          "title": "서울 강남 구룡마을서 또 화재…인명 피해는 없어",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261111/135003375/1"
+        },
+        {
+          "title": "구룡마을 잇따른 화재…2시간 만에 완진",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8207797"
+        }
+      ]
+    },
+    {
+      "title": "노이 바이 국제 공항",
+      "approx_traffic": "100+",
+      "published": "Tue, 10 Nov 2026 15:00:00 -0800",
+      "news": [
+        {
+          "title": "베트남, 하노이 노이바이공항 ‘국제선 전노선’ 자빈공항 이전 추진…2029~2030년",
+          "source": "인사이드비나",
+          "url": "https://www.insidevina.com/news/articleView.html?idxno=44466"
+        },
+        {
+          "title": "지아빈 공항과 하노이 중심부를 연결하는 도시철도 건설 자금 지원에 우선순위를 두어야 합니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-trung-tam-ha-noi"
+        },
+        {
+          "title": "이 제안은 자람 기차역을 자빈 공항과 연결되는 주요 허브로 활용할 것을 제안합니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/de-xuat-lay-ga-gia-lam-lam-dau-moi-ket-noi-san-bay-gia-binh"
+        }
+      ]
+    },
+    {
+      "title": "신안산선",
+      "approx_traffic": "200+",
+      "published": "Tue, 10 Nov 2026 14:50:00 -0800",
+      "news": [
+        {
+          "title": "평택 안중~여의도 70분 시대 열리나…신안산선 연장 타당성 검증한다",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11630300"
+        },
+        {
+          "title": "평택시 ‘신안산선 안중 연장사업’ 타당성 검증 용역 착수",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040515"
+        },
+        {
+          "title": "신안산선 평택 안중 연장 타당성 검증 용역 착수",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709231"
+        }
+      ]
+    },
+    {
+      "title": "수능날",
+      "approx_traffic": "100+",
+      "published": "Tue, 10 Nov 2026 14:50:00 -0800",
+      "news": [
+        {
+          "title": "코레일, 수능 앞두고 수도권 철도 전력설비 점검",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374609"
+        },
+        {
+          "title": "수능 날 KTX·전철 단전 없도록…코레일 사장, 구로변전소 직접 점검",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026111018231935878"
+        },
+        {
+          "title": "김태승 코레일 사장, 수능 앞두고 철도 전력설비 점검",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05651446645644408"
+        }
+      ]
+    },
+    {
+      "title": "k리그",
+      "approx_traffic": "500+",
+      "published": "Tue, 10 Nov 2026 14:40:00 -0800",
+      "news": [
+        {
+          "title": "[영상] 이겨도 ‘버럭’ 선수단 마음가짐 바꾼 ‘효버지’ 이정효",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708757"
+        },
+        {
+          "title": "“너무 들뜨지 않았으면 좋겠다”…이정효 감독, 수원삼성 승격행사도 생략 요청 “팬들도 더 높은 곳 바라봤으면” - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/11/202611102046770295O"
+        },
+        {
+          "title": "수원삼성 ‘승격 확정’… 수원FC도 1부 눈앞",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1774392"
+        }
+      ]
+    },
     {
       "title": "부동산",
       "approx_traffic": "500+",
       "published": "Tue, 10 Nov 2026 14:30:00 -0800",
       "news": [
         {
-          "title": "제11회 부동산 산업의 날 …AI·데이터 기반 산업 혁신 논의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110133300003"
+          "title": "\"총선에 민감\" 종부세 완화 꺼냈다가‥이틀 만에 '역풍'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864646_37004.html"
         },
         {
-          "title": "7일 걸리던 집계 10분 만에…우미건설, AI로 현장 업무 개선",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261110_0003862646"
+          "title": "이재명 대통령, 오늘 김민석·한병도와 만찬…부동산 등 현안 논의",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709534"
         },
         {
-          "title": "우미건설, AI로 공사관리·안전서류 자동화…건설현장 업무 혁신",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261110501310"
+          "title": "\"전세 씨말라\"… 與, 부동산 민심 악화에 TF 따로 만든다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/11/11/53ZPCHOCRRBJNMZNCHBAOTFUGE/"
+        }
+      ]
+    },
+    {
+      "title": "수능",
+      "approx_traffic": "1000+",
+      "published": "Tue, 10 Nov 2026 14:20:00 -0800",
+      "news": [
+        {
+          "title": "'강의 중단→예능 출연' 이도, 결국 손절 엔딩?…17개 강좌 통삭제 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/10/2026111013464561502"
+        },
+        {
+          "title": "건강 이유로 강의 중단하더니 방송 활동?",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6864728_37012.html"
+        },
+        {
+          "title": "수능 3주 전 강의 중단, 넷플 출연 알린 인강 강사 “제 잘못”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1286660.html"
         }
       ]
     },
@@ -36,180 +212,14 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8708520"
         },
         {
-          "title": "[속보] '비피셜' 英 BBC 떴다! \"사퇴 안 할 건데?\" 캐릭, 하루 만에 경질 유력...'손흥민 스승' 포체티노 美 감독, 차기 사령탑 급부상",
+          "title": "'장기 프로젝트라더니 또 경질 카드' 맨유의 황당한 감독 정책... 캐릭 운명 결정할 '모나코 회의' 열린다",
           "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112907519"
+          "url": "https://www.osen.co.kr/article/G1112908057"
         },
         {
-          "title": "\"흥민아 나 맨유 간다!\" 맨유, 캐릭 경질하고 포체티노 검토…문제는 134억 원 위약금",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/10/GA2TSNJUMVRWMZRYGUZDSZLCHE/"
-        }
-      ]
-    },
-    {
-      "title": "난민",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 14:20:00 -0800",
-      "news": [
-        {
-          "title": "난민신청 해놓고 강제추행 등 벌금만 3번 냈는데…“출국명령은 부당”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11630036"
-        },
-        {
-          "title": "여성 추행하고 무면허 운전까지 한 난민, 그대로 한국에 살게 된 '이유'",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1173206"
-        },
-        {
-          "title": "‘반복 범죄’ 예멘 난민 신청자, 출국명령 취소소송 승소…“돌아가면 생명 위험”",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12094005"
-        }
-      ]
-    },
-    {
-      "title": "통영어부장터",
-      "approx_traffic": "100+",
-      "published": "Tue, 10 Nov 2026 14:20:00 -0800",
-      "news": [
-        {
-          "title": "강레오 손길 거쳤는데 단돈 7000원…통영 축제 ‘역대급 메뉴’",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25476270"
-        }
-      ]
-    },
-    {
-      "title": "vix",
-      "approx_traffic": "500+",
-      "published": "Tue, 10 Nov 2026 14:10:00 -0800",
-      "news": [
-        {
-          "title": "Dan Ives Warns Chip Stocks Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an '",
-          "source": "Benzinga",
-          "url": "https://www.benzinga.com/markets/tech/26/11/62904872/dan-ives-warns-chip-stocks-arent-done-falling-sees-another-12-drop-but-tom-lee-calls-ai-selloff-an-overreaction-predicts-20-tech-rally"
-        },
-        {
-          "title": "Video: Macro Minute: More evidence bottom is in: stocks rally on bad news. And also, VIX term structure uninverted",
-          "source": "Fundstrat Direct",
-          "url": "https://fundstratdirect.com/macro-strategy/macro-minute/2026/11/09/video-macro-minute-more-evidence-bottom-is-in-stocks-rally-on-bad-news-and/"
-        },
-        {
-          "title": "Fundstrat's Tom Lee: Markets are a lot safer than people think",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/video/2026/11/09/fundstrats-tom-lee-markets-are-a-lot-safer-than-people-think.html"
-        }
-      ]
-    },
-    {
-      "title": "코어위브 주가",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 14:00:00 -0800",
-      "news": [
-        {
-          "title": "코어위브, 매출·손실 모두 급증세…실적 전망 상향에 주가 약 2% 상승 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/11/2026111106370882172"
-        },
-        {
-          "title": "CoreWeave, 2026년 매출 전망 상향…AI 인프라 수요 급증",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/earnings/article-2169373"
-        },
-        {
-          "title": "코어위브 3분기 영업익 전년비 4배…매출 전망도 높이자 시간외 주가↑",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444061"
-        }
-      ]
-    },
-    {
-      "title": "조인성",
-      "approx_traffic": "100+",
-      "published": "Tue, 10 Nov 2026 13:50:00 -0800",
-      "news": [
-        {
-          "title": "‘가능한 사랑’ 설경구 “내가 아닌 다른 배우가 출연한다 상상하니까 끔찍’”[인터뷰]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261110/134999674/1"
-        },
-        {
-          "title": "'가능한 사랑' 조인성, 전도연과 '전라' 바다 수영 신…\"굉장히 긴장하며 촬영\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/movie/6348997"
-        },
-        {
-          "title": "조여정 \"이창동 감독 앞에서 감독 연기, 제 숙제였죠\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110100800005"
-        }
-      ]
-    },
-    {
-      "title": "메이저 리그 사커",
-      "approx_traffic": "500+",
-      "published": "Tue, 10 Nov 2026 13:40:00 -0800",
-      "news": [
-        {
-          "title": "'충격 살인 태클에 폐까지 손상' 손흥민 동료 위험천만...근데 겨우 옐로카드? MLS서 나온 살인 태클 논란…갈비뼈 다발성 골절",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019124"
-        },
-        {
-          "title": "이럴 수가! '7골 12도움' 손흥민이 없다…英매체 'MLS 올해의 팀' 제외→세컨드팀+서드팀에도 빠졌다",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20261111n00168"
-        },
-        {
-          "title": "[오피셜] `지난 시즌 수상` 손흥민 제외됐다…`메시-레반도프스키 포함` MLS 올해의 골 후보 발표",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026111017352529902"
-        }
-      ]
-    },
-    {
-      "title": "농구",
-      "approx_traffic": "1000+",
-      "published": "Tue, 10 Nov 2026 13:40:00 -0800",
-      "news": [
-        {
-          "title": "프로농구 소노, 꼴찌 현대모비스 잡고 5연패 탈출…이정현 26점",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110175800007"
-        },
-        {
-          "title": "\"기다리면 기회 온다고 믿었다\" 지난 시즌 1군 평균 47초→프로 7년 차 첫 방송 인터뷰... 소노 5연패 탈출 '숨은 히어로' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111103592870997"
-        },
-        {
-          "title": "[오늘의 영상] 돕고 넣고…3점슛 합작",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709235"
-        }
-      ]
-    },
-    {
-      "title": "예산",
-      "approx_traffic": "100+",
-      "published": "Tue, 10 Nov 2026 13:40:00 -0800",
-      "news": [
-        {
-          "title": "미래기금으로 주민센터 재건축? 고정지출 '21조' 논란도",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864652_37004.html"
-        },
-        {
-          "title": "국회 예결위 경제부처 심사 이틀째…민생 예산·호남 반도체 등 질의",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708693"
-        },
-        {
-          "title": "아동기본수당·출산지원금도 ‘미래대응기금’으로···복지재원 지속성 논란",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611101545001"
+          "title": "‘英 단독’ 일본 대표팀 GK ‘공개 비판’→“너무 불안해, 이적료 그정도면 승점 10은 책임질 실력 필요”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611110606003"
         }
       ]
     }
