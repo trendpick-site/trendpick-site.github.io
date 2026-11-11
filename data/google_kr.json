@@ -1,11 +1,55 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-11T12:36:04+00:00",
+  "fetched_at": "2026-11-11T13:52:09+00:00",
   "items": [
     {
+      "title": "더 스카이 184",
+      "approx_traffic": "200+",
+      "published": "Wed, 11 Nov 2026 03:50:00 -0800",
+      "news": [
+        {
+          "title": "볼거리 더한 청라하늘대교, 이용료 부담 덜고 손님맞이",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336467"
+        },
+        {
+          "title": "인천관광공사, THE SKY184 겨울맞이 공연·체험 프로그램 강화",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721367"
+        },
+        {
+          "title": "청라하늘대교 ‘더 스카이184’, 연말 가족 명소로 단장",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20112472"
+        }
+      ]
+    },
+    {
+      "title": "고잔동",
+      "approx_traffic": "500+",
+      "published": "Wed, 11 Nov 2026 03:40:00 -0800",
+      "news": [
+        {
+          "title": "인천 고잔동 공장서 가스 누출 신고…5명 연기 흡입",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329"
+        },
+        {
+          "title": "인천 남동국가산단 도금공장 유독가스 신고…남동구 “유독가스 아닌 것으로 판별”",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336620"
+        },
+        {
+          "title": "[속보] 인천 남동공단 유독가스 유출···\"주민 대피\"",
+          "source": "인천투데이",
+          "url": "https://www.incheontoday.com/news/articleView.html?idxno=326251"
+        }
+      ]
+    },
+    {
       "title": "이종석",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Wed, 11 Nov 2026 03:30:00 -0800",
       "news": [
         {
@@ -27,7 +71,7 @@
     },
     {
       "title": "외교관",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Wed, 11 Nov 2026 03:30:00 -0800",
       "news": [
         {
@@ -65,6 +109,50 @@
       ]
     },
     {
+      "title": "일진전기",
+      "approx_traffic": "5000+",
+      "published": "Wed, 11 Nov 2026 02:30:00 -0800",
+      "news": [
+        {
+          "title": "어제는 9% 오늘은 14% 급등…그래도 \"가장 저평가\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611110559i"
+        },
+        {
+          "title": "일진전기, 올 3Q 서프라이즈급 실적 달성...글로벌 호황에 수주고도 ‘탄탄’",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374644"
+        },
+        {
+          "title": "일진전기, 3분기 영업익 전년비 98% 증가…수주잔고 3조원 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/11/2026111115334857081"
+        }
+      ]
+    },
+    {
+      "title": "주차장",
+      "approx_traffic": "500+",
+      "published": "Wed, 11 Nov 2026 02:30:00 -0800",
+      "news": [
+        {
+          "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261111_0003863717"
+        },
+        {
+          "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261111001289"
+        },
+        {
+          "title": "파주시, ‘공영주차장 24시간 콜센터’ 본격 운영",
+          "source": "중도일보",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261111010003663"
+        }
+      ]
+    },
+    {
       "title": "임신",
       "approx_traffic": "500+",
       "published": "Wed, 11 Nov 2026 02:30:00 -0800",
@@ -80,31 +168,9 @@
           "url": "https://www.news1.kr/world/usa-canada/6347861"
         },
         {
-          "title": "‘출혈·복통’ 24주차 임신부, 34개 병원 거부 끝에 청주서 서울까지",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12327564"
-        }
-      ]
-    },
-    {
-      "title": "주차장",
-      "approx_traffic": "200+",
-      "published": "Wed, 11 Nov 2026 02:30:00 -0800",
-      "news": [
-        {
-          "title": "서부발전, 대전산단 에너지 자립사업 참여…320억 규모",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374592"
-        },
-        {
-          "title": "한전KDN, 전력 정보통신 넘어 태양광 발전사업으로 영역 확대",
-          "source": "기후에너지데이터뱅크",
-          "url": "https://edata.ekn.kr/article/view/ekn202611110007"
-        },
-        {
-          "title": "충북 음성군, 공영주차장에 공공주도형 태양광 발전설비 설치 추진",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611111053011"
+          "title": "병원 35곳서 ‘수용 불가’…청주서 서울로 120km 이송된 임신부",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710316"
         }
       ]
     },
@@ -146,75 +212,9 @@
           "url": "https://www.freezinenews.com/news/articleView.html?idxno=31415"
         },
         {
-          "title": "내일부터 ‘스시자로’ 국내 반입 가능, 3개월분까지 허용",
+          "title": "‘與 봉합 시도’ 우원식·박지원에… 정청래 “빠져라, 가던 길 가시라”",
           "source": "조선일보",
-          "url": "https://www.chosun.com/national/welfare-medical/2026/11/11/QSS7DIPZZNEETBTJBNCT2K3J6M/"
-        }
-      ]
-    },
-    {
-      "title": "창원 lg 대 서울 sk",
-      "approx_traffic": "1000+",
-      "published": "Wed, 11 Nov 2026 01:50:00 -0800",
-      "news": [
-        {
-          "title": "'1쿼터 32-8' 프로농구 LG, SK 완파하고 공동 5위…굿윈 26점",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111178600007"
-        },
-        {
-          "title": "[사진] 마레이와 유기상, 승리의 기운 가득",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/11/G4YWENDFGZTDKNBXGYYGINJVMI/"
-        },
-        {
-          "title": "'1쿼터 32-8' LG, SK에 29점차 대승…마레이·굿윈 51점 합작",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261111_0003864502"
-        }
-      ]
-    },
-    {
-      "title": "김현지",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 01:40:00 -0800",
-      "news": [
-        {
-          "title": "[단독]이용철, ‘일가족 살해 후 사체 소각’ 흉악범 변호···변론 전략은 “검찰 강압수사”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611111041001"
-        },
-        {
-          "title": "[단독] 이용철, 변호사 시절 ‘양평 일가족 살해사건’ 범죄자 변호 이력...대법서 사형 확정",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12327518"
-        },
-        {
-          "title": "이용철 법무장관 후보자, 과거 일가족 살해 사건 변호인단 포함",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6864847_36918.html"
-        }
-      ]
-    },
-    {
-      "title": "비전",
-      "approx_traffic": "200+",
-      "published": "Wed, 11 Nov 2026 01:30:00 -0800",
-      "news": [
-        {
-          "title": "용인특례시, 미래도시 발전 전략 ‘용인비전 2040’ 구체화… 내년부터 본격 추진",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261111580524"
-        },
-        {
-          "title": "용인시, 미래도시 발전 전략 ‘용인비전 2040’ 실행계획 구체화",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040673"
-        },
-        {
-          "title": "[시군정담] 용인을 변화하게 만드는 ‘적극행정’",
-          "source": "중부일보",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363742124"
+          "url": "https://www.chosun.com/politics/assembly/2026/11/11/T4T6S5KKEVHB3KR7FVOWOJ2FKU/"
         }
       ]
     }
