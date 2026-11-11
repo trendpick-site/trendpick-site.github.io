@@ -1,8 +1,74 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-11T18:59:32+00:00",
+  "fetched_at": "2026-11-11T20:03:44+00:00",
   "items": [
+    {
+      "title": "수사",
+      "approx_traffic": "5000+",
+      "published": "Wed, 11 Nov 2026 10:20:00 -0800",
+      "news": [
+        {
+          "title": "10대 살해한 50대…'아들 성범죄'에 '조건만남 절도'까지 복잡(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261111146451004"
+        },
+        {
+          "title": "아들의 성폭행 피해자 여중생 살해한 부친",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261111/135010430/2"
+        },
+        {
+          "title": "성폭력 피해 10대 여성 피살…성평등장관 “공적체계서 지키지 못해”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/rights/1286901.html"
+        }
+      ]
+    },
+    {
+      "title": "양홍원",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 10:00:00 -0800",
+      "news": [
+        {
+          "title": "\"너가 모르는 여자가 옆에\"…양홍원, 불륜설 속 신곡 제목은 '오보' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111110193659323"
+        },
+        {
+          "title": "양홍원, 불륜 의혹 속 신보 ‘오보’ 발표…의미심장 가사",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261111/135007845/1"
+        },
+        {
+          "title": "양홍원 딸 육아돕던 PD도 팔로우 끊었다…아내만 남아",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261111_0003863771"
+        }
+      ]
+    },
+    {
+      "title": "테일러 프리츠",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 09:20:00 -0800",
+      "news": [
+        {
+          "title": "Exclusive: Taylor Fritz clarifies Six Kings Slam fee reports as Casper Ruud defends Masters 1000 in Saudi A...",
+          "source": "Bolavip US",
+          "url": "https://bolavip.com/en/tennis/exclusive-taylor-fritz-clarifies-six-kings-slam-fee-reports-as-casper-ruud-defends-masters-1000-in-saudi-arabia"
+        },
+        {
+          "title": "Norrie serves up storm in Stockholm, sets Fritz showdown",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/norrie-duckworth-stockholm-2026-monday"
+        },
+        {
+          "title": "Sports News, Transfers, Scores | Watch Live Sport",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/tennis/watch/5412594896626087112/bybit-stockholm-open-2026"
+        }
+      ]
+    },
     {
       "title": "수능날",
       "approx_traffic": "100+",
@@ -41,9 +107,9 @@
           "url": "https://www.khan.co.kr/article/202611101656001"
         },
         {
-          "title": "삼성 라이온즈 12년 만의 KS 우승⋯ 삼성전자 등 계열사 ‘통 큰 할인’ 쏘나",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261111500756"
+          "title": "'흑역사' 지운 스포츠 삼성家 …야구·축구 등에서 '겹경사'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261110_0003862721"
         }
       ]
     },
@@ -85,9 +151,9 @@
           "url": "https://www.chosun.com/culture-life/culture_general/2026/11/10/7PTW24N2JVH4DEX5VHNTF47MH4/"
         },
         {
-          "title": "장동민 \"데블스플랜3' 출연 고민…서바이벌 견제 1순위'\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6349623"
+          "title": "‘피의 게임2’ 최후의 5인 서출구, ‘데블스 플랜3’ 생존 경쟁…“감옥서 살아 돌아왔다”",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1649003"
         }
       ]
     },
@@ -130,8 +196,8 @@
         },
         {
           "title": "[사진]수주 '세계가 사랑하는 모델'",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/10/MEZDSMRRMQZGMYJQMZQTSNZZMY/"
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112907962"
         }
       ]
     },
@@ -146,80 +212,14 @@
           "url": "https://www.applebees.com/en/news/2026/veterans-day"
         },
         {
-          "title": "South Florida events held to mark Veterans Day",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/miami/video/south-florida-events-held-to-mark-veterans-day/"
-        },
-        {
           "title": "Veterans Day 2026 Free Meals, Freebies and Deals",
           "source": "The American Legion",
           "url": "https://www.legion.org/information-center/news/veterans-day/2026/november/veterans-day-deals-and-discounts"
-        }
-      ]
-    },
-    {
-      "title": "채령",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 06:10:00 -0800",
-      "news": [
-        {
-          "title": "있지 채령, '여기가 내 무대'",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261110000899"
         },
         {
-          "title": "[사진]아워벌스데이 신혜원, 순백의 여신 느낌",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/10/GBSDCZRRHFQTQMZXGVRDIZDCGE/"
-        },
-        {
-          "title": "홀로서기 나선 ITZY 채령, 첫 미니 ‘Lovesick’ 9일 발매",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11630307"
-        }
-      ]
-    },
-    {
-      "title": "빵",
-      "approx_traffic": "10000+",
-      "published": "Wed, 11 Nov 2026 06:00:00 -0800",
-      "news": [
-        {
-          "title": "“어차피 버릴 빵, 떨이로 좀 팔지”…사장님들 기를 쓰고 할인 안하는 이유는",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12205568"
-        },
-        {
-          "title": "“어차피 안 팔린 빵, 왜 기를 쓰고 버려요?”…사장님들이 ‘떨이’ 안 하는 이유는",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12205384"
-        },
-        {
-          "title": "\"맛있게 먹고 건강도 챙기고\" 신세계푸드, 샐러드·건강빵 인기",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261111_0003863091"
-        }
-      ]
-    },
-    {
-      "title": "라라랜드",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 06:00:00 -0800",
-      "news": [
-        {
-          "title": "스크린으로 다시 만나는 ‘라라랜드’ ‘더 랍스터’ ‘원스’",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/20261111501973"
-        },
-        {
-          "title": "‘재개봉·공연실황·실험작’… 극장가, 비수기를 飛수기로!",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11630108"
-        },
-        {
-          "title": "여전히 꿈꾸는 당신을 위한 ‘라라랜드’, 박스오피스 3위…좌석 8%로 관객 11.3% 모았다",
-          "source": "ER 이코노믹리뷰",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=756917"
+          "title": "Veterans Day events, giveaways and discounts across Tampa Bay",
+          "source": "wtsp.com",
+          "url": "https://www.wtsp.com/article/life/holidays/veterans-day-2026-events-giveaways-discounts-tampa-bay/67-dc2c2a7c-a3af-4c45-b9bf-98aa20a30671"
         }
       ]
     }
