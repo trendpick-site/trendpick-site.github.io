@@ -1,7 +1,7 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-11T13:52:09+00:00",
+  "fetched_at": "2026-11-11T14:57:14+00:00",
   "items": [
     {
       "title": "더 스카이 184",
@@ -31,7 +31,7 @@
       "published": "Wed, 11 Nov 2026 03:40:00 -0800",
       "news": [
         {
-          "title": "인천 고잔동 공장서 가스 누출 신고…5명 연기 흡입",
+          "title": "인천 고잔동 도금 공장서 가스 누출 신고…5명 연기 흡입",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329"
         },
@@ -41,15 +41,15 @@
           "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336620"
         },
         {
-          "title": "[속보] 인천 남동공단 유독가스 유출···\"주민 대피\"",
-          "source": "인천투데이",
-          "url": "https://www.incheontoday.com/news/articleView.html?idxno=326251"
+          "title": "인천 남동공단서 염소가스 누출…5명 호흡곤란",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261111230636GhO"
         }
       ]
     },
     {
       "title": "이종석",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Wed, 11 Nov 2026 03:30:00 -0800",
       "news": [
         {
@@ -92,11 +92,6 @@
       "published": "Wed, 11 Nov 2026 03:20:00 -0800",
       "news": [
         {
-          "title": "Phân tích thống kê XSMB Thứ 5 Ngày 12/11/2026 - Chốt Số Vàng May Mắn",
-          "source": "homeup.vn",
-          "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394"
-        },
-        {
           "title": "Kết quả xổ số miền Trung hôm nay 11.11: Khánh Hòa, Đà Nẵng",
           "source": "Laodong.vn",
           "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1111-khanh-hoa-da-nang-1798739.ldo"
@@ -105,6 +100,33 @@
           "title": "XSCT 11/11 - Kết quả xổ số Cần Thơ hôm nay ngày 11 tháng 11",
           "source": "CafeF",
           "url": "https://cafef.vn/xsct-11-11-ket-qua-xo-so-can-tho-hom-nay-ngay-11-thang-11-188261111163739876.chn"
+        },
+        {
+          "title": "XSMN 11/11 - Kết quả xổ số miền Nam ngày 11 tháng 11",
+          "source": "Giáo dục Thủ đô",
+          "url": "https://giaoducthudo.giaoducthoidai.vn/xsmn-11-11-ket-qua-xo-so-mien-nam-ngay-11-thang-11-226100.html"
+        }
+      ]
+    },
+    {
+      "title": "멜론티켓",
+      "approx_traffic": "2000+",
+      "published": "Wed, 11 Nov 2026 02:40:00 -0800",
+      "news": [
+        {
+          "title": "AGF 2026, 12일부터 일반 티켓 판매…역대 최대 106개사 참가",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/it-science/ict/2026/11/11/UUGAXIKN65ANNLON5NA7PT2NCE/"
+        },
+        {
+          "title": "이세돌·이브닛 총출동…SOOP, AGF에 버추얼 28명 띄운다",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261110000265"
+        },
+        {
+          "title": "지스타 비우고 AGF로…일산에 눈 돌린 게임사",
+          "source": "주간한국",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7192526"
         }
       ]
     },
@@ -119,14 +141,14 @@
           "url": "https://www.hankyung.com/article/202611110559i"
         },
         {
+          "title": "일진전기 3분기 영업익 700억원…\"전선사업 해외 수주 확대\"",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1196138"
+        },
+        {
           "title": "일진전기, 올 3Q 서프라이즈급 실적 달성...글로벌 호황에 수주고도 ‘탄탄’",
           "source": "전기신문",
           "url": "https://www.electimes.com/news/articleView.html?idxno=374644"
-        },
-        {
-          "title": "일진전기, 3분기 영업익 전년비 98% 증가…수주잔고 3조원 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/11/11/2026111115334857081"
         }
       ]
     },
@@ -176,7 +198,7 @@
     },
     {
       "title": "인터뷰",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Wed, 11 Nov 2026 02:20:00 -0800",
       "news": [
         {
@@ -193,28 +215,6 @@
           "title": "'가능한 사랑' 조여정 \"美 아카데미 회원이지만 회비 미납해 투표권 없을 수도\"",
           "source": "SBS 뉴스",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840384"
-        }
-      ]
-    },
-    {
-      "title": "연합뉴스",
-      "approx_traffic": "500+",
-      "published": "Wed, 11 Nov 2026 02:00:00 -0800",
-      "news": [
-        {
-          "title": "너무 속 보이는 민주당의 연합뉴스 지배구조 개편...연합뉴스에 특별한 문제가 돌출한 것도 아닌데 왜 법 개정 서두르나?",
-          "source": "한국NGO신문",
-          "url": "https://www.ngonews.kr/news/articleView.html?idxno=242922"
-        },
-        {
-          "title": "공언련 \"민주당, 연합뉴스 지배구조 개편 추진…'언론노조에 경영권 넘기려는 눈속임'\"",
-          "source": "프리진뉴스",
-          "url": "https://www.freezinenews.com/news/articleView.html?idxno=31415"
-        },
-        {
-          "title": "‘與 봉합 시도’ 우원식·박지원에… 정청래 “빠져라, 가던 길 가시라”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/11/11/T4T6S5KKEVHB3KR7FVOWOJ2FKU/"
         }
       ]
     }
