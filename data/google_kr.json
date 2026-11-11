@@ -1,78 +1,12 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-11T22:35:31+00:00",
+  "fetched_at": "2026-11-11T23:29:06+00:00",
   "items": [
     {
-      "title": "한국노동조합총연맹",
-      "approx_traffic": "200+",
-      "published": "Wed, 11 Nov 2026 13:30:00 -0800",
-      "news": [
-        {
-          "title": "한국노총 \"65세 정년연장, 연내 입법 로드맵 마련해야\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261110_0003862779"
-        },
-        {
-          "title": "여당 “정년연장 연내 입법”, 청와대 ‘브레이크’ 풀릴까",
-          "source": "매일노동뉴스",
-          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237668"
-        },
-        {
-          "title": "한국노총, 노동부에 정년연장 입법 촉구…국회에만 의존 말라",
-          "source": "SBS Biz",
-          "url": "https://biz.sbs.co.kr/article/20000345512"
-        }
-      ]
-    },
-    {
-      "title": "xrp 레저",
-      "approx_traffic": "500+",
-      "published": "Wed, 11 Nov 2026 13:30:00 -0800",
-      "news": [
-        {
-          "title": "XRP 레저 양자 내성 서명, 데이터 105→3,732바이트로 커져도 수수료는 그대로",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1173882"
-        },
-        {
-          "title": "“양자 컴퓨터 위협 원천 차단”…리플, 2028년까지 보안 체계 전면 전환 추진",
-          "source": "블록미디어",
-          "url": "https://www.blockmedia.co.kr/archives/1163702"
-        },
-        {
-          "title": "리플, 1.06달러 지지 시험…XRPL '2027 로드맵'으로 디파이 영토 확장",
-          "source": "블록체인투데이",
-          "url": "https://blockchaintoday.co.kr/news/articleView.html?idxno=66700"
-        }
-      ]
-    },
-    {
-      "title": "พยากรณ์อากาศ",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 13:20:00 -0800",
-      "news": [
-        {
-          "title": "‘กรมธรณี’ แจ้ง 11 จังหวัดภาคใต้เฝ้าระวังดินถล่ม ระหว่างวันที่ 11-13 พ.ย.นี้",
-          "source": "เดลินิวส์",
-          "url": "https://www.dailynews.co.th/news/6352136/"
-        },
-        {
-          "title": "ประจำวันที่ 11 พฤศจิกายน 2569 17.00 น.",
-          "source": "กรมอุตุนิยมวิทยา",
-          "url": "https://www.tmd.go.th/forecast/daily/111120261800"
-        },
-        {
-          "title": "อธิบดี ปภ. ลงพื้นที่หาดใหญ่ กำชับ 5 มาตรการรับมือฝนภาคใต้",
-          "source": "TNN Thailand",
-          "url": "https://www.tnnthailand.com/social/252108/"
-        }
-      ]
-    },
-    {
-      "title": "3루수",
-      "approx_traffic": "2000+",
-      "published": "Wed, 11 Nov 2026 13:10:00 -0800",
+      "title": "3 루수",
+      "approx_traffic": "5000+",
+      "published": "Wed, 11 Nov 2026 14:20:00 -0800",
       "news": [
         {
           "title": "노시환과 메츠 워싱턴 코치의 한화 시절 인연, 미국 현지서 화제",
@@ -92,120 +26,186 @@
       ]
     },
     {
-      "title": "반도체",
+      "title": "박동원",
       "approx_traffic": "1000+",
-      "published": "Wed, 11 Nov 2026 13:10:00 -0800",
+      "published": "Wed, 11 Nov 2026 14:20:00 -0800",
       "news": [
         {
-          "title": "엔비다이 주가 또 5.47% 급락...젠슨 황 거취는? [앵커리포트]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202611112031361073"
+          "title": "\"꼭 잡겠다\" 왜 얘기 못하나...분위기가 심상치 않다, FA 포수 대격변 일어날까",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/11/ME3GMMLBMU3GIYJXGUYTAZBYG4/"
         },
         {
-          "title": "[뉴욕증시] 코어위브·앤트로픽이 기술주 쌍끌이…나스닥 1.6%↑",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444281"
+          "title": "구자욱·원태인만 있나…최지훈·홍창기·박동원까지 'FA 대어' 즐비",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6349521"
         },
         {
-          "title": "엔비디아, 이틀 연속 급락 이후 저가매수세에 주가 5%↑",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01436646645645064"
+          "title": "구자욱 예상 몸값 200억 상회하나… ‘모두의 구자욱’ 게임, 역대급 전쟁 시작된다",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019086"
         }
       ]
     },
     {
-      "title": "버스",
-      "approx_traffic": "1000+",
-      "published": "Wed, 11 Nov 2026 13:10:00 -0800",
-      "news": [
-        {
-          "title": "경기 성남시 분당서 출근길 버스 등 32대 연쇄 추돌...\"중상자 9명\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611111028493144_005.html"
-        },
-        {
-          "title": "버스기사 \"브레이크 고장\"‥\"점검, 이상없음\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6865010_37012.html"
-        },
-        {
-          "title": "‘버스 돌진’ 목격자들 \"브레이크 아닌 가속페달 같았다\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12327636"
-        }
-      ]
-    },
-    {
-      "title": "테니스",
+      "title": "vix",
       "approx_traffic": "200+",
-      "published": "Wed, 11 Nov 2026 13:00:00 -0800",
-      "news": []
+      "published": "Wed, 11 Nov 2026 14:20:00 -0800",
+      "news": [
+        {
+          "title": "India VIX jumps 68% in three weeks despite 7% rally in Sensex, Nifty",
+          "source": "The Economic Times",
+          "url": "https://m.economictimes.com/markets/stocks/news/india-vix-jumps-68-despite-7-rally-in-sensex-nifty/articleshow/135695931.cms"
+        },
+        {
+          "title": "India VIX Rises 1.21% to 17.71 as Nifty Jumps",
+          "source": "HDFC Sky",
+          "url": "https://hdfcsky.com/news/india-vix-rises-1-21percent-as-us-inflation-concerns-offset-crude-oil-relief-november-11-2026"
+        },
+        {
+          "title": "VIX stays elevated despite five-day market rally as global risks keep investors on edge",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/business/vix-stays-elevated-despite-five-day-market-rally-as-global-risks-keep-investors-on-edge/article71666364.ece"
+        }
+      ]
     },
     {
-      "title": "일론 머스크",
+      "title": "삼성자산운용",
       "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 13:00:00 -0800",
+      "published": "Wed, 11 Nov 2026 14:20:00 -0800",
       "news": [
         {
-          "title": "테슬라 팔고 스페이스X로…서학개미, 머스크 제국 내 ‘머니무브’",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20113162"
+          "title": "[부고] 김우석(삼성자산운용 대표)씨 모친상",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444267"
         },
         {
-          "title": "테슬라와 스페이스X 합병 추진, 머스크의 두 제국이 하나로?",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3782"
+          "title": "[속보] 4%대 급등 코스닥, 매수 사이드카 발동",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1196032"
         },
         {
-          "title": "테슬라·스페이스X 합병 땐 '팔지 않아도 세금' … 국세청은 \"법대로 과세\"",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/10/2026111000084.html"
-        }
-      ]
-    },
-    {
-      "title": "전고체 전지",
-      "approx_traffic": "200+",
-      "published": "Wed, 11 Nov 2026 13:00:00 -0800",
-      "news": [
-        {
-          "title": "현대차그룹-삼성, ‘원팀’으로 미래 첨단 산업 선점 | 뉴스 | 현대자동차그룹",
-          "source": "Hyundai Motor Group",
-          "url": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-group-samsung-one-team-future-advanced-industry"
-        },
-        {
-          "title": "삼성·현대차, 배터리 공급 넘어 설계까지 맞손…전고체 개발도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110163700003"
-        },
-        {
-          "title": "삼성과 현대차, 미래차·로봇 손잡는다… 첫 대규모 경영진 회동",
-          "source": "주간동아",
-          "url": "https://weekly.donga.com/List/article/all/11/6455332/1"
-        }
-      ]
-    },
-    {
-      "title": "아들",
-      "approx_traffic": "5000+",
-      "published": "Wed, 11 Nov 2026 12:50:00 -0800",
-      "news": [
-        {
-          "title": "아들 ‘성범죄 사건’ 10대 피해자 살해한 50대 남성 체포…보복 범행 가능성 수사",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611111924001"
-        },
-        {
-          "title": "'아들 성폭력' 피해자 살해‥합의안해 '보복'?",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6865004_37012.html"
-        },
-        {
-          "title": "아들의 성폭행 피해자 여중생 살해한 부친",
+          "title": "[부고]김분녀 별세 外",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261111/135010430/2"
+          "url": "https://www.donga.com/news/People/article/all/20261112/135010369/2"
         }
       ]
+    },
+    {
+      "title": "지소연",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 14:20:00 -0800",
+      "news": [
+        {
+          "title": "지소연에 ‘성희롱 발언’한 심판, 출전정지 3개월 징계",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710019"
+        },
+        {
+          "title": "지소연 향해 '성희롱 발언' 심판, 3개월 출전정지‥재심 없이 징계 확정",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6864877_36946.html"
+        },
+        {
+          "title": "지소연에 \"생리하나 봐\" 막말한 심판…징계는 고작 3개월 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111119112392877"
+        }
+      ]
+    },
+    {
+      "title": "차장",
+      "approx_traffic": "200+",
+      "published": "Wed, 11 Nov 2026 14:10:00 -0800",
+      "news": [
+        {
+          "title": "'김 차장, 요즘 왜 저래?'…부장님만 '바글바글' 심상찮다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111110121"
+        },
+        {
+          "title": "대화 나누는 이진수 법무부 차관과 기우종 법원행정처 차장",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261111_0021528524"
+        },
+        {
+          "title": "의사봉 두드리는 김의겸 법사위 제1소위원장",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261111000739"
+        }
+      ]
+    },
+    {
+      "title": "nvda stock",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 14:10:00 -0800",
+      "news": [
+        {
+          "title": "Exclusive | Nvidia is Preparing to Oust CEO Jensen Huang",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+        },
+        {
+          "title": "Statement From NVIDIA Board of Directors",
+          "source": "NVIDIA Newsroom",
+          "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+        },
+        {
+          "title": "\"Briefed Multiple Times\"... Collusion Between Politics and Business Leaves National Security Vulnerable",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008842038"
+        }
+      ]
+    },
+    {
+      "title": "엘리나 스비톨리나",
+      "approx_traffic": "200+",
+      "published": "Wed, 11 Nov 2026 14:10:00 -0800",
+      "news": [
+        {
+          "title": "리바키나 왕중왕전 불참…테니스선수협회 \"시즌 일정 너무 빡빡\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261110138000007"
+        },
+        {
+          "title": "'왕중왕전' 무호바에게 서브하는 사발렌카",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261110_0002288184"
+        },
+        {
+          "title": "리바키나도 최종전 기권…선수협회 \"선수들 몸이 버티지 못한다\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/general-sport/6349598"
+        }
+      ]
+    },
+    {
+      "title": "홈런",
+      "approx_traffic": "2000+",
+      "published": "Wed, 11 Nov 2026 14:00:00 -0800",
+      "news": [
+        {
+          "title": "12홈런 친 3루수가 C등급이라고? 보상금 고작 1억3500...의외의 '초대박' 터지나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/12/MQZDENLCMZRGMNTDMNRGCODFMY/"
+        },
+        {
+          "title": "'KS 65경기·우승 7회' 베테랑도 \"떨린다\", '코치' 박한이가 꿈꾸는 '여덟 번째 반지' [KS1]",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202611030293"
+        },
+        {
+          "title": "“가장 고마운 선수” 열정 만점 코치도 극찬한 삼성의 명품 조연…“XX 앞에서 아프다는 말도 하면 안 된다\" 왜? [KS5] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/08/202611081234778304O"
+        }
+      ]
+    },
+    {
+      "title": "광공해",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 14:00:00 -0800",
+      "news": []
     }
   ]
 }
