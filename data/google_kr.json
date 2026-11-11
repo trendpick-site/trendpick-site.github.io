@@ -1,8 +1,157 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-11T10:38:32+00:00",
+  "fetched_at": "2026-11-11T11:33:43+00:00",
   "items": [
+    {
+      "title": "임신",
+      "approx_traffic": "200+",
+      "published": "Wed, 11 Nov 2026 02:30:00 -0800",
+      "news": [
+        {
+          "title": "임신 34주에 마라톤 완주 ‘찬사’와 ‘우려’…태아는 괜찮을까? [건강팩트체크]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/It/article/all/20261111/135004750/2"
+        },
+        {
+          "title": "8개월 만삭에 뉴욕 마라톤 완주한 30대…\"임신하고 7번째예요\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/usa-canada/6347861"
+        },
+        {
+          "title": "‘출혈·복통’ 24주차 임신부, 34개 병원 거부 끝에 청주서 서울까지",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327564"
+        }
+      ]
+    },
+    {
+      "title": "주차장",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 02:30:00 -0800",
+      "news": [
+        {
+          "title": "서부발전, 대전산단 에너지 자립사업 참여…320억 규모",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374592"
+        },
+        {
+          "title": "한전KDN, 전력 정보통신 넘어 태양광 발전사업으로 영역 확대",
+          "source": "기후에너지데이터뱅크",
+          "url": "https://edata.ekn.kr/article/view/ekn202611110007"
+        },
+        {
+          "title": "충북 음성군, 공영주차장에 공공주도형 태양광 발전설비 설치 추진",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611111053011"
+        }
+      ]
+    },
+    {
+      "title": "인터뷰",
+      "approx_traffic": "200+",
+      "published": "Wed, 11 Nov 2026 02:20:00 -0800",
+      "news": [
+        {
+          "title": "[인터뷰] 조인성 \"이창동 감독님은 영화의 신, 초심으로 돌아간 기분\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611101604268979"
+        },
+        {
+          "title": "[비평] 그래서 사랑이 가능합니까, 오진우 평론가의",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=111205"
+        },
+        {
+          "title": "'가능한 사랑' 조여정 \"美 아카데미 회원이지만 회비 미납해 투표권 없을 수도\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840384"
+        }
+      ]
+    },
+    {
+      "title": "연합뉴스",
+      "approx_traffic": "500+",
+      "published": "Wed, 11 Nov 2026 02:00:00 -0800",
+      "news": [
+        {
+          "title": "너무 속 보이는 민주당의 연합뉴스 지배구조 개편...연합뉴스에 특별한 문제가 돌출한 것도 아닌데 왜 법 개정 서두르나?",
+          "source": "한국NGO신문",
+          "url": "https://www.ngonews.kr/news/articleView.html?idxno=242922"
+        },
+        {
+          "title": "공언련 \"민주당, 연합뉴스 지배구조 개편 추진…'언론노조에 경영권 넘기려는 눈속임'\"",
+          "source": "프리진뉴스",
+          "url": "https://www.freezinenews.com/news/articleView.html?idxno=31415"
+        },
+        {
+          "title": "집값의 30%로 내 집 마련, '이익공유형Ⅱ' 공공분양 도입 추진 - 카드/한컷 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975273"
+        }
+      ]
+    },
+    {
+      "title": "창원 lg 대 서울 sk",
+      "approx_traffic": "1000+",
+      "published": "Wed, 11 Nov 2026 01:50:00 -0800",
+      "news": [
+        {
+          "title": "◇오늘의 경기(11일)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261109042251007"
+        },
+        {
+          "title": "[사진] 양홍석, 손끝에 힘을 팍!",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/11/GQZGEZDEGYYTKY3EHBRDGODEG4/"
+        }
+      ]
+    },
+    {
+      "title": "김현지",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 01:40:00 -0800",
+      "news": [
+        {
+          "title": "[단독]이용철, ‘일가족 살해 후 사체 소각’ 흉악범 변호···변론 전략은 “검찰 강압수사”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611111041001"
+        },
+        {
+          "title": "[단독] 이용철, 변호사 시절 ‘양평 일가족 살해사건’ 범죄자 변호 이력...대법서 사형 확정",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327518"
+        },
+        {
+          "title": "이용철 법무장관 후보자, 과거 일가족 살해 사건 변호인단 포함",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6864847_36918.html"
+        }
+      ]
+    },
+    {
+      "title": "비전",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 01:30:00 -0800",
+      "news": [
+        {
+          "title": "용인특례시, 미래도시 발전 전략 ‘용인비전 2040’ 구체화… 내년부터 본격 추진",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261111580524"
+        },
+        {
+          "title": "용인시, 미래도시 발전 전략 ‘용인비전 2040’ 실행계획 구체화",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040673"
+        },
+        {
+          "title": "[시군정담] 용인을 변화하게 만드는 ‘적극행정’",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363742124"
+        }
+      ]
+    },
     {
       "title": "둠스데이",
       "approx_traffic": "100+",
@@ -36,9 +185,9 @@
           "url": "https://www.chosun.com/national/welfare-medical/2026/11/11/QSS7DIPZZNEETBTJBNCT2K3J6M/"
         },
         {
-          "title": "위고비·마운자로 들고 입국 가능…일본 원정 구매 늘어나나",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111173800017"
+          "title": "비만약 등 치료용 의약품, 석달치 휴대 반입 허용",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261111200651bwI"
         },
         {
           "title": "[속보]국내 가격의 7분의 1…비만약 ‘스시자로’ 허용된다",
@@ -49,7 +198,7 @@
     },
     {
       "title": "김태희",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Wed, 11 Nov 2026 00:40:00 -0800",
       "news": [
         {
@@ -58,168 +207,14 @@
           "url": "https://www.osen.co.kr/article/G1112908092"
         },
         {
-          "title": "김태희, ♥비도 감탄할 등근육…한때 액션 구미호 뒤태 [DA★]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261111/135006478/1"
-        },
-        {
           "title": "김태희, \"살쪘다\" 지적 의식?…레깅스 입고 \"매일 운동\" - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111113393715820"
-        }
-      ]
-    },
-    {
-      "title": "토마토",
-      "approx_traffic": "500+",
-      "published": "Wed, 11 Nov 2026 00:20:00 -0800",
-      "news": [
-        {
-          "title": "토마토에 치명적인 바이러스 발생…“접촉 자제”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707342"
         },
         {
-          "title": "철원군, '토마토갈색주름과실바이러스' 농가 확산 방지 총력",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1196169"
-        },
-        {
-          "title": "농진청, 토마토갈색주름과실바이러스 확진 농가 공적 방제",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110158900055"
-        }
-      ]
-    },
-    {
-      "title": "포체티노",
-      "approx_traffic": "2000+",
-      "published": "Wed, 11 Nov 2026 00:20:00 -0800",
-      "news": [
-        {
-          "title": "‘리그 10경기 1승, 18위’ 최악의 맨유, 캐릭 감독 경질 가닥",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708520"
-        },
-        {
-          "title": "\"손흥민 스승끼리 밥그릇 싸움?\" 콘테, 거물 에이전트 동원해 포체티오 맨유행 '가로채기' 나선다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111116054575858"
-        },
-        {
-          "title": "‘英 단독’ 일본 대표팀 GK ‘공개 비판’→“너무 불안해, 이적료 그정도면 승점 10은 책임질 실력 필요”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611110606003"
-        }
-      ]
-    },
-    {
-      "title": "세무사 수석",
-      "approx_traffic": "500+",
-      "published": "Wed, 11 Nov 2026 00:20:00 -0800",
-      "news": [
-        {
-          "title": "대기업 10년차·벼랑끝 자영업 거쳐 세무사시험 수석 합격한 한원석씨",
-          "source": "한국세정신문",
-          "url": "https://www.taxtimes.co.kr/news/article.html?no=277678"
-        },
-        {
-          "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
-          "source": "Daily NTN",
-          "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000154"
-        },
-        {
-          "title": "세무사고시회, 신입회원 환영회 개최…선배들의 경험과 노하우 전달로 도움 줘",
-          "source": "조세플러스",
-          "url": "https://joseplus.com/article/1065598875749453"
-        }
-      ]
-    },
-    {
-      "title": "마운자로",
-      "approx_traffic": "500+",
-      "published": "Wed, 11 Nov 2026 00:20:00 -0800",
-      "news": [
-        {
-          "title": "살 빼려다 시력 잃을 수도 있다···‘비만 치료제’ 위고비·마운자로, 시신경 손상 위험 ‘비상’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611111354001"
-        },
-        {
-          "title": "FDA \"위고비·마운자로 '실명 위험' 경고 추가해야\"‥국내도 검토 착수",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864647_37004.html"
-        },
-        {
-          "title": "\"GLP-1 의약품, 시력 질환 가능성\"...식약처 서한 배포",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611111104057382"
-        }
-      ]
-    },
-    {
-      "title": "pakistan vs sri lanka",
-      "approx_traffic": "200+",
-      "published": "Wed, 11 Nov 2026 00:20:00 -0800",
-      "news": [
-        {
-          "title": "De Silva, Kamindu fifties guide Sri Lanka to 221-4 in first Test",
-          "source": "AFP.com",
-          "url": "https://www.afp.com/en/de-silva-kamindu-fifties-guide-sri-lanka-221-4-first-test"
-        },
-        {
-          "title": "Shakeel, Saqib hand Pakistan the advantage against SL",
-          "source": "Guyana Chronicle",
-          "url": "https://guyanachronicle.com/2026/11/11/shakeel-saqib-hand-pakistan-the-advantage-against-sl/"
-        },
-        {
-          "title": "Tickets for second Test to go on sale from Thursday",
-          "source": "Pakistan Cricket Board (PCB)",
-          "url": "https://www.pcb.com.pk/press-release-detail/tickets-for-second-test-to-go-on-sale-from-thursday.html"
-        }
-      ]
-    },
-    {
-      "title": "남지현",
-      "approx_traffic": "200+",
-      "published": "Wed, 11 Nov 2026 00:20:00 -0800",
-      "news": [
-        {
-          "title": "아이브 리즈, 동화 속 공주 비주얼… 눈부신 미모 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6349463"
-        },
-        {
-          "title": "김재원, '2026 KGMA' MC 활약…리즈와 호흡 맞추며 안정적 진행",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261109000354"
-        },
-        {
-          "title": "아이브 리즈, 못 하는 게 뭐야…MC·솔로 무대·수상까지 '만능캐 입증'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611096058H"
-        }
-      ]
-    },
-    {
-      "title": "임영웅",
-      "approx_traffic": "1000+",
-      "published": "Wed, 11 Nov 2026 00:10:00 -0800",
-      "news": [
-        {
-          "title": "임영웅 10주년 콘서트 실황 영화, IMAX로 본다…포스터 공개",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20112528"
-        },
-        {
-          "title": "임영웅, 또 역대급 스케일…10주년 공연실황 '아임 히어로 2' IMAX 개봉 확정",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/11/10/GMYDEOBUGU3GKM3EG4YDQYZXMM/"
-        },
-        {
-          "title": "임영웅, 스크린에서도 저력…'아임 히어로 더 스타디움 2' 예매율 1위",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/movie/6350522"
+          "title": "김태희, ♥비도 감탄할 등근육…한때 액션 구미호 뒤태 [DA★]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261111/135006478/1"
         }
       ]
     }
