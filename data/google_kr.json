@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-11T20:03:44+00:00",
+  "fetched_at": "2026-11-11T21:39:57+00:00",
   "items": [
     {
-      "title": "수사",
-      "approx_traffic": "5000+",
-      "published": "Wed, 11 Nov 2026 10:20:00 -0800",
+      "title": "연금",
+      "approx_traffic": "2000+",
+      "published": "Wed, 11 Nov 2026 12:30:00 -0800",
       "news": [
         {
-          "title": "10대 살해한 50대…'아들 성범죄'에 '조건만남 절도'까지 복잡(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111146451004"
+          "title": "국민연금, JP모건자산운용과 전략적 협력 확대 나서",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261111501063"
         },
+        {
+          "title": "국민연금, JP모간과 업무협약…전략적 협력 강화 [시그널]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20112915"
+        },
+        {
+          "title": "JP모간운용, 국민연금과 투자 협력 확대…내년 전주 사무소 개소",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2646748"
+        }
+      ]
+    },
+    {
+      "title": "운세",
+      "approx_traffic": "2000+",
+      "published": "Wed, 11 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "[오늘의 운세] 2026년 11월 12일 띠별 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202611120000000001"
+        },
+        {
+          "title": "[오늘의 운세] 11월 12일 목요일 (음력 10월 4일 庚寅)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/11/11/CNP3IWOAZNE6ZC4CGGRB5OE4CI/"
+        },
+        {
+          "title": "[녹유 오늘의 운세] 62년생 두근거리던 순간 만세가 불려져요",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261110_0003862806"
+        }
+      ]
+    },
+    {
+      "title": "기부",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 12:20:00 -0800",
+      "news": [
+        {
+          "title": "한수원, 전통시장 장보기 10년...소비가 기부가 되는 상생",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447993"
+        },
+        {
+          "title": "한국수력원자력, 전통시장서 1200만원 물품 구매·기부…노사 공동 비전 선포",
+          "source": "웹이코노미",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2370915"
+        }
+      ]
+    },
+    {
+      "title": "원익홀딩스",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 12:20:00 -0800",
+      "news": [
+        {
+          "title": "특징주, SFA반도체-반도체 장비 테마 상승세에 6.39% ↑",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1195879"
+        },
+        {
+          "title": "[장중수급포착] 한양디지텍, 기관 5일 연속 순매수행진... 주가 +10.91%",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261109000591"
+        },
+        {
+          "title": "[테마시황] AI·반도체 급반등 속 인프라·보안주 동반 강세 By 인포스탁데일리",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2165284"
+        }
+      ]
+    },
+    {
+      "title": "메이저 리그 사커",
+      "approx_traffic": "2000+",
+      "published": "Wed, 11 Nov 2026 12:10:00 -0800",
+      "news": [
+        {
+          "title": "‘축구의 신’ 메시, MLS 최초 2년 연속 득점왕 등극",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/11/08/57D7FQO3I5ALZJMQEZDACEIYJE/"
+        },
+        {
+          "title": "`메시, MLS에서 역사 썼다`…리그 최초 2시즌 연속 득점왕, 31경기 26골 17AS 폭발",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026110918472925665"
+        },
+        {
+          "title": "메시 결승골…인터 마이애미, 뉴잉글랜드에 2-1 역전승 : 스포츠",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1065087"
+        }
+      ]
+    },
+    {
+      "title": "대한축구협회",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 12:10:00 -0800",
+      "news": [
+        {
+          "title": "'미래의 명판관 양성한다' KFA, FIFA 강사 초청 심판 아카데미 S코스 3차 교육 개최[오피셜]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/11/11/GVSTMOJVME4WMZTCMYZWIZRTGY/"
+        },
+        {
+          "title": "'한국 심판도 세계 무대로 간다' 대한축구협회, FIFA 강사 초청해 차세대 심판 육성... 태국·몽골·미얀마도 합류 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/11/202611111355776145O"
+        },
+        {
+          "title": "대한축구협회, FIFA 강사 초청 ‘심판 아카데미 S코스’ 3차 교육 개최",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11630602"
+        }
+      ]
+    },
+    {
+      "title": "연애박사",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 11:50:00 -0800",
+      "news": [
+        {
+          "title": "추영우, '연애박사' 종영 소감…\"마음 속 따듯한 기억으로 새겨지길\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611111025548114"
+        },
+        {
+          "title": "평생을 약속한 추영우·김소현…'연애박사' 3.5% 자체 최고 종영",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261111048400005"
+        },
+        {
+          "title": "[SC줌人]추영우, 로맨스도 연기력도 '박사'…'연애박사'로 증명한 진가",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/11/HBRGENBUGMZWKNJQHE2TOOLGGE/"
+        }
+      ]
+    },
+    {
+      "title": "편의점",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 11:50:00 -0800",
+      "news": [
+        {
+          "title": "신호 기다리다 음주 차량에 '쾅'...면허 취소 수치",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202611120011001955"
+        },
+        {
+          "title": "추돌사고 당한 승용차가 편의점 덮쳐…8명 부상",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261111073932L6J"
+        },
+        {
+          "title": "음주 차량에 추돌당한 경차가 편의점 파손…8명 다쳐",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709632"
+        }
+      ]
+    },
+    {
+      "title": "무인 항공기",
+      "approx_traffic": "200+",
+      "published": "Wed, 11 Nov 2026 11:20:00 -0800",
+      "news": [
+        {
+          "title": "육군 “김포서 훈련 중 소형무인기 추락…북한 관련 없는 지역”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611101125001"
+        },
+        {
+          "title": "김포 주택가 공원에 무인기 추락…군 “교육훈련 중 추락”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708502"
+        },
+        {
+          "title": "軍 무인기, 훈련 중 김포 공원에 추락…사고 원인 조사",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261110144436xGB"
+        }
+      ]
+    },
+    {
+      "title": "수사",
+      "approx_traffic": "500+",
+      "published": "Wed, 11 Nov 2026 10:20:00 -0800",
+      "news": [
         {
           "title": "아들의 성폭행 피해자 여중생 살해한 부친",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Society/article/all/20261111/135010430/2"
         },
         {
-          "title": "성폭력 피해 10대 여성 피살…성평등장관 “공적체계서 지키지 못해”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/rights/1286901.html"
-        }
-      ]
-    },
-    {
-      "title": "양홍원",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 10:00:00 -0800",
-      "news": [
-        {
-          "title": "\"너가 모르는 여자가 옆에\"…양홍원, 불륜설 속 신곡 제목은 '오보' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111110193659323"
+          "title": "[단독] '아들 성범죄' 피해자 살해…'보복 범죄' 수사",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841962&plink=PLAY&cooper=RSS&autoplay=Y"
         },
         {
-          "title": "양홍원, 불륜 의혹 속 신보 ‘오보’ 발표…의미심장 가사",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261111/135007845/1"
-        },
-        {
-          "title": "양홍원 딸 육아돕던 PD도 팔로우 끊었다…아내만 남아",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261111_0003863771"
-        }
-      ]
-    },
-    {
-      "title": "테일러 프리츠",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 09:20:00 -0800",
-      "news": [
-        {
-          "title": "Exclusive: Taylor Fritz clarifies Six Kings Slam fee reports as Casper Ruud defends Masters 1000 in Saudi A...",
-          "source": "Bolavip US",
-          "url": "https://bolavip.com/en/tennis/exclusive-taylor-fritz-clarifies-six-kings-slam-fee-reports-as-casper-ruud-defends-masters-1000-in-saudi-arabia"
-        },
-        {
-          "title": "Norrie serves up storm in Stockholm, sets Fritz showdown",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/news/norrie-duckworth-stockholm-2026-monday"
-        },
-        {
-          "title": "Sports News, Transfers, Scores | Watch Live Sport",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/tennis/watch/5412594896626087112/bybit-stockholm-open-2026"
-        }
-      ]
-    },
-    {
-      "title": "수능날",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 09:10:00 -0800",
-      "news": [
-        {
-          "title": "광주신세계 \"수험생 위한 보온도시락·텀블러·디저트 준비하세요\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/gwangju-jeonnam/6350261"
-        },
-        {
-          "title": "“수능날 ‘따뜻한 집밥’을 선물하세요”…써모스, 보온도시락 최대 52%",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/pick/12205218"
-        },
-        {
-          "title": "광주신세계, 수능 앞두고 보온도시락·텀블러 등 응원 상품 선봬",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423955"
-        }
-      ]
-    },
-    {
-      "title": "구자욱",
-      "approx_traffic": "1000+",
-      "published": "Wed, 11 Nov 2026 09:00:00 -0800",
-      "news": [
-        {
-          "title": "삼성 우승에 대구 상권 ‘들썩’… 소상공인 할인 잔치, 계열사는 언제?",
-          "source": "영남일보",
-          "url": "https://www.yeongnam.com/web/view.php?key=20261110021569973"
-        },
-        {
-          "title": "“우승만 하면 된다면서요”…다년 계약 불발 구자욱·원태인, FA로 붙잡으려면 얼마?",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611101656001"
-        },
-        {
-          "title": "'흑역사' 지운 스포츠 삼성家 …야구·축구 등에서 '겹경사'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261110_0003862721"
-        }
-      ]
-    },
-    {
-      "title": "노무현",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 07:50:00 -0800",
-      "news": [
-        {
-          "title": "“제대로 받쳐드려” 친명 방위대 결집…그 뒤 ‘노무현 데자뷔’",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25477178"
-        },
-        {
-          "title": "“조작기소 특검 힘 모아야”",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261108509347"
-        },
-        {
-          "title": "‘친명계’ 혁신회의 “대통령 흔들었던 사람들, 반개혁 반성해야”",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202611081627001"
-        }
-      ]
-    },
-    {
-      "title": "오현민",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 07:10:00 -0800",
-      "news": [
-        {
-          "title": "데블스플랜3 장동민 “33개월 아들, 서바이벌 준비”…오현민 “32년 된 아들도”",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261111010004024"
-        },
-        {
-          "title": "[이번 주 뭐 볼까] ‘두뇌 서바이벌’ 최강자 중의 최강자를 가려라",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/10/7PTW24N2JVH4DEX5VHNTF47MH4/"
-        },
-        {
-          "title": "‘피의 게임2’ 최후의 5인 서출구, ‘데블스 플랜3’ 생존 경쟁…“감옥서 살아 돌아왔다”",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1649003"
-        }
-      ]
-    },
-    {
-      "title": "크러쉬 조이",
-      "approx_traffic": "500+",
-      "published": "Wed, 11 Nov 2026 07:00:00 -0800",
-      "news": [
-        {
-          "title": "아이유는 이용당했네..'6년 열애' 크러쉬♥조이, 보란듯이 '커플 듀엣' 라이브 공개[핫피플]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/12/MYYDMYTCGBTDCYRXMY2WIMTDGY/"
-        },
-        {
-          "title": "조이♥크러쉬, 늦은 밤 달달한 럽스타 투척…‘삐그덕’ 듀엣 깜짝 공개",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611112204003"
-        },
-        {
-          "title": "크러쉬, ♥조이에 허락받았나.. \"사랑노래, 아이유에 직접 듀엣 제안\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112907470"
-        }
-      ]
-    },
-    {
-      "title": "이수혁",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 06:50:00 -0800",
-      "news": [
-        {
-          "title": "[포토] 100일의 김유정",
-          "source": "MBC",
-          "url": "https://m.imbc.com/enews/view/524341"
-        },
-        {
-          "title": "[ET포토] 배윤영, '시원하게 드러낸 어깨라인'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261111000247"
-        },
-        {
-          "title": "[사진]수주 '세계가 사랑하는 모델'",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112907962"
-        }
-      ]
-    },
-    {
-      "title": "restaurants near me",
-      "approx_traffic": "2000+",
-      "published": "Wed, 11 Nov 2026 06:20:00 -0800",
-      "news": [
-        {
-          "title": "Applebee’s® Honors Veterans & Active Duty Military with Free Meals on Veterans Day",
-          "source": "Applebee's",
-          "url": "https://www.applebees.com/en/news/2026/veterans-day"
-        },
-        {
-          "title": "Veterans Day 2026 Free Meals, Freebies and Deals",
-          "source": "The American Legion",
-          "url": "https://www.legion.org/information-center/news/veterans-day/2026/november/veterans-day-deals-and-discounts"
-        },
-        {
-          "title": "Veterans Day events, giveaways and discounts across Tampa Bay",
-          "source": "wtsp.com",
-          "url": "https://www.wtsp.com/article/life/holidays/veterans-day-2026-events-giveaways-discounts-tampa-bay/67-dc2c2a7c-a3af-4c45-b9bf-98aa20a30671"
+          "title": "아들은 성폭력, 아버지는 살해‥50대 남성 체포, '보복살인'?",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864939_37004.html"
         }
       ]
     }
