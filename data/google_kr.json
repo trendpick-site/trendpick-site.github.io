@@ -1,33 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-11T09:33:43+00:00",
+  "fetched_at": "2026-11-11T10:38:32+00:00",
   "items": [
     {
-      "title": "일본 마운자로 가격",
-      "approx_traffic": "200+",
-      "published": "Wed, 11 Nov 2026 00:30:00 -0800",
+      "title": "둠스데이",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 01:30:00 -0800",
       "news": [
         {
-          "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/article/2026111116412519794"
+          "title": "넷이즈 '마블 라이벌즈' 시즌11, 13일 시작…나이트크롤러·드라큘라 합류",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261111142136"
         },
         {
-          "title": "[속보] 정부 \"내일부터 비만약 등 치료용 의약품 반입 허용\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111108597"
+          "title": "마블 라이벌즈 시즌11 ‘둠스데이’ 11월 13일 시작",
+          "source": "케이벤치",
+          "url": "https://kbench.com/?q=node/283251"
         },
         {
-          "title": "해외서 처방받은 비만약, 내일부터 국내 휴대 반입 허용",
+          "title": "[해외 캠페인] 마블 라이벌스 시즌 11 개막···나이트크롤러 합류·드라큘라 참전",
+          "source": "캠페인 인사이트",
+          "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=7175"
+        }
+      ]
+    },
+    {
+      "title": "의약품",
+      "approx_traffic": "2000+",
+      "published": "Wed, 11 Nov 2026 01:20:00 -0800",
+      "news": [
+        {
+          "title": "내일부터 ‘스시자로’ 국내 반입 가능, 3개월분까지 허용",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/welfare-medical/2026/11/11/QSS7DIPZZNEETBTJBNCT2K3J6M/"
+        },
+        {
+          "title": "위고비·마운자로 들고 입국 가능…일본 원정 구매 늘어나나",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111154751017"
+          "url": "https://www.yna.co.kr/view/AKR20261111173800017"
+        },
+        {
+          "title": "[속보]국내 가격의 7분의 1…비만약 ‘스시자로’ 허용된다",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11630646"
+        }
+      ]
+    },
+    {
+      "title": "김태희",
+      "approx_traffic": "500+",
+      "published": "Wed, 11 Nov 2026 00:40:00 -0800",
+      "news": [
+        {
+          "title": "김태희 맞아? 외모 악플 쏟아진 후..민낯으로 증명한 '태혜지' 태쁘 미모 [핫피플]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112908092"
+        },
+        {
+          "title": "김태희, ♥비도 감탄할 등근육…한때 액션 구미호 뒤태 [DA★]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261111/135006478/1"
+        },
+        {
+          "title": "김태희, \"살쪘다\" 지적 의식?…레깅스 입고 \"매일 운동\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111113393715820"
+        }
+      ]
+    },
+    {
+      "title": "토마토",
+      "approx_traffic": "500+",
+      "published": "Wed, 11 Nov 2026 00:20:00 -0800",
+      "news": [
+        {
+          "title": "토마토에 치명적인 바이러스 발생…“접촉 자제”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707342"
+        },
+        {
+          "title": "철원군, '토마토갈색주름과실바이러스' 농가 확산 방지 총력",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1196169"
+        },
+        {
+          "title": "농진청, 토마토갈색주름과실바이러스 확진 농가 공적 방제",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261110158900055"
+        }
+      ]
+    },
+    {
+      "title": "포체티노",
+      "approx_traffic": "2000+",
+      "published": "Wed, 11 Nov 2026 00:20:00 -0800",
+      "news": [
+        {
+          "title": "‘리그 10경기 1승, 18위’ 최악의 맨유, 캐릭 감독 경질 가닥",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708520"
+        },
+        {
+          "title": "\"손흥민 스승끼리 밥그릇 싸움?\" 콘테, 거물 에이전트 동원해 포체티오 맨유행 '가로채기' 나선다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111116054575858"
+        },
+        {
+          "title": "‘英 단독’ 일본 대표팀 GK ‘공개 비판’→“너무 불안해, 이적료 그정도면 승점 10은 책임질 실력 필요”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611110606003"
+        }
+      ]
+    },
+    {
+      "title": "세무사 수석",
+      "approx_traffic": "500+",
+      "published": "Wed, 11 Nov 2026 00:20:00 -0800",
+      "news": [
+        {
+          "title": "대기업 10년차·벼랑끝 자영업 거쳐 세무사시험 수석 합격한 한원석씨",
+          "source": "한국세정신문",
+          "url": "https://www.taxtimes.co.kr/news/article.html?no=277678"
+        },
+        {
+          "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
+          "source": "Daily NTN",
+          "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000154"
+        },
+        {
+          "title": "세무사고시회, 신입회원 환영회 개최…선배들의 경험과 노하우 전달로 도움 줘",
+          "source": "조세플러스",
+          "url": "https://joseplus.com/article/1065598875749453"
         }
       ]
     },
     {
       "title": "마운자로",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Wed, 11 Nov 2026 00:20:00 -0800",
       "news": [
         {
@@ -36,14 +146,36 @@
           "url": "https://www.khan.co.kr/article/202611111354001"
         },
         {
+          "title": "FDA \"위고비·마운자로 '실명 위험' 경고 추가해야\"‥국내도 검토 착수",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864647_37004.html"
+        },
+        {
           "title": "\"GLP-1 의약품, 시력 질환 가능성\"...식약처 서한 배포",
           "source": "YTN 사이언스",
           "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611111104057382"
+        }
+      ]
+    },
+    {
+      "title": "pakistan vs sri lanka",
+      "approx_traffic": "200+",
+      "published": "Wed, 11 Nov 2026 00:20:00 -0800",
+      "news": [
+        {
+          "title": "De Silva, Kamindu fifties guide Sri Lanka to 221-4 in first Test",
+          "source": "AFP.com",
+          "url": "https://www.afp.com/en/de-silva-kamindu-fifties-guide-sri-lanka-221-4-first-test"
         },
         {
-          "title": "美 FDA, 비만약에 ‘실명 위험’ 경고문구 의무화",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261111/135002963/2"
+          "title": "Shakeel, Saqib hand Pakistan the advantage against SL",
+          "source": "Guyana Chronicle",
+          "url": "https://guyanachronicle.com/2026/11/11/shakeel-saqib-hand-pakistan-the-advantage-against-sl/"
+        },
+        {
+          "title": "Tickets for second Test to go on sale from Thursday",
+          "source": "Pakistan Cricket Board (PCB)",
+          "url": "https://www.pcb.com.pk/press-release-detail/tickets-for-second-test-to-go-on-sale-from-thursday.html"
         }
       ]
     },
@@ -70,47 +202,8 @@
       ]
     },
     {
-      "title": "세무사 수석",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 00:20:00 -0800",
-      "news": [
-        {
-          "title": "대기업 10년차·벼랑끝 자영업 거쳐 세무사시험 수석 합격한 한원석씨",
-          "source": "한국세정신문",
-          "url": "https://www.taxtimes.co.kr/news/article.html?no=277678"
-        },
-        {
-          "title": "\"전 범위 공부.. 매일 새벽 4시 기상, 백지 복습\" [제63회 세무사시험-수석]",
-          "source": "조세일보",
-          "url": "https://m.joseilbo.com/news/view.htm?newsid=579361"
-        },
-        {
-          "title": "세무사고시회, 신입회원 환영회 개최…선배들의 경험과 노하우 전달로 도움 줘",
-          "source": "조세플러스",
-          "url": "https://joseplus.com/article/1065598875749453"
-        }
-      ]
-    },
-    {
-      "title": "pakistan vs sri lanka",
-      "approx_traffic": "200+",
-      "published": "Wed, 11 Nov 2026 00:20:00 -0800",
-      "news": [
-        {
-          "title": "De Silva, Kamindu fifties guide Sri Lanka to 221-4 in first Test",
-          "source": "AFP.com",
-          "url": "https://www.afp.com/en/de-silva-kamindu-fifties-guide-sri-lanka-221-4-first-test"
-        },
-        {
-          "title": "Pakistan Sri Lanka Cricket",
-          "source": "Idaho State Journal",
-          "url": "https://www.idahostatejournal.com/sports/national/pakistan-sri-lanka-cricket/image_43ce2c23-efb2-5115-a325-69bdef2ebceb.html"
-        }
-      ]
-    },
-    {
       "title": "임영웅",
-      "approx_traffic": "2000+",
+      "approx_traffic": "1000+",
       "published": "Wed, 11 Nov 2026 00:10:00 -0800",
       "news": [
         {
@@ -127,94 +220,6 @@
           "title": "임영웅, 스크린에서도 저력…'아임 히어로 더 스타디움 2' 예매율 1위",
           "source": "뉴스1",
           "url": "https://www.news1.kr/entertain/movie/6350522"
-        }
-      ]
-    },
-    {
-      "title": "쇠족제비",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 23:30:00 -0800",
-      "news": [
-        {
-          "title": "충주시, 멸종위기 야생생물 Ⅰ급 무산쇠족제비 서식 확인",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721517"
-        },
-        {
-          "title": "충주서 멸종위기 1급 '무산쇠족제비' 첫 발견",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111032900064"
-        },
-        {
-          "title": "충주 수안보서 멸종위기Ⅰ급 무산쇠족제비 발견",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261111_0003863269"
-        }
-      ]
-    },
-    {
-      "title": "최민희",
-      "approx_traffic": "200+",
-      "published": "Tue, 10 Nov 2026 23:30:00 -0800",
-      "news": [
-        {
-          "title": "사진기자들 겨냥해 \"하이에나 떼들\"‥최민희, 논란 커지자 사과",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6864817_36911.html"
-        },
-        {
-          "title": "최민희, 기자들에 “하이에나 떼” 논란일자 “부적절, 사과” …사진기자협회 “법적대응 검토”",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12327556"
-        },
-        {
-          "title": "최민희, 언론 ‘하이에나 떼들’ 표현에 “순간의 느낌 나눈 것”",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202611111548011"
-        }
-      ]
-    },
-    {
-      "title": "ai안경",
-      "approx_traffic": "2000+",
-      "published": "Tue, 10 Nov 2026 23:30:00 -0800",
-      "news": [
-        {
-          "title": "스마트안경 식별 연수",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261111_0021529469"
-        },
-        {
-          "title": "내신에서 ‘AI 안경’ 추가 적발…수능 D-10 ‘비상’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8708148"
-        },
-        {
-          "title": "[단독] 대학 중간고사까지 침투한 '스마트안경'...\"제도개선 시급\"",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611101101526896"
-        }
-      ]
-    },
-    {
-      "title": "조원태",
-      "approx_traffic": "500+",
-      "published": "Tue, 10 Nov 2026 23:10:00 -0800",
-      "news": [
-        {
-          "title": "최대주주는 호반, 경영권은 조원태…한진칼 지분전쟁 '장기전' 국면으로",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/10/2026111080054.html"
-        },
-        {
-          "title": "연일 상한가…한진칼 등 '지분경쟁·경영권 이슈' 우선주 급등",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111067900008"
-        },
-        {
-          "title": "드라마 ‘눈물의 여왕’처럼...호반, 야금야금 주식 사 모아 ‘한진칼’ 최대 주주 됐어요",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/kid/kid_economy/kid_honeybee/2026/11/10/CAK3JM35DRFPZDRSKVUOFQZCOY/"
         }
       ]
     }
