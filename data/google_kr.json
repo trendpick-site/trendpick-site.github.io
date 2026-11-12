@@ -1,11 +1,111 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-12T08:40:31+00:00",
+  "fetched_at": "2026-11-12T09:35:44+00:00",
   "items": [
     {
-      "title": "남대문 스카프 아저씨!",
+      "title": "국제 a 매치",
       "approx_traffic": "500+",
+      "published": "Thu, 12 Nov 2026 00:30:00 -0800",
+      "news": [
+        {
+          "title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611112246001"
+        },
+        {
+          "title": "악화된 여론에 돌아선 광고주…방송사도 외면하는 축구 국가대표팀",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261111_0003863106"
+        },
+        {
+          "title": "축구 A매치의 추락…저조한 성적·내분설에 추락한 대표팀 가치",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20113060"
+        }
+      ]
+    },
+    {
+      "title": "인벤",
+      "approx_traffic": "100+",
+      "published": "Thu, 12 Nov 2026 00:30:00 -0800",
+      "news": [
+        {
+          "title": "Lost Ark celebrates 8th anniversary with spooky event island",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/en/view.php?gid=1782950"
+        }
+      ]
+    },
+    {
+      "title": "035420",
+      "approx_traffic": "200+",
+      "published": "Thu, 12 Nov 2026 00:20:00 -0800",
+      "news": [
+        {
+          "title": "Naver's Q3 operating profit falls 21% as it bets on 2 trillion won deal, AI agent app and logistics subsidiary",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/en/tech/2026/11/12/2026111215474393674"
+        },
+        {
+          "title": "Naver Invests 1 Trillion Won in Logistics Subsidiary to Rival Coupang",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/industry-en/2026/11/12/WOYGY5QMONELFDD6RVYNLIY34Y/"
+        },
+        {
+          "title": "(LEAD) Naver Q3 operating profit down over 20 pct on AI investments",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20261112001451320"
+        }
+      ]
+    },
+    {
+      "title": "pakistan vs sri lanka",
+      "approx_traffic": "100+",
+      "published": "Thu, 12 Nov 2026 00:20:00 -0800",
+      "news": [
+        {
+          "title": "Saqib's 7-wicket total on debut holds Sri Lanka to a slender 1st-innings lead vs Pakistan",
+          "source": "FOX Sports",
+          "url": "https://www.foxsports.com/articles/soccer/saqibs-7wicket-total-on-debut-holds-sri-lanka-to-a-slender-1stinnings-lead-vs-pakistan"
+        },
+        {
+          "title": "De Silva, Kamindu fifties guide Sri Lanka to 221-4 in first Test",
+          "source": "AFP.com",
+          "url": "https://www.afp.com/en/de-silva-kamindu-fifties-guide-sri-lanka-221-4-first-test"
+        },
+        {
+          "title": "Ex-captain de Silva leads Sri Lanka to 221-4 on Day 3 of the 1st test against Pakistan",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/sports/2026/11/11/cricket-pakistan-srilanka-wtc/507f698a-dda2-11f1-912c-4fbb80d73f7f_story.html"
+        }
+      ]
+    },
+    {
+      "title": "이부진",
+      "approx_traffic": "200+",
+      "published": "Wed, 11 Nov 2026 23:40:00 -0800",
+      "news": [
+        {
+          "title": "이부진은 ‘3년 전 그 재킷’, 지수는 ‘레이디 디올’… 디올 패션도 화제",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/distribution/fashion-beauty/2026/11/12/JIUSC4EBL5CRHDZDBBHLYNCH7Y/"
+        },
+        {
+          "title": "이부진, 3년 전과 같은 ‘디올’ 재킷 입고…손하트 날렸다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261112/135016357/2"
+        },
+        {
+          "title": "이화여대 찾은 정의선 회장",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261112_0021530398"
+        }
+      ]
+    },
+    {
+      "title": "남대문 스카프 아저씨!",
+      "approx_traffic": "1000+",
       "published": "Wed, 11 Nov 2026 23:20:00 -0800",
       "news": [
         {
@@ -14,36 +114,36 @@
           "url": "https://www.mk.co.kr/news/hot-issues/12204120"
         },
         {
+          "title": "남대문 스카프 아저씨, 또 일냈다…온라인몰에 16만 명 몰리고 품절",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261112/135014534/2"
+        },
+        {
           "title": "남대문 스카프 아저씨, 또 대박…온라인몰 열자마자 ‘품절 대란’",
           "source": "JTBC",
           "url": "https://news.jtbc.co.kr/article/NB12327749"
-        },
-        {
-          "title": "\"그지 같은 거\" 와도 일단 사자…스카프 아저씨 온라인몰도 '품절' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/12/2026111214585239160"
         }
       ]
     },
     {
       "title": "김승우",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Wed, 11 Nov 2026 23:20:00 -0800",
       "news": [
+        {
+          "title": "배우 김승우 2200만원 절도 혐의로 고소당해...경찰 수사 중",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/11/12/J4R4ZLVOVFGRLLGUVLXBLJIHFA/"
+        },
+        {
+          "title": "배우 김승우, 절도 혐의 피소…“술자리 장난, 돌려줬다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261112/135016521/2"
+        },
         {
           "title": "[단독] 술자리 중 지갑에서 쓱? 배우 김승우 ‘절도 혐의’ 피소",
           "source": "일요신문",
           "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513574"
-        },
-        {
-          "title": "배우 김승우, 2200만 원 절도 혐의 피소…김승우 측 “장난이었고 이미 반환” 반박",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611121538003"
-        },
-        {
-          "title": "'170억 삼성동 주택' 김승우, 절도 혐의 피소..\"장난, 다 변제했다\" [Oh!쎈 이슈]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/12/GBSDQZBQMM3WCOJXGM4TEYJRGE/"
         }
       ]
     },
@@ -71,29 +171,29 @@
     },
     {
       "title": "방화",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Wed, 11 Nov 2026 23:00:00 -0800",
       "news": [
         {
-          "title": "'인천 송도 영어유치원 앞 방화' 60대, 구속심사 출석",
+          "title": "\"아들이 불을 질렀다\"...70대 경비원 심정지·14명 병원 이송",
+          "source": "KBC광주방송",
+          "url": "https://www.ikbc.co.kr/article/view/kbc202611110071"
+        },
+        {
+          "title": "'경비원 중태·13명 부상' 아파트 방화범 \"죽고 싶어서\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261112106200065"
+          "url": "https://www.yna.co.kr/view/AKR20261112162900054"
         },
         {
-          "title": "인천 송도 영어유치원 방화 60대 남성 영장심사…구속 갈림길",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112154618qE0"
-        },
-        {
-          "title": "“동업 해지에 불만”…송도 어린이집에 불 지른 60대 구속영장",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611111009011"
+          "title": "아파트 화재로 14명 중경상...40대 남성 '방화' 입건",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611120625401090"
         }
       ]
     },
     {
       "title": "근로장려금",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Wed, 11 Nov 2026 22:30:00 -0800",
       "news": [
         {
@@ -110,116 +210,6 @@
           "title": "근로장려금, 지금 월급보다 ‘지난해 소득·재산’ 먼저 확인해야",
           "source": "CBC뉴스",
           "url": "https://www.cbci.co.kr/news/articleView.html?idxno=625447"
-        }
-      ]
-    },
-    {
-      "title": "박희승",
-      "approx_traffic": "200+",
-      "published": "Wed, 11 Nov 2026 22:30:00 -0800",
-      "news": [
-        {
-          "title": "‘조희대 탄핵’ 강성 지지층에…與박희승 “후진국에서나 하는 일”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/11/12/L7XCXFNZHBE6FA5LMBNJRPMHZE/"
-        },
-        {
-          "title": "한덕수 석방 가능성에‥민주 \"좌시 않아\" 혁신당 \"즉각 탄핵\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6865090_36911.html"
-        },
-        {
-          "title": "[돌직구 인터뷰] 신장식 “민주당 개혁 후퇴…적대적 M&A식 합당은 거부”",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261111020588296"
-        }
-      ]
-    },
-    {
-      "title": "스마트글래스",
-      "approx_traffic": "1000+",
-      "published": "Wed, 11 Nov 2026 21:50:00 -0800",
-      "news": [
-        {
-          "title": "야외서도 잘 보이는 AR 스마트글래스 나온다…렌즈는 얇게, 화면은 선명하게",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/science/2026/11/12/BPIOUGQSFFELRAKPYYKR2V74XM/"
-        },
-        {
-          "title": "‘두께 1.5mm 렌즈’ AR안경 개발… 밝은 야외서 글자 선명",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261111/135009412/2"
-        },
-        {
-          "title": "AR 디스플레이 메타표면 도파로 개발 브리핑하는 노준석 포항공대 교수",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261109_0021526021"
-        }
-      ]
-    },
-    {
-      "title": "투자신탁",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 21:50:00 -0800",
-      "news": [
-        {
-          "title": "토스뱅크, 펀드 서비스 출시…국내외 주식·채권 등 17종 구성",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1196934"
-        },
-        {
-          "title": "토스뱅크, 통장 이자로 투자 가능한 ‘펀드 서비스’ 출시",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611121657041"
-        },
-        {
-          "title": "토스뱅크, 펀드 서비스 출시…“통장 이자로 펀드 모은다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261112/135014163/1"
-        }
-      ]
-    },
-    {
-      "title": "김현석",
-      "approx_traffic": "200+",
-      "published": "Wed, 11 Nov 2026 21:30:00 -0800",
-      "news": [
-        {
-          "title": "K리그1 울산, 김현석 감독과 계약 연장 안 해‥시즌 끝으로 결별",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6865085_36946.html"
-        },
-        {
-          "title": "K리그1 울산, 김현석 감독과 올 시즌 끝으로 결별",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261112040600007"
-        },
-        {
-          "title": "[오피셜] 울산 2위까지 끌어올렸는데... '미스터 울산' 김현석 감독, 올 시즌 끝으로 지휘봉 놓는다 \"예전의 영광 완전히 되찾기를\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/12/2026111210254758136"
-        }
-      ]
-    },
-    {
-      "title": "혜리",
-      "approx_traffic": "200+",
-      "published": "Wed, 11 Nov 2026 21:30:00 -0800",
-      "news": [
-        {
-          "title": "[주간! 대중문화] 혜리 첫 MC 도전…베스티 ‘역주행’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709483"
-        },
-        {
-          "title": "혜리 맞아? 하루 만에 딴 사람..아방가르드 패션→고혹적 시스루 '패알못' 불명예 탈출 [핫피플]",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/GI2TAYZYG5SGCYZQGBRDONLDMU/"
-        },
-        {
-          "title": "혜리, 단발 파격 변신…미모에 카리스마까지 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6350369"
         }
       ]
     }
