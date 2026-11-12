@@ -1,35 +1,134 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-12T03:58:03+00:00",
+  "fetched_at": "2026-11-12T05:04:00+00:00",
   "items": [
     {
-      "title": "김현지",
-      "approx_traffic": "200+",
-      "published": "Wed, 11 Nov 2026 18:50:00 -0800",
+      "title": "베트남 u-23 축구 국가대표팀",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 20:00:00 -0800",
       "news": [
         {
-          "title": "[단독]이용철, 대장동 아는 것 없다더니···2014년 김용에 “연구 진행하는 것 많아” 답변",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611111808011"
+          "title": "송람응에안 선수가 태국 U23 대표팀과의 경기에서 인상적인 활약을 펼쳤습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/cau-thu-song-lam-nghe-an-ghi-dau-an-truoc-u23-thai-lan"
         },
         {
-          "title": "정점식 “법무장관 기준 1순위가 ’탈옥 도우미 능력’ 돼버려“",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611121022563Ay"
+          "title": "U23 베트남 공격수, 태국전 멀티골 후 특별한 의미 공개",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/the-thao/tien-dao-u23-viet-nam-tiet-lo-y-nghia-dac-biet-sau-cu-dup-vao-luoi-thai-lan-1798264.ldo"
         },
         {
-          "title": "“장동혁, 당원 30% 기반 보유…나머지 당권주자 합쳐도 안돼”[정치를 부탁해]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261111/135010084/1"
+          "title": "HAGL의 젊은 스타가 눈부시게 빛나고 있다: 듀크 회장의 20년 이상 축구계에 몸담은 공로가 드러난다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/sao-tre-hagl-ruc-sang-dau-an-lam-bong-da-hon-hai-thap-ky-cua-bau-duc"
         }
       ]
     },
     {
-      "title": "교장",
+      "title": "장례",
+      "approx_traffic": "2000+",
+      "published": "Wed, 11 Nov 2026 19:30:00 -0800",
+      "news": [
+        {
+          "title": "가스공사, 대구파티마병원과 장례식장 다회용기 사용 본격 추진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20261112004100353"
+        },
+        {
+          "title": "인천광역시, 일상 속 자원순환 확산 강화",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20261110500440"
+        },
+        {
+          "title": "인천시, 캠핑장·전통시장·장례식장까지 다회용기 보급 확대",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336396"
+        }
+      ]
+    },
+    {
+      "title": "이건희",
       "approx_traffic": "200+",
+      "published": "Wed, 11 Nov 2026 19:30:00 -0800",
+      "news": [
+        {
+          "title": "[fn광장] 생각 좀 하며 세상을 보자",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611111824059783"
+        },
+        {
+          "title": "반도체 호황에 들뜬 삼성에 내린 이건희의 죽비",
+          "source": "신동아",
+          "url": "https://shindonga.donga.com/economy/article/all/13/6452368/1"
+        },
+        {
+          "title": "[매일 탑 리더스 아카데미] 허문명 동아일보 논설위원 '고 이건희 삼성 회장, 반도체 위해 경제 사상을 정립했다'",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026111010501989311"
+        }
+      ]
+    },
+    {
+      "title": "포틀랜드 대 오클라호마시티",
+      "approx_traffic": "200+",
+      "published": "Wed, 11 Nov 2026 19:30:00 -0800",
+      "news": [
+        {
+          "title": "[오클라호마시티 포틀랜드] 코트 떠나는 길저스-알렉산더",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749104"
+        },
+        {
+          "title": "릴라드 25점…포틀랜드, 오클라호마시티 20점 차 완파·4연승 저지",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2647239?trc=main_list_news"
+        },
+        {
+          "title": "[오클라호마시티 포틀랜드] 3점슛 넣는 아브디야",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748963"
+        }
+      ]
+    },
+    {
+      "title": "200만달러",
+      "approx_traffic": "200+",
+      "published": "Wed, 11 Nov 2026 19:30:00 -0800",
+      "news": [
+        {
+          "title": "프로야구 LG, 오스틴 딘과 재계약‥역대 외국인 타자 최고 연봉",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6865096_36946.html"
+        },
+        {
+          "title": "41홈런 거포 오스틴, LG와 200만 달러에 재계약…외인 타자 최고 대우",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710827"
+        },
+        {
+          "title": "프로야구 LG, 오스틴과 1년 더…KBO 외인 타자 중 ’최고 금액’",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611121048062DD"
+        }
+      ]
+    },
+    {
+      "title": "담배값 인상",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 19:20:00 -0800",
+      "news": []
+    },
+    {
+      "title": "교장",
+      "approx_traffic": "500+",
       "published": "Wed, 11 Nov 2026 18:50:00 -0800",
       "news": [
+        {
+          "title": "교장 신분으로 정책국장에 부교육감 대리까지…장연국 도의원 “법적 근거 뭐냐”",
+          "source": "전북일보 인터넷신문",
+          "url": "https://www.jjan.kr/article/20261111500426"
+        },
         {
           "title": "\"교장 신분 정책국장이 부교육감 직무대리?\"…전북교육청 질타",
           "source": "연합뉴스",
@@ -39,187 +138,72 @@
           "title": "'행감 공부 안한' 전북교육청…뿔난 전북도의회",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261111_0003863620"
+        }
+      ]
+    },
+    {
+      "title": "김현지",
+      "approx_traffic": "200+",
+      "published": "Wed, 11 Nov 2026 18:50:00 -0800",
+      "news": [
+        {
+          "title": "장동혁, 이용철에 이념 공세 \"이석기와 연결‥등골이 오싹\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865105_36911.html"
         },
         {
-          "title": "전북교육청이 7년간 추진한 '전북교육기록원 설립' 돌연 취소 논란",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/jeonbuk/6349637"
+          "title": "[단독]이용철, 성남진흥재단대표 취임후 ‘대장동·위례’ 육성 사업으로 명시",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11630848"
+        },
+        {
+          "title": "정점식 \"법무장관 기준 1순위가 '탈옥 도우미 능력' 돼버려\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261112053800001"
         }
       ]
     },
     {
       "title": "소방",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Wed, 11 Nov 2026 18:40:00 -0800",
       "news": [
         {
-          "title": "창녕군-소방서 합동훈련 실시…40여 명 참여, 화재대응 실습",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749714"
+          "title": "동두천소방서 30년 이상 장기근속 소방공무원 공로패 수여",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336637"
         },
         {
-          "title": "함평군 보건소, 함평소방서와 함께한 합동 소방 훈련 성료",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=803063"
+          "title": "전남광주소방, 광산구 폐기물업체 화재 '상황관리 검토회의' 개최 - 보도자료 | 기사",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/releasecopy/2388035.htm"
         },
         {
-          "title": "금산군의회, 소방서와 합동 소방훈련…청사 화재 상황 가정",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/daejeon-chungnam/6348873"
+          "title": "\"폐목재 756톤 쌓인 곳서 불\"…14시간 만에 완진",
+          "source": "KBC광주방송",
+          "url": "https://www.ikbc.co.kr/%EC%82%AC%ED%9A%8C/article/view/kbc202611100029"
         }
       ]
     },
     {
       "title": "apbc 중계",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Wed, 11 Nov 2026 18:30:00 -0800",
       "news": [
+        {
+          "title": "한일전 12연속 무승, 삼성 김지찬 우승 기운 전파하겠다!",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710671"
+        },
+        {
+          "title": "[사진]개회식에 나가는 김도영",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/12/MY3GMZJXG44WIMDGMNQTOMTEMI/"
+        },
         {
           "title": "슈퍼스타 김도영, 도쿄돔을 휘저어라…12일 호주와 APBC 첫 경기",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261111095900007"
-        },
-        {
-          "title": "선발 전환하자마자 국제대회까지…韓 우승 길목에서 중책 맡았다 \"SSG 위상 높이려면 우리가 잘해야\" [오!쎈 도쿄] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/12/202611121111771013O"
-        },
-        {
-          "title": "컴투스, '2026 아시아 프로야구 챔피언십' 한국 대표팀 공식 후원",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261111140130"
-        }
-      ]
-    },
-    {
-      "title": "류효승",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 18:20:00 -0800",
-      "news": [
-        {
-          "title": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710823"
-        },
-        {
-          "title": "[공식발표] ‘SK→KIA→SSG’ 37살 우승 포수 전격 방출…‘고작 30살’ 거포 유망주 은퇴 선언 ‘SSG 선수단 칼바람’ - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/12/202611121010778945O"
-        },
-        {
-          "title": "프로야구 SSG, 김민식·류효승 등 5명 방출…선수단 재정비",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6351552"
-        }
-      ]
-    },
-    {
-      "title": "sk그룹",
-      "approx_traffic": "500+",
-      "published": "Wed, 11 Nov 2026 18:00:00 -0800",
-      "news": [
-        {
-          "title": "SK그룹, 최태원 주재 CEO 세미나 연다…AI 사업 전략 점검",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261111/135007966/1"
-        },
-        {
-          "title": "SK그룹, 최태원 주재 CEO 세미나 시작…2박3일 간 ‘AI’ 놓고 토론",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/company/2026/11/12/56NA3KFCVZF4VGFGBTNQDQ32EM/"
-        },
-        {
-          "title": "[리포트 브리핑]SK, '포트폴리오 및 주주환원 강화 기대' 목표가 680,000원 - NH투자증권",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261111000965"
-        }
-      ]
-    },
-    {
-      "title": "던파",
-      "approx_traffic": "500+",
-      "published": "Wed, 11 Nov 2026 18:00:00 -0800",
-      "news": [
-        {
-          "title": "[단독] \"창립 이래 최대 위기\"…'게임 1위' 넥슨에 무슨 일이",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111084471"
-        },
-        {
-          "title": "[속보] 넥슨, 3분기 영업익 3718억원…매출 1조2312억원 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2169714"
-        },
-        {
-          "title": "넥슨·크래프톤 1위 쟁탈전 격화…AI·신작 강화로 수익성 방어 총력",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026111109253701835"
-        }
-      ]
-    },
-    {
-      "title": "베이비몬스터",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 18:00:00 -0800",
-      "news": [
-        {
-          "title": "블핑 지수·이날치·NCT·베이비몬스터, 내년 ‘코첼라’ 뜬다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710037"
-        },
-        {
-          "title": "내년 코첼라 NCT 무대 베일 벗었다…127·드림, 동반 출격·합동 무대",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261112_0003864880"
-        },
-        {
-          "title": "블랙핑크부터 빅뱅까지..YG가 코첼라에서 쓴 역사, 다음은 베이비몬스터 [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/11/12/GFSDEYRRGU3TANRSGRTGCYRVMQ/"
-        }
-      ]
-    },
-    {
-      "title": "이슬람 혁명 수비대",
-      "approx_traffic": "200+",
-      "published": "Wed, 11 Nov 2026 17:50:00 -0800",
-      "news": [
-        {
-          "title": "이란, ‘미사일 도시’ 공개…트럼프 “전쟁 곧 끝날 것”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710572"
-        },
-        {
-          "title": "\"이란전 곧 끝날 것\"‥보란 듯 '미사일 기지' 과시",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6865136_36967.html"
-        },
-        {
-          "title": "이란 혁명수비대, 첨단 무기 가득한 ’지하 미사일 도시’ 공개",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR2026111206190730I"
-        }
-      ]
-    },
-    {
-      "title": "천무 다연장로켓",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 17:50:00 -0800",
-      "news": [
-        {
-          "title": "한화, 美해상서 ‘천무’ 쏜다… 방산·조선 동시 확장",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20112039"
-        },
-        {
-          "title": "203조 투자 약속했지만 美 군함 발주는 아직…K-조선, 정책 분수령",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/economy/2387591.htm"
-        },
-        {
-          "title": "한화, 美상륙함 수주·태국 호위함 우선협상…글로벌 경쟁력 입증",
-          "source": "아시아타임즈",
-          "url": "https://www.asiatime.co.kr/article/20261110500200"
         }
       ]
     }
