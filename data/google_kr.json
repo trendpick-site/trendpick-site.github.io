@@ -1,11 +1,187 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-12T02:55:26+00:00",
+  "fetched_at": "2026-11-12T03:58:03+00:00",
   "items": [
     {
-      "title": "이슬람 혁명 수비대",
+      "title": "김현지",
+      "approx_traffic": "200+",
+      "published": "Wed, 11 Nov 2026 18:50:00 -0800",
+      "news": [
+        {
+          "title": "[단독]이용철, 대장동 아는 것 없다더니···2014년 김용에 “연구 진행하는 것 많아” 답변",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611111808011"
+        },
+        {
+          "title": "정점식 “법무장관 기준 1순위가 ’탈옥 도우미 능력’ 돼버려“",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611121022563Ay"
+        },
+        {
+          "title": "“장동혁, 당원 30% 기반 보유…나머지 당권주자 합쳐도 안돼”[정치를 부탁해]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261111/135010084/1"
+        }
+      ]
+    },
+    {
+      "title": "교장",
+      "approx_traffic": "200+",
+      "published": "Wed, 11 Nov 2026 18:50:00 -0800",
+      "news": [
+        {
+          "title": "\"교장 신분 정책국장이 부교육감 직무대리?\"…전북교육청 질타",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261111131500055"
+        },
+        {
+          "title": "'행감 공부 안한' 전북교육청…뿔난 전북도의회",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261111_0003863620"
+        },
+        {
+          "title": "전북교육청이 7년간 추진한 '전북교육기록원 설립' 돌연 취소 논란",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/jeonbuk/6349637"
+        }
+      ]
+    },
+    {
+      "title": "소방",
+      "approx_traffic": "1000+",
+      "published": "Wed, 11 Nov 2026 18:40:00 -0800",
+      "news": [
+        {
+          "title": "창녕군-소방서 합동훈련 실시…40여 명 참여, 화재대응 실습",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749714"
+        },
+        {
+          "title": "함평군 보건소, 함평소방서와 함께한 합동 소방 훈련 성료",
+          "source": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=803063"
+        },
+        {
+          "title": "금산군의회, 소방서와 합동 소방훈련…청사 화재 상황 가정",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/daejeon-chungnam/6348873"
+        }
+      ]
+    },
+    {
+      "title": "apbc 중계",
+      "approx_traffic": "500+",
+      "published": "Wed, 11 Nov 2026 18:30:00 -0800",
+      "news": [
+        {
+          "title": "슈퍼스타 김도영, 도쿄돔을 휘저어라…12일 호주와 APBC 첫 경기",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261111095900007"
+        },
+        {
+          "title": "선발 전환하자마자 국제대회까지…韓 우승 길목에서 중책 맡았다 \"SSG 위상 높이려면 우리가 잘해야\" [오!쎈 도쿄] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/12/202611121111771013O"
+        },
+        {
+          "title": "컴투스, '2026 아시아 프로야구 챔피언십' 한국 대표팀 공식 후원",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261111140130"
+        }
+      ]
+    },
+    {
+      "title": "류효승",
       "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 18:20:00 -0800",
+      "news": [
+        {
+          "title": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710823"
+        },
+        {
+          "title": "[공식발표] ‘SK→KIA→SSG’ 37살 우승 포수 전격 방출…‘고작 30살’ 거포 유망주 은퇴 선언 ‘SSG 선수단 칼바람’ - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/12/202611121010778945O"
+        },
+        {
+          "title": "프로야구 SSG, 김민식·류효승 등 5명 방출…선수단 재정비",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6351552"
+        }
+      ]
+    },
+    {
+      "title": "sk그룹",
+      "approx_traffic": "500+",
+      "published": "Wed, 11 Nov 2026 18:00:00 -0800",
+      "news": [
+        {
+          "title": "SK그룹, 최태원 주재 CEO 세미나 연다…AI 사업 전략 점검",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261111/135007966/1"
+        },
+        {
+          "title": "SK그룹, 최태원 주재 CEO 세미나 시작…2박3일 간 ‘AI’ 놓고 토론",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/company/2026/11/12/56NA3KFCVZF4VGFGBTNQDQ32EM/"
+        },
+        {
+          "title": "[리포트 브리핑]SK, '포트폴리오 및 주주환원 강화 기대' 목표가 680,000원 - NH투자증권",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261111000965"
+        }
+      ]
+    },
+    {
+      "title": "던파",
+      "approx_traffic": "500+",
+      "published": "Wed, 11 Nov 2026 18:00:00 -0800",
+      "news": [
+        {
+          "title": "[단독] \"창립 이래 최대 위기\"…'게임 1위' 넥슨에 무슨 일이",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111084471"
+        },
+        {
+          "title": "[속보] 넥슨, 3분기 영업익 3718억원…매출 1조2312억원 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2169714"
+        },
+        {
+          "title": "넥슨·크래프톤 1위 쟁탈전 격화…AI·신작 강화로 수익성 방어 총력",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026111109253701835"
+        }
+      ]
+    },
+    {
+      "title": "베이비몬스터",
+      "approx_traffic": "100+",
+      "published": "Wed, 11 Nov 2026 18:00:00 -0800",
+      "news": [
+        {
+          "title": "블핑 지수·이날치·NCT·베이비몬스터, 내년 ‘코첼라’ 뜬다",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710037"
+        },
+        {
+          "title": "내년 코첼라 NCT 무대 베일 벗었다…127·드림, 동반 출격·합동 무대",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261112_0003864880"
+        },
+        {
+          "title": "블랙핑크부터 빅뱅까지..YG가 코첼라에서 쓴 역사, 다음은 베이비몬스터 [Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/music/2026/11/12/GFSDEYRRGU3TANRSGRTGCYRVMQ/"
+        }
+      ]
+    },
+    {
+      "title": "이슬람 혁명 수비대",
+      "approx_traffic": "200+",
       "published": "Wed, 11 Nov 2026 17:50:00 -0800",
       "news": [
         {
@@ -14,14 +190,14 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8710572"
         },
         {
-          "title": "이란 안보수장 \"美 공격 시 유럽에 있는 미국 군사기지도 공격 가능\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444274"
+          "title": "\"이란전 곧 끝날 것\"‥보란 듯 '미사일 기지' 과시",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6865136_36967.html"
         },
         {
-          "title": "이란측 “美 ‘공격 불필요’는 기만, 곧 공습…우리가 선제공격할 수도”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261112/135012496/1"
+          "title": "이란 혁명수비대, 첨단 무기 가득한 ’지하 미사일 도시’ 공개",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR2026111206190730I"
         }
       ]
     },
@@ -44,177 +220,6 @@
           "title": "한화, 美상륙함 수주·태국 호위함 우선협상…글로벌 경쟁력 입증",
           "source": "아시아타임즈",
           "url": "https://www.asiatime.co.kr/article/20261110500200"
-        }
-      ]
-    },
-    {
-      "title": "땅집고",
-      "approx_traffic": "2000+",
-      "published": "Wed, 11 Nov 2026 17:40:00 -0800",
-      "news": [
-        {
-          "title": "퇴직금 1억으로 카페 차린 50대, 4개월 만에 쫄딱 망한 이유는",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/11/2026111102986.html"
-        },
-        {
-          "title": "[황승연의 타임캡슐] 퇴직은 했지만 은퇴는 못하는 나라",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20261110144003409"
-        },
-        {
-          "title": "\"퇴직금 털어 창업했다간 집까지 날립니다\"…5060 자영업의 뼈아픈 진실",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261105_0003856293"
-        }
-      ]
-    },
-    {
-      "title": "제주항공",
-      "approx_traffic": "500+",
-      "published": "Wed, 11 Nov 2026 17:40:00 -0800",
-      "news": [
-        {
-          "title": "제주항공 주식 하락, 쪼그라든 제주도 자산? \"주식이 다가 아니다\"",
-          "source": "미디어제주",
-          "url": "https://www.mediajeju.com/news/articleView.html?idxno=367301"
-        },
-        {
-          "title": "제주도 '제주항공 주식' 평가액 319억 증발…지분율도 25→3% 뚝",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/jeju/6350354"
-        },
-        {
-          "title": "제주도, 제주항공 지분율 ‘뚝’…“대안 필요”",
-          "source": "제주도민일보",
-          "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=402222"
-        }
-      ]
-    },
-    {
-      "title": "jyp",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 17:40:00 -0800",
-      "news": [
-        {
-          "title": "Eugene Securities raises JYP Ent target as Stray Kids fuel Western gains",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-finance/2026/11/12/RSYHOSBQONFVNNXQJ2TGOCGSUE/"
-        },
-        {
-          "title": "JYP posts surprise earnings led by Stray Kids; rookie success is the next challenge",
-          "source": "파이낸셜뉴스",
-          "url": "https://en.fnnews.com/news/202611120722287101"
-        },
-        {
-          "title": "JYP Entertainment Jumps 18% on Stray Kids Album Sales",
-          "source": "Seoul Economic Daily",
-          "url": "https://en.sedaily.com/market/2026/11/12/jyp-entertainment-jumps-18-percent-on-stray-kids-album-sales"
-        }
-      ]
-    },
-    {
-      "title": "신유빈",
-      "approx_traffic": "500+",
-      "published": "Wed, 11 Nov 2026 17:30:00 -0800",
-      "news": [
-        {
-          "title": "신유빈, 일본에 공포였구나…'日 에이스' 하리모토 미와 \"제일 힘들어\"→\"다시 만나고 싶지 않다\" 깜짝 고백",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2218481"
-        },
-        {
-          "title": "아이찡보다 18년 먼저 온 ‘탁구판 비밀병기’ 톈민웨이",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261109515368"
-        }
-      ]
-    },
-    {
-      "title": "이더리움",
-      "approx_traffic": "200+",
-      "published": "Wed, 11 Nov 2026 17:30:00 -0800",
-      "news": [
-        {
-          "title": "Bitmine, 암호화폐·현금 보유액 143억 달러 발표",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/company-news/article-93CH-2166262"
-        },
-        {
-          "title": "\"암호화폐 강세장은 이제 시작!\" 톰 리, 이더리움 약세에도 낙관론 고수",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/269188"
-        },
-        {
-          "title": "이더리움 하락 '직격탄'…비트마인, 올해 회계연도 62억弗 순손실",
-          "source": "블루밍비트",
-          "url": "https://bloomingbit.io/feed/news/124194"
-        }
-      ]
-    },
-    {
-      "title": "은행나무",
-      "approx_traffic": "100+",
-      "published": "Wed, 11 Nov 2026 17:30:00 -0800",
-      "news": [
-        {
-          "title": "‘인생샷’ 찍으려 차도 점령…외국인 몰린 서울 단풍명소 몸살",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/11/12/B3JAWSQ3TFB63CABDZRNXJ5DJU/"
-        },
-        {
-          "title": "[픽! 영동] 샛노랗게 물든 1천살 영국사 은행나무",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111085700064"
-        },
-        {
-          "title": "황금빛 옷 갈아입은 영국사 은행나무…\"시화도 즐기세요\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261111_0003863375"
-        }
-      ]
-    },
-    {
-      "title": "물류신문",
-      "approx_traffic": "500+",
-      "published": "Wed, 11 Nov 2026 17:00:00 -0800",
-      "news": [
-        {
-          "title": "네이버, 물류 자회사 만든다…쿠팡 로켓배송에 도전장 [정지은의 테크킥]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611111374i"
-        },
-        {
-          "title": "네이버, 쿠팡 맞서 물류 자회사 세우고 ‘AI 비서’도 연내 출시",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/11/12/RD2KURCFJNFGPIUDM3ZM3S6N7Q/"
-        },
-        {
-          "title": "네이버, 매출 늘어도 이익률은 '뚝'…AI 투자에 본업 수익성 압박(종합)",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444345"
-        }
-      ]
-    },
-    {
-      "title": "교사",
-      "approx_traffic": "1000+",
-      "published": "Wed, 11 Nov 2026 16:50:00 -0800",
-      "news": [
-        {
-          "title": "초등 '3시 하교제' 공론화 무산…돌봄체계 개선 목소리",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=847014"
-        },
-        {
-          "title": "8년 만에 다시 꺼낸 ‘3시 하교’…교사 반발에 없던 일로",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20112602"
-        },
-        {
-          "title": "설익은 정책 ‘던져놓기’, 조율은 또 협의체…국교위 역할론 도마에",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2646940"
         }
       ]
     }
