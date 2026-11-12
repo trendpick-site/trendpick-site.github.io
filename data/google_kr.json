@@ -1,166 +1,144 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-12T19:58:08+00:00",
+  "fetched_at": "2026-11-12T20:54:12+00:00",
   "items": [
     {
-      "title": "손준호",
+      "title": "물류",
       "approx_traffic": "500+",
-      "published": "Thu, 12 Nov 2026 10:40:00 -0800",
+      "published": "Thu, 12 Nov 2026 11:50:00 -0800",
       "news": [
         {
-          "title": "“손준호가 두 명?”…♥김소현 14살 子, 아빠 붕어빵 비주얼 [DA★]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261112/135016925/1"
+          "title": "네이버 \"55MW 규모 AI 팩토리, 내년 상반기 상용화…물류 자회사 설립도\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261112095600"
         },
         {
-          "title": "김소현♥손준호 아들 주안이 벌써 14세…몰라보게 폭풍성장 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6352117"
+          "title": "네이버 “플랫폼 이익률 30% 회복 쉽지 않아… 25% 유지 목표” [네이버 컨콜]",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000855"
         },
         {
-          "title": "“누가 손준호야?” 김소현♥손준호 子 주안, 아빠 쏙 빼닮은 ‘폭풍 성장’ 근황",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611121717003"
-        }
-      ]
-    },
-    {
-      "title": "outlook",
-      "approx_traffic": "100+",
-      "published": "Thu, 12 Nov 2026 10:30:00 -0800",
-      "news": [
-        {
-          "title": "Is Microsoft Outlook down? Company investigates error reports from users",
-          "source": "NBC 5 Chicago",
-          "url": "https://www.nbcchicago.com/news/local/is-microsoft-outlook-down-company-investigates-error-reports-from-users/4015769/"
-        },
-        {
-          "title": "Microsoft Outlook Down for Thousands of Users, Downdetector Shows",
-          "source": "GV Wire",
-          "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/"
-        },
-        {
-          "title": "Is Outlook down? Widespread outage hits Microsoft apps",
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/tech/tech-news/outlook-widespread-outage-hits-microsoft-apps-rcna609047"
-        }
-      ]
-    },
-    {
-      "title": "공장",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 10:00:00 -0800",
-      "news": [
-        {
-          "title": "재난문자",
-          "source": "KBS 재난포털",
-          "url": "https://d.kbs.co.kr/info/messageView?seq=206635&areaCd=10714"
-        },
-        {
-          "title": "경북 경산 골판지 제조업체 불‥대응 1단계 발령",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865277_36918.html"
-        },
-        {
-          "title": "경산 진량읍 공장서 화재…소방당국 대응 1단계 발령",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261112_0003866287"
-        }
-      ]
-    },
-    {
-      "title": "이자",
-      "approx_traffic": "500+",
-      "published": "Thu, 12 Nov 2026 09:40:00 -0800",
-      "news": [
-        {
-          "title": "우리은행, 삼성금융과 '모니모 전용' 입출금·적금·예금 상품",
+          "title": "네이버, 검색부터 예약·결제까지 AI가 대신…연내 앱 출시",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261112064200002"
-        },
-        {
-          "title": "우리은행, 최대 4% '모니모 매일이자' 통장 출시",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261112_0003865131"
-        },
-        {
-          "title": "통장에 하루만 맡겨도 이자가 꼬박꼬박...'매일 이자' 상품 눈길",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611122099i"
+          "url": "https://www.yna.co.kr/view/AKR20261112073100017"
         }
       ]
     },
     {
-      "title": "국제 a매치",
-      "approx_traffic": "2000+",
-      "published": "Thu, 12 Nov 2026 09:30:00 -0800",
+      "title": "시청률",
+      "approx_traffic": "500+",
+      "published": "Thu, 12 Nov 2026 11:40:00 -0800",
       "news": [
         {
-          "title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611112246001"
-        },
-        {
-          "title": "‘흥행 보증수표’의 몰락…외면 받는 한국 축구 A매치",
-          "source": "스포츠월드",
-          "url": "https://www.sportsworldi.com/newsView/20261112514439"
-        },
-        {
-          "title": "악화된 여론에 돌아선 광고주…방송사도 외면하는 축구 국가대표팀",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261111_0003863106"
-        }
-      ]
-    },
-    {
-      "title": "김승원",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 08:30:00 -0800",
-      "news": [
-        {
-          "title": "공소청, 김승원 ‘신약 청탁 의혹’ 브로커에 징역 4년 구형",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711265"
-        },
-        {
-          "title": "‘김승원 청탁의혹’ 브로커 양 모 씨 징역 4년 구형",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12327827"
-        },
-        {
-          "title": "공소청, '김승원 청탁의혹' 브로커에 징역 4년·제넨셀 설립자는 징역 6개월 구형",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865225_36918.html"
-        }
-      ]
-    },
-    {
-      "title": "정선희",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 08:30:00 -0800",
-      "news": [
-        {
-          "title": "자기연민 고백한 정선희, 몰라보게 야윈 근황…김영철 '깜짝' - 머니투데이",
+          "title": "\"40시간 밤샘 촬영에 주먹다짐?\"…김윤석, 나홍진 감독과 불화설 해명 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111215551129077"
+          "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111206010266536"
         },
         {
-          "title": "정선희 \"강호동, 녹화하면 48시간…괴수였다\"",
+          "title": "김윤석, 데뷔 38년 만에 첫 예능 출연…유재석 만난다",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261112_0003865201"
+          "url": "https://www.newsis.com/view/NISX20261111_0003863708"
         },
         {
-          "title": "\"괴수였다\"…정선희, 전성기 시절 강호동 회상 [소셜in]",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524590"
+          "title": "김윤석 파워 이 정도였어? ‘유퀴즈’ 시청률 대폭 상승 ‘동시간대 1위’[美친시청률]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/HA2DCODCGRSGMMLGGMYWCNTCGA/"
         }
       ]
     },
     {
-      "title": "네이션스리그",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 08:10:00 -0800",
+      "title": "김하성",
+      "approx_traffic": "500+",
+      "published": "Thu, 12 Nov 2026 11:40:00 -0800",
+      "news": [
+        {
+          "title": "“필라델피아, FA 김하성 영입 검토…단기 계약 내야수 찾는다”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708449"
+        },
+        {
+          "title": "한국 돌아갈 일 없다! 타율 .116 최악의 해였는데…김하성 FA 인기 폭발 \"예상보다 높은 관심, 1년 계약 모색\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/13/202611121142773551O"
+        },
+        {
+          "title": "'김하성 시애틀 링크' 초대박! 가성비 선택지 3인 거론→3루수 활용 가능성까지…부상 없이 타격 생산성 회복 기대",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-11-12/202611120100087870008295"
+        }
+      ]
+    },
+    {
+      "title": "디에고 시메오네",
+      "approx_traffic": "100+",
+      "published": "Thu, 12 Nov 2026 11:40:00 -0800",
+      "news": [
+        {
+          "title": "'이강인 포함 18명 이탈' ATM 또 대형악재! '훈련 정상진행 불가' 긴급 수혈…시메오네 한숨 깊어진다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/10/GM2WIMBUMFRGCZTEGBTDGNDFHA/"
+        },
+        {
+          "title": "'이강인 대표팀 다녀오더니 이상하다' 아틀레티코 현지서 집중 분석…'8경기 풀타임 0회·공격P 0개' 의문 폭발",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100687"
+        },
+        {
+          "title": "이강인 초대형 호재, 최고의 오피셜 뜬다...'명장' 시메오네 아틀레티코와 2년 재계약 유력 \"수 개월 내 공식발표\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-11-10/202611100100069410006470"
+        }
+      ]
+    },
+    {
+      "title": "김상식",
+      "approx_traffic": "100+",
+      "published": "Thu, 12 Nov 2026 11:30:00 -0800",
+      "news": [
+        {
+          "title": "딘 박은 호날두를 우상으로 여기기 때문에 7번 유니폼을 입는 것을 좋아하며, 호날두가 국가대표팀에서 8골을 넣었다는 사실에 '놀랍다'고 말합니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/dinh-bac-thich-mac-ao-so-7-vi-than-tuong-ronaldo-ngo-ngang-vi-da-ghi-8-ban-cho-doi-tuyen"
+        },
+        {
+          "title": "베트남 축구, 대만 감독 \"2-0 승리도 적어…베트남이 압도적 클래스\"",
+          "source": "씬짜오베트남",
+          "url": "https://chaovietnam.co.kr/194254/"
+        },
+        {
+          "title": "[축구] 김상식 감독, 베트남 대표팀 2-0 승리 후 \"새 선수들 빠르게 적응… 조금씩 변화 시도\"",
+          "source": "굿모닝베트남미디어",
+          "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=84543"
+        }
+      ]
+    },
+    {
+      "title": "구미시",
+      "approx_traffic": "100+",
+      "published": "Thu, 12 Nov 2026 11:30:00 -0800",
+      "news": [
+        {
+          "title": "구미시, 공공시설은 더 쾌적하게...공공건축 품질은 더 꼼꼼하게",
+          "source": "프레시안",
+          "url": "https://www.pressian.com/pages/articles/2026111209230530983"
+        },
+        {
+          "title": "구미 인동보건지소, 실내외 시설 새단장",
+          "source": "www.hidomin.com",
+          "url": "https://www.hidomin.com/news/articleView.html?idxno=729101"
+        },
+        {
+          "title": "천안시, 건축직 공무원 직무교육 ··· 실무 대응력·전문성 강화",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1191430"
+        }
+      ]
+    },
+    {
+      "title": "잉글랜드 대 크로아티아",
+      "approx_traffic": "1000+",
+      "published": "Thu, 12 Nov 2026 11:20:00 -0800",
       "news": [
         {
           "title": "잉글랜드 대 크로아티아 경기 예측, 11월 13일 오전 2시 45분: 잉글랜드, 8강 진출 확정",
@@ -180,46 +158,68 @@
       ]
     },
     {
-      "title": "안성현",
+      "title": "정웅인",
       "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 07:40:00 -0800",
+      "published": "Thu, 12 Nov 2026 11:20:00 -0800",
       "news": [
         {
-          "title": "‘코인 상장 청탁’ 프로골퍼 안성현, 대법서 무죄 확정",
+          "title": "‘김춘추’ 김강우 “이 땅의 영웅호걸 만났죠”…KBS 대하사극 ‘문무’ [이런뉴스]",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710942"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711232"
         },
         {
-          "title": "'코인 상장 뒷돈' 전 빗썸 대표 징역형 집행유예 확정",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865117_36918.html"
+          "title": "[사진]당나라 최초 여제 측천무후 최에빈",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/12/GRSTKOLGGRSTMNJSMZRDCNBQMM/"
         },
         {
-          "title": "남편 안성현 '코인상장 뒷돈' 무죄…성유리 \"진실 밝혀지길\" 재조명 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111215255844992"
+          "title": "300억 대하사극 KBS '문무'…\"삼국통일 과정, 갈등의 시대 시사점\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261112155400005"
         }
       ]
     },
     {
-      "title": "13일의 금요일",
+      "title": "약국",
       "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 07:00:00 -0800",
+      "published": "Thu, 12 Nov 2026 11:10:00 -0800",
       "news": [
         {
-          "title": "[지지대] 13일의 금요일, 인류 멸망의 날",
+          "title": "인근 약국 없는 군부대·공항에서 안전상비의약품 취급 등 의약품 접근성 개선",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=456379"
+        },
+        {
+          "title": "“공항·격오지 부대서 약 찾기 쉬워진다”… 복지부, 약사법 개정 추진",
           "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261112580217"
+          "url": "https://www.kyeonggi.com/article/20261112580147"
         },
         {
-          "title": "빗나간 66년 전 ‘인구종말론’…AI 종말론은 다를까?",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/science/science_general/1286931.html"
+          "title": "약국 없는 군부대·공항서 상비약 취급 허용…군무원도 군의관 직접 조제 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/11/12/2026111210273372085"
+        }
+      ]
+    },
+    {
+      "title": "전현무",
+      "approx_traffic": "1000+",
+      "published": "Thu, 12 Nov 2026 11:10:00 -0800",
+      "news": [
+        {
+          "title": "조작 방송 전현무, 대국민 사과 “당분간 DM 안 보겠다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261112/135011588/1"
         },
         {
-          "title": "세계가 11월 13일에 종말을 맞이할 것이라는 소문이 사실인가요?",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/thuc-hu-tin-don-the-gioi-sap-buoc-sang-ngay-tan-the-13-11"
+          "title": "[MBN] 삼각지·을지로 골목에 숨은 노포 맛집들",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12206570"
+        },
+        {
+          "title": "곽튜브 \"미혼 전현무, 결혼기념일에 대해 뭘 아냐\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261112_0003865349"
         }
       ]
     }
