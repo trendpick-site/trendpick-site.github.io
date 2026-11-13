@@ -1,49 +1,198 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T07:19:22+00:00",
+  "fetched_at": "2026-11-13T08:37:54+00:00",
   "items": [
     {
+      "title": "주간조선",
+      "approx_traffic": "200+",
+      "published": "Thu, 12 Nov 2026 23:30:00 -0800",
+      "news": [
+        {
+          "title": "반도체 물 ‘속도전’의 숙제…가뭄 검증도, 농민 설득도, 기업 절수도 ‘아직’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611130600011"
+        },
+        {
+          "title": "엉뚱한 영산강물 더럽다고 손가락질한 주간조선",
+          "source": "세상을 바꾸는 시민언론 민들레",
+          "url": "https://www.mindlenews.com/news/articleView.html?idxno=23169"
+        }
+      ]
+    },
+    {
+      "title": "로보택시",
+      "approx_traffic": "100+",
+      "published": "Thu, 12 Nov 2026 22:50:00 -0800",
+      "news": [
+        {
+          "title": "\"운전대도, 페달도 없다\"‥테슬라 사이버캡 국내 첫 공개에도 \"판매 계획은 없다\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865258_37004.html"
+        },
+        {
+          "title": "[FSD 온로드] '테슬라 사이버캡' 국내 첫선…차주들 FSD 확대 촉구",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5qgcJrTscO"
+        },
+        {
+          "title": "[포토뉴스]운전대도 페달도 없는…테슬라 자율주행 ‘로보택시’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/20261112203101A/?cp"
+        }
+      ]
+    },
+    {
+      "title": "이창호",
+      "approx_traffic": "100+",
+      "published": "Thu, 12 Nov 2026 22:40:00 -0800",
+      "news": [
+        {
+          "title": "\"이창호 9단과의 대국은 양보합니다\"",
+          "source": "사이버오로",
+          "url": "https://www.cyberoro.com/news/news_view.oro?num=532945"
+        },
+        {
+          "title": "사이버오로, 효림 꺾고 레전드 바둑리그 플레이오프 진출",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113034300007"
+        },
+        {
+          "title": "김승준-양건, 승리 합작…한국기원 자회사 사이버오로, 효림 잡고 PO 진출",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202611130134"
+        }
+      ]
+    },
+    {
+      "title": "sk해운",
+      "approx_traffic": "1000+",
+      "published": "Thu, 12 Nov 2026 22:30:00 -0800",
+      "news": [
+        {
+          "title": "한국가스공사, LNG선 화물창 결함에 2684억원 배상… 2심서 800억원 늘어",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/law_firm/2026/11/13/LTVT7C2Q6JFWXIKKZS3M7FUA7Y/"
+        },
+        {
+          "title": "SK해운·삼성重, '화물창 설계 결함' 가스공사에 손배소 2심도 승소",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261113_0003867028"
+        },
+        {
+          "title": "'LNG선 화물창 결함' 가스공사 2심서 배상액↑…\"2천600억 지급\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113086900004"
+        }
+      ]
+    },
+    {
+      "title": "최원호",
+      "approx_traffic": "200+",
+      "published": "Thu, 12 Nov 2026 22:30:00 -0800",
+      "news": [
+        {
+          "title": "호주에도 지는 한국야구",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261113/135017424/2"
+        },
+        {
+          "title": "'와' 이러니 MLB가 주목하지... '홈런+2루타 장타폭발' 김주원, \"포스팅시 많은 팀이 원할 것\" 이유 증명 [APBC] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/13/2026111219552258076"
+        },
+        {
+          "title": "APBC 야구대표팀, 호주에 일격‥결승 진출 '먹구름'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6865192_36946.html"
+        }
+      ]
+    },
+    {
       "title": "광교 신도시",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Thu, 12 Nov 2026 22:10:00 -0800",
       "news": [
         {
-          "title": "\"집값 25%만 내고 입주\"…광교 지분적립형에 2만 명 몰려",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611123258i"
+          "title": "GH, '국내 1호' 광교 지분적립형 분양주택 240가구 모집에 2만946건 몰려",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20261112007600353"
+        },
+        {
+          "title": "집값의 30%로 내 집 마련, '이익공유형Ⅱ' 공공분양 도입 추진 - 카드/한컷 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975273"
         },
         {
           "title": "광교 웃고 평택 울고…경기도 청약시장 양극화",
           "source": "인천일보",
           "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336726"
+        }
+      ]
+    },
+    {
+      "title": "익산",
+      "approx_traffic": "200+",
+      "published": "Thu, 12 Nov 2026 22:10:00 -0800",
+      "news": [
+        {
+          "title": "현대백화점그룹, 익산시 '발달장애인 특화사업장' 1억원 후원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113107800030"
         },
         {
-          "title": "GH 추진 전국 첫 지분적립형 분양주택 1순위 경쟁률 '100:1'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111175000061"
+          "title": "스마트팜 돕고 백화점 판로연다…현대백화점그룹, 익산 발달장애인 사업장 후원",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261113/135021231/1"
+        },
+        {
+          "title": "현대백화점, 익산시 발달장애인 특화사업장에 1억원 후원 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/11/13/2026111314521412952"
         }
       ]
     },
     {
       "title": "구본현",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Thu, 12 Nov 2026 21:50:00 -0800",
       "news": [
+        {
+          "title": "범LG家 3세 구본현, 해외 도피 8년 만에 캄보디아에서 검거",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/11/13/P4FORY5VSFCMHFGCH4FZESVYNI/"
+        },
         {
           "title": "’주가조작’ 범LG가 3세 구본현 검거…해외도피 8년 만",
           "source": "연합뉴스TV",
           "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113142509Zjm"
         },
         {
-          "title": "8년간 해외 도피 범LG가 3세 구본현 구속…주가조작 혐의",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845055"
-        },
-        {
           "title": "‘145억원 주가조작’ 혐의 재벌 3세 구본현, 8년 해외도피 끝에 캄보디아서 검거",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202611131437001"
+        }
+      ]
+    },
+    {
+      "title": "국기",
+      "approx_traffic": "100+",
+      "published": "Thu, 12 Nov 2026 21:50:00 -0800",
+      "news": [
+        {
+          "title": "北, 헌법 개정해 인공기 비율 변경…1948년 건국 이후 처음(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113030351504"
+        },
+        {
+          "title": "北, 정권 수립 78년 만에 인공기 비율 바꿨다",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261113506383"
+        },
+        {
+          "title": "北, 78년 만에 국기 비율 변경…김정은 시대 차별화 포석",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261112193925025"
         }
       ]
     },
@@ -66,160 +215,6 @@
           "title": "“너도 AI 안경?” 의심에 리트 만점자 “수능 국어 생중계 풀이”",
           "source": "한겨레",
           "url": "https://www.hani.co.kr/arti/society/society_general/1287171.html"
-        }
-      ]
-    },
-    {
-      "title": "국기",
-      "approx_traffic": "100+",
-      "published": "Thu, 12 Nov 2026 21:50:00 -0800",
-      "news": [
-        {
-          "title": "北, 인공기 가로 폭 줄였다…1948년 정권 수립 이후 처음",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261113/135019966/1"
-        },
-        {
-          "title": "北, 헌법 개정해 국기 비율 변경…1948년 건국 이후 처음",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113030300504"
-        },
-        {
-          "title": "北, 78년 만에 국기 비율 변경…김정은 시대 차별화 포석",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261112193925025"
-        }
-      ]
-    },
-    {
-      "title": "블랙웰",
-      "approx_traffic": "500+",
-      "published": "Thu, 12 Nov 2026 21:40:00 -0800",
-      "news": [
-        {
-          "title": "“오픈AI, 美 의회 中 AI칩 수출 제한 법안 지지”",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/11/13/W3GSV2HRNVCW5HMKBABFHSBOEA/"
-        },
-        {
-          "title": "미국의 반도체 수출 규제 강화 우려에 중국 AI 주식 급락",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2174451"
-        },
-        {
-          "title": "美 무역대표 \"엔비디아 우려…핵심 기술자산 美나 동맹국에 있어야\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444506"
-        }
-      ]
-    },
-    {
-      "title": "대학수학능력시험",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 21:30:00 -0800",
-      "news": [
-        {
-          "title": "행정안전부, 2027학년도 수능 대비 지진 대응태세 철저히 점검한다",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789140&pWise=main&pWiseMain=L1"
-        },
-        {
-          "title": "남양주시, 수능 당일 수험생 무료수송 택시 44대 투입",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721867"
-        },
-        {
-          "title": "정부, 수능 앞두고 지진 대응태세 점검…시험장 1천312곳 점검",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261112171300530"
-        }
-      ]
-    },
-    {
-      "title": "england vs australia",
-      "approx_traffic": "100+",
-      "published": "Thu, 12 Nov 2026 21:30:00 -0800",
-      "news": [
-        {
-          "title": "Australia vs England LIVE: First ODI, Optus Stadium, Perth - cricket score, commentary & updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/cricket/live/cnv9n5lgdv6t"
-        },
-        {
-          "title": "Australia-England face off again but most eyes are elsewhere",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-1st-odi-1528703/match-preview"
-        },
-        {
-          "title": "Australia's Mitch Marsh wins toss, sends England in to bat in 1st cricket ODI",
-          "source": "FOX Sports",
-          "url": "https://www.foxsports.com/articles/soccer/australias-mitch-marsh-wins-toss-sends-england-in-to-bat-in-1st-cricket-odi"
-        }
-      ]
-    },
-    {
-      "title": "이혜훈",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 21:20:00 -0800",
-      "news": [
-        {
-          "title": "경찰, ‘로또 청약’ 이혜훈 前 의원 사기 혐의로 공소청 송치",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/11/13/CSW7KKE6VRCOVPUKBYMCDLP4TQ/"
-        },
-        {
-          "title": "‘40억 로또 아파트’ 날아가나…이혜훈, 부정청약 의혹 송치",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12327942"
-        },
-        {
-          "title": "속보 경찰, '아파트 부정청약 의혹' 이혜훈 사기 혐의 송치",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611131301149185"
-        }
-      ]
-    },
-    {
-      "title": "수도권제1순환고속도로",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 21:20:00 -0800",
-      "news": [
-        {
-          "title": "[속보] 수도권제1순환고속도로 고양(67.5K)(4차로)화물차관련 사고처리중",
-          "source": "스페셜타임스",
-          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=484541"
-        },
-        {
-          "title": "[속보] 수도권제1순환고속도로 화물차 관련 사고 처리중",
-          "source": "스페셜타임스",
-          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=483505"
-        },
-        {
-          "title": "[속보] 수도권제1순환고속도로 사고처리중",
-          "source": "스페셜타임스",
-          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=483666"
-        }
-      ]
-    },
-    {
-      "title": "정부",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 21:20:00 -0800",
-      "news": [
-        {
-          "title": "구글 지도 국외반출 조건 이행 확인…좌표 노출 막고 보안 강화",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374724"
-        },
-        {
-          "title": "구글, 국내 지도 데이터 가공 협력사로 티맵 선정",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/11/13/TYPNW5XMMVGXVJOGPIJ6PMNPJI/"
-        },
-        {
-          "title": "구글맵, 한국 서비스 강화된다···네이버·카카오 등 ‘긴장’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611131444011"
         }
       ]
     }
