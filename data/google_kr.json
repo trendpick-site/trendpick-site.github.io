@@ -1,11 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T19:57:32+00:00",
+  "fetched_at": "2026-11-13T20:56:26+00:00",
   "items": [
     {
-      "title": "탄핵",
+      "title": "이란",
+      "approx_traffic": "500+",
+      "published": "Fri, 13 Nov 2026 11:50:00 -0800",
+      "news": [
+        {
+          "title": "이란 외무부 \"뱁새가 황새 따라가다 가랑이‥\" 청해부대 겨냥",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865457_36911.html"
+        },
+        {
+          "title": "\"뱁새가 황새 따라가다…\" 이란 외무부 대변인 ‘한국 속담’으로 경고",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327965"
+        },
+        {
+          "title": "이란 “한국, 가랑이 찢어진다”…한국계 유조선 2척 발사체 피격 [배틀라인]",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/international/2026/11/13/20261113500151"
+        }
+      ]
+    },
+    {
+      "title": "서인영",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 11:50:00 -0800",
+      "news": [
+        {
+          "title": "'최지훈과 재혼' 서인영, 극심한 불안 \"8년 자고 땅굴\"..\"10년 제정신 아냐\" [핫피플]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/GJSGEYJZMI2DMZLCME2WEN3GMY/"
+        },
+        {
+          "title": "‘12월 결혼’ 서인영 “예비 신랑 덕분에 우울증 이겨내고 활동”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261112/135017716/1"
+        },
+        {
+          "title": "서인영 \"공황장애로 8년간 거의 잠만 자…문지방도 못 넘었다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111309552465013"
+        }
+      ]
+    },
+    {
+      "title": "항공 엔진",
       "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 11:00:00 -0800",
+      "news": [
+        {
+          "title": "한화, 국내 첫 1만파운드급 항공엔진 개발한다…1천773억 규모",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113133400003"
+        },
+        {
+          "title": "한화에어로, 국과연과 ‘1만 파운드급’ 항공 엔진 개발 나선다",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/company/2026/11/13/Z43BE5HBMRDLHCTNNDCIRCHFS4/"
+        },
+        {
+          "title": "한화에어로스페이스, '1만파운드급 터보팬 엔진' 개발 우협대상자 선정",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451981"
+        }
+      ]
+    },
+    {
+      "title": "탄핵",
+      "approx_traffic": "200+",
       "published": "Fri, 13 Nov 2026 08:50:00 -0800",
       "news": [
         {
@@ -14,14 +80,14 @@
           "url": "https://news.jtbc.co.kr/article/NB12327940"
         },
         {
-          "title": "국회 영상기자단, 최민희 '하이에나' 발언 규탄‥\"분노 넘어 자괴감\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6865481_36911.html"
-        },
-        {
           "title": "[사설] 이재명 정권, 넘쳐나는 권력 감당 안 돼 자기들끼리 싸우나",
           "source": "조선일보",
           "url": "https://www.chosun.com/opinion/editorial/2026/11/14/ESUUCOCQBREZBD3OPQ3V4YEGE4/"
+        },
+        {
+          "title": "\"최민희 윤리감찰\" 김민석 지시에‥친청계 '보이콧' 맞불",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865539_37004.html"
         }
       ]
     },
@@ -63,37 +129,37 @@
           "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001035"
         },
         {
-          "title": "정무성 현대차 정몽구재단 이사장 별세… 향년 68세",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/People/article/all/20261113/135021956/1"
+          "title": "정무성 현대차 정몽구재단 이사장 별세",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04782246645645392&mediaCodeNo=257"
         }
       ]
     },
     {
-      "title": "오세훈",
+      "title": "닥터x 의사놀이",
       "approx_traffic": "100+",
-      "published": "Fri, 13 Nov 2026 08:20:00 -0800",
+      "published": "Fri, 13 Nov 2026 08:10:00 -0800",
       "news": [
         {
-          "title": "[단독] \"배현진 1년\"·\"제명\"‥장동혁 측 외부 인사가 징계 수위 전달",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6865535_36911.html"
+          "title": "닥터X : 하얀 마피아의 시대 : [최종회 예고] “용케 살아서 여기까지 왔네” 김지원, 환자 수술 도중 중단 선언♨ (ft. 폐원)",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC483132189"
         },
         {
-          "title": "\"한동훈 제명은 조작\"...진실공방 '내홍' [앵커리포트]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611131621150460_005.html"
+          "title": "'닥터X', 김지원한테 결국 다 '계'며든 화기애애 현장 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111314377253307"
         },
         {
-          "title": "국힘 조경태, '당원권 정지' 징계 불복…가처분·무효소송 제기",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113127200001"
+          "title": "전국환, 아동 성폭력 과거…김우석 피해자였다 ’충격’ (닥터X)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261113/135023492/1"
         }
       ]
     },
     {
       "title": "인벤",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Fri, 13 Nov 2026 07:40:00 -0800",
       "news": []
     },
@@ -140,56 +206,6 @@
           "url": "https://www.news1.kr/entertain/broadcast-tv/6353497"
         }
       ]
-    },
-    {
-      "title": "김수현",
-      "approx_traffic": "1000+",
-      "published": "Fri, 13 Nov 2026 06:40:00 -0800",
-      "news": [
-        {
-          "title": "“이미지 실추로 손해, 모델료 반환해야”···법원, 배우 김수현 측 11억여원 반환 판결",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611131959001"
-        },
-        {
-          "title": "‘누명 벗은 김수현’에 법원 “김수현, 광고 중단 기간 모델료 반환해야”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261113580438"
-        },
-        {
-          "title": "[단독]법원 \"김수현 등, 프롬바이오에 11억6000만원 배상\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/13/2026111315280951965"
-        }
-      ]
-    },
-    {
-      "title": "대한민국",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 06:20:00 -0800",
-      "news": [
-        {
-          "title": "[게시판] 농식품부, 15일까지 '2026 대한민국 우리술 대축제'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113129300030"
-        },
-        {
-          "title": "막걸리부터 증류주까지…전통 양조장에서 빚어낸 우리 술의 매력 [이슈픽]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711215"
-        },
-        {
-          "title": "다양한 술을 맛볼 수 있는 우리술 대축제",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261113001303"
-        }
-      ]
-    },
-    {
-      "title": "쿠플",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 06:20:00 -0800",
-      "news": []
     }
   ]
 }
