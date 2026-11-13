@@ -1,11 +1,149 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T10:37:29+00:00",
+  "fetched_at": "2026-11-13T11:32:38+00:00",
   "items": [
     {
+      "title": "김진욱",
+      "approx_traffic": "500+",
+      "published": "Fri, 13 Nov 2026 02:20:00 -0800",
+      "news": [
+        {
+          "title": "[사진]역투하는 한국 선발 투수 김진욱",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/13/G44TGMDGMM2TQZRTMI2DENZTMM/"
+        },
+        {
+          "title": "일본전 역투하는 선발 김진욱",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261113_0002291778"
+        },
+        {
+          "title": "[APBC] 日, 한국전 '특급 신인' 다케마루 선발 등판 예고",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261113000801"
+        }
+      ]
+    },
+    {
+      "title": "뉴욕",
+      "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 02:20:00 -0800",
+      "news": [
+        {
+          "title": "옆 부지 땅 파던 중 3층 건물 ‘와르르’…뉴욕서 8명 사망",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/int_economy/2026/11/13/GVWEC56YAZBN5BIK6QH7XUEVUM/"
+        },
+        {
+          "title": "뉴욕서 대낮에 3층 건물이 털썩…8명 사망·소방관 3명 포함 17명 부상",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327931"
+        },
+        {
+          "title": "美 브루클린서 3층 건물 붕괴‥5명 사망·17명 부상",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6865274_36925.html"
+        }
+      ]
+    },
+    {
+      "title": "정무성",
+      "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 02:20:00 -0800",
+      "news": [
+        {
+          "title": "정무성 현대차 정몽구재단 이사장 별세…향년 68세",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261113170434RTC"
+        },
+        {
+          "title": "정무선 현대차 정몽구 재단 이사장 별세",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001035"
+        },
+        {
+          "title": "[부고] 정무성 현대차 정몽구 재단 이사장 별세…향년 68세",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611131623511480"
+        }
+      ]
+    },
+    {
+      "title": "claude",
+      "approx_traffic": "500+",
+      "published": "Fri, 13 Nov 2026 02:10:00 -0800",
+      "news": [
+        {
+          "title": "Anthropic Claude down: Why it said it was unable to authenticate code",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/anthropic-claude-down-unable-to-authenticate-code"
+        },
+        {
+          "title": "Claude Reports Elevated Errors Across claude.ai, Claude Code and Console",
+          "source": "Technobezz",
+          "url": "https://www.technobezz.com/news/claude-service-incident-5ecb37ff"
+        },
+        {
+          "title": "Microsoft's massive outage enters day two, takes ChatGPT and Claude connectors down with it",
+          "source": "Indian Startup News",
+          "url": "https://indianstartupnews.com/news/microsofts-massive-outage-enters-day-two-takes-chatgpt-and-claude-connectors-down-with-it-12806735"
+        }
+      ]
+    },
+    {
+      "title": "원주 db 대 수원 kt",
+      "approx_traffic": "500+",
+      "published": "Fri, 13 Nov 2026 01:50:00 -0800",
+      "news": []
+    },
+    {
+      "title": "김대호",
+      "approx_traffic": "500+",
+      "published": "Fri, 13 Nov 2026 01:50:00 -0800",
+      "news": [
+        {
+          "title": "김대호, 14년 다닌 MBC 떠났는데…또 회사원 됐다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261113/135020519/1"
+        },
+        {
+          "title": "김대호, MBC 퇴사 1년 반 만에 삼성행…TV조선 '직장인대호' 출격",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524726"
+        },
+        {
+          "title": "‘직장인대호’ 기업 탐방 프로젝트 15일 첫방",
+          "source": "BNT뉴스",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202611130211"
+        }
+      ]
+    },
+    {
+      "title": "apbc 중계",
+      "approx_traffic": "500+",
+      "published": "Fri, 13 Nov 2026 01:40:00 -0800",
+      "news": [
+        {
+          "title": "한일전 12연속 무승, 삼성 김지찬 우승 기운 전파하겠다!",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710671"
+        },
+        {
+          "title": "[사진]동료들의 환영을 받는 한동희",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/13/MM3DOMBUGUYWMOLEMMYGEYZVMY/"
+        },
+        {
+          "title": "중전 안타로 진루하는 김민석",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261113_0002291780"
+        }
+      ]
+    },
+    {
       "title": "임예진",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Fri, 13 Nov 2026 01:30:00 -0800",
       "news": [
         {
@@ -48,30 +186,8 @@
       ]
     },
     {
-      "title": "한국 사우디",
-      "approx_traffic": "100+",
-      "published": "Fri, 13 Nov 2026 01:20:00 -0800",
-      "news": [
-        {
-          "title": "[오늘의 키워드] 한국–사우디 오늘 밤 11시 30분…2027학년도 수능 D-6",
-          "source": "강릉뉴스",
-          "url": "https://www.gangneungnews.kr/news/articleView.html?idxno=70102"
-        },
-        {
-          "title": "주장 손흥민, ‘내분설’ 이후 첫 심경 고백…“팀이 건강해지는 과정이라 생각”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711758"
-        },
-        {
-          "title": "\"이재성은 왜 끼워 넣었나\"…박문성, 대표팀 공동입장문에 일침 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/13/2026111318540715938"
-        }
-      ]
-    },
-    {
       "title": "미스 베트남",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Fri, 13 Nov 2026 01:10:00 -0800",
       "news": [
         {
@@ -88,133 +204,6 @@
           "title": "미스 베트남 응우옌옌짱,,,베트남 미인대회 2026 우승",
           "source": "굿모닝베트남미디어",
           "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=84464"
-        }
-      ]
-    },
-    {
-      "title": "pakistan vs sri lanka",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 01:10:00 -0800",
-      "news": [
-        {
-          "title": "Saqib Khan Takes Seven Wickets on Test Debut as Pakistan Pacer Announces Himself Against Sri Lanka",
-          "source": "theopenpress.in",
-          "url": "https://theopenpress.in/article/saqib-khan-pakistan-pacer-seven-wickets-test-debut-rawalpindi-sri-lanka"
-        },
-        {
-          "title": "Saqib's bright start to Test cricket after an unconventional journey",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/story/saqib-s-bright-start-in-test-cricket-after-an-unconventional-journey-1562409"
-        },
-        {
-          "title": "Recent Match Report - Pakistan vs Sri Lanka, Sri Lanka tour of Pakistan, 1st Test",
-          "source": "ESPN",
-          "url": "https://africa.espn.com/cricket/series/19430/report/1550711/day/4/pakistan-vs-sri-lanka-1st-test-19430"
-        }
-      ]
-    },
-    {
-      "title": "뮤직뱅크",
-      "approx_traffic": "100+",
-      "published": "Fri, 13 Nov 2026 01:10:00 -0800",
-      "news": [
-        {
-          "title": "[NOTICE] 261113 KBS2 뮤직뱅크 본방송 참여 신청 안내(+참여자 발표 완료)",
-          "source": "Weverse",
-          "url": "https://weverse.io/tws/notice/40913?hl=ko"
-        },
-        {
-          "title": "'뮤직뱅크' ITZY 채령 솔로 핫데뷔부터 지수·에이티즈·NCT DREAM·규현 컴백까지",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751356"
-        },
-        {
-          "title": "‘뮤직뱅크’, 지수·엔시티 드림 컴백-베스티 출격→채령 솔로 데뷔…1위는?",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275636"
-        }
-      ]
-    },
-    {
-      "title": "에이티즈",
-      "approx_traffic": "100+",
-      "published": "Fri, 13 Nov 2026 01:10:00 -0800",
-      "news": [
-        {
-          "title": "에이티즈, ‘배드’ 인기 잇는다…“가장 높은 곳 그 이상까지”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711121"
-        },
-        {
-          "title": "‘가슴춤 북부대공’ 열풍 에이티즈, 5개월만에 컴백",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261112/135017454/2"
-        },
-        {
-          "title": "“우린 원래 이런 거 하는 애들이야” 에이티즈, 더 센 퍼포먼스로 ‘컴백’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611122042015"
-        }
-      ]
-    },
-    {
-      "title": "대한민국 해군",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 01:00:00 -0800",
-      "news": [
-        {
-          "title": "병역 면제 가능했지만 자진 입영…최근 3년 영주권자 1,622명 현역 복무",
-          "source": "일등방송",
-          "url": "https://www.ibnews.or.kr/134942"
-        },
-        {
-          "title": "대한민국 바다 지키는 정예 '해군병 729기' 수료",
-          "source": "뉴스프리존",
-          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=719307"
-        }
-      ]
-    },
-    {
-      "title": "우크라이나",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 00:50:00 -0800",
-      "news": [
-        {
-          "title": "“우크라, 러 군함 공격해 불탔다”…전례없는 사태, 발트해로 확전 우려",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/world/12207828"
-        },
-        {
-          "title": "[쇼츠] 러시아 미사일함에 드론 쾅!…\"발트해서 러 군함 첫 타격\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113151900704"
-        },
-        {
-          "title": "드론 발사 준비하는 우크라이나 군인들",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261112_0002290021"
-        }
-      ]
-    },
-    {
-      "title": "김종민",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 00:30:00 -0800",
-      "news": [
-        {
-          "title": "김종민, 아빠 될 준비 중…“맞춤법·띄어쓰기 배우고 있어” (1박2일)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261113/135018756/1"
-        },
-        {
-          "title": "김종민이 달라졌어요..'임신' ♥김지원 닮은 11살 아내→아들 위해 \"국어 공부 중\" ('1박2일')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/GZSDIM3BGAYDOMZTHBQTKMBVMM/"
-        },
-        {
-          "title": "김종민 \"태어날 子 위해 맞춤법·띄어쓰기 배우는 중\" (1박 2일)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524710"
         }
       ]
     }
