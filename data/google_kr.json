@@ -1,11 +1,11 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T17:55:03+00:00",
+  "fetched_at": "2026-11-13T18:57:03+00:00",
   "items": [
     {
       "title": "월즈 결승",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 13 Nov 2026 08:50:00 -0800",
       "news": [
         {
@@ -31,19 +31,19 @@
       "published": "Fri, 13 Nov 2026 08:20:00 -0800",
       "news": [
         {
-          "title": "[단독] \"배현진 1년\"·\"제명\"‥장동혁 측 외부 인사가 징계 수위 전달",
+          "title": "조작기소 특검 찬성 44%·반대 37%‥\"역대 특검 중 찬성 적은 편\" [갤럽]",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6865535_36911.html"
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865403_36911.html"
         },
         {
-          "title": "친한계 “조작 징계는 무효, 진상조사해야”… 국힘 지도부 “정말 나쁜 저급한 정치공작”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261113/135023164/2"
+          "title": "검찰 불법 행위 밝히자는데 저주 퍼붓는 주류 매체들",
+          "source": "뉴스타파",
+          "url": "https://newstapa.org/article/iKKSJ"
         },
         {
-          "title": "\"한동훈 제명은 조작\"...진실공방 '내홍' [앵커리포트]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611131621150460_005.html"
+          "title": "오세훈 “李대통령, 조작기소 특검법 거부하라…마지막 기회”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261113580107"
         }
       ]
     },
@@ -163,9 +163,9 @@
           "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040879"
         },
         {
-          "title": "호령존 알고보니 C등급, 보상금 3.75억만 주면 데려간다...8천에서 2.5억까지 올렸는데도 B등급 아니었다, 구매자 늘어나나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/13/MIYWCNDGHEZTIMTBGVTDSOBWME/"
+          "title": "이럴 수가, KIA 김호령이 C등급 받았다…아슬아슬하게 사라져버린 보상선수, 이적 문이 더 열렸다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611131627013"
         }
       ]
     },
