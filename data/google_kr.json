@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T16:58:13+00:00",
+  "fetched_at": "2026-11-13T17:55:03+00:00",
   "items": [
+    {
+      "title": "월즈 결승",
+      "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 08:50:00 -0800",
+      "news": [
+        {
+          "title": "[롤드컵]쵸비·기인·듀로의 첫 우승 꿈…룰러·캐니언과 이룰까",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261112_0003864630"
+        },
+        {
+          "title": "[e모션] 韓中 최강 격돌…젠지, LCK의 `롤드컵` 왕좌 지킬까",
+          "source": "디지털데일리",
+          "url": "https://www.ddaily.co.kr/page/view/2026111316090144636"
+        },
+        {
+          "title": "롤드컵 무관의 한 풀 주인공은, ‘최강 미드’ 쵸비·나이트 정면충돌",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261112142609756"
+        }
+      ]
+    },
+    {
+      "title": "오세훈",
+      "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 08:20:00 -0800",
+      "news": [
+        {
+          "title": "[단독] \"배현진 1년\"·\"제명\"‥장동혁 측 외부 인사가 징계 수위 전달",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865535_36911.html"
+        },
+        {
+          "title": "친한계 “조작 징계는 무효, 진상조사해야”… 국힘 지도부 “정말 나쁜 저급한 정치공작”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261113/135023164/2"
+        },
+        {
+          "title": "\"한동훈 제명은 조작\"...진실공방 '내홍' [앵커리포트]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611131621150460_005.html"
+        }
+      ]
+    },
     {
       "title": "인벤",
       "approx_traffic": "200+",
@@ -42,9 +86,9 @@
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/MU3DAZJUMIZGCM3CMIYWMNZYGI/"
         },
         {
-          "title": "구성환, 첫사랑과 재회 “50일 사귀고 1년 더 좋아해” (나혼산)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261113/135023281/1"
+          "title": "구성환 “학창 시절 4대 천왕…초콜릿·편지 많이 받았다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023588/1"
         },
         {
           "title": "\"조승우·손예진의 '클래식'이었다\"…구성환, 30년전 50일 사귄 동창 재회",
@@ -69,9 +113,9 @@
           "url": "https://www.yna.co.kr/view/AKR20261113171700061"
         },
         {
-          "title": "[단독]법원 \"김수현 등, 프롬바이오에 11억6000만원 배상\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/13/2026111315280951965"
+          "title": "‘누명 벗은 김수현’에 법원 “김수현, 광고 중단 기간 모델료 반환해야”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261113580438"
         }
       ]
     },
@@ -109,19 +153,19 @@
       "published": "Fri, 13 Nov 2026 06:20:00 -0800",
       "news": [
         {
-          "title": "구자욱·원태인 등 28명, FA 공시…A등급 6명",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113232604RDP"
-        },
-        {
-          "title": "구자욱 어렵다면 스톱갭이라도 필요한 롯데 → 이택근 단장 기본 방침 \"그룹도 설득하겠다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/14/HAYDAODCMQ3TQYZVMY2TEMBYMU/"
+          "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712285"
         },
         {
           "title": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
           "source": "기호일보",
           "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040879"
+        },
+        {
+          "title": "호령존 알고보니 C등급, 보상금 3.75억만 주면 데려간다...8천에서 2.5억까지 올렸는데도 B등급 아니었다, 구매자 늘어나나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/13/MIYWCNDGHEZTIMTBGVTDSOBWME/"
         }
       ]
     },
@@ -144,45 +188,6 @@
           "title": "광주 최대 재개발지 광천동, 철거 공사 착수",
           "source": "매일경제 마켓",
           "url": "https://stock.mk.co.kr/news/view/1196879"
-        }
-      ]
-    },
-    {
-      "title": "민희진",
-      "approx_traffic": "1000+",
-      "published": "Fri, 13 Nov 2026 05:20:00 -0800",
-      "news": [
-        {
-          "title": "빌리프랩·쏘스뮤직, 민희진 상대 손배소 1심서 패소(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113166651004"
-        },
-        {
-          "title": "빌리프랩, '아일릿 표절' 주장 민희진 상대 손해배상 소송 패소",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865528_36918.html"
-        },
-        {
-          "title": "민희진에 패소한 하이브 레이블들, 즉각 항소…\"판결 납득 못해\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/13/2026111319430064691"
-        }
-      ]
-    },
-    {
-      "title": "대한민국 기후에너지환경부",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 05:20:00 -0800",
-      "news": [
-        {
-          "title": "[인사] 기후에너지환경부 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2172282"
-        },
-        {
-          "title": "[인사] 기후에너지환경부",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261112001466"
         }
       ]
     }
