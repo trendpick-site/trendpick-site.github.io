@@ -1,11 +1,149 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T14:56:02+00:00",
+  "fetched_at": "2026-11-13T15:54:21+00:00",
   "items": [
     {
+      "title": "구성환",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 06:50:00 -0800",
+      "news": [
+        {
+          "title": "\"초콜릿에 러브레터 많이 받아\" 구성환, 4대 천왕 비주얼 공개 ('나혼산')",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/MU3DAZJUMIZGCM3CMIYWMNZYGI/"
+        },
+        {
+          "title": "구성환 “학창 시절 4대 천왕…초콜릿·편지 많이 받았다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023588/1"
+        },
+        {
+          "title": "\"조승우·손예진의 '클래식'이었다\"…구성환, 30년전 50일 사귄 동창 재회",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6353497"
+        }
+      ]
+    },
+    {
+      "title": "김수현",
+      "approx_traffic": "1000+",
+      "published": "Fri, 13 Nov 2026 06:40:00 -0800",
+      "news": [
+        {
+          "title": "“이미지 실추로 손해, 모델료 반환해야”···법원, 배우 김수현 측 11억여원 반환 판결",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611131959001"
+        },
+        {
+          "title": "법원, 김수현 측에 '광고 중단' 모델료 11억여원 반환 판결",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113171700061"
+        },
+        {
+          "title": "[단독]법원 \"김수현 등, 프롬바이오에 11억6000만원 배상\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/13/2026111315280951965"
+        }
+      ]
+    },
+    {
+      "title": "축구중계",
+      "approx_traffic": "5000+",
+      "published": "Fri, 13 Nov 2026 06:20:00 -0800",
+      "news": [
+        {
+          "title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611112246001"
+        },
+        {
+          "title": "'무엇이든 해줄지니 비서진' 축구 한국 사우디 축구 중계로 결방",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751617"
+        },
+        {
+          "title": "‘흥행 보증수표’의 몰락…외면 받는 한국 축구 A매치",
+          "source": "스포츠월드",
+          "url": "https://www.sportsworldi.com/newsView/20261112514439"
+        }
+      ]
+    },
+    {
+      "title": "대한민국",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 06:20:00 -0800",
+      "news": [
+        {
+          "title": "[게시판] 농식품부, 15일까지 '2026 대한민국 우리술 대축제'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113129300030"
+        },
+        {
+          "title": "막걸리부터 증류주까지…전통 양조장에서 빚어낸 우리 술의 매력 [이슈픽]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711215"
+        },
+        {
+          "title": "세계로 향하는 K-Sool, '2026 대한민국 우리술 대축제' 막 올랐다!",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=456942"
+        }
+      ]
+    },
+    {
+      "title": "쿠플",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 06:20:00 -0800",
+      "news": []
+    },
+    {
+      "title": "포수",
+      "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 06:20:00 -0800",
+      "news": [
+        {
+          "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712285"
+        },
+        {
+          "title": "와~60위 됐으면 어쩔뻔, 연봉 61위 C등급 깜짝 호재...하늘이 돕는 FA 김호령, 실수령 1억5천 고우석이 왜 도우미로 거론되나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/14/GQ4DSYTDGAYDINJRGY2GEOLFGM/"
+        },
+        {
+          "title": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040879"
+        }
+      ]
+    },
+    {
+      "title": "광천동주택재개발",
+      "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 06:10:00 -0800",
+      "news": [
+        {
+          "title": "광천동 재개발 철거 착수…교통망 확충은 ‘난항’",
+          "source": "진일보 | 전남일보",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082235"
+        },
+        {
+          "title": "광주 최대 규모 ‘광천동 재개발 사업’ 철거 본격화",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/2026/11/12/20261112500370"
+        },
+        {
+          "title": "광주 최대 재개발지 광천동, 철거 공사 착수",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1196879"
+        }
+      ]
+    },
+    {
       "title": "민희진",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Fri, 13 Nov 2026 05:20:00 -0800",
       "news": [
         {
@@ -14,9 +152,9 @@
           "url": "https://www.khan.co.kr/article/202611131850001"
         },
         {
-          "title": "빌리프랩·쏘스뮤직, 민희진에 20억 손배소 1심 패소",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611132301137ET"
+          "title": "민희진에 패소한 하이브 레이블들, 즉각 항소…\"판결 납득 못해\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/13/2026111319430064691"
         },
         {
           "title": "빌리프랩, '아일릿 표절' 주장 민희진 상대 손해배상 소송 패소",
@@ -27,7 +165,7 @@
     },
     {
       "title": "대한민국 기후에너지환경부",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Fri, 13 Nov 2026 05:20:00 -0800",
       "news": [
         {
@@ -48,75 +186,14 @@
       ]
     },
     {
-      "title": "김영우",
-      "approx_traffic": "5000+",
-      "published": "Fri, 13 Nov 2026 05:00:00 -0800",
-      "news": [
-        {
-          "title": "한국 야구, APBC 일본전 패배…한일전 13경기 연속 무승",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712683"
-        },
-        {
-          "title": "'국가대표 新 해결사' 김휘집이 또 해냈다! 5-5 동점 스리런 폭발, 한일전 대반전 노린다 [오!쎈 도쿄] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/13/202611132201770502O"
-        },
-        {
-          "title": "'1점 포' 환영받는 한동희",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261113_0002291785"
-        }
-      ]
-    },
-    {
-      "title": "明天的天氣",
-      "approx_traffic": "100+",
-      "published": "Fri, 13 Nov 2026 04:50:00 -0800",
-      "news": [
-        {
-          "title": "要變天了！週六「華南雲雨區」東移　全台降雨機率高",
-          "source": "鏡新聞",
-          "url": "https://www.mnews.tw/story/20261113sot1951001"
-        },
-        {
-          "title": "好天氣掰了！華南雲雨帶逼近　「這地區」慎防較大雨勢",
-          "source": "三立新聞網SETN.com",
-          "url": "https://www.setn.com/news/1938469"
-        }
-      ]
-    },
-    {
-      "title": "ppi",
+      "title": "대한민국 야구",
       "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 04:40:00 -0800",
+      "published": "Fri, 13 Nov 2026 05:20:00 -0800",
       "news": [
         {
-          "title": "Breaking: U.S. Producer Prices Surge 6.5%, 4-Year High",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/market-money-en/2026/11/13/3YNIHXNJYZAJTB4OP3ACIJVIZM/"
-        },
-        {
-          "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
-        },
-        {
-          "title": "U.S. October PPI - Still firm ex food, energy and trade",
-          "source": "Continuum Economics",
-          "url": "https://continuumeconomics.com/a/cd15729c/us-october-ppi-still-firm-ex-food-energy-and-trade"
-        }
-      ]
-    },
-    {
-      "title": "한국 야구",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 04:30:00 -0800",
-      "news": [
-        {
-          "title": "호주에도 지는 한국야구",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261113/135017424/2"
+          "title": "[영상] ‘세미 프로’ 호주에 진 한국 야구의 씁쓸한 현실",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712049"
         },
         {
           "title": "'와' 이러니 MLB가 주목하지... '홈런+2루타 장타폭발' 김주원, \"포스팅시 많은 팀이 원할 것\" 이유 증명 [APBC] - 머니투데이",
@@ -127,89 +204,6 @@
           "title": "2026 아시아 프로야구 챔피언십 : 한국 야구의 미래, APBC 우승 도전하는 대한민국 [대한민국 vs 호주]",
           "source": "programs.sbs.co.kr",
           "url": "https://programs.sbs.co.kr/sports/2026apbc/clip/90890/22000639802"
-        }
-      ]
-    },
-    {
-      "title": "이세돌",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 04:30:00 -0800",
-      "news": [
-        {
-          "title": "[4회 선공개] 몸을 풀었을 뿐인데 최애의 표정이 굳었습니다 | KBS 방송",
-          "source": "대한민국 대표 공영미디어 KBS",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_LS-20260930224325-01-000_20261113_SC001&program_code=T2026-0530&program_id=LS-20260930224325-01-000&section_code=04&broadcast_complete_yn=N&section_id=28580"
-        },
-        {
-          "title": "“진짜 좋아해요, 팬이에요”… 이세돌, ‘코리안 좀비’ 정찬성 만나 팬심 고백",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/G5SDOYRVHA4DIMLFMMZTOOLGGI/"
-        },
-        {
-          "title": "‘백수’ 이세돌, 이번엔 ‘일당 40만원’ 타일공 도전…“목장갑 착용부터 난관”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20113443"
-        }
-      ]
-    },
-    {
-      "title": "대한민국 중소벤처기업부",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 04:20:00 -0800",
-      "news": [
-        {
-          "title": "전국이 함께한 소비축제 '코그페' - 전체 | 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975632&pWise=sub&pWiseSub=R3"
-        },
-        {
-          "title": "장보기부터 가전제품까지, 코리아그랜드페스티벌 할인 총정리",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3911"
-        },
-        {
-          "title": "대한민국 최대 할인행사, '코그페' 11월 15일까지 개최··· 전국에서 할인혜택 누리세요!",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=456585"
-        }
-      ]
-    },
-    {
-      "title": "박시원",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 04:20:00 -0800",
-      "news": [
-        {
-          "title": "[사진]인사하는 이구치 감독",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/13/MRRDQNLEGE2DMNZYHA2TOMJWMQ/"
-        },
-        {
-          "title": "[APBC] 日, 한국전 '특급 신인' 다케마루 선발 등판 예고",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261113000801"
-        },
-        {
-          "title": "[사진]한 타자도 못잡고 마운드 내려오는 박시원 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/13/202611132135777665O"
-        }
-      ]
-    },
-    {
-      "title": "유빈",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 04:10:00 -0800",
-      "news": [
-        {
-          "title": "오마이걸 유빈, 검정 슈트 차림 근황…비밀 요원 전략가 예고",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275023"
-        },
-        {
-          "title": "선미·유빈·영탁, 도심 속 우정샷…음악으로 이어진 특별한 순간",
-          "source": "진일보 | 전남일보",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082541"
         }
       ]
     }
