@@ -1,220 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T05:01:58+00:00",
+  "fetched_at": "2026-11-13T06:03:41+00:00",
   "items": [
     {
-      "title": "비서",
-      "approx_traffic": "1000+",
-      "published": "Thu, 12 Nov 2026 19:40:00 -0800",
-      "news": [
-        {
-          "title": "고1때 회계 빠져 열공, 로펌 비서하다 오기… ‘士’자 꿈 이뤘다[‘17세의 기술’ 대한민국을 만든다]",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11631046"
-        },
-        {
-          "title": "‘AI 비서’가 민원 전화까지?⋯공무원들 “답해야 하나”",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/20261112502069"
-        },
-        {
-          "title": "환불 요청 전화도 건다, 제미나이 앞지른 ‘피클’",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25477485"
-        }
-      ]
-    },
-    {
-      "title": "이더 리움",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 19:30:00 -0800",
-      "news": [
-        {
-          "title": "이더리움(ETH), 2,000달러 하회 후 2,024달러 회복…ETF 이탈·비트마인 매집 맞부딪혀",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/269786"
-        },
-        {
-          "title": "이더리움 2000달러선 위태…ETF도 5거래일 연속 순유출",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715246"
-        },
-        {
-          "title": "이더리움 5% 하락…美 중간선거 여파에 290만원대로 '뚝'[특징코인]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/blockchain-fintech/6347790"
-        }
-      ]
-    },
-    {
-      "title": "우기",
+      "title": "고용노동부",
       "approx_traffic": "100+",
-      "published": "Thu, 12 Nov 2026 19:30:00 -0800",
+      "published": "Thu, 12 Nov 2026 21:00:00 -0800",
       "news": [
         {
-          "title": "대형 행사 잇따라 앞둔 시진핑, 대만 문제 유화 발언…“평화통일·대화 원해”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711074"
-        },
-        {
-          "title": "시진핑, APEC·대만지방선거 앞두고 '평화통일·대화' 유화 발언",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261112116900083"
-        },
-        {
-          "title": "[속보] 시진핑 “대만 통일은 역사적 임무…양안관계 평화발전 노력해야”",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/international/international_general/2026/11/12/MWVXOWLX5NBWZHYPB26FH6IWFU/"
-        }
-      ]
-    },
-    {
-      "title": "lpga",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 19:30:00 -0800",
-      "news": [
-        {
-          "title": "Choi Hye-jin Grabs First-Round Lead with 9-Under at LPGA The Annika, Renewing Quest for Maiden Title",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008844282"
-        },
-        {
-          "title": "Korda Trails Katsu and Choi by Two on Day One at The ANNIKA",
-          "source": "LPGA",
-          "url": "https://www.lpga.com/news/2026/korda-trails-katsu-and-choi-by-two-on-day-one-at-the-annika"
-        },
-        {
-          "title": "Choi Hyejin's Flawless Play... 'Nine Birdies, No Bogeys'",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/world-general/2026111307501346440"
-        }
-      ]
-    },
-    {
-      "title": "공매도",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 19:20:00 -0800",
-      "news": [
-        {
-          "title": "\"공매도, 또 너냐?\"…'반토막' 삼전닉스 반등 확률 90% 까닭",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02315686645645064&mediaCodeNo=257"
-        },
-        {
-          "title": "실적 부진에 급락했는데…초고수들이 대거 사들인 종목",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611134741i"
-        },
-        {
-          "title": "\"반토막 난 삼성전자, 3개월 내 반등 확률 97%\"…'역대급' 분석 나온 결정적 이유",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611121541308635"
-        }
-      ]
-    },
-    {
-      "title": "전광훈",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 19:20:00 -0800",
-      "news": [
-        {
-          "title": "\"부동산 불법행위 걸리면 패가망신\"… '알박기' 전수조사 지시 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/11/11/2026111020024868141"
-        },
-        {
-          "title": "인허가·자금 조달 ‘원스톱 지원’…22곳서 3.9만가구 공급 박차",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20113178"
-        }
-      ]
-    },
-    {
-      "title": "신상진",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 19:10:00 -0800",
-      "news": [
-        {
-          "title": "신상진 성남시장, 노후소각장 대체 건립공사 점검",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261112_0003865947"
-        },
-        {
-          "title": "[포토] 신상진 성남시장, 상대원 노후 소각장 대체 공사 현장 점검",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751104"
-        },
-        {
-          "title": "신상진 시장 환경과 시민 편익 모두 고려한 소각시설 만들어야",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20261112212413675"
-        }
-      ]
-    },
-    {
-      "title": "jensen huang third affair",
-      "approx_traffic": "1000+",
-      "published": "Thu, 12 Nov 2026 19:10:00 -0800",
-      "news": [
-        {
-          "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/"
-        },
-        {
-          "title": "‘I’m a Piece of Sh--’: Jensen Huang’s Last Hours as Nvidia CEO",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia"
-        },
-        {
-          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cmq5vd1wdgz6o"
-        }
-      ]
-    },
-    {
-      "title": "미래에셋",
-      "approx_traffic": "100+",
-      "published": "Thu, 12 Nov 2026 19:10:00 -0800",
-      "news": [
-        {
-          "title": "키움증권, 미래에셋증권 목표가↓…\"투자역량 추가 입증 필요\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113029700008"
-        },
-        {
-          "title": "[분석]스페이스X 욕심이 부른 부메랑…미래에셋증권, ‘0주 참사’ 이어 대규모 적자 전환 By 알파경제 alphabiz",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2174133"
-        },
-        {
-          "title": "증권사 빅5, 올 누적순익 8.5조 육박 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/13/2026111219553795190"
-        }
-      ]
-    },
-    {
-      "title": "마우리시오 포체티노",
-      "approx_traffic": "1000+",
-      "published": "Thu, 12 Nov 2026 19:00:00 -0800",
-      "news": [
-        {
-          "title": "맨유 새 감독에 포체티노 유력",
+          "title": "경비원·간병인도 개인사업자로…고령층 위장고용 확산 우려",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611122023005"
+          "url": "https://www.khan.co.kr/article/202611081637001"
         },
         {
-          "title": "‘추락한 명가’ EPL 맨유, 캐릭 감독 경질…퍼거슨 이후 7번째",
+          "title": "노동부, '가짜 사업소득 계약'·'사업장 쪼개기' 기획 감독",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6865406_36918.html"
+        },
+        {
+          "title": "노동법 피하려 '가짜 3.3'·사업장 쪼개기…노동부, 140곳 기획감독",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374720"
+        }
+      ]
+    },
+    {
+      "title": "한국보훈복지의료공단",
+      "approx_traffic": "500+",
+      "published": "Thu, 12 Nov 2026 20:40:00 -0800",
+      "news": [
+        {
+          "title": "보훈공단-심평원, 국가유공자 적정진료·심사 협력 강화",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1196274"
+        },
+        {
+          "title": "준보훈병원 12월 출범…보훈 진료비 심사체계 강화",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261111_0003864275"
+        },
+        {
+          "title": "보훈공단, 국가유공자 적정진료 보장과 공공의료 강화 위해 심평원과 MOU",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11630668"
+        }
+      ]
+    },
+    {
+      "title": "이재룡",
+      "approx_traffic": "1000+",
+      "published": "Thu, 12 Nov 2026 20:30:00 -0800",
+      "news": [
+        {
+          "title": "이재룡, 첫 공판서 ‘술타기’ 부인…“음주 측정 방해 아냐”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712126"
+        },
+        {
+          "title": "'음주 뺑소니 의혹' 배우 이재룡, 첫 재판서 '술타기' 혐의 부인",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261113_0003866985"
+        },
+        {
+          "title": "뺑소니 사고 내고 달아나 또 술자리…법정 선 이재룡, 혐의 부인",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261113580249"
+        }
+      ]
+    },
+    {
+      "title": "국민의힘",
+      "approx_traffic": "500+",
+      "published": "Thu, 12 Nov 2026 20:30:00 -0800",
+      "news": [
+        {
+          "title": "윤리위원 측 \"韓 징계에 외부인사 관여… 張 통화 녹음·메신저 대화 갖고 있다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/11/13/DTKNY4U6AFCZVBQT635VTJ5DZE/"
+        },
+        {
+          "title": "[KBS 열린토론] 국힘 조작 징계? “한동훈의 헛발질” vs “증거 있을 것”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712236"
+        },
+        {
+          "title": "친한계 박정훈 “‘조작 징계’ 확인되면 장동혁 형사처벌 사항”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1287191.html"
+        }
+      ]
+    },
+    {
+      "title": "광교신도시",
+      "approx_traffic": "500+",
+      "published": "Thu, 12 Nov 2026 20:20:00 -0800",
+      "news": [
+        {
+          "title": "\"집값 25%만 내고 입주\"…광교 지분적립형에 2만 명 몰려",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611123258i"
+        },
+        {
+          "title": "광교 웃고 평택 울고…경기도 청약시장 양극화",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336726"
+        },
+        {
+          "title": "GH 추진 전국 첫 지분적립형 분양주택 1순위 경쟁률 '100:1'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261111175000061"
+        }
+      ]
+    },
+    {
+      "title": "개",
+      "approx_traffic": "5000+",
+      "published": "Thu, 12 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "'화면 여백' 지적받은 아이폰 듀오…최적화 앱 10만개 넘었다",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1198195"
+        },
+        {
+          "title": "애플 “아이폰 듀오 최적화 앱 10만 개 돌파…매일 수 천개 추가”",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261113/135018915/1"
+          "url": "https://www.donga.com/news/It/article/all/20261113/135020284/1"
         },
         {
-          "title": "\"난 이제 간다\" 캐릭, 선수들 앞 끝내 눈물 터졌다 \"악수한 뒤 쓸쓸히 떠나\"... 그래도 '위약금 90억' 챙겨 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/13/2026111310174716793"
+          "title": "\"아이폰 듀오 힌지 결함, 설계 문제 아닌 불량 부품 때문\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261110131755"
+        }
+      ]
+    },
+    {
+      "title": "오산시",
+      "approx_traffic": "1000+",
+      "published": "Thu, 12 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "행복기숙사, 인재장학금, 문화패스 등 오산시 청년 지원책 확대 노력",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1774656"
+        },
+        {
+          "title": "조용호 시장, “청년이 경제적 어려움으로 배움 끊기는 일 없도록 뒷받침하겠다”",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/publicnews/2026/11/13/20261113500059"
+        },
+        {
+          "title": "오산시, 청년 학업·성장 기회 확대에 온 힘 보탠다",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/20261112502233"
+        }
+      ]
+    },
+    {
+      "title": "한국가스",
+      "approx_traffic": "200+",
+      "published": "Thu, 12 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "한국가스공사, LNG선 화물창 결함에 2684억원 배상… 2심서 800억원 늘어",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/law_firm/2026/11/13/LTVT7C2Q6JFWXIKKZS3M7FUA7Y/"
+        },
+        {
+          "title": "[단독] “가스공사, 2200억원 물어줘라”…‘한국형 LNG 화물창’ 초유의 소송전 SK해운 웃었다 [세상&]",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10935820"
+        },
+        {
+          "title": "법원 \"'한국형 LNG선 하자' 가스공사, SK해운에 2200억 배상\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/court-prosecution/6353183"
+        }
+      ]
+    },
+    {
+      "title": "박신영",
+      "approx_traffic": "1000+",
+      "published": "Thu, 12 Nov 2026 20:00:00 -0800",
+      "news": [
+        {
+          "title": "‘사망 사고’ 낸 박신영 “구조 않고 차에 숨었다? 사실 아냐”…틱톡커로 등장한 이유 있었다",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10933678"
+        },
+        {
+          "title": "'과속 사망사고' 前 아나운서, 복귀 시동…\"평생 반성한다더니\" 온라인 시끌",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611110001377383"
+        },
+        {
+          "title": "“쉽게 무너지지 않을 것”…‘배달원 사망사고’ 박신영 전 아나, 8만 틱톡커 변신",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20112221"
+        }
+      ]
+    },
+    {
+      "title": "카카오워크",
+      "approx_traffic": "200+",
+      "published": "Thu, 12 Nov 2026 19:50:00 -0800",
+      "news": [
+        {
+          "title": "카카오워크 해킹, 업무 정보 줄줄... ‘종단간 암호화’ 무색",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147242"
+        },
+        {
+          "title": "카카오 기업용 메신저 ‘카카오워크’ 해킹…메일 내용·첨부파일도 유출",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261113/135019362/1"
+        },
+        {
+          "title": "카카오 기업용 메신저서 보안 사고…메일 본문·첨부파일 원본도 유출",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261112_0003866340"
         }
       ]
     }
