@@ -1,8 +1,36 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T15:54:21+00:00",
+  "fetched_at": "2026-11-13T16:58:13+00:00",
   "items": [
+    {
+      "title": "인벤",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 07:40:00 -0800",
+      "news": []
+    },
+    {
+      "title": "박지현",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 07:40:00 -0800",
+      "news": [
+        {
+          "title": "나 혼자 산다",
+          "source": "MBC",
+          "url": "https://m.imbc.com/VOD/VodView?progCode=1002831100000100000&broadcastID=1002831101572100000&type=Prevod"
+        },
+        {
+          "title": "박지현, 코드쿤스트에 감동…‘대학가요제’서 깜짝 만남",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023608/1"
+        },
+        {
+          "title": "박지현, 돈 많이 벌어도 여전히 ‘모텔 사랑’... 침대서 벌떡 “가만히 있으면 안 바뀌어”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/GU4DKZLFG4ZTENTCGE4TOMZTGM/"
+        }
+      ]
+    },
     {
       "title": "구성환",
       "approx_traffic": "200+",
@@ -14,9 +42,9 @@
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/MU3DAZJUMIZGCM3CMIYWMNZYGI/"
         },
         {
-          "title": "구성환 “학창 시절 4대 천왕…초콜릿·편지 많이 받았다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023588/1"
+          "title": "구성환, 첫사랑과 재회 “50일 사귀고 1년 더 좋아해” (나혼산)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261113/135023281/1"
         },
         {
           "title": "\"조승우·손예진의 '클래식'이었다\"…구성환, 30년전 50일 사귄 동창 재회",
@@ -48,30 +76,8 @@
       ]
     },
     {
-      "title": "축구중계",
-      "approx_traffic": "5000+",
-      "published": "Fri, 13 Nov 2026 06:20:00 -0800",
-      "news": [
-        {
-          "title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611112246001"
-        },
-        {
-          "title": "'무엇이든 해줄지니 비서진' 축구 한국 사우디 축구 중계로 결방",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751617"
-        },
-        {
-          "title": "‘흥행 보증수표’의 몰락…외면 받는 한국 축구 A매치",
-          "source": "스포츠월드",
-          "url": "https://www.sportsworldi.com/newsView/20261112514439"
-        }
-      ]
-    },
-    {
       "title": "대한민국",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Fri, 13 Nov 2026 06:20:00 -0800",
       "news": [
         {
@@ -85,15 +91,15 @@
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711215"
         },
         {
-          "title": "세계로 향하는 K-Sool, '2026 대한민국 우리술 대축제' 막 올랐다!",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=456942"
+          "title": "다양한 술을 맛볼 수 있는 우리술 대축제",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261113001303"
         }
       ]
     },
     {
       "title": "쿠플",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Fri, 13 Nov 2026 06:20:00 -0800",
       "news": []
     },
@@ -103,14 +109,14 @@
       "published": "Fri, 13 Nov 2026 06:20:00 -0800",
       "news": [
         {
-          "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712285"
+          "title": "구자욱·원태인 등 28명, FA 공시…A등급 6명",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113232604RDP"
         },
         {
-          "title": "와~60위 됐으면 어쩔뻔, 연봉 61위 C등급 깜짝 호재...하늘이 돕는 FA 김호령, 실수령 1억5천 고우석이 왜 도우미로 거론되나",
+          "title": "구자욱 어렵다면 스톱갭이라도 필요한 롯데 → 이택근 단장 기본 방침 \"그룹도 설득하겠다",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/14/GQ4DSYTDGAYDINJRGY2GEOLFGM/"
+          "url": "https://www.chosun.com/sports/baseball/2026/11/14/HAYDAODCMQ3TQYZVMY2TEMBYMU/"
         },
         {
           "title": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
@@ -147,19 +153,19 @@
       "published": "Fri, 13 Nov 2026 05:20:00 -0800",
       "news": [
         {
-          "title": "“아일릿이 뉴진스 카피” 민희진에 20억 손배소송한 빌리프랩 패소",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611131850001"
-        },
-        {
-          "title": "민희진에 패소한 하이브 레이블들, 즉각 항소…\"판결 납득 못해\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/13/2026111319430064691"
+          "title": "빌리프랩·쏘스뮤직, 민희진 상대 손배소 1심서 패소(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113166651004"
         },
         {
           "title": "빌리프랩, '아일릿 표절' 주장 민희진 상대 손해배상 소송 패소",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/society/article/6865528_36918.html"
+        },
+        {
+          "title": "민희진에 패소한 하이브 레이블들, 즉각 항소…\"판결 납득 못해\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/13/2026111319430064691"
         }
       ]
     },
@@ -169,41 +175,14 @@
       "published": "Fri, 13 Nov 2026 05:20:00 -0800",
       "news": [
         {
-          "title": "“기후행동 실천하면 포인트·금리우대”…민관 금융협력 체계 구축",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374702"
+          "title": "[인사] 기후에너지환경부 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2172282"
         },
         {
-          "title": "은행 앱으로 '기후시민' 등록하면 은행 포인트도 준다… 기후부, KB·IBK와 협약",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611121400203488"
-        },
-        {
-          "title": "온라인 기후행동 공간 '굳티튜드 숲' 열렸다…대변인실이 AI로 개발",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261112_0003864872"
-        }
-      ]
-    },
-    {
-      "title": "대한민국 야구",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 05:20:00 -0800",
-      "news": [
-        {
-          "title": "[영상] ‘세미 프로’ 호주에 진 한국 야구의 씁쓸한 현실",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712049"
-        },
-        {
-          "title": "'와' 이러니 MLB가 주목하지... '홈런+2루타 장타폭발' 김주원, \"포스팅시 많은 팀이 원할 것\" 이유 증명 [APBC] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/13/2026111219552258076"
-        },
-        {
-          "title": "2026 아시아 프로야구 챔피언십 : 한국 야구의 미래, APBC 우승 도전하는 대한민국 [대한민국 vs 호주]",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/sports/2026apbc/clip/90890/22000639802"
+          "title": "[인사] 기후에너지환경부",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261112001466"
         }
       ]
     }
