@@ -1,11 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T01:12:15+00:00",
+  "fetched_at": "2026-11-13T02:12:26+00:00",
   "items": [
     {
-      "title": "m365",
+      "title": "gemini hydrogen",
       "approx_traffic": "200+",
+      "published": "Thu, 12 Nov 2026 16:50:00 -0800",
+      "news": [
+        {
+          "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
+          "source": "blog.google",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+        },
+        {
+          "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/"
+        },
+        {
+          "title": "Gemini 4 Carbon in GitHub Copilot",
+          "source": "The GitHub Blog",
+          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot/"
+        }
+      ]
+    },
+    {
+      "title": "평가",
+      "approx_traffic": "1000+",
+      "published": "Thu, 12 Nov 2026 16:40:00 -0800",
+      "news": [
+        {
+          "title": "ESG 성적 'A+' 자랑한 KB·신한금융…옥에 티는 'LTV 담합'",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444583"
+        },
+        {
+          "title": "영진약품, 한국ESG기준원 ESG 평가 통합 'A' 등급 획득",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721800"
+        },
+        {
+          "title": "세아그룹 3개사 ESG 평가 A등급…세아홀딩스·세아제강 동반상승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113045000003"
+        }
+      ]
+    },
+    {
+      "title": "아시아 프로야구 챔피언십",
+      "approx_traffic": "2000+",
+      "published": "Thu, 12 Nov 2026 16:30:00 -0800",
+      "news": [
+        {
+          "title": "호주에도 지는 한국야구",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261113/135017424/2"
+        },
+        {
+          "title": "‘호주전 7-8 충격패→결승 탈락 위기’ 한국, 日 11승 대형 좌완신인 만난다 “한국 좋은 타자 많아”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/13/MQYDKOJTGMYDMNZYHFTDEOJWG4/"
+        },
+        {
+          "title": "'와' 이러니 MLB가 주목하지... '홈런+2루타 장타폭발' 김주원, \"포스팅시 많은 팀이 원할 것\" 이유 증명 [APBC] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/13/2026111219552258076"
+        }
+      ]
+    },
+    {
+      "title": "금융통화위원회",
+      "approx_traffic": "100+",
+      "published": "Thu, 12 Nov 2026 16:30:00 -0800",
+      "news": [
+        {
+          "title": "11월엔 올린다지만 그다음은…금통위가 주목한 소비의 온도",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444388"
+        },
+        {
+          "title": "[이슈&인사이트] 연준의 결정을 기다리지 않는 통화정책",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261110022330363"
+        },
+        {
+          "title": "[현승윤 칼럼] 한은, 기준금리 인상에 신중할 때",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111109361"
+        }
+      ]
+    },
+    {
+      "title": "메르세데스-벤츠",
+      "approx_traffic": "5000+",
+      "published": "Thu, 12 Nov 2026 16:20:00 -0800",
+      "news": [
+        {
+          "title": "벤츠도 독일 공장 폐쇄 검토…\"국내 투자 중단\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113005800082"
+        },
+        {
+          "title": "메르세데스-벤츠, 독일 공장 폐쇄 검토…“국내 투자 중단”",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261113000122"
+        },
+        {
+          "title": "BMW마저 휘청… 독일 자동차 3사에 무슨 일이?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/kid/kid_nie/kid_upper-grades/2026/11/11/F7KF6RXKHNDTNGLFL7RGBOCQXU/"
+        }
+      ]
+    },
+    {
+      "title": "양승조",
+      "approx_traffic": "500+",
+      "published": "Thu, 12 Nov 2026 15:50:00 -0800",
+      "news": [
+        {
+          "title": "수자원공사 신임 사장에 양승조 임명, 충남지사 지내",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451928"
+        },
+        {
+          "title": "수자원공사 신임 사장에 양승조 전 충남지사 13일 취임",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261112_0003866325"
+        },
+        {
+          "title": "신임 수자원공사 사장에 양승조 \"기후위기 대응 반도체 물공급 완수\"",
+          "source": "중도일보",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261112010004513"
+        }
+      ]
+    },
+    {
+      "title": "m365",
+      "approx_traffic": "500+",
       "published": "Thu, 12 Nov 2026 15:50:00 -0800",
       "news": [
         {
@@ -26,63 +158,24 @@
       ]
     },
     {
-      "title": "양승조",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 15:50:00 -0800",
-      "news": [
-        {
-          "title": "한국수자원공사 신임 사장에 양승조 전 충남지사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261112179200063"
-        },
-        {
-          "title": "수자원공사 17대 사장에 양승조 전 충남지사…13일 업무 시작",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/daejeon-chungnam/6352895"
-        },
-        {
-          "title": "수자원공사 신임 사장에 양승조 전 충남지사 13일 취임",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261112_0003866325"
-        }
-      ]
-    },
-    {
       "title": "김영훈",
       "approx_traffic": "200+",
       "published": "Thu, 12 Nov 2026 15:40:00 -0800",
       "news": [
         {
-          "title": "“전남광주 청년에게도 기회를”…반도체 일자리 논의한 광산구",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12205507"
+          "title": "노동장관, 반도체 기업 간담회…초광역특구 사회적 대화에 참고",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261112178500530"
         },
         {
-          "title": "광산구 ‘지속가능 일자리 정책’ 호평",
-          "source": "남도일보",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=929112"
-        }
-      ]
-    },
-    {
-      "title": "맨체스터 유나이티드 fc",
-      "approx_traffic": "1000+",
-      "published": "Thu, 12 Nov 2026 15:40:00 -0800",
-      "news": [
-        {
-          "title": "맨유 새 감독에 포체티노 유력",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611122023005"
+          "title": "반도체 업계 만난 노동장관…“지속적 혁신·좋은 일자리, 두 과제에 역량 집중해야”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/11/13/OET4E3NDM5FAZONDZFIWDVGGAI/"
         },
         {
-          "title": "[오피셜]'40년만의 강등권' 맨유, 6개월만에 캐릭 '전격 경질'...훈련 중 포체티노 합의→'레전드' 향한 황당 대우에 \"역겹다\", \"소송감\" 비난 쇄도 중",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/13/MQ3TCMJSGQ3GIMBVME2TKNDFMU/"
-        },
-        {
-          "title": "'오히려 좋아!' 포체티노 맨유행 임박...미국대표팀, 세계최고 명장 펩 과르디올라 노린다",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261111183001886"
+          "title": "김영훈, 삼성·SK 만나 반도체 근로시간 유연화 논의…메가특구 사회적대화 연계",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10935546"
         }
       ]
     },
@@ -97,124 +190,36 @@
           "url": "https://www.chosun.com/international/us/2026/11/13/NXMEZQGXVZED5NNRARRJ42TEQ4/"
         },
         {
-          "title": "창피 뒤 반전 시도?…국립묘지서 떠든 미 국방, 꾸짖은 병사에 훈장",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261113083333TBx"
-        },
-        {
           "title": "국립묘지에서 웃고 떠들다 혼쭐난 '국방장관' 헤그세스",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865260_37004.html"
+        },
+        {
+          "title": "헤그세스, 자신 꾸짖은 경비병에 훈장…“잘했다, 상병”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261113/135018124/1"
         }
       ]
     },
     {
       "title": "두산에너빌리티",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Thu, 12 Nov 2026 15:10:00 -0800",
       "news": [
         {
-          "title": "[장중수급포착] 두산에너빌리티, 외국인/기관 동시 순매수… 주가 +6.00%",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261110000746"
+          "title": "'DL이앤씨·두산 협력사' 엑스에너지 미국 SMR 건설 승인, \"실제 착공 여부는 미지수\"",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451730"
         },
         {
-          "title": "두산에너빌리티 주가 400원 상승 후 마감",
-          "source": "아시아뉴스통신",
-          "url": "https://m.anewsa.com/article_sub3.php?number=3217002&type=&mobile="
+          "title": "두산에너빌리티, NuScale 원자로 계약 체결: 034020, 상승세 이어갈까?",
+          "source": "Traders Union",
+          "url": "https://tradersunion.com/ko/news/stocks/show/4206554-doosan-enerbility-slides-0-21percent-today/"
         },
         {
-          "title": "[단독] 두산에너빌리티, 퇴직연금 적립률 미달에 과태료",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/11/10/Y4UMG73LYVGPZAQYNYBO46HY5M/"
-        }
-      ]
-    },
-    {
-      "title": "정명훈",
-      "approx_traffic": "2000+",
-      "published": "Thu, 12 Nov 2026 15:00:00 -0800",
-      "news": [
-        {
-          "title": "“정명훈 공연만 날린 게 아니다” 부산이 100억과 바꾼 것",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25477943"
-        },
-        {
-          "title": "함신익과 심포니송, 내년 베토벤 200주기 기념 공연",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261112136700005"
-        },
-        {
-          "title": "[잇슈 컬처] 정명훈·정경화 남매, 3년 6개월 만에 한 무대",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709419"
-        }
-      ]
-    },
-    {
-      "title": "czech republic national football team vs spain national football team standings",
-      "approx_traffic": "500+",
-      "published": "Thu, 12 Nov 2026 14:50:00 -0800",
-      "news": [
-        {
-          "title": "Czech Republic 0-2 Spain: Comfortable win extends unbeaten run to 43 games",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cwg5jrzyqzdnt"
-        },
-        {
-          "title": "Balde, Puig Lead Spain to 2-0 Victory",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/13/RGAKJQYST5EGHFSN6ZTTKW5TV4/"
-        },
-        {
-          "title": "0-2: Cucurella and Huijsen, starters in Spain's victory against the Czech Republic",
-          "source": "Real Madrid CF | Web Oficial",
-          "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/cronica-republica-checa-espana-12-11-2026"
-        }
-      ]
-    },
-    {
-      "title": "미세먼지",
-      "approx_traffic": "100+",
-      "published": "Thu, 12 Nov 2026 14:50:00 -0800",
-      "news": [
-        {
-          "title": "올가을 첫 스모그 유입...수능 앞두고 기온 '뚝'",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611121106023296"
-        },
-        {
-          "title": "[포토뉴스]초미세먼지에 갇힌 한강",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611122106005"
-        },
-        {
-          "title": "[날씨] 한낮 온화, 큰 일교차 주의…중서부 공기 질 나쁨",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20261112013400038"
-        }
-      ]
-    },
-    {
-      "title": "대한민국 청와대",
-      "approx_traffic": "100+",
-      "published": "Thu, 12 Nov 2026 14:50:00 -0800",
-      "news": [
-        {
-          "title": "(설명) 서울경제, \"공공기관 통폐합도 지방 이전도...노봉법에 발목\" 기사 관련",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148975437"
-        },
-        {
-          "title": "발언하는 이재명 대통령",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261112_0021530822"
-        },
-        {
-          "title": "2026년도 제48회 국무회의",
-          "source": "대한민국 청와대",
-          "url": "https://www.president.go.kr/photos/president/QZ0z91Ez"
+          "title": "[두산에너빌리티의 2막②] 기술에 베팅한 두산…가스터빈에서 원전까지",
+          "source": "뷰어스",
+          "url": "https://theviewers.co.kr/View.aspx?No=4306659"
         }
       ]
     }
