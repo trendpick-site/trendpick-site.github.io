@@ -1,27 +1,110 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T13:51:47+00:00",
+  "fetched_at": "2026-11-13T14:56:02+00:00",
   "items": [
+    {
+      "title": "민희진",
+      "approx_traffic": "500+",
+      "published": "Fri, 13 Nov 2026 05:20:00 -0800",
+      "news": [
+        {
+          "title": "“아일릿이 뉴진스 카피” 민희진에 20억 손배소송한 빌리프랩 패소",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611131850001"
+        },
+        {
+          "title": "빌리프랩·쏘스뮤직, 민희진에 20억 손배소 1심 패소",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611132301137ET"
+        },
+        {
+          "title": "빌리프랩, '아일릿 표절' 주장 민희진 상대 손해배상 소송 패소",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6865528_36918.html"
+        }
+      ]
+    },
+    {
+      "title": "대한민국 기후에너지환경부",
+      "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 05:20:00 -0800",
+      "news": [
+        {
+          "title": "“기후행동 실천하면 포인트·금리우대”…민관 금융협력 체계 구축",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374702"
+        },
+        {
+          "title": "은행 앱으로 '기후시민' 등록하면 은행 포인트도 준다… 기후부, KB·IBK와 협약",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611121400203488"
+        },
+        {
+          "title": "온라인 기후행동 공간 '굳티튜드 숲' 열렸다…대변인실이 AI로 개발",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261112_0003864872"
+        }
+      ]
+    },
+    {
+      "title": "김영우",
+      "approx_traffic": "5000+",
+      "published": "Fri, 13 Nov 2026 05:00:00 -0800",
+      "news": [
+        {
+          "title": "한국 야구, APBC 일본전 패배…한일전 13경기 연속 무승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712683"
+        },
+        {
+          "title": "'국가대표 新 해결사' 김휘집이 또 해냈다! 5-5 동점 스리런 폭발, 한일전 대반전 노린다 [오!쎈 도쿄] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/13/202611132201770502O"
+        },
+        {
+          "title": "'1점 포' 환영받는 한동희",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261113_0002291785"
+        }
+      ]
+    },
+    {
+      "title": "明天的天氣",
+      "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 04:50:00 -0800",
+      "news": [
+        {
+          "title": "要變天了！週六「華南雲雨區」東移　全台降雨機率高",
+          "source": "鏡新聞",
+          "url": "https://www.mnews.tw/story/20261113sot1951001"
+        },
+        {
+          "title": "好天氣掰了！華南雲雨帶逼近　「這地區」慎防較大雨勢",
+          "source": "三立新聞網SETN.com",
+          "url": "https://www.setn.com/news/1938469"
+        }
+      ]
+    },
     {
       "title": "ppi",
       "approx_traffic": "200+",
       "published": "Fri, 13 Nov 2026 04:40:00 -0800",
       "news": [
         {
-          "title": "PPI data reveals slight dip, indicating moderated inflation pressures",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/economic-indicators/ppi-data-reveals-slight-dip-indicating-moderated-inflation-pressures-93CH-5025470"
+          "title": "Breaking: U.S. Producer Prices Surge 6.5%, 4-Year High",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/market-money-en/2026/11/13/3YNIHXNJYZAJTB4OP3ACIJVIZM/"
         },
         {
-          "title": "Dollar strength builds as markets brace for US producer price data",
-          "source": "FXStreet",
-          "url": "https://www.fxstreet.com/analysis/dollar-strength-builds-as-markets-brace-for-us-producer-price-data-202611130809"
+          "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
         },
         {
-          "title": "PPI report moments away: Hot wholesale inflation could raise odds of a bigger Fed rate hike — live updates",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/livecoverage/ppi-report-today-october-inflation-fed-rates-live-updates"
+          "title": "U.S. October PPI - Still firm ex food, energy and trade",
+          "source": "Continuum Economics",
+          "url": "https://continuumeconomics.com/a/cd15729c/us-october-ppi-still-firm-ex-food-energy-and-trade"
         }
       ]
     },
@@ -41,9 +124,9 @@
           "url": "https://www.mt.co.kr/sports/2026/11/13/2026111219552258076"
         },
         {
-          "title": "강속구 투수 없는 마운드 '와르르'‥복병 호주에 충격패",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865266_37004.html"
+          "title": "2026 아시아 프로야구 챔피언십 : 한국 야구의 미래, APBC 우승 도전하는 대한민국 [대한민국 vs 호주]",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/sports/2026apbc/clip/90890/22000639802"
         }
       ]
     },
@@ -71,13 +154,29 @@
     },
     {
       "title": "대한민국 중소벤처기업부",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Fri, 13 Nov 2026 04:20:00 -0800",
-      "news": []
+      "news": [
+        {
+          "title": "전국이 함께한 소비축제 '코그페' - 전체 | 카드/한컷 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975632&pWise=sub&pWiseSub=R3"
+        },
+        {
+          "title": "장보기부터 가전제품까지, 코리아그랜드페스티벌 할인 총정리",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3911"
+        },
+        {
+          "title": "대한민국 최대 할인행사, '코그페' 11월 15일까지 개최··· 전국에서 할인혜택 누리세요!",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=456585"
+        }
+      ]
     },
     {
       "title": "박시원",
-      "approx_traffic": "1000+",
+      "approx_traffic": "500+",
       "published": "Fri, 13 Nov 2026 04:20:00 -0800",
       "news": [
         {
@@ -98,28 +197,6 @@
       ]
     },
     {
-      "title": "대한민국 사우디",
-      "approx_traffic": "2000+",
-      "published": "Fri, 13 Nov 2026 04:10:00 -0800",
-      "news": [
-        {
-          "title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611112246001"
-        },
-        {
-          "title": "'무엇이든 해줄지니 비서진' 축구 한국 사우디 축구 중계로 결방",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751617"
-        },
-        {
-          "title": "‘흥행 보증수표’의 몰락…외면 받는 한국 축구 A매치",
-          "source": "스포츠월드",
-          "url": "https://www.sportsworldi.com/newsView/20261112514439"
-        }
-      ]
-    },
-    {
       "title": "유빈",
       "approx_traffic": "200+",
       "published": "Fri, 13 Nov 2026 04:10:00 -0800",
@@ -133,72 +210,6 @@
           "title": "선미·유빈·영탁, 도심 속 우정샷…음악으로 이어진 특별한 순간",
           "source": "진일보 | 전남일보",
           "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082541"
-        }
-      ]
-    },
-    {
-      "title": "피클",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 03:50:00 -0800",
-      "news": [
-        {
-          "title": "[단독]AI 에이전트 ‘피클’ 코레일 접근 안 된다···미국선 항공사도 AI 차단",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611121711011"
-        },
-        {
-          "title": "美 유나이티드항공 AI 예약 차단 예고…국내 항공업계 \"보안 측면 검토 중\"",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=354613"
-        },
-        {
-          "title": "AI 비서가 항공권 대신 예약?…유나이티드항공은 막았다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261112_0003865888"
-        }
-      ]
-    },
-    {
-      "title": "내일 날씨",
-      "approx_traffic": "200000+",
-      "published": "Fri, 13 Nov 2026 03:40:00 -0800",
-      "news": [
-        {
-          "title": "토요일 전국 흐리고 비…제주 최대 60㎜ [내일 날씨]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611134717i"
-        },
-        {
-          "title": "토요일 전국에 ‘가을비’… 일요일 오전부터 맑아져",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/11/13/DFMNWVLQ2FAALI5BHSA2C7SSP4/"
-        },
-        {
-          "title": "[날씨] 예년보다 온화한 늦가을 날씨...충청 이남 가을비",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0108_202611130906220733_005.html"
-        }
-      ]
-    },
-    {
-      "title": "cuaca besok",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 03:40:00 -0800",
-      "news": [
-        {
-          "title": "Sulawesi Selatan Berpotensi Hujan Ringan, Simak Prakiraan Cuaca Sabtu (13/11)",
-          "source": "kontan.co.id",
-          "url": "https://momsmoney.kontan.co.id/news/sulawesi-selatan-berpotensi-hujan-ringan-simak-prakiraan-cuaca-sabtu-1311-1"
-        },
-        {
-          "title": "BMKG Peringatkan Angin Kencang dan Udara Panas di Sulsel Hari Ini, Cek Wilayah Terdampak",
-          "source": "Journalist Independent",
-          "url": "https://journalistindependent.com/2026/11/13/bmkg-peringatkan-angin-kencang-dan-udara-panas-di-sulsel-hari-ini-cek-wilayah-terdampak/"
-        },
-        {
-          "title": "Sebagian Besar Wilayah Sulsel Berpotensi Hujan Ringan Hari Ini",
-          "source": "IDN Times Sulsel",
-          "url": "https://sulsel.idntimes.com/news/sulawesi-selatan/sebagian-besar-wilayah-sulsel-berpotensi-hujan-ringan-hari-ini-00-5qckx-1hczxw"
         }
       ]
     }
