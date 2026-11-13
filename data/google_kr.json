@@ -1,13 +1,156 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-13T08:37:54+00:00",
+  "fetched_at": "2026-11-13T09:34:57+00:00",
   "items": [
     {
-      "title": "주간조선",
+      "title": "김종민",
       "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 00:30:00 -0800",
+      "news": [
+        {
+          "title": "김종민, 아빠 될 준비 중…“맞춤법·띄어쓰기 배우고 있어” (1박2일)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261113/135018756/1"
+        },
+        {
+          "title": "김종민이 달라졌어요..'임신' ♥김지원 닮은 11살 아내→아들 위해 \"국어 공부 중\" ('1박2일')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/GZSDIM3BGAYDOMZTHBQTKMBVMM/"
+        },
+        {
+          "title": "김종민 \"태어날 子 위해 맞춤법·띄어쓰기 배우는 중\" (1박 2일)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524710"
+        }
+      ]
+    },
+    {
+      "title": "김현태",
+      "approx_traffic": "500+",
+      "published": "Fri, 13 Nov 2026 00:20:00 -0800",
+      "news": [
+        {
+          "title": "법원, ‘국회 봉쇄’ 김현태 전 707 단장 구속취소 요청 기각",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712031"
+        },
+        {
+          "title": "‘국회 봉쇄’ 김현태 전 단장, 구속 상태로 재판… 법원, 구속취소 기각",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/law/2026/11/13/20261113500102"
+        },
+        {
+          "title": "법원, '국회 봉쇄' 김현태 전 707특임단장 구속 취소 요청 기각",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6865396_36918.html"
+        }
+      ]
+    },
+    {
+      "title": "배드민턴",
+      "approx_traffic": "5000+",
+      "published": "Fri, 13 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "배드민턴 ‘세계 1위’ 서승재-김원호, 116위 한국 신생 조에 덜미",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711219"
+        },
+        {
+          "title": "'세계 1위가 116위에 무너졌다' 韓 남복 충격 이변...서승재-김원호, '신생 조' 진용-조송현에 덜미→\"덜 알려진 동료에게 패했다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/13/MJRTAMJVMUYGCZBYGYYWCYZWGM/"
+        },
+        {
+          "title": "세계랭킹 116위의 업셋...진용-조송현, 세계 1위 서승재-김원호 완파",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261112001465"
+        }
+      ]
+    },
+    {
+      "title": "공인중개사",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 00:00:00 -0800",
+      "news": [
+        {
+          "title": "등기부 열람료 700원→1100원… 공인 중개사들 국회서 “철회하라”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/13/73ITORNBEVDAXPOPULZKAL64CA/"
+        },
+        {
+          "title": "등기 열람 수수료 700원 →1100원… 공인중개사들 반발",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261113/135017604/2"
+        },
+        {
+          "title": "대법원, 25년 만에 등기부등본 열람·발급 수수료 400원 인상",
+          "source": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229284"
+        }
+      ]
+    },
+    {
+      "title": "문화누리카드",
+      "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 00:00:00 -0800",
+      "news": []
+    },
+    {
+      "title": "탁재훈",
+      "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 00:00:00 -0800",
+      "news": [
+        {
+          "title": "장서희, 탁재훈과 ‘베드신’ 찍나…“시키는 대로 하겠다”",
+          "source": "TWIG",
+          "url": "https://www.twig24.com/news/entertainments/celebrity/2026/11/12/20261112500312"
+        },
+        {
+          "title": "장서희, 日 AV 배우 오구라 유나 작품 찾아봤다…\"안 귀엽더라\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111317585223286"
+        },
+        {
+          "title": "'54세 싱글' 장서희 \"꽃미남보다 남자다운 사람 좋아\" 이상형 고백",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6351759"
+        }
+      ]
+    },
+    {
+      "title": "035420",
+      "approx_traffic": "200+",
+      "published": "Thu, 12 Nov 2026 23:50:00 -0800",
+      "news": [
+        {
+          "title": "Naver's Q3 operating profit falls 21% as it bets on 2 trillion won deal, AI agent app and logistics subsidiary",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/en/tech/2026/11/12/2026111215474393674"
+        },
+        {
+          "title": "Naver Establishes Logistics Subsidiary to Challenge Coupang's Rocket Delivery",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/industry-en/2026/11/13/NIY2CTCHFFCZHLNWVLTNUGBS74/"
+        },
+        {
+          "title": "NAVER's Core Ad Business Wavers... Personalized AI Agents as Its Big Bet",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/IT/2026111310295830817"
+        }
+      ]
+    },
+    {
+      "title": "주간조선",
+      "approx_traffic": "1000+",
       "published": "Thu, 12 Nov 2026 23:30:00 -0800",
       "news": [
+        {
+          "title": "2934 목차",
+          "source": "주간조선",
+          "url": "https://weekly.chosun.com/bbs/view.html?idxno=284"
+        },
         {
           "title": "반도체 물 ‘속도전’의 숙제…가뭄 검증도, 농민 설득도, 기업 절수도 ‘아직’",
           "source": "경향신문",
@@ -61,160 +204,6 @@
           "title": "김승준-양건, 승리 합작…한국기원 자회사 사이버오로, 효림 잡고 PO 진출",
           "source": "쿠키뉴스",
           "url": "https://www.kukinews.com/article/view/kuk202611130134"
-        }
-      ]
-    },
-    {
-      "title": "sk해운",
-      "approx_traffic": "1000+",
-      "published": "Thu, 12 Nov 2026 22:30:00 -0800",
-      "news": [
-        {
-          "title": "한국가스공사, LNG선 화물창 결함에 2684억원 배상… 2심서 800억원 늘어",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/law_firm/2026/11/13/LTVT7C2Q6JFWXIKKZS3M7FUA7Y/"
-        },
-        {
-          "title": "SK해운·삼성重, '화물창 설계 결함' 가스공사에 손배소 2심도 승소",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261113_0003867028"
-        },
-        {
-          "title": "'LNG선 화물창 결함' 가스공사 2심서 배상액↑…\"2천600억 지급\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113086900004"
-        }
-      ]
-    },
-    {
-      "title": "최원호",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 22:30:00 -0800",
-      "news": [
-        {
-          "title": "호주에도 지는 한국야구",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261113/135017424/2"
-        },
-        {
-          "title": "'와' 이러니 MLB가 주목하지... '홈런+2루타 장타폭발' 김주원, \"포스팅시 많은 팀이 원할 것\" 이유 증명 [APBC] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/13/2026111219552258076"
-        },
-        {
-          "title": "APBC 야구대표팀, 호주에 일격‥결승 진출 '먹구름'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6865192_36946.html"
-        }
-      ]
-    },
-    {
-      "title": "광교 신도시",
-      "approx_traffic": "1000+",
-      "published": "Thu, 12 Nov 2026 22:10:00 -0800",
-      "news": [
-        {
-          "title": "GH, '국내 1호' 광교 지분적립형 분양주택 240가구 모집에 2만946건 몰려",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20261112007600353"
-        },
-        {
-          "title": "집값의 30%로 내 집 마련, '이익공유형Ⅱ' 공공분양 도입 추진 - 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975273"
-        },
-        {
-          "title": "광교 웃고 평택 울고…경기도 청약시장 양극화",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336726"
-        }
-      ]
-    },
-    {
-      "title": "익산",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 22:10:00 -0800",
-      "news": [
-        {
-          "title": "현대백화점그룹, 익산시 '발달장애인 특화사업장' 1억원 후원",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113107800030"
-        },
-        {
-          "title": "스마트팜 돕고 백화점 판로연다…현대백화점그룹, 익산 발달장애인 사업장 후원",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261113/135021231/1"
-        },
-        {
-          "title": "현대백화점, 익산시 발달장애인 특화사업장에 1억원 후원 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/11/13/2026111314521412952"
-        }
-      ]
-    },
-    {
-      "title": "구본현",
-      "approx_traffic": "500+",
-      "published": "Thu, 12 Nov 2026 21:50:00 -0800",
-      "news": [
-        {
-          "title": "범LG家 3세 구본현, 해외 도피 8년 만에 캄보디아에서 검거",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/11/13/P4FORY5VSFCMHFGCH4FZESVYNI/"
-        },
-        {
-          "title": "’주가조작’ 범LG가 3세 구본현 검거…해외도피 8년 만",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113142509Zjm"
-        },
-        {
-          "title": "‘145억원 주가조작’ 혐의 재벌 3세 구본현, 8년 해외도피 끝에 캄보디아서 검거",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611131437001"
-        }
-      ]
-    },
-    {
-      "title": "국기",
-      "approx_traffic": "100+",
-      "published": "Thu, 12 Nov 2026 21:50:00 -0800",
-      "news": [
-        {
-          "title": "北, 헌법 개정해 인공기 비율 변경…1948년 건국 이후 처음(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113030351504"
-        },
-        {
-          "title": "北, 정권 수립 78년 만에 인공기 비율 바꿨다",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261113506383"
-        },
-        {
-          "title": "北, 78년 만에 국기 비율 변경…김정은 시대 차별화 포석",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261112193925025"
-        }
-      ]
-    },
-    {
-      "title": "리트 만점자 ai 안경",
-      "approx_traffic": "200+",
-      "published": "Thu, 12 Nov 2026 21:50:00 -0800",
-      "news": [
-        {
-          "title": "‘AI 안경 의혹’ 세무사 수석 합격자, CCTV는 없었지만 감독관 바로 앞에서 시험",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611131019001"
-        },
-        {
-          "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
-          "source": "Daily NTN",
-          "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000154"
-        },
-        {
-          "title": "“너도 AI 안경?” 의심에 리트 만점자 “수능 국어 생중계 풀이”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1287171.html"
         }
       ]
     }
