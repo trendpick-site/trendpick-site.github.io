@@ -1,34 +1,150 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-14T11:44:16+00:00",
+  "fetched_at": "2026-11-14T12:55:05+00:00",
   "items": [
     {
-      "title": "jepang vs brasil",
+      "title": "문정빈",
       "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 02:40:00 -0800",
+      "published": "Sat, 14 Nov 2026 03:40:00 -0800",
       "news": [
         {
-          "title": "Brasil Hadapi 2 Laga yang Tak Mudah di Singapura",
-          "source": "detikSport",
-          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8747467/brasil-hadapi-2-laga-yang-tak-mudah-di-singapura"
+          "title": "[사진]투구하는 조동욱",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/GI3DQM3GGVSTAMDGGVRTKMRUMQ/"
         },
         {
-          "title": "Japan vs Brazil Hari Ini: Kubo dan Nakamura Bawa Jepang Unggul, Vinicius Junior Balas di Singapura",
-          "source": "Aktualita.co",
-          "url": "https://aktualita.co/olahraga/japan-vs-brazil-14-november-2026-kubo-nakamura-vinicius"
+          "title": "[사진]주먹 불끈 문정빈",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112910329"
         },
         {
-          "title": "“Seperti pertandingan Piala Dunia”: Kapten Brasil Raphinha memperkirakan ujian berat melawan Jepang di Singapura saat masa panjang kepemimpinan Hajime Moriyasu mendekati akhir",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/id/berita/seperti-pertandingan-piala-dunia-kapten-brasil-raphinha-memperkirakan-ujian-berat-melawan-jepang-di-singapura-saat-masa-panjang-kepemimpinan-hajime-moriyasu-mendekati-akhir/blt9fc9a20752973b6f"
+          "title": "[사진]추격의 솔로홈런 쩡성안",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/GA2TSMJQGI4DSMJWGVSTIODCHA/"
         }
       ]
     },
     {
-      "title": "한동희",
+      "title": "nhật bản đấu với brasil",
       "approx_traffic": "100+",
-      "published": "Sat, 14 Nov 2026 02:40:00 -0800",
+      "published": "Sat, 14 Nov 2026 03:30:00 -0800",
+      "news": []
+    },
+    {
+      "title": "문무",
+      "approx_traffic": "1000+",
+      "published": "Sat, 14 Nov 2026 03:20:00 -0800",
+      "news": [
+        {
+          "title": "[#문무] KBS 2TV 대하드라마 문무 제작발표회 | KBS 방송 [문무] | KBS 방송",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_LS-20260831112938-01-000_20261113_PLAT001&program_code=T2025-0499&program_id=LS-20260831112938-01-000&section_code=03&broadcast_complete_yn=N&section_id=28257"
+        },
+        {
+          "title": "인사말하는 최예빈",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20261112155500013"
+        },
+        {
+          "title": "김동희, ‘문무’ 합류 긴장감 견인…이현욱·장혁·김강우와 호흡",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/GQ4DEMLGMEYWGNDDGQ2WIOLBGI/"
+        }
+      ]
+    },
+    {
+      "title": "아이오아이",
+      "approx_traffic": "200+",
+      "published": "Sat, 14 Nov 2026 03:10:00 -0800",
+      "news": [
+        {
+          "title": "[ET포토] 리센느, '역주행의 헤전드'",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261114000051"
+        },
+        {
+          "title": "[사진]에이티즈 민기 '멋짐 장착'",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/14/G4ZWCNDDHEZWKYRUMYYGMOBUMM/"
+        },
+        {
+          "title": "라이즈 원빈, 그윽한 눈빛",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261114_0021532698"
+        }
+      ]
+    },
+    {
+      "title": "군산 불꽃 축제",
+      "approx_traffic": "100+",
+      "published": "Sat, 14 Nov 2026 03:10:00 -0800",
+      "news": [
+        {
+          "title": "\"철새도래지서 폭죽이라니\"…군산 불꽃축제에 환경단체 반발",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113070300055"
+        },
+        {
+          "title": "김재준 군산시장, 국회서 2027년 국가예산 증액 건의…새만금·현대차 연계사업 요청",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751917"
+        },
+        {
+          "title": "\"멸종위기종도 있는데\"…철새도래지서 불꽃축제 논란",
+          "source": "m.mbn.co.kr",
+          "url": "https://m.mbn.co.kr/tv/program_view.mbn?seq=552&bcast_seq=1433676&type=bcast"
+        }
+      ]
+    },
+    {
+      "title": "박근혜",
+      "approx_traffic": "200+",
+      "published": "Sat, 14 Nov 2026 03:00:00 -0800",
+      "news": [
+        {
+          "title": "AI영상으로 되살아난 박정희…구미서 탄신 109돌 문화행사",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261114030900053"
+        },
+        {
+          "title": "박근혜 전 대통령 “정치는 국민의 먹고사는 문제 해결 위한 것…걱정 덜어드려야”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261114580079"
+        },
+        {
+          "title": "박근혜, 구미 박정희 탄신 행사서 “분열되지 않고 하나로 뭉쳐야”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1287328.html"
+        }
+      ]
+    },
+    {
+      "title": "미미미누",
+      "approx_traffic": "200+",
+      "published": "Sat, 14 Nov 2026 03:00:00 -0800",
+      "news": [
+        {
+          "title": "'놀라운 토요일' 규현·궤도·미미미누 출격… 이과 vs 문과 자존심 건 암기력 대결",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752115"
+        },
+        {
+          "title": "“고대는 경쟁 상대도 아냐”… 궤도vs미미미누 연고전 제대로 붙었다 (‘놀토’)",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12209021"
+        },
+        {
+          "title": "궤도, 미미미누와 대학 신경전…\"견제 자체가 성립 되는가\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6354160"
+        }
+      ]
+    },
+    {
+      "title": "김휘집",
+      "approx_traffic": "200+",
+      "published": "Sat, 14 Nov 2026 02:50:00 -0800",
       "news": [
         {
           "title": "'악!' 오른손 맞은 한동희, 결국 경기 빠졌다…\"뼈에는 이상 無, 송구 불편해 보호 차원 교체\" [오!쎈 도쿄]",
@@ -36,20 +152,42 @@
           "url": "https://www.chosun.com/sports/baseball/2026/11/14/GAZGIYJTGU4GINRSHA2DQOJQMU/"
         },
         {
-          "title": "[사진]홈에서 아웃되는 김주원",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112910278"
+          "title": "[APBC] 오른손 맞은 한동희, 대만전 도중 교체…\"뼈 이상은 없어\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261114000087"
         },
         {
-          "title": "이럴 수가! 한동희 오른손 강타당했다→4회 부상 교체…\"초음파 검사 결과 뼈엔 이상 없어\" [APBC]",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019858"
+          "title": "[사진]김휘집,'오늘도 타점 올렸어' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/14/202611142009776418O"
+        }
+      ]
+    },
+    {
+      "title": "jepang vs brasil",
+      "approx_traffic": "200+",
+      "published": "Sat, 14 Nov 2026 02:40:00 -0800",
+      "news": [
+        {
+          "title": "Ancelotti membangun \"generasi baru\" saat Brasil kembali menghadapi Jepang.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/id/ancelotti-xay-dung-the-he-moi-khi-brazil-tai-dau-nhat-ban"
+        },
+        {
+          "title": "Video: Pesan dari Singapura, Vinicius Membungkam Para Pengkritiknya dengan Cara Menggelegar",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/id/berita/video-pesan-dari-singapura-vinicius-membungkam-para-pengkritiknya-dengan-cara-menggelegar/bltcda4a72f683316ec"
+        },
+        {
+          "title": "Japan vs Brazil Hari Ini: Kubo dan Nakamura Bawa Jepang Unggul, Vinicius Junior Balas di Singapura",
+          "source": "Aktualita.co",
+          "url": "https://aktualita.co/olahraga/japan-vs-brazil-14-november-2026-kubo-nakamura-vinicius"
         }
       ]
     },
     {
       "title": "오은영",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 14 Nov 2026 02:40:00 -0800",
       "news": [
         {
@@ -66,102 +204,6 @@
           "title": "오은영, '사자머리' 벗고 차분한 생머리..\"이게 원래 내 머리\"→\"10년은 젊어보여\"",
           "source": "스포츠조선",
           "url": "https://www.sportschosun.com/entertainment/2026-11-14/202611140100093330008769"
-        }
-      ]
-    },
-    {
-      "title": "멜론뮤직어워드",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 02:40:00 -0800",
-      "news": []
-    },
-    {
-      "title": "홍라희",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 02:30:00 -0800",
-      "news": [
-        {
-          "title": "이재용 회장, 삼전 지분 1.58→1.75% 확대…홍라희 여사 증여",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444719"
-        },
-        {
-          "title": "모친 홍라희에 삼전 주식 1115만8000주 받은 이재용, 증여세는 얼마나?",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11631281"
-        },
-        {
-          "title": "[마켓파워] 삼성전자 직접 지분 늘리는 이재용…물산·생명 중심 지배구조 속 의미는",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261112010004877"
-        }
-      ]
-    },
-    {
-      "title": "강의",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 02:30:00 -0800",
-      "news": [
-        {
-          "title": "\"아파서 수능 강의 쉰다\"더니…넷플 예능 간 강사의 결말",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111463557"
-        },
-        {
-          "title": "수능 3주 앞 강의 중단, 예능 출연한 이도 결국 이투스서 퇴출…\"다 폐강\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6353492"
-        },
-        {
-          "title": "'강의중단 논란' 이도와 정반대…이지영, 완강 후 소감 \"올해는 가장 바쁜 한 해\"[이슈S]",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019690"
-        }
-      ]
-    },
-    {
-      "title": "장한별",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 02:30:00 -0800",
-      "news": [
-        {
-          "title": "장한별(Hanbyul Jang) - 엄마의 일기 | KBS 261114 방송",
-          "source": "대한민국 대표 공영미디어 KBS",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026188915-01-000_MFSC20&program_code=T2011-0781&program_id=PS-2026188915-01-000&section_code=04&broadcast_complete_yn=N&section_id=10739"
-        },
-        {
-          "title": "'불후' 장한별, 말레이시아 공항 마비 '월드스타'...무대 후 폭풍 오열 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/14/2026111408387263852"
-        }
-      ]
-    },
-    {
-      "title": "최예나",
-      "approx_traffic": "100+",
-      "published": "Sat, 14 Nov 2026 02:30:00 -0800",
-      "news": []
-    },
-    {
-      "title": "주우재",
-      "approx_traffic": "100+",
-      "published": "Sat, 14 Nov 2026 02:30:00 -0800",
-      "news": []
-    },
-    {
-      "title": "유재석",
-      "approx_traffic": "100+",
-      "published": "Sat, 14 Nov 2026 02:30:00 -0800",
-      "news": [
-        {
-          "title": "허경환, 김희선 '찐팬'이었네→함께 찍은 사진 공개 \"저 기억하시죠?\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/GE4TONJRMY2GIZRXMUZTOMJSMM/"
-        },
-        {
-          "title": "허경환, 김희선 등장에 땀샘 폭발 \"기억하시죠?\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261114_0003868185"
         }
       ]
     }
