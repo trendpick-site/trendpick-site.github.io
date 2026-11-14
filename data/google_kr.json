@@ -1,8 +1,74 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-14T08:06:11+00:00",
+  "fetched_at": "2026-11-14T08:54:45+00:00",
   "items": [
+    {
+      "title": "수수료",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 23:20:00 -0800",
+      "news": [
+        {
+          "title": "배민發 수수료 개편, 쿠팡이츠로 확산되나",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261113165818"
+        },
+        {
+          "title": "\"할인한 배달비엔 수수료 안 내요\"…배민 결정에 소상공인단체들 '환영' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/11/12/2026111217290610867"
+        },
+        {
+          "title": "배민, 점주가 깎아준 금액엔 수수료 안 뗀다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/market_trend/2026/11/12/RSPG427XJVHB7ILCHDA5G6AGCU/"
+        }
+      ]
+    },
+    {
+      "title": "무인 항공기",
+      "approx_traffic": "2000+",
+      "published": "Fri, 13 Nov 2026 23:10:00 -0800",
+      "news": [
+        {
+          "title": "무인항공기 국제표준, 서울에서 논의한다… ISO/TC 20/SC 16 총회, 미·중 이어 세 번째 개최",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261113000215"
+        },
+        {
+          "title": "무인항공기 국제표준 총회, 서울서 개최…수소 추진·AI·보안 등 논의",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/11/13/5LYYALA3YJHUJETWJVA7GOTOVE/"
+        },
+        {
+          "title": "무인항공기 국제표준, 서울에서 논의한다…미·중 이어 세 번째 개최",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327967"
+        }
+      ]
+    },
+    {
+      "title": "닭한마리",
+      "approx_traffic": "500+",
+      "published": "Fri, 13 Nov 2026 23:10:00 -0800",
+      "news": [
+        {
+          "title": "\"먹다 남긴 재료 재사용, 비위 상해 나왔다\"…닭한마리집 주방 영상 논란 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/14/2026111416053177286"
+        },
+        {
+          "title": "\"먹던 마늘·부추를…\" 손님이 목격한 '닭한마리집' 충격 장면",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111464097"
+        },
+        {
+          "title": "\"먹다 남긴 반찬 다시 통에 쏙\"… 종로 식당서 위생 의혹",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261113_0003867818"
+        }
+      ]
+    },
     {
       "title": "인수 합병",
       "approx_traffic": "100+",
@@ -26,28 +92,6 @@
       ]
     },
     {
-      "title": "박병호",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 22:50:00 -0800",
-      "news": [
-        {
-          "title": "‘311홈런’ 김태균, ‘1259홈런’ 박병호·이대호·이승엽 제치고 잠실구장 마지막 홈런더비 우승",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/14/MY4DKYJVMNRTQNBZGMYWCMBZGQ/"
-        },
-        {
-          "title": "[한번에쓱]'아무래도 형님의 MVP일듯' 축하하는 유희관 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/14/2026111416384120650"
-        },
-        {
-          "title": "[스경X현장] ‘마음은 지금도 홈런왕인데, 타구가 뻗질 않네’ 왕년 홈런왕들의 잠실 마지막 승부, 홈런 더비 우...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611141615003"
-        }
-      ]
-    },
-    {
       "title": "문지애",
       "approx_traffic": "200+",
       "published": "Fri, 13 Nov 2026 22:40:00 -0800",
@@ -63,9 +107,9 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/GNSTQNZXMIYDGYRVGBRTCNBVGQ/"
         },
         {
-          "title": "문지애♥전종환 子, 수학시험 27점..온집안 비상 \"결국 3등 안에 들어\"",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/star/2026/11/13/2026111310361838788"
+          "title": "문지애·전종환 부부 아들…수학 27점에서 3등 진입 : 사회",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1093260"
         }
       ]
     },
@@ -75,19 +119,19 @@
       "published": "Fri, 13 Nov 2026 22:30:00 -0800",
       "news": [
         {
-          "title": "역주행하는 푸틴…美에 '나토 동진 중단' 강경론 다시 제기",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261114021100009"
+          "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html"
         },
         {
-          "title": "러시아, 우크라 종전 조건으로 나토 동유럽 철수 요구",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/20261114091919386cd0bfacc1c_1"
+          "title": "Russian Demands of NATO Pullback Are Non-Starter, Finland Says",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/russian-demands-of-nato-pullback-are-non-starter-finland-says"
         },
         {
-          "title": "푸틴 \"우크라에 유럽군 파병시 전쟁 재개\"…美 특사에 경고",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026111305441871170"
+          "title": "Russia demands Finland leave Nato in Ukraine peace talks, Bild reports",
+          "source": "Yle",
+          "url": "https://yle.fi/a/74-20256829"
         }
       ]
     },
@@ -129,9 +173,9 @@
           "url": "https://www.hani.co.kr/arti/science/technology/1287313.html"
         },
         {
-          "title": "비행기처럼 우주선 재사용? 스페이스X, 통째 회수 나선다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/science/2026/11/12/MRZDWAAPJFGLXJB5LRMWSNWZ6E/"
+          "title": "초대형 로켓 스타십 발사 성공…스페이스X 15번째 시험 비행 진행",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/IPT20261114000004365?section=gallery/index"
         }
       ]
     },
@@ -146,14 +190,14 @@
           "url": "https://www.cncnews.co.kr/news/article.html?no=11401"
         },
         {
+          "title": "영국서 K뷰티 ‘인기’ … PDRN·K파마시가 성장 견인",
+          "source": "주간신문씨엠엔",
+          "url": "https://www.cmn.co.kr/sub/news/news_view.asp?news_idx=51540"
+        },
+        {
           "title": "필러는 누가 놓고, 부작용은 누가 책임지나…영국 의회가 짚은 미용산업의 빈틈",
           "source": "헬스코리아뉴스",
           "url": "https://www.hkn24.com/news/articleView.html?idxno=351578"
-        },
-        {
-          "title": "대한화장품산업연구원, 美·EU 화장품 규제 대응 세미나",
-          "source": "코스모닝",
-          "url": "https://www.cosmorning.com/news/article.html?no=53902"
         }
       ]
     },
@@ -173,53 +217,9 @@
           "url": "https://sports.donga.com/ent/article/all/20261114/135024272/1"
         },
         {
-          "title": "'지구마불4' 빠니보틀·규현 '탱크 포격'⋯원지·천우희 '3단 마라룽샤'",
-          "source": "조이뉴스24",
-          "url": "https://www.joynews24.com/view/2026095"
-        }
-      ]
-    },
-    {
-      "title": "피트 헤그세스",
-      "approx_traffic": "200+",
-      "published": "Fri, 13 Nov 2026 21:30:00 -0800",
-      "news": [
-        {
-          "title": "국립묘지서 웃고 떠들다 경비병에 ‘정숙하라’ 경고받은 미 국방장관 일행",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611121113001"
-        },
-        {
-          "title": "헤그세스, “조용히 하라” 자신 지적한 병사에 훈장",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/People/article/all/20261113/135023074/2"
-        },
-        {
-          "title": "헤그세스 국방장관, 병사에 '혼쭐'...\"잘했어\" 훈장 수여",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611132330059863_005.html"
-        }
-      ]
-    },
-    {
-      "title": "이유진",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 21:20:00 -0800",
-      "news": [
-        {
-          "title": "이유진♥차경은, 오늘 결혼…임신 겹경사",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261114_0003867991"
-        },
-        {
-          "title": "\"집안에 배우만 6명\"…이효정 아들 이유진, 장동윤과 동서된다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105460011738"
-        },
-        {
-          "title": "“내 인생의 여주인공이야” 이유진, 차경은 향해 진심으로 가득 채운 편지 낭독♥",
-          "source": "m.programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/65050/OC483092391"
+          "title": "‘지구마불 세계여행4’ 빠니보틀X규현, 영국군 탱크 포격 도전 vs 원지X천우희, 중국 충징 ‘3단 마라룽샤’ 영접...상상 초월 2라운드 개봉박두",
+          "source": "RNX뉴스",
+          "url": "https://www.rnx.kr/news/articleView.html?idxno=917807"
         }
       ]
     }
