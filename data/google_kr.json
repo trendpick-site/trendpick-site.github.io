@@ -1,11 +1,99 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-14T20:15:01+00:00",
+  "fetched_at": "2026-11-14T21:15:48+00:00",
   "items": [
     {
-      "title": "포르투갈 대 덴마크",
+      "title": "아버지",
+      "approx_traffic": "100+",
+      "published": "Sat, 14 Nov 2026 12:00:00 -0800",
+      "news": [
+        {
+          "title": "치매 부모가 생전에 물려준 재산…되돌릴 수 있을까 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/12/2026111210123451419"
+        },
+        {
+          "title": "“전 재산을 OO에게” 치매 아버지 유언장 본 남매 충격",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1173180"
+        },
+        {
+          "title": "배우 권영경, 치매 앓는 어머니와 감동의 무대… 가수 성리 메모리 싱어 출격",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752122"
+        }
+      ]
+    },
+    {
+      "title": "portugal vs denmark",
       "approx_traffic": "500+",
+      "published": "Sat, 14 Nov 2026 11:50:00 -0800",
+      "news": [
+        {
+          "title": "Portugal vs Denmark Confirmed Lineups",
+          "source": "WhoScored.com",
+          "url": "https://www.whoscored.com/news/tsmldyQ_5U-YBmPdFT2DcA/show/cng112-20261114-portugal-vs-denmark-confirmed-lineup-1794682172"
+        },
+        {
+          "title": "Licensable picture: UEFA Nations League - Group A4 - Portugal v Denmark",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a4-portugal-v-denmark/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkUxS05GOUE"
+        },
+        {
+          "title": "Portugal Denmark Nations League Soccer",
+          "source": "Corsicana Daily Sun",
+          "url": "https://www.corsicanadailysun.com/sports/national_sports/portugal-denmark-nations-league-soccer/image_38bd29bc-f6b8-50da-9532-60d19df55133.html"
+        }
+      ]
+    },
+    {
+      "title": "이세계아이돌",
+      "approx_traffic": "200+",
+      "published": "Sat, 14 Nov 2026 11:30:00 -0800",
+      "news": [
+        {
+          "title": "이세계아이돌, 지상파 '음악중심' 출격…실제 몸 없는 6인조 걸그룹, 멜론 7위 이어 무대까지",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16276419"
+        },
+        {
+          "title": "지니뮤직, 버추얼걸그룹 이세계아이돌 마케팅 '시동'",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611100905129167"
+        },
+        {
+          "title": "이세계아이돌 미니 2집 발매…전국 15곳 팝업 진행 : 연예",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1083484"
+        }
+      ]
+    },
+    {
+      "title": "빈",
+      "approx_traffic": "200+",
+      "published": "Sat, 14 Nov 2026 11:20:00 -0800",
+      "news": [
+        {
+          "title": "이준석 “내가 노무현 대통령 추천서 어떻게 받나”…전한길 추가 고소 예고",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1287327.html"
+        },
+        {
+          "title": "10년 전 공개한 졸업장 또 소환…전한길의 ‘하버드 2차 공세’에 이준석 폭발",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/politics/congress/2026/11/14/20261114500025"
+        },
+        {
+          "title": "전한길 “노무현 추천서로 하버드 입학”…이준석 “허위 사실 추가 고소”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261114580059"
+        }
+      ]
+    },
+    {
+      "title": "포르투갈 대 덴마크",
+      "approx_traffic": "1000+",
       "published": "Sat, 14 Nov 2026 11:00:00 -0800",
       "news": [
         {
@@ -31,20 +119,42 @@
           "url": "https://lolesports.com/news/lol-esports-2027-and-beyond"
         },
         {
+          "title": "Next Year's Worlds Final to Be Held in Seoul... Showdown at 'Seoul Arena'",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/2026111400394915464"
+        },
+        {
           "title": "2027 LoL Worlds — First Ever Korea-Japan Co-Hosting with Seoul Arena Finale",
           "source": "The Korea Daily",
           "url": "https://en.koreadaily.com/2027-lol-worlds-korea-japan-co-hosting/"
+        }
+      ]
+    },
+    {
+      "title": "룰러",
+      "approx_traffic": "5000+",
+      "published": "Sat, 14 Nov 2026 10:50:00 -0800",
+      "news": [
+        {
+          "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261114020600017"
         },
         {
-          "title": "Riot Games Considering Replacing Worlds Play-In with Demacia Cup Global Invitational in 2027",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/riot-games-considering-replacing-worlds-play-in-with-demacia-cup-global-invitational-in/en"
+          "title": "[롤드컵]젠지, BLG 상대로 1세트 승리…기선 제압",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868290"
+        },
+        {
+          "title": "‘캐니언’ 김건부 “월즈 결승은 흔치 않은 기회⋯팀원들 모두 자기 기량 뽐내길”",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/20261114500020"
         }
       ]
     },
     {
       "title": "아프리카",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sat, 14 Nov 2026 10:50:00 -0800",
       "news": [
         {
@@ -87,28 +197,6 @@
       ]
     },
     {
-      "title": "바이퍼",
-      "approx_traffic": "2000+",
-      "published": "Sat, 14 Nov 2026 10:30:00 -0800",
-      "news": [
-        {
-          "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261114020600017"
-        },
-        {
-          "title": "[롤드컵]쵸비 \"젠지의 해로\"…기인·캐니언 \"3대1로 우승 예상\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261114_0003867963"
-        },
-        {
-          "title": "‘캐니언’ 김건부 “월즈 결승은 흔치 않은 기회⋯팀원들 모두 자기 기량 뽐내길”",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/20261114500020"
-        }
-      ]
-    },
-    {
       "title": "숲",
       "approx_traffic": "2000+",
       "published": "Sat, 14 Nov 2026 10:30:00 -0800",
@@ -127,94 +215,6 @@
           "title": "[알립니다] 서울경제·산림청이 함께하는 ‘2026년 도시숲사랑 달팽이 마라톤’",
           "source": "서울경제",
           "url": "https://www.sedaily.com/article/20111292"
-        }
-      ]
-    },
-    {
-      "title": "blg",
-      "approx_traffic": "500+",
-      "published": "Sat, 14 Nov 2026 10:30:00 -0800",
-      "news": [
-        {
-          "title": "Worlds 2026: BLG Knight vs Gen.G Chovy",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/worlds-2026-blg-knight-vs-gen-g-chovy/en"
-        },
-        {
-          "title": "Inside Barclays Center's Two-Year Pursuit of the League of Legends World Championship Final",
-          "source": "CelebrityAccess",
-          "url": "https://celebrityaccess.com/2026/11/12/inside-barclays-centers-two-year-pursuit-of-the-league-of-legends-world-championship-final/"
-        },
-        {
-          "title": "League of Legends World Championship tickets cost more than $1,300",
-          "source": "USA Today",
-          "url": "https://www.usatoday.com/story/shopping/sports/tickets/2026/11/12/shop-last-minute-league-of-legends-world-championship-e-sports-tickets/92731292007/"
-        }
-      ]
-    },
-    {
-      "title": "lck",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 10:30:00 -0800",
-      "news": [
-        {
-          "title": "Sources: Noah set to join BNK FEARX ahead of 2027 LCK Season",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/sources-noah-set-to-join-bnk-fearx-ahead-of-2027-lck-season/en"
-        },
-        {
-          "title": "Former Fnatic ADC Noah Returns to Korea to Join BNK FEARX for 2027 Season",
-          "source": "EGamersWorld",
-          "url": "https://egamersworld.com/lol/news/38410/noah-reaches-verbal-agreement-with-bnk-fearx-for-l-F95S69FM-"
-        },
-        {
-          "title": "Worlds 2026: BLG Knight vs Gen.G Chovy",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/worlds-2026-blg-knight-vs-gen-g-chovy/en"
-        }
-      ]
-    },
-    {
-      "title": "치지직",
-      "approx_traffic": "10000+",
-      "published": "Sat, 14 Nov 2026 10:20:00 -0800",
-      "news": [
-        {
-          "title": "네이버, 스트리머·팬 소통 특화 '크리에이터 카페' 내달 출시",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261113000071"
-        },
-        {
-          "title": "네이버, 방송·팬덤 결합한 크리에이터 카페 출시",
-          "source": "아이보스",
-          "url": "https://www.i-boss.co.kr/ab-2877-18474"
-        },
-        {
-          "title": "네이버, 크리에이터·팬 잇는 ‘크리에이터 카페’ 선봬…치지직·팬카페 연동",
-          "source": "서울경제TV",
-          "url": "https://www.sentv.co.kr/article/view/sentv202611130084"
-        }
-      ]
-    },
-    {
-      "title": "norway vs wales",
-      "approx_traffic": "100+",
-      "published": "Sat, 14 Nov 2026 10:10:00 -0800",
-      "news": [
-        {
-          "title": "Uefa Nations League: Norway vs Wales - watch live stream, listen live, text updates, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/crz6568xvv8vt"
-        },
-        {
-          "title": "Haaland back on target to seal Norway’s 3-1 win over Wales in Nations League",
-          "source": "Arab News",
-          "url": "https://www.arabnews.com/football/haaland-back-on-target-to-seal-norways-3-1-win-over-wales-in-nations-league-3011939"
-        },
-        {
-          "title": "Norway v Wales 0-0 LIVE: Berge goes close to scoring, Cullen makes the clearance",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/news/norway-v-wales-0-0-live-berge-goes-close-to-scoring-cullen-makes-the-clearance/bltca63434ee6e79f1a"
         }
       ]
     }
