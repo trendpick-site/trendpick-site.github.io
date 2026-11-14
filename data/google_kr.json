@@ -1,11 +1,99 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-14T07:03:16+00:00",
+  "fetched_at": "2026-11-14T08:06:11+00:00",
   "items": [
     {
-      "title": "광교신도시",
+      "title": "인수 합병",
       "approx_traffic": "100+",
+      "published": "Fri, 13 Nov 2026 23:00:00 -0800",
+      "news": [
+        {
+          "title": "\"지분 높을수록 소액주주 몫 줄어\"…의무공개매수법 '역진' 논란",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bzdnvcCE8D"
+        },
+        {
+          "title": "‘절반+1주’ vs ‘100%’ 인수합병 토론…이 대통령 “욕 먹더라도 파이 키우자는 쪽”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1287249.html"
+        },
+        {
+          "title": "의무공개매수 '제3의 절충안'…대주주 지분 사고 나머지 절반도 매수",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444678"
+        }
+      ]
+    },
+    {
+      "title": "박병호",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 22:50:00 -0800",
+      "news": [
+        {
+          "title": "‘311홈런’ 김태균, ‘1259홈런’ 박병호·이대호·이승엽 제치고 잠실구장 마지막 홈런더비 우승",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/14/MY4DKYJVMNRTQNBZGMYWCMBZGQ/"
+        },
+        {
+          "title": "[한번에쓱]'아무래도 형님의 MVP일듯' 축하하는 유희관 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/14/2026111416384120650"
+        },
+        {
+          "title": "[스경X현장] ‘마음은 지금도 홈런왕인데, 타구가 뻗질 않네’ 왕년 홈런왕들의 잠실 마지막 승부, 홈런 더비 우...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611141615003"
+        }
+      ]
+    },
+    {
+      "title": "문지애",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 22:40:00 -0800",
+      "news": [
+        {
+          "title": "문지애♥전종환 “아들, 수학 시험 27점에 온 집안 비상…결국 3등 들어”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023894/1"
+        },
+        {
+          "title": "문지애♥전종환 \"사내 연애 힘들었다..이별 꿈에 고통\"→\"子수학 27점\" 극복",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/GNSTQNZXMIYDGYRVGBRTCNBVGQ/"
+        },
+        {
+          "title": "문지애♥전종환 子, 수학시험 27점..온집안 비상 \"결국 3등 안에 들어\"",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/11/13/2026111310361838788"
+        }
+      ]
+    },
+    {
+      "title": "북대서양 조약 기구",
+      "approx_traffic": "200+",
+      "published": "Fri, 13 Nov 2026 22:30:00 -0800",
+      "news": [
+        {
+          "title": "역주행하는 푸틴…美에 '나토 동진 중단' 강경론 다시 제기",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261114021100009"
+        },
+        {
+          "title": "러시아, 우크라 종전 조건으로 나토 동유럽 철수 요구",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/20261114091919386cd0bfacc1c_1"
+        },
+        {
+          "title": "푸틴 \"우크라에 유럽군 파병시 전쟁 재개\"…美 특사에 경고",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026111305441871170"
+        }
+      ]
+    },
+    {
+      "title": "광교신도시",
+      "approx_traffic": "200+",
       "published": "Fri, 13 Nov 2026 21:50:00 -0800",
       "news": [
         {
@@ -14,14 +102,14 @@
           "url": "https://www.g-enews.com/article/Real-Estate/2026/11/2026111310100171412aa6f4cdad_1"
         },
         {
-          "title": "\"집값 25%만 내고 입주\"…광교 지분적립형에 2만 명 몰려",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611123258i"
-        },
-        {
           "title": "분양가 25%만 내고 입주…내달 고양창릉 지분적립형 284가구 공급",
           "source": "뉴스1",
           "url": "https://www.news1.kr/realestate/general/6353065"
+        },
+        {
+          "title": "광교 웃고 평택 울고…경기도 청약시장 양극화",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336726"
         }
       ]
     },
@@ -31,14 +119,14 @@
       "published": "Fri, 13 Nov 2026 21:50:00 -0800",
       "news": [
         {
-          "title": "지구 14바퀴 ‘코끼리코’ 돌고 ‘젓가락 잡기’ 2단 회수…머스크의 ‘무한도전’",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/science/technology/1287313.html"
-        },
-        {
           "title": "[영상]‘스타십’ 1단 로켓 지상 회수 불발…바다에 착수",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202611140848001"
+        },
+        {
+          "title": "지구 14바퀴 ‘코끼리코’ 돌고 ‘젓가락 잡기’ 2단 회수…머스크의 ‘무한도전’",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/science/technology/1287313.html"
         },
         {
           "title": "비행기처럼 우주선 재사용? 스페이스X, 통째 회수 나선다",
@@ -48,19 +136,41 @@
       ]
     },
     {
+      "title": "화장품",
+      "approx_traffic": "500+",
+      "published": "Fri, 13 Nov 2026 21:40:00 -0800",
+      "news": [
+        {
+          "title": "영국, 안티에이징 광고 입증 기준 강화... 사우디 주사기형 화장품 포장 용기 금지",
+          "source": "CNC NEWS",
+          "url": "https://www.cncnews.co.kr/news/article.html?no=11401"
+        },
+        {
+          "title": "필러는 누가 놓고, 부작용은 누가 책임지나…영국 의회가 짚은 미용산업의 빈틈",
+          "source": "헬스코리아뉴스",
+          "url": "https://www.hkn24.com/news/articleView.html?idxno=351578"
+        },
+        {
+          "title": "대한화장품산업연구원, 美·EU 화장품 규제 대응 세미나",
+          "source": "코스모닝",
+          "url": "https://www.cosmorning.com/news/article.html?no=53902"
+        }
+      ]
+    },
+    {
       "title": "장동윤",
       "approx_traffic": "100+",
       "published": "Fri, 13 Nov 2026 21:40:00 -0800",
       "news": [
         {
-          "title": "장동윤, 인도 마사지에 혼절 직전…곽튜브는 비명 (지구마불4)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261114/135024272/1"
-        },
-        {
           "title": "'김승윤과 결혼' 장동윤, 새신랑됐는데..인도 미용실서 혼절 직전? 곽튜브는 비명 ('지구마불4')",
           "source": "조선일보",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/MU3DGMRYMMZTMZBUGU3GMZTFMM/"
+        },
+        {
+          "title": "장동윤, 인도 마사지에 혼절 직전…곽튜브는 비명 (지구마불4)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261114/135024272/1"
         },
         {
           "title": "'지구마불4' 빠니보틀·규현 '탱크 포격'⋯원지·천우희 '3단 마라룽샤'",
@@ -110,106 +220,6 @@
           "title": "“내 인생의 여주인공이야” 이유진, 차경은 향해 진심으로 가득 채운 편지 낭독♥",
           "source": "m.programs.sbs.co.kr",
           "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/65050/OC483092391"
-        }
-      ]
-    },
-    {
-      "title": "감스트",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 21:20:00 -0800",
-      "news": [
-        {
-          "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
-          "source": "Daily NTN",
-          "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000154"
-        },
-        {
-          "title": "세무사 시험 수석 합격자 \"AI 안경으로 문제 다 맞힐 수 있다면 공부 왜 하겠나\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/labor/2026/11/14/F4LAS3IYH5AAVHWEV6HHKOOONY/"
-        },
-        {
-          "title": "수학 6~7등급 감스트, AI 안경 쓰고 수능 풀었더니 5개 틀려…부정행위 우려",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261114/135024033/1"
-        }
-      ]
-    },
-    {
-      "title": "elle",
-      "approx_traffic": "100+",
-      "published": "Fri, 13 Nov 2026 21:20:00 -0800",
-      "news": [
-        {
-          "title": "Laurence Haïm a 60 ans, elle a longtemps été proche de cet animateur à la tête d’une émission culte du PAF : “Je passais toutes mes vacances d’été avec lui”",
-          "source": "Gala",
-          "url": "https://www.gala.fr/l_actu/news_de_stars/laurence-haim-a-60-ans-elle-a-longtemps-ete-proche-de-cet-animateur-a-la-tete-d-une-emission-culte-du-paf-je-passais-toutes-mes-vacances-d-ete-avec-lui-20261114"
-        },
-        {
-          "title": "« Un bon avocat », sur Netflix : Laurent Lafitte excelle en gloire du barreau déchue",
-          "source": "Le Monde.fr",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/10/un-bon-avocat-sur-netflix-laurent-lafitte-excelle-en-gloire-du-barreau-dechue_6808874_3246.html"
-        },
-        {
-          "title": "Laurent Lafitte en pleine overdose au tribunal : le thriller sous tension à voir d'urgence sur Netflix",
-          "source": "Selectra",
-          "url": "https://selectra.info/telecom/actualites/marche/un-bon-avocat-netflix-laurent-lafitte"
-        }
-      ]
-    },
-    {
-      "title": "이현중",
-      "approx_traffic": "100+",
-      "published": "Fri, 13 Nov 2026 21:10:00 -0800",
-      "news": [
-        {
-          "title": "‘NBA 도전’ 이현중, G리그서 개인 최다 21점 폭발…3점포 4방",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712896"
-        },
-        {
-          "title": "이현중, G리그 개인 최다 득점…3점슛 4방 포함 21득점",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261114154306umT"
-        },
-        {
-          "title": "스포츠뉴스 - [오늘의 장면] NBA를 향항 첫 걸음",
-          "source": "m.mbn.co.kr",
-          "url": "https://m.mbn.co.kr/tv/666/4146/1433496"
-        }
-      ]
-    },
-    {
-      "title": "부산 kcc 대 서울 sk",
-      "approx_traffic": "1000+",
-      "published": "Fri, 13 Nov 2026 20:40:00 -0800",
-      "news": [
-        {
-          "title": "[사진] 허훈, 우리 잘 하고 있어",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/MMYGIMBRGAYDINJYGUZDKODGMU/"
-        },
-        {
-          "title": "[사진] 킹, 눈을 막아도 소용없어",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/MMYTENDEMQZTEOJXMFRTSNRUGM/"
-        }
-      ]
-    },
-    {
-      "title": "울음",
-      "approx_traffic": "500+",
-      "published": "Fri, 13 Nov 2026 20:40:00 -0800",
-      "news": [
-        {
-          "title": "\"아기 울음소리가 불편할 리 있나요?\"…떡 돌린 엄마 울린 이웃의 손편지 [살맛나는 세상]",
-          "source": "KBC광주방송",
-          "url": "https://www.ikbc.co.kr/article/view/kbc202611120077"
-        },
-        {
-          "title": "\"발소리도 아니고 아기 울음을 어쩌라고\"…'소음 항의' 메모에 '한숨'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261105_0003856318"
         }
       ]
     }
