@@ -1,27 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-14T12:55:05+00:00",
+  "fetched_at": "2026-11-14T13:55:28+00:00",
   "items": [
     {
-      "title": "문정빈",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 03:40:00 -0800",
+      "title": "천천히 강렬하게",
+      "approx_traffic": "500+",
+      "published": "Sat, 14 Nov 2026 04:50:00 -0800",
       "news": [
         {
-          "title": "[사진]투구하는 조동욱",
+          "title": "송혜교, 20대 시절 후회하는 이유..\"노는 것 좋아했다\" ('핑계고')",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/GI3DQM3GGVSTAMDGGVRTKMRUMQ/"
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/GFRDCNZUHE3DAOBQMVSWIYRTMI/"
         },
         {
-          "title": "[사진]주먹 불끈 문정빈",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112910329"
+          "title": "송혜교 실제 성격, 남모를 속앓이...\"술 마시고 솔직해졌다가 이불킥\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-14/202611140100094300008856"
         },
         {
-          "title": "[사진]추격의 솔로홈런 쩡성안",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/GA2TSMJQGI4DSMJWGVSTIODCHA/"
+          "title": "송혜교 \"공유가 나 키 작다고…현장에서 매일 긁는다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261107_0003859065"
+        }
+      ]
+    },
+    {
+      "title": "데블스 플랜",
+      "approx_traffic": "200+",
+      "published": "Sat, 14 Nov 2026 04:40:00 -0800",
+      "news": []
+    },
+    {
+      "title": "딜라이브",
+      "approx_traffic": "200+",
+      "published": "Sat, 14 Nov 2026 04:40:00 -0800",
+      "news": [
+        {
+          "title": "LG헬로 시청자 투니버스 못 보게 된다?… 시청자는 무슨 죄",
+          "source": "미디어오늘",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338414"
+        },
+        {
+          "title": "합의제 기구 방미통위, 합의만 기다릴 것인가 [강소현의 방송통신문]",
+          "source": "디지털데일리",
+          "url": "https://www.ddaily.co.kr/page/view/2026111316500450204"
+        },
+        {
+          "title": "CJ ENM, 딜라이브에 “송출 중단 수용 어려워”…협의는 계속",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261112000455"
+        }
+      ]
+    },
+    {
+      "title": "갈비뼈",
+      "approx_traffic": "500+",
+      "published": "Sat, 14 Nov 2026 04:20:00 -0800",
+      "news": [
+        {
+          "title": "멀쩡한 갈비뼈 6개 부러뜨린 30대 여성...이유는?",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261114141351tED"
+        },
+        {
+          "title": "호리병 몸매가 뭐라고…멀쩡한 갈비뼈 6개 부러뜨린 30대女",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261113203409480"
+        },
+        {
+          "title": "\"모래시계 몸매 원해\"…갈비뼈 6개 부러뜨린 30대 여성",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111464437"
+        }
+      ]
+    },
+    {
+      "title": "맥도날드 세종dt점",
+      "approx_traffic": "200+",
+      "published": "Sat, 14 Nov 2026 04:20:00 -0800",
+      "news": [
+        {
+          "title": "새벽 2시부터 줄 섰다…‘인구 40만’ 세종시 첫 맥도날드, 오픈런에 경찰까지 출동",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261114502699"
+        },
+        {
+          "title": "\"맥도날드 먹으러 원정까지\"…인구 40만 도시에 무슨 일이",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111359347"
+        },
+        {
+          "title": "\"살다 살다 이런 오픈런 처음 본다\"…새벽 2시부터 '우르르' 맥날 개점에 난리난 도시",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026111320395050229"
+        }
+      ]
+    },
+    {
+      "title": "버거킹",
+      "approx_traffic": "500+",
+      "published": "Sat, 14 Nov 2026 04:00:00 -0800",
+      "news": [
+        {
+          "title": "욕심껏 ‘꽉꽉’ 채운 내 버거가 신메뉴로?…버거킹 플레임 랩 가보니 [현장]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12205410"
+        },
+        {
+          "title": "“두툼한 패티 2장에 치즈 3장, 나만의 버거”…버거킹 연구소에선 다 된다 [르포]",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10934528"
+        },
+        {
+          "title": "[현장] \"와퍼에 새우패티 넣어볼까?\"…버거킹 연구원이 된 하루",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1713648/%ED%98%84%EC%9E%A5-%EC%99%80%ED%8D%BC-%EC%83%88%EC%9A%B0%ED%8C%A8%ED%8B%B0-%EB%84%A3%EC%96%B4%EB%B3%BC%EA%B9%8C%EB%B2%84%EA%B1%B0%ED%82%B9-%EC%97%B0-2026"
+        }
+      ]
+    },
+    {
+      "title": "로또1250",
+      "approx_traffic": "500+",
+      "published": "Sat, 14 Nov 2026 04:00:00 -0800",
+      "news": [
+        {
+          "title": "제1250회 로또 1등 9명···당첨금 31억원",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611142052001"
+        },
+        {
+          "title": "[속보]로또 1250회 당첨번호 '1·5·18·23·27·28'…보너스 '8'",
+          "source": "edaily.co.kr",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02794566645645720&mediaCodeNo=257"
+        },
+        {
+          "title": "1250회 로또판매·추첨시간, 1249회 1등당첨지역 공개",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751761"
         }
       ]
     },
@@ -29,11 +145,27 @@
       "title": "nhật bản đấu với brasil",
       "approx_traffic": "100+",
       "published": "Sat, 14 Nov 2026 03:30:00 -0800",
-      "news": []
+      "news": [
+        {
+          "title": "Ancelotti and Raphinha sent off as Japan beat Brazil",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cv5yny98z474t"
+        },
+        {
+          "title": "Stars set Singapore alight as Japan exact revenge on Brazil with dramatic late win",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win"
+        },
+        {
+          "title": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark"
+        }
+      ]
     },
     {
       "title": "문무",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sat, 14 Nov 2026 03:20:00 -0800",
       "news": [
         {
@@ -59,151 +191,19 @@
       "published": "Sat, 14 Nov 2026 03:10:00 -0800",
       "news": [
         {
-          "title": "[ET포토] 리센느, '역주행의 헤전드'",
+          "title": "[ET포토] 라이즈, '여심 헌터들'",
           "source": "전자신문",
-          "url": "https://www.etnews.com/20261114000051"
+          "url": "https://www.etnews.com/20261114000050"
         },
         {
-          "title": "[사진]에이티즈 민기 '멋짐 장착'",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/14/G4ZWCNDDHEZWKYRUMYYGMOBUMM/"
+          "title": "[사진]리센느 원이-미나미 '시상식도 접수'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/14/MQZDEZLDGJRTKZLDMJQWMZJXMY/"
         },
         {
           "title": "라이즈 원빈, 그윽한 눈빛",
           "source": "뉴시스",
           "url": "https://mobile.newsis.com/photo/NISI20261114_0021532698"
-        }
-      ]
-    },
-    {
-      "title": "군산 불꽃 축제",
-      "approx_traffic": "100+",
-      "published": "Sat, 14 Nov 2026 03:10:00 -0800",
-      "news": [
-        {
-          "title": "\"철새도래지서 폭죽이라니\"…군산 불꽃축제에 환경단체 반발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113070300055"
-        },
-        {
-          "title": "김재준 군산시장, 국회서 2027년 국가예산 증액 건의…새만금·현대차 연계사업 요청",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751917"
-        },
-        {
-          "title": "\"멸종위기종도 있는데\"…철새도래지서 불꽃축제 논란",
-          "source": "m.mbn.co.kr",
-          "url": "https://m.mbn.co.kr/tv/program_view.mbn?seq=552&bcast_seq=1433676&type=bcast"
-        }
-      ]
-    },
-    {
-      "title": "박근혜",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 03:00:00 -0800",
-      "news": [
-        {
-          "title": "AI영상으로 되살아난 박정희…구미서 탄신 109돌 문화행사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261114030900053"
-        },
-        {
-          "title": "박근혜 전 대통령 “정치는 국민의 먹고사는 문제 해결 위한 것…걱정 덜어드려야”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261114580079"
-        },
-        {
-          "title": "박근혜, 구미 박정희 탄신 행사서 “분열되지 않고 하나로 뭉쳐야”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1287328.html"
-        }
-      ]
-    },
-    {
-      "title": "미미미누",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 03:00:00 -0800",
-      "news": [
-        {
-          "title": "'놀라운 토요일' 규현·궤도·미미미누 출격… 이과 vs 문과 자존심 건 암기력 대결",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752115"
-        },
-        {
-          "title": "“고대는 경쟁 상대도 아냐”… 궤도vs미미미누 연고전 제대로 붙었다 (‘놀토’)",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12209021"
-        },
-        {
-          "title": "궤도, 미미미누와 대학 신경전…\"견제 자체가 성립 되는가\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6354160"
-        }
-      ]
-    },
-    {
-      "title": "김휘집",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 02:50:00 -0800",
-      "news": [
-        {
-          "title": "'악!' 오른손 맞은 한동희, 결국 경기 빠졌다…\"뼈에는 이상 無, 송구 불편해 보호 차원 교체\" [오!쎈 도쿄]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/14/GAZGIYJTGU4GINRSHA2DQOJQMU/"
-        },
-        {
-          "title": "[APBC] 오른손 맞은 한동희, 대만전 도중 교체…\"뼈 이상은 없어\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261114000087"
-        },
-        {
-          "title": "[사진]김휘집,'오늘도 타점 올렸어' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/14/202611142009776418O"
-        }
-      ]
-    },
-    {
-      "title": "jepang vs brasil",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 02:40:00 -0800",
-      "news": [
-        {
-          "title": "Ancelotti membangun \"generasi baru\" saat Brasil kembali menghadapi Jepang.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/id/ancelotti-xay-dung-the-he-moi-khi-brazil-tai-dau-nhat-ban"
-        },
-        {
-          "title": "Video: Pesan dari Singapura, Vinicius Membungkam Para Pengkritiknya dengan Cara Menggelegar",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/id/berita/video-pesan-dari-singapura-vinicius-membungkam-para-pengkritiknya-dengan-cara-menggelegar/bltcda4a72f683316ec"
-        },
-        {
-          "title": "Japan vs Brazil Hari Ini: Kubo dan Nakamura Bawa Jepang Unggul, Vinicius Junior Balas di Singapura",
-          "source": "Aktualita.co",
-          "url": "https://aktualita.co/olahraga/japan-vs-brazil-14-november-2026-kubo-nakamura-vinicius"
-        }
-      ]
-    },
-    {
-      "title": "오은영",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 02:40:00 -0800",
-      "news": [
-        {
-          "title": "오은영, 헤어스타일 바꿨다... \"10년 어려보여 소녀 같아\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/MU2WKYLFGBRDEYZTMRTGIMRVG4/"
-        },
-        {
-          "title": "오은영, 61세에 ‘사자머리’ 대신 빗으로 넘겼을 뿐인데…김형석 “10년은 젊어지신 것 같다”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12208792"
-        },
-        {
-          "title": "오은영, '사자머리' 벗고 차분한 생머리..\"이게 원래 내 머리\"→\"10년은 젊어보여\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-14/202611140100093330008769"
         }
       ]
     }
