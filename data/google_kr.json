@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-14T16:45:26+00:00",
+  "fetched_at": "2026-11-14T17:41:57+00:00",
   "items": [
+    {
+      "title": "쵸비",
+      "approx_traffic": "100+",
+      "published": "Sat, 14 Nov 2026 08:30:00 -0800",
+      "news": [
+        {
+          "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261114020600017"
+        },
+        {
+          "title": "[롤드컵]쵸비 \"젠지의 해로\"…기인·캐니언 \"3대1로 우승 예상\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261114_0003867963"
+        },
+        {
+          "title": "‘캐니언’ 김건부 “월즈 결승은 흔치 않은 기회⋯팀원들 모두 자기 기량 뽐내길”",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/20261114500020"
+        }
+      ]
+    },
     {
       "title": "저축",
       "approx_traffic": "1000+",
@@ -36,14 +58,14 @@
           "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02797846645645720"
         },
         {
-          "title": "비트코인 하루 새 7% 급락‥2조 원 규모 강제청산",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6865461_36932.html"
-        },
-        {
           "title": "젠슨 황 사임에 금리공포 겹쳐… 비트코인, 1억→9천만 ‘뚝’ [주간코인시황]",
           "source": "IT조선",
           "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000935"
+        },
+        {
+          "title": "비트코인 하루 새 7% 급락‥2조 원 규모 강제청산",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6865461_36932.html"
         }
       ]
     },
@@ -75,19 +97,19 @@
       "published": "Sat, 14 Nov 2026 06:30:00 -0800",
       "news": [
         {
-          "title": "Bangladesh - Pakistan prediction & picks 14.11.2026",
-          "source": "www.transfermarkt.us",
-          "url": "https://www.transfermarkt.us/online-betting/picks/bangladesh-vs-pakistan-picks-14-11-2026/"
-        },
-        {
-          "title": "PM to attend SAFF final if BD qualify: Aminul",
-          "source": "Daily Observer",
-          "url": "https://observerbd.com/news/606110"
+          "title": "Bangladesh vs Pakistan LIVE streaming info: When, where to watch BAN v PAK SAFF Championship 2026 semifinal?",
+          "source": "Sportstar",
+          "url": "https://sportstar.thehindu.com/football/bangladesh-vs-pakistan-live-streaming-info-where-to-watch-saff-championship-semifinal-tv-channel-ban-v-pak/article71701360.ece"
         },
         {
           "title": "For the fans, football is worth the wait and expense",
           "source": "The Daily Star",
           "url": "https://www.thedailystar.net/sports/football/news/the-fans-football-worth-the-wait-and-expense-4323711"
+        },
+        {
+          "title": "SAFF Championship: Bangladesh make two changes to starting XI",
+          "source": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/football/saff-championship-bangladesh-make-two-changes-to-starting-xi"
         }
       ]
     },
@@ -163,19 +185,19 @@
       "published": "Sat, 14 Nov 2026 04:50:00 -0800",
       "news": [
         {
-          "title": "송혜교, 20대 시절 후회하는 이유..\"노는 것 좋아했다\" ('핑계고')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/GFRDCNZUHE3DAOBQMVSWIYRTMI/"
+          "title": "'천천히 강렬하게', 12월 11일부터 3주 간 파트별 공개…분할 이유는?",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_sn/0117_202611131034130083"
         },
         {
-          "title": "송혜교, 미국서 와인 사려다 거절 \"18살인 줄 알고 못 판다고\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261114_0003868197"
+          "title": "'천천히 강렬하게' 송혜교, \"돈이 있다고\" 강렬 눈빛...총 3개 파트로 공개 [공식] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111310137276826"
         },
         {
-          "title": "‘천천히 강렬하게’ 송혜교 “‘더 글로리’ 이후 유럽 입국심사관 사진 촬영 제안도 받아” (핑계고)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611141810003"
+          "title": "송혜교·공유·김설현·차승원 ‘천천히 강렬하게’, 베일 벗었다… 티저 예고편 공개",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261113500297"
         }
       ]
     },
@@ -184,28 +206,6 @@
       "approx_traffic": "500+",
       "published": "Sat, 14 Nov 2026 04:40:00 -0800",
       "news": []
-    },
-    {
-      "title": "딜라이브",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 04:40:00 -0800",
-      "news": [
-        {
-          "title": "LG헬로 시청자 투니버스 못 보게 된다?… 시청자는 무슨 죄",
-          "source": "미디어오늘",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338414"
-        },
-        {
-          "title": "합의제 기구 방미통위, 합의만 기다릴 것인가 [강소현의 방송통신문]",
-          "source": "디지털데일리",
-          "url": "https://www.ddaily.co.kr/page/view/2026111316500450204"
-        },
-        {
-          "title": "CJ ENM, 딜라이브에 “송출 중단 수용 어려워”…협의는 계속",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261112000455"
-        }
-      ]
     }
   ]
 }
