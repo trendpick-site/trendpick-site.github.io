@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-14T17:41:57+00:00",
+  "fetched_at": "2026-11-14T18:16:19+00:00",
   "items": [
+    {
+      "title": "raf",
+      "approx_traffic": "100+",
+      "published": "Sat, 14 Nov 2026 08:40:00 -0800",
+      "news": [
+        {
+          "title": "Six from Team Nurmagomedov, eight in all get prison time over Dvalishvili brawl",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mma/story/_/id/50471378/8-people-get-prison-nurmagomedov-dvalishvili-brawl"
+        },
+        {
+          "title": "RAF Abu Dhabi Highlights! Merab Dominates Moraes Days After Getting Jumped",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/raf-abu-dhabi-highlights-merab-173607933.html"
+        },
+        {
+          "title": "UFC star and 21-year-old friend reportedly cleared to wrestle at RAF days after fending off hotel lobby ambush",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/outkick-sports/ufc-star-21-year-old-friend-reportedly-cleared-wrestle-raf-days-after-fending-off-hotel-lobby-ambush"
+        }
+      ]
+    },
     {
       "title": "쵸비",
       "approx_traffic": "100+",
@@ -27,7 +49,7 @@
     },
     {
       "title": "저축",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sat, 14 Nov 2026 07:30:00 -0800",
       "news": [
         {
@@ -58,14 +80,14 @@
           "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02797846645645720"
         },
         {
-          "title": "젠슨 황 사임에 금리공포 겹쳐… 비트코인, 1억→9천만 ‘뚝’ [주간코인시황]",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000935"
-        },
-        {
           "title": "비트코인 하루 새 7% 급락‥2조 원 규모 강제청산",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/econo/article/6865461_36932.html"
+        },
+        {
+          "title": "젠슨 황 사임에 금리공포 겹쳐… 비트코인, 1억→9천만 ‘뚝’ [주간코인시황]",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000935"
         }
       ]
     },
@@ -107,9 +129,9 @@
           "url": "https://www.thedailystar.net/sports/football/news/the-fans-football-worth-the-wait-and-expense-4323711"
         },
         {
-          "title": "SAFF Championship: Bangladesh make two changes to starting XI",
-          "source": "The Financial Express",
-          "url": "https://thefinancialexpress.com.bd/football/saff-championship-bangladesh-make-two-changes-to-starting-xi"
+          "title": "PM to attend SAFF final if BD qualify: Aminul",
+          "source": "Daily Observer",
+          "url": "https://observerbd.com/news/606110"
         }
       ]
     },
@@ -146,14 +168,14 @@
           "url": "https://www.khan.co.kr/article/202611142052001"
         },
         {
-          "title": "로또 1250회 1등 9명, 31억씩 받는다…당첨 번호는? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/14/2026111420352340811"
-        },
-        {
           "title": "1250회 로또판매·추첨시간, 1249회 1등당첨지역 공개",
           "source": "국제뉴스",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751761"
+        },
+        {
+          "title": "“로또 1등 9명 전부 자동”…31억 대박 터진 명당 어디",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261114580139"
         }
       ]
     },
@@ -185,27 +207,21 @@
       "published": "Sat, 14 Nov 2026 04:50:00 -0800",
       "news": [
         {
-          "title": "'천천히 강렬하게', 12월 11일부터 3주 간 파트별 공개…분할 이유는?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_sn/0117_202611131034130083"
+          "title": "송혜교, 20대 시절 후회하는 이유..\"노는 것 좋아했다\" ('핑계고')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/GFRDCNZUHE3DAOBQMVSWIYRTMI/"
         },
         {
-          "title": "'천천히 강렬하게' 송혜교, \"돈이 있다고\" 강렬 눈빛...총 3개 파트로 공개 [공식] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111310137276826"
+          "title": "송혜교, 미국서 와인 사려다 거절 \"18살인 줄 알고 못 판다고\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261114_0003868197"
         },
         {
-          "title": "송혜교·공유·김설현·차승원 ‘천천히 강렬하게’, 베일 벗었다… 티저 예고편 공개",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261113500297"
+          "title": "‘천천히 강렬하게’ 송혜교 “‘더 글로리’ 이후 유럽 입국심사관 사진 촬영 제안도 받아” (핑계고)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611141810003"
         }
       ]
-    },
-    {
-      "title": "데블스 플랜",
-      "approx_traffic": "500+",
-      "published": "Sat, 14 Nov 2026 04:40:00 -0800",
-      "news": []
     }
   ]
 }
