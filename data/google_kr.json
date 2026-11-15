@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-15T11:46:16+00:00",
+  "fetched_at": "2026-11-15T12:56:41+00:00",
   "items": [
+    {
+      "title": "샤인머스캣",
+      "approx_traffic": "2000+",
+      "published": "Sun, 15 Nov 2026 03:50:00 -0800",
+      "news": [
+        {
+          "title": "샤인머스캣 인기 시들하더니…새로 등장한 '귀족 과일'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111574921"
+        },
+        {
+          "title": "'하나에 4만원'…여성 VIP들 즐긴다는 '귀족 과일' 뭐길래 [프라이스&]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611094307i"
+        },
+        {
+          "title": "농협경제지주, 농식품부와 손잡고 샤인머스캣 부활 나선다",
+          "source": "한국영농신문",
+          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71869"
+        }
+      ]
+    },
+    {
+      "title": "김유재",
+      "approx_traffic": "100+",
+      "published": "Sun, 15 Nov 2026 02:50:00 -0800",
+      "news": [
+        {
+          "title": "피겨 김유재, 시니어 GP 4차 대회 쇼트 3위…트리플 악셀 성공",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261115018700007"
+        },
+        {
+          "title": "'시니어 무대 첫 메달 보인다' 기대주 김유재, 그랑프리 4차 쇼트프로그램 3위 랭크…'2위와 0.32점 차이'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/15/MVTDONTBGVTDENLEMNRDOZTBME/"
+        },
+        {
+          "title": "'트리플 악셀 성공' 피겨 김유재, 시니어 그랑프리 4차 대회 쇼트 3위…첫 메달 도전",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868444"
+        }
+      ]
+    },
     {
       "title": "화물기",
       "approx_traffic": "200+",
@@ -19,15 +63,15 @@
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713173"
         },
         {
-          "title": "테러 아닌 낡은 구리선이 발단…항공관제망 노후화가 부른 역대급 미 항공대란",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261114203812294"
+          "title": "FAA 운항중단에 미국 스포츠도 비상…NBA·NHL·대학 경기 연쇄 차질",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611151831001"
         }
       ]
     },
     {
       "title": "백신",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 15 Nov 2026 02:20:00 -0800",
       "news": [
         {
@@ -36,42 +80,64 @@
           "url": "https://www.khan.co.kr/article/202611151323001"
         },
         {
-          "title": "영아에 기한 하루 지난 백신 접종…대법 “의사면허 취소 과도”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713124"
-        },
-        {
           "title": "대법원, 유효기간 하루 지난 주사제 접종 의사 면허자격정지 패소 원심 파기환송",
           "source": "로이슈",
           "url": "https://www.lawissue.co.kr/view.php?ud=2026111417084166539a8c8bf58f_12"
+        },
+        {
+          "title": "영아에 기한 하루 지난 백신 투여…대법 \"의사 면허정지 과해\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261114049300004"
         }
       ]
     },
     {
       "title": "로봇",
+      "approx_traffic": "1000+",
+      "published": "Sun, 15 Nov 2026 02:20:00 -0800",
+      "news": [
+        {
+          "title": "우주 찍고 온 '초유의 컴백'‥\"이게 믿어져\" 환호 터진 장면",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6865784_36925.html"
+        },
+        {
+          "title": "스페이스X, 사상 첫 우주선 본체 회수…완전재사용 로켓 예고",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261115010500091"
+        },
+        {
+          "title": "15층 건물 크기 스타십, 20초 만에 바로섰다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111574551"
+        }
+      ]
+    },
+    {
+      "title": "문정빈",
       "approx_traffic": "200+",
       "published": "Sun, 15 Nov 2026 02:20:00 -0800",
       "news": [
         {
-          "title": "'제21회 국제로봇콘테스트' 성료…올해 첫선 '마트 휴머노이드', 상품 배송·진열·계산 미션 생중계 관람객 호응",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261115000075"
+          "title": "잠실구장 2032년엔 꼭 만나자…백발 노장과 전설들, 빗속의 작별",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1287334.html"
         },
         {
-          "title": "[대구] '국제 로봇 콘테스트' 개최...\"로봇 기술 경쟁\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202611131451583586"
+          "title": "'화려했던 커리어→아쉬웠던 감독 시절' 지도자로 귀환하나, 이승엽이 답했다 \"언젠가는 다시 하고 싶다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/15/2026111515543672713"
         },
         {
-          "title": "한국기술교육대 학생들, 국제로봇콘테스트 1위·3위",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/society/2026/11/15/20261115500025"
+          "title": "불사조 박철순·헐크 이만수…잠실 ‘라스트이닝’ 레전드 60명 모였다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261115/135025867/1"
         }
       ]
     },
     {
       "title": "한국 일본 야구",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sun, 15 Nov 2026 02:10:00 -0800",
       "news": [
         {
@@ -80,14 +146,31 @@
           "url": "https://www.yna.co.kr/view/AKR20261115011300007"
         },
         {
-          "title": "'한일전 12연패 끊나' 한동희 사구 여파→안현민 4번 DH, 문현빈 우익수 선발…최원호 감독 \"선발 등판했던 투수들 제외 전부 대기\" [오!쎈 도쿄] - 머니투데이",
+          "title": "‘후반기 ERA 0.90’ 日 괴물 에이스, 그런데 한국만 만나면 부진…한일전 12연패 탈출 기회일까 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/15/202611151738776281O"
+          "url": "https://www.mt.co.kr/sports/2026/11/15/202611151535778294O"
         },
         {
-          "title": "‘야구 한일 결승전’ 오늘 저녁 7시…김도영 방망이, 12연패 끊을까",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1287370.html"
+          "title": "'우승 도전' 한국, 김지찬-김도영 테이블세터 유지…안현민, 4번 지명타자",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868749"
+        }
+      ]
+    },
+    {
+      "title": "김주원",
+      "approx_traffic": "100+",
+      "published": "Sun, 15 Nov 2026 02:10:00 -0800",
+      "news": [
+        {
+          "title": "[사진]'맞을만 했다' 자책하는 김건우",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/15/MFRDOZJWMVTDKNLBMMYWCNRSGU/"
+        },
+        {
+          "title": "[사진]루킹 삼진 김도영 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/14/202611141914776586O"
         }
       ]
     },
@@ -132,89 +215,6 @@
           "title": "“젠슨 황 해임설에 코스피도 흔들”…장중 5458 찍고 5342 추락, 무슨 일이",
           "source": "데일리25",
           "url": "https://www.daily25news.com/news/articleView.html?idxno=8888"
-        }
-      ]
-    },
-    {
-      "title": "멜론 뮤직 어워드",
-      "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 01:30:00 -0800",
-      "news": [
-        {
-          "title": "힐링 아일릿",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261115_0021533394"
-        },
-        {
-          "title": "[ET포토] 아일릿, '시크릿 에이전트'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261115000148"
-        },
-        {
-          "title": "[사진]미미미누, 2026 멜론뮤직어워드 사회 맡았어요",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/15/GMZGKMBZGJRGEMRTHBRDMYJVMY/"
-        }
-      ]
-    },
-    {
-      "title": "임창정",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 01:30:00 -0800",
-      "news": [
-        {
-          "title": "'열린음악회' 초호화 라인업… 임창정·장기하·김나영·TWS(투어스)·잭킹콩 총출동",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752492"
-        },
-        {
-          "title": "임창정 ‘소주 한 잔’, 100만 뷰 터졌다…‘전국노래자랑’ 무대 뜨거운 반응",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/musics/12206742"
-        },
-        {
-          "title": "‘전국노래자랑’에 임창정이? 트로트 무대로 딩동댕 받았다 “최소 장려상이야”[Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/08/MNRWEN3DHA2GCZBWGU4TEZDEME/"
-        }
-      ]
-    },
-    {
-      "title": "웨이브",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 00:40:00 -0800",
-      "news": [
-        {
-          "title": "노정의 '우아한 여인'",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/photo/202611151951172214"
-        },
-        {
-          "title": "포즈 취하는 조나단",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261115_0021533388"
-        }
-      ]
-    },
-    {
-      "title": "bangladesh vs south africa",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 00:40:00 -0800",
-      "news": [
-        {
-          "title": "Shanto: 'Very important for the whole batting unit to perform'",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/story/sa-vs-ban-najmul-hossain-shanto-very-important-for-the-whole-batting-unit-to-perform-1562662"
-        },
-        {
-          "title": "How to watch South Africa vs Bangladesh 2026 1st Test: Free Streams & Preview",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/entertainment/cricket/watch-south-africa-vs-bangladesh-2026-1st-test-free"
-        },
-        {
-          "title": "Mahfijul Islam Falls First Ball on Test Debut as Rabada Joins Rare List",
-          "source": "The Eastern Herald",
-          "url": "https://easternherald.com/2026/11/15/mahfijul-islam-first-ball-test-debut-rabada-record/"
         }
       ]
     }
