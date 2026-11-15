@@ -1,33 +1,33 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-14T23:14:14+00:00",
+  "fetched_at": "2026-11-15T00:12:46+00:00",
   "items": [
     {
-      "title": "함덕주",
+      "title": "롤 인벤",
       "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 14:10:00 -0800",
+      "published": "Sat, 14 Nov 2026 15:00:00 -0800",
       "news": [
         {
-          "title": "함덕주, 옵트아웃 행사…시장 나와 새 둥지 찾는다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261114_0003868178"
+          "title": "LoL 신규 클라이언트 ‘아리’ 미쳤네",
+          "source": "게임톡",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=113098"
         },
         {
-          "title": "'후반기 실종→옵트아웃' 함덕주 결국 LG 떠난다, 염경엽 감독의 \"노 코멘트\" 그 말이 힌트였나",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019868"
+          "title": "라이엇게임즈, LoL 신규 클라이언트 '뉴 던' 공개… 2027년 1월 출시",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323384"
         },
         {
-          "title": "좌완 함덕주, LG와 남은 1년 계약 포기…9개 구단과 협상 가능",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6354145"
+          "title": "라이엇게임즈, LoL 신규 클라이언트 '뉴 던' 공개",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323384&site=tera"
         }
       ]
     },
     {
       "title": "육군사관학교",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Sat, 14 Nov 2026 14:10:00 -0800",
       "news": [
         {
@@ -48,30 +48,74 @@
       ]
     },
     {
+      "title": "함덕주",
+      "approx_traffic": "500+",
+      "published": "Sat, 14 Nov 2026 14:10:00 -0800",
+      "news": [
+        {
+          "title": "함덕주, 옵트아웃 행사…시장 나와 새 둥지 찾는다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261114_0003868178"
+        },
+        {
+          "title": "'후반기 실종→옵트아웃' 함덕주 결국 LG 떠난다, 염경엽 감독의 \"노 코멘트\" 그 말이 힌트였나",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019868"
+        },
+        {
+          "title": "좌완 함덕주, LG와 남은 1년 계약 포기…9개 구단과 협상 가능",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6354145"
+        }
+      ]
+    },
+    {
+      "title": "마우리시오 포체티노",
+      "approx_traffic": "100+",
+      "published": "Sat, 14 Nov 2026 14:00:00 -0800",
+      "news": [
+        {
+          "title": "눈물 흘린 포체티노 “맨유 같은 기회 거절하기 어려워”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712851"
+        },
+        {
+          "title": "'맨유를 4-1로 박살 낸 그 선수, 이제 맨유가 데려간다?' 브루노 페르난데스 후계자로 니코 파스 낙점...레알 마드리드 바이백 1200억 변수",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/15/MI4GMOBVMVSDIZLFMY4TMM3DMQ/"
+        },
+        {
+          "title": "맨붕",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261114/135023023/2"
+        }
+      ]
+    },
+    {
       "title": "sk하이닉스",
-      "approx_traffic": "10000+",
+      "approx_traffic": "20000+",
       "published": "Sat, 14 Nov 2026 13:50:00 -0800",
       "news": [
         {
-          "title": "국내·외 증권사 목표가 ‘들쭉날쭉’…길 잃은 ‘삼전닉스’ 개미들",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261113514396"
-        },
-        {
-          "title": "“48만→40만전자”…실적 좋은데 목표가 낮춘 이유",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02371446645645064&mediaCodeNo=257"
-        },
-        {
-          "title": "\"반도체 돈잔치 끝이 보인다\"…삼전닉스에 날아든 경고장 [분석+]",
+          "title": "\"10년 모은 4억이 와르르\"…'SK하닉 몰빵' 30대 피눈물",
           "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111079756"
+          "url": "https://www.hankyung.com/article/2026111465357"
+        },
+        {
+          "title": "“10년 모은 4억이 1억으로…” 반도체 레버리지 투자에 무너진 30대 직장인의 눈물",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1198926"
+        },
+        {
+          "title": "\"빚 포함 5억 잃었다\" \"내 인생 더 망했다\"…직장인들 '주식 손실' 배틀",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611140002259330"
         }
       ]
     },
     {
       "title": "100일의 거짓말",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Sat, 14 Nov 2026 13:50:00 -0800",
       "news": [
         {
@@ -80,14 +124,36 @@
           "url": "https://cine21.com/news/view/?mag_id=111267"
         },
         {
-          "title": "'100일의 거짓말' 김유정, 박진영에게 다시 정체 발각 위기 [N컷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6353973"
+          "title": "'100일의 거짓말' 박진영, 김유정 밀정 정체 알고도 사랑 시작…시청률 8.0% [종합] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/15/2026111508157290086"
         },
         {
-          "title": "1932년 경성 모습 그린 ‘100일의 거짓말’…어디까지 진짜일까",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/culture/culture_general/1287015.html"
+          "title": "‘100일의 거짓말’ 진선규, 김유정에 꽂혔다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611150813003"
+        }
+      ]
+    },
+    {
+      "title": "메이저 리그 베이스볼",
+      "approx_traffic": "500+",
+      "published": "Sat, 14 Nov 2026 13:50:00 -0800",
+      "news": [
+        {
+          "title": "삼성 구자욱, MLB 도전 추진…“좌타자 전문 에이전트 선임”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712231"
+        },
+        {
+          "title": "'한국시리즈 MVP' 구자욱‥메이저리그 도전 선언",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865543_37004.html"
+        },
+        {
+          "title": "'내 나이가 어때서' 韓 타격왕 평가절하, 美 매체 \"구자욱 향한 MLB 관심 제한될 것\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/14/2026111314564665043"
         }
       ]
     },
@@ -114,47 +180,8 @@
       ]
     },
     {
-      "title": "메이저 리그 베이스볼",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 13:50:00 -0800",
-      "news": [
-        {
-          "title": "삼성 구자욱, MLB 도전 추진…“좌타자 전문 에이전트 선임”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712231"
-        },
-        {
-          "title": "'한국시리즈 MVP' 구자욱‥메이저리그 도전 선언",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865543_37004.html"
-        },
-        {
-          "title": "'내 나이가 어때서' 韓 타격왕 평가절하, 美 매체 \"구자욱 향한 MLB 관심 제한될 것\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/14/2026111314564665043"
-        }
-      ]
-    },
-    {
-      "title": "성리",
-      "approx_traffic": "500+",
-      "published": "Sat, 14 Nov 2026 13:40:00 -0800",
-      "news": [
-        {
-          "title": "임영웅 뒤쫓는 성리, K-브랜드지수 2위…‘성리학자’ 팬덤의 힘",
-          "source": "진일보 | 전남일보",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082592"
-        },
-        {
-          "title": "이찬원, 'K-브랜드지수' 트로트 가수 부문 순위에서 몇 위?",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16273332"
-        }
-      ]
-    },
-    {
       "title": "홍현희",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sat, 14 Nov 2026 13:40:00 -0800",
       "news": [
         {
@@ -175,46 +202,19 @@
       ]
     },
     {
-      "title": "잠실주공5단지 아파트",
+      "title": "성리",
       "approx_traffic": "500+",
-      "published": "Sat, 14 Nov 2026 13:30:00 -0800",
+      "published": "Sat, 14 Nov 2026 13:40:00 -0800",
       "news": [
         {
-          "title": "[단독]잠실주공5단지, 분양신청 저조에 조합장 해임 기로…재건축 ‘삐걱’",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/article/2026111415191575156"
+          "title": "임영웅 뒤쫓는 성리, K-브랜드지수 2위…‘성리학자’ 팬덤의 힘",
+          "source": "진일보 | 전남일보",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082592"
         },
         {
-          "title": "\"9개월 전 37억 찍었는데…\" 잠실엘스, 29억대 매물 등장",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01082406645645392&mediaCodeNo=257"
-        },
-        {
-          "title": "\"잠실 30억도 흔들린다\"…강남·서초로 몰리는 매수세에 중상위권 '주춤'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261113_0003867547"
-        }
-      ]
-    },
-    {
-      "title": "bồ đào nha đấu với đan mạch",
-      "approx_traffic": "100+",
-      "published": "Sat, 14 Nov 2026 13:30:00 -0800",
-      "news": [
-        {
-          "title": "Video bóng đá Bồ Đào Nha - Đan Mạch: Thảm bại kinh hoàng & nỗi nhớ Ronaldo (Nations League)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-bo-dao-nha-dan-mach-tham-bai-kinh-hoang-noi-nho-ronaldo-nations-league-c48a1811200.html"
-        },
-        {
-          "title": "Các cầu thủ Bồ Đào Nha sẽ mặc áo số 7 tri ân Ronaldo",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/cac-cau-thu-bo-dao-nha-se-mac-ao-so-7-tri-an-ronaldo-5144581.html"
-        },
-        {
-          "title": "Không ai ở căn phòng của Ronaldo tại tuyển Bồ Đào Nha",
-          "source": "Znews",
-          "url": "https://znews.vn/khong-ai-o-can-phong-cua-ronaldo-tai-tuyen-bo-dao-nha-post1696274.html"
+          "title": "이찬원, 'K-브랜드지수' 트로트 가수 부문 순위에서 몇 위?",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16273332"
         }
       ]
     }
