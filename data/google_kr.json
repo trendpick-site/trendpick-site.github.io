@@ -1,27 +1,49 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-15T14:49:14+00:00",
+  "fetched_at": "2026-11-15T15:44:48+00:00",
   "items": [
+    {
+      "title": "스포츠조선",
+      "approx_traffic": "100+",
+      "published": "Sun, 15 Nov 2026 06:40:00 -0800",
+      "news": [
+        {
+          "title": "김민하 착시현상 뭐길래? 살구빛 '누드톤' 의상으로 존재감 과시",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/GU3TQNJVMQYWIM3DMUYDEOJUGA/"
+        },
+        {
+          "title": "'정형화 거부' 김민하, 밀착 의상 입고 파격 변신",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868658"
+        },
+        {
+          "title": "\"매일 5㎞ 뛰고 10시 취침\"…김민하, '17㎏ 감량' 비법[셀럽웰빙] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111309055767065"
+        }
+      ]
+    },
     {
       "title": "입양",
       "approx_traffic": "200+",
       "published": "Sun, 15 Nov 2026 05:40:00 -0800",
       "news": [
         {
-          "title": "\"다시는 안 키운다\" 입양 거절했는데... 예상 못한 일이 벌어졌다",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284762"
+          "title": "\"여기가 미감 종착지\"…김나영, ♥마이큐 작업실서 허리 감싸 안으며 '사랑꾼 면모' 과시",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/HE3TSNRSGAYTANZTGI2TEMDGMU/"
         },
         {
-          "title": "서울청년 70% \"남녀 모두 차별겪어\"…\"결혼싫다\" 여성은 남성 두 배",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113112800004"
+          "title": "\"누가 여기에 갖다 놓은 거야?\"...김나영, 주방 서랍 열어보고 '깜짝' 놀란 사연 ('노필터티비')",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261115040636923"
         },
         {
-          "title": "서울 여성 청년 25% \"결혼 안 해\"…출산·입양도 남성보다 부정적",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261115141231CT3"
+          "title": "김나영♥마이큐, 작업실서 과감한 스킨십...\"진짜 천생연분\" 신혼 일상 (노필터)",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-15/202611150100101580009397"
         }
       ]
     },
@@ -49,7 +71,7 @@
     },
     {
       "title": "미미미누",
-      "approx_traffic": "1000+",
+      "approx_traffic": "500+",
       "published": "Sun, 15 Nov 2026 05:30:00 -0800",
       "news": [
         {
@@ -66,6 +88,28 @@
           "title": "아일릿 윤아, 안대도 패션으로 승화",
           "source": "뉴스1",
           "url": "https://www.news1.kr/photos/8214951"
+        }
+      ]
+    },
+    {
+      "title": "알렉산더 즈베레프",
+      "approx_traffic": "1000+",
+      "published": "Sun, 15 Nov 2026 05:30:00 -0800",
+      "news": [
+        {
+          "title": "즈베레프, 험난한 조 편성 속 호다르와 첫판… 알카라스는 '비교적 수월'",
+          "source": "테니스코리아",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54294"
+        },
+        {
+          "title": "즈베레프와 알카라즈는 ATP 파이널에서 각 조 1위를 차지할 예정이다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/zverev-va-alcaraz-se-dan-dau-2-bang-dau-tai-atp-finals"
+        },
+        {
+          "title": "ATP 파이널 2026 예측: 알카라스 1위 후보",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/tennis/nhan-dinh-atp-finals-2026-alcaraz-ung-vien-so-1-1800096.ldo"
         }
       ]
     },
@@ -102,14 +146,14 @@
           "url": "https://www.chosun.com/economy/tech_it/2026/11/15/K627F2S2CNFL5NG7Z3VUZCPXLM/"
         },
         {
-          "title": "복귀 청원 14만 넘겨 vs \"겸손은 연기, 폭언 일삼아\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611152213408716_005.html"
+          "title": "[씨줄날줄] 차등의결권",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/editOpinion/weft-column/2026/11/16/20261116027006"
         },
         {
-          "title": "‘강심장’ 서학개미?…‘젠슨 황 스캔들’ 엔비디아 4500억원 샀다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261115/135026650/1"
+          "title": "“보스 돌려줘” 12만명 젠슨 황 복귀 청원…“타락한 실리콘밸리”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1287402.html"
         }
       ]
     },
@@ -124,14 +168,14 @@
           "url": "https://www.chosun.com/economy/industry-company/2026/11/15/VWBYOVIHRJCPHMJ2TI4KVG5NJI/"
         },
         {
+          "title": "HD현대, 美기업과 ‘바다의 드론’ 진수",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/16/20261116032006"
+        },
+        {
           "title": "HD현대, 미 무인함정 시장 공략 발판",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202611152031025"
-        },
-        {
-          "title": "적과 아군 사이 승조원 없는 함정…\"미래 해상전 게임체인저\"",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1199092"
         }
       ]
     },
@@ -141,19 +185,19 @@
       "published": "Sun, 15 Nov 2026 04:30:00 -0800",
       "news": [
         {
-          "title": "강남 집값 내리는데 경기 규제지역은 상승…연말 토허제 ‘딜레마’",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01889286645646048"
+          "title": "송파 풍납극동아파트 598세대로…응암동엔 1천세대 주거단지",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261114027800004"
         },
         {
-          "title": "\"집 팔고 나가라는 거냐\"…은마 '4.6억 청구서'에 부글부글 [이슬기의 새집다오]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111348856"
+          "title": "송파 풍납극동아파트, 최고 40층 598가구로 재건축",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/15/W3LA2BACI5CE5H36OVNJ5CCPC4/"
         },
         {
-          "title": "재초환 '날벼락'에...재건축 조합장들 한 곳에",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611131524554357"
+          "title": "서울 응암동 675번지 재개발 심의 통과…1118세대 공급",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261113_0003867822"
         }
       ]
     },
@@ -173,53 +217,9 @@
           "url": "https://www.mt.co.kr/sports/2026/11/15/202611151948771072O"
         },
         {
-          "title": "[사진]홈에서 아웃되는 김주원",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112910278"
-        }
-      ]
-    },
-    {
-      "title": "공습",
-      "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 04:10:00 -0800",
-      "news": [
-        {
-          "title": "이란, 두달 만에 미군 기지 공습…미국 ‘봉쇄 강화’ 기조에 강경 대응",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/arabafrica/1287428.html"
-        },
-        {
-          "title": "이란 혁명수비대, 바레인 미군 레이더 기지 공격",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444825"
-        },
-        {
-          "title": "이란, 두 달여 만에 중동 미군 기지 타격 이어가",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6865772_36925.html"
-        }
-      ]
-    },
-    {
-      "title": "일본 한국 야구",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 04:10:00 -0800",
-      "news": [
-        {
-          "title": "침묵하던 김도영이 ‘쾅’... 대만 꺾고 日과 우승 다툰다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/14/MTLH675YURA6XD3ICXSKJ2KTWQ/"
-        },
-        {
-          "title": "깨어난 김도영‥'한일전 12연패, 오늘 끊어낼까'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865820_37004.html"
-        },
-        {
-          "title": "김도영, APBC 첫 홈런 ‘쾅’…한국, 대만 꺾고 오늘 일본과 결승",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1287342.html"
+          "title": "만루 기회 살려 2점차 벌리는 김휘집",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261114_0002292136"
         }
       ]
     }
