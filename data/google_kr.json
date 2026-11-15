@@ -1,8 +1,52 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-15T19:25:36+00:00",
+  "fetched_at": "2026-11-15T20:16:17+00:00",
   "items": [
+    {
+      "title": "스페인 대 잉글랜드",
+      "approx_traffic": "1000+",
+      "published": "Sun, 15 Nov 2026 11:00:00 -0800",
+      "news": [
+        {
+          "title": "“스페인에 인종차별 있다고 한 적 없다”…투헬, 기자들에 격분",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611150849003"
+        },
+        {
+          "title": "'야말 쉬어, 이강인 친구들이 끝냈다' 바에나-푸빌 연속골 폭발! 스페인, 체코 원정 2-0 완파..43경기 연속 무패 행진 질주",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/13/GVTGIZRYG5STSOJWGM4DIZRVMQ/"
+        },
+        {
+          "title": "스페인 공격수 예레미 피노, 프라하서 체코와 맞대결",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751818"
+        }
+      ]
+    },
+    {
+      "title": "공매도",
+      "approx_traffic": "500+",
+      "published": "Sun, 15 Nov 2026 10:50:00 -0800",
+      "news": [
+        {
+          "title": "“보스 돌려줘” 12만명 젠슨 황 복귀 청원…“타락한 실리콘밸리”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1287402.html"
+        },
+        {
+          "title": "복귀 청원 15만 넘겨 vs \"겸손은 연기, 폭언 일삼아\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611160415444633_005.html"
+        },
+        {
+          "title": "창업자 한 명에 매달린 빅테크… '열쇠' 빠지자 뻥 뚫린 경영 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/16/2026111519385397101"
+        }
+      ]
+    },
     {
       "title": "빙그레",
       "approx_traffic": "100+",
@@ -31,25 +75,25 @@
       "published": "Sun, 15 Nov 2026 08:00:00 -0800",
       "news": [
         {
-          "title": "강남 집값 내리는데 경기 규제지역은 상승…연말 토허제 ‘딜레마’",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01889286645646048"
+          "title": "“지역 상징성 강조” 단지 번호 남기는 아파트 재건축",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261115/135027921/2"
         },
         {
-          "title": "\"이제 와서 2억 더 내라고?\"…서초 아파트 주민들 '날벼락' [김용우의 각개전투]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611146307i"
+          "title": "현대·삼성 '최대 실적'…건설사 도시정비 수주 신기록 세우나",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6606784"
         },
         {
-          "title": "재초환 '날벼락'에...재건축 조합장들 한 곳에",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611131524554357"
+          "title": "11월 재개발·재건축 시공자 선정 동향(2026.10.26.~2026.11.22.)",
+          "source": "하우징헤럴드",
+          "url": "https://www.housingherald.co.kr/news/articleView.html?idxno=63403"
         }
       ]
     },
     {
       "title": "스포츠조선",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sun, 15 Nov 2026 06:40:00 -0800",
       "news": [
         {
@@ -70,8 +114,30 @@
       ]
     },
     {
+      "title": "한일전",
+      "approx_traffic": "5000+",
+      "published": "Sun, 15 Nov 2026 05:50:00 -0800",
+      "news": [
+        {
+          "title": "日 APBC 우승 제물은 3연속 한국... 11년째 일본전 무승 이어가",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/15/236G5T6ILFDGNOMZQAC3BJM7M4/"
+        },
+        {
+          "title": "韓야구, 日에 13연패 수렁…2015년 이후 한 번도 못 이겼다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261115/135029058/1"
+        },
+        {
+          "title": "APBC 야구대표팀, 일본에 져 준우승‥일본전 13연패",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6865836_36946.html"
+        }
+      ]
+    },
+    {
       "title": "퇴직금",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 15 Nov 2026 05:40:00 -0800",
       "news": [
         {
@@ -136,6 +202,11 @@
       "published": "Sun, 15 Nov 2026 05:30:00 -0800",
       "news": [
         {
+          "title": "[부고]김순애 별세 外",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/People/article/all/20261116/135028790/2"
+        },
+        {
           "title": "[부고] 이개호(국회의원)씨 모친상",
           "source": "스트레이트뉴스",
           "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315395"
@@ -144,77 +215,6 @@
           "title": "[부고] 이개호 씨(더불어민주당 국회의원) 모친상",
           "source": "뉴스1",
           "url": "https://www.news1.kr/politics/assembly/6354431"
-        },
-        {
-          "title": "[부고]이개호(더불어민주당 국회의원)씨 모친상 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/society/2026/11/15/2026111514413782459"
-        }
-      ]
-    },
-    {
-      "title": "박현주",
-      "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 05:30:00 -0800",
-      "news": [
-        {
-          "title": "“젠슨 황 복귀해야” 14만명 청원…머스크도 가세",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713204"
-        },
-        {
-          "title": "창업자 한 명에 매달린 빅테크… '열쇠' 빠지자 뻥 뚫린 경영 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/16/2026111519385397101"
-        },
-        {
-          "title": "복귀 청원 14만 넘겨 vs \"겸손은 연기, 폭언 일삼아\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611152040168497_005.html"
-        }
-      ]
-    },
-    {
-      "title": "수상함",
-      "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 05:20:00 -0800",
-      "news": [
-        {
-          "title": "HD현대, 美 안두릴과 600t급 무인 군함 건조… 내년 美 해군 수주 도전",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/11/15/VWBYOVIHRJCPHMJ2TI4KVG5NJI/"
-        },
-        {
-          "title": "사람 대신 AI 승조원… 한미 무인군함 첫선 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/11/16/2026111519590590555"
-        },
-        {
-          "title": "HD현대, 미 무인함정 시장 공략 발판",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611152031025"
-        }
-      ]
-    },
-    {
-      "title": "장혁",
-      "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 05:00:00 -0800",
-      "news": [
-        {
-          "title": "＂내 어찌 경의 뜻을 모르겠는가＂ 양현민을 설득시킨 선동혁 [문무] | KBS 261115 방송",
-          "source": "대한민국 대표 공영미디어 KBS",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026188993-01-000_MFSC1&program_code=T2025-0499&program_id=PS-2026188993-01-000&section_code=03&broadcast_complete_yn=N&section_id=28257"
-        },
-        {
-          "title": "300억 대작 ‘문무’, 첫방 시청률 4.7%… ‘고려거란전쟁’ 못 넘었다",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01295606645646048&mediaCodeNo=257"
-        },
-        {
-          "title": "장혁, 왕좌 찬탈하고 조성하와 살기 어린 만남..피할 수 없는 대결(‘문무’)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/MY3WIMRYHE4DKNZRMNSWIODBGI/"
         }
       ]
     }
