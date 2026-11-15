@@ -1,11 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-15T13:56:56+00:00",
+  "fetched_at": "2026-11-15T14:49:14+00:00",
   "items": [
     {
+      "title": "입양",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 05:40:00 -0800",
+      "news": [
+        {
+          "title": "\"다시는 안 키운다\" 입양 거절했는데... 예상 못한 일이 벌어졌다",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284762"
+        },
+        {
+          "title": "서울청년 70% \"남녀 모두 차별겪어\"…\"결혼싫다\" 여성은 남성 두 배",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113112800004"
+        },
+        {
+          "title": "서울 여성 청년 25% \"결혼 안 해\"…출산·입양도 남성보다 부정적",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261115141231CT3"
+        }
+      ]
+    },
+    {
+      "title": "퇴직금",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 05:40:00 -0800",
+      "news": [
+        {
+          "title": "퇴직연금 대수술, 뭐가 달라질까?",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3912"
+        },
+        {
+          "title": "NH농협금융, 기금형 퇴직연금 대비 그룹 TF 가동",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113118100002"
+        },
+        {
+          "title": "박예희 노무사의 즐거운 인사노무",
+          "source": "동북일보",
+          "url": "https://www.dongbukilbo.com/etnews/?fn=v&no=42757&cid=21070200"
+        }
+      ]
+    },
+    {
+      "title": "미미미누",
+      "approx_traffic": "1000+",
+      "published": "Sun, 15 Nov 2026 05:30:00 -0800",
+      "news": [
+        {
+          "title": "힐링 아일릿",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261115_0021533394"
+        },
+        {
+          "title": "[사진]미미미누, 2026 멜론뮤직어워드 사회 맡았어요",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/15/GMZGKMBZGJRGEMRTHBRDMYJVMY/"
+        },
+        {
+          "title": "아일릿 윤아, 안대도 패션으로 승화",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8214951"
+        }
+      ]
+    },
+    {
+      "title": "부고",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 05:30:00 -0800",
+      "news": [
+        {
+          "title": "[부음] 권형택(기술보증기금 이사장)씨 장인상",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261115000175"
+        },
+        {
+          "title": "오늘의 부고 종합",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01823686645646048&mediaCodeNo=257"
+        },
+        {
+          "title": "[부고] 권형택(기술보증기금 이사장)씨 장인상",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/sb-founded/6354440"
+        }
+      ]
+    },
+    {
+      "title": "박현주",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 05:30:00 -0800",
+      "news": [
+        {
+          "title": "\"겸손은 연기, 반대하면 폭언\"… 젠슨 황 전기 작가의 폭로",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/11/15/K627F2S2CNFL5NG7Z3VUZCPXLM/"
+        },
+        {
+          "title": "복귀 청원 14만 넘겨 vs \"겸손은 연기, 폭언 일삼아\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611152213408716_005.html"
+        },
+        {
+          "title": "‘강심장’ 서학개미?…‘젠슨 황 스캔들’ 엔비디아 4500억원 샀다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261115/135026650/1"
+        }
+      ]
+    },
+    {
+      "title": "수상함",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 05:20:00 -0800",
+      "news": [
+        {
+          "title": "HD현대, 美 안두릴과 600t급 무인 군함 건조… 내년 美 해군 수주 도전",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/15/VWBYOVIHRJCPHMJ2TI4KVG5NJI/"
+        },
+        {
+          "title": "HD현대, 미 무인함정 시장 공략 발판",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611152031025"
+        },
+        {
+          "title": "적과 아군 사이 승조원 없는 함정…\"미래 해상전 게임체인저\"",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1199092"
+        }
+      ]
+    },
+    {
       "title": "재건축",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Sun, 15 Nov 2026 04:30:00 -0800",
       "news": [
         {
@@ -53,26 +185,26 @@
       "published": "Sun, 15 Nov 2026 04:10:00 -0800",
       "news": [
         {
-          "title": "이란, 두 달여 만에 중동 미군 기지 타격 이어가",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6865772_36925.html"
-        },
-        {
           "title": "이란, 두달 만에 미군 기지 공습…미국 ‘봉쇄 강화’ 기조에 강경 대응",
           "source": "한겨레",
           "url": "https://www.hani.co.kr/arti/international/arabafrica/1287428.html"
         },
         {
-          "title": "이란 혁명수비대 “드론 6대로 바레인 美 방공 레이더 공격”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261115/135026890/1"
+          "title": "이란 혁명수비대, 바레인 미군 레이더 기지 공격",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444825"
+        },
+        {
+          "title": "이란, 두 달여 만에 중동 미군 기지 타격 이어가",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6865772_36925.html"
         }
       ]
     },
     {
-      "title": "한국 야구",
-      "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 04:00:00 -0800",
+      "title": "일본 한국 야구",
+      "approx_traffic": "500+",
+      "published": "Sun, 15 Nov 2026 04:10:00 -0800",
       "news": [
         {
           "title": "침묵하던 김도영이 ‘쾅’... 대만 꺾고 日과 우승 다툰다",
@@ -88,138 +220,6 @@
           "title": "김도영, APBC 첫 홈런 ‘쾅’…한국, 대만 꺾고 오늘 일본과 결승",
           "source": "한겨레",
           "url": "https://www.hani.co.kr/arti/international/international_general/1287342.html"
-        }
-      ]
-    },
-    {
-      "title": "샤인머스캣",
-      "approx_traffic": "5000+",
-      "published": "Sun, 15 Nov 2026 03:50:00 -0800",
-      "news": [
-        {
-          "title": "샤인머스캣 인기 시들하더니…새로 등장한 '귀족 과일'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111574921"
-        },
-        {
-          "title": "'하나에 4만원'…여성 VIP들 즐긴다는 '귀족 과일' 뭐길래 [프라이스&]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611094307i"
-        },
-        {
-          "title": "농협경제지주, 농식품부와 손잡고 샤인머스캣 부활 나선다",
-          "source": "한국영농신문",
-          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71869"
-        }
-      ]
-    },
-    {
-      "title": "최원호",
-      "approx_traffic": "1000+",
-      "published": "Sun, 15 Nov 2026 03:40:00 -0800",
-      "news": [
-        {
-          "title": "[사진]'맞을만 했다' 자책하는 김건우",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/15/MFRDOZJWMVTDKNLBMMYWCNRSGU/"
-        },
-        {
-          "title": "[사진]박정민,'맞춰 잡는 투구로 8회말 순삭'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/15/MYZDQYJYGI4DAZRYG4YTINBSGM/"
-        },
-        {
-          "title": "[사진]벗어난 김도영의 1루 송구 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/15/202611152137770278O"
-        }
-      ]
-    },
-    {
-      "title": "김유재",
-      "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 02:50:00 -0800",
-      "news": [
-        {
-          "title": "피겨 김유재, 시니어 GP 4차 대회 쇼트 3위…트리플 악셀 성공",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261115018700007"
-        },
-        {
-          "title": "'시니어 무대 첫 메달 보인다' 기대주 김유재, 그랑프리 4차 쇼트프로그램 3위 랭크…'2위와 0.32점 차이'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/15/MVTDONTBGVTDENLEMNRDOZTBME/"
-        },
-        {
-          "title": "김유재, 쇼트서 3위…선두 나카이와 8.28점 차 : 스포츠",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1095298"
-        }
-      ]
-    },
-    {
-      "title": "화물기",
-      "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 02:30:00 -0800",
-      "news": [
-        {
-          "title": "테러 아니었네…역대급 美 항공대란, 이것 교체하다 터졌다",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261114203812294"
-        },
-        {
-          "title": "미국 활주로 이동중 여객기 날개와 화물기 부딪혀",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713141"
-        },
-        {
-          "title": "이틀째 수천 편 차질...완전 정상화까진 '아직'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611151012575041_005.html"
-        }
-      ]
-    },
-    {
-      "title": "백신",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 02:20:00 -0800",
-      "news": [
-        {
-          "title": "생후 6개월 영아에 하루 지난 백신 투여한 의사…대법 “면허정지는 과도해”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611151323001"
-        },
-        {
-          "title": "영아에 기한 하루 지난 백신 접종…대법 “의사면허 취소 과도”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713124"
-        },
-        {
-          "title": "대법원, 유효기간 하루 지난 주사제 접종 의사 면허자격정지 패소 원심 파기환송",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=2026111417084166539a8c8bf58f_12"
-        }
-      ]
-    },
-    {
-      "title": "로봇",
-      "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 02:20:00 -0800",
-      "news": [
-        {
-          "title": "JP모건 “미국 휴머노이드 2030년 40만대”…한국 로보티즈 주목",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02394406645645720&mediaCodeNo=257"
-        },
-        {
-          "title": "JP모건 \"미 휴머노이드 2030년 40만대\"…로보티즈 유망 부품사 선정",
-          "source": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217376"
-        },
-        {
-          "title": "로봇이 로봇을 만든다면…2083년엔 로봇과 인구수 비슷해질 수도",
-          "source": "농민신문",
-          "url": "https://www.nongmin.com/article/20261115500065"
         }
       ]
     }
