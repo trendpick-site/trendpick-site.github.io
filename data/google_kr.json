@@ -1,8 +1,118 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-15T08:55:46+00:00",
+  "fetched_at": "2026-11-15T09:51:19+00:00",
   "items": [
+    {
+      "title": "웨이브",
+      "approx_traffic": "1000+",
+      "published": "Sun, 15 Nov 2026 00:40:00 -0800",
+      "news": [
+        {
+          "title": "매력적인 아일릿",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261115_0021533395"
+        },
+        {
+          "title": "힐링 아일릿",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261115_0021533394&pID=1&cID=&sID=1&type=Main&idx=7"
+        },
+        {
+          "title": "[사진]미미미누, 2026 멜론뮤직어워드 사회 맡았어요",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/15/GMZGKMBZGJRGEMRTHBRDMYJVMY/"
+        }
+      ]
+    },
+    {
+      "title": "bangladesh vs south africa",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 00:40:00 -0800",
+      "news": [
+        {
+          "title": "Shanto: 'Very important for the whole batting unit to perform'",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/story/sa-vs-ban-najmul-hossain-shanto-very-important-for-the-whole-batting-unit-to-perform-1562662"
+        },
+        {
+          "title": "Proteas unveil playing XI for opening Bangladesh Test",
+          "source": "ICC",
+          "url": "https://www.icc-cricket.com/tournaments/world-test-championship/news/proteas-unveil-playing-xi-for-opening-bangladesh-test"
+        },
+        {
+          "title": "Watch: Rabada wastes no time",
+          "source": "SA Cricket Mag",
+          "url": "https://www.sacricketmag.com/watch-rabada-wastes-no-time/"
+        }
+      ]
+    },
+    {
+      "title": "압류",
+      "approx_traffic": "100+",
+      "published": "Sun, 15 Nov 2026 00:20:00 -0800",
+      "news": [
+        {
+          "title": "교도소 수감 JMS 정명석, 영치금 못 쓴다···2인자 영치금 이어 압류",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611150948011"
+        },
+        {
+          "title": "징역 17년 정명석, 교도소 영치금까지 압류…JMS 교단 예금도 묶였다",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261115580276"
+        },
+        {
+          "title": "JMS 정명석 ‘영치금 압류’ 결정…성범죄 피해자 배상 판결 후속 조치",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/regional/2026/11/15/2EKX6V3Z6BF5JDDZUUBYB7H3NE/"
+        }
+      ]
+    },
+    {
+      "title": "개혁",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "이 대통령 \"개혁의 이름 빌려 개혁 방해하는 건 용납 어려워\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865766_36911.html"
+        },
+        {
+          "title": "“등 뒤 화살” 이어 “개혁 방해”…이 대통령, 민주 강경파에 ‘경고장’",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/bluehouse/1287382.html"
+        },
+        {
+          "title": "“지지율 떨어져도 할 일은 해야”…李대통령, 여권 향해 개혁 압박",
+          "source": "조세일보",
+          "url": "https://m.joseilbo.com/news/view.htm?newsid=579657"
+        }
+      ]
+    },
+    {
+      "title": "김건우",
+      "approx_traffic": "100+",
+      "published": "Sun, 15 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "김건우 vs 다카하시, APBC 결승 선발…김도영은 설욕 나선다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261115011300007"
+        },
+        {
+          "title": "'한일전 12연패 끊나' 한동희 사구→안현민 4번 DH, 문현빈 우익수 선발…최원호 감독 \"선발 등판했던 투수들 제외 전부 대기\" [오!쎈 도쿄]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/15/HBSGKYRVGY4TGZRVGJSTGMRVGU/"
+        },
+        {
+          "title": "‘야구 한일 결승전’ 오늘 저녁 7시…김도영 방망이, 12연패 끊을까",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1287370.html"
+        }
+      ]
+    },
     {
       "title": "창원 lg 대 수원 kt",
       "approx_traffic": "500+",
@@ -37,14 +147,14 @@
       "published": "Sat, 14 Nov 2026 23:20:00 -0800",
       "news": [
         {
-          "title": "박태환 맞아? 확 달라진 얼굴에 깜짝… 살 쏙 빠지고 배우 비주얼",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/GI4GMZJWGBTGKYJRMZQTOZRQMY/"
-        },
-        {
           "title": "박태환, 살 뺐나…또렷해진 이목구비",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Culture/article/all/20261115/135026893/1"
+        },
+        {
+          "title": "박태환 맞아? 확 달라진 얼굴…볼살 빠지고 아이돌 비주얼",
+          "source": "헤럴드경제",
+          "url": "https://mbiz.heraldcorp.com/article/10937654"
         },
         {
           "title": "박태환 맞아? 볼살 실종에 확 달라진 얼굴…무슨 일 있었나",
@@ -55,37 +165,9 @@
     },
     {
       "title": "부산 kcc 대 대구 한국가스공사",
-      "approx_traffic": "1000+",
-      "published": "Sat, 14 Nov 2026 23:10:00 -0800",
-      "news": [
-        {
-          "title": "[포토] 소노, 한국가스공사에 88-87로 승리",
-          "source": "점프볼",
-          "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065619927051376"
-        }
-      ]
-    },
-    {
-      "title": "구자욱",
       "approx_traffic": "2000+",
       "published": "Sat, 14 Nov 2026 23:10:00 -0800",
-      "news": [
-        {
-          "title": "삼성 구자욱, MLB 도전 추진…“좌타자 전문 에이전트 선임”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712231"
-        },
-        {
-          "title": "미네소타 1루수 고민, KBO리그에서 답 찾나? 美 매체가 주목한 삼성 우승 영웅",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/15/GVRDAYJWHFTGEZBQG4ZTEYLFG4/"
-        },
-        {
-          "title": "구자욱-원태인 필요성 역설한 삼성 이종열 단장…구자욱은 MLB 도전 위해 에이전트 선임 변수",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261115/135026508/1"
-        }
-      ]
+      "news": []
     },
     {
       "title": "금오산",
@@ -93,107 +175,19 @@
       "published": "Sat, 14 Nov 2026 23:10:00 -0800",
       "news": [
         {
-          "title": "구미 금오산 하늘다리 개통…관광 새 랜드마크",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026111510595800590"
-        },
-        {
           "title": "구미 금오산 '하늘다리' 개통…효자봉 등산로 연결",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261115_0003868709"
         },
         {
-          "title": "도로가 갈라놓은 금오산 등산로, 35m 하늘다리로 이어졌다",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1715180/%EB%8F%84%EB%A1%9C-%EA%B0%88%EB%9D%BC%EB%86%93-%EA%B8%88%EC%98%A4%EC%82%B0-%EB%93%B1%EC%82%B0%EB%A1%9C-35m-%ED%95%98-2026"
-        }
-      ]
-    },
-    {
-      "title": "화물선",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 23:10:00 -0800",
-      "news": [
-        {
-          "title": "‘미시시피의 기적’…유람선-화물선 충돌, 180명 전원 구조",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712959"
+          "title": "구미 금오산 하늘다리 개통…관광 새 랜드마크",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026111510595800590"
         },
         {
-          "title": "대형 크루즈 ‘쾅!’ 전복됐는데…탑승객 180여명 모두 무사 ‘기적’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261114/135024107/1"
-        },
-        {
-          "title": "\"사망자 0명\"… 선장은 마지막에 빠져나왔고, 시민들은 배를 띄웠다",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752420"
-        }
-      ]
-    },
-    {
-      "title": "의료",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 22:50:00 -0800",
-      "news": [
-        {
-          "title": "‘부산의료산업대상’ 대상에 이샘병원 이성근 병원장",
-          "source": "부산일보",
-          "url": "https://mobile.busan.com/view/busan/view.php?code=2026111509463124239"
-        },
-        {
-          "title": "대구광역시, 시안 의료·교육기관과 협약 추진...공동사업 발굴",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752326"
-        },
-        {
-          "title": "울산중구가족센터, 결혼이민자 15명과 부산국제의료관광컨벤션 견학",
-          "source": "경상일보",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072515"
-        }
-      ]
-    },
-    {
-      "title": "레버리지",
-      "approx_traffic": "500+",
-      "published": "Sat, 14 Nov 2026 22:30:00 -0800",
-      "news": [
-        {
-          "title": "[단독] '단일 레버리지ETF' 국무회의, 안건 평균 44초 논의 후 '이견 없음' … 금융위원장 불참",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/11/2026111100028.html"
-        },
-        {
-          "title": "단일종목 레버리지 6조 손실…영업맨 성과급은 왜",
-          "source": "자본시장뉴스",
-          "url": "https://www.jabon.co.kr/news/articleView.html?idxno=8738"
-        },
-        {
-          "title": "[단독] 끝나지 않는 ‘레버리지 ETF’ 논란…권익위, 이해충돌 조사 나선다",
-          "source": "시사저널",
-          "url": "https://www.sisajournal.com/news/articleView.html?idxno=394009"
-        }
-      ]
-    },
-    {
-      "title": "젠틀몬스터",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 22:30:00 -0800",
-      "news": [
-        {
-          "title": "삼성 AI 안경 베일 벗었다…12월 10일 국내 출시·65만원부터",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261112140300017"
-        },
-        {
-          "title": "예쁜 뿔테 안경인 줄 알았는데, AI 안경입니다",
-          "source": "엘르 코리아 │ ELLE KOREA",
-          "url": "https://www.elle.co.kr/article/1913095"
-        },
-        {
-          "title": "이번 주 주요 패션 뉴스: 젠틀몬스터 스마트 글라스 전격 공개 & 리모와 x 메종 마르지엘라 협업 외",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/11/gentle-monster-intelligent-balenciaga-on-rimowa-maison-margiela-jw-anderson-info"
+          "title": "가을을 잇는 하늘길, 별빛을 품은 금오산…구미의 낭만이 깊어진다",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/national/2388974.htm"
         }
       ]
     }
