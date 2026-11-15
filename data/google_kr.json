@@ -1,11 +1,165 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-15T20:16:17+00:00",
+  "fetched_at": "2026-11-15T21:16:22+00:00",
   "items": [
     {
-      "title": "스페인 대 잉글랜드",
+      "title": "상장지수 펀드",
+      "approx_traffic": "100+",
+      "published": "Sun, 15 Nov 2026 12:10:00 -0800",
+      "news": [
+        {
+          "title": "‘액티브 ETF’의 굴욕… 코스닥보다 죽 쒔다",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/economy/finance/2026/11/16/20261116031001"
+        },
+        {
+          "title": "\"진짜 체력은 여기\"…하락장에도 뭉칫돈 들고 몰려간 곳",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111575441"
+        },
+        {
+          "title": "증시 급변에 ETF 순위 '지각변동'…한투, KB 제치고 3위",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443891"
+        }
+      ]
+    },
+    {
+      "title": "삼전닉스",
       "approx_traffic": "1000+",
+      "published": "Sun, 15 Nov 2026 12:00:00 -0800",
+      "news": [
+        {
+          "title": "고점 대비 ‘―40%’에 고개드는 빚투…마통 잔액 51개월 만에 최대",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261115/135026798/1"
+        },
+        {
+          "title": "\"주식 사려고 빚 냈어요\"…7조 폭풍매수 몰린 '두 종목'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111567997"
+        },
+        {
+          "title": "개미, 코스닥 떠나 코스피로…코스닥 '빚투' 반년 새 반토막",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01577686645646048"
+        }
+      ]
+    },
+    {
+      "title": "이란",
+      "approx_traffic": "1000+",
+      "published": "Sun, 15 Nov 2026 12:00:00 -0800",
+      "news": [
+        {
+          "title": "이란, 두달만에 중동 미국 기지 공격 재개…바레인군 “발사체 요격”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713132"
+        },
+        {
+          "title": "이란, 두 달 만에 중동 미군기지 공격 재개",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116055050WOv"
+        },
+        {
+          "title": "美·이란 협상 교착 속 이란, 바레인 또 드론 공격…전운 고조(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868820"
+        }
+      ]
+    },
+    {
+      "title": "로스앤젤레스 fc",
+      "approx_traffic": "1000+",
+      "published": "Sun, 15 Nov 2026 11:20:00 -0800",
+      "news": [
+        {
+          "title": "\"손흥민 이적료 없이 다시 이적 가능\" 토트넘 깜짝 복귀 성사되나...내년 1월 협상 가능 선수로 등장, \"본격적인 카운트다운 시작\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-11-14/202611140100095190008917"
+        },
+        {
+          "title": "'맙소사' 손흥민 충격 이적? LA FC와 결별 가능성 등장...스페인 매체 'FA 이적 가능성' 언급, \"이적료 없이 떠날 수 있다\"",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026111521553874736"
+        },
+        {
+          "title": "손흥민, 계약 만료 7개월 앞뒀는데… 거취에 ‘빨간불’ 켜진 이유",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1174799"
+        }
+      ]
+    },
+    {
+      "title": "필라데피아 대 인디애나",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 11:20:00 -0800",
+      "news": [
+        {
+          "title": "LeBron James dishes 11 assists in 76ers win, climbs to third in NBA ranks",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/50493152/lebron-james-passes-jason-kidd-nba-assists-list"
+        },
+        {
+          "title": "Observations after Brown-Maxey duo scores 58 points in Sixers' win without Embiid",
+          "source": "NBC Sports Philadelphia",
+          "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-vs-pacers-analysis-lebron-james-tyrese-maxey/767006/"
+        },
+        {
+          "title": "Embiid-less Sixers get just enough from center position in win vs. Pacers",
+          "source": "Liberty Ballers",
+          "url": "https://www.libertyballers.com/76ers-scores-results/101915/sixers-pacers-recap-lebron-james-tyrese-maxey-jaylen-brown-tacko-fall"
+        }
+      ]
+    },
+    {
+      "title": "김민식",
+      "approx_traffic": "100+",
+      "published": "Sun, 15 Nov 2026 11:20:00 -0800",
+      "news": [
+        {
+          "title": "KIA 1차지명 후보였는데…만년 유망주 끝내 방출, 그러나 은퇴는 없다 \"도전은 아직 끝나지 않았다\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019558"
+        },
+        {
+          "title": "두 번의 트레이드, 두 번의 우승…베테랑 포수 김민식, SSG 떠난다",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02791286645645064&mediaCodeNo=257"
+        },
+        {
+          "title": "SSG 떠난 ‘우승 포수’ 김민식, LG행 초읽기…계약 마무리 단계",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11631439"
+        }
+      ]
+    },
+    {
+      "title": "울릉도",
+      "approx_traffic": "100+",
+      "published": "Sun, 15 Nov 2026 11:20:00 -0800",
+      "news": [
+        {
+          "title": "‘울릉도 오징어’는 이제 옛말···25년 새 99% 어획량 증발, 내년부터 오징어배 ‘0척’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611151618001"
+        },
+        {
+          "title": "\"오징어잡이 결국 포기합니다\"…울릉도 어민들의 눈물",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111573647"
+        },
+        {
+          "title": "‘오징어 섬’ 울릉도에서 자취 감춘 오징어…어획량 25년 새 98.8% 급감",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/2026/11/15/20261115500010"
+        }
+      ]
+    },
+    {
+      "title": "스페인 대 잉글랜드",
+      "approx_traffic": "2000+",
       "published": "Sun, 15 Nov 2026 11:00:00 -0800",
       "news": [
         {
@@ -26,30 +180,8 @@
       ]
     },
     {
-      "title": "공매도",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 10:50:00 -0800",
-      "news": [
-        {
-          "title": "“보스 돌려줘” 12만명 젠슨 황 복귀 청원…“타락한 실리콘밸리”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1287402.html"
-        },
-        {
-          "title": "복귀 청원 15만 넘겨 vs \"겸손은 연기, 폭언 일삼아\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611160415444633_005.html"
-        },
-        {
-          "title": "창업자 한 명에 매달린 빅테크… '열쇠' 빠지자 뻥 뚫린 경영 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/16/2026111519385397101"
-        }
-      ]
-    },
-    {
       "title": "빙그레",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Sun, 15 Nov 2026 09:50:00 -0800",
       "news": [
         {
@@ -71,150 +203,23 @@
     },
     {
       "title": "아파트",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Sun, 15 Nov 2026 08:00:00 -0800",
       "news": [
         {
-          "title": "“지역 상징성 강조” 단지 번호 남기는 아파트 재건축",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261115/135027921/2"
+          "title": "경북 경산서 밤새 아파트 화재…2가구 전소·7명 부상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261116005000053"
         },
         {
-          "title": "현대·삼성 '최대 실적'…건설사 도시정비 수주 신기록 세우나",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6606784"
+          "title": "[속보] 경북 경산시 백천동 아파트서 불...대응 1단계 발령",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611160050509702_005.html"
         },
         {
-          "title": "11월 재개발·재건축 시공자 선정 동향(2026.10.26.~2026.11.22.)",
-          "source": "하우징헤럴드",
-          "url": "https://www.housingherald.co.kr/news/articleView.html?idxno=63403"
-        }
-      ]
-    },
-    {
-      "title": "스포츠조선",
-      "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 06:40:00 -0800",
-      "news": [
-        {
-          "title": "김민하 착시현상 뭐길래? 살구빛 '누드톤' 의상으로 존재감 과시",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/GU3TQNJVMQYWIM3DMUYDEOJUGA/"
-        },
-        {
-          "title": "'정형화 거부' 김민하, 밀착 의상 입고 파격 변신",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261115_0003868658"
-        },
-        {
-          "title": "\"매일 5㎞ 뛰고 10시 취침\"…김민하, '17㎏ 감량' 비법[셀럽웰빙] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111309055767065"
-        }
-      ]
-    },
-    {
-      "title": "한일전",
-      "approx_traffic": "5000+",
-      "published": "Sun, 15 Nov 2026 05:50:00 -0800",
-      "news": [
-        {
-          "title": "日 APBC 우승 제물은 3연속 한국... 11년째 일본전 무승 이어가",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/15/236G5T6ILFDGNOMZQAC3BJM7M4/"
-        },
-        {
-          "title": "韓야구, 日에 13연패 수렁…2015년 이후 한 번도 못 이겼다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261115/135029058/1"
-        },
-        {
-          "title": "APBC 야구대표팀, 일본에 져 준우승‥일본전 13연패",
+          "title": "경북 경산 아파트에서 큰 불‥한때 대응 1단계 발령",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6865836_36946.html"
-        }
-      ]
-    },
-    {
-      "title": "퇴직금",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 05:40:00 -0800",
-      "news": [
-        {
-          "title": "가입자 192만 ‘노란우산’서도 정보 유출 정황",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261115/135027882/2"
-        },
-        {
-          "title": "[기자수첩] 끊이지 않는 개인정보 사고…“조심하라” 말하기 전에 답할 것들",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261114500213"
-        }
-      ]
-    },
-    {
-      "title": "입양",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 05:40:00 -0800",
-      "news": [
-        {
-          "title": "\"다시는 안 키운다\" 입양 거절했는데... 예상 못한 일이 벌어졌다",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284762"
-        },
-        {
-          "title": "\"여기가 미감 종착지\"…김나영, ♥마이큐 작업실서 허리 감싸 안으며 '사랑꾼 면모' 과시",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/HE3TSNRSGAYTANZTGI2TEMDGMU/"
-        },
-        {
-          "title": "\"누가 여기에 갖다 놓은 거야?\"...김나영, 주방 서랍 열어보고 '깜짝' 놀란 사연 ('노필터티비')",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261115040636923"
-        }
-      ]
-    },
-    {
-      "title": "알렉산더 즈베레프",
-      "approx_traffic": "1000+",
-      "published": "Sun, 15 Nov 2026 05:30:00 -0800",
-      "news": [
-        {
-          "title": "즈베레프, 험난한 조 편성 속 호다르와 첫판… 알카라스는 '비교적 수월'",
-          "source": "테니스코리아",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54294"
-        },
-        {
-          "title": "ATP 파이널 2026 예측: 알카라스 1위 후보",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/tennis/nhan-dinh-atp-finals-2026-alcaraz-ung-vien-so-1-1800096.ldo"
-        },
-        {
-          "title": "[ATP 파이널스] 8개월 공백 딛고 첫 토리노行… 피스의 2026시즌 해피엔딩",
-          "source": "테니스코리아",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54301"
-        }
-      ]
-    },
-    {
-      "title": "부고",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 05:30:00 -0800",
-      "news": [
-        {
-          "title": "[부고]김순애 별세 外",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/People/article/all/20261116/135028790/2"
-        },
-        {
-          "title": "[부고] 이개호(국회의원)씨 모친상",
-          "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315395"
-        },
-        {
-          "title": "[부고] 이개호 씨(더불어민주당 국회의원) 모친상",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/politics/assembly/6354431"
+          "url": "https://imnews.imbc.com/news/2026/society/article/6865843_36918.html"
         }
       ]
     }
