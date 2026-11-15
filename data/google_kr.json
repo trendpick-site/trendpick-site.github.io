@@ -1,13 +1,172 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-15T00:12:46+00:00",
+  "fetched_at": "2026-11-15T01:20:34+00:00",
   "items": [
+    {
+      "title": "술",
+      "approx_traffic": "1000+",
+      "published": "Sat, 14 Nov 2026 16:10:00 -0800",
+      "news": [
+        {
+          "title": "비틀거리다 청소 차에 ‘쾅’…만취 운전자는 배우 고경표",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12328108"
+        },
+        {
+          "title": "고경표, 경찰 다가오자 외투안에 '쏙'...\"뭐 숨겼나\" CCTV에 찍힌 행동 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/15/2026111507363582568"
+        },
+        {
+          "title": "[단독] 배우 고경표, ’면허 취소수준’ 음주운전…청소차 추돌",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611142105443Tj"
+        }
+      ]
+    },
+    {
+      "title": "신인감독 김연경",
+      "approx_traffic": "1000+",
+      "published": "Sat, 14 Nov 2026 16:00:00 -0800",
+      "news": [
+        {
+          "title": "김연경 따끔한 지적에 윤영인 왈칵 눈물…반전 주인공 될까 (신인감독 김연경2)",
+          "source": "MBC",
+          "url": "https://m.imbc.com/enews/view/524823"
+        },
+        {
+          "title": "필승 원더독스vs포항시체육회, 불꽃튀는 맞대결 현장 최초 공개(‘신인감독2’)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/MRSTCM3EME4DKNBYMFQTMNLFMM/"
+        },
+        {
+          "title": "‘신인감독 김연경2’ 윤영인, 김연경 매서운 일대일 특훈에 끝내 눈물..“달라져야겠다”",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261113224101268"
+        }
+      ]
+    },
+    {
+      "title": "아시아 프로 야구 챔피언십",
+      "approx_traffic": "5000+",
+      "published": "Sat, 14 Nov 2026 15:50:00 -0800",
+      "news": [
+        {
+          "title": "김도영, APBC 첫 홈런 ‘쾅’…한국, 대만 꺾고 오늘 일본과 결승",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1287342.html"
+        },
+        {
+          "title": "KIA 19홈런 재간둥이, 도쿄돔마저 넘겼다…결승전도 기대하시라 \"오늘보다 더 할 수도 있다\" [오!쎈 도쿄] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/15/202611150842771600O"
+        },
+        {
+          "title": "한국 야구, 대만 꺾고 APBC 결승 진출…15일 일본과 재격돌",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261114031700007"
+        }
+      ]
+    },
+    {
+      "title": "하리수",
+      "approx_traffic": "1000+",
+      "published": "Sat, 14 Nov 2026 15:20:00 -0800",
+      "news": [
+        {
+          "title": "\"여장으로 '풍기문란죄' 걸려\" 하리수, 모욕 겪은 母에 불효 고백",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/GJQTGNJQGY2GKMBYG5SGMNBZGI/"
+        },
+        {
+          "title": "하리수, 깜짝 고백 \"김지선, 男 때부터 알고 지내\" ('동치미')",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261114063427177"
+        },
+        {
+          "title": "김지선 \"하리수, 춤추던 숏컷 남학생 시절부터 봐\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868297"
+        }
+      ]
+    },
+    {
+      "title": "고현정",
+      "approx_traffic": "500+",
+      "published": "Sat, 14 Nov 2026 15:20:00 -0800",
+      "news": [
+        {
+          "title": "고현정, 공항에서 이렇게까지 예쁠 수가…뼈말라 늘씬 자태 뽐내며 \"제주 1일\"",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/HBSDGMTBHE2DAZJWGVRGGYRQGU/"
+        },
+        {
+          "title": "고현정, 트리 앞에서 소녀같은 미모…나이 거꾸로 먹는 근황 [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6354210"
+        },
+        {
+          "title": "고현정, 제주 여행서 먹부림 근황..볼살 올랐나 “얼굴 더 좋아진 듯”",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112910250"
+        }
+      ]
+    },
+    {
+      "title": "삼양식품",
+      "approx_traffic": "100+",
+      "published": "Sat, 14 Nov 2026 15:20:00 -0800",
+      "news": [
+        {
+          "title": "\"새 공장서 쭉쭉 잘 뽑아낼테니 주가 190만원 거뜬\"…단순 유행 넘어섰다는 이 회사[주末머니]",
+          "source": "아시아경제",
+          "url": "https://core.asiae.co.kr/article/2026111310555774285"
+        },
+        {
+          "title": "해외 매출 '8할' 넘긴 불닭…삼양식품, 韓·中·베트남 생산벨트 구축",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/distribution/6352296"
+        },
+        {
+          "title": "불닭으로 해외에서 더 번 삼양식품, 순이익은 왜 뒷걸음질했을까",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/greatescape/thegreatescape/contents/261114070152085fj"
+        }
+      ]
+    },
+    {
+      "title": "진중권",
+      "approx_traffic": "200+",
+      "published": "Sat, 14 Nov 2026 15:10:00 -0800",
+      "news": [
+        {
+          "title": "국힘, 부산역서 ‘이재명 탈옥법’ 규탄…“죽은 법에 근거한 특검”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1287341.html"
+        },
+        {
+          "title": "국힘, 부산서 조작기소 특검 규탄 집회...\"거부권 행사해야\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202611150838011540"
+        },
+        {
+          "title": "검찰 불법 행위 밝히자는데 저주 퍼붓는 주류 매체들",
+          "source": "뉴스타파",
+          "url": "https://newstapa.org/article/iKKSJ"
+        }
+      ]
+    },
     {
       "title": "롤 인벤",
       "approx_traffic": "200+",
       "published": "Sat, 14 Nov 2026 15:00:00 -0800",
       "news": [
+        {
+          "title": "대격변급 업데이트, 리그 오브 레전드 '뉴 던' 예고",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/view.php?gid=1783515"
+        },
         {
           "title": "LoL 신규 클라이언트 ‘아리’ 미쳤네",
           "source": "게임톡",
@@ -16,205 +175,51 @@
         {
           "title": "라이엇게임즈, LoL 신규 클라이언트 '뉴 던' 공개… 2027년 1월 출시",
           "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=323384"
-        },
-        {
-          "title": "라이엇게임즈, LoL 신규 클라이언트 '뉴 던' 공개",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=323384&site=tera"
+          "url": "https://www.inven.co.kr/webzine/news/?news=323384&site=lol"
         }
       ]
     },
     {
-      "title": "육군사관학교",
-      "approx_traffic": "1000+",
-      "published": "Sat, 14 Nov 2026 14:10:00 -0800",
-      "news": [
-        {
-          "title": "[보도정정] 국군사관학교 창설 기본계획 수정안은 확정된 바 없으며 각군 총장을 비롯하여 다양한 계층의 의견을 수렴하고 있습니다.",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148975649"
-        },
-        {
-          "title": "빈총 경계·北지뢰 무대응 논란 속... 후반기 장성 인사도 ‘육사’ 배제?",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/2026/11/15/H4UB4LI7IFHKPGIUQILRP3QA5A/"
-        },
-        {
-          "title": "국방부, 육해공 사관생도 대상 국군사관학교 설문 착수",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20261114003100038"
-        }
-      ]
-    },
-    {
-      "title": "함덕주",
-      "approx_traffic": "500+",
-      "published": "Sat, 14 Nov 2026 14:10:00 -0800",
-      "news": [
-        {
-          "title": "함덕주, 옵트아웃 행사…시장 나와 새 둥지 찾는다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261114_0003868178"
-        },
-        {
-          "title": "'후반기 실종→옵트아웃' 함덕주 결국 LG 떠난다, 염경엽 감독의 \"노 코멘트\" 그 말이 힌트였나",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019868"
-        },
-        {
-          "title": "좌완 함덕주, LG와 남은 1년 계약 포기…9개 구단과 협상 가능",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6354145"
-        }
-      ]
-    },
-    {
-      "title": "마우리시오 포체티노",
+      "title": "계엄",
       "approx_traffic": "100+",
-      "published": "Sat, 14 Nov 2026 14:00:00 -0800",
+      "published": "Sat, 14 Nov 2026 15:00:00 -0800",
       "news": [
         {
-          "title": "눈물 흘린 포체티노 “맨유 같은 기회 거절하기 어려워”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712851"
+          "title": "'계엄표결 방해' 추경호 수요일 1심 선고…특검, 징역 20년 구형",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113175000004"
         },
         {
-          "title": "'맨유를 4-1로 박살 낸 그 선수, 이제 맨유가 데려간다?' 브루노 페르난데스 후계자로 니코 파스 낙점...레알 마드리드 바이백 1200억 변수",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/15/MI4GMOBVMVSDIZLFMY4TMM3DMQ/"
+          "title": "'무죄면 시정 동력, 유죄 땐 대구 전체 또 흔들'…추경호 선고 앞두고 '초긴장'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6350673"
         },
         {
-          "title": "맨붕",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261114/135023023/2"
-        }
-      ]
-    },
-    {
-      "title": "sk하이닉스",
-      "approx_traffic": "20000+",
-      "published": "Sat, 14 Nov 2026 13:50:00 -0800",
-      "news": [
-        {
-          "title": "\"10년 모은 4억이 와르르\"…'SK하닉 몰빵' 30대 피눈물",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111465357"
-        },
-        {
-          "title": "“10년 모은 4억이 1억으로…” 반도체 레버리지 투자에 무너진 30대 직장인의 눈물",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1198926"
-        },
-        {
-          "title": "\"빚 포함 5억 잃었다\" \"내 인생 더 망했다\"…직장인들 '주식 손실' 배틀",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611140002259330"
-        }
-      ]
-    },
-    {
-      "title": "100일의 거짓말",
-      "approx_traffic": "2000+",
-      "published": "Sat, 14 Nov 2026 13:50:00 -0800",
-      "news": [
-        {
-          "title": "[오수경의 TVIEW]",
-          "source": "씨네21",
-          "url": "https://cine21.com/news/view/?mag_id=111267"
-        },
-        {
-          "title": "'100일의 거짓말' 박진영, 김유정 밀정 정체 알고도 사랑 시작…시청률 8.0% [종합] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/15/2026111508157290086"
-        },
-        {
-          "title": "‘100일의 거짓말’ 진선규, 김유정에 꽂혔다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611150813003"
-        }
-      ]
-    },
-    {
-      "title": "메이저 리그 베이스볼",
-      "approx_traffic": "500+",
-      "published": "Sat, 14 Nov 2026 13:50:00 -0800",
-      "news": [
-        {
-          "title": "삼성 구자욱, MLB 도전 추진…“좌타자 전문 에이전트 선임”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712231"
-        },
-        {
-          "title": "'한국시리즈 MVP' 구자욱‥메이저리그 도전 선언",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865543_37004.html"
-        },
-        {
-          "title": "'내 나이가 어때서' 韓 타격왕 평가절하, 美 매체 \"구자욱 향한 MLB 관심 제한될 것\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/14/2026111314564665043"
-        }
-      ]
-    },
-    {
-      "title": "엘리나 스비톨리나",
-      "approx_traffic": "500+",
-      "published": "Sat, 14 Nov 2026 13:50:00 -0800",
-      "news": [
-        {
-          "title": "무려 '735억' 잭팟→\"돈 더 달라\"→'파격 시스루 논란' 세계 1위 허무한 굴욕... '또' 분노 조절 실패 '도대체 왜' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/15/2026111416335893727"
-        },
-        {
-          "title": "사발렌카 꺾고 기뻐하는 안드레예바",
+          "title": "이번주 '계엄해제 표결 방해' 추경호 1심 선고…카카오 김범수 2심도",
           "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261112_0002290552"
-        },
-        {
-          "title": "[WTA 파이널] 승리 기뻐하는 안드레예바의 코치",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3750198"
+          "url": "https://www.newsis.com/view/NISX20261113_0003867470"
         }
       ]
     },
     {
-      "title": "홍현희",
-      "approx_traffic": "200+",
-      "published": "Sat, 14 Nov 2026 13:40:00 -0800",
+      "title": "볼로디미르 젤렌스키",
+      "approx_traffic": "1000+",
+      "published": "Sat, 14 Nov 2026 14:20:00 -0800",
       "news": [
         {
-          "title": "홍현희, 시모 사랑 듬뿍..“子 제이쓴, 왜 아깝다고 하는지 이해 안가” (홍쓴TV)",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/MQ3GGMJWMVRTKMBVHA4WKMBXMU/"
+          "title": "젤렌스키 \"美, '우크라 나토 가입 대가' 돈바스 양도안 질의\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261114045251109"
         },
         {
-          "title": "“아버님 영상 보지 마세요” 홍현희, 시母 ‘졸혼’ 고백에 당황",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261114/135023868/1"
+          "title": "젤렌스키 \"미국이 나토 가입 대가로 돈바스 양도안 제시\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611150633304406_005.html"
         },
         {
-          "title": "홍현희 시어머니 \"결혼한지 42년 돼 졸혼 생각해봤다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261113_0003867855"
-        }
-      ]
-    },
-    {
-      "title": "성리",
-      "approx_traffic": "500+",
-      "published": "Sat, 14 Nov 2026 13:40:00 -0800",
-      "news": [
-        {
-          "title": "임영웅 뒤쫓는 성리, K-브랜드지수 2위…‘성리학자’ 팬덤의 힘",
-          "source": "진일보 | 전남일보",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082592"
-        },
-        {
-          "title": "이찬원, 'K-브랜드지수' 트로트 가수 부문 순위에서 몇 위?",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16273332"
+          "title": "젤렌스키, “미국, 우크라이나에 나토 가입 대가로 돈바스 양도안 제안”",
+          "source": "VOA 한국어 홈페이지",
+          "url": "https://www.voakorea.com/a/8223723.html"
         }
       ]
     }
