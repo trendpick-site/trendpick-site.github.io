@@ -1,39 +1,149 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-15T10:49:14+00:00",
+  "fetched_at": "2026-11-15T11:46:16+00:00",
   "items": [
     {
-      "title": "ban vs sa",
+      "title": "화물기",
       "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 01:20:00 -0800",
+      "published": "Sun, 15 Nov 2026 02:30:00 -0800",
       "news": [
         {
-          "title": "Shanto: 'Very important for the whole batting unit to perform'",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/story/sa-vs-ban-najmul-hossain-shanto-very-important-for-the-whole-batting-unit-to-perform-1562662"
+          "title": "미국, 이틀째 항공 대란 와중에 화물기·여객기 충돌",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6865783_36925.html"
         },
         {
-          "title": "Proteas unveil playing XI for opening Bangladesh Test",
-          "source": "ICC",
-          "url": "https://www.icc-cricket.com/tournaments/world-test-championship/news/proteas-unveil-playing-xi-for-opening-bangladesh-test"
+          "title": "미국 항공대란 여파 6500여편 결항…“15일 완전 정상화 예상”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713173"
         },
         {
-          "title": "Watch: Rabada wastes no time",
-          "source": "SA Cricket Mag",
-          "url": "https://www.sacricketmag.com/watch-rabada-wastes-no-time/"
+          "title": "테러 아닌 낡은 구리선이 발단…항공관제망 노후화가 부른 역대급 미 항공대란",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261114203812294"
         }
       ]
     },
     {
-      "title": "웨이브",
-      "approx_traffic": "1000+",
-      "published": "Sun, 15 Nov 2026 00:40:00 -0800",
+      "title": "백신",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 02:20:00 -0800",
       "news": [
         {
-          "title": "매력적인 아일릿",
+          "title": "생후 6개월 영아에 하루 지난 백신 투여한 의사…대법 “면허정지는 과도해”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611151323001"
+        },
+        {
+          "title": "영아에 기한 하루 지난 백신 접종…대법 “의사면허 취소 과도”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713124"
+        },
+        {
+          "title": "대법원, 유효기간 하루 지난 주사제 접종 의사 면허자격정지 패소 원심 파기환송",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=2026111417084166539a8c8bf58f_12"
+        }
+      ]
+    },
+    {
+      "title": "로봇",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 02:20:00 -0800",
+      "news": [
+        {
+          "title": "'제21회 국제로봇콘테스트' 성료…올해 첫선 '마트 휴머노이드', 상품 배송·진열·계산 미션 생중계 관람객 호응",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261115000075"
+        },
+        {
+          "title": "[대구] '국제 로봇 콘테스트' 개최...\"로봇 기술 경쟁\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202611131451583586"
+        },
+        {
+          "title": "한국기술교육대 학생들, 국제로봇콘테스트 1위·3위",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/2026/11/15/20261115500025"
+        }
+      ]
+    },
+    {
+      "title": "한국 일본 야구",
+      "approx_traffic": "500+",
+      "published": "Sun, 15 Nov 2026 02:10:00 -0800",
+      "news": [
+        {
+          "title": "김건우 vs 다카하시, APBC 결승 선발…김도영은 설욕 나선다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261115011300007"
+        },
+        {
+          "title": "'한일전 12연패 끊나' 한동희 사구 여파→안현민 4번 DH, 문현빈 우익수 선발…최원호 감독 \"선발 등판했던 투수들 제외 전부 대기\" [오!쎈 도쿄] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/15/202611151738776281O"
+        },
+        {
+          "title": "‘야구 한일 결승전’ 오늘 저녁 7시…김도영 방망이, 12연패 끊을까",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1287370.html"
+        }
+      ]
+    },
+    {
+      "title": "전국노래자랑",
+      "approx_traffic": "1000+",
+      "published": "Sun, 15 Nov 2026 02:00:00 -0800",
+      "news": [
+        {
+          "title": "'전국노래자랑' 영광에 박서진·박군·김혜연 초대가수 총출동",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752338"
+        },
+        {
+          "title": "'전국노래자랑' 박서진·박군·김혜연·미스김·상호상민 '축제의 장'",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/305251"
+        },
+        {
+          "title": "박서진, '전국노래자랑' 영광군 피날레 장식…'지나야'로 안방극장 홀릴 무대의 신",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275441"
+        }
+      ]
+    },
+    {
+      "title": "sk하이닉스 채용",
+      "approx_traffic": "100+",
+      "published": "Sun, 15 Nov 2026 02:00:00 -0800",
+      "news": [
+        {
+          "title": "SK하이닉스, '파격적 성과급' 기대감 속 하반기 생산직 채용",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261111061700003"
+        },
+        {
+          "title": "\"나도 성과급 8억 받을 수 있나\"…SK하이닉스, 학력 무관 채용에 '들썩'",
+          "source": "이코노미스트",
+          "url": "https://economist.co.kr/article/view/ecn202611110031"
+        },
+        {
+          "title": "“젠슨 황 해임설에 코스피도 흔들”…장중 5458 찍고 5342 추락, 무슨 일이",
+          "source": "데일리25",
+          "url": "https://www.daily25news.com/news/articleView.html?idxno=8888"
+        }
+      ]
+    },
+    {
+      "title": "멜론 뮤직 어워드",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 01:30:00 -0800",
+      "news": [
+        {
+          "title": "힐링 아일릿",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261115_0021533395"
+          "url": "https://www.newsis.com/view/NISI20261115_0021533394"
         },
         {
           "title": "[ET포토] 아일릿, '시크릿 에이전트'",
@@ -48,178 +158,63 @@
       ]
     },
     {
-      "title": "압류",
-      "approx_traffic": "100+",
-      "published": "Sun, 15 Nov 2026 00:20:00 -0800",
-      "news": [
-        {
-          "title": "교도소 수감 JMS 정명석, 영치금 못 쓴다···2인자 영치금 이어 압류",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611150948011"
-        },
-        {
-          "title": "‘여신도 성폭행’ 정명석, 영치금 한 푼도 못 쓴다…압류 조치 왜",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261114181520397"
-        },
-        {
-          "title": "징역 17년 정명석, 교도소 영치금까지 압류…JMS 교단 예금도 묶였다",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261115580276"
-        }
-      ]
-    },
-    {
-      "title": "김건우",
-      "approx_traffic": "1000+",
-      "published": "Sun, 15 Nov 2026 00:10:00 -0800",
-      "news": [
-        {
-          "title": "[사진]선수들의 환영을 받으며 입장하는 최원호 감독",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/15/GZRTGY3FGE2DQNTCGA4GKOLGMM/"
-        },
-        {
-          "title": "'악!' 오른손 맞은 한동희, 결국 경기 빠졌다…\"뼈에는 이상 無, 송구 불편해 보호 차원 교체\" [오!쎈 도쿄] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/14/202611142018770439O"
-        },
-        {
-          "title": "만루 기회 살려 2점차 벌리는 김휘집",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261114_0002292136"
-        }
-      ]
-    },
-    {
-      "title": "개혁",
+      "title": "임창정",
       "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 00:10:00 -0800",
+      "published": "Sun, 15 Nov 2026 01:30:00 -0800",
       "news": [
         {
-          "title": "이 대통령 “개혁의 이름 빌려 개혁 방해는 용납 어려워”···‘최민희 녹취록’ 파장 우회 겨냥?",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611151549001"
+          "title": "'열린음악회' 초호화 라인업… 임창정·장기하·김나영·TWS(투어스)·잭킹콩 총출동",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752492"
         },
         {
-          "title": "“등 뒤 화살” 이어 “개혁 방해”…이 대통령, 민주 강경파에 ‘경고장’",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/bluehouse/1287382.html"
-        },
-        {
-          "title": "“지지율 떨어져도 할 일은 해야”…李대통령, 여권 향해 개혁 압박",
-          "source": "조세일보",
-          "url": "https://m.joseilbo.com/news/view.htm?newsid=579657"
-        }
-      ]
-    },
-    {
-      "title": "kb5132061",
-      "approx_traffic": "100+",
-      "published": "Sat, 14 Nov 2026 23:30:00 -0800",
-      "news": [
-        {
-          "title": "If the November Windows update fails to install on your PC, here’s what to do",
-          "source": "ZDNET",
-          "url": "https://www.zdnet.com/tech/microsoft-windows-november-update-fails-install-some-pcs/"
-        },
-        {
-          "title": "Microsoft confirms Windows security updates installation issues",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/"
-        },
-        {
-          "title": "Microsoft's Patch Tuesday can't break stuff if it won't install",
-          "source": "The Register",
-          "url": "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059"
-        }
-      ]
-    },
-    {
-      "title": "박태환",
-      "approx_traffic": "500+",
-      "published": "Sat, 14 Nov 2026 23:20:00 -0800",
-      "news": [
-        {
-          "title": "박태환, 살 뺐나…또렷해진 이목구비",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261115/135026893/1"
-        },
-        {
-          "title": "박태환 맞아? 확 달라진 얼굴…볼살 빠지고 아이돌 비주얼",
-          "source": "헤럴드경제",
-          "url": "https://mbiz.heraldcorp.com/article/10937654"
-        },
-        {
-          "title": "박태환 맞아? 볼살 실종에 확 달라진 얼굴…무슨 일 있었나",
+          "title": "임창정 ‘소주 한 잔’, 100만 뷰 터졌다…‘전국노래자랑’ 무대 뜨거운 반응",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12209035"
+          "url": "https://www.mk.co.kr/news/musics/12206742"
+        },
+        {
+          "title": "‘전국노래자랑’에 임창정이? 트로트 무대로 딩동댕 받았다 “최소 장려상이야”[Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/08/MNRWEN3DHA2GCZBWGU4TEZDEME/"
         }
       ]
     },
     {
-      "title": "부산 kcc 대 대구 한국가스공사",
-      "approx_traffic": "2000+",
-      "published": "Sat, 14 Nov 2026 23:10:00 -0800",
-      "news": [
-        {
-          "title": "허훈 종료 3초전 3점 플레이...KCC, 21점차 열세 뒤집고 한국가스공사에 역전승",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/basketball/2026/11/15/QOLUGPACONDG7MC2CYBQMIYK64/"
-        },
-        {
-          "title": "'21점 차 열세→종료 3초 전 극장 역전' KCC가 해냈다...허훈의 환상적인 앤드원, 한국가스공사 무너뜨리고 5연승 질주",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/basketball/2026/11/15/MZQWKOJZGAYTCOJQGUZDAMJUGQ/"
-        },
-        {
-          "title": "[사진] 양우혁, 부드러운 골밑슛 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/15/202611151700776476O"
-        }
-      ]
-    },
-    {
-      "title": "금오산",
+      "title": "웨이브",
       "approx_traffic": "500+",
-      "published": "Sat, 14 Nov 2026 23:10:00 -0800",
+      "published": "Sun, 15 Nov 2026 00:40:00 -0800",
       "news": [
         {
-          "title": "구미 금오산 '하늘다리' 개통…효자봉 등산로 연결",
+          "title": "노정의 '우아한 여인'",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/photo/202611151951172214"
+        },
+        {
+          "title": "포즈 취하는 조나단",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261115_0003868709"
-        },
-        {
-          "title": "구미 금오산 하늘다리 개통…관광 새 랜드마크",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026111510595800590"
-        },
-        {
-          "title": "가을을 잇는 하늘길, 별빛을 품은 금오산…구미의 낭만이 깊어진다",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/national/2388974.htm"
+          "url": "https://www.newsis.com/view/NISI20261115_0021533388"
         }
       ]
     },
     {
-      "title": "구자욱",
-      "approx_traffic": "2000+",
-      "published": "Sat, 14 Nov 2026 23:10:00 -0800",
+      "title": "bangladesh vs south africa",
+      "approx_traffic": "500+",
+      "published": "Sun, 15 Nov 2026 00:40:00 -0800",
       "news": [
         {
-          "title": "삼성 구자욱, MLB 도전 추진…“좌타자 전문 에이전트 선임”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712231"
+          "title": "Shanto: 'Very important for the whole batting unit to perform'",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/story/sa-vs-ban-najmul-hossain-shanto-very-important-for-the-whole-batting-unit-to-perform-1562662"
         },
         {
-          "title": "미네소타 1루수 고민, KBO리그에서 답 찾나? 美 매체가 주목한 삼성 우승 영웅",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/15/GVRDAYJWHFTGEZBQG4ZTEYLFG4/"
+          "title": "How to watch South Africa vs Bangladesh 2026 1st Test: Free Streams & Preview",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/entertainment/cricket/watch-south-africa-vs-bangladesh-2026-1st-test-free"
         },
         {
-          "title": "구자욱-원태인 필요성 역설한 삼성 이종열 단장…구자욱은 MLB 도전 위해 에이전트 선임 변수",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261115/135026508/1"
+          "title": "Mahfijul Islam Falls First Ball on Test Debut as Rabada Joins Rare List",
+          "source": "The Eastern Herald",
+          "url": "https://easternherald.com/2026/11/15/mahfijul-islam-first-ball-test-debut-rabada-record/"
         }
       ]
     }
