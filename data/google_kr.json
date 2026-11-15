@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-15T21:16:22+00:00",
+  "fetched_at": "2026-11-15T22:15:50+00:00",
   "items": [
     {
-      "title": "상장지수 펀드",
-      "approx_traffic": "100+",
-      "published": "Sun, 15 Nov 2026 12:10:00 -0800",
-      "news": [
-        {
-          "title": "‘액티브 ETF’의 굴욕… 코스닥보다 죽 쒔다",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/economy/finance/2026/11/16/20261116031001"
-        },
-        {
-          "title": "\"진짜 체력은 여기\"…하락장에도 뭉칫돈 들고 몰려간 곳",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111575441"
-        },
-        {
-          "title": "증시 급변에 ETF 순위 '지각변동'…한투, KB 제치고 3위",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443891"
-        }
-      ]
-    },
-    {
-      "title": "삼전닉스",
-      "approx_traffic": "1000+",
-      "published": "Sun, 15 Nov 2026 12:00:00 -0800",
-      "news": [
-        {
-          "title": "고점 대비 ‘―40%’에 고개드는 빚투…마통 잔액 51개월 만에 최대",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261115/135026798/1"
-        },
-        {
-          "title": "\"주식 사려고 빚 냈어요\"…7조 폭풍매수 몰린 '두 종목'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111567997"
-        },
-        {
-          "title": "개미, 코스닥 떠나 코스피로…코스닥 '빚투' 반년 새 반토막",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01577686645646048"
-        }
-      ]
-    },
-    {
-      "title": "이란",
-      "approx_traffic": "1000+",
-      "published": "Sun, 15 Nov 2026 12:00:00 -0800",
-      "news": [
-        {
-          "title": "이란, 두달만에 중동 미국 기지 공격 재개…바레인군 “발사체 요격”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713132"
-        },
-        {
-          "title": "이란, 두 달 만에 중동 미군기지 공격 재개",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116055050WOv"
-        },
-        {
-          "title": "美·이란 협상 교착 속 이란, 바레인 또 드론 공격…전운 고조(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261115_0003868820"
-        }
-      ]
-    },
-    {
-      "title": "로스앤젤레스 fc",
-      "approx_traffic": "1000+",
-      "published": "Sun, 15 Nov 2026 11:20:00 -0800",
-      "news": [
-        {
-          "title": "\"손흥민 이적료 없이 다시 이적 가능\" 토트넘 깜짝 복귀 성사되나...내년 1월 협상 가능 선수로 등장, \"본격적인 카운트다운 시작\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-11-14/202611140100095190008917"
-        },
-        {
-          "title": "'맙소사' 손흥민 충격 이적? LA FC와 결별 가능성 등장...스페인 매체 'FA 이적 가능성' 언급, \"이적료 없이 떠날 수 있다\"",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026111521553874736"
-        },
-        {
-          "title": "손흥민, 계약 만료 7개월 앞뒀는데… 거취에 ‘빨간불’ 켜진 이유",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1174799"
-        }
-      ]
-    },
-    {
-      "title": "필라데피아 대 인디애나",
+      "title": "김정은",
       "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 11:20:00 -0800",
+      "published": "Sun, 15 Nov 2026 13:10:00 -0800",
       "news": [
         {
-          "title": "LeBron James dishes 11 assists in 76ers win, climbs to third in NBA ranks",
-          "source": "ESPN",
-          "url": "https://www.espn.com/nba/story/_/id/50493152/lebron-james-passes-jason-kidd-nba-assists-list"
-        },
-        {
-          "title": "Observations after Brown-Maxey duo scores 58 points in Sixers' win without Embiid",
-          "source": "NBC Sports Philadelphia",
-          "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-vs-pacers-analysis-lebron-james-tyrese-maxey/767006/"
-        },
-        {
-          "title": "Embiid-less Sixers get just enough from center position in win vs. Pacers",
-          "source": "Liberty Ballers",
-          "url": "https://www.libertyballers.com/76ers-scores-results/101915/sixers-pacers-recap-lebron-james-tyrese-maxey-jaylen-brown-tacko-fall"
-        }
-      ]
-    },
-    {
-      "title": "김민식",
-      "approx_traffic": "100+",
-      "published": "Sun, 15 Nov 2026 11:20:00 -0800",
-      "news": [
-        {
-          "title": "KIA 1차지명 후보였는데…만년 유망주 끝내 방출, 그러나 은퇴는 없다 \"도전은 아직 끝나지 않았다\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019558"
-        },
-        {
-          "title": "두 번의 트레이드, 두 번의 우승…베테랑 포수 김민식, SSG 떠난다",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02791286645645064&mediaCodeNo=257"
-        },
-        {
-          "title": "SSG 떠난 ‘우승 포수’ 김민식, LG행 초읽기…계약 마무리 단계",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11631439"
-        }
-      ]
-    },
-    {
-      "title": "울릉도",
-      "approx_traffic": "100+",
-      "published": "Sun, 15 Nov 2026 11:20:00 -0800",
-      "news": [
-        {
-          "title": "‘울릉도 오징어’는 이제 옛말···25년 새 99% 어획량 증발, 내년부터 오징어배 ‘0척’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611151618001"
-        },
-        {
-          "title": "\"오징어잡이 결국 포기합니다\"…울릉도 어민들의 눈물",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111573647"
-        },
-        {
-          "title": "‘오징어 섬’ 울릉도에서 자취 감춘 오징어…어획량 25년 새 98.8% 급감",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/society/2026/11/15/20261115500010"
-        }
-      ]
-    },
-    {
-      "title": "스페인 대 잉글랜드",
-      "approx_traffic": "2000+",
-      "published": "Sun, 15 Nov 2026 11:00:00 -0800",
-      "news": [
-        {
-          "title": "“스페인에 인종차별 있다고 한 적 없다”…투헬, 기자들에 격분",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611150849003"
-        },
-        {
-          "title": "'야말 쉬어, 이강인 친구들이 끝냈다' 바에나-푸빌 연속골 폭발! 스페인, 체코 원정 2-0 완파..43경기 연속 무패 행진 질주",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/13/GVTGIZRYG5STSOJWGM4DIZRVMQ/"
-        },
-        {
-          "title": "스페인 공격수 예레미 피노, 프라하서 체코와 맞대결",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751818"
-        }
-      ]
-    },
-    {
-      "title": "빙그레",
-      "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 09:50:00 -0800",
-      "news": [
-        {
-          "title": "“한국인은 언제든 먹잖아요”에 우유 양보…빙그레도 나섰다 [잇슈#태그]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713167"
-        },
-        {
-          "title": "“뚱바 양보한 시민 찾습니다”…빙그레, 수소문 끝에 ‘명예 앰배서더’ 위촉",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261113/135023432/1"
-        },
-        {
-          "title": "공항서 ‘툭툭’ 치더니 “한국인이니까 양보해 달라”는 외국인…무슨 사연?",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20114331"
-        }
-      ]
-    },
-    {
-      "title": "아파트",
-      "approx_traffic": "10000+",
-      "published": "Sun, 15 Nov 2026 08:00:00 -0800",
-      "news": [
-        {
-          "title": "경북 경산서 밤새 아파트 화재…2가구 전소·7명 부상",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261116005000053"
-        },
-        {
-          "title": "[속보] 경북 경산시 백천동 아파트서 불...대응 1단계 발령",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611160050509702_005.html"
-        },
-        {
-          "title": "경북 경산 아파트에서 큰 불‥한때 대응 1단계 발령",
+          "title": "미 국무, 김정은 거론하며 \"정권 생존 원할 뿐 팽창주의자 아냐\"",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865843_36918.html"
+          "url": "https://imnews.imbc.com/news/2026/world/article/6865858_36925.html"
+        },
+        {
+          "title": "루비오, 이란 핵보유 반대하며 \"북한, 이란과 달라\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116054858U5t"
+        },
+        {
+          "title": "루비오 \"김정은은 정권 유지가 목적, 이란은 혁명 수출 노리는 팽창주의 세력\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/us/2026/11/14/RFJWF6NFD5ERXKFJG2WJF6NDNI/"
+        }
+      ]
+    },
+    {
+      "title": "tây ban nha đấu với anh",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 13:10:00 -0800",
+      "news": [
+        {
+          "title": "Trực tiếp bóng đá Tây Ban Nha - Anh: Bàn thứ 3 rực rỡ (Nations League)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-tay-ban-nha-anh-ap-luc-cua-cac-vi-khach-nations-league-c48a1811353.html"
+        },
+        {
+          "title": "Tuchel gạch tên Branthwaite và Garner ở trận gặp Tây Ban Nha",
+          "source": "bongda.com.vn",
+          "url": "https://bongda.com.vn/tuchel-gach-ten-branthwaite-va-garner-o-tran-gap-tay-ban-nha-d855115.html"
+        },
+        {
+          "title": "Tin nóng bóng đá 15.11: Tuyển Anh quyết chặn đứng chuỗi bất bại của Tây Ban Nha",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/video-the-thao/tin-nong-bong-da-1511-tuyen-anh-quyet-chan-dung-chuoi-bat-bai-cua-tay-ban-nha-1800787.ldo"
+        }
+      ]
+    },
+    {
+      "title": "운세",
+      "approx_traffic": "2000+",
+      "published": "Sun, 15 Nov 2026 13:00:00 -0800",
+      "news": [
+        {
+          "title": "오늘의 운세 - 2026년 11월 16일 월요일(음력 10월 8일)",
+          "source": "울산종합일보",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065592381451362"
+        },
+        {
+          "title": "[오늘의 운세] 2026년 11월 16일 띠별 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202611160000000001"
+        },
+        {
+          "title": "[오늘의 운세/11월 16일]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261116/135028747/2"
+        }
+      ]
+    },
+    {
+      "title": "nations league",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 13:00:00 -0800",
+      "news": [
+        {
+          "title": "Spain vs England LIVE: Nations League score, commentary, updates & stats",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c65y1lrepr5zt"
+        },
+        {
+          "title": "Spain v England: Nations League – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live"
+        },
+        {
+          "title": "Licensable picture: Spain v United Kingdom - UEFA Nations League",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/spain-v-united-kingdom-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwNUMwUFFF"
+        }
+      ]
+    },
+    {
+      "title": "박철순",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 13:00:00 -0800",
+      "news": [
+        {
+          "title": "“추억에는 마침표 없다”…레전드들과 함께한 잠실 고별전",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712981"
+        },
+        {
+          "title": "“굿바이! 잠실야구장” 프로야구 전설들 작별인사",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261116/135028716/2"
+        },
+        {
+          "title": "'화려했던 커리어→아쉬웠던 감독 시절' 지도자로 귀환하나, 이승엽이 답했다 \"언젠가는 다시 하고 싶다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/15/2026111515543672713"
+        }
+      ]
+    },
+    {
+      "title": "패딩",
+      "approx_traffic": "5000+",
+      "published": "Sun, 15 Nov 2026 12:40:00 -0800",
+      "news": [
+        {
+          "title": "한때 '등골 브레이커'였는데…5만원도 안 되는 패딩에 '열광' [장서우의 하입:hype]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611135612i"
+        },
+        {
+          "title": "“몽클은 이제 흔해서 안입어요”…엄마들 올 겨울 이 패딩으로 갈아탄다는데",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12209161"
+        },
+        {
+          "title": "겨울에 이 치마 입으면 온기 샐 틈이 없습니다",
+          "source": "엘르 코리아 │ ELLE KOREA",
+          "url": "https://www.elle.co.kr/article/1913060"
+        }
+      ]
+    },
+    {
+      "title": "미라 안드레예바",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "'러시아어로 욕설 내뱉더니 결국 사과' 세계 2위 사발렌카, 우크라이나 선수 모욕 논란 일파만파...\"상대에게 한 말 아니다\" 해명 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/16/202611152317778300O"
+        },
+        {
+          "title": "안드레예바, 페굴라 꺾고 왕중왕전 결승 진출",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261115_0002292317"
+        }
+      ]
+    },
+    {
+      "title": "부산항",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "[기고]북극항로의 성공, 부산해양경찰이 준비할 것은",
+          "source": "부산일보",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026110111513229871"
+        },
+        {
+          "title": "부산항 신항 배후도시 실패…주민 참여·단계적 실증 개발 헬싱키 사례 주목 [진해신항과 북극항로]",
+          "source": "경남도민일보",
+          "url": "https://www.idomin.com/news/articleView.html?idxno=2019649"
+        },
+        {
+          "title": "포항영일만항 ‘배 받는 항구’ 넘어 ‘AI 데이터 허브’로 승부수",
+          "source": "경북도민일보",
+          "url": "https://www.hidomin.com/news/articleView.html?idxno=728650"
+        }
+      ]
+    },
+    {
+      "title": "송지효",
+      "approx_traffic": "100+",
+      "published": "Sun, 15 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "송지효 '명예 해녀' 변신…'10㎞ 달리기' 관리 비결 눈길",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261110_0003862473"
+        },
+        {
+          "title": "송지효, 제주도에서 해녀복 입었다 \"명예 해녀로 일하는 중\"…미모 여전 [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6349393"
+        },
+        {
+          "title": "배우 송지효 제주 하도리 방문 명예 해녀 활동 공개",
+          "source": "기독일보",
+          "url": "https://www.christiandaily.co.kr/news/167179"
+        }
+      ]
+    },
+    {
+      "title": "한화에어로스페이스",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "[단독]시동걸자 600마력 엔진 ‘윙’, 시속 100km 바퀴 단 K9 ‘美상륙작전’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261116/135028854/2"
+        },
+        {
+          "title": "한화, 올해 미국 현지법인에 1.5조 수혈…방산·조선 거점 확대",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261114044500003"
+        },
+        {
+          "title": "[힘내라 K산업]④ 한화, 설계 넘어 美 해군 함정 직접 건조…오스탈 품으면 '조선소 2곳'",
+          "source": "아시아타임즈",
+          "url": "https://www.asiatime.co.kr/article/20261115500005"
         }
       ]
     }
