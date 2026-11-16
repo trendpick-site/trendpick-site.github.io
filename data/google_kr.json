@@ -1,227 +1,211 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-16T10:42:58+00:00",
+  "fetched_at": "2026-11-16T11:49:50+00:00",
   "items": [
     {
-      "title": "공무원",
-      "approx_traffic": "5000+",
-      "published": "Mon, 16 Nov 2026 01:30:00 -0800",
+      "title": "보안",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 02:40:00 -0800",
       "news": [
         {
-          "title": "“축구공 하나로 가까워진 두 도시”… 우정 깊어지는 평택·마쓰야마",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261116580361"
+          "title": "금보원, 해킹 공격 246개 IP 주소 차단 완료... ‘유동 IP 접속 허용’ 원인 지목",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147263"
         },
         {
-          "title": "평택시와 마쓰야마시 공무원 교류, 스포츠로 잇고 행정으로 넓힌다",
+          "title": "금융위, '침해' 금융보안원에 쇄신 요구…인력·조직 강화 예상(종합)",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20261116003800353"
+          "url": "https://www.yna.co.kr/view/AKR20261116047251002"
         },
         {
-          "title": "김해시, 日 마쓰바라시와 우호도시 교류 확대 논의",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261116500797"
+          "title": "금융위, '해킹 사고' 금융보안원 현장 점검‥\"대응기관서 발생한 사고, 깊은 유감\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6865939_36932.html"
         }
       ]
     },
     {
-      "title": "성과급",
-      "approx_traffic": "1000+",
-      "published": "Mon, 16 Nov 2026 01:30:00 -0800",
-      "news": [
-        {
-          "title": "월급은 3.3% 오르는데 근로소득세 40% 더 내라… 정부, 삼전닉스 성과급 가정에 기댔다 [2027 나라살림 대해부]",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026111420400003767"
-        },
-        {
-          "title": "[단상지대] 이익은 누구의 것인가",
-          "source": "영남일보",
-          "url": "https://www.yeongnam.com/web/view.php?key=20261115021402310"
-        },
-        {
-          "title": "[탁류세평] 모르는 게 약일까?",
-          "source": "고대신문",
-          "url": "https://www.kunews.ac.kr/news/articleView.html?idxno=51800"
-        }
-      ]
-    },
-    {
-      "title": "ตรวจหวย",
-      "approx_traffic": "2000+",
-      "published": "Mon, 16 Nov 2026 00:40:00 -0800",
-      "news": [
-        {
-          "title": "โค้งสุดท้ายหวย \"เลขเด็ดงวดนี้\" 16/11/69 ลุ้นโชคได้ที่ไทยรัฐทีวี-ไทยรัฐออนไลน์",
-          "source": "thairath.co.th",
-          "url": "https://www.thairath.co.th/lottery/news/2972681"
-        },
-        {
-          "title": "วาสนาเศรษฐี ถูกรางวัลที่ 1 สลากดิจิทัล งวด 16 พ.ย. 69 รวม 186 ล้านบาท",
-          "source": "Sanook",
-          "url": "https://www.sanook.com/news/9912130/"
-        },
-        {
-          "title": "ชมสด! การออกผลสลากกินแบ่งรัฐบาล ประจำวันที่ 16 พฤศจิกายน 2569",
-          "source": "แนวหน้า",
-          "url": "https://www.naewna.com/n/slide-top-home/167369/"
-        }
-      ]
-    },
-    {
-      "title": "bangladesh vs south africa",
+      "title": "나솔",
       "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 00:10:00 -0800",
+      "published": "Mon, 16 Nov 2026 02:40:00 -0800",
       "news": [
         {
-          "title": "Hridoy ton as Bangladesh reaches 327-6 on 1st day of 1st cricket test vs South Africa, Rabada 5-51",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bangladesh-wins-toss-opts-bat-082837655.html"
-        },
-        {
-          "title": "Rabada: 'We need to be more ruthless'",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/story/sa-vs-ban-1st-test-kagiso-rabada-we-need-to-be-more-ruthless-1562805"
-        },
-        {
-          "title": "Alarms ring for Bangladesh, then South Africa on noisy first day at Wanderers",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/cricket-news/140922/alarms-ring-for-bangladesh-then-south-africa-on-noisy-first-day-at-wanderers-cricbuzzcom"
-        }
-      ]
-    },
-    {
-      "title": "южная корея",
-      "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 23:50:00 -0800",
-      "news": [
-        {
-          "title": "Ирина Крайнева, «ВОЯЖТУР»: «Если Япония — светский прием, то Южная Корея — вечеринка старых друзей»",
-          "source": "Республиканский союз туристических организаций",
-          "url": "https://www.toursoyuz.by/2026/11/16/irina-krajneva-voyazhtur-yaponiya-svetskij-priem-to-koreya-vecherinka-staryh-druzej/"
-        },
-        {
-          "title": "Южная Корея в октябре 2026 г. закупила у России максимальный объем СПГ почти за 5 лет",
-          "source": "Neftegaz.RU",
-          "url": "https://neftegaz.ru/news/spg-szhizhennyy-prirodnyy-gaz/942152-yuzhnaya-koreya-v-oktyabre-2026-g-zakupila-u-rossii-maksimalnyy-obem-spg-pochti-za-5-let/"
-        },
-        {
-          "title": "Южная Корея нарастила закупки СПГ и взяла у России максимум с 2021 года",
-          "source": "oilcapital.ru",
-          "url": "https://oilcapital.ru/news/2026-11-16/yuzhnaya-koreya-narastila-zakupki-spg-i-vzyala-u-rossii-maksimum-s-2021-goda-5733200"
-        }
-      ]
-    },
-    {
-      "title": "김지수",
-      "approx_traffic": "5000+",
-      "published": "Sun, 15 Nov 2026 23:40:00 -0800",
-      "news": [
-        {
-          "title": "\"음주운전 두 번·만취 인터뷰까지\"…김지수, 2년 만에 예능 복귀 - 머니투데이",
+          "title": "'나솔' 31기 옥순 \"'취집' 오해 억울\"…영호와 재결합설 일축 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111612520380605"
+          "url": "https://www.mt.co.kr/entertainment/2026/11/15/2026111519355822809"
         },
         {
-          "title": "[공식] 김지수, 체코 프라하서 여행사 차렸다…유이와 ‘솔로라서2’ 합류",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261116/135033317/1"
-        },
-        {
-          "title": "고경표 음주운전 파문 속…‘음주운전 2회’ 김지수 예능 복귀에 여론 냉담",
+          "title": "‘나는 솔로’ 31기 영호, 옥순과 결별 공식 인정…“재회 생각 없다”",
           "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12210071"
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12209089"
+        },
+        {
+          "title": "‘나솔’ 31기 영호, 직접 등판 “옥순과 결별 맞다…내 치과도 별점 테러 피해”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611151016003"
         }
       ]
     },
     {
-      "title": "신랑",
-      "approx_traffic": "10000+",
-      "published": "Sun, 15 Nov 2026 23:40:00 -0800",
+      "title": "구글플레이",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 02:10:00 -0800",
       "news": [
         {
-          "title": "\"야 너 이리 와\"…결혼식 날 신랑에게 엎드려뻗쳐 시킨 신부 이모부",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6355215"
+          "title": "지스타 2026, 제2전시장에 글로벌·인디 쇼케이스... 150대 시연대 운영",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261116000232"
         },
         {
-          "title": "“살면서 듣도 보도 못했다, 내 가족이 봤다면...” 신랑이 결혼식서 신부 이모부에게 당한 일",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1175001"
+          "title": "웹젠, 지스타 2026 출품작 코스프레 화보 공개",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261116151509"
         },
         {
-          "title": "걸그룹·야구선수 부부 탄생…배드키즈 연지, 강동연과 12월 결혼",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12209857"
+          "title": "‘지스타 2026’ D-3, 국내 게임사 빈자리 채운 해외 대작들",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261116500647"
         }
       ]
     },
     {
-      "title": "캄보디아",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 23:40:00 -0800",
+      "title": "김강우",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 02:00:00 -0800",
       "news": [
         {
-          "title": "수원시 의료봉사단, 캄보디아 수원마을서 민관 의료 봉사 활동 전개",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041013"
+          "title": "김강우, 아내 몰래 1년간 활동 중단…\"일 안 들어온다고 거짓말\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111609332944832"
         },
         {
-          "title": "수원 의료진 32명, 캄보디아 자매도시서 주민 진료",
+          "title": "김강우, 육아 위해 1년 연기 중단 \"일 안 들어온다고 했다\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261116_0003869726"
+          "url": "https://www.newsis.com/view/NISX20261116_0003869242"
         },
         {
-          "title": "수원시, 캄보디아 시엠립 수원마을서 민관 의료봉사…800명 진료",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261116106300061"
+          "title": "김강우, 아내 몰래 1년간 배우 활동 중단…“일 안 들어온다고 했다” (옥문아)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261116/135029690/1"
         }
       ]
     },
     {
-      "title": "005930",
-      "approx_traffic": "2000+",
-      "published": "Sun, 15 Nov 2026 23:30:00 -0800",
-      "news": [
-        {
-          "title": "Samsung Stocks Rise as Foreign Buyers Step In Despite NVIDIA Turmoil",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-stocks-rise-foreign-buyers-194545026.html"
-        },
-        {
-          "title": "Samsung Electronics (KOSE:A005930) Stock Dropped, So What Is Driving Attention Today?",
-          "source": "Simply Wall St",
-          "url": "https://simplywall.st/stocks/kr/tech/kose-a005930/samsung-electronics-shares/news/samsung-electronics-kosea005930-stock-dropped-so-what-is-dri"
-        },
-        {
-          "title": "Samsung Tokenized Stock Holds $139.71 Support As Binance Open Interest Climbs 10.50%",
-          "source": "OneBullEx",
-          "url": "https://www.onebullex.com/news/articles/samsung-tokenized-stock-holds-139-71-support-as-binance-open-interest-climbs-10-50"
-        }
-      ]
-    },
-    {
-      "title": "검찰",
+      "title": "서울 sk 대 울산 현대모비스",
       "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 23:30:00 -0800",
+      "published": "Mon, 16 Nov 2026 01:50:00 -0800",
       "news": [
         {
-          "title": "홈플러스 사태·盧 비자금 은닉 의혹… 45일 남기고 ‘수사 액셀’ 밟는 공소청",
+          "title": "[사진]전희철 감독, 워니와 즐거운 대화",
           "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/11/16/LFGRSWBDXRFZPAG5OCO42UBOCQ/"
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/16/GZRTGZBRHE2DOZLDGY3TOY3EME/"
         },
         {
-          "title": "‘대형 기업수사’ 연내 처분…중수청에 안넘긴다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20114551"
+          "title": "[사진]힉스, 체공 시간 활용하며",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/16/GFRWGYTFMYZTIY3EMI2TKMJXMY/"
         },
         {
-          "title": "검찰 직접수사 유예기간 45일…공소청, 미이관 주요 사건 처리 속도전",
-          "source": "더퍼블릭",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=326907"
+          "title": "'예기치 못한 악재' 국가대표 슈터마저 쓰러졌다, 양동근 감독 \"선수 생활만 20년을 해봤는데...\" [잠실 현장] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/16/2026111617434984515"
         }
       ]
+    },
+    {
+      "title": "결승전",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 01:50:00 -0800",
+      "news": [
+        {
+          "title": "스마일게이트 '에픽세븐', E7WC 2026 결승전 티켓 예매 시작",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261116180636"
+        },
+        {
+          "title": "스마일게이트, `에픽세븐` 월드 챔피언십 결승전 예매 시작",
+          "source": "디지털데일리",
+          "url": "https://www.ddaily.co.kr/page/view/2026111617383582222"
+        },
+        {
+          "title": "Epic Seven esports tournament E7WC finals seat reservations begin",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/en/mv.php?gid=1783589"
+        }
+      ]
+    },
+    {
+      "title": "빙부상",
+      "approx_traffic": "1000+",
+      "published": "Mon, 16 Nov 2026 01:50:00 -0800",
+      "news": [
+        {
+          "title": "‘한동훈 장인’ 진형구 별세…생전 “검찰이 파업 유도” 폭탄발언도",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1287380.html"
+        },
+        {
+          "title": "[여적] ‘최초 특검’ 피의자의 별세",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611161903011"
+        },
+        {
+          "title": "오세훈 시장, 한동훈 빙부상 조문",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261116_0021534619"
+        }
+      ]
+    },
+    {
+      "title": "노경필",
+      "approx_traffic": "500+",
+      "published": "Mon, 16 Nov 2026 01:40:00 -0800",
+      "news": [
+        {
+          "title": "질문에 답하는 노경필",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261116_0021534165"
+        },
+        {
+          "title": "등기부 수수료 관련 답변하는 노경필 처장",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8215728"
+        },
+        {
+          "title": "질문에 답하는 이진수 법무장관 직무대행",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753482"
+        }
+      ]
+    },
+    {
+      "title": "최동석",
+      "approx_traffic": "500+",
+      "published": "Mon, 16 Nov 2026 01:40:00 -0800",
+      "news": [
+        {
+          "title": "'박지윤 남사친'에 상간 소송...최동석, 1심 뒤집고 일부 승소 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/16/2026111615464396280"
+        },
+        {
+          "title": "최동석, ‘박지윤 상간자’ 위자료 소송 항소심서 일부 승소",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261116/135035338/1"
+        },
+        {
+          "title": "[속보]'이혼 갈등' 최동석, 박지윤 지인 상대 상간 소송 이겼다",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/11/16/2026111614080163324"
+        }
+      ]
+    },
+    {
+      "title": "sk하이닉스 채용",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 01:40:00 -0800",
+      "news": []
     }
   ]
 }
