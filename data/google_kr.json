@@ -1,33 +1,143 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-16T22:51:53+00:00",
+  "fetched_at": "2026-11-16T23:47:57+00:00",
   "items": [
     {
+      "title": "mu",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 14:30:00 -0800",
+      "news": [
+        {
+          "title": "Micron Stock: Why Strong Memory Prices May Count for Nothing",
+          "source": "Barron's",
+          "url": "https://www.barrons.com/articles/micron-stock-price-memory-chips-429adf7e"
+        },
+        {
+          "title": "$Micron Tech(MU.US)Micron pulled back toward the $761–$778…",
+          "source": "Longbridge",
+          "url": "https://longbridge.com/topics/100000000989400"
+        },
+        {
+          "title": "Sandisk, Micron, and SK Hynix Slide 3% as NVIDIA Shake-Up Hits Memory Stocks",
+          "source": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/11/12/sandisk-micron-and-sk-hynix-slide-3-as-nvidia-shake-up-hits-memory-stocks/"
+        }
+      ]
+    },
+    {
+      "title": "nvda",
+      "approx_traffic": "500+",
+      "published": "Mon, 16 Nov 2026 14:20:00 -0800",
+      "news": [
+        {
+          "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cry49plv8v3go"
+        },
+        {
+          "title": "Lies, spies and sex are just one part of the Nvidia story. The real stakes are much bigger",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/11/16/tech/nvidia-sex-spies-serious-problems"
+        }
+      ]
+    },
+    {
+      "title": "앤트로픽 상장일",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 14:20:00 -0800",
+      "news": [
+        {
+          "title": "121조 노리는 앤트로픽 IPO...중국·홍콩 기관투자자 청약 배제",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611161600490528"
+        },
+        {
+          "title": "美 로펌 앤트로픽 지분 받아 ‘잭팟’… “돈 대신 주식 달라” 국내도 확산",
+          "source": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229146"
+        },
+        {
+          "title": "몸값 1.4조달러 노리는 앤스로픽…'클로드'로 얼마나 벌까",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01131606645646704"
+        }
+      ]
+    },
+    {
+      "title": "환승",
+      "approx_traffic": "1000+",
+      "published": "Mon, 16 Nov 2026 14:00:00 -0800",
+      "news": [
+        {
+          "title": "경기 버스 환승할인비 내년 8개월치만 담아…추미애, 재정 쥐어짜 민생예산 편성",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753979"
+        },
+        {
+          "title": "경기도, MBC 예산 보도 반박…조정 신청·고발 예고",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722180"
+        },
+        {
+          "title": "[브리핑 하이라이트] 2027년 본예산안 편성 관련 기자회견",
+          "source": "경기도뉴스포털",
+          "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202611161748435016C071&s_code=daily"
+        }
+      ]
+    },
+    {
       "title": "날씨",
-      "approx_traffic": "100000+",
+      "approx_traffic": "200000+",
       "published": "Mon, 16 Nov 2026 13:40:00 -0800",
       "news": [
         {
-          "title": "대구·경북 흐리고 밤부터 비…낮 최고 13∼17도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117007400053"
+          "title": "“출근길 우산 챙기세요”····전국 대체로 흐리고 비",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611170742001"
         },
         {
-          "title": "[날씨] 전국 오후부터 비…수능일 곳곳 영하권 추위",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261117070140Vpr"
-        },
-        {
-          "title": "전국 흐리고 오후부터 비‥늦은 밤 차차 그쳐",
+          "title": "[날씨] 오후~밤사이 전국 비‥내일 오후부터 추워져",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6866121_36989.html"
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866183_37012.html"
+        },
+        {
+          "title": "강원, 대체로 흐리고 비…낮 최고 16도",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117009000062"
+        }
+      ]
+    },
+    {
+      "title": "구찌",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 13:40:00 -0800",
+      "news": [
+        {
+          "title": "\"구찌 가방 95만원 내렸다\"…콧대 높던 명품업계에 무슨 일이",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111602251"
+        },
+        {
+          "title": "\"우린 코카콜라 아니다\" 가격인하 없다더니... 매출 급락에 루이뷔통 콧대 꺾이나 [명품價 이야기]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611161414371765"
+        },
+        {
+          "title": "“구찌입니다. 30% 깎겠습니다”…불황 길어지자 ‘백기’ 루이비통은 ‘버티기’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/world/12209723"
         }
       ]
     },
     {
       "title": "부산날씨",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 16 Nov 2026 13:40:00 -0800",
       "news": [
         {
@@ -36,9 +146,9 @@
           "url": "https://www.yna.co.kr/view/AKR20261117008900052"
         },
         {
-          "title": "울산, 가끔 구름 많고 오후부터 비… 예상 강수량 5~20mm",
-          "source": "울산종합일보",
-          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065571148383053"
+          "title": "부산, 흐리고 가끔 비…예상강수량 5㎜ 안팎",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261117_0003870644"
         }
       ]
     },
@@ -48,25 +158,25 @@
       "published": "Mon, 16 Nov 2026 13:30:00 -0800",
       "news": [
         {
-          "title": "North Country Evening Weather: Monday, Nov. 16, 2026",
-          "source": "AOL.com",
-          "url": "https://www.aol.com/articles/north-country-evening-weather-monday-210431000.html"
+          "title": "A screenshot from Grand Theft Auto VI shows protagonist Lucia Caminos. Lucia is the first female protagonist in GTA franchise history. GTA 6 releases on Thursday, Nov. 19, 2026.",
+          "source": "The Lufkin Daily News",
+          "url": "https://lufkindailynews.com/news_reuters/national/a-screenshot-from-grand-theft-auto-vi-shows-protagonist-lucia-caminos-lucia-is-the-first/image_8054eec8-9f1b-51d3-9495-924766097a6c.html"
         },
         {
-          "title": "Partly cloudy skies for Tuesday",
-          "source": "KMVT",
-          "url": "https://www.kmvt.com/2026/11/11/partly-cloudy-skies-tuesday/"
+          "title": "Grand Theft Auto 6 features a hyper-realistic and localized dynamic weather system",
+          "source": "WDRB",
+          "url": "https://www.wdrbwave.com/2026/11/16/grand-theft-auto-6-features-hyper-realistic-localized-dynamic-weather-system/"
         },
         {
-          "title": "First Alert Forecast: Warm and Sunny",
-          "source": "NBC Los Angeles",
-          "url": "https://www.nbclosangeles.com/video/weather-news/video-weather-news/first-alert-forecast-warm-and-sunny-3/3968357/"
+          "title": "The Weather Channel Partners With Rockstar to Share Leonida Forecast With New GTA 6 Screenshots",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-weather"
         }
       ]
     },
     {
       "title": "황보라",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Mon, 16 Nov 2026 13:30:00 -0800",
       "news": [
         {
@@ -87,134 +197,24 @@
       ]
     },
     {
-      "title": "погода",
-      "approx_traffic": "2000+",
-      "published": "Mon, 16 Nov 2026 13:20:00 -0800",
-      "news": [
-        {
-          "title": "Пора доставать подштанники? Какая погода будет в Москве на этой неделе",
-          "source": "Т—Ж",
-          "url": "https://t-j.ru/weather-msc-16-22nov/"
-        },
-        {
-          "title": "Снег на подходе: погода в Москве и Подмосковье 16-22 ноября",
-          "source": "RTVI",
-          "url": "https://rtvi.com/news/sneg-na-podhode-pogoda-v-moskve-i-podmoskove-16-22-noyabrya/"
-        },
-        {
-          "title": "В Москву идет новая волна потепления 16 ноября: данные синоптика Ильина, какая погода будет в Москве",
-          "source": "rosbalt.ru",
-          "url": "https://www.rosbalt.ru/news/2026-11-16/v-moskvu-idet-novaya-volna-potepleniya-5732967"
-        }
-      ]
-    },
-    {
       "title": "thời tiết",
       "approx_traffic": "2000+",
       "published": "Mon, 16 Nov 2026 13:20:00 -0800",
       "news": [
         {
-          "title": "Xuất hiện không khí lạnh gây rét Bắc Bộ và Bắc Trung Bộ từ ngày 18/11",
-          "source": "Báo Bắc Ninh",
-          "url": "https://baobacninhtv.vn/xuat-hien-khong-khi-lanh-gay-ret-bac-bo-va-bac-trung-bo-tu-ngay-18-11-postid458462.bbg"
+          "title": "Thời tiết ngày 17/11: Bắc Bộ, Trung Bộ sáng có sương mù, ngày nắng",
+          "source": "Báo Nhân Dân điện tử",
+          "url": "https://nhandan.vn/thoi-tiet-ngay-1711-bac-bo-trung-bo-sang-co-suong-mu-ngay-nang-post1003195.html"
+        },
+        {
+          "title": "Thời sự sáng 17/11: Không khí lạnh sắp tràn về, Hà Nội có thể rét 14 độ",
+          "source": "Báo VietNamNet",
+          "url": "https://vietnamnet.vn/thoi-su-sang-17-11-khong-khi-lanh-sap-tran-ve-ha-noi-ret-14-do-2575540.html"
         },
         {
           "title": "Bắc Bộ sắp chuyển rét, Trung Bộ đề phòng mưa lớn, lũ quét và sạt lở đất",
           "source": "thethaovanhoa.vn",
           "url": "https://thethaovanhoa.vn/bac-bo-sap-chuyen-ret-trung-bo-de-phong-mua-lon-lu-quet-va-sat-lo-dat-20261116221323986.htm"
-        },
-        {
-          "title": "26 tỉnh, thành phố chủ động ứng phó với các hình thái thiên tai những ngày tới",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/moi-truong/26-tinh-thanh-pho-chu-dong-ung-pho-voi-cac-hinh-thai-thien-tai-nhung-ngay-toi-1801571.ldo"
-        }
-      ]
-    },
-    {
-      "title": "germany vs netherlands",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 13:20:00 -0800",
-      "news": [
-        {
-          "title": "Klopp’s Germany humiliate Netherlands in historic 69-year first after explosive call for FIFA president to quit",
-          "source": "football360.com.au",
-          "url": "https://football360.com.au/germany-netherlands-5-0-klopp-xavi-nations-league/"
-        },
-        {
-          "title": "Licensable picture: Germany v Netherlands - UEFA Nations League 2026/27 Group A2 MD6",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/germany-v-netherlands-uefa-nations-league-202627-group-a2-md6/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFdZM0pUSw"
-        },
-        {
-          "title": "Germany 5-0 Netherlands: Gruda and Wirtz light up Berlin",
-          "source": "Sofascore",
-          "url": "https://www.sofascore.com/news/germany-5-0-netherlands-gruda-and-wirtz-light-up-berlin"
-        }
-      ]
-    },
-    {
-      "title": "天气",
-      "approx_traffic": "1000+",
-      "published": "Mon, 16 Nov 2026 13:20:00 -0800",
-      "news": [
-        {
-          "title": "天气｜天文台：今日最高27度 初时有一两阵微雨 明日稍后迎冷锋",
-          "source": "香港01",
-          "url": "https://global.hk01.com/%E5%A4%A9%E6%B0%94/60411517/%E5%A4%A9%E6%B0%94-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%9827%E5%BA%A6-%E5%88%9D%E6%97%B6%E6%9C%89%E4%B8%80%E4%B8%A4%E9%98%B5%E5%BE%AE%E9%9B%A8-%E6%98%8E%E6%97%A5%E7%A8%8D%E5%90%8E%E8%BF%8E%E5%86%B7%E9%94%8B"
-        },
-        {
-          "title": "冷锋杀到｜极地涡漩冷空气将袭华南！周中市区急跌至17℃ 北区低见14℃ 秋季保暖贴士- 东张+",
-          "source": "myTV SUPER",
-          "url": "https://www.mytvsuper.com/sc/scoopplus/lifestyle/home/17946607870630/%E7%94%9F%E6%B4%BB-%E5%86%B7%E9%94%8B%E6%9D%80%E5%88%B0-%E6%9E%81%E5%9C%B0%E6%B6%A1%E6%BC%A9%E5%86%B7%E7%A9%BA%E6%B0%94%E5%B0%86%E8%A2%AD%E5%8D%8E%E5%8D%97-%E5%91%A8%E4%B8%AD%E5%B8%82%E5%8C%BA%E6%80%A5%E8%B7%8C%E8%87%B317--%E5%8C%97%E5%8C%BA%E4%BD%8E%E8%A7%8114--%E7%A7%8B%E5%AD%A3%E4%BF%9D%E6%9A%96%E8%B4%B4%E5%A3%AB"
-        },
-        {
-          "title": "广州今日放晴，蓝天白云入镜",
-          "source": "广州日报新花城",
-          "url": "https://huacheng.gz-cmc.com/pages/2026/11/15/66ff0ed0e8454f00a3c74ac2cd4d80d6.html"
-        }
-      ]
-    },
-    {
-      "title": "สภาพอากาศ",
-      "approx_traffic": "2000+",
-      "published": "Mon, 16 Nov 2026 13:10:00 -0800",
-      "news": [
-        {
-          "title": "สภาพอากาศวันนี้ -22 พ.ย.ไทยตอนบนอุณหภูมิลด ใต้ฝนเพิ่ม ฝนหนักบางแห่ง",
-          "source": "Thansettakij",
-          "url": "https://www.thansettakij.com/general-news/673912"
-        },
-        {
-          "title": "ประจำวันที่ 16 พฤศจิกายน 2569 23.00 น.",
-          "source": "กรมอุตุนิยมวิทยา",
-          "url": "https://www.tmd.go.th/forecast/daily/171120260000"
-        },
-        {
-          "title": "ประกาศกรมอุตุฯ ฉบับที่ 4 ฝนถล่มภาคใต้ 18-22 พ.ย. 'เมืองคอน-พัทลุง-สงขลา' หนักสุด",
-          "source": "Thaipost.net",
-          "url": "https://www.thaipost.net/general-news/1109748/"
-        }
-      ]
-    },
-    {
-      "title": "범죄",
-      "approx_traffic": "100+",
-      "published": "Mon, 16 Nov 2026 13:10:00 -0800",
-      "news": [
-        {
-          "title": "인천시, 흉기난동 피해자들에 긴급구호금 5천만원 지원(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261116019151065"
-        },
-        {
-          "title": "인천시, 신한은행 기탁금 활용해 범죄 피해 시민 돕는다…상해 정도따라 구호금",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261116580068"
-        },
-        {
-          "title": "인천시, 범죄 피해 구호 사각지대 해소…중증 피해 가구 최대 3000만원 지원",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336879"
         }
       ]
     }
