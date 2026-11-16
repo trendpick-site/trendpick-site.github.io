@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-16T18:05:55+00:00",
+  "fetched_at": "2026-11-16T18:58:31+00:00",
   "items": [
+    {
+      "title": "경비원",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 09:40:00 -0800",
+      "news": [
+        {
+          "title": "화재 속 주민 구한 70대 경비원…'의사자' 추진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20261115001300038"
+        },
+        {
+          "title": "불난 아파트 19층부터 문두드려 대피 돕던 경비원 숨져",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261116/135029032/2"
+        },
+        {
+          "title": "`1명 사망·13명 부상` 광주 아파트 방화범 구속",
+          "source": "부산일보",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026111419400379116&recCode=preset&invenCode=opqrJMFB&pageSeq=ae97351e3fb5d019a261837e0f2a4a61"
+        }
+      ]
+    },
     {
       "title": "robert pattinson",
       "approx_traffic": "500+",
@@ -14,9 +36,9 @@
           "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html"
         },
         {
-          "title": "Royal Family Embraces Robert Pattinson’s 007 Casting: ‘Welcome to His Majesty’s Secret Service, Mr. Bond’",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/royal-family-embraces-robert-pattinson-174245728.html"
+          "title": "Amazon’s Big Week: First a New James Bond, Then Anthropic’s IPO",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-big-week-first-james-182257228.html"
         },
         {
           "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
@@ -34,16 +56,6 @@
           "title": "[다시보기] 11월 16일 (월) 오후 사이언스 투데이",
           "source": "YTN 사이언스",
           "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611161604549260&s_hcd=0023"
-        },
-        {
-          "title": "[이시각헤드라인] 11월 16일 뉴스투나잇",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611162143582zB"
-        },
-        {
-          "title": "[여담야담] 초유의 'AI 커닝' 시인…사흘 남은 수능 어쩌나?",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847977"
         }
       ]
     },
@@ -75,14 +87,14 @@
       "published": "Mon, 16 Nov 2026 07:10:00 -0800",
       "news": [
         {
-          "title": "추미애 “경기도 가용재원 2조원 줄어···정부·국회 세제 개편 응답해달라”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611161131021"
-        },
-        {
           "title": "경기 버스 환승할인 내년 8월 폐지…추미애, 재정 쥐어짜 민생예산만 편성",
           "source": "국제뉴스",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753979"
+        },
+        {
+          "title": "경기도, 내년 국비 8841억원 추가 확보 추진…부지사 국회에 상주",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261116000545"
         },
         {
           "title": "MBC의 편파 왜곡 방송, 무단 침입에 대해 법적 책임을 묻겠습니다",
@@ -141,19 +153,19 @@
       "published": "Mon, 16 Nov 2026 06:30:00 -0800",
       "news": [
         {
-          "title": "고수, '나인투식스'로 15년 만의 로맨스 복귀…\"이번 작품서 내 비주얼 살짝 아쉬워\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848354"
+          "title": "스푼랩스 ‘비글루’, AI 숏드라마 2차 공모전 연다",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261116165905"
         },
         {
-          "title": "[드라마 속 음악②] \"마지막 장면이 가장 중요\"…OST 제작의 숨은 공식",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/entertain/2389544.htm"
+          "title": "\"클링 AI로 만드는 숏드라마\"…비글루, 새 IP 찾는다",
+          "source": "디지털데일리",
+          "url": "https://www.ddaily.co.kr/page/view/2026111618282434761"
         },
         {
-          "title": "‘북부대공’ 최산, 박민영·육성재 큐피드 된다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611161717003"
+          "title": "디딤돌·미래디지털AI협회, 'AI 숏드라마 실전반 1기' 개강… AI 영상 제작 본격 실습",
+          "source": "유스연합",
+          "url": "https://www.youthassembly.kr/news/1037290"
         }
       ]
     },
@@ -198,28 +210,6 @@
           "title": "수명 다한 KTX, 화물열차로 재탄생하나 ... 고부가가치 특수 컨테이너 도입도 검토",
           "source": "Queen 이코노미퀸",
           "url": "https://www.queen.co.kr/news/articleView.html?idxno=466372"
-        }
-      ]
-    },
-    {
-      "title": "코리아 패싱",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 05:10:00 -0800",
-      "news": [
-        {
-          "title": "[이하경 칼럼] 한·미 동맹은 저주가 아니다",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25478852"
-        },
-        {
-          "title": "트럼프의 '코리아 패싱', 또 드리워지는 '불길한 그림자'",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/16/2026111650286.html"
-        },
-        {
-          "title": "[朝鮮칼럼] 북·중·러 위협 속 한미동맹의 새로운 전략",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/opinion/chosun_column/2026/11/16/F2NGGNEI25GJDIVVJCSNPBMLGE/"
         }
       ]
     }
