@@ -1,211 +1,227 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-16T11:49:50+00:00",
+  "fetched_at": "2026-11-16T15:09:56+00:00",
   "items": [
     {
-      "title": "보안",
+      "title": "한국고속철도",
       "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 02:40:00 -0800",
+      "published": "Mon, 16 Nov 2026 05:20:00 -0800",
       "news": [
         {
-          "title": "금보원, 해킹 공격 246개 IP 주소 차단 완료... ‘유동 IP 접속 허용’ 원인 지목",
-          "source": "보안뉴스",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=147263"
-        },
-        {
-          "title": "금융위, '침해' 금융보안원에 쇄신 요구…인력·조직 강화 예상(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261116047251002"
-        },
-        {
-          "title": "금융위, '해킹 사고' 금융보안원 현장 점검‥\"대응기관서 발생한 사고, 깊은 유감\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6865939_36932.html"
-        }
-      ]
-    },
-    {
-      "title": "나솔",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 02:40:00 -0800",
-      "news": [
-        {
-          "title": "'나솔' 31기 옥순 \"'취집' 오해 억울\"…영호와 재결합설 일축 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/15/2026111519355822809"
-        },
-        {
-          "title": "‘나는 솔로’ 31기 영호, 옥순과 결별 공식 인정…“재회 생각 없다”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12209089"
-        },
-        {
-          "title": "‘나솔’ 31기 영호, 직접 등판 “옥순과 결별 맞다…내 치과도 별점 테러 피해”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611151016003"
-        }
-      ]
-    },
-    {
-      "title": "구글플레이",
-      "approx_traffic": "100+",
-      "published": "Mon, 16 Nov 2026 02:10:00 -0800",
-      "news": [
-        {
-          "title": "지스타 2026, 제2전시장에 글로벌·인디 쇼케이스... 150대 시연대 운영",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261116000232"
-        },
-        {
-          "title": "웹젠, 지스타 2026 출품작 코스프레 화보 공개",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261116151509"
-        },
-        {
-          "title": "‘지스타 2026’ D-3, 국내 게임사 빈자리 채운 해외 대작들",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261116500647"
-        }
-      ]
-    },
-    {
-      "title": "김강우",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 02:00:00 -0800",
-      "news": [
-        {
-          "title": "김강우, 아내 몰래 1년간 활동 중단…\"일 안 들어온다고 거짓말\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111609332944832"
-        },
-        {
-          "title": "김강우, 육아 위해 1년 연기 중단 \"일 안 들어온다고 했다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261116_0003869242"
-        },
-        {
-          "title": "김강우, 아내 몰래 1년간 배우 활동 중단…“일 안 들어온다고 했다” (옥문아)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261116/135029690/1"
-        }
-      ]
-    },
-    {
-      "title": "서울 sk 대 울산 현대모비스",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 01:50:00 -0800",
-      "news": [
-        {
-          "title": "[사진]전희철 감독, 워니와 즐거운 대화",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/16/GZRTGZBRHE2DOZLDGY3TOY3EME/"
-        },
-        {
-          "title": "[사진]힉스, 체공 시간 활용하며",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/16/GFRWGYTFMYZTIY3EMI2TKMJXMY/"
-        },
-        {
-          "title": "'예기치 못한 악재' 국가대표 슈터마저 쓰러졌다, 양동근 감독 \"선수 생활만 20년을 해봤는데...\" [잠실 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/16/2026111617434984515"
-        }
-      ]
-    },
-    {
-      "title": "결승전",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 01:50:00 -0800",
-      "news": [
-        {
-          "title": "스마일게이트 '에픽세븐', E7WC 2026 결승전 티켓 예매 시작",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261116180636"
-        },
-        {
-          "title": "스마일게이트, `에픽세븐` 월드 챔피언십 결승전 예매 시작",
-          "source": "디지털데일리",
-          "url": "https://www.ddaily.co.kr/page/view/2026111617383582222"
-        },
-        {
-          "title": "Epic Seven esports tournament E7WC finals seat reservations begin",
-          "source": "게임메카",
-          "url": "https://www.gamemeca.com/en/mv.php?gid=1783589"
-        }
-      ]
-    },
-    {
-      "title": "빙부상",
-      "approx_traffic": "1000+",
-      "published": "Mon, 16 Nov 2026 01:50:00 -0800",
-      "news": [
-        {
-          "title": "‘한동훈 장인’ 진형구 별세…생전 “검찰이 파업 유도” 폭탄발언도",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1287380.html"
-        },
-        {
-          "title": "[여적] ‘최초 특검’ 피의자의 별세",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611161903011"
-        },
-        {
-          "title": "오세훈 시장, 한동훈 빙부상 조문",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261116_0021534619"
-        }
-      ]
-    },
-    {
-      "title": "노경필",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 01:40:00 -0800",
-      "news": [
-        {
-          "title": "질문에 답하는 노경필",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261116_0021534165"
-        },
-        {
-          "title": "등기부 수수료 관련 답변하는 노경필 처장",
+          "title": "퇴역 앞둔 KTX, 고속 화물열차로 변신하나…코레일 사업화 검토",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8215728"
+          "url": "https://www.news1.kr/realestate/general/6353729"
         },
         {
-          "title": "질문에 답하는 이진수 법무장관 직무대행",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753482"
+          "title": "퇴역 앞둔 KTX, 고속 화물열차 변신 검토",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12328254"
+        },
+        {
+          "title": "수명 다한 KTX, 화물열차로 재탄생하나 ... 고부가가치 특수 컨테이너 도입도 검토",
+          "source": "Queen 이코노미퀸",
+          "url": "https://www.queen.co.kr/news/articleView.html?idxno=466372"
         }
       ]
     },
     {
-      "title": "최동석",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 01:40:00 -0800",
+      "title": "코리아 패싱",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 05:10:00 -0800",
       "news": [
         {
-          "title": "'박지윤 남사친'에 상간 소송...최동석, 1심 뒤집고 일부 승소 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/16/2026111615464396280"
+          "title": "[이하경 칼럼] 한·미 동맹은 저주가 아니다",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25478852"
         },
         {
-          "title": "최동석, ‘박지윤 상간자’ 위자료 소송 항소심서 일부 승소",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261116/135035338/1"
+          "title": "트럼프의 '코리아 패싱', 또 드리워지는 '불길한 그림자'",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/16/2026111650286.html"
         },
         {
-          "title": "[속보]'이혼 갈등' 최동석, 박지윤 지인 상대 상간 소송 이겼다",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/star/2026/11/16/2026111614080163324"
+          "title": "[fn광장] '한미동맹' 없이는 평화도 없다",
+          "source": "부산파이낸셜뉴스",
+          "url": "https://busan.fnnews.com/news/202611151921309834"
         }
       ]
     },
     {
-      "title": "sk하이닉스 채용",
+      "title": "사업",
       "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 01:40:00 -0800",
-      "news": []
+      "published": "Mon, 16 Nov 2026 05:00:00 -0800",
+      "news": [
+        {
+          "title": "동국생명과학, 수익성 낮은 진단장비 사업 정리…사명 변경",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/11/16/X5CKQN2M6BGEDN4FIG2RAXIOUY/"
+        },
+        {
+          "title": "동국생명과학, 'DK 루오닉스'로 사명 변경…사업구조 재편 본격화 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/11/16/2026111616470797474"
+        },
+        {
+          "title": "동국생명과학, 글로벌 성장 기반 강화 및 사업구조 재편",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261116170331"
+        }
+      ]
+    },
+    {
+      "title": "성장주",
+      "approx_traffic": "1000+",
+      "published": "Mon, 16 Nov 2026 04:20:00 -0800",
+      "news": [
+        {
+          "title": "\"지금 팔면 후회?\"…삼전닉스 반등 확률 90% 분석 나왔다 [투자톡]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111353166"
+        },
+        {
+          "title": "‘반도체 공포’에 하락장 베팅한 개미들…인버스 대량 매수 [주식고수]",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261116507395"
+        },
+        {
+          "title": "삼성SDI, 순매수 2.8배 증가... 하이닉스는 1위에서 15위 밖 [1% 고수의 선택]",
+          "source": "부산파이낸셜뉴스",
+          "url": "https://busan.fnnews.com/news/202611151911457960"
+        }
+      ]
+    },
+    {
+      "title": "cuaca besok",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 03:50:00 -0800",
+      "news": [
+        {
+          "title": "Peringatan Cuaca BMKG: Hujan Lebat Disertai Petir Mengancam Kabupaten Maros Malam Ini, Mulai Pukul 19.30 WIB",
+          "source": "Databoks",
+          "url": "https://databoks.katadata.co.id/demografi/statistik/c3a8d97bdb5ee53/peringatan-cuaca-bmkg-hujan-lebat-disertai-petir-mengancam-kabupaten-maros-malam-ini-mulai-pukul-19-30-wib"
+        },
+        {
+          "title": "Prakiraan Cuaca Makassar Besok 17 November 2026: Siang-Sore Hujan, Suhu 19-35 Derajat Celsius",
+          "source": "detikcom",
+          "url": "https://www.detik.com/sulsel/makassar/d-8755618/prakiraan-cuaca-makassar-besok-17-november-2026-siang-sore-hujan-suhu-19-35-derajat-celsius"
+        },
+        {
+          "title": "BMKG Peringatkan Angin Kencang di 14 Daerah Sulsel",
+          "source": "Lutimterkini",
+          "url": "https://lutimterkini.com/bmkg-peringatkan-angin-kencang-di-14-daerah-sulsel/"
+        }
+      ]
+    },
+    {
+      "title": "김건희",
+      "approx_traffic": "2000+",
+      "published": "Mon, 16 Nov 2026 03:10:00 -0800",
+      "news": [
+        {
+          "title": "쫓기듯 선고일 지정‥스스로 불신 키운 대법원",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866075_37004.html"
+        },
+        {
+          "title": "[사설]한덕수 사건 대법원 전합 선고에 쏠린 시선과 질문들",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261116/135035655/2"
+        },
+        {
+          "title": "'12·3 계엄=내란' 대법 전원합의체서 인정될까…19일 첫 결론",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261116_0003870203"
+        }
+      ]
+    },
+    {
+      "title": "간호",
+      "approx_traffic": "2000+",
+      "published": "Mon, 16 Nov 2026 03:00:00 -0800",
+      "news": [
+        {
+          "title": "작은 산부인과에서 AI 첨단병원까지, 70년 역사의 병원이 미래 의료를 여는 법",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=1753&key=202611160918175563"
+        },
+        {
+          "title": "을지국제간호학술대회 서울서 개최…간호 실무 미래 방향 논의",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261116/135034691/1"
+        },
+        {
+          "title": "을지대의료원, '미래 간호 실무' 학술대회…\"경험 공유\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869708"
+        }
+      ]
+    },
+    {
+      "title": "두두",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 03:00:00 -0800",
+      "news": [
+        {
+          "title": "[오피셜] '두두' 이동주, DN 수퍼스와 28년까지 동행… \"보답하고 싶다\"",
+          "source": "데일리e스포츠",
+          "url": "https://www.dailyesports.com/view.php?ud=20261116201733393074bcc1e038_27"
+        },
+        {
+          "title": "DN 수퍼스, 2027 LCK 시즌 앞두고 '두두'와 재계약",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/kr/articles/sources-dn-soopers-re-sign-dudu-for-the-2027-lck-season/kr"
+        },
+        {
+          "title": "[오피셜] '두두' 이동주, DNS와 2028년까지 동행",
+          "source": "인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323430&site=lol"
+        }
+      ]
+    },
+    {
+      "title": "인사청문회",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 02:50:00 -0800",
+      "news": [
+        {
+          "title": "[속보] 이 대통령, 이용철 법무부장관 후보자 인사청문요청안 재가",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611161644231255_005.html"
+        },
+        {
+          "title": "이용철 법무장관 후보자 청문회 열린다…이 대통령, 요청안 재가",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12328300"
+        },
+        {
+          "title": "안덕수 국세청장 후보자, 재산 19억4천338만원 신고",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261116171900001"
+        }
+      ]
+    },
+    {
+      "title": "보안",
+      "approx_traffic": "1000+",
+      "published": "Mon, 16 Nov 2026 02:40:00 -0800",
+      "news": [
+        {
+          "title": "“AI 사이버 위협 공동대응”... 청와대, 민·관·군 IT 자산 관리 체계 점검",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147274"
+        },
+        {
+          "title": "“AI로 다 뚫는다”…AI 해킹, AI로 막을 순 없을까? [경제한방]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712838"
+        },
+        {
+          "title": "[이상직 변호사의 생성과 소멸] 〈32〉AI시대 보안(상):사이버 공격, 각개전투로는 막을 수 없다",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261116000044"
+        }
+      ]
     }
   ]
 }
