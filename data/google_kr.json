@@ -1,17 +1,61 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-16T00:29:45+00:00",
+  "fetched_at": "2026-11-16T02:04:11+00:00",
   "items": [
     {
-      "title": "김승수",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 15:20:00 -0800",
+      "title": "이현중",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 17:00:00 -0800",
+      "news": [
+        {
+          "title": "이현중, G리그서 커리어 하이 폭발…NBA 향한 ‘무력시위’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261115580211"
+        },
+        {
+          "title": "'3점슛 성공률 57.1％' 국가대표 이현중, '21점' G리그 진출 뒤 최다 득점 폭발",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/basketball/2026/11/15/GA2GMZJWHFRTKYRQHE3GMNJUMU/"
+        },
+        {
+          "title": "몸 풀린 이현중…최다 득점 경신+탄탄한 수비, 본격적인 경쟁력 과시",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261115/135026684/1"
+        }
+      ]
+    },
+    {
+      "title": "공모",
+      "approx_traffic": "100+",
+      "published": "Sun, 15 Nov 2026 17:00:00 -0800",
+      "news": [
+        {
+          "title": "삼성바이오, 2.7조원 유증 성공…청약증거금 11.4조 '역대 최대규모' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/11/16/2026111608263796946"
+        },
+        {
+          "title": "삼성바이오로직스, 2조7천억 자금조달 마무리…\"주주 신뢰 확인\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444853"
+        },
+        {
+          "title": "삼성바이오, 2.7조 유증 청약률 96.8%…한미 MASH 신약 2b상 성과 [바이오 주간 결산]",
+          "source": "팜이데일리",
+          "url": "https://pharm.edaily.co.kr/News/Read?newsId=01144726645646048"
+        }
+      ]
+    },
+    {
+      "title": "박혜연",
+      "approx_traffic": "5000+",
+      "published": "Sun, 15 Nov 2026 16:40:00 -0800",
       "news": [
         {
           "title": "미운 우리 새끼 : [11월 22일 예고] “전 안 돼요?” 김승수, 박혜연에게 진심 담아 조심스럽게 전한 고백",
           "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483386268"
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483386268?div=live_end"
         },
         {
           "title": "배우♥아나운서 커플 탄생하나..김승수, 박혜연에 고백 \"전 안 돼요?\"",
@@ -19,207 +63,148 @@
           "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100101980009422"
         },
         {
-          "title": "김승수, 양정아에겐 ‘그냥 친구’…16세 연하 박혜연엔 “전 안 돼요?”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12209562"
+          "title": "\"전 안돼요?\" 김승수, 53세에 전한 핑크빛 소식..♥박혜연과 커플 탄생하나[핫피플]",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/HEZWMZTGME3TQMLCHAZTGYJUGM/"
         }
       ]
     },
     {
-      "title": "미사일",
-      "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 15:00:00 -0800",
-      "news": [
-        {
-          "title": "북한, 해킹 코인으로 ‘미사일 부품’ 사들이나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/weeklybiz/2026/11/16/R5RD3V5JPBA6XD6H6TMXCRMXCE/"
-        },
-        {
-          "title": "北 해커, 얼굴 도용해 가상자산 5천억원 탈취…피해 영상만 900개",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261115580035"
-        },
-        {
-          "title": "FBI “북한, 소프트웨어 관리자 속여 대규모 악성코드 유포 시도”",
-          "source": "VOA 한국어 홈페이지",
-          "url": "https://www.voakorea.com/a/8223336.html"
-        }
-      ]
-    },
-    {
-      "title": "thứ hạng của đội tuyển tây ban nha gặp đội tuyển bóng đá quốc gia anh",
+      "title": "초고층",
       "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 15:00:00 -0800",
+      "published": "Sun, 15 Nov 2026 16:40:00 -0800",
       "news": [
         {
-          "title": "Trực tiếp bóng đá Tây Ban Nha - Anh: Người nhện cứu thua xuất sắc (Nations League) (Hết giờ)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-tay-ban-nha-anh-ap-luc-cua-cac-vi-khach-nations-league-c48a1811353.html"
-        },
-        {
-          "title": "Tuchel gạch tên Branthwaite và Garner ở trận gặp Tây Ban Nha",
-          "source": "yeuthethao.net.vn",
-          "url": "https://yeuthethao.net.vn/tuchel-gach-ten-branthwaite-va-garner-o-tran-gap-tay-ban-nha-d902610.html"
-        },
-        {
-          "title": "'Anh phiên bản 2.0' cắt chuỗi trận bất bại của Tây Ban Nha",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/anh-phien-ban-2-0-cat-chuoi-tran-bat-bai-cua-tay-ban-nha-5145006.html"
-        }
-      ]
-    },
-    {
-      "title": "주한 미군 사령관",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 14:50:00 -0800",
-      "news": [
-        {
-          "title": "\"전작권 전환, 한국서 정치적 선언처럼 돼… 워싱턴이 걱정하는 건 군사적 동맹 약화\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/us/2026/11/16/3TXYX5OJGVF6JKQ7BAQCHCGBNE/"
-        },
-        {
-          "title": "美전문가들 \"트럼프, 전작권 전환을 주한미군 철수 수단으로 봐\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261114002200071"
-        },
-        {
-          "title": "한미동맹 이상 없다는데...짙어지는 안보협의 먹구름",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202611150521330340"
-        }
-      ]
-    },
-    {
-      "title": "사장님 귀는 당나귀 귀",
-      "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 14:50:00 -0800",
-      "news": [
-        {
-          "title": "정호영, 돈방석 앉겠네..’대기업과 계약’ 자랑 “들어가는 게 보통 아냐” (‘사당귀’)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/MQ2WMMBVMMZDCNTFHAYTEZBXGI/"
-        },
-        {
-          "title": "‘사당귀’ 양준혁, 정호영-양치승에 컵푸드 동업 제안",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524824"
-        },
-        {
-          "title": "정호영, ‘연예대상’ 수상 욕심에 뇌물까지..“정지선, 그만 받아야” (‘사당귀’)",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261115144010796"
-        }
-      ]
-    },
-    {
-      "title": "양의지",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 14:40:00 -0800",
-      "news": [
-        {
-          "title": "'초대박' 52억에 두산 잔류 확정→FA 선배들 향해 외쳤다 \"양의지-정수빈 형 없으면 우승 힘들어, 박치국은…\" [오!쎈 미야자키]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/16/ME2WIZJSMJQTQYRYMRTGGYTFMI/"
-        },
-        {
-          "title": "양의지 두산 떠난다고? 제2의 김재환 사태 막는다→잔류 협상 총력전 선언 “양의지는 우리 선수, 의견 조율 중” - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/15/202611150005772525O"
-        },
-        {
-          "title": "[단독] 양의지, FA 신청서 냈다…사실상 두산 잔류 확정, 옵트아웃 이적 아닌 프랜차이즈 스타의 길 선택했다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611160028003"
-        }
-      ]
-    },
-    {
-      "title": "2027 수능",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 14:40:00 -0800",
-      "news": [
-        {
-          "title": "울산시, 수능일 시험장 교통관리 강화…수험생 긴급 수송도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261116015200057"
-        },
-        {
-          "title": "2027학년도 수능 문제지 배부",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261116_0021533635"
-        },
-        {
-          "title": "버스 집중 배차·장애인콜택시 무료···인천시, 19일 수능 특별수송 대책 시행",
+          "title": "월 2만원 내던 아파트 수선비, 초고층은 20만원…그래도 사실 건가요?[올앳부동산]",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611151118001"
+          "url": "https://www.khan.co.kr/article/202611160600061"
+        },
+        {
+          "title": "\"고층 아파트, 10년 뒤 흉물 된다\"…건축 전문가의 섬뜩한 경고",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261113_0003867279"
+        },
+        {
+          "title": "\"높을수록 비싸다\"...초고층 단지 신고가에 건설사들 '높이 경쟁'",
+          "source": "뉴스웨이",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026111311170186339"
         }
       ]
     },
     {
-      "title": "집",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 14:30:00 -0800",
+      "title": "공직",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 16:30:00 -0800",
       "news": [
         {
-          "title": "‘내 집’ 얻으려다… 지옥 같은 집에 갇혔다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/17/5W7EFMFS75EN5FZGNPJF4TTILA/"
-        },
-        {
-          "title": "[컬처인사이드] '카리스마' 배종옥 \"코미디 역할, 연락 주세요\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/replay/view.php?idx=273&key=202611142123557514"
-        },
-        {
-          "title": "홈캠에 포착된 움직임…장규리·배종옥 ‘완벽한 집’, 미스터리 포인트 3",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261116/135029481/1"
-        }
-      ]
-    },
-    {
-      "title": "부산 kcc 이지스",
-      "approx_traffic": "2000+",
-      "published": "Sun, 15 Nov 2026 14:30:00 -0800",
-      "news": [
-        {
-          "title": "'어제는 허웅, 오늘은 허훈' 종료 3초 전 동생이 끝냈다... '허씨 형제' 앞세운 KCC 7연패 뒤 5연승 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/15/2026111520014730985"
-        },
-        {
-          "title": "'이런 날도 있다' 21점 차 뒤집은 KCC, 0.6초 남기고 웃은 LG...소노까지 승리하며 중위권 대혼전 (종합)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/basketball/2026/11/16/MRSDMNJXGQ2GCNRYMY3TSNLFGM/"
-        },
-        {
-          "title": "허훈의 막판 3점 플레이…프로농구 KCC, 가스공사 꺾고 5연승(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261115037351007"
-        }
-      ]
-    },
-    {
-      "title": "동아일보",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 14:30:00 -0800",
-      "news": [
-        {
-          "title": "[천광암 칼럼]돔구장의 역설, 기적의 수출 1조 달러",
+          "title": "[단독]‘與-경기·성남 라인’ 102명, 李정부서 공직·공기업 임명됐다",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261115/135028812/2"
+          "url": "https://www.donga.com/news/Politics/article/all/20261115/135027258/1"
         },
         {
-          "title": "케이팝 위상과 수익 사이... 해마다 늘어나는 시상식의 비밀",
-          "source": "오마이스타",
-          "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003283404"
+          "title": "[강준만 시론] 왜 그는 고위 공직을 비워둘까?",
+          "source": "시사저널",
+          "url": "https://www.sisajournal.com/news/articleView.html?idxno=393741"
         },
         {
-          "title": "[핌 포커스] 지난해와 달라진 K팝 신인 시장…흥행 가뭄 속 신인상 주인공은?",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261111001042"
+          "title": "[김상민의 세상을 보는 눈] 인재 제대로 못쓰는 정권은 4류도 못 돼",
+          "source": "한국NGO신문",
+          "url": "https://www.ngonews.kr/news/articleView.html?idxno=243105"
+        }
+      ]
+    },
+    {
+      "title": "청년미래적금",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 16:30:00 -0800",
+      "news": [
+        {
+          "title": "청년미래적금 2차 계좌 개설 시작…27일까지",
+          "source": "포커스타임즈",
+          "url": "https://focustimes.co.kr/View.aspx?No=4313700"
+        }
+      ]
+    },
+    {
+      "title": "카우보이스 대 포티나이너스",
+      "approx_traffic": "100+",
+      "published": "Sun, 15 Nov 2026 16:20:00 -0800",
+      "news": [
+        {
+          "title": "49ers poke fun at Cowboys multiple times to headline NFL Week 10 trolls",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50497055/nfl-week-10-trolls"
+        },
+        {
+          "title": "Game Recap: Explosive plays doom Dallas, 46-40",
+          "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
+          "url": "https://www.dallascowboys.com/news/game-recap-explosive-plays-doom-dallas-46-40"
+        },
+        {
+          "title": "Brock Purdy Connects With Christian McCaffrey For 74-Yard TD To Retake the Lead Over Cowboys | NFL Highlights",
+          "source": "FOX Sports",
+          "url": "https://www.foxsports.com/watch-vertical/fmc-4zf1oojq7j31z23f"
+        }
+      ]
+    },
+    {
+      "title": "커버드 콜",
+      "approx_traffic": "500+",
+      "published": "Sun, 15 Nov 2026 16:10:00 -0800",
+      "news": [
+        {
+          "title": "[단독] 과세관청, 서학개미 이의제기 첫 인정…美 커버드콜 분배금 환급 잇따르나",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611167754i"
+        },
+        {
+          "title": "[자산관리와 절세] \"ETF는 안 됩니다\" 배당 분리과세의 숨은 한 줄",
+          "source": "뷰어스",
+          "url": "https://theviewers.co.kr/View.aspx?No=4312474"
+        }
+      ]
+    },
+    {
+      "title": "테니스 선수",
+      "approx_traffic": "2000+",
+      "published": "Sun, 15 Nov 2026 15:50:00 -0800",
+      "news": [
+        {
+          "title": "\"허벅지가 호베르투 카를로스 같다\"…日 테니스 선수 미니스커트에 팬들 '환호'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868557"
+        },
+        {
+          "title": "테니스 선수 소노다 아야노 새 운동복 공개에 팬 호평",
+          "source": "기독일보",
+          "url": "https://www.christiandaily.co.kr/news/167374"
+        },
+        {
+          "title": "\"호베르투 카를로스 같은 허벅지!\"…日 미녀 테니스 선수 게시물 한 장에 '팬 14만명' 환호→\"힘이 넘쳐보이는 허벅지\"",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2219651"
+        }
+      ]
+    },
+    {
+      "title": "윤석열",
+      "approx_traffic": "1000+",
+      "published": "Sun, 15 Nov 2026 15:50:00 -0800",
+      "news": [
+        {
+          "title": "“국회 봉쇄는 상상”이라는 윤석열…항소심 마지막까지 사과도, 반성도 없었다",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1287471.html"
+        },
+        {
+          "title": "尹 “계엄 해제됐는데 무슨 존속?”…내란 종료 시점 두고 설전",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712327"
+        },
+        {
+          "title": "‘탄핵소추 때까지 내란’ 2차 특검 주장에 피식 웃은 尹",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/11/13/FTZ3FTALNRC6TOX6AHL5BT6GNE/"
         }
       ]
     }
