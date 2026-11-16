@@ -1,11 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-16T20:54:31+00:00",
+  "fetched_at": "2026-11-16T21:53:52+00:00",
   "items": [
     {
+      "title": "코트",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "겨울에 '이것' 없으면 코트 잘못 입는 거예요",
+          "source": "엘르 코리아 │ ELLE KOREA",
+          "url": "https://www.elle.co.kr/article/1912922"
+        },
+        {
+          "title": "'싹둑' 잘랐더니 인기 폭발…여성 아이돌 푹 빠진 패션 뭐길래 [박수림의 트렌딧(Trend:it)]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611169751g"
+        },
+        {
+          "title": "돌고 돌아 올겨울 다시 입게 될 이 코트!",
+          "source": "Vogue korea",
+          "url": "https://www.vogue.co.kr/2026/11/15/%EB%8F%8C%EA%B3%A0-%EB%8F%8C%EC%95%84-%EC%98%AC%EA%B2%A8%EC%9A%B8-%EB%8B%A4%EC%8B%9C-%EC%9E%85%EA%B2%8C-%EB%90%A0-%EC%9D%B4-%EC%BD%94%ED%8A%B8/"
+        }
+      ]
+    },
+    {
+      "title": "항공모함",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "루스벨트함도 중동 도착…이란 주변에 미 항모 3척 집결",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261116162100009"
+        },
+        {
+          "title": "종전협상 교착에 중동 다시 격랑···이란, 바레인 미군기지 공격·미군 핵추진 항모 중동으로",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611161542001"
+        },
+        {
+          "title": "협상판 흔들고 싶은 이란… 잠잠한 트럼프 건드리며 무력 과시",
+          "source": "서울Pn",
+          "url": "https://m.go.seoul.co.kr/news/international/2026/11/17/20261117013004"
+        }
+      ]
+    },
+    {
+      "title": "개인정보",
+      "approx_traffic": "500+",
+      "published": "Mon, 16 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "서울시립대 “15명 개인정보 유출”…경찰에 수사 의뢰",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8714252"
+        },
+        {
+          "title": "서울시립대, 15명 포털 개인정보 유출… 서울시 사이버안전센터 조사",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/11/16/WBVV4KMVUBGWDGZJS25MTZUMPY/"
+        },
+        {
+          "title": "서울시립대, 구성원 15명 개인정보 유출…\"경찰 수사 의뢰·민감정보는 안전\"",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611162200082307"
+        }
+      ]
+    },
+    {
+      "title": "พยากรณ์อากาศ",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 12:40:00 -0800",
+      "news": [
+        {
+          "title": "สภาพอากาศวันนี้ -22 พ.ย.ไทยตอนบนอุณหภูมิลด ใต้ฝนเพิ่ม ฝนหนักบางแห่ง",
+          "source": "Thansettakij",
+          "url": "https://www.thansettakij.com/general-news/673912"
+        },
+        {
+          "title": "ประจำวันที่ 16 พฤศจิกายน 2569 23.00 น.",
+          "source": "กรมอุตุนิยมวิทยา",
+          "url": "https://www.tmd.go.th/forecast/daily/171120260000"
+        },
+        {
+          "title": "ประกาศกรมอุตุฯ ฉบับที่ 4 ฝนถล่มภาคใต้ 18-22 พ.ย. 'เมืองคอน-พัทลุง-สงขลา' หนักสุด",
+          "source": "Thaipost.net",
+          "url": "https://www.thaipost.net/general-news/1109748/"
+        }
+      ]
+    },
+    {
+      "title": "박세리",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "박세리, 운동하느라 사춘기 ‘스킵’ 고백... “50대인 지금 누구보다 예민해”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/HA3WKY3DME3WKMZTMMYTQMBTHA/"
+        },
+        {
+          "title": "박세리, \"운동하느라 사춘기 건너뛰었다...50대인 지금 가장 예민\"",
+          "source": "인사이트",
+          "url": "https://www.insight.co.kr/news/582300"
+        },
+        {
+          "title": "박세리, 운동하느라 사춘기 스킵..\"50대인 지금 누구보다 예민\"",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/GEYWENDDMJSDIY3FHA2WGYLCMU/"
+        }
+      ]
+    },
+    {
+      "title": "리친청",
+      "approx_traffic": "500+",
+      "published": "Mon, 16 Nov 2026 12:20:00 -0800",
+      "news": [
+        {
+          "title": "'속기파' 리친청, 구쯔하오 꺾고 삼성화재배 결승 선착",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261116158800007"
+        },
+        {
+          "title": "한국은 변상일-신진서, 중국은 리친청-구쯔하오…결승 한·중전 확정",
+          "source": "사이버오로",
+          "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532950"
+        },
+        {
+          "title": "신진서, 난적 당이페이에 불계승…삼성화재배 4강 진출",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712926"
+        }
+      ]
+    },
+    {
+      "title": "연금",
+      "approx_traffic": "10000+",
+      "published": "Mon, 16 Nov 2026 12:10:00 -0800",
+      "news": [
+        {
+          "title": "연금공단, ICT센터에 화재징후 실시간 감지 AI 솔루션 도입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261116054700530"
+        },
+        {
+          "title": "국민연금, AI로 화재감시 솔루션 도입… 3중 감시체계 구축",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261116500626"
+        },
+        {
+          "title": "국민연금, 한전과 손잡고 ICT센터 'AI 화재감시' 강화",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869449"
+        }
+      ]
+    },
+    {
+      "title": "윤이나",
+      "approx_traffic": "500+",
+      "published": "Mon, 16 Nov 2026 12:00:00 -0800",
+      "news": [
+        {
+          "title": "최혜진, 통한의 보기 2개…10번째 준우승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714312"
+        },
+        {
+          "title": "최혜진, 준우승만 10번째 또 ‘뒷심 부족’… 땅을 쳤다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261117/135035563/2"
+        },
+        {
+          "title": "소렌스탐과 우승 기념 촬영하는 린디 던컨",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261116_0002292952"
+        }
+      ]
+    },
+    {
+      "title": "우리은행",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 12:00:00 -0800",
+      "news": [
+        {
+          "title": "우리은행, ‘우리 아트콘’ 미술대회…어린이·청소년과 ‘내일을 그리다’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261116/135031113/1"
+        },
+        {
+          "title": "우리은행, 제29회 '우리 아트콘' 본선 개최…어린이·청소년 250명 참가",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753853"
+        },
+        {
+          "title": "[포토] 우리은행 어린이 미술대회",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12210126"
+        }
+      ]
+    },
+    {
       "title": "민희진",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 16 Nov 2026 11:50:00 -0800",
       "news": [
         {
@@ -19,197 +217,9 @@
           "url": "https://imnews.imbc.com/news/2026/society/article/6866041_36918.html"
         },
         {
-          "title": "“뉴진스 계약 해지 결정에 영향력”…민희진, 업무상 배임 혐의 송치",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/society/2026/11/16/20261116500310"
-        }
-      ]
-    },
-    {
-      "title": "음주 운전",
-      "approx_traffic": "100+",
-      "published": "Mon, 16 Nov 2026 11:40:00 -0800",
-      "news": [
-        {
-          "title": "비비 \"고경표, 올해 안 될 수밖에 없다\"...한 달 전, 사주풀이 '깜짝' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/16/2026111608321498323"
-        },
-        {
-          "title": "경찰, 음주운전으로 청소차 들이받은 고경표 소환조사 방침",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713754"
-        },
-        {
-          "title": "고경표, 음주운전 여파에 팬미팅 취소…“실망 안겨 드리게 돼 사과”",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/ZBEXEGN2QJCZDF7VUTX5J44KRU/"
-        }
-      ]
-    },
-    {
-      "title": "북한",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 11:30:00 -0800",
-      "news": [
-        {
-          "title": "통일부 “북한 조용원, 미중러회담 앞두고 방러…관련 동향 주시”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713693"
-        },
-        {
-          "title": "푸틴, '김정은 최측근' 조용원 만나…\"양국 군사적 형제애로 연결\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117005800109"
-        },
-        {
-          "title": "APEC 직전 복심 급파...북한의 노림수는 [자막뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611161028547294"
-        }
-      ]
-    },
-    {
-      "title": "독일 대 네덜란드",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 11:10:00 -0800",
-      "news": [
-        {
-          "title": "오렌지군단 7골 폭발…전차군단도 화력쇼",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261115105804QnZ"
-        },
-        {
-          "title": "클롭의 독일, 세르비아 3-1 제압…사비의 네덜란드는 7-0 대승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261114016200007"
-        },
-        {
-          "title": "네덜란드, 그리스 7대0 대파… 네이션스리그 8강 진출 청신호",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/14/3J7CZZTQLJDITCXIZ6SKUIBKAU/"
-        }
-      ]
-    },
-    {
-      "title": "임예진",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 10:40:00 -0800",
-      "news": [
-        {
-          "title": "\"5000만원 주고 샀는데 82만원 됐다\"…배우 임예진, 15년 전 산 제주 땅, 무슨 일",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611150830151414"
-        },
-        {
-          "title": "임예진, 5천만원에 산 제주 땅 “현재 지분 가치 82만원”",
-          "source": "서울신문",
-          "url": "https://m.seoul.co.kr/news/2026/11/15/20261115500058"
-        },
-        {
-          "title": "\"기획부동산에 속아\"…임예진, 5000만원에 산 제주 땅 15년 만에 '80만원'",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026111609045980306"
-        }
-      ]
-    },
-    {
-      "title": "장항준",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 10:10:00 -0800",
-      "news": [
-        {
-          "title": "장항준, '왕사남' 흥행 수익 26억 스태프들과 나눴다",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202611161700574516"
-        },
-        {
-          "title": "“계약에도 없던 돈”…장항준, ‘왕사남’ 배우·스태프에 26억 쐈다",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25479103"
-        },
-        {
-          "title": "유해진·박지훈 제외..'왕사남' 장항준, 흥행 인센티브 26억 스태프에 줬다 '미담 화제' [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/MQ2TCOBQG43TKMJTG5SGEMDEME/"
-        }
-      ]
-    },
-    {
-      "title": "경비원",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 09:40:00 -0800",
-      "news": [
-        {
-          "title": "“아버지라면 당연히 그랬을 것”…이웃 구하고 떠난 70대 경비원",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713933"
-        },
-        {
-          "title": "불난 아파트 19층부터 문두드려 대피 돕던 경비원 숨져",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261116/135029032/2"
-        },
-        {
-          "title": "화재 속 주민 구한 70대 경비원…'의사자' 추진",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20261115001300038"
-        }
-      ]
-    },
-    {
-      "title": "차장",
-      "approx_traffic": "100+",
-      "published": "Mon, 16 Nov 2026 09:30:00 -0800",
-      "news": [
-        {
-          "title": "오현주 코이카 이사장 취임 \"사업수행 넘어 개발협력 미래 기획\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261116077200371"
-        },
-        {
-          "title": "“국제 개발원조도 미래 기획으로 가야”",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12095534"
-        },
-        {
-          "title": "오현주 신임 코이카 이사장 \"통합의 코이카로 재도약…상생 개발협력 실현\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261116_0003869630"
-        }
-      ]
-    },
-    {
-      "title": "robert pattinson",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 07:40:00 -0800",
-      "news": [
-        {
-          "title": "Robert Pattinson Named as the Next James Bond",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html"
-        },
-        {
-          "title": "Robert Pattinson's best James Bond-inspired suit looks over the years",
-          "source": "USA Today",
-          "url": "https://www.usatoday.com/picture-gallery/entertainment/style/2026/11/16/robert-pattinson-best-james-bond-looks-over-the-years-photos/92812735007/"
-        },
-        {
-          "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/"
-        }
-      ]
-    },
-    {
-      "title": "다시보기",
-      "approx_traffic": "100+",
-      "published": "Mon, 16 Nov 2026 07:20:00 -0800",
-      "news": [
-        {
-          "title": "[다시보기] 11월 16일 (월) 오후 사이언스 투데이",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611161604549260&s_hcd=0023"
+          "title": "민희진, 배임 혐의 공소청 송치…하이브 레이블 소송은 모두 기각",
+          "source": "한경매거진",
+          "url": "https://magazine.hankyung.com/business/article/202611160233b"
         }
       ]
     }
