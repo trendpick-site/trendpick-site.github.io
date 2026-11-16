@@ -1,17 +1,39 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-16T18:58:31+00:00",
+  "fetched_at": "2026-11-16T19:59:57+00:00",
   "items": [
     {
+      "title": "임예진",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 10:40:00 -0800",
+      "news": [
+        {
+          "title": "임예진, 5천만원에 산 제주 땅 “현재 지분 가치 82만원”",
+          "source": "서울신문",
+          "url": "https://m.seoul.co.kr/news/2026/11/15/20261115500058"
+        },
+        {
+          "title": "\"5000만원 주고 샀는데 82만원 됐다\"…배우 임예진, 15년 전 산 제주 땅, 무슨 일",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611150830151414"
+        },
+        {
+          "title": "\"기획부동산에 속아\"…임예진, 5000만원에 산 제주 땅 15년 만에 '80만원'",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026111609045980306"
+        }
+      ]
+    },
+    {
       "title": "경비원",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 16 Nov 2026 09:40:00 -0800",
       "news": [
         {
-          "title": "화재 속 주민 구한 70대 경비원…'의사자' 추진",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20261115001300038"
+          "title": "“아버지라면 당연히 그랬을 것”…이웃 구하고 떠난 70대 경비원",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713933"
         },
         {
           "title": "불난 아파트 19층부터 문두드려 대피 돕던 경비원 숨져",
@@ -19,9 +41,9 @@
           "url": "https://www.donga.com/news/Society/article/all/20261116/135029032/2"
         },
         {
-          "title": "`1명 사망·13명 부상` 광주 아파트 방화범 구속",
-          "source": "부산일보",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026111419400379116&recCode=preset&invenCode=opqrJMFB&pageSeq=ae97351e3fb5d019a261837e0f2a4a61"
+          "title": "화재 속 주민 구한 70대 경비원…'의사자' 추진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20261115001300038"
         }
       ]
     },
@@ -31,14 +53,14 @@
       "published": "Mon, 16 Nov 2026 07:40:00 -0800",
       "news": [
         {
-          "title": "Robert Pattinson Named as the Next James Bond",
+          "title": "There’s a New James Bond, Again. How Did the Last Ones Fare?",
           "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html"
+          "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html"
         },
         {
-          "title": "Amazon’s Big Week: First a New James Bond, Then Anthropic’s IPO",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-big-week-first-james-182257228.html"
+          "title": "Meet the new James Bond: Robert Pattinson",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/"
         },
         {
           "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
@@ -92,14 +114,14 @@
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753979"
         },
         {
-          "title": "경기도, 내년 국비 8841억원 추가 확보 추진…부지사 국회에 상주",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261116000545"
-        },
-        {
           "title": "MBC의 편파 왜곡 방송, 무단 침입에 대해 법적 책임을 묻겠습니다",
           "source": "경기도뉴스포털",
           "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202611161447356798C117&s_code=daily"
+        },
+        {
+          "title": "경기도, 본예산 수치로 드러난 재정난…국비 매칭과 복지 예산 ‘절반’ 육박",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261116580547"
         }
       ]
     },
@@ -133,17 +155,17 @@
         {
           "title": "“오빠 생각이 나서” 문근영, 故 김주혁과의 추억이 담긴 노래에 뭉클한 마음",
           "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC483613514"
+          "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC483613514?div=live_end"
         },
         {
-          "title": "우리들의 발라드 2 : 임바다×허채민, 짙은 호소력으로 탑백귀에게 감동 선사한 무대",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC483614081"
+          "title": "주우재, 전여친 생각하며 들었나..'플리’ 공개에 미련 뚝뚝 “누굴 기다리냐”(우발라2)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/GQ3GMMZTGY2WIMZUGU4TQMBRHE/"
         },
         {
-          "title": "변우석, ‘절친’ 주우재 밀어내려 했나 “탑백귀 자리에 앉고 싶다고”(우발라2)",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/HBSDGYTBMNTDMOJYMIYDEMZYGA/"
+          "title": "차태현·문근영, 방송 중 오열…故 김주혁 떠올린 ‘세월이 가면’ (우리들의 발라드2)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261116/135029608/1"
         }
       ]
     },
@@ -175,41 +197,19 @@
       "published": "Mon, 16 Nov 2026 06:00:00 -0800",
       "news": [
         {
-          "title": "Isparta'daki 274 TOKİ Konutu Ne Zaman Teslim Edilecek? İşte Yeni Tarih",
+          "title": "Ankara Polatlı'da 226 TOKİ Konutu İçin Kura 17 Kasım'da: Sonuçlar Nasıl Öğrenilecek?",
+          "source": "Doğayı Dinle",
+          "url": "https://www.dogayidinle.com/kentlesme/ankara-polatlida-226-toki-konutu-icin-kura-17-kasimda-sonuclar-nasil-ogrenilecek/10146"
+        },
+        {
+          "title": "TOKİ Düzce'de konut belirleme kurası tamamlandı",
+          "source": "Emlak Pencerem",
+          "url": "https://www.emlakpencerem.com.tr/toki-duzcede-konut-belirleme-kurasi-tamamlandi/117173"
+        },
+        {
+          "title": "Isparta TOKİ kura çekimi ne zaman? Aksu ve Keçiborlu TOKİ kura tarihleri açıklandı",
           "source": "Demokrat32.com",
-          "url": "https://www.demokrat32.com/ispartadaki-274-toki-konutu-ne-zaman-teslim-edilecek-iste-yeni-tarih"
-        },
-        {
-          "title": "TOKİ'den 405 konutluk dev proje!",
-          "source": "Antalya Ekspres",
-          "url": "https://www.antalyaekspres.com.tr/tokiden-405-konutluk-dev-proje"
-        },
-        {
-          "title": "Isparta'ya 405 konut, 10 dükkan ve cami geliyor! TOKİ ihale tarihini açıkladı",
-          "source": "Antalya Körfez Gazetesi",
-          "url": "https://www.antalyakorfez.com/ispartaya-405-konut-10-dukkan-ve-cami-geliyor-toki-ihale-tarihini-acikladi"
-        }
-      ]
-    },
-    {
-      "title": "한국고속철도",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 05:20:00 -0800",
-      "news": [
-        {
-          "title": "퇴역 앞둔 KTX, 고속 화물열차로 변신하나…코레일 사업화 검토",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/realestate/general/6353729"
-        },
-        {
-          "title": "퇴역 앞둔 KTX, 고속 화물열차 변신 검토",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12328254"
-        },
-        {
-          "title": "수명 다한 KTX, 화물열차로 재탄생하나 ... 고부가가치 특수 컨테이너 도입도 검토",
-          "source": "Queen 이코노미퀸",
-          "url": "https://www.queen.co.kr/news/articleView.html?idxno=466372"
+          "url": "https://www.demokrat32.com/isparta-toki-kura-cekimi-ne-zaman-aksu-ve-keciborlu-toki-kura-tarihleri-aciklandi"
         }
       ]
     }
