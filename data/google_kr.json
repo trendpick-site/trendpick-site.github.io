@@ -1,27 +1,137 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-16T19:59:57+00:00",
+  "fetched_at": "2026-11-16T20:54:31+00:00",
   "items": [
     {
-      "title": "임예진",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 10:40:00 -0800",
+      "title": "민희진",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 11:50:00 -0800",
       "news": [
         {
-          "title": "임예진, 5천만원에 산 제주 땅 “현재 지분 가치 82만원”",
-          "source": "서울신문",
-          "url": "https://m.seoul.co.kr/news/2026/11/15/20261115500058"
+          "title": "민희진, 뉴진스 계약해지 관여 '업무상배임' 혐의로 송치(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261116147651004"
         },
+        {
+          "title": "경찰, '뉴진스 계약 해지' 민희진 업무상 배임 송치",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866041_36918.html"
+        },
+        {
+          "title": "“뉴진스 계약 해지 결정에 영향력”…민희진, 업무상 배임 혐의 송치",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/society/2026/11/16/20261116500310"
+        }
+      ]
+    },
+    {
+      "title": "음주 운전",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 11:40:00 -0800",
+      "news": [
+        {
+          "title": "비비 \"고경표, 올해 안 될 수밖에 없다\"...한 달 전, 사주풀이 '깜짝' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/16/2026111608321498323"
+        },
+        {
+          "title": "경찰, 음주운전으로 청소차 들이받은 고경표 소환조사 방침",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713754"
+        },
+        {
+          "title": "고경표, 음주운전 여파에 팬미팅 취소…“실망 안겨 드리게 돼 사과”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/ZBEXEGN2QJCZDF7VUTX5J44KRU/"
+        }
+      ]
+    },
+    {
+      "title": "북한",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 11:30:00 -0800",
+      "news": [
+        {
+          "title": "통일부 “북한 조용원, 미중러회담 앞두고 방러…관련 동향 주시”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713693"
+        },
+        {
+          "title": "푸틴, '김정은 최측근' 조용원 만나…\"양국 군사적 형제애로 연결\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117005800109"
+        },
+        {
+          "title": "APEC 직전 복심 급파...북한의 노림수는 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611161028547294"
+        }
+      ]
+    },
+    {
+      "title": "독일 대 네덜란드",
+      "approx_traffic": "500+",
+      "published": "Mon, 16 Nov 2026 11:10:00 -0800",
+      "news": [
+        {
+          "title": "오렌지군단 7골 폭발…전차군단도 화력쇼",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261115105804QnZ"
+        },
+        {
+          "title": "클롭의 독일, 세르비아 3-1 제압…사비의 네덜란드는 7-0 대승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261114016200007"
+        },
+        {
+          "title": "네덜란드, 그리스 7대0 대파… 네이션스리그 8강 진출 청신호",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/14/3J7CZZTQLJDITCXIZ6SKUIBKAU/"
+        }
+      ]
+    },
+    {
+      "title": "임예진",
+      "approx_traffic": "500+",
+      "published": "Mon, 16 Nov 2026 10:40:00 -0800",
+      "news": [
         {
           "title": "\"5000만원 주고 샀는데 82만원 됐다\"…배우 임예진, 15년 전 산 제주 땅, 무슨 일",
           "source": "파이낸셜뉴스",
           "url": "https://www.fnnews.com/news/202611150830151414"
         },
         {
+          "title": "임예진, 5천만원에 산 제주 땅 “현재 지분 가치 82만원”",
+          "source": "서울신문",
+          "url": "https://m.seoul.co.kr/news/2026/11/15/20261115500058"
+        },
+        {
           "title": "\"기획부동산에 속아\"…임예진, 5000만원에 산 제주 땅 15년 만에 '80만원'",
           "source": "아시아경제",
           "url": "https://view.asiae.co.kr/article/2026111609045980306"
+        }
+      ]
+    },
+    {
+      "title": "장항준",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 10:10:00 -0800",
+      "news": [
+        {
+          "title": "장항준, '왕사남' 흥행 수익 26억 스태프들과 나눴다",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611161700574516"
+        },
+        {
+          "title": "“계약에도 없던 돈”…장항준, ‘왕사남’ 배우·스태프에 26억 쐈다",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25479103"
+        },
+        {
+          "title": "유해진·박지훈 제외..'왕사남' 장항준, 흥행 인센티브 26억 스태프에 줬다 '미담 화제' [Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/MQ2TCOBQG43TKMJTG5SGEMDEME/"
         }
       ]
     },
@@ -48,19 +158,41 @@
       ]
     },
     {
+      "title": "차장",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 09:30:00 -0800",
+      "news": [
+        {
+          "title": "오현주 코이카 이사장 취임 \"사업수행 넘어 개발협력 미래 기획\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261116077200371"
+        },
+        {
+          "title": "“국제 개발원조도 미래 기획으로 가야”",
+          "source": "www.dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12095534"
+        },
+        {
+          "title": "오현주 신임 코이카 이사장 \"통합의 코이카로 재도약…상생 개발협력 실현\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869630"
+        }
+      ]
+    },
+    {
       "title": "robert pattinson",
       "approx_traffic": "500+",
       "published": "Mon, 16 Nov 2026 07:40:00 -0800",
       "news": [
         {
-          "title": "There’s a New James Bond, Again. How Did the Last Ones Fare?",
+          "title": "Robert Pattinson Named as the Next James Bond",
           "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html"
+          "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html"
         },
         {
-          "title": "Meet the new James Bond: Robert Pattinson",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/"
+          "title": "Robert Pattinson's best James Bond-inspired suit looks over the years",
+          "source": "USA Today",
+          "url": "https://www.usatoday.com/picture-gallery/entertainment/style/2026/11/16/robert-pattinson-best-james-bond-looks-over-the-years-photos/92812735007/"
         },
         {
           "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
@@ -78,138 +210,6 @@
           "title": "[다시보기] 11월 16일 (월) 오후 사이언스 투데이",
           "source": "YTN 사이언스",
           "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611161604549260&s_hcd=0023"
-        }
-      ]
-    },
-    {
-      "title": "로버트 패틴슨",
-      "approx_traffic": "1000+",
-      "published": "Mon, 16 Nov 2026 07:10:00 -0800",
-      "news": [
-        {
-          "title": "로버트 패틴슨, 7대 제임스 본드 된다…'007시리즈' 주인공 낙점",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117002400075"
-        },
-        {
-          "title": "로버트 패틴슨, 다니엘 크레이그 이어 차기 제임스 본드로 선정",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026111700500000146"
-        },
-        {
-          "title": "\"뱀파이어에서 제임스 본드까지…\" 차기 007 유력한 로버트 패틴슨, 이유는?",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-15/202611150100098520009172"
-        }
-      ]
-    },
-    {
-      "title": "추미애",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 07:10:00 -0800",
-      "news": [
-        {
-          "title": "경기 버스 환승할인 내년 8월 폐지…추미애, 재정 쥐어짜 민생예산만 편성",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753979"
-        },
-        {
-          "title": "MBC의 편파 왜곡 방송, 무단 침입에 대해 법적 책임을 묻겠습니다",
-          "source": "경기도뉴스포털",
-          "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202611161447356798C117&s_code=daily"
-        },
-        {
-          "title": "경기도, 본예산 수치로 드러난 재정난…국비 매칭과 복지 예산 ‘절반’ 육박",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261116580547"
-        }
-      ]
-    },
-    {
-      "title": "최우제",
-      "approx_traffic": "100+",
-      "published": "Mon, 16 Nov 2026 07:00:00 -0800",
-      "news": [
-        {
-          "title": "[뉴스워커_스포츠] 롤 인벤·롤갤 뒤집은 제우스 복귀설... 정작 티원은 침묵 중",
-          "source": "뉴스워커",
-          "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=513543"
-        },
-        {
-          "title": "LCK 스토브리그 일정은?⋯코치 영입 15일ㆍ선수 FA 17일",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2647803"
-        },
-        {
-          "title": "'BLG 우승' 롤드컵 막 내렸다… 폭풍전야 LCK 스토브리그, 탑과 정글로 쏠리는 눈",
-          "source": "https://www.standingout.kr/",
-          "url": "https://www.standingout.kr/news/articleView.html?idxno=1907"
-        }
-      ]
-    },
-    {
-      "title": "김주혁",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 06:40:00 -0800",
-      "news": [
-        {
-          "title": "“오빠 생각이 나서” 문근영, 故 김주혁과의 추억이 담긴 노래에 뭉클한 마음",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC483613514?div=live_end"
-        },
-        {
-          "title": "주우재, 전여친 생각하며 들었나..'플리’ 공개에 미련 뚝뚝 “누굴 기다리냐”(우발라2)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/GQ3GMMZTGY2WIMZUGU4TQMBRHE/"
-        },
-        {
-          "title": "차태현·문근영, 방송 중 오열…故 김주혁 떠올린 ‘세월이 가면’ (우리들의 발라드2)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261116/135029608/1"
-        }
-      ]
-    },
-    {
-      "title": "드라마",
-      "approx_traffic": "10000+",
-      "published": "Mon, 16 Nov 2026 06:30:00 -0800",
-      "news": [
-        {
-          "title": "스푼랩스 ‘비글루’, AI 숏드라마 2차 공모전 연다",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261116165905"
-        },
-        {
-          "title": "\"클링 AI로 만드는 숏드라마\"…비글루, 새 IP 찾는다",
-          "source": "디지털데일리",
-          "url": "https://www.ddaily.co.kr/page/view/2026111618282434761"
-        },
-        {
-          "title": "디딤돌·미래디지털AI협회, 'AI 숏드라마 실전반 1기' 개강… AI 영상 제작 본격 실습",
-          "source": "유스연합",
-          "url": "https://www.youthassembly.kr/news/1037290"
-        }
-      ]
-    },
-    {
-      "title": "toki",
-      "approx_traffic": "100+",
-      "published": "Mon, 16 Nov 2026 06:00:00 -0800",
-      "news": [
-        {
-          "title": "Ankara Polatlı'da 226 TOKİ Konutu İçin Kura 17 Kasım'da: Sonuçlar Nasıl Öğrenilecek?",
-          "source": "Doğayı Dinle",
-          "url": "https://www.dogayidinle.com/kentlesme/ankara-polatlida-226-toki-konutu-icin-kura-17-kasimda-sonuclar-nasil-ogrenilecek/10146"
-        },
-        {
-          "title": "TOKİ Düzce'de konut belirleme kurası tamamlandı",
-          "source": "Emlak Pencerem",
-          "url": "https://www.emlakpencerem.com.tr/toki-duzcede-konut-belirleme-kurasi-tamamlandi/117173"
-        },
-        {
-          "title": "Isparta TOKİ kura çekimi ne zaman? Aksu ve Keçiborlu TOKİ kura tarihleri açıklandı",
-          "source": "Demokrat32.com",
-          "url": "https://www.demokrat32.com/isparta-toki-kura-cekimi-ne-zaman-aksu-ve-keciborlu-toki-kura-tarihleri-aciklandi"
         }
       ]
     }
