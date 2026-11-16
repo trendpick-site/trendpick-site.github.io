@@ -1,11 +1,121 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-16T08:48:47+00:00",
+  "fetched_at": "2026-11-16T10:42:58+00:00",
   "items": [
     {
-      "title": "김지수",
+      "title": "공무원",
+      "approx_traffic": "5000+",
+      "published": "Mon, 16 Nov 2026 01:30:00 -0800",
+      "news": [
+        {
+          "title": "“축구공 하나로 가까워진 두 도시”… 우정 깊어지는 평택·마쓰야마",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261116580361"
+        },
+        {
+          "title": "평택시와 마쓰야마시 공무원 교류, 스포츠로 잇고 행정으로 넓힌다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20261116003800353"
+        },
+        {
+          "title": "김해시, 日 마쓰바라시와 우호도시 교류 확대 논의",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261116500797"
+        }
+      ]
+    },
+    {
+      "title": "성과급",
+      "approx_traffic": "1000+",
+      "published": "Mon, 16 Nov 2026 01:30:00 -0800",
+      "news": [
+        {
+          "title": "월급은 3.3% 오르는데 근로소득세 40% 더 내라… 정부, 삼전닉스 성과급 가정에 기댔다 [2027 나라살림 대해부]",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026111420400003767"
+        },
+        {
+          "title": "[단상지대] 이익은 누구의 것인가",
+          "source": "영남일보",
+          "url": "https://www.yeongnam.com/web/view.php?key=20261115021402310"
+        },
+        {
+          "title": "[탁류세평] 모르는 게 약일까?",
+          "source": "고대신문",
+          "url": "https://www.kunews.ac.kr/news/articleView.html?idxno=51800"
+        }
+      ]
+    },
+    {
+      "title": "ตรวจหวย",
       "approx_traffic": "2000+",
+      "published": "Mon, 16 Nov 2026 00:40:00 -0800",
+      "news": [
+        {
+          "title": "โค้งสุดท้ายหวย \"เลขเด็ดงวดนี้\" 16/11/69 ลุ้นโชคได้ที่ไทยรัฐทีวี-ไทยรัฐออนไลน์",
+          "source": "thairath.co.th",
+          "url": "https://www.thairath.co.th/lottery/news/2972681"
+        },
+        {
+          "title": "วาสนาเศรษฐี ถูกรางวัลที่ 1 สลากดิจิทัล งวด 16 พ.ย. 69 รวม 186 ล้านบาท",
+          "source": "Sanook",
+          "url": "https://www.sanook.com/news/9912130/"
+        },
+        {
+          "title": "ชมสด! การออกผลสลากกินแบ่งรัฐบาล ประจำวันที่ 16 พฤศจิกายน 2569",
+          "source": "แนวหน้า",
+          "url": "https://www.naewna.com/n/slide-top-home/167369/"
+        }
+      ]
+    },
+    {
+      "title": "bangladesh vs south africa",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 00:10:00 -0800",
+      "news": [
+        {
+          "title": "Hridoy ton as Bangladesh reaches 327-6 on 1st day of 1st cricket test vs South Africa, Rabada 5-51",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/bangladesh-wins-toss-opts-bat-082837655.html"
+        },
+        {
+          "title": "Rabada: 'We need to be more ruthless'",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/story/sa-vs-ban-1st-test-kagiso-rabada-we-need-to-be-more-ruthless-1562805"
+        },
+        {
+          "title": "Alarms ring for Bangladesh, then South Africa on noisy first day at Wanderers",
+          "source": "Cricbuzz",
+          "url": "https://www.cricbuzz.com/cricket-news/140922/alarms-ring-for-bangladesh-then-south-africa-on-noisy-first-day-at-wanderers-cricbuzzcom"
+        }
+      ]
+    },
+    {
+      "title": "южная корея",
+      "approx_traffic": "200+",
+      "published": "Sun, 15 Nov 2026 23:50:00 -0800",
+      "news": [
+        {
+          "title": "Ирина Крайнева, «ВОЯЖТУР»: «Если Япония — светский прием, то Южная Корея — вечеринка старых друзей»",
+          "source": "Республиканский союз туристических организаций",
+          "url": "https://www.toursoyuz.by/2026/11/16/irina-krajneva-voyazhtur-yaponiya-svetskij-priem-to-koreya-vecherinka-staryh-druzej/"
+        },
+        {
+          "title": "Южная Корея в октябре 2026 г. закупила у России максимальный объем СПГ почти за 5 лет",
+          "source": "Neftegaz.RU",
+          "url": "https://neftegaz.ru/news/spg-szhizhennyy-prirodnyy-gaz/942152-yuzhnaya-koreya-v-oktyabre-2026-g-zakupila-u-rossii-maksimalnyy-obem-spg-pochti-za-5-let/"
+        },
+        {
+          "title": "Южная Корея нарастила закупки СПГ и взяла у России максимум с 2021 года",
+          "source": "oilcapital.ru",
+          "url": "https://oilcapital.ru/news/2026-11-16/yuzhnaya-koreya-narastila-zakupki-spg-i-vzyala-u-rossii-maksimum-s-2021-goda-5733200"
+        }
+      ]
+    },
+    {
+      "title": "김지수",
+      "approx_traffic": "5000+",
       "published": "Sun, 15 Nov 2026 23:40:00 -0800",
       "news": [
         {
@@ -14,20 +124,20 @@
           "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111612520380605"
         },
         {
-          "title": "김지수·유이·클라라, ‘솔로라서2’ 합류… 프라하 CEO부터 2조 흥행 배우까지 반전 일상",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261116500510"
+          "title": "[공식] 김지수, 체코 프라하서 여행사 차렸다…유이와 ‘솔로라서2’ 합류",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261116/135033317/1"
         },
         {
-          "title": "김지수, 체코 프라하서 여행사 CEO 변신…직접 가이드까지",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261116/135029575/1"
+          "title": "고경표 음주운전 파문 속…‘음주운전 2회’ 김지수 예능 복귀에 여론 냉담",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12210071"
         }
       ]
     },
     {
       "title": "신랑",
-      "approx_traffic": "5000+",
+      "approx_traffic": "10000+",
       "published": "Sun, 15 Nov 2026 23:40:00 -0800",
       "news": [
         {
@@ -41,15 +151,15 @@
           "url": "https://www.wikitree.co.kr/articles/1175001"
         },
         {
-          "title": "하정우, 결혼 한 달 앞두고 확 달라졌다…“살 많이 빠졌네”",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261109502145"
+          "title": "걸그룹·야구선수 부부 탄생…배드키즈 연지, 강동연과 12월 결혼",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12209857"
         }
       ]
     },
     {
       "title": "캄보디아",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 15 Nov 2026 23:40:00 -0800",
       "news": [
         {
@@ -80,9 +190,9 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-stocks-rise-foreign-buyers-194545026.html"
         },
         {
-          "title": "Hanwha Investment recommends buying Samsung Electronics in stages from 178,000 won",
-          "source": "헤럴드경제",
-          "url": "https://mbiz.heraldcorp.com/article/10929187"
+          "title": "Samsung Electronics (KOSE:A005930) Stock Dropped, So What Is Driving Attention Today?",
+          "source": "Simply Wall St",
+          "url": "https://simplywall.st/stocks/kr/tech/kose-a005930/samsung-electronics-shares/news/samsung-electronics-kosea005930-stock-dropped-so-what-is-dri"
         },
         {
           "title": "Samsung Tokenized Stock Holds $139.71 Support As Binance Open Interest Climbs 10.50%",
@@ -93,7 +203,7 @@
     },
     {
       "title": "검찰",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Sun, 15 Nov 2026 23:30:00 -0800",
       "news": [
         {
@@ -110,116 +220,6 @@
           "title": "검찰 직접수사 유예기간 45일…공소청, 미이관 주요 사건 처리 속도전",
           "source": "더퍼블릭",
           "url": "https://www.thepublic.kr/news/articleView.html?idxno=326907"
-        }
-      ]
-    },
-    {
-      "title": "박지윤",
-      "approx_traffic": "200+",
-      "published": "Sun, 15 Nov 2026 23:20:00 -0800",
-      "news": [
-        {
-          "title": "'박지윤 남사친'에 상간 소송...최동석, 1심 뒤집고 일부 승소 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/16/2026111615464396280"
-        },
-        {
-          "title": "최동석, 박지윤 지인 상대 상간 소송 항소심 일부 승소",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111695337"
-        },
-        {
-          "title": "[속보]'이혼 갈등' 최동석, 박지윤 지인 상대 상간 소송 이겼다",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/star/2026/11/16/2026111614080163324"
-        }
-      ]
-    },
-    {
-      "title": "(주)명륜당",
-      "approx_traffic": "100+",
-      "published": "Sun, 15 Nov 2026 23:20:00 -0800",
-      "news": [
-        {
-          "title": "서울중수청, 명륜당 본사 압수수색…대부업체 부당 지원 의혹",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12328220"
-        },
-        {
-          "title": "[속보]서울중수청, ‘대부업체 부당지원 의혹’ 명륜진사갈비 압수수색",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611161016001"
-        },
-        {
-          "title": "중수청, '내부거래 의혹' 명륜당 본사 압수수색",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865933_36918.html"
-        }
-      ]
-    },
-    {
-      "title": "tvn",
-      "approx_traffic": "100+",
-      "published": "Sun, 15 Nov 2026 23:10:00 -0800",
-      "news": [
-        {
-          "title": "PILNE! Odnaleziono ciało w miejscu poszukiwań",
-          "source": "UWAGA! TVN",
-          "url": "https://uwaga.tvn.pl/najnowsze/pilne-odnaleziono-cialo-w-miejscu-poszukiwan-st9339698"
-        },
-        {
-          "title": "Program tv dla Dzień Dobry TVN",
-          "source": "Pilot WP",
-          "url": "https://pilot.wp.pl/program-tv/program/dzien-dobry-tvn-8dda871655d0c00a0c43f92072c84058"
-        },
-        {
-          "title": "Dzień Dobry TVN",
-          "source": "Pilot WP",
-          "url": "https://pilot.wp.pl/vod/kanaly-tv,34/tvn-style,8403/2026-11-17/dzien-dobry-tvn,9987944"
-        }
-      ]
-    },
-    {
-      "title": "뉴스",
-      "approx_traffic": "5000+",
-      "published": "Sun, 15 Nov 2026 23:00:00 -0800",
-      "news": [
-        {
-          "title": "[뉴스포커스] 11월1６일 다시보기",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116141042CpO"
-        },
-        {
-          "title": "뉴스투데이│2026년 11월 16일 (월)",
-          "source": "제주MBC",
-          "url": "https://jejumbc.com/NewsArticle/873426"
-        },
-        {
-          "title": "2026년 11월 16일 주간 – 2026년 11월 22일 주간",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/tuan-16-11-2026-22-11-2026"
-        }
-      ]
-    },
-    {
-      "title": "검사",
-      "approx_traffic": "500+",
-      "published": "Sun, 15 Nov 2026 23:00:00 -0800",
-      "news": [
-        {
-          "title": "[단독]與TF, 새 형소법 40여일만에 ‘경찰 모든 수사기록 검사에 전달’ 검토",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261116/135028760/2"
-        },
-        {
-          "title": "검찰 수사권 폐지하더니…與, '경찰 모든 수사기록 검사에 전달' 논의",
-          "source": "TV조선뉴스",
-          "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/16/2026111690083.html"
-        },
-        {
-          "title": "與경찰개혁TF, 경찰 수사기록 전부 '공소청 검토' 추진…경찰대 폐지도 공감대",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/politics/assembly/6354803"
         }
       ]
     }
