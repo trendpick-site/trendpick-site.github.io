@@ -1,34 +1,56 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-17T18:32:33+00:00",
+  "fetched_at": "2026-11-17T19:42:10+00:00",
   "items": [
     {
-      "title": "데블스플랜",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 09:10:00 -0800",
+      "title": "gta6",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 10:20:00 -0800",
       "news": [
         {
-          "title": "정현규, 비난 여론 딛고 '데블스플랜' 새 시즌 합류하더니 공황으로 중도 하차",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020407"
+          "title": "GTA 6 New Zealand time trick for Xbox, PS5: How to play hours early",
+          "source": "Mashable",
+          "url": "https://mashable.com/entertainment/gta-6-new-zealand-time-trick-xbox-ps5"
         },
         {
-          "title": "정현규, 공황 증상으로 '데블스 플랜3' 하차 \"극복했다 생각\"",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525195"
+          "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
+          "source": "XBOX Wire",
+          "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
         },
         {
-          "title": "데블스플랜 정현규 공황으로 하차, 괜찮을 줄 알았는데 아니었다…퇴소 후 공개한 현재 건강 상태와 마지막 고백",
-          "source": "Naver Blog",
-          "url": "https://blog.naver.com/PostView.naver?blogId=yooju0913&logNo=224481199187&redirect=Dlog"
+          "title": "Xfinity Gives Gamers a Free 15-Day WiFi Speed Boost for the Highly Anticipated Grand Theft Auto VI Launch",
+          "source": "Comcast Corporation",
+          "url": "https://corporate.comcast.com/press/releases/xfinity-gives-gamers-a-free-15-day-wifi-speed-increase-for-the-highly-anticipated-grand-theft-auto-vi-launch"
         }
       ]
     },
     {
-      "title": "데블스플랜3",
+      "title": "애플",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 09:30:00 -0800",
+      "news": [
+        {
+          "title": "[단독]카카오뱅크, 애플페이 서비스 시작",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261116000304"
+        },
+        {
+          "title": "카뱅 이어 토스뱅크도 연내 애플페이 출시…카드사 진입 포문 열리나",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445087"
+        },
+        {
+          "title": "카드업권, 애플페이 인뱅 진출에도 머뭇…삼성페이 '눈치'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117137300002"
+        }
+      ]
+    },
+    {
+      "title": "데블스플랜",
       "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 08:20:00 -0800",
+      "published": "Tue, 17 Nov 2026 09:10:00 -0800",
       "news": [
         {
           "title": "‘데블스 플랜3’ 5회 만에 7명 탈락...판 뒤집을 유배지 등장",
@@ -41,15 +63,15 @@
           "url": "https://news.tf.co.kr/read/entertain/2389546.htm"
         },
         {
-          "title": "????: 장동민이 누군데??ㅣ⚠️무단복제·재가공 엄금 #데블스플랜3 #장동민 #홍진호 #정현규",
-          "source": "K-VIBE",
-          "url": "https://korean-vibe.com/article/179586602921155"
+          "title": "‘서바이벌 제왕’ 장동민, ‘데블스플랜3’ 재재 활약 극찬 “조만간 러브콜 보낼 것”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611121638003"
         }
       ]
     },
     {
       "title": "탄도 미사일",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Tue, 17 Nov 2026 07:50:00 -0800",
       "news": [
         {
@@ -66,6 +88,28 @@
           "title": "\"북한, 한 달 수십 발씩 러시아에 탄도미사일 제공…미사일 성능 갈고 닦아\"",
           "source": "조선일보",
           "url": "https://www.chosun.com/international/international_general/2026/11/17/ZN7KQ3MVTRBQDFLCF4JHHPYDJY/"
+        }
+      ]
+    },
+    {
+      "title": "mbk파트너스",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 07:30:00 -0800",
+      "news": [
+        {
+          "title": "회수부터 투자까지…MBK SS, 신규 펀드레이징 배경은",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/Read?newsId=04149206645646704"
+        },
+        {
+          "title": "MBK파트너스, 2026 연차총회 개최…내년 해외투자 적극 확대",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117056600008"
+        },
+        {
+          "title": "한국 노인 2050년 39.7%...MBK \"고령화사회 필요섹터에 투자하겠다\"",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611171054413817"
         }
       ]
     },
@@ -92,6 +136,28 @@
       ]
     },
     {
+      "title": "서울경제",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 07:00:00 -0800",
+      "news": [
+        {
+          "title": "일본 경유하려다 ‘날벼락’ 맞을 수도…“이것 없인 비행기 못 탄다” 대체 무슨 제도길래",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20114910"
+        },
+        {
+          "title": "日, 2028년부터 일부 환승객도 전자여행허가 추진…인천공항과 허브 경쟁 변수",
+          "source": "메디컬투데이",
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625420"
+        },
+        {
+          "title": "日, 입국 안 하는 환승객도 사전 인증 추진…항공업계 우려",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869538"
+        }
+      ]
+    },
+    {
       "title": "헝거게임",
       "approx_traffic": "100+",
       "published": "Tue, 17 Nov 2026 07:00:00 -0800",
@@ -114,24 +180,24 @@
       ]
     },
     {
-      "title": "한국",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 06:50:00 -0800",
+      "title": "친선경기",
+      "approx_traffic": "1000+",
+      "published": "Tue, 17 Nov 2026 06:40:00 -0800",
       "news": [
         {
-          "title": "트럼프 “한국 투자 덕에 알래스카 LNG 파이프라인 사업 승인”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715573"
+          "title": "콜롬비아, 칠레와 친선 경기…수아레스, 마리판·울로아와 공 다툼",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752319"
         },
         {
-          "title": "트럼프 \"한국 투자 덕에 알래스카 LNG 사업 승인\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/18/2026111800590440197"
+          "title": "칠레 vs 콜롬비아 친선 경기 예측 - 국제 친선 경기",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-chile-vs-colombia-giao-huu-dtqg-friendlies"
         },
         {
-          "title": "트럼프, 이 대통령 앞 “韓 투자 덕 알래스카 LNG 사업승인” 주장",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261117070813073"
+          "title": "콜롬비아 대 칠레 경기 예측: 예측하기 어려운 경기",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-colombia-vs-chile-cuoc-doi-dau-kho-phan-dinh"
         }
       ]
     },
@@ -154,72 +220,6 @@
           "title": "‘가요무대’ 가수 김범룡·신승태·신유 등 “이름 모를 소녀” 가을에 떠난 사람",
           "source": "톱스타뉴스",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16277350"
-        }
-      ]
-    },
-    {
-      "title": "포스코홀딩스",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 06:20:00 -0800",
-      "news": [
-        {
-          "title": "포스코인터내셔널, 거대 분지에서 끌어올린 '천연가스 잭팟'…파이프라인서 2000억 쏟아졌다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111710841"
-        },
-        {
-          "title": "장인화의 '선택과 집중' 통했다 … 2.2조 실탄 확보하고 리튬은 8년만에 흑자 전환",
-          "source": "뉴데일리 경제",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/11/2026111100053.html"
-        },
-        {
-          "title": "[현장] 전기로로 저탄소 쇳물 생산…전지소재·희귀가스 공급망도 지킨다",
-          "source": "기후에너지데이터뱅크",
-          "url": "https://edata.ekn.kr/article/view/ekn202611100004"
-        }
-      ]
-    },
-    {
-      "title": "상주 지진",
-      "approx_traffic": "20000+",
-      "published": "Tue, 17 Nov 2026 06:00:00 -0800",
-      "news": [
-        {
-          "title": "경북 상주 규모 3.6 지진…유감 신고 16건",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715579"
-        },
-        {
-          "title": "원안위 \"상주 인근 규모 3.6 지진, 원자로 안전에 영향 없어\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118002600017"
-        },
-        {
-          "title": "[속보] 기상청 \"경북 상주 북서쪽서 규모 3.7 지진 발생\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111731047"
-        }
-      ]
-    },
-    {
-      "title": "mbc",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 06:00:00 -0800",
-      "news": [
-        {
-          "title": "بدء عرض الموسم الجديد من توب شيف مطلع ديسمبر المقبل باشتراك نجوم الوطن العربي",
-          "source": "بوابة الشروق",
-          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=15112026&id=1c40ef7d-5f0d-4f0b-bf2a-5e9715d9f868"
-        },
-        {
-          "title": "موعد عرض توب شيف الموسم العاشر 2026.. انطلاق Top Chef VIP بمشاركة نجوم الفن",
-          "source": "شبكة رؤية الإخبارية",
-          "url": "https://roayahnews.com/%D9%85%D9%88%D8%B9%D8%AF-%D8%B9%D8%B1%D8%B6-%D8%AA%D9%88%D8%A8-%D8%B4%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D8%B1-2026-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82/"
-        },
-        {
-          "title": "بمشاركة نجوم الوطن العربي.. MBC تعلن موعد عرض الموسم الجديد من «توب شيف»",
-          "source": "المصري اليوم",
-          "url": "https://www.almasryalyoum.com/news/details/4412587"
         }
       ]
     }
