@@ -1,8 +1,162 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-17T14:27:19+00:00",
+  "fetched_at": "2026-11-17T15:30:27+00:00",
   "items": [
+    {
+      "title": "포스코홀딩스",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 06:20:00 -0800",
+      "news": [
+        {
+          "title": "[한국의 CISO-권력지도] 포스코, '이사회 보고체계' 취약…포스코홀딩스 최하점",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2rTUAMb0dG"
+        },
+        {
+          "title": "포스코인터내셔널, 거대 분지에서 끌어올린 '천연가스 잭팟'…파이프라인서 2000억 쏟아졌다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111710841"
+        },
+        {
+          "title": "장인화 “기술력이 성과 원동력”…‘트리플코어’ 역량 강화 주문",
+          "source": "뉴스토마토",
+          "url": "https://www.newstomato.com/readnews.aspx?no=1320059"
+        }
+      ]
+    },
+    {
+      "title": "김다현",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 06:20:00 -0800",
+      "news": [
+        {
+          "title": "'가요무대' 김다현·빈예서 듀엣부터 배아현·신유·신승태까지 총출동",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753917"
+        },
+        {
+          "title": "‘가요무대’ 미스김 ‘황홀무대’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611171459003"
+        },
+        {
+          "title": "‘가요무대’ 가수 김범룡·신승태·신유 등 “이름 모를 소녀” 가을에 떠난 사람",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16277350"
+        }
+      ]
+    },
+    {
+      "title": "포항 지진",
+      "approx_traffic": "10000+",
+      "published": "Tue, 17 Nov 2026 06:10:00 -0800",
+      "news": [
+        {
+          "title": "\"우리 노력은 11만 원짜리?\" 6개월 전부터 경고했는데‥'뒷북 대응'에 분노",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866391_37004.html"
+        },
+        {
+          "title": "이 대통령 \"수능 공정성·신뢰 흔들려선 안 돼\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611180001168RL"
+        },
+        {
+          "title": "\"AI 부정행위 우려\" 수험생, 헌재에 19일 수능 효력정지 신청",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117167700004"
+        }
+      ]
+    },
+    {
+      "title": "지진",
+      "approx_traffic": "20000+",
+      "published": "Tue, 17 Nov 2026 06:00:00 -0800",
+      "news": [
+        {
+          "title": "[속보] 기상청 \"경북 상주 북서쪽서 규모 3.7 지진 발생\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111731047"
+        },
+        {
+          "title": "[속보] 경북 상주시 북서쪽 22km 지역서 규모 3.7 지진 발생",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755162"
+        },
+        {
+          "title": "수능 연기 가능성 재부상... 수능 앞두고 규모 3.7 지진 발생",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1193826"
+        }
+      ]
+    },
+    {
+      "title": "mbc",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 06:00:00 -0800",
+      "news": [
+        {
+          "title": "بدء عرض الموسم الجديد من توب شيف مطلع ديسمبر المقبل باشتراك نجوم الوطن العربي",
+          "source": "بوابة الشروق",
+          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=15112026&id=1c40ef7d-5f0d-4f0b-bf2a-5e9715d9f868"
+        },
+        {
+          "title": "بمشاركة نجوم الوطن العربي.. MBC تعلن موعد عرض الموسم الجديد من «توب شيف»",
+          "source": "المصري اليوم",
+          "url": "https://www.almasryalyoum.com/news/details/4412587"
+        },
+        {
+          "title": "MBC تكشف موعد عرض «توب شيف VIP» بمشاركة نجوم الفن العربي",
+          "source": "شبكة تواصل الإخبارية",
+          "url": "https://twaslnews1.twaslnews.com/7826033/"
+        }
+      ]
+    },
+    {
+      "title": "일본 파라과이",
+      "approx_traffic": "500+",
+      "published": "Tue, 17 Nov 2026 05:40:00 -0800",
+      "news": [
+        {
+          "title": "[광화문에서/정윤철]길어진 축구 수장 공백… 침묵 깨고 해법 찾아야",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261117/135042607/2"
+        },
+        {
+          "title": "\"이제 한일전은 무의미하다\"… 日 브라질전 설욕에 엇갈린 한·일 반응",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/11/15/QADTHZ6QXZARFCXRTIRW3LYDS4/"
+        },
+        {
+          "title": "일본은 브라질 꺾었는데‥'모레노호, 마지막 반등 이뤄낼까'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865821_37004.html"
+        }
+      ]
+    },
+    {
+      "title": "권고",
+      "approx_traffic": "1000+",
+      "published": "Tue, 17 Nov 2026 05:30:00 -0800",
+      "news": [
+        {
+          "title": "PHP 이어 '자바'서도 치명적 취약점…공공·기업 보안 비상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117174400017"
+        },
+        {
+          "title": "방화벽이 침투 통로로... 이스라엘 기관, 체크포인트 장비 뚫려 서버 파일까지 삭제",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147277"
+        },
+        {
+          "title": "PHP 이어 ‘자바’서도 보안 결함…공공·기업 보안 비상",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20115665"
+        }
+      ]
+    },
     {
       "title": "lg그룹",
       "approx_traffic": "500+",
@@ -31,14 +185,14 @@
       "published": "Tue, 17 Nov 2026 05:10:00 -0800",
       "news": [
         {
-          "title": "Sudurpashchim sets 106-run target for Lumbini in NPL qualifier",
-          "source": "Nepalnews.com",
-          "url": "https://english.nepalnews.com/s/sports/sudurpashchim-sets-106-run-target-for-lumbini-in-npl-qualifier/"
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+          "source": "Cricbuzz",
+          "url": "https://m.cricbuzz.com/player-match-performance/match/177813/player/12140/batting?inningsId=2"
         },
         {
-          "title": "Sudurpaschim, Lumbini face off for first final spot in NPL 3",
-          "source": "The Annapurna Express",
-          "url": "https://theannapurnaexpress.com/story/68808/"
+          "title": "Lumbini Lions Reach Final of Nepal Premier League",
+          "source": "Ratopati",
+          "url": "https://english.ratopati.com/story/87032/lumbini-advances-to-finals-after-defeating-sudur"
         },
         {
           "title": "NPL Playoff equation: Lumbini to face Sudurpaschim in qualifier 1, Chitwan to take on Kathmandu in eliminator",
@@ -53,173 +207,19 @@
       "published": "Tue, 17 Nov 2026 05:10:00 -0800",
       "news": [
         {
-          "title": "Bowlers eye more assistance from Sharjah pitch after runathon in first Test",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/afghanistan-v-zimbabwe-2026-27-1555105/afghanistan-vs-zimbabwe-2nd-test-1555124/match-preview"
-        },
-        {
-          "title": "Chevrons on the cusp of victory",
-          "source": "Herald.co.zw",
-          "url": "https://www.heraldonline.co.zw/chevrons-on-the-cusp-of-victory/"
-        },
-        {
           "title": "Afghanistan vs Zimbabwe 2nd Test Day 5 live streaming, scores and match updates",
           "source": "Cricket World",
           "url": "https://www.cricketworld.com/afghanistan-vs-zimbabwe-2nd-test-day-5-live-streaming-scores-and-match-updates/114381.htm"
-        }
-      ]
-    },
-    {
-      "title": "t1",
-      "approx_traffic": "2000+",
-      "published": "Tue, 17 Nov 2026 05:00:00 -0800",
-      "news": [
-        {
-          "title": "TenZ returns: T1 bring the VALORANT legend back for 2027",
-          "source": "Red Bull",
-          "url": "https://www.redbull.com/bg-bg/tenz-joins-t1-valorant-2027"
         },
         {
-          "title": "Sacy on joining T1: “I’m basically here because of my dad”",
-          "source": "Pley.gg",
-          "url": "https://pley.gg/valorant/sacy-on-joining-t1-im-basically-here-because-of-my-dad/"
+          "title": "Zimbabwe clinch thriller against Afghanistan to seal Test series",
+          "source": "ICC",
+          "url": "https://www.icc-cricket.com/news/zimbabwe-clinch-thriller-against-afghanistan-to-seal-test-series"
         },
         {
-          "title": "T1 Signs TenZ Out of Retirement for VCT Pacific 2027",
-          "source": "RG.org",
-          "url": "https://rg.org/news/esports/t1-brings-tenz-out-of-retirement-vct-pacific-2027"
-        }
-      ]
-    },
-    {
-      "title": "미사일",
-      "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 05:00:00 -0800",
-      "news": [
-        {
-          "title": "젤렌스키 \"더 많은 北미사일 러에 공급‥韓주변에 도전 과제\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6866144_36925.html"
-        },
-        {
-          "title": "“매달 수십 발씩 러시아에 공급”…우크라전 겪으며 진화하는 北 미사일의 공포 [밀리터리노트]",
-          "source": "서울Pn",
-          "url": "https://m.go.seoul.co.kr/news/international/europe/2026/11/17/20261117500289"
-        },
-        {
-          "title": "\"북한, 한 달 수십 발씩 러시아에 탄도미사일 제공…미사일 성능 갈고 닦아\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/11/17/ZN7KQ3MVTRBQDFLCF4JHHPYDJY/"
-        }
-      ]
-    },
-    {
-      "title": "배정혜",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 04:50:00 -0800",
-      "news": [
-        {
-          "title": "원로 무용가 배정혜 리틀엔젤스예술단 명예예술감독 별세",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/People/article/all/20261117/135040268/1"
-        },
-        {
-          "title": "“나는 지금도 무대 막이 열릴 때 죽을 것처럼 떨려요” ‘한국 창작춤의 선구자’ 배정혜 무용가 별세",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261117509155"
-        },
-        {
-          "title": "'한국 창작춤 선구자' 원로 안무가 배정혜, 향년 82세로 별세(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117065951005"
-        }
-      ]
-    },
-    {
-      "title": "가덕도신공항",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 04:40:00 -0800",
-      "news": [
-        {
-          "title": "국힘 부산시당, 내일 가덕도신공항 공사비 현실화 간담회",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261116121000051"
-        },
-        {
-          "title": "국힘, 가덕 공사비 현실화 특별법 개정 동참",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261118.22005005299"
-        },
-        {
-          "title": "특별법에 가덕 공사비 증액 강제 규정 담은 국토부…여야 공동발의 ‘급물살’",
-          "source": "부산일보",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026111715295309559"
-        }
-      ]
-    },
-    {
-      "title": "최저임금",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 04:20:00 -0800",
-      "news": [
-        {
-          "title": "고령화에 일손 부족한 일본…아르바이트 평균시급 역대최고 경신",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117103200009"
-        },
-        {
-          "title": "[특파원 칼럼/황인찬]‘인구 절반 50세 이상’ 日이 먼저 맞은 위기",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261115/135028839/2"
-        },
-        {
-          "title": "\"시급 1만2000원 줘도 사람 없다\"…日 알바 시급 '역대 최고'",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026111715160340910"
-        }
-      ]
-    },
-    {
-      "title": "디지털 자산",
-      "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 04:10:00 -0800",
-      "news": [
-        {
-          "title": "빗썸 매출 99.99%가 수수료 수입…두나무와 격차 확대",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117085400002"
-        },
-        {
-          "title": "두나무, 3분기 영업손실 35억원⋯코인거래 위축에 적자 전환",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611161655198Qh"
-        },
-        {
-          "title": "기약없는 디지털자산법에… 국내 톱2 거래소, 거래절벽 신음",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001202"
-        }
-      ]
-    },
-    {
-      "title": "비니시우스 주니오르",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 04:00:00 -0800",
-      "news": [
-        {
-          "title": "'레알서 12경기 1골 극도의 부진' 비니시우스 또 핑계 댄다 \"아스날 이적설 때문에 부담감 컸다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/17/202611171835775620O"
-        },
-        {
-          "title": "브라질 비니시우스가 밝힌 부진 이유…\"월드컵 탈락 충격\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261117_0003872197"
-        },
-        {
-          "title": "브라질 특급 재능 드디어 입 열었다! 부진한 이유 \"많은 구단 관심에 부담...압도당하는 기분\"",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553709265"
+          "title": "Taylor Fifty Keeps Zimbabwe In Control Despite Late Wobble",
+          "source": "Telecom Asia Sport",
+          "url": "https://www.telecomasia.net/blog/taylor-fifty-keeps-zimbabwe-in-control-despite-late-wobble/"
         }
       ]
     }
