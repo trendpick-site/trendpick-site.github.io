@@ -1,27 +1,71 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-17T19:42:10+00:00",
+  "fetched_at": "2026-11-17T20:31:18+00:00",
   "items": [
+    {
+      "title": "경찰",
+      "approx_traffic": "10000+",
+      "published": "Tue, 17 Nov 2026 11:20:00 -0800",
+      "news": [
+        {
+          "title": "\"이렇게까지 한다고?\" 웃음보인 장관‥\"믿음 깨져\" 냉소 속출",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866389_37004.html"
+        },
+        {
+          "title": "당정, '수능 AI 부정행위' 대책 협의회…입법 과제 등 논의",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117175800001"
+        },
+        {
+          "title": "\"수능날 10.5초\" 재난문자 끄면?…수험생 필수 유의사항",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12328521"
+        }
+      ]
+    },
+    {
+      "title": "국제 통화 기금",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 11:20:00 -0800",
+      "news": [
+        {
+          "title": "IMF, 올해 우리나라 성장률 3.9% 전망…내년엔 3.3%",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975912"
+        },
+        {
+          "title": "IMF, 올해 경제 성장률 3.9%로 상향…’통화 긴축’ 주문",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261118044902M56"
+        },
+        {
+          "title": "기자 질문 받는 코린 들레샤 단장",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261117_0021535578"
+        }
+      ]
+    },
     {
       "title": "gta6",
       "approx_traffic": "200+",
       "published": "Tue, 17 Nov 2026 10:20:00 -0800",
       "news": [
         {
-          "title": "GTA 6 New Zealand time trick for Xbox, PS5: How to play hours early",
-          "source": "Mashable",
-          "url": "https://mashable.com/entertainment/gta-6-new-zealand-time-trick-xbox-ps5"
-        },
-        {
           "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
           "source": "XBOX Wire",
           "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
         },
         {
-          "title": "Xfinity Gives Gamers a Free 15-Day WiFi Speed Boost for the Highly Anticipated Grand Theft Auto VI Launch",
-          "source": "Comcast Corporation",
-          "url": "https://corporate.comcast.com/press/releases/xfinity-gives-gamers-a-free-15-day-wifi-speed-increase-for-the-highly-anticipated-grand-theft-auto-vi-launch"
+          "title": "When will 'GTA 6' be available on Xbox Game Pass and Cloud Gaming?",
+          "source": "Mashable",
+          "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-xbox-game-pass-cloud-gaming"
+        },
+        {
+          "title": "Pre-load Grand Theft Auto VI on PS5 starting today",
+          "source": "PlayStation.Blog",
+          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
         }
       ]
     },
@@ -36,58 +80,58 @@
           "url": "https://www.etnews.com/20261116000304"
         },
         {
-          "title": "카뱅 이어 토스뱅크도 연내 애플페이 출시…카드사 진입 포문 열리나",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445087"
-        },
-        {
           "title": "카드업권, 애플페이 인뱅 진출에도 머뭇…삼성페이 '눈치'",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261117137300002"
+        },
+        {
+          "title": "카뱅 이어 토스뱅크도 연내 애플페이 출시…카드사 진입 포문 열리나",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445087"
         }
       ]
     },
     {
       "title": "데블스플랜",
-      "approx_traffic": "1000+",
+      "approx_traffic": "200+",
       "published": "Tue, 17 Nov 2026 09:10:00 -0800",
       "news": [
         {
-          "title": "‘데블스 플랜3’ 5회 만에 7명 탈락...판 뒤집을 유배지 등장",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12210932"
+          "title": "정현규, 공황 증상으로 '데블스 플랜3' 하차 \"극복했다 생각\"",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525195"
         },
+        {
+          "title": "정현규, 비난 여론 딛고 '데블스플랜' 새 시즌 합류하더니 공황으로 중도 하차",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020407"
+        },
+        {
+          "title": "데블스플랜 정현규 공황으로 하차, 괜찮을 줄 알았는데 아니었다…퇴소 후 공개한 현재 건강 상태와 마지막 고백",
+          "source": "Naver Blog",
+          "url": "https://blog.naver.com/PostView.naver?blogId=yooju0913&logNo=224481199187&redirect=Dlog"
+        }
+      ]
+    },
+    {
+      "title": "데블스플랜3",
+      "approx_traffic": "1000+",
+      "published": "Tue, 17 Nov 2026 08:20:00 -0800",
+      "news": [
         {
           "title": "[TF초점] '데블스 플랜3', 5회 만에 빠져든 두뇌 싸움…역시 근본 조합",
           "source": "더팩트",
           "url": "https://news.tf.co.kr/read/entertain/2389546.htm"
         },
         {
-          "title": "‘서바이벌 제왕’ 장동민, ‘데블스플랜3’ 재재 활약 극찬 “조만간 러브콜 보낼 것”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611121638003"
-        }
-      ]
-    },
-    {
-      "title": "탄도 미사일",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 07:50:00 -0800",
-      "news": [
-        {
-          "title": "젤렌스키 \"더 많은 北미사일 러에 공급‥韓주변에 도전 과제\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6866144_36925.html"
+          "title": "????: 장동민이 누군데??ㅣ⚠️무단복제·재가공 엄금 #데블스플랜3 #장동민 #홍진호 #정현규",
+          "source": "K-VIBE",
+          "url": "https://korean-vibe.com/article/179586602921155"
         },
         {
-          "title": "“매달 수십 발씩 러시아에 공급”…우크라전 겪으며 진화하는 北 미사일의 공포 [밀리터리노트]",
-          "source": "서울Pn",
-          "url": "https://m.go.seoul.co.kr/news/international/europe/2026/11/17/20261117500289"
-        },
-        {
-          "title": "\"북한, 한 달 수십 발씩 러시아에 탄도미사일 제공…미사일 성능 갈고 닦아\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/11/17/ZN7KQ3MVTRBQDFLCF4JHHPYDJY/"
+          "title": "‘데블스 플랜3’ 5회 만에 7명 탈락...판 뒤집을 유배지 등장",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12210932"
         }
       ]
     },
@@ -176,50 +220,6 @@
           "title": "‘헝거게임 50번째 추첨의 날’, 개봉 외화 예매율 1위…18일 출격",
           "source": "스포츠월드",
           "url": "https://www.sportsworldi.com/newsView/20261116519561"
-        }
-      ]
-    },
-    {
-      "title": "친선경기",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 06:40:00 -0800",
-      "news": [
-        {
-          "title": "콜롬비아, 칠레와 친선 경기…수아레스, 마리판·울로아와 공 다툼",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752319"
-        },
-        {
-          "title": "칠레 vs 콜롬비아 친선 경기 예측 - 국제 친선 경기",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-chile-vs-colombia-giao-huu-dtqg-friendlies"
-        },
-        {
-          "title": "콜롬비아 대 칠레 경기 예측: 예측하기 어려운 경기",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-colombia-vs-chile-cuoc-doi-dau-kho-phan-dinh"
-        }
-      ]
-    },
-    {
-      "title": "김다현",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 06:20:00 -0800",
-      "news": [
-        {
-          "title": "'가요무대' 김다현·빈예서 듀엣부터 배아현·신유·신승태까지 총출동",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753917"
-        },
-        {
-          "title": "‘가요무대’ 미스김 ‘황홀무대’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611171459003"
-        },
-        {
-          "title": "‘가요무대’ 가수 김범룡·신승태·신유 등 “이름 모를 소녀” 가을에 떠난 사람",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16277350"
         }
       ]
     }
