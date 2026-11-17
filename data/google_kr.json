@@ -1,220 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-16T23:47:57+00:00",
+  "fetched_at": "2026-11-17T01:14:32+00:00",
   "items": [
     {
-      "title": "mu",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 14:30:00 -0800",
-      "news": [
-        {
-          "title": "Micron Stock: Why Strong Memory Prices May Count for Nothing",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/articles/micron-stock-price-memory-chips-429adf7e"
-        },
-        {
-          "title": "$Micron Tech(MU.US)Micron pulled back toward the $761–$778…",
-          "source": "Longbridge",
-          "url": "https://longbridge.com/topics/100000000989400"
-        },
-        {
-          "title": "Sandisk, Micron, and SK Hynix Slide 3% as NVIDIA Shake-Up Hits Memory Stocks",
-          "source": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/11/12/sandisk-micron-and-sk-hynix-slide-3-as-nvidia-shake-up-hits-memory-stocks/"
-        }
-      ]
-    },
-    {
-      "title": "nvda",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 14:20:00 -0800",
-      "news": [
-        {
-          "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-          "source": "Financial Times",
-          "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1"
-        },
-        {
-          "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cry49plv8v3go"
-        },
-        {
-          "title": "Lies, spies and sex are just one part of the Nvidia story. The real stakes are much bigger",
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/11/16/tech/nvidia-sex-spies-serious-problems"
-        }
-      ]
-    },
-    {
-      "title": "앤트로픽 상장일",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 14:20:00 -0800",
-      "news": [
-        {
-          "title": "121조 노리는 앤트로픽 IPO...중국·홍콩 기관투자자 청약 배제",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611161600490528"
-        },
-        {
-          "title": "美 로펌 앤트로픽 지분 받아 ‘잭팟’… “돈 대신 주식 달라” 국내도 확산",
-          "source": "법률신문",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229146"
-        },
-        {
-          "title": "몸값 1.4조달러 노리는 앤스로픽…'클로드'로 얼마나 벌까",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01131606645646704"
-        }
-      ]
-    },
-    {
-      "title": "환승",
-      "approx_traffic": "1000+",
-      "published": "Mon, 16 Nov 2026 14:00:00 -0800",
-      "news": [
-        {
-          "title": "경기 버스 환승할인비 내년 8개월치만 담아…추미애, 재정 쥐어짜 민생예산 편성",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753979"
-        },
-        {
-          "title": "경기도, MBC 예산 보도 반박…조정 신청·고발 예고",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722180"
-        },
-        {
-          "title": "[브리핑 하이라이트] 2027년 본예산안 편성 관련 기자회견",
-          "source": "경기도뉴스포털",
-          "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202611161748435016C071&s_code=daily"
-        }
-      ]
-    },
-    {
-      "title": "날씨",
-      "approx_traffic": "200000+",
-      "published": "Mon, 16 Nov 2026 13:40:00 -0800",
-      "news": [
-        {
-          "title": "“출근길 우산 챙기세요”····전국 대체로 흐리고 비",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611170742001"
-        },
-        {
-          "title": "[날씨] 오후~밤사이 전국 비‥내일 오후부터 추워져",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866183_37012.html"
-        },
-        {
-          "title": "강원, 대체로 흐리고 비…낮 최고 16도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117009000062"
-        }
-      ]
-    },
-    {
-      "title": "구찌",
+      "title": "롤 스토브",
       "approx_traffic": "100+",
-      "published": "Mon, 16 Nov 2026 13:40:00 -0800",
+      "published": "Mon, 16 Nov 2026 16:10:00 -0800",
       "news": [
         {
-          "title": "\"구찌 가방 95만원 내렸다\"…콧대 높던 명품업계에 무슨 일이",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111602251"
+          "title": "LCK 스토브리그 일정은?⋯코치 영입 15일ㆍ선수 FA 17일",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2647803"
         },
         {
-          "title": "\"우린 코카콜라 아니다\" 가격인하 없다더니... 매출 급락에 루이뷔통 콧대 꺾이나 [명품價 이야기]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611161414371765"
+          "title": "'BLG 우승' 롤드컵 막 내렸다… 폭풍전야 LCK 스토브리그, 탑과 정글로 쏠리는 눈",
+          "source": "https://www.standingout.kr/",
+          "url": "https://www.standingout.kr/news/articleView.html?idxno=1907"
         },
         {
-          "title": "“구찌입니다. 30% 깎겠습니다”…불황 길어지자 ‘백기’ 루이비통은 ‘버티기’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/world/12209723"
+          "title": "젠지, '기인' 김기인ㆍ'캐니언' 김건부 계약 종료 [공식]",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2649030"
         }
       ]
     },
     {
-      "title": "부산날씨",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 13:40:00 -0800",
+      "title": "김포시",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 16:10:00 -0800",
       "news": [
         {
-          "title": "부산·울산·경남 흐리고 아침까지 비…밤부터 가끔 비",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117008900052"
+          "title": "김포시, 2027년 시민체육 활성화 계획 의결…생활체육·전문체육 지원 확대",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261117500268"
         },
         {
-          "title": "부산, 흐리고 가끔 비…예상강수량 5㎜ 안팎",
+          "title": "김포시, 생활체육 키운다…2026년 제1차 김포시 체육진흥협의회 개최 : 네이버 블로그",
+          "source": "Naver Blog",
+          "url": "https://blog.naver.com/PostView.naver?blogId=gimpotoday&logNo=224480125177&redirect=Dlog"
+        },
+        {
+          "title": "김포시, 시민체육 활성화 계획 의결…3대 분야 중점 추진",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261117_0003870644"
+          "url": "https://www.newsis.com/view/NISX20261117_0003871011"
         }
       ]
     },
     {
-      "title": "weather",
-      "approx_traffic": "5000+",
-      "published": "Mon, 16 Nov 2026 13:30:00 -0800",
+      "title": "남진",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 16:00:00 -0800",
       "news": [
         {
-          "title": "A screenshot from Grand Theft Auto VI shows protagonist Lucia Caminos. Lucia is the first female protagonist in GTA franchise history. GTA 6 releases on Thursday, Nov. 19, 2026.",
-          "source": "The Lufkin Daily News",
-          "url": "https://lufkindailynews.com/news_reuters/national/a-screenshot-from-grand-theft-auto-vi-shows-protagonist-lucia-caminos-lucia-is-the-first/image_8054eec8-9f1b-51d3-9495-924766097a6c.html"
+          "title": "미운 우리 새끼 : 설운도, 허경환의 처참한 부추전 요리에 도움 나선 후 빠른 손절",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483367571?div=live_end"
         },
         {
-          "title": "Grand Theft Auto 6 features a hyper-realistic and localized dynamic weather system",
-          "source": "WDRB",
-          "url": "https://www.wdrbwave.com/2026/11/16/grand-theft-auto-6-features-hyper-realistic-localized-dynamic-weather-system/"
+          "title": "남진 “시집 안 간 딸 둘 있다”…46세·42세 딸 공개, 사윗감 질문엔",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261116/135030501/2"
         },
         {
-          "title": "The Weather Channel Partners With Rockstar to Share Leonida Forecast With New GTA 6 Screenshots",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-weather"
+          "title": "'45세 미혼' 허경환, 결혼 임박? \"여자 없으면 거짓말\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868821"
         }
       ]
     },
     {
-      "title": "황보라",
+      "title": "한국투자증권",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 15:50:00 -0800",
+      "news": [
+        {
+          "title": "한국투자증권, 유튜브 '한국인의 연금' 통해 시황 라이브 진행",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261117000054"
+        },
+        {
+          "title": "한투증권, 유튜브 '한국인의 연금'서 매주 화요일 시황 라이브",
+          "source": "아시아경제",
+          "url": "https://core.asiae.co.kr/article/2026111709111366247"
+        },
+        {
+          "title": "한국투자증권, 연금 운용에 시장 진단·리밸런싱 접목..매주 라이브 세미나",
+          "source": "한국정경신문",
+          "url": "https://kpenews.com/View.aspx?No=4315615"
+        }
+      ]
+    },
+    {
+      "title": "폭싹 속았수다",
       "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 13:30:00 -0800",
+      "published": "Mon, 16 Nov 2026 15:40:00 -0800",
+      "news": []
+    },
+    {
+      "title": "변동성",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 15:40:00 -0800",
       "news": [
         {
-          "title": "황보라 子, 놀이공원서 바지 탈의 후 활보 \"이건 안 돼\"(보라이어티)",
+          "title": "\"주식시장 변동성, 위기 아닌 기회… 역발상 투자로 손실 만회할 때\"",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/MUZDQMZXGJQTKNJSGZQTSMLBGU/"
+          "url": "https://www.chosun.com/economy/money/2026/11/17/KSINDNN225EURDSORYINN2AUWA/"
         },
         {
-          "title": "황보라, 2살 아들 롯데월드서 바지 훌렁…“이건 안 돼” 당황",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261117/135036009/1"
+          "title": "등락 반복하는 증시...대응 전략도 달라져야 할 때",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026111613172018519"
         },
         {
-          "title": "놀이공원서 바지 탈의..황보라, 子 돌발행동에 백기→내복 차림으로 활보",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100106410009835"
+          "title": "블랙위크 시작.. 언제, 어디까지 빠질까??? 진짜 지옥이 시작 됐습니다.",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/seongjang/seongjang30/contents/261116232853165cw"
         }
       ]
     },
     {
-      "title": "thời tiết",
-      "approx_traffic": "2000+",
-      "published": "Mon, 16 Nov 2026 13:20:00 -0800",
+      "title": "수원 fc",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 15:20:00 -0800",
       "news": [
         {
-          "title": "Thời tiết ngày 17/11: Bắc Bộ, Trung Bộ sáng có sương mù, ngày nắng",
-          "source": "Báo Nhân Dân điện tử",
-          "url": "https://nhandan.vn/thoi-tiet-ngay-1711-bac-bo-trung-bo-sang-co-suong-mu-ngay-nang-post1003195.html"
+          "title": "[단독]시민구단 아닌 ‘시장님 구단’… 치적 쌓으려 추경까지 받아 돈 댔다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/11/17/UDECO7N2KVHUVADPGTSE6IMSHY/"
         },
         {
-          "title": "Thời sự sáng 17/11: Không khí lạnh sắp tràn về, Hà Nội có thể rét 14 độ",
-          "source": "Báo VietNamNet",
-          "url": "https://vietnamnet.vn/thoi-su-sang-17-11-khong-khi-lanh-sap-tran-ve-ha-noi-ret-14-do-2575540.html"
+          "title": "축구단 주요 보직을 선거 전리품으로… 일부 지자체장, 측근들 꽂아넣어",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/11/17/UG6BLDLWSJCSNMMZPZQE7S6EUI/"
         },
         {
-          "title": "Bắc Bộ sắp chuyển rét, Trung Bộ đề phòng mưa lớn, lũ quét và sạt lở đất",
-          "source": "thethaovanhoa.vn",
-          "url": "https://thethaovanhoa.vn/bac-bo-sap-chuyen-ret-trung-bo-de-phong-mua-lon-lu-quet-va-sat-lo-dat-20261116221323986.htm"
+          "title": "리그 2위에도 홈관중 1,605명…수원FC, 시 지원금은 150억 원",
+          "source": "유스연합",
+          "url": "https://www.youthassembly.kr/news/1034885"
+        }
+      ]
+    },
+    {
+      "title": "어벤져스",
+      "approx_traffic": "500+",
+      "published": "Mon, 16 Nov 2026 14:50:00 -0800",
+      "news": [
+        {
+          "title": "'어벤져스: 둠스데이', 압도적인 스케일 기대…서로 다른 세계의 히어로들 총집결",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/movie/2026/11/16/G4ZDQNRSMQ3DGM3GGJTDQYTCMI/"
+        },
+        {
+          "title": "'토르' 헴스워스, 무서워서 못 와? 외국인 눈에 비친 '휴전' 한국 [영화있슈] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/11/17/2026111614230524371"
+        },
+        {
+          "title": "마블과 크록스의 만남, '닥터 둠' 클래식 클로그 출시",
+          "source": "Hypebeast.KR",
+          "url": "https://hypebeast.kr/2026/11/marvel-crocs-classic-clog-doctor-doom-212995-90h-official-look-release-info"
+        }
+      ]
+    },
+    {
+      "title": "쇼트트랙",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 14:50:00 -0800",
+      "news": [
+        {
+          "title": "전이경, 2년간 암 투병 고백… \"난이도 최상의 고비\"",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026111615270004851"
+        },
+        {
+          "title": "금메달 4개 전이경 \"2년 간 암투병…반평생 최고 고비\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261116_0003870226"
+        },
+        {
+          "title": "'스피드퀸' 이유리, 선수들 곁 든든한 '엄마 매니저' 변신",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524922"
+        }
+      ]
+    },
+    {
+      "title": "엘리베이터",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 14:40:00 -0800",
+      "news": [
+        {
+          "title": "스마트 엘리베이터 및 에스컬레이터 시장의 15개 기업",
+          "source": "Spherical Insights",
+          "url": "https://www.sphericalinsights.com/ko/blogs/top-15-companies-in-global-smart-elevators-and-escalators-market-2026-2035-expert-view-by-spherical-insights"
+        },
+        {
+          "title": "승강기 산업, '애프터마켓'으로 무게중심 이동…현대엘리베이터 마진 개선",
+          "source": "리드경제",
+          "url": "https://www.leadeconomy.co.kr/news/articleView.html?idxno=11283"
+        },
+        {
+          "title": "도시화와 현대화가 이끄는 엘리베이터 및 부속품 시장 2035년 전망",
+          "source": "IndexBox",
+          "url": "https://www.indexbox.io/ko/blog/elevators-and-accessories-market-forecast-to-2035-driven-by-urbanization-and-modernization/"
         }
       ]
     }
