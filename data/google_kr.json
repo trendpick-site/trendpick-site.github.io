@@ -1,11 +1,165 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-17T07:57:48+00:00",
+  "fetched_at": "2026-11-17T09:06:26+00:00",
   "items": [
     {
+      "title": "005930",
+      "approx_traffic": "2000+",
+      "published": "Mon, 16 Nov 2026 23:50:00 -0800",
+      "news": [
+        {
+          "title": "South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-samsung-chip-packaging-expansion-spur-30-billion-2026-11-12/"
+        },
+        {
+          "title": "Samsung’s $34 Billion HBM Bet Raises Memory Glut Risks",
+          "source": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/11/14/samsungs-34-billion-hbm-bet-raises-memory-glut-risks/"
+        },
+        {
+          "title": "Weekly Recap: Third-quarter earnings and accelerated Asan plant opening",
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/news/tradingview:58535580ffe63:0-weekly-recap-third-quarter-earnings-and-accelerated-asan-plant-opening/"
+        }
+      ]
+    },
+    {
+      "title": "신영철",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 23:50:00 -0800",
+      "news": [
+        {
+          "title": "프로배구 OK저축은행 신영철 감독, 건강 문제로 자진 사퇴",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6866271_36946.html"
+        },
+        {
+          "title": "[공식 발표] OK저축은행 신영철 감독, 건강상의 이유로 사임…김재헌 수석코치가 감독대행 맡는다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/17/202611171233770078O"
+        },
+        {
+          "title": "[공식발표]'미스터리' 감독은 왜 갑자기 자진 사퇴 했나 \"불화나 다른 이유 절대 아니다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/volleyball/2026/11/17/MY4DOMZXHEYTEODDMVRDIZDFGE/"
+        }
+      ]
+    },
+    {
+      "title": "오너",
+      "approx_traffic": "2000+",
+      "published": "Mon, 16 Nov 2026 23:40:00 -0800",
+      "news": [
+        {
+          "title": "’페이커’의 T1, 월드 챔피언십 4강서 탈락…중국전 불패 신화 깨졌다",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/akr20261109114147jar"
+        },
+        {
+          "title": "나이트 \"올해는 내가 이길 만큼 강하다\" vs 페이커 \"BLG에 질 수 없다\"",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2645505"
+        },
+        {
+          "title": "[롤드컵] ‘화력’ 칼리스테 vs ‘안정감’ 페이즈…4강으로 가는 마지막 티켓, 색깔 다른 두 원딜의 승부",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611062125003"
+        }
+      ]
+    },
+    {
+      "title": "보안뉴스",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 23:40:00 -0800",
+      "news": [
+        {
+          "title": "28개 대학 연쇄해킹 충격... 아르텍스 활용해 ‘rERP’ 집중 타격했다",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147326"
+        },
+        {
+          "title": "영남대도 해킹 발생… 학번·성명 등 개인정보 유출 \"정확한 피해 규모 파악 중\"",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026111717212359503"
+        },
+        {
+          "title": "대구한의대·경일대 뚫렸다…대구권 대학도 무차별 해킹",
+          "source": "영남일보",
+          "url": "https://www.yeongnam.com/web/view.php?key=20261116024370947"
+        }
+      ]
+    },
+    {
+      "title": "김우석",
+      "approx_traffic": "1000+",
+      "published": "Mon, 16 Nov 2026 23:30:00 -0800",
+      "news": [
+        {
+          "title": "김우석 \"'환자 바라기'…어떻게든 돕고 싶단 생각만 했죠\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117096200005"
+        },
+        {
+          "title": "\"야, 네가 김지원·손현주와 연기를 해?\"…김우석, 친형 멜로망스 김민석의 현실 반응 공개",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849744"
+        },
+        {
+          "title": "[인터뷰②]'닥터X' 김우석 \"촬영 중 진짜 의사로 오해받아…환자가 길 물어 당황\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/GBSTAOLEGVRDIMJVMRRDIMLBGI/"
+        }
+      ]
+    },
+    {
+      "title": "관세",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 23:20:00 -0800",
+      "news": [
+        {
+          "title": "‘APEC 맞이’ 시진핑, 캐나다 총리 만나 “다자무역체제 수호”",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04473926645646704"
+        },
+        {
+          "title": "’트럼프와 갈등’ 캐나다, 中과 추가 관세 인하 합의",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261117153422CIh"
+        },
+        {
+          "title": "캐나다 자동차 생산, 중국과 손잡나…카니·시진핑 회담 주목",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261117084930"
+        }
+      ]
+    },
+    {
+      "title": "kt wiz",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 23:00:00 -0800",
+      "news": [
+        {
+          "title": "KT Wiz to hold 2026 fan festival at Suwon with player events and band performances",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/11/17/3RUXIEOIS5G3ZFXPZBWWFB7HNQ/"
+        },
+        {
+          "title": "KT Wiz Hosts 2026 Fan Festival on 21st at Suwon KT Wiz Park",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/17/LUEKKJE3FVD7LB7Y3SBYPPADLQ/"
+        },
+        {
+          "title": "Same blood, different dugouts: Brothers reunite at Korean Series",
+          "source": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/sports/same-blood-different-dugouts-brothers-reunite-at-korean-series/12958480"
+        }
+      ]
+    },
+    {
       "title": "아동수당",
-      "approx_traffic": "500+",
+      "approx_traffic": "2000+",
       "published": "Mon, 16 Nov 2026 22:50:00 -0800",
       "news": [
         {
@@ -26,195 +180,46 @@
       ]
     },
     {
-      "title": "dplus kia",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 22:40:00 -0800",
-      "news": [
-        {
-          "title": "Dplus KIA Youth Sweeps Both First and Second-Half LCK Academy League Titles",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/28692/dplus-kia-youth-sweeps-both-first-and-second-half-lck-academy-league-titles"
-        },
-        {
-          "title": "Worlds 2027 Starts in Nagoya, Then Moves to Suwon and Seoul",
-          "source": "RG.org",
-          "url": "https://rg.org/news/esports/worlds-2027-swiss-nagoya-knockouts-suwon-seoul-arena-msi-valencia"
-        },
-        {
-          "title": "MSI 2027 heads to Valencia as Riot reshapes Split 1 with First Stand: All In in China",
-          "source": "Esports Insider",
-          "url": "https://esportsinsider.com/2026/11/msi-2027-heads-to-valencia-as-riot-reshapes-split-1-with-first-stand-all-in-in-china"
-        }
-      ]
-    },
-    {
       "title": "카타르 축구 국가대표팀",
       "approx_traffic": "5000+",
       "published": "Mon, 16 Nov 2026 22:40:00 -0800",
       "news": [
         {
-          "title": "황인범의 소신…\"임시 감독 체제, 대표팀에 긍정적이지 않다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117002000007"
-        },
-        {
-          "title": "임시 꼬리표 뗄까? ‘모레노 호’의 운명 결정할 카타르전 내일로",
+          "title": "‘임시 체제’ 답답했던 황인범…“좋은 상황은 아니라 생각” [현장영상]",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714286"
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714804"
         },
         {
           "title": "'손흥민 향한 신뢰' 모레노 감독‥투톱 기용 변화 줄까?",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866093_37004.html"
-        }
-      ]
-    },
-    {
-      "title": "텔레그램",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 22:40:00 -0800",
-      "news": [
-        {
-          "title": "텔레그램 기반 100억원대 물품사기 일당 131명 검거",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117072000051"
         },
         {
-          "title": "‘아이돌 콘서트 티켓·골드바 판매’ 미끼로 148억 가로챈 131명 검거",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261117/135038207/1"
-        },
-        {
-          "title": "텔레그램 단체 대화방에서 정보 공유하며 온라인 중고물품 사기···경찰, 131명 검거해 26명 구속 송치",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611171427001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+          "title": "\"대표팀 이끄는 게 아니라 도와주러 온 꼴\" 황인범의 뼈있는 일갈… '땜질 처방' KFA 정면 조준",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611170930268212"
         }
       ]
     },
     {
       "title": "조국",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Mon, 16 Nov 2026 22:40:00 -0800",
       "news": [
         {
-          "title": "조국, 일본 공항서 입국 거부…독도 방문, 전과 이력 때문? 혁신당 \"초유의 사태 사과해야\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12328472"
+          "title": "혁신당 \"일본, 조국 입국 거부‥즉각 해명·사과하라\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6866293_36911.html"
+        },
+        {
+          "title": "조국, 일본 공항서 입국거부…일본 정부, 1990년대 형사처벌 전력 문제삼은 듯",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611171741001"
         },
         {
           "title": "조국 혁신당 전 대표, 일본 입국 거부 당해... 독도 방문 이력 때문?",
           "source": "조선일보",
           "url": "https://www.chosun.com/international/international_general/2026/11/17/KER2C24OIVG3ZCSETFDVF2SEC4/"
-        },
-        {
-          "title": "[속보] 조국, 일본 공항서 입국 거부당해…‘죽창가’ 언급 때문?",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1287721.html"
-        }
-      ]
-    },
-    {
-      "title": "배충식",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 22:40:00 -0800",
-      "news": [
-        {
-          "title": "카이스트, 중국 칭화대와 복수학위제 운영한다···기계공학 석사과정 내년 개설",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611171109001"
-        },
-        {
-          "title": "KAIST·칭화대, 기계공학 석사 복수학위 과정 개설…내년부터 매년 5명 선발",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/science-chosun/science/2026/11/17/M3OCBBRGUVFD5K2CFDRUNYUJRE/"
-        },
-        {
-          "title": "KAIST·칭화대 학생들, 양 대학에서 공부하고 석사학위 받는다",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/20261117500693"
-        }
-      ]
-    },
-    {
-      "title": "상어",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 22:40:00 -0800",
-      "news": [
-        {
-          "title": "‘부캉이’ 인기에 명예홍보대사 위촉했던 부산시···“해수욕장 출몰은 안 돼” 상어 퇴치장비 도입 추진",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611171123001"
-        },
-        {
-          "title": "해파리 쏘임 26% 줄고 2년 연속 사망 ‘0’…부산 해수욕장, 개장기간 늘리나",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12210922"
-        }
-      ]
-    },
-    {
-      "title": "현대자동차",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 22:30:00 -0800",
-      "news": [
-        {
-          "title": "현대차, 국내외 공장 가동률 80%대로 떨어져…기아는 95% 유지",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20115223"
-        },
-        {
-          "title": "‘파업 여파’ 현대차 국내 공장 가동률 94%로 하락…車 가격은 3% 안팎 올라",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/auto/2026/11/17/UKLLWAF4RJAM7GK5ENF72JI6RI/"
-        },
-        {
-          "title": "도요타 임금의 1.6배...현대차, 고임금 경쟁력 우려",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261116000811"
-        }
-      ]
-    },
-    {
-      "title": "한국은행 기준금리",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 22:20:00 -0800",
-      "news": [
-        {
-          "title": "씨티 \"한은, 11월 만장일치 25bp 인상 전망…내년 성장률 3.3%\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445173"
-        },
-        {
-          "title": "한은, 이달 기준금리 0.25%p 인상 가능성 커져",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1287650.html"
-        },
-        {
-          "title": "한은 또 올릴까?...올해 마지막 금통위 앞두고 추가 인상 전망 ‘솔솔’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12209158"
-        }
-      ]
-    },
-    {
-      "title": "압구정동",
-      "approx_traffic": "5000+",
-      "published": "Mon, 16 Nov 2026 22:10:00 -0800",
-      "news": [
-        {
-          "title": "\"너무 싸서 못 믿겠다\"…60억 넘던 압구정 아파트에 무슨 일이 [시장톡]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111351626"
-        },
-        {
-          "title": "압구정동 현대8차 71억5천만원·현대5차 54억원·현대14차 52억6천만원… 강남구 아파트 고가 거래 [MAI부동산]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12209622"
-        },
-        {
-          "title": "[AI 비즈부동산] 26년 11월 2주차 서울 부동산 실거래 동향",
-          "source": "비즈한국",
-          "url": "https://bizhankook.com/articles/seoul-real-estate-trends-nov-2026-2.html"
         }
       ]
     }
