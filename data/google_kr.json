@@ -1,11 +1,105 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-17T11:59:01+00:00",
+  "fetched_at": "2026-11-17T13:12:20+00:00",
   "items": [
     {
+      "title": "비니시우스 주니오르",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 04:00:00 -0800",
+      "news": [
+        {
+          "title": "'충격 고백' 비니시우스 \"부진 이유? 휴가 즐기느라 훈련 덜 했다\"... 레알 주급 2위인데, 팬들은 '부글부글' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/17/2026111717485771629"
+        },
+        {
+          "title": "브라질 비니시우스가 밝힌 부진 이유…\"월드컵 탈락 충격\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261117_0003872197"
+        },
+        {
+          "title": "'레알서 12경기 1골 극도의 부진' 비니시우스 또 핑계 댄다 \"아스날 이적설 때문에 부담감 컸다\"",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/football/2026/11/17/G42TCMZVGBQTQNRZMJQWMYRSG4/"
+        }
+      ]
+    },
+    {
+      "title": "gta6 출시일",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 03:50:00 -0800",
+      "news": [
+        {
+          "title": "출시 이틀 앞둔 ‘GTA6’, 사전예약 1500만장 육박…매출 2조원 달해",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/it-science/ict/2026/11/17/Y2MS2PYBSVAT7KRSMUY6X7BCSI/"
+        },
+        {
+          "title": "“이게 게임이라고?”…실사 같은 'GTA 6' 영상",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261113000179"
+        },
+        {
+          "title": "싱가포르 기차역에 걸린 미국 게임사 락스타 게임즈 광고판",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755071"
+        }
+      ]
+    },
+    {
+      "title": "미스터트롯",
+      "approx_traffic": "1000+",
+      "published": "Tue, 17 Nov 2026 03:40:00 -0800",
+      "news": [
+        {
+          "title": "‘미스터트롯3’ TOP7, 서울서 투어 피날레…“끝 아닌 새로운 시작”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/musics/12211506"
+        },
+        {
+          "title": "‘미스터트롯3’ TOP7, 서울 콘서트 마무리… 투어 마무리 소감은?",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1193818"
+        },
+        {
+          "title": "‘미스터트롯3’ TOP7, 서울 공연 성료",
+          "source": "BNT뉴스",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202611170023"
+        }
+      ]
+    },
+    {
+      "title": "mbk 파트너스",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 03:20:00 -0800",
+      "news": [
+        {
+          "title": "회수부터 투자까지…MBK SS, 신규 펀드레이징 배경은",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/Read?newsId=04149206645646704"
+        },
+        {
+          "title": "MBK파트너스, 2026 연차총회 개최…내년 해외투자 적극 확대",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117056600008"
+        },
+        {
+          "title": "한국 노인 2050년 39.7%...MBK \"고령화사회 필요섹터에 투자하겠다\"",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611171054413817"
+        }
+      ]
+    },
+    {
+      "title": "엔비디아 우회 수출 의혹 및 젠슨 황 복귀 논의에 대한 최신 뉴스 알려줘",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 03:00:00 -0800",
+      "news": []
+    },
+    {
       "title": "최희",
-      "approx_traffic": "2000+",
+      "approx_traffic": "5000+",
       "published": "Tue, 17 Nov 2026 02:50:00 -0800",
       "news": [
         {
@@ -14,20 +108,20 @@
           "url": "https://www.mk.co.kr/news/culture/12211368"
         },
         {
+          "title": "‘사업가♥’ 최희, 사후 장기기증 서약했다..“슬프고 무섭지만 용기내”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/MM4GINJRHAYDQYJXMQ3TGOBQGA/"
+        },
+        {
           "title": "“장기기증 희망자 등록했다” 1남 1녀 둔 방송인, 갑작스레 SNS에 남긴 말",
           "source": "위키트리",
           "url": "https://www.wikitree.co.kr/articles/1175379"
-        },
-        {
-          "title": "최희, 사후 장기기증 신청 \"아이들 두고 떠날 생각하면 무섭지만\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-17/202611170100110680010198"
         }
       ]
     },
     {
       "title": "박정훈",
-      "approx_traffic": "500+",
+      "approx_traffic": "1000+",
       "published": "Tue, 17 Nov 2026 02:40:00 -0800",
       "news": [
         {
@@ -53,19 +147,19 @@
       "published": "Tue, 17 Nov 2026 02:40:00 -0800",
       "news": [
         {
-          "title": "Trực tiếp bóng đá Singapore - Brazil: Endrick - Vinicius - Estevao xuất phát",
+          "title": "Video bóng đá Singapore - Brazil: Màn \"hủy diệt\" nhanh gọn",
           "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-singapore-brazil-vu-cong-samba-pho-dien-suc-manh-c48a1811740.html"
-        },
-        {
-          "title": "Trực tiếp bóng đá Singapore - Brazil: Vũ công samba phô diễn sức mạnh",
-          "source": "tin.skydoor.net",
-          "url": "https://tin.skydoor.net/news/the-thao-truc-tiep-bong-da-singapore-brazil-vu-cong-samba-pho-dien-8438021"
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-singapore-brazil-man-huy-diet-nhanh-gon-c48a1811874.html"
         },
         {
           "title": "Vinicius lập hat-trick trong 12 phút",
           "source": "Znews",
           "url": "https://znews.vn/vinicius-lap-hat-trick-trong-12-phut-post1697159.html"
+        },
+        {
+          "title": "Trực tiếp bóng đá Singapore - Brazil: Vũ công samba phô diễn sức mạnh",
+          "source": "tin.skydoor.net",
+          "url": "https://tin.skydoor.net/news/the-thao-truc-tiep-bong-da-singapore-brazil-vu-cong-samba-pho-dien-8438021"
         }
       ]
     },
@@ -80,130 +174,36 @@
           "url": "https://www.chosun.com/national/court_law/2026/11/17/GXOJ6QZHIZELZACVJNNH3NKK7Q/"
         },
         {
-          "title": "노만석 “윤석열 구속취소 즉시 항고 포기, 심우정이 최종 결정”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715122"
-        },
-        {
           "title": "공소장 보완에만 석 달 쓴 종합특검…내란 재판 ‘가시밭길’",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202611162101025"
-        }
-      ]
-    },
-    {
-      "title": "권순우",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 02:10:00 -0800",
-      "news": [
-        {
-          "title": "8년 전처럼…정현, 데이비스컵 파이널8에서도 ‘신데렐라의 기적’ 도전",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261117/135039042/1"
         },
         {
-          "title": "조코비치 꺾었던 정현, 태극마크 달고 또 이변 꿈꾼다... \"팬들이 기억하는 모습 다시\" [데이비스컵 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/17/2026111716075189369"
-        },
-        {
-          "title": "첫 파이널 무대서 ‘3연속 챔프’ 만나는 한국 테니스…“언더독이라 부담 없이 달려들겠다”",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/sport/tennis/2026/11/17/20261117500235"
+          "title": "노만석 “윤석열 구속취소 즉시 항고 포기, 심우정이 최종 결정”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715122"
         }
       ]
     },
     {
       "title": "로베르트 모레노",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Tue, 17 Nov 2026 02:10:00 -0800",
       "news": [
         {
-          "title": "‘임시 소방수’ 모레노 감독, 카타르전 끝나면 스페인 귀국…거취는 안갯속",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715028"
+          "title": "모레노 감독, 카타르전 끝으로 스페인행…한국 대표팀 복귀 불투명",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04660886645646704&mediaCodeNo=257"
         },
         {
-          "title": "모레노 축구대표팀 임시 감독, 카타르전 이후 스페인 귀국",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6866318_36946.html"
+          "title": "모레노호 카타르전 7명 바꿨다…손흥민-오세훈 투톱 선발",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261117_0003872243"
         },
         {
-          "title": "한국만 이강인 딜레마? 카타르도 아피프 활용법에 고심",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611161619003"
-        }
-      ]
-    },
-    {
-      "title": "미스터트롯3",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 02:00:00 -0800",
-      "news": [
-        {
-          "title": "‘미스터트롯3’ TOP7, 서울서 투어 피날레…“끝 아닌 새로운 시작”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/musics/12211506"
-        },
-        {
-          "title": "‘미스터트롯3’ TOP7, 서울 콘서트 마무리… 투어 마무리 소감은?",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1193818"
-        },
-        {
-          "title": "‘미스터트롯3’ TOP7, 서울 공연 성료",
-          "source": "BNT뉴스",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202611170023"
-        }
-      ]
-    },
-    {
-      "title": "원주 db 대 안양 정관장",
-      "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 01:50:00 -0800",
-      "news": []
-    },
-    {
-      "title": "농협은행",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 01:50:00 -0800",
-      "news": [
-        {
-          "title": "NH농협은행, 올원뱅크에 시니어 메뉴 '올원더풀' 오픈 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/11/17/2026111708391285471"
-        },
-        {
-          "title": "NH농협은행, 시니어 특화 ‘NH올원더풀’ 출시… ‘NH기업뱅킹’도 개편",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3449581"
-        },
-        {
-          "title": "농협은행, 시니어 금융·생활 서비스 한곳에",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611170916139937"
-        }
-      ]
-    },
-    {
-      "title": "심정지",
-      "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 01:40:00 -0800",
-      "news": [
-        {
-          "title": "심정지 6개월 아기, 아빠 심폐소생술과 구급대가 함께 살렸다",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611171130221P4"
-        },
-        {
-          "title": "분유먹고 심정지 생후 6개월 아기…구급대 응급처치로 회복",
+          "title": "손흥민-오세훈, 카타르 평가전 투톱 선발…최준·김지수 첫 선발",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117064500051"
-        },
-        {
-          "title": "분유 먹고 엎드린 아기, 입술 파랗게 변해…아빠 신속 대응이 살렸다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261117/135038102/2"
+          "url": "https://www.yna.co.kr/view/AKR20261117171800007"
         }
       ]
     }
