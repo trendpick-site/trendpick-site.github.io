@@ -1,8 +1,30 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-17T17:41:17+00:00",
+  "fetched_at": "2026-11-17T18:32:33+00:00",
   "items": [
+    {
+      "title": "데블스플랜",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 09:10:00 -0800",
+      "news": [
+        {
+          "title": "정현규, 비난 여론 딛고 '데블스플랜' 새 시즌 합류하더니 공황으로 중도 하차",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020407"
+        },
+        {
+          "title": "정현규, 공황 증상으로 '데블스 플랜3' 하차 \"극복했다 생각\"",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525195"
+        },
+        {
+          "title": "데블스플랜 정현규 공황으로 하차, 괜찮을 줄 알았는데 아니었다…퇴소 후 공개한 현재 건강 상태와 마지막 고백",
+          "source": "Naver Blog",
+          "url": "https://blog.naver.com/PostView.naver?blogId=yooju0913&logNo=224481199187&redirect=Dlog"
+        }
+      ]
+    },
     {
       "title": "데블스플랜3",
       "approx_traffic": "1000+",
@@ -19,9 +41,9 @@
           "url": "https://news.tf.co.kr/read/entertain/2389546.htm"
         },
         {
-          "title": "감옥동과 생활동 맞대결 본격화…‘데블스 플랜’ 새 국면 : 연예",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1100511"
+          "title": "????: 장동민이 누군데??ㅣ⚠️무단복제·재가공 엄금 #데블스플랜3 #장동민 #홍진호 #정현규",
+          "source": "K-VIBE",
+          "url": "https://korean-vibe.com/article/179586602921155"
         }
       ]
     },
@@ -58,36 +80,14 @@
           "url": "https://news.jkn.co.kr/post/1102804"
         },
         {
-          "title": "‘엄지성 천금 결승골’...일본 꺾고 AG 축구 4연패",
-          "source": "뉴스N연합",
-          "url": "https://www.newsyonhap.com/news/137332"
-        },
-        {
           "title": "모레노 감독이 원하는 높은 '에너지 레벨'에 딱! 분데스서도 '최상위급 고강도' 정우영, 측면 경쟁에 '새바람'",
           "source": "조선일보",
           "url": "https://www.chosun.com/sports/football/2026/11/13/MVSWIMRRHBSDAMBVGU4DSNBTMQ/"
-        }
-      ]
-    },
-    {
-      "title": "mbk파트너스",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 07:30:00 -0800",
-      "news": [
-        {
-          "title": "회수부터 투자까지…MBK SS, 신규 펀드레이징 배경은",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/Read?newsId=04149206645646704"
         },
         {
-          "title": "MBK파트너스, 2026 연차총회 개최…내년 해외투자 적극 확대",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117056600008"
-        },
-        {
-          "title": "한국 노인 2050년 39.7%...MBK \"고령화사회 필요섹터에 투자하겠다\"",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611171054413817"
+          "title": "황희찬 입지는 어떻게 될까… 韓 대표팀 고민거리 ‘왼쪽 윙어’, 송민규·엄지성·정우영과 무한 경쟁?",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313996"
         }
       ]
     },
@@ -114,6 +114,28 @@
       ]
     },
     {
+      "title": "한국",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 06:50:00 -0800",
+      "news": [
+        {
+          "title": "트럼프 “한국 투자 덕에 알래스카 LNG 파이프라인 사업 승인”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715573"
+        },
+        {
+          "title": "트럼프 \"한국 투자 덕에 알래스카 LNG 사업 승인\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/18/2026111800590440197"
+        },
+        {
+          "title": "트럼프, 이 대통령 앞 “韓 투자 덕 알래스카 LNG 사업승인” 주장",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261117070813073"
+        }
+      ]
+    },
+    {
       "title": "김다현",
       "approx_traffic": "200+",
       "published": "Tue, 17 Nov 2026 06:20:00 -0800",
@@ -129,9 +151,9 @@
           "url": "https://sports.khan.co.kr/article/202611171459003"
         },
         {
-          "title": "가요무대 오늘(16일) 출연진·곡명...진시몬, 류원정, 박진도, 하루, 윤태화, 신유, 배아현, 풍금, 김다현, 빈예서, 신승태, 최유나, 미스김, 김희진, 김범룡",
-          "source": "더페어",
-          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94177"
+          "title": "‘가요무대’ 가수 김범룡·신승태·신유 등 “이름 모를 소녀” 가을에 떠난 사람",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16277350"
         }
       ]
     },
@@ -146,14 +168,14 @@
           "url": "https://www.hankyung.com/article/2026111710841"
         },
         {
-          "title": "장인화 “기술력이 성과 원동력”…‘트리플코어’ 역량 강화 주문",
-          "source": "뉴스토마토",
-          "url": "https://www.newstomato.com/readnews.aspx?no=1320059"
+          "title": "장인화의 '선택과 집중' 통했다 … 2.2조 실탄 확보하고 리튬은 8년만에 흑자 전환",
+          "source": "뉴데일리 경제",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/11/2026111100053.html"
         },
         {
-          "title": "[현장] 폐배터리에서 리튬·니켈 뽑아 양극재까지, '16년 담금질' 포스코그룹의 2차전지 소재 사업 본격 도약 채비",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451523"
+          "title": "[현장] 전기로로 저탄소 쇳물 생산…전지소재·희귀가스 공급망도 지킨다",
+          "source": "기후에너지데이터뱅크",
+          "url": "https://edata.ekn.kr/article/view/ekn202611100004"
         }
       ]
     },
@@ -163,9 +185,9 @@
       "published": "Tue, 17 Nov 2026 06:00:00 -0800",
       "news": [
         {
-          "title": "[속보] 경북 상주시 북서쪽 22km 지역서 규모 3.7 지진 발생",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755162"
+          "title": "경북 상주 규모 3.6 지진…유감 신고 16건",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715579"
         },
         {
           "title": "원안위 \"상주 인근 규모 3.6 지진, 원자로 안전에 영향 없어\"",
@@ -173,9 +195,9 @@
           "url": "https://www.yna.co.kr/view/AKR20261118002600017"
         },
         {
-          "title": "[속보] 기상청 “경북 상주 북서쪽서 규모 3.6 지진”",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1774969"
+          "title": "[속보] 기상청 \"경북 상주 북서쪽서 규모 3.7 지진 발생\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111731047"
         }
       ]
     },
@@ -190,36 +212,14 @@
           "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=15112026&id=1c40ef7d-5f0d-4f0b-bf2a-5e9715d9f868"
         },
         {
+          "title": "موعد عرض توب شيف الموسم العاشر 2026.. انطلاق Top Chef VIP بمشاركة نجوم الفن",
+          "source": "شبكة رؤية الإخبارية",
+          "url": "https://roayahnews.com/%D9%85%D9%88%D8%B9%D8%AF-%D8%B9%D8%B1%D8%B6-%D8%AA%D9%88%D8%A8-%D8%B4%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D8%B1-2026-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82/"
+        },
+        {
           "title": "بمشاركة نجوم الوطن العربي.. MBC تعلن موعد عرض الموسم الجديد من «توب شيف»",
           "source": "المصري اليوم",
           "url": "https://www.almasryalyoum.com/news/details/4412587"
-        },
-        {
-          "title": "MBC تكشف موعد عرض «توب شيف VIP» بمشاركة نجوم الفن العربي",
-          "source": "شبكة تواصل الإخبارية",
-          "url": "https://twaslnews1.twaslnews.com/7826033/"
-        }
-      ]
-    },
-    {
-      "title": "카타르 대 한국",
-      "approx_traffic": "20000+",
-      "published": "Tue, 17 Nov 2026 05:50:00 -0800",
-      "news": [
-        {
-          "title": "모레노 \"다시 맡을 가능성 당연히 생각…시간과 신뢰가 중요\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118004600007"
-        },
-        {
-          "title": "모레노호, 맥 빠진 카타르에 1-0 진땀승…오세훈 헤더 결승골",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1774971"
-        },
-        {
-          "title": "중원의 핵 황인범의 소신발언 “임시 감독 체제 긍정적이지 않아”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715445"
         }
       ]
     }
