@@ -1,220 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-17T21:29:38+00:00",
+  "fetched_at": "2026-11-17T22:30:51+00:00",
   "items": [
     {
-      "title": "알렉산더 즈베레프",
-      "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 12:10:00 -0800",
-      "news": [
-        {
-          "title": "'세계 랭킹 1위' 트로피에 입 맞추는 즈베레프",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261117_0002293855&pID=1&cID=&sID=1&type=photoMain&idx=7"
-        },
-        {
-          "title": "[박준용 인앤아웃] 당뇨병도 꺾지 못한 꿈... 즈베레프 마침내 세계 1위에 서다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611101026003"
-        }
-      ]
-    },
-    {
-      "title": "wales vs portugal",
-      "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 12:00:00 -0800",
-      "news": [
-        {
-          "title": "Bruno Fernandes and David Brooks score goals in Wales v Portugal",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cmn80yjw6v2wo"
-        },
-        {
-          "title": "Bruno Fernandes stunner lights up Wales v Portugal amid fresh twist in Man Utd future",
-          "source": "football360.com.au",
-          "url": "https://football360.com.au/wales-vs-portugal-bruno-fernandes-goal-man-utd-transfer-news/"
-        },
-        {
-          "title": "Wales vs Portugal LIVE! Nations League Group A4 match updates, score, line-ups and commentary",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13613359/wales-vs-portugal-live-nations-league-group-a4-match-updates-score-line-ups-and-commentary"
-        }
-      ]
-    },
-    {
-      "title": "김장",
-      "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 12:00:00 -0800",
-      "news": [
-        {
-          "title": "충북농협, 7400㎏ 김장 행사…취약계층·복지시설에 전달",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/sejong-chungbuk/6356875"
-        },
-        {
-          "title": "충북농협, 김장김치 7.4t 나눔…충청대엔 1000원 점심 지원",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261117000791"
-        },
-        {
-          "title": "농협은행, 김장철 맞아 지역 어르신에 온정 나눔 실천",
-          "source": "ER 이코노믹리뷰",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=757530"
-        }
-      ]
-    },
-    {
-      "title": "아이폰",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 11:50:00 -0800",
-      "news": [
-        {
-          "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on"
-        },
-        {
-          "title": "Apple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback"
-        },
-        {
-          "title": "iOS 27.3 Beta 2 Now Available for Developers",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/16/apple-releases-ios-27-3-beta-2/"
-        }
-      ]
-    },
-    {
-      "title": "부고",
+      "title": "사고",
       "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 11:50:00 -0800",
+      "published": "Tue, 17 Nov 2026 13:20:00 -0800",
       "news": [
         {
-          "title": "오늘의 부고-김정순 충북 남부출장소 행정지원과장 모친상 외",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611171548021"
+          "title": "고경표 때문에 더 주목받는 '술꾼들'...신동엽·성시경이 '무사고' 지킨 비결",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/17/MNQTOM3BG5SDONJTGQ2TMMLDGY/"
         },
         {
-          "title": "[부음] 조재완(뉴시스 기자)씨 조모상",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261117000245"
-        },
-        {
-          "title": "[부고] 조재완 씨(뉴시스 정치부 기자) 조모상",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/life-culture/press/6356831"
-        }
-      ]
-    },
-    {
-      "title": "백신",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 11:40:00 -0800",
-      "news": [
-        {
-          "title": "예방접종 피해 국가보상, 대리인도 신청 가능",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117059800530"
-        },
-        {
-          "title": "「감염병예방법 시행령 및 시행규칙」 일부개정령안 공포·시행(11.17.화)",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=457313"
-        },
-        {
-          "title": "이소희 의원, ‘코로나 백신 피해 국가책임법’ 발의…피해 입증책임 국가로",
-          "source": "월간조선",
-          "url": "https://monthly.chosun.com/news/articleView.html?idxno=72005"
-        }
-      ]
-    },
-    {
-      "title": "경찰",
-      "approx_traffic": "10000+",
-      "published": "Tue, 17 Nov 2026 11:20:00 -0800",
-      "news": [
-        {
-          "title": "\"이렇게까지 한다고?\" 웃음보인 장관‥\"믿음 깨져\" 냉소 속출",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866389_37004.html"
-        },
-        {
-          "title": "당정, '수능 AI 부정행위' 대책 협의회…입법 과제 등 논의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117175800001"
-        },
-        {
-          "title": "결국 육안 점검…감독관·수험생 부담 여전",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715368"
-        }
-      ]
-    },
-    {
-      "title": "국제 통화 기금",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 11:20:00 -0800",
-      "news": [
-        {
-          "title": "IMF, 올해 우리나라 성장률 3.9% 전망…내년엔 3.3%",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975912"
-        },
-        {
-          "title": "IMF, 올해 경제 성장률 3.9%로 상향…’통화 긴축’ 주문",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261118044902M56"
-        },
-        {
-          "title": "기자 질문 받는 코린 들레샤 단장",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261117_0021535578"
-        }
-      ]
-    },
-    {
-      "title": "gta6",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 10:20:00 -0800",
-      "news": [
-        {
-          "title": "Lucía Caminos is the first Latina ‘Grand Theft Auto’ lead – these video game characters paved the way",
-          "source": "The Conversation",
-          "url": "https://theconversation.com/lucia-caminos-is-the-first-latina-grand-theft-auto-lead-these-video-game-characters-paved-the-way-290289"
-        },
-        {
-          "title": "GTA 6 is making history with its female lead, and women gamers are here for it",
-          "source": "Yahoo Tech",
-          "url": "https://tech.yahoo.com/gaming/article/gta-6-is-making-history-with-its-female-lead-and-women-gamers-are-here-for-it-173554427.html"
-        },
-        {
-          "title": "Grand Theft Auto 6 Lucia Actress Finally Revealed — And Yes, It's Who You Probably Suspected",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/grand-theft-auto-6-lucia-actress-finally-revealed-and-yes-its-who-you-probably-suspected"
-        }
-      ]
-    },
-    {
-      "title": "애플",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 09:30:00 -0800",
-      "news": [
-        {
-          "title": "아이폰 듀오, 전면 카메라로 얼굴 인식 잠금 해제한다",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261117081332"
-        },
-        {
-          "title": "애플 '아이폰 듀오' 최적화 앱 20만개 돌파…지원 생태계 확대 - 머니투데이",
+          "title": "고경표처럼 청소차 '쾅'...호란, 세 번째 음주운전 사고 '재조명' - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/11/16/2026111617122821068"
+          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111707460827049"
         },
         {
-          "title": "Apple, iPhone Duo 2 외부 디스플레이에 Face ID 도입 추진",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/11/apple-prepares-next-gen-iphone-duo-2-with-face-id-upgrades"
+          "title": "고경표까지 음주운전 사고로 활동 중단…끊이지 않는 연예계 음주운전 [N이슈]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6356206"
+        }
+      ]
+    },
+    {
+      "title": "nations league",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 13:20:00 -0800",
+      "news": [
+        {
+          "title": "Licensable picture: Denmark v Norway: Group Stage - UEFA Nations League",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/denmark-v-norway-group-stage-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMEwyUUtNMA"
+        },
+        {
+          "title": "Licensable picture: Denmark V Norway: Group Stage - UEFA Nations League",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/denmark-v-norway-group-stage-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBYRU9JMTY"
+        },
+        {
+          "title": "Licensable picture: Denmark V Norway: Group Stage - UEFA Nations League",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/denmark-v-norway-group-stage-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBYRU9JMTg"
+        }
+      ]
+    },
+    {
+      "title": "화재",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 13:20:00 -0800",
+      "news": [
+        {
+          "title": "청주 옥산면 단독주택서 화재…60대 거주자 사망",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261118013500064"
+        },
+        {
+          "title": "청주 주택서 불…60대 남성 심정지 상태 발견",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118001658qQv"
+        },
+        {
+          "title": "충북 옥산 단독주택서 불‥60대 거주자 숨져",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866452_36918.html"
+        }
+      ]
+    },
+    {
+      "title": "운세",
+      "approx_traffic": "5000+",
+      "published": "Tue, 17 Nov 2026 13:10:00 -0800",
+      "news": [
+        {
+          "title": "[오늘의 운세] 11월 18일 수요일 (음력 10월 10일) 띠별 운세",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261113580066"
+        },
+        {
+          "title": "[오늘의 운세] 11월 18일 띠별-별자리 운세",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=929512"
+        },
+        {
+          "title": "[김동완의 오늘의 운세] 2026년 11월 16일",
+          "source": "서울Pn",
+          "url": "https://m.go.seoul.co.kr/news/life/2026/11/16/20261116500002?cp=go"
+        }
+      ]
+    },
+    {
+      "title": "김효주",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 13:10:00 -0800",
+      "news": [
+        {
+          "title": "우승 상금 400만 달러 LPGA 최종전 투어 챔피언십 19일 개막",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117030900007"
+        },
+        {
+          "title": "유해란·김효주·윤이나…‘53억 머니게임’ 출사표",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20114943"
+        },
+        {
+          "title": "53억 잭팟 쏘고…최다우승국 명예 잡나",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611180200006"
+        }
+      ]
+    },
+    {
+      "title": "배당",
+      "approx_traffic": "2000+",
+      "published": "Tue, 17 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "미래에셋자산운용, TIGER 액티브 커버드콜 ETF 순자산 4조원 돌파",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261117000070"
+        },
+        {
+          "title": "ETF 투자자도 '삼전닉스 배당'에 웃는다…분배율 5배 껑충",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02955286645646376"
+        },
+        {
+          "title": "미래에셋운용, TIGER 액티브 커버드콜 ETF 순자산 4조 돌파",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261117_0003871257"
+        }
+      ]
+    },
+    {
+      "title": "수출",
+      "approx_traffic": "1000+",
+      "published": "Tue, 17 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "젠슨 황 사임 후 첫 입장 “요청 시 복귀”…“청문회 출석”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715632"
+        },
+        {
+          "title": "미 상무부 \"2년전부터 메가스피드 조사…앨리스 황 직접 면담도\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261118055840yw5"
+        },
+        {
+          "title": "[속보] 젠슨 황 “이사회 요청하면 엔비디아 최고경영자로 복귀하겠다”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/america/1287842.html"
+        }
+      ]
+    },
+    {
+      "title": "wales đấu với bồ đào nha",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "Nhận định bóng đá Xứ Wales vs Bồ Đào Nha, 02h45 ngày 18/11: Không bung sức",
+          "source": "Tạp chí Bóng đá",
+          "url": "https://bongdaplus.vn/nations-league/nhan-dinh-bong-da-xu-wales-vs-bo-dao-nha-02h45-ngay-18-11-khong-bung-suc-5291002611.html"
+        },
+        {
+          "title": "Lịch thi đấu, trực tiếp bóng đá hôm nay 17/11/2026: Wales vs Bồ Đào Nha",
+          "source": "tin.skydoor.net",
+          "url": "https://tin.skydoor.net/news/tin-lich-thi-dau-truc-tiep-bong-da-hom-nay-17112026-wales-vs-bo-8437883"
+        },
+        {
+          "title": "VTV5 VTV6 trực tiếp bóng đá hôm nay ngày 17/11/2026",
+          "source": "thethaovanhoa.vn",
+          "url": "https://thethaovanhoa.vn/vtv5-vtv6-truc-tiep-bong-da-hom-nay-ngay-17-11-2026-20261117141218044.htm"
+        }
+      ]
+    },
+    {
+      "title": "롤 점검",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "리그 오브 레전드 26.23 패치 노트",
+          "source": "League of Legends",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-23-notes/"
+        },
+        {
+          "title": "라이엇게임즈, LoL 2027 시즌1 공개... '도벽' 복귀·랭크 보상 개편",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261117000187"
+        },
+        {
+          "title": "[게임업계 소식] 라이엇 게임즈, LoL 2027년 첫 콘텐츠 공개 外",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261117500407"
+        }
+      ]
+    },
+    {
+      "title": "뉴스",
+      "approx_traffic": "1000+",
+      "published": "Tue, 17 Nov 2026 12:40:00 -0800",
+      "news": [
+        {
+          "title": "‘조작기소 특검법’ 국무회의 통과, 최장 200일 수사",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261118/135043027/2"
+        },
+        {
+          "title": "윤석열 '정치 검사'들 운명, 누가 쥐고 있나",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285701"
+        },
+        {
+          "title": "‘검찰범죄’ 특검이 밝혀야 할 50가지 의혹⑭ 구치감 2박3일, 아이 사진, 장기 협박",
+          "source": "뉴스타파",
+          "url": "https://newstapa.org/article/e-tKd"
         }
       ]
     }
