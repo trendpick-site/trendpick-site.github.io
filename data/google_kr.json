@@ -1,8 +1,162 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-17T03:28:53+00:00",
+  "fetched_at": "2026-11-17T04:36:43+00:00",
   "items": [
+    {
+      "title": "담보 대출",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 19:00:00 -0800",
+      "news": [
+        {
+          "title": "내일부터 5대은행 주담대 변동금리 또 올라···최고 연 6.51%",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611161646001"
+        },
+        {
+          "title": "코픽스마저 또 올랐다…짙어지는 ‘고금리의 그늘’",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03276726645646376"
+        },
+        {
+          "title": "\"변동금리 더 싸다더니\"…시장금리 내릴 때 또 오른 변동형 주담대 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/11/16/2026111616275049949"
+        }
+      ]
+    },
+    {
+      "title": "면세점",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 19:00:00 -0800",
+      "news": [
+        {
+          "title": "신라면세점, 프리미엄 버번 위스키 '블랑톤' 단독 출시",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261117000220"
+        },
+        {
+          "title": "신라면세점, 프리미엄 버번 위스키 '블랑톤' 면세점 최초 출시",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1200339"
+        },
+        {
+          "title": "신라면세점, 버번 위스키 ‘블랑톤’ 단독 출시…주류 상품 강화",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261117500121"
+        }
+      ]
+    },
+    {
+      "title": "마이클 버리",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 19:00:00 -0800",
+      "news": [
+        {
+          "title": "'빅쇼트' 버리 \"나스닥 약세 베팅 확대…내년 반도체주 하락 전망\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444844"
+        },
+        {
+          "title": "‘빅 쇼트’ 버리 “엔비디아 '숏 베팅' 확대…젠슨 황 퇴임 승자는 AMD·브로드컴”",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Securities/2026/11/202611151346317386e250e8e188_1"
+        },
+        {
+          "title": "'빅쇼트' 버리 \"엔비디아, 당분간 어떤 가격에도 안사…여전히 잘못돼\"",
+          "source": "KB Think",
+          "url": "https://kbthink.com/news-list/view.html?newsId=20261117074444916"
+        }
+      ]
+    },
+    {
+      "title": "자오창펑",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 18:50:00 -0800",
+      "news": [
+        {
+          "title": "자오창펑 바이낸스 CEO \"우린 비트코인 안 팔았다\"",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03581766645646376"
+        },
+        {
+          "title": "비트코인 추가 폭락 가능성? 지금 시장에서 벌어지는 수상한 움직임",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/net/go/contents/261116154239161xy"
+        },
+        {
+          "title": "비트코인 6만 2,000달러 폭락, 바이낸스가 팔았나? CZ 직접 입 열었다",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/270458"
+        }
+      ]
+    },
+    {
+      "title": "김준호",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 18:50:00 -0800",
+      "news": [
+        {
+          "title": "'만삭' 김지민, 장롱면허 김준호 대신해 운전대 잡았다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261116_0003868998"
+        },
+        {
+          "title": "'만삭' 김지민이 운전하고 김준호는 조수석에 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111607243073022"
+        },
+        {
+          "title": "‘임신’ 김지민, 해외 촬영 다녀온 ♥김준호 위해 거한 한식 상차림 “귀한 자연산 송이도”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/MZRDOYLEMFQTEMTBMVTDQYRVGM/"
+        }
+      ]
+    },
+    {
+      "title": "김선태",
+      "approx_traffic": "5000+",
+      "published": "Mon, 16 Nov 2026 18:40:00 -0800",
+      "news": [
+        {
+          "title": "AI 안경 쓰고 공무원 시험 본 '충주맨', 25점 받은 이유가",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111708667"
+        },
+        {
+          "title": "김선태, 이번엔 ‘충주냥이’…“공무원 국어 시험 라이브로 풀겠다”",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261116060854028"
+        },
+        {
+          "title": "’수학 7등급’인데 AI 안경 썼더니…결과 충격적",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261115231402nwH"
+        }
+      ]
+    },
+    {
+      "title": "장동혁",
+      "approx_traffic": "1000+",
+      "published": "Mon, 16 Nov 2026 18:30:00 -0800",
+      "news": [
+        {
+          "title": "장동혁, 한동훈 장인상 조문…한 “대표님 잠깐” 짧은 대화도",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611171042001"
+        },
+        {
+          "title": "한동훈 의원 빙부상 빈소 향하는 노경필",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8217284"
+        },
+        {
+          "title": "한동훈 장인상 ‘현대고 동창’ 이정재 등 조문",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11631840"
+        }
+      ]
+    },
     {
       "title": "장민기",
       "approx_traffic": "500+",
@@ -27,23 +181,23 @@
     },
     {
       "title": "embassy",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 16 Nov 2026 18:10:00 -0800",
       "news": [
         {
-          "title": "US warns Americans in Europe of holiday terror risk as bomb hoaxes disrupt flights",
-          "source": "investingLive",
-          "url": "https://investinglive.com/news/us-warns-americans-in-europe-of-holiday-terror-risk-as-bomb-hoaxes-disrupt-flights/"
+          "title": "(LEAD) S. Korea seeks to reconstruct aging embassy in U.S. amid uncertainty over funding",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20261116007951315"
         },
         {
-          "title": "State Department warns Americans traveling in Europe during holidays",
-          "source": "ABC10",
-          "url": "https://www.abc10.com/video/news/politics/national-politics/state-department-warns-americans-traveling-in-europe-during-holidays/103-d26001c0-1b61-41d0-b765-ab63099e8aa9"
+          "title": "South Korea to rebuild Washington embassy for first time in 70 years at estimated cost of W300b",
+          "source": "헤럴드경제",
+          "url": "https://mbiz.heraldcorp.com/article/10938808"
         },
         {
-          "title": "US Embassies issue Europe-wide security alert for American citizens. What is the reason?",
-          "source": "Defence24.com",
-          "url": "https://defence24.com/other/us-embassies-issue-europe-wide-security-alert-for-american-citizens-what-is-the-reason"
+          "title": "Discussions on rebuilding the embassy building in Washington, D.C., have been underway for the first..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/politics/12209983"
         }
       ]
     },
@@ -66,160 +220,6 @@
           "title": "N수생 최대·AI 안경까지···‘현행 마지막 시험’ 올 수능 변수는?",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202611151412011"
-        }
-      ]
-    },
-    {
-      "title": "피의자",
-      "approx_traffic": "20000+",
-      "published": "Mon, 16 Nov 2026 17:50:00 -0800",
-      "news": [
-        {
-          "title": "2mm 초소형 카메라 AI 연결하니…순식간에 문제 풀이",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8714200"
-        },
-        {
-          "title": "\"'개조 계산기' 썼다\"…세무사 수석합격자 경찰 출석",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849586&plink=RSSLINK&cooper=GSTAND"
-        },
-        {
-          "title": "[속보] 한 총리 \"수능서 스마트기기 원천 차단‥안경·시계 전수검사\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6866227_36911.html"
-        }
-      ]
-    },
-    {
-      "title": "상장",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 17:50:00 -0800",
-      "news": [
-        {
-          "title": "\"이 신호 뜨면 주식 팔아라?\"…앤트로픽 상장 앞두고 나온 경고 [분석+]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111695036"
-        },
-        {
-          "title": "앤트로픽, 주요지수 편입 늦어질 듯…\"패시브 자금 25조 유입 추산\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/17/2026111709444891073"
-        },
-        {
-          "title": "AI칩 투자 줄이고 앤스로픽에 50억달러 청약…거스너 “젠슨 황 복귀 서두르지 말라”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/it/12210622"
-        }
-      ]
-    },
-    {
-      "title": "너구리",
-      "approx_traffic": "1000+",
-      "published": "Mon, 16 Nov 2026 17:40:00 -0800",
-      "news": [
-        {
-          "title": "농심, '볶음너구리' 정식 판매 전환…신제품 '매콤마요'도 출시",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117045300030"
-        },
-        {
-          "title": "너구리 변신 계속된다…농심, '매콤마요 볶음너구리' 등 라인업 확대",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261117_0003870880"
-        },
-        {
-          "title": "농심, '볶음너구리' 다시 정식 판매…매콤마요 신제품도 출시",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261117000166"
-        }
-      ]
-    },
-    {
-      "title": "2027",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 17:40:00 -0800",
-      "news": [
-        {
-          "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-ella-langley-raye-rosalia.html"
-        },
-        {
-          "title": "Women lead Grammy nominations as Noah Kahan gets snubbed",
-          "source": "The Washington Post",
-          "url": "https://www.washingtonpost.com/entertainment/music/2026/11/16/young-women-lead-grammy-nominations-noah-kahan-snubbed/"
-        },
-        {
-          "title": "WA folk-rock hero gets 4 nominations for 2027 Grammy Awards",
-          "source": "The Seattle Times",
-          "url": "https://www.seattletimes.com/entertainment/music/2027-grammys-brandi-carlile-foo-fighters-among-nominees-with-wa-ties/"
-        }
-      ]
-    },
-    {
-      "title": "미스터트롯4",
-      "approx_traffic": "2000+",
-      "published": "Mon, 16 Nov 2026 17:30:00 -0800",
-      "news": [
-        {
-          "title": "‘미스터트롯4′ 12월 17일 첫 방송...김중연, 양지원, 박지후, 남궁진 등 티저로 베일 벗어",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/17/GUGJEOEOZBCWTLDHBJGLBBRFAI/"
-        },
-        {
-          "title": "‘미스터트롯4’, 현역 vs 비현역 제대로 붙는다…12월 17일 첫 방송",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261117/135036727/1"
-        },
-        {
-          "title": "TV CHOSUN [미스터트롯4] 진성X김용임X박선주X이소나, 첫 녹화부터 감탄 폭발! “이 정도까지 잘한다고?”",
-          "source": "경기평화신문",
-          "url": "https://www.ggpyeonghwa.com/628474"
-        }
-      ]
-    },
-    {
-      "title": "서울고등법원",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 17:30:00 -0800",
-      "news": [
-        {
-          "title": "'면허정지 수준' 음주운전 서울고법 판사에 감봉 1개월 징계",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6866211_36918.html"
-        },
-        {
-          "title": "현직 판사가 500m 음주운전…대법원, 감봉 1개월 징계",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261117_0003870687"
-        },
-        {
-          "title": "법원 인근서 음주운전 적발된 서울고법 판사, 감봉 1개월 징계",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261117/135037920/1"
-        }
-      ]
-    },
-    {
-      "title": "풍자",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 17:30:00 -0800",
-      "news": [
-        {
-          "title": "풍자 맞아? 37kg 감량 효과 미쳤다…비주얼 난리 [DA★]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261116/135035720/1"
-        },
-        {
-          "title": "\"소리지르고 삼단봉으로 때리려고 해\" 신기루, 中 입국하다 공안에 붙잡혀",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/GZTDGODDMIYDGZDGGBQTKMZXGI/"
-        },
-        {
-          "title": "'왕홍 원조' 한가인 보고 있나?…풍자·신기루, 초호화 깜짝 변신",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261116023352171"
         }
       ]
     }
