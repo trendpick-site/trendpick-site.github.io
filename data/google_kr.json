@@ -1,8 +1,157 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-17T05:37:26+00:00",
+  "fetched_at": "2026-11-17T06:39:40+00:00",
   "items": [
+    {
+      "title": "구축함",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 21:30:00 -0800",
+      "news": [
+        {
+          "title": "\"北 신형 구축함, 핵·재래무기 동시 탑재…속도 등 한계\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261111084300009"
+        },
+        {
+          "title": "[위성+] 5000톤급 구축함 ‘강건호’ 마양도 배치, ‘최현호’ 남포항 계류",
+          "source": "데일리NK",
+          "url": "https://www.dailynk.com/20261117-2/"
+        },
+        {
+          "title": "\"北 최현함, 핵 위기 땐 출항만으로 한미 대응에 부담\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/nk/military/6350115"
+        }
+      ]
+    },
+    {
+      "title": "소프트웨어",
+      "approx_traffic": "500+",
+      "published": "Mon, 16 Nov 2026 21:20:00 -0800",
+      "news": [
+        {
+          "title": "KMS테크놀로지, 테너블·비욘드트러스트와 19일 OT 보안 웨비나",
+          "source": "디지털데일리",
+          "url": "https://www.ddaily.co.kr/page/view/2026111610152690942"
+        },
+        {
+          "title": "앤앤에스피, 'CPS 시큐어 AX 서밋 2026' 개최",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261113000267"
+        },
+        {
+          "title": "전망 상향 조정이 포티넷(FTNT) 주가에 있어 중요한 전환점이 될 수 있다",
+          "source": "Simply Wall St",
+          "url": "https://simplywall.st/ko/stocks/us/software/nasdaq-ftnt/fortinet/news/56a22980989bd92e"
+        }
+      ]
+    },
+    {
+      "title": "전두환",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 21:20:00 -0800",
+      "news": [
+        {
+          "title": "전두환 일가 비자금 의혹 사건, 중수청이 맡는다…추징 미납 800억대",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1287673.html"
+        },
+        {
+          "title": "[단독] ‘전우원 폭로’ 故 전두환 비자금 의혹 서울중수청이 맡는다…공소청서 이송[세상&]",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10939286"
+        },
+        {
+          "title": "서울중수청, ‘전두환 비자금 의혹’ 넘겨받아 기록 검토 중",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611171054001"
+        }
+      ]
+    },
+    {
+      "title": "sri lanka vs pakistan",
+      "approx_traffic": "500+",
+      "published": "Mon, 16 Nov 2026 21:10:00 -0800",
+      "news": [
+        {
+          "title": "Pakistan, Sri Lanka primed for more experimentation in Rawalpindi",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-2nd-test-1550712/match-preview"
+        },
+        {
+          "title": "Pakistan's pacers rattle Sri Lanka top order in second Test",
+          "source": "The Express Tribune",
+          "url": "https://tribune.com.pk/story/2640768/Pakistan%27s-pacers-rattle-Sri-Lanka-top-order-in-second-Test"
+        },
+        {
+          "title": "Pakistan Sri Lanka Cricket",
+          "source": "Corsicana Daily Sun",
+          "url": "https://www.corsicanadailysun.com/sports/national_sports/pakistan-sri-lanka-cricket/image_0f8d40d5-c1ec-51d2-9a7e-2a4cd6608ecc.html"
+        }
+      ]
+    },
+    {
+      "title": "전남광주통합특별시교육청",
+      "approx_traffic": "2000+",
+      "published": "Mon, 16 Nov 2026 21:00:00 -0800",
+      "news": [
+        {
+          "title": "수능 감독 교사는 수당 17만원인데···전남광주교육청 간부는 최대 330만원 챙겼다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611171217001"
+        },
+        {
+          "title": "수능 감독교사는 수당 17만원 받는데…교육감은 330만원 챙겼다",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12211185"
+        },
+        {
+          "title": "수능 감독 교사는 17만원인데…교육감은 ‘수능 수당’ 330만원 챙겼다",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/honam/1287674.html"
+        }
+      ]
+    },
+    {
+      "title": "고지용",
+      "approx_traffic": "1000+",
+      "published": "Mon, 16 Nov 2026 21:00:00 -0800",
+      "news": [
+        {
+          "title": "고지용 \"건강 악화로 63㎏까지 빠져…술에 의존해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261116_0003870556"
+        },
+        {
+          "title": "\"'슈돌'은 시간 맞춰줘\" 고지용, 젝키 불참 해명…팬들 '발끈' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111710464723184"
+        },
+        {
+          "title": "'허양임 이혼' 고지용, 건강이상 사실이었다...\"술 의존 간경변증까지\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-17/202611170100108640010028"
+        }
+      ]
+    },
+    {
+      "title": "시그니엘 서울",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 20:20:00 -0800",
+      "news": [
+        {
+          "title": "84억에 산 메가커피 법인 소유 시그니엘… 오너 일가 주소지로 등재",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/distribution/food/2026/11/17/UFQAXVG5JRBEXMXPWPSPJNFCUY/"
+        },
+        {
+          "title": "창업부터 투자·산업까지…시그니엘 서울서 ‘2026 넥스트젠 스타트업 세미나·경제포럼’ 개최",
+          "source": "퍼블릭뉴스통신",
+          "url": "https://www.ttlnews.com/news/articleView.html?idxno=3163072"
+        }
+      ]
+    },
     {
       "title": "실종자",
       "approx_traffic": "2000+",
@@ -14,31 +163,31 @@
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712895"
         },
         {
-          "title": "“해안가 갯벌에 남성 시신이 있다”…전날 실종자 추정, 수사 나선 해경",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12208862"
-        },
-        {
           "title": "갯벌서 발견된 남성 변사체…해경 수사 중",
           "source": "노컷뉴스",
           "url": "https://www.nocutnews.co.kr/news/6606902"
+        },
+        {
+          "title": "부안 갯벌서 남성 시신 발견…전날 실종된 60대 추정",
+          "source": "OBC 뉴스",
+          "url": "https://www.theonetv.kr/news/articleView.html?idxno=255198"
         }
       ]
     },
     {
       "title": "잠실 래미안 아이파크",
-      "approx_traffic": "200+",
+      "approx_traffic": "500+",
       "published": "Mon, 16 Nov 2026 20:10:00 -0800",
       "news": [
-        {
-          "title": "잠실서 '20억 로또' 나온다…'잠실래미안아이파크' 3가구 줍줍",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/17/2026111700960.html"
-        },
         {
           "title": "잠실 래미안아이파크 3가구 재공급…시세 차익 최대 24억",
           "source": "뉴스1",
           "url": "https://www.news1.kr/realestate/general/6356521"
+        },
+        {
+          "title": "잠실서 '20억 로또' 나온다…'잠실래미안아이파크' 3가구 줍줍",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/17/2026111700960.html"
         },
         {
           "title": "잠실 래미안아이파크 불법행위재공급 줍줍 (’26. 11/23~24)",
@@ -53,168 +202,19 @@
       "published": "Mon, 16 Nov 2026 20:10:00 -0800",
       "news": [
         {
-          "title": "'25일 서울 지하철 총파업' 예고한 노조 \"인력감축 철회·임금 인상\"",
+          "title": "구호 외치는 포스코노조",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117078100004"
+          "url": "https://www.yna.co.kr/view/PYH20261117102400013"
         },
         {
-          "title": "철도노조, 서울 도심서 결의대회…다음 달 총파업 예고",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712905"
-        },
-        {
-          "title": "SR 노조도 “교섭 결렬 땐 파업”…통합 서두른 고속철도 ‘비상’",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261116010006161"
-        }
-      ]
-    },
-    {
-      "title": "삼양식품",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "급락장에도 홀로 불기둥…'통 큰 베팅'에 증권가도 주목",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611169651i"
-        },
-        {
-          "title": "\"이빨이 아파\" 불닭 미국·유럽 확장…삼양식품 장 초반 5% 강세[핫종목]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/market-exr/6354875"
-        },
-        {
-          "title": "[특징주]삼양식품, 외국인 순매수에 6.20% 상승마감…중국 신공장 성장 기대",
-          "source": "남도일보",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=929378"
-        }
-      ]
-    },
-    {
-      "title": "메디게이트뉴스",
-      "approx_traffic": "100+",
-      "published": "Mon, 16 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "무면허 음주운전으로 면허 잃은 의사, 1심 패소…법원, 위헌 제청 신청도 기각",
-          "source": "MEDI:GATE NEWS",
-          "url": "https://www.medigatenews.com/news/1491780453"
-        },
-        {
-          "title": "[판결] 법원, “음주·무면허운전으로 징역 확정 의사 면허취소는 정당”",
-          "source": "법률신문",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229520"
-        },
-        {
-          "title": "음주운전 의사 면허 취소에 법원 “정당”…개정 의료법 첫 판단",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713822"
-        }
-      ]
-    },
-    {
-      "title": "농구",
-      "approx_traffic": "100+",
-      "published": "Mon, 16 Nov 2026 20:00:00 -0800",
-      "news": [
-        {
-          "title": "김포시,제21회 김포시장기 금쌀사랑 종별 생활체육 농구대회 성황리 개최",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=804146"
-        },
-        {
-          "title": "김포시, 생활체육관서 탁구대회 개최…450여 명 동호인 참가",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3747222"
-        }
-      ]
-    },
-    {
-      "title": "김기인",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 19:50:00 -0800",
-      "news": [
-        {
-          "title": "젠지, '기인' 김기인ㆍ'캐니언' 김건부 계약 종료 [공식]",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2649030"
-        },
-        {
-          "title": "'BLG 우승' 롤드컵 막 내렸다… 폭풍전야 LCK 스토브리그, 탑과 정글로 쏠리는 눈",
-          "source": "https://www.standingout.kr/",
-          "url": "https://www.standingout.kr/news/articleView.html?idxno=1907"
-        },
-        {
-          "title": "'기인' 김기인, 젠지 떠나 FA 시장으로",
-          "source": "데일리e스포츠",
-          "url": "https://www.dailyesports.com/view.php?ud=20261117095801736374bcc1e038_27"
-        }
-      ]
-    },
-    {
-      "title": "면세점",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 19:00:00 -0800",
-      "news": [
-        {
-          "title": "신라면세점, 프리미엄 버번 위스키 '블랑톤' 단독 출시",
+          "title": "포스코 노사, 임단협 돌파구 찾나…포스코, 노조에 대화 요청",
           "source": "전자신문",
-          "url": "https://www.etnews.com/20261117000220"
+          "url": "https://www.etnews.com/20261117000252"
         },
         {
-          "title": "신라면세점, 프리미엄 버번 위스키 '블랑톤' 면세점 최초 출시",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1200339"
-        },
-        {
-          "title": "신라면세점, 버번 위스키 ‘블랑톤’ 단독 출시…주류 상품 강화",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261117500121"
-        }
-      ]
-    },
-    {
-      "title": "담보 대출",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 19:00:00 -0800",
-      "news": [
-        {
-          "title": "내일부터 5대은행 주담대 변동금리 또 올라···최고 연 6.51%",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611161646001"
-        },
-        {
-          "title": "코픽스마저 또 올랐다…짙어지는 ‘고금리의 그늘’",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03276726645646376"
-        },
-        {
-          "title": "\"변동금리 더 싸다더니\"…시장금리 내릴 때 또 오른 변동형 주담대 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/11/16/2026111616275049949"
-        }
-      ]
-    },
-    {
-      "title": "마이클 버리",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 19:00:00 -0800",
-      "news": [
-        {
-          "title": "'빅쇼트' 버리 \"나스닥 약세 베팅 확대…내년 반도체주 하락 전망\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444844"
-        },
-        {
-          "title": "\"엔비디아, 어떤 가격에도 안 산다\"…빅쇼트 마이클 버리, 추가 악재 경고",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715988"
-        },
-        {
-          "title": "‘빅 쇼트’ 버리 “엔비디아 '숏 베팅' 확대…젠슨 황 퇴임 승자는 AMD·브로드컴”",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Securities/2026/11/202611151346317386e250e8e188_1"
+          "title": "포스코 노사 갈등 장기화에 포항 경제계 우려…시·의회·상의 공동 호소",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722135"
         }
       ]
     }
