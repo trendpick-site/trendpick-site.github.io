@@ -1,27 +1,154 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-17T04:36:43+00:00",
+  "fetched_at": "2026-11-17T05:37:26+00:00",
   "items": [
     {
-      "title": "담보 대출",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 19:00:00 -0800",
+      "title": "실종자",
+      "approx_traffic": "2000+",
+      "published": "Mon, 16 Nov 2026 20:10:00 -0800",
       "news": [
         {
-          "title": "내일부터 5대은행 주담대 변동금리 또 올라···최고 연 6.51%",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611161646001"
+          "title": "부안 갯벌서 남성 시신 발견…실종자와 신원 대조",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712895"
         },
         {
-          "title": "코픽스마저 또 올랐다…짙어지는 ‘고금리의 그늘’",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03276726645646376"
+          "title": "“해안가 갯벌에 남성 시신이 있다”…전날 실종자 추정, 수사 나선 해경",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12208862"
         },
         {
-          "title": "\"변동금리 더 싸다더니\"…시장금리 내릴 때 또 오른 변동형 주담대 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/11/16/2026111616275049949"
+          "title": "갯벌서 발견된 남성 변사체…해경 수사 중",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6606902"
+        }
+      ]
+    },
+    {
+      "title": "잠실 래미안 아이파크",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "잠실서 '20억 로또' 나온다…'잠실래미안아이파크' 3가구 줍줍",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/17/2026111700960.html"
+        },
+        {
+          "title": "잠실 래미안아이파크 3가구 재공급…시세 차익 최대 24억",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/realestate/general/6356521"
+        },
+        {
+          "title": "잠실 래미안아이파크 불법행위재공급 줍줍 (’26. 11/23~24)",
+          "source": "홈두부",
+          "url": "https://homedubu.com/12996/"
+        }
+      ]
+    },
+    {
+      "title": "파업",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "'25일 서울 지하철 총파업' 예고한 노조 \"인력감축 철회·임금 인상\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117078100004"
+        },
+        {
+          "title": "철도노조, 서울 도심서 결의대회…다음 달 총파업 예고",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712905"
+        },
+        {
+          "title": "SR 노조도 “교섭 결렬 땐 파업”…통합 서두른 고속철도 ‘비상’",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261116010006161"
+        }
+      ]
+    },
+    {
+      "title": "삼양식품",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 20:00:00 -0800",
+      "news": [
+        {
+          "title": "급락장에도 홀로 불기둥…'통 큰 베팅'에 증권가도 주목",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611169651i"
+        },
+        {
+          "title": "\"이빨이 아파\" 불닭 미국·유럽 확장…삼양식품 장 초반 5% 강세[핫종목]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/market-exr/6354875"
+        },
+        {
+          "title": "[특징주]삼양식품, 외국인 순매수에 6.20% 상승마감…중국 신공장 성장 기대",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=929378"
+        }
+      ]
+    },
+    {
+      "title": "메디게이트뉴스",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 20:00:00 -0800",
+      "news": [
+        {
+          "title": "무면허 음주운전으로 면허 잃은 의사, 1심 패소…법원, 위헌 제청 신청도 기각",
+          "source": "MEDI:GATE NEWS",
+          "url": "https://www.medigatenews.com/news/1491780453"
+        },
+        {
+          "title": "[판결] 법원, “음주·무면허운전으로 징역 확정 의사 면허취소는 정당”",
+          "source": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229520"
+        },
+        {
+          "title": "음주운전 의사 면허 취소에 법원 “정당”…개정 의료법 첫 판단",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713822"
+        }
+      ]
+    },
+    {
+      "title": "농구",
+      "approx_traffic": "100+",
+      "published": "Mon, 16 Nov 2026 20:00:00 -0800",
+      "news": [
+        {
+          "title": "김포시,제21회 김포시장기 금쌀사랑 종별 생활체육 농구대회 성황리 개최",
+          "source": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=804146"
+        },
+        {
+          "title": "김포시, 생활체육관서 탁구대회 개최…450여 명 동호인 참가",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3747222"
+        }
+      ]
+    },
+    {
+      "title": "김기인",
+      "approx_traffic": "500+",
+      "published": "Mon, 16 Nov 2026 19:50:00 -0800",
+      "news": [
+        {
+          "title": "젠지, '기인' 김기인ㆍ'캐니언' 김건부 계약 종료 [공식]",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2649030"
+        },
+        {
+          "title": "'BLG 우승' 롤드컵 막 내렸다… 폭풍전야 LCK 스토브리그, 탑과 정글로 쏠리는 눈",
+          "source": "https://www.standingout.kr/",
+          "url": "https://www.standingout.kr/news/articleView.html?idxno=1907"
+        },
+        {
+          "title": "'기인' 김기인, 젠지 떠나 FA 시장으로",
+          "source": "데일리e스포츠",
+          "url": "https://www.dailyesports.com/view.php?ud=20261117095801736374bcc1e038_27"
         }
       ]
     },
@@ -48,8 +175,30 @@
       ]
     },
     {
+      "title": "담보 대출",
+      "approx_traffic": "200+",
+      "published": "Mon, 16 Nov 2026 19:00:00 -0800",
+      "news": [
+        {
+          "title": "내일부터 5대은행 주담대 변동금리 또 올라···최고 연 6.51%",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611161646001"
+        },
+        {
+          "title": "코픽스마저 또 올랐다…짙어지는 ‘고금리의 그늘’",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03276726645646376"
+        },
+        {
+          "title": "\"변동금리 더 싸다더니\"…시장금리 내릴 때 또 오른 변동형 주담대 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/11/16/2026111616275049949"
+        }
+      ]
+    },
+    {
       "title": "마이클 버리",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Mon, 16 Nov 2026 19:00:00 -0800",
       "news": [
         {
@@ -58,168 +207,14 @@
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444844"
         },
         {
+          "title": "\"엔비디아, 어떤 가격에도 안 산다\"…빅쇼트 마이클 버리, 추가 악재 경고",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715988"
+        },
+        {
           "title": "‘빅 쇼트’ 버리 “엔비디아 '숏 베팅' 확대…젠슨 황 퇴임 승자는 AMD·브로드컴”",
           "source": "글로벌이코노믹",
           "url": "https://www.g-enews.com/article/Securities/2026/11/202611151346317386e250e8e188_1"
-        },
-        {
-          "title": "'빅쇼트' 버리 \"엔비디아, 당분간 어떤 가격에도 안사…여전히 잘못돼\"",
-          "source": "KB Think",
-          "url": "https://kbthink.com/news-list/view.html?newsId=20261117074444916"
-        }
-      ]
-    },
-    {
-      "title": "자오창펑",
-      "approx_traffic": "100+",
-      "published": "Mon, 16 Nov 2026 18:50:00 -0800",
-      "news": [
-        {
-          "title": "자오창펑 바이낸스 CEO \"우린 비트코인 안 팔았다\"",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03581766645646376"
-        },
-        {
-          "title": "비트코인 추가 폭락 가능성? 지금 시장에서 벌어지는 수상한 움직임",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/net/go/contents/261116154239161xy"
-        },
-        {
-          "title": "비트코인 6만 2,000달러 폭락, 바이낸스가 팔았나? CZ 직접 입 열었다",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/270458"
-        }
-      ]
-    },
-    {
-      "title": "김준호",
-      "approx_traffic": "100+",
-      "published": "Mon, 16 Nov 2026 18:50:00 -0800",
-      "news": [
-        {
-          "title": "'만삭' 김지민, 장롱면허 김준호 대신해 운전대 잡았다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261116_0003868998"
-        },
-        {
-          "title": "'만삭' 김지민이 운전하고 김준호는 조수석에 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111607243073022"
-        },
-        {
-          "title": "‘임신’ 김지민, 해외 촬영 다녀온 ♥김준호 위해 거한 한식 상차림 “귀한 자연산 송이도”",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/MZRDOYLEMFQTEMTBMVTDQYRVGM/"
-        }
-      ]
-    },
-    {
-      "title": "김선태",
-      "approx_traffic": "5000+",
-      "published": "Mon, 16 Nov 2026 18:40:00 -0800",
-      "news": [
-        {
-          "title": "AI 안경 쓰고 공무원 시험 본 '충주맨', 25점 받은 이유가",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111708667"
-        },
-        {
-          "title": "김선태, 이번엔 ‘충주냥이’…“공무원 국어 시험 라이브로 풀겠다”",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261116060854028"
-        },
-        {
-          "title": "’수학 7등급’인데 AI 안경 썼더니…결과 충격적",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261115231402nwH"
-        }
-      ]
-    },
-    {
-      "title": "장동혁",
-      "approx_traffic": "1000+",
-      "published": "Mon, 16 Nov 2026 18:30:00 -0800",
-      "news": [
-        {
-          "title": "장동혁, 한동훈 장인상 조문…한 “대표님 잠깐” 짧은 대화도",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611171042001"
-        },
-        {
-          "title": "한동훈 의원 빙부상 빈소 향하는 노경필",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8217284"
-        },
-        {
-          "title": "한동훈 장인상 ‘현대고 동창’ 이정재 등 조문",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11631840"
-        }
-      ]
-    },
-    {
-      "title": "장민기",
-      "approx_traffic": "500+",
-      "published": "Mon, 16 Nov 2026 18:10:00 -0800",
-      "news": [
-        {
-          "title": "'9위 추락' KIA 마운드의 희망이었는데…방출 칼바람에 야구공 놓는다 \"인생에서 가장 빛나는 추억\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019982"
-        },
-        {
-          "title": "[오피셜] \"타이거즈라는 멋진 팀에서 야구를 할 수 있어 언제나 행복했습니다\" 국대 마무리 조병현보다 먼저 뽑혔던 2001년생 좌완 유망주 장민기, 은퇴 선언",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553702539"
-        },
-        {
-          "title": "KIA 투수 장민기 타이거즈 선수여서 행복…평생 잊지 않겠다",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20261116062601922"
-        }
-      ]
-    },
-    {
-      "title": "embassy",
-      "approx_traffic": "200+",
-      "published": "Mon, 16 Nov 2026 18:10:00 -0800",
-      "news": [
-        {
-          "title": "(LEAD) S. Korea seeks to reconstruct aging embassy in U.S. amid uncertainty over funding",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20261116007951315"
-        },
-        {
-          "title": "South Korea to rebuild Washington embassy for first time in 70 years at estimated cost of W300b",
-          "source": "헤럴드경제",
-          "url": "https://mbiz.heraldcorp.com/article/10938808"
-        },
-        {
-          "title": "Discussions on rebuilding the embassy building in Washington, D.C., have been underway for the first..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/politics/12209983"
-        }
-      ]
-    },
-    {
-      "title": "예비소집일",
-      "approx_traffic": "100+",
-      "published": "Mon, 16 Nov 2026 18:00:00 -0800",
-      "news": [
-        {
-          "title": "수능 수험생 여러분! 전자기기 가져오지 마세요! - 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975450"
-        },
-        {
-          "title": "[지지대] 흔들리지 말고 당당하게",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261116580050"
-        },
-        {
-          "title": "N수생 최대·AI 안경까지···‘현행 마지막 시험’ 올 수능 변수는?",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611151412011"
         }
       ]
     }
