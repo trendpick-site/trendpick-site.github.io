@@ -1,204 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-18T00:28:51+00:00",
+  "fetched_at": "2026-11-18T01:56:28+00:00",
   "items": [
     {
-      "title": "록히드 마틴",
+      "title": "탄약",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 16:50:00 -0800",
+      "news": [
+        {
+          "title": "인니 방산 컨설턴트, KF-21 계약 지연과 풍산 탄약 미납이 양국 신뢰 흔든다고 진단",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611180348057973fbbec65dfb_1"
+        },
+        {
+          "title": "KAI, 민항기로 글로벌 시장 진출한다",
+          "source": "경남매일",
+          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=598709"
+        },
+        {
+          "title": "[중화학 ON] KAI, 인니 PTDI와 항공산업협력 확대 外 : 네이버 블로그",
+          "source": "Naver Blog",
+          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224478042568&redirect=Dlog"
+        }
+      ]
+    },
+    {
+      "title": "변요한",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 16:40:00 -0800",
+      "news": [
+        {
+          "title": "변요한·티파니 영, MMA 동반 참석…달달한 신혼부부",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611160936386674"
+        },
+        {
+          "title": "티파니 영♥변요한, 시상식서 애정 폭발…손 꼭 잡고 달달 [DA★]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/SODA/article/0210/20261117/135038989/1"
+        },
+        {
+          "title": "티파니 영, ♥변요한 손 잡은 비하인드컷 \"특별한 순간을 함께할 수 있어 감사\"",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/11/17/MI4DGNJTG5QTEN3CGJRTOYJWGU/"
+        }
+      ]
+    },
+    {
+      "title": "argentina vs kosta rika",
       "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 15:20:00 -0800",
+      "published": "Tue, 17 Nov 2026 16:40:00 -0800",
       "news": [
         {
-          "title": "군수 지원서 첨단 무기 공동 개발까지…방산업계, ‘프리덤 250’서 한·미 동맹 미래 그렸다",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261117024181035"
+          "title": "Licensable picture: International Friendly - Argentina v Costa Rica",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/international-friendly-argentina-v-costa-rica/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkgxUkQ1VEE"
         },
         {
-          "title": "록히드마틴, 韓에 10억달러 투자…\"차세대 헬기 공동 개발하자\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111727171"
+          "title": "‍‍‍$Costa Rica vs Argentina – Argentina vs Costa Rica, Costa Rica vs Argentina – Costa Rica vs Argentina live: Costa Rica vs Argentina...",
+          "source": "Comité Asesor de Vacunas de la AEP",
+          "url": "https://vacunasaep.org/sites/all/libraries/fckeditor/editor/filemanager/browser/default/browser.html?Type=File&CONNECTOR=/%5C/keeplearningeveryday.xyz%2Ffc%2Fconnector.php/&GetFoldersAndFiles=costa-rica-vs-argentina-argentina-vs-costa-14iin"
         },
         {
-          "title": "스틸 美대사, 한미 法집행기관 협력 당부..안보 협력 일환",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611161601185624"
+          "title": "[Soccer-Live]@!~Costa Rica vs ArgentinaIn Diretta Streaming",
+          "source": "Comité Asesor de Vacunas de la AEP",
+          "url": "https://vacunasaep.org/sites/all/libraries/fckeditor/editor/filemanager/browser/default/browser.html?Type=File&CONNECTOR=/%5C/keeplearningeveryday.xyz%2Ffc%2Fconnector.php/&GetFoldersAndFiles=soccer-live-costa-rica-vs-argentinain-diretta-4gco7"
         }
       ]
     },
     {
-      "title": "gpt 6.2",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 15:10:00 -0800",
+      "title": "argentina đấu với costa rica",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 16:40:00 -0800",
       "news": [
         {
-          "title": "Astra for Law leads in legal intelligence",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/astra-law-6-2/"
-        },
-        {
-          "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
-          "source": "The GitHub Blog",
-          "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available/"
-        },
-        {
-          "title": "OpenAI’s Legal Model Posts 20.8% All-Pass Rate on Harvey Test",
-          "source": "www.tokenpost.com",
-          "url": "https://www.tokenpost.com/news/technology/59745"
-        }
-      ]
-    },
-    {
-      "title": "뉴시스",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 15:10:00 -0800",
-      "news": []
-    },
-    {
-      "title": "우루과이 대 도미니카 공화국",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 15:00:00 -0800",
-      "news": [
-        {
-          "title": "우루과이 대 도미니카 공화국 경기 예측: 다득점 경기가 예상됩니다.",
+          "title": "Pronostico Argentina-Costa Rica, ore 06:00 del 18 novembre: l'Albiceleste cerca di ritrovare il sorriso.",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-uruguay-vs-dominican-republic-hua-hen-man-doi-cong"
+          "url": "https://www.vietnam.vn/it/nhan-dinh-argentina-vs-costa-rica-06h00-ngay-18-11-albiceleste-tim-lai-nu-cuoi"
         },
         {
-          "title": "우루과이 vs 도미니카 공화국 생중계: 선발 라인업",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-uruguay-vs-dominican-republic-doi-hinh-xuat-phat"
+          "title": "Argentina tìm thấy lời giải cho bài toán hậu Lionel Messi",
+          "source": "bongda.com.vn",
+          "url": "https://bongda.com.vn/argentina-tim-thay-loi-giai-cho-bai-toan-hau-lionel-messi-d855433.html"
+        },
+        {
+          "title": "Nico Paz và Alvarez cùng lập cú đúp, Argentina hủy diệt Costa Rica",
+          "source": "Tạp chí Bóng đá",
+          "url": "https://bongdaplus.vn/giao-huu-bong-da/nico-paz-va-alvarez-cung-lap-cu-dup-argentina-huy-diet-costa-rica-5293122611.html"
         }
       ]
     },
     {
-      "title": "앤트로픽 상장",
+      "title": "음료",
       "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 15:00:00 -0800",
+      "published": "Tue, 17 Nov 2026 16:10:00 -0800",
       "news": [
         {
-          "title": "\"앤트로픽 매출 2026년 71조원→2030년 676조원 예상\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118028500009"
+          "title": "이마트24, '옐로우' 차음료 2종 출시…헬시 플레저 수요 공략",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261118000110"
         },
         {
-          "title": "앤트로픽 공모가, 희망범위 넘을 수도…상장 흥행 조짐 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/18/2026111806252986659"
+          "title": "이마트24, '옐로우' 차음료 2종 출시…기능성 차 매출 38.8%↑",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/distribution/6357583"
         },
         {
-          "title": "AI거품론 무색…앤스로픽 공모주에 6배 넘는 주문 몰려",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611173114i"
+          "title": "이마트24, 겨울 음료 1000원대로 즐긴다…자허블·배도라지로 상품군 확대",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261118_0003872444"
         }
       ]
     },
     {
-      "title": "상속",
-      "approx_traffic": "2000+",
-      "published": "Tue, 17 Nov 2026 14:40:00 -0800",
+      "title": "금양",
+      "approx_traffic": "500+",
+      "published": "Tue, 17 Nov 2026 16:10:00 -0800",
       "news": [
         {
-          "title": "10억원에 판 어머니 집, 취득가액은 세무서가 매긴 2억원일까[판례방]",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02650246645645720&mediaCodeNo=257"
+          "title": "금양, 분기보고서 미제출로 상장폐지 사유 추가…가처분 결과까지 절차 보류",
+          "source": "CBC뉴스",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=627441"
         },
         {
-          "title": "[법률라운지] 상속재산 양도차익 계산 시 소급감정가액도 취득가액으로 인정될 수 있을까",
-          "source": "대한경제",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611150959435310083&section=S1N7"
+          "title": "[상폐 호흡기] 120억 떼먹고 \"할말 없다\"…류광지 금양, 끝없는 추락",
+          "source": "한스경제",
+          "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=884225"
         },
         {
-          "title": "안산시, 상하수도료 체납액 집중 징수",
-          "source": "시민일보",
-          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160287287797498"
+          "title": "피씨엘, 정기보고서 잇단 미제출에도 상장폐지 절차 보류 상태 유지",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16278031"
         }
       ]
     },
     {
-      "title": "북한산",
-      "approx_traffic": "2000+",
-      "published": "Tue, 17 Nov 2026 14:40:00 -0800",
+      "title": "공무원연금공단",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 16:00:00 -0800",
       "news": [
         {
-          "title": "\"지리산 제치고 753만 명이 몰린 이유가 있네\"... 2시간 20분 사찰·기암괴석 능선 트레킹 코스",
-          "source": "아던트뉴스",
-          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21732"
+          "title": "공무원연금공단, 제주 ‘런케이션’ 프로그램 운영",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=847518"
         },
         {
-          "title": "젤렌스키 “러, 북한 미사일 의존…우크라이나에 무기·기술 지원 정당”",
+          "title": "공무원연금공단, 임직원 대상 제주4·3 역사·문화 교육 실시...\"지역상생 의식 강화\"",
+          "source": "더퍼스트미디어",
+          "url": "https://www.thefirstmedia.net/news/articleView.html?idxno=213973"
+        },
+        {
+          "title": "공무원 성공적 퇴직 준비·사회 참여 적극 지원",
+          "source": "제주매일",
+          "url": "https://www.jejumaeil.net/news/articleView.html?idxno=406794"
+        }
+      ]
+    },
+    {
+      "title": "카르다노",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 16:00:00 -0800",
+      "news": [
+        {
+          "title": "\"내년엔 모두 행복해질 것\"…ADA 95% 폭락에도 카르다노 창업자의 자신감",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715601"
+        },
+        {
+          "title": "에이다, 최고가 대비 95%↓…창립자는 \"가격 상승 보장한 적 없어\"",
+          "source": "블루밍비트",
+          "url": "https://bloomingbit.io/feed/news/124439"
+        },
+        {
+          "title": "카르다노(ADA) 0.153달러 지지선 지킬까…ETF 자금 유출·기술주 약세 부담",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/270917"
+        }
+      ]
+    },
+    {
+      "title": "메가커피",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 16:00:00 -0800",
+      "news": [
+        {
+          "title": "메가MGC커피 “고객센터 위탁업체 해킹…고객 30명 전화번호 유출”",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715628"
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714831"
         },
         {
-          "title": "젤렌스키 \"러, 北 탄도미사일 의존…미·유럽 무기 지원 정당\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261118_0003872393"
+          "title": "코인 거래소 줄줄이 해킹… “외부 수탁사·업무망 관리 강화해야”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/finance/2026/11/17/63P64UUNEFFZDCP4DYRZ7QA5WI/"
+        },
+        {
+          "title": "‘AI 콜센터’ 메타엠 해킹... 병원 등 150개 고객사 공급망 위협 잠재",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147307"
         }
       ]
     },
     {
-      "title": "argentina vs costa rica",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 14:30:00 -0800",
-      "news": [
-        {
-          "title": "Julián Álvarez disfruta con la camiseta argentina: metió un doblete ante Costa Rica",
-          "source": "ESPN Deportes",
-          "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17528102/julian-alvarez-disfruta-camiseta-argentina-metio-doblete-costa-rica"
-        },
-        {
-          "title": "Los golazos de Nico Paz contra Costa Rica: jugó para un \"10\" y recibió la ovación de bendición de los hinchas en Córdoba",
-          "source": "Clarin.com",
-          "url": "https://www.clarin.com/deportes/golazos-nico-paz-costa-rica-jugo-10-recibio-ovacion-bendicion-hinchas-cordoba_0_Z3WC38mZvJ.html"
-        },
-        {
-          "title": "Dibu Martínez y su vuelta récord al arco: sin máscara y al 100%",
-          "source": "Olé",
-          "url": "https://www.ole.com.ar/seleccion/seleccion-argentina-emiliano-dibu-martinez-vuelta-arco-costa-rica_0_fSLrWs4Dhe.html"
-        }
-      ]
-    },
-    {
-      "title": "무안군",
+      "title": "제물포고등학교",
       "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 14:30:00 -0800",
+      "published": "Tue, 17 Nov 2026 15:30:00 -0800",
       "news": [
         {
-          "title": "울릉군의회, 제297회 제2차 정례회 개회…33일간 의사일정 돌입",
-          "source": "뉴데일리 대구경북",
-          "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/17/2026111750202.html"
+          "title": "‘AI 부정행위 비상’ 70년째 교사 없이 무감독 시험 치르는 인천 제물포고",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261117511075"
         },
         {
-          "title": "양영복 무안군의원. 국고보조율 상향·지방비 부담 완화 촉구 건의안 채택",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=804323"
+          "title": "시험 부정행위 논란 속…인천 제물포고 70년째 무감독 시험",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261117580319"
         },
         {
-          "title": "고창군의회, 328회 정례회 개회…추경에 내년 예산 심의",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261117_0003871899"
-        }
-      ]
-    },
-    {
-      "title": "schd",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 14:30:00 -0800",
-      "news": [
-        {
-          "title": "The Winners Inside SCHD - November 2026",
-          "source": "Seeking Alpha",
-          "url": "https://seekingalpha.com/article/4968854-the-winners-inside-schd-november-2026"
-        },
-        {
-          "title": "Meet Wall Street’s New Dividend King: SCHD’s $27.5B Inflow Surge Signals Shift Away from AI",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/benzinga:74e84a766094b:0-meet-wall-street-s-new-dividend-king-schd-s-27-5b-inflow-surge-signals-shift-away-from-ai/"
-        },
-        {
-          "title": "1 ETF That Can Turn $500 Monthly Into a $600,000 Portfolio That Pays Out $18,000 Annually",
-          "source": "The Motley Fool",
-          "url": "https://www.fool.com/investing/2026/11/14/1-etf-that-can-turn-500-monthly-into-a-600000-portfolio-that-pays-out-usd18-000-annually/"
+          "title": "'AI 커닝' 비상인데 시험 감독 없는 학교? '동문'인 교감에게 물었다",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285844"
         }
       ]
     }
