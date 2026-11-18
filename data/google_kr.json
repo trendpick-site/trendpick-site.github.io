@@ -1,11 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-18T18:00:14+00:00",
+  "fetched_at": "2026-11-18T18:59:10+00:00",
   "items": [
     {
-      "title": "기인",
+      "title": "김정은",
       "approx_traffic": "200+",
+      "published": "Wed, 18 Nov 2026 09:50:00 -0800",
+      "news": [
+        {
+          "title": "시진핑, 공항서 트럼프 포옹... 美中러 담판 전날 ‘파격 예우’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/11/18/HB7CW2IV6BG3FJCBMRDVBHFA4E/"
+        },
+        {
+          "title": "[속보] \"미중러 정상, APEC 환영만찬서 첫 인사 나눠\" AFP",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12328748"
+        },
+        {
+          "title": "APEC 담판, 전쟁 끝낼까...\"해법 쉽지 않을 것\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611182303205047_005.html"
+        }
+      ]
+    },
+    {
+      "title": "승리",
+      "approx_traffic": "100+",
+      "published": "Wed, 18 Nov 2026 09:10:00 -0800",
+      "news": [
+        {
+          "title": "승리 '임신한 부인과 함께 귀국'",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/photo/202611182305239152"
+        },
+        {
+          "title": "승리, ♥임신한 20대 아내와 동반 입국..\"여기까지 찍어라\" 취재진 경계",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-18/202611180100121320011250"
+        },
+        {
+          "title": "만삭 아내와 입국한 승리, 주변 시선에 당황⋯같이 들어와 따로 나갔다",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1650769"
+        }
+      ]
+    },
+    {
+      "title": "한화",
+      "approx_traffic": "100+",
+      "published": "Wed, 18 Nov 2026 09:00:00 -0800",
+      "news": [
+        {
+          "title": "한화시스템, 미국 방산기업에 레이다 첫 수출…\"대량 공급 협의\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261118046200003"
+        },
+        {
+          "title": "한화시스템, 드론 잡는 'AI 레이다' 美 첫 수출",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611184776i"
+        },
+        {
+          "title": "한화시스템, 단거리 AESA 레이다 미국 시장 첫 진출",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611181028011"
+        }
+      ]
+    },
+    {
+      "title": "기인",
+      "approx_traffic": "1000+",
       "published": "Wed, 18 Nov 2026 08:50:00 -0800",
       "news": [
         {
@@ -26,24 +92,24 @@
       ]
     },
     {
-      "title": "ps5 pro",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 06:50:00 -0800",
+      "title": "한화생명 e스포츠",
+      "approx_traffic": "100+",
+      "published": "Wed, 18 Nov 2026 08:50:00 -0800",
       "news": [
         {
-          "title": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/"
+          "title": "[오피셜] '옴므' 떠난 한화생명, '모글리' 이재하 감독 승격",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261117145658079"
         },
         {
-          "title": "GTA 6: PS5 vs PS5 Pro, Xbox Series X and Series S: Which Console Plays Best?",
-          "source": "Digital Foundry",
-          "url": "https://www.digitalfoundry.net/features/gta-6-ps5-vs-ps5-pro-xbox-series-x-and-series-s-which-console-plays-best"
+          "title": "정글러에서 롤드컵 우승 코치로... ‘모글리’, 한화생명 새 사령탑",
+          "source": "STN SPORTS",
+          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325677"
         },
         {
-          "title": "Lucia Caminos in Grand Theft Auto VI at 4K with DLSS 5 and MFG 6X at 280 FPS on an RTX 5090",
-          "source": "GameGPU",
-          "url": "https://en.gamegpu.com/news/igry/lyusiya-kaminos-v-grand-theft-auto-vi-v-4k-s-dlss-5-i-mfg-6x-pri-280-fps-na-rtx-5090"
+          "title": "한화생명 창단 첫 MSI 우승 감독 '옴므' 윤성영 떠난다",
+          "source": "데일리e스포츠",
+          "url": "https://www.dailyesports.com/view.php?ud=20261117105922509374bcc1e038_27"
         }
       ]
     },
@@ -66,6 +132,28 @@
           "title": "'적자 꼬리표' 떼어낼까…롯데·신세계, 편의점·이커머스 실적 개선 '주목'",
           "source": "더팩트",
           "url": "https://news.tf.co.kr/read/economy/2389287.htm"
+        }
+      ]
+    },
+    {
+      "title": "ps5 pro",
+      "approx_traffic": "200+",
+      "published": "Wed, 18 Nov 2026 06:50:00 -0800",
+      "news": [
+        {
+          "title": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/"
+        },
+        {
+          "title": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979"
+        },
+        {
+          "title": "GTA 6: PS5 vs PS5 Pro, Xbox Series X and Series S: Which Console Plays Best?",
+          "source": "Digital Foundry",
+          "url": "https://www.digitalfoundry.net/features/gta-6-ps5-vs-ps5-pro-xbox-series-x-and-series-s-which-console-plays-best"
         }
       ]
     },
@@ -103,102 +191,19 @@
       "published": "Wed, 18 Nov 2026 05:20:00 -0800",
       "news": [
         {
+          "title": "앨리스 소희, 유흥업소 루머 유포자 고소…징역 1년6개월",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261117_0003871518"
+        },
+        {
           "title": "[전문] 김소희 루머 가해자 징역형 “타인 삶 짓밟는 행위, 책임 뒤따라”",
           "source": "스포츠동아",
           "url": "https://sports.donga.com/ent/article/all/20261117/135039372/1"
         },
         {
-          "title": "\"술집서 일하다 남편 만나\"…앨리스 소희, 소문 유포자 징역 1년 6개월 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111714403611889"
-        },
-        {
-          "title": "김소희, 유흥업소 루머 유포자 상대로 승소 \"징역 1년 6개월…경각심 일깨우는 계기 되길\"",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/18/GM2WKNRQGJRGEZRTGY3TMZDFHE/"
-        }
-      ]
-    },
-    {
-      "title": "김명민",
-      "approx_traffic": "500+",
-      "published": "Wed, 18 Nov 2026 05:00:00 -0800",
-      "news": [
-        {
-          "title": "김명민 “스키복 팔다 경찰서까지”…20대 시절 회상",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261118/135051018/1"
-        },
-        {
-          "title": "‘데뷔 30년만 첫 예능’ 김명민, 오늘‘유 퀴즈’ 출격…알고보니 유재석 대학 동기",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261118500603"
-        },
-        {
-          "title": "'유퀴즈' 김명민, 동갑 동문 유재석 만나 터진 입담…\"머리털 나고 처음\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111817057240149"
-        }
-      ]
-    },
-    {
-      "title": "마린 르펜",
-      "approx_traffic": "10000+",
-      "published": "Wed, 18 Nov 2026 04:30:00 -0800",
-      "news": [
-        {
-          "title": "나라 곳간 빨간불인데…\"60세부터 연금 수령\" 파격 승부수",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111855181"
-        },
-        {
-          "title": "佛 대선 유력주자 르펜 \"정년 60세로 낮추겠다\"",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02679766645647032"
-        },
-        {
-          "title": "프랑스 극우 르펜도 극좌 멜랑숑도 \"은퇴 60세로 낮추겠다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261117178100085"
-        }
-      ]
-    },
-    {
-      "title": "누리호",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 04:30:00 -0800",
-      "news": [
-        {
-          "title": "누리호 5차 발사 성공 최종 확인…“목표궤도 진입 정상 수행”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8716239"
-        },
-        {
-          "title": "누리호가 가리키는 7대 시드의 길[기고/배경훈]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261118/135050513/2"
-        },
-        {
-          "title": "누리호 5차 발사 성공 최종 확인…위성 1기 미사출 원인은 미궁",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118110600017"
-        }
-      ]
-    },
-    {
-      "title": "강형욱",
-      "approx_traffic": "2000+",
-      "published": "Wed, 18 Nov 2026 04:20:00 -0800",
-      "news": [
-        {
-          "title": "[오늘의 채널A] 가족 물어대는 두살 몰티즈, 공존 해결책은",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/article/all/20261117/135042032/2"
-        },
-        {
-          "title": "첫 반려견을 불의의 사고로 잃고 새롭게 맞이한 강아지 ’윌리’?! 그런 윌리가 왜 이곳에?!",
-          "source": "채널A",
-          "url": "https://ichannela.com/program/clip/000000560649.do"
+          "title": "\"술집서 15살 연상 남편을…\" 앨리스 소희에 '루머'…잇단 '사이버 악행' 어디까지",
+          "source": "이코노미스트",
+          "url": "https://economist.co.kr/article/view/ecn202611180027"
         }
       ]
     }
