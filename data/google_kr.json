@@ -1,61 +1,127 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-18T12:36:16+00:00",
+  "fetched_at": "2026-11-18T13:54:16+00:00",
   "items": [
     {
-      "title": "ps5",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 03:20:00 -0800",
+      "title": "마린 르펜",
+      "approx_traffic": "2000+",
+      "published": "Wed, 18 Nov 2026 04:30:00 -0800",
       "news": [
         {
-          "title": "PS5 System Update 26.07-14.23.00 Released With Security Fixes Ahead of GTA VI Launch",
-          "source": "TwistedVoxel",
-          "url": "https://twistedvoxel.com/ps5-system-update-26-07-14-23-00-released-with-security-fixes-ahead-of-gta-vi-launch/"
+          "title": "나라 곳간 빨간불인데…\"60세부터 연금 수령\" 파격 승부수",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111855181"
         },
         {
-          "title": "GTA 6's Second Day One Patch Is 620MB On PS5 and 1GB Bigger on Xbox",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/gta-6-gets-another-day-one-patch-bigger-on-xbox"
+          "title": "佛 대선 유력주자 르펜 \"정년 60세로 낮추겠다\"",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02679766645647032"
         },
         {
-          "title": "Gta 6 Won’t Launch Without This PS5 Anti-Piracy Update Sony Just Released",
-          "source": "Polygon.com",
-          "url": "https://www.polygon.com/gta-6-grand-theft-auto-playstation-mandatory-ps5-update/"
-        }
-      ]
-    },
-    {
-      "title": "sxmb",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 03:20:00 -0800",
-      "news": [
-        {
-          "title": "Kết quả xổ số miền Trung hôm nay 18.11: Khánh Hòa, Đà Nẵng",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-1811-khanh-hoa-da-nang-1802699.ldo"
-        },
-        {
-          "title": "Xổ số miền Nam ngày 18 tháng 11: Tìm người trúng số độc đắc đài Đồng Nai",
-          "source": "Thanh Niên",
-          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-18-thang-11-tim-nguoi-trung-so-doc-dac-dai-dong-nai-185261118082051114.htm"
-        },
-        {
-          "title": "XSST 18/11 - Kết quả xổ số Sóc Trăng hôm nay 18/11/2026 - XSST ngày 18 tháng 11",
-          "source": "CafeF",
-          "url": "https://cafef.vn/xsst-18-11-ket-qua-xo-so-soc-trang-hom-nay-18-11-2026-xsst-ngay-18-thang-11-188261118165308926.chn"
-        }
-      ]
-    },
-    {
-      "title": "gta6 메타 크리틱",
-      "approx_traffic": "500+",
-      "published": "Wed, 18 Nov 2026 03:10:00 -0800",
-      "news": [
-        {
-          "title": "더게임어워드 후보작 공개…'붉은사막' 1개 부문 올라",
+          "title": "프랑스 극우 르펜도 극좌 멜랑숑도 \"은퇴 60세로 낮추겠다\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118015500017"
+          "url": "https://www.yna.co.kr/view/AKR20261117178100085"
+        }
+      ]
+    },
+    {
+      "title": "누리호",
+      "approx_traffic": "200+",
+      "published": "Wed, 18 Nov 2026 04:30:00 -0800",
+      "news": [
+        {
+          "title": "누리호 5차 발사 성공 최종 확인…“목표궤도 진입 정상 수행”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716239"
+        },
+        {
+          "title": "누리호 5차 발사 성공 최종 확인…위성 1기 미사출 원인은 미궁",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261118110600017"
+        },
+        {
+          "title": "누리호 5차 발사 검토회의 개최…큐브위성 1기 미사출 원인 특정 실패",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261118000157"
+        }
+      ]
+    },
+    {
+      "title": "kamil mishara",
+      "approx_traffic": "500+",
+      "published": "Wed, 18 Nov 2026 04:20:00 -0800",
+      "news": [
+        {
+          "title": "Chitwan Rhinos set 205-run target for Kathmandu Gorkhas",
+          "source": "Nepalnews.com",
+          "url": "https://english.nepalnews.com/s/sports/chitwan-rhinos-set-205-run-target-for-kathmandu-gorkhas/"
+        },
+        {
+          "title": "Sri Lankan Batter Kamil Mishara Sets New Record in Nepal Premier League",
+          "source": "Ratopati",
+          "url": "https://english.ratopati.com/story/87187/kamil-breaks-mark-watts-record-in-npl"
+        },
+        {
+          "title": "Match Predictions: Nepal Premier League 2026 - 30th Match (Eliminator) - Kathmandu Gorkhas vs Chitwan Rhinos - 18th November",
+          "source": "Cricket World",
+          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-30th-match-eliminator-kathmandu-gorkhas-vs-chitwan-rhinos-18th-november/114390.htm"
+        }
+      ]
+    },
+    {
+      "title": "앙투안 그리즈만",
+      "approx_traffic": "200+",
+      "published": "Wed, 18 Nov 2026 04:20:00 -0800",
+      "news": [
+        {
+          "title": "35세 그리에즈만, MLS 4월 뛰고 신인왕…14골 8도움 폭발",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611181347499bG"
+        },
+        {
+          "title": "[공식발표] 손흥민도 놓쳤던 그 상, '35살' 그리즈만이 받았다! 18경기 14골 8도움→MLS 올해의 영입생 등극 \"올랜도 역사상 최초\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/18/MZSGGYZTGVSWEMRUGFQTENZQGQ/"
+        },
+        {
+          "title": "'35세' 그리스만, MLS 신인왕…4개월 뛰고 '14골 8도움'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261118_0003873740"
+        }
+      ]
+    },
+    {
+      "title": "교통 사고",
+      "approx_traffic": "1000+",
+      "published": "Wed, 18 Nov 2026 04:10:00 -0800",
+      "news": [
+        {
+          "title": "김포 선진버스, ‘교통사고 50% 줄이기’ 과제 조기 달성",
+          "source": "뉴스와이어",
+          "url": "https://www.newswire.co.kr/newsRead.php?no=1047435"
+        },
+        {
+          "title": "선진버스, 교통사고 감축 목표 조기 달성…안전관리 강화",
+          "source": "상용차매거진",
+          "url": "https://www.cvinfo.com/news/articleView.html?idxno=32047"
+        },
+        {
+          "title": "한국도로교통공단 강원지부, 교통사고 줄이기 한마음대회",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117155800062"
+        }
+      ]
+    },
+    {
+      "title": "gta6 메타",
+      "approx_traffic": "200+",
+      "published": "Wed, 18 Nov 2026 03:40:00 -0800",
+      "news": [
+        {
+          "title": "펄어비스 ‘붉은사막’, 더게임어워드 1개 부문 후보 올라",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611180744001"
         },
         {
           "title": "‘GTA6’ 출시도 전에 TGA 올해의 게임 후보로",
@@ -63,163 +129,97 @@
           "url": "https://zdnet.co.kr/view/?no=20261118090703"
         },
         {
-          "title": "펄어비스 ‘붉은사막’, 더게임어워드 1개 부문 후보 올라",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611180744001"
+          "title": "더게임어워드 후보작 공개…'붉은사막' 1개 부문 올라",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261118015500017"
         }
       ]
     },
     {
-      "title": "삼양식품",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 03:10:00 -0800",
+      "title": "cuaca besok",
+      "approx_traffic": "500+",
+      "published": "Wed, 18 Nov 2026 03:40:00 -0800",
       "news": [
         {
-          "title": "“100일 만에 1000만개 판매”…삼양식품 '짜르르', 코스트코 전국 입점",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261118000405"
+          "title": "BMKG Ungkap 34 Wilayah Indonesia Berpotensi Diguyur Hujan Hari Ini",
+          "source": "CNN Indonesia",
+          "url": "https://www.cnnindonesia.com/teknologi/20261117205536-641-1428298/bmkg-ungkap-34-wilayah-indonesia-berpotensi-diguyur-hujan-hari-ini"
         },
         {
-          "title": "삼양식품, 우지 짜장라면 ‘짜르르’ 코스트코 전국 매장서 선봬",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3449887"
+          "title": "Waspada Cuaca Ekstrem Akhir Tahun! BMKG Sebut Siklon AKVAN, MJO, dan Monsun Asia Picu Hujan Lebat",
+          "source": "Kompas.tv",
+          "url": "https://www.kompas.tv/info-publik/702326/waspada-cuaca-ekstrem-akhir-tahun-bmkg-sebut-siklon-akvan-mjo-dan-monsun-asia-picu-hujan-lebat"
         },
         {
-          "title": "[똑똑한한끼] 삼양식품 짜르르 코스트코 입점, 롯데관광개발 흑돼지 자장면 세트…대상웰라이프·잠바·페르노리카",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261118023231648"
+          "title": "Tenang Berkendara Saat Hujan Deras dengan Checklist SIAP BERKENDARA!",
+          "source": "detikOto",
+          "url": "https://oto.detik.com/advertorial-news-block/d-8757081/tenang-berkendara-saat-hujan-deras-dengan-checklist-siap-berkendara"
         }
       ]
     },
     {
-      "title": "gta5",
+      "title": "ps5",
       "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 03:00:00 -0800",
+      "published": "Wed, 18 Nov 2026 03:20:00 -0800",
       "news": [
         {
-          "title": "GTA 5 Last Ride Community Event Leads to Emotional Goodbyes From Fans After 13 Years of Mayhem",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/gta-5-fans-make-one-last-emotional-ride-through-los-santos-before-heading-to-vice-city"
+          "title": "All PS5 users forced out of accounts as GTA 6 executes strictest measures yet",
+          "source": "GAMINGbible",
+          "url": "https://www.gamingbible.com/news/platform/playstation/ps5-users-forced-accounts-gta-6-executes-strictest-measures-708069-20261118"
         },
         {
-          "title": "Grand Theft Auto fan is organizing an in-game ‘Last Ride’ event in GTA Online ahead of GTA 6’s release",
-          "source": "Massively Overpowered",
-          "url": "https://massivelyop.com/2026/11/16/grand-theft-auto-fan-is-organizing-an-in-game-last-ride-event-in-gta-online-ahead-of-gta-6s-release/"
+          "title": "Sony squeezes out a PlayStation 5 firmware update before the release of GTA 6",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/ps5-firmware-update-gta-6"
         },
         {
-          "title": "Fear And Loathing In Los Santos: How It Feels To Leave GTA 5 Behind",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/fear-and-loathing-in-los-santos-how-it-feels-to-leave-gta-5-behind/"
+          "title": "A security researcher claims they dumped game binary on firmware required for GTA 6, but Sony's latest update likely blocks the exploit",
+          "source": "XDA",
+          "url": "https://www.xda-developers.com/security-researcher-claims-dumped-game-binary-gta-6-required-firmware-latest-update-blocks-exploit/"
         }
       ]
     },
     {
-      "title": "국제신문",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 03:00:00 -0800",
-      "news": [
-        {
-          "title": "소각장 멈추면 쓰레기 대신 처리…부산·김해시 손 잡았다",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261118.22006005238"
-        },
-        {
-          "title": "부산시*경남 김해시 폐기물 교차 소각 추진",
-          "source": "부산경남대표방송 KNN 뉴스",
-          "url": "https://news.knn.co.kr/news/article/194487"
-        },
-        {
-          "title": "[사설] 폐기물 교차소각, 지자체 협력 확대해야",
-          "source": "경남매일",
-          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=598779"
-        }
-      ]
-    },
-    {
-      "title": "헝거게임",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 02:50:00 -0800",
-      "news": [
-        {
-          "title": "[포토] 엘 패닝 ‘동화 속 비주얼’",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/entertainment/foreigncountryN/2026/11/17/20261117500296"
-        },
-        {
-          "title": "네자, 뉴욕 앨리스 털리 홀서 '헝거 게임' 프리미어 참석",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755325"
-        },
-        {
-          "title": "빈티지 콤팩트로 뒤덮인 드레스! 엘르 패닝의 ‘헝거 게임’ 프리미어 룩",
-          "source": "Vogue korea",
-          "url": "https://www.vogue.co.kr/2026/11/18/%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%BD%A4%ED%8C%A9%ED%8A%B8%EB%A1%9C-%EB%92%A4%EB%8D%AE%EC%9D%B8-%EB%93%9C%EB%A0%88%EC%8A%A4-%EC%97%98%EB%A5%B4-%ED%8C%A8%EB%8B%9D%EC%9D%98-%ED%97%9D%EA%B1%B0-%EA%B2%8C/"
-        }
-      ]
-    },
-    {
-      "title": "유칼",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 02:40:00 -0800",
-      "news": [
-        {
-          "title": "[오피셜] '유칼' 손우현, 7년 만에 DN 복귀...'두두'-'커즈'와 함께 상체 구축",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261118031442027"
-        },
-        {
-          "title": "'커즈' 문우찬, DN 수퍼스 복귀⋯\"월즈 진출해 좋은 성적 내고 싶다\" [공식]",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2649574"
-        },
-        {
-          "title": "'유칼' 손우현, 2027 LCK 시즌 DN 수퍼스 합류",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/kr/articles/ucal-joins-dn-soopers-for-the-2027-lck-season/kr"
-        }
-      ]
-    },
-    {
-      "title": "포스코노동조합",
+      "title": "kick",
       "approx_traffic": "100+",
-      "published": "Wed, 18 Nov 2026 02:30:00 -0800",
+      "published": "Wed, 18 Nov 2026 03:20:00 -0800",
       "news": [
         {
-          "title": "포스코 노사, 임단협 돌파구 찾나…포스코, 노조에 대화 요청",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261117000252"
+          "title": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
+          "source": "About Amazon",
+          "url": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026"
         },
         {
-          "title": "포스코 노사, 총파업 앞두고 '막판 담판'…이희근 대표 대화 요청",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261117142359"
+          "title": "Black Friday 2026 is Nov. 27: what forecasters expect shoppers to spend, and where the discounts are",
+          "source": "MLQ.ai",
+          "url": "https://mlq.ai/news/black-friday-2026-is-nov-27-what-forecasters-expect-shoppers-to-spend-and-where-the-discounts-are/"
         },
         {
-          "title": "“거대 산별 정치 투쟁과 조합비 상납 끝냈다…현장 중심 진짜 노동운동 길 열 것”",
-          "source": "주간한국",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7194181"
+          "title": "We've been tracking Black Friday prices all month — these are the 75+ best deals on phones, laptops, TVs, appliances and more",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/seasonal-sales/live/black-friday-sales-australia-live-1"
         }
       ]
     },
     {
-      "title": "미래에셋생명",
-      "approx_traffic": "100+",
-      "published": "Wed, 18 Nov 2026 02:20:00 -0800",
+      "title": "twitch",
+      "approx_traffic": "200+",
+      "published": "Wed, 18 Nov 2026 03:20:00 -0800",
       "news": [
         {
-          "title": "미래에셋생명 해킹 유출 1만 명 넘어‥스트리미 2천 명으로 늘어",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6866619_36932.html"
+          "title": "AI is still weighing on streamers at Twitch’s biggest event of the year",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/tech/tech-news/twitchcon-ai-streamers-mixed-response-technology-tools-rcna608806"
         },
         {
-          "title": "미래에셋생명 개인정보 유출 규모 1만418명... 금융당국 신고",
-          "source": "보안뉴스",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=147356"
+          "title": "OpenAI booth draws criticism at TwitchCon over AI’s role in creative work",
+          "source": "Mezha.net",
+          "url": "https://mezha.net/eng/news/mezha-1faf375a815f4ed495df72e9_openai_booth_draws/"
         },
         {
-          "title": "미래에셋생명 해킹 피해 1만명 넘어…피해 규모 추가 확인",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03863846645647032"
+          "title": "OpenAI TwitchCon 2026 controversy explained: Why streamers are angry over AI training",
+          "source": "Geo News",
+          "url": "https://www.geo.tv/latest/691658-openai-twitchcon-2026-controversy-explained-why-streamers-are-angry-over-ai-training"
         }
       ]
     }
