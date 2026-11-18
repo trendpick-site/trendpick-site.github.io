@@ -1,220 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-18T20:58:26+00:00",
+  "fetched_at": "2026-11-18T21:56:23+00:00",
   "items": [
     {
-      "title": "김해국제공항",
+      "title": "오현규",
       "approx_traffic": "100+",
-      "published": "Wed, 18 Nov 2026 11:40:00 -0800",
+      "published": "Wed, 18 Nov 2026 12:50:00 -0800",
       "news": [
         {
-          "title": "김해공항에서 가덕도 신공항까지…정영수 \"통합 LCC 본사는 강서구로\"",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756073"
+          "title": "[사커토픽] 손흥민 유럽 복귀·김민재 EPL행·오현규 나폴리 트레이드설…A매치 기간에도 뜨거운 코리안 스타 이적시장",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261117/135037364/1"
         },
         {
-          "title": "대한항공·아시아나 합병, '통합 진에어' 앞둔 한진그룹 항공사들…내주 주주 설명회",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261118_0003873718"
+          "title": "‘韓 국대’ 오현규, 220억 ‘프리미어리그 입성’ 토트넘 이적으로 성사될까 “1월 이적시장 영입 검토 중”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611182033003"
         },
         {
-          "title": "에어부산 존폐 위기… 부울경 시민단체 “정부가 결자해지하라”",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261116501120"
-        }
-      ]
-    },
-    {
-      "title": "삼전 닉스",
-      "approx_traffic": "20000+",
-      "published": "Wed, 18 Nov 2026 11:10:00 -0800",
-      "news": [
-        {
-          "title": "[마감시황] 11/18 엔비디아 호실적에 코스피 +1.99% 반등",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/ontimebrief/sihwangontime/contents/261118175325946ih"
-        },
-        {
-          "title": "오천피 이끈 기관… 삼전닉스는 숨돌리기 - 머니투데이",
+          "title": "오현규 이적설 떴다! 김민재 이어 나폴리 가나... 튀르키예서 \"네레스와 맞교환 추진\", 관건은 추가 이적료 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/19/2026111819575381013"
-        },
-        {
-          "title": "삼성전자, 2.3% 상승 마감…하닉은 4.2%↑(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118045151008"
+          "url": "https://www.mt.co.kr/sports/2026/11/16/2026111621140396034"
         }
       ]
     },
     {
-      "title": "한화오션",
-      "approx_traffic": "2000+",
-      "published": "Wed, 18 Nov 2026 10:30:00 -0800",
-      "news": [
-        {
-          "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118170400704"
-        },
-        {
-          "title": "3,600톤급 호위함 ’평택함’ 진수…내년 해군 인도 예정",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119051543jAe"
-        },
-        {
-          "title": "평택함 한화오션에서 진수",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261118_0021537299&provider_id=&cID=&type=Main&catg=&idx=4"
-        }
-      ]
-    },
-    {
-      "title": "자영업",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 10:00:00 -0800",
-      "news": [
-        {
-          "title": "울산 남구, 골목상권 소통·상생의 날… 민생경제 활력 모색",
-          "source": "울산종합일보",
-          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065591419687808"
-        },
-        {
-          "title": "골목상인 10명 중 6명 \"작년보다 매출 감소\"",
-          "source": "경상일보",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072977"
-        }
-      ]
-    },
-    {
-      "title": "김정은",
-      "approx_traffic": "500+",
-      "published": "Wed, 18 Nov 2026 09:50:00 -0800",
-      "news": [
-        {
-          "title": "미중러 정상 오늘 사상 첫 3자회담…세계질서 중대 분수령",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118159000083"
-        },
-        {
-          "title": "시진핑, 직접 공항 나가 트럼프 ‘포옹 영접’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261119/135050902/2"
-        },
-        {
-          "title": "견제서 초밀착으로 변한 중국·러시아…미국과 ‘2 대 1’ 새 강대국 구도 첫선",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611182117005"
-        }
-      ]
-    },
-    {
-      "title": "gta6 프레임",
-      "approx_traffic": "100+",
-      "published": "Wed, 18 Nov 2026 09:40:00 -0800",
-      "news": [
-        {
-          "title": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979"
-        },
-        {
-          "title": "The full GTA VI graphics breakdown on PS5 Pro, PS5, Xbox Series X, and Xbox Series S.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/1037018/gta-vi-framerate-resolution-compared-playstation-xbox"
-        },
-        {
-          "title": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/"
-        }
-      ]
-    },
-    {
-      "title": "승리",
-      "approx_traffic": "100+",
-      "published": "Wed, 18 Nov 2026 09:10:00 -0800",
-      "news": [
-        {
-          "title": "승리, 만삭 20대 아내와 동반 입국…D라인 포착",
-          "source": "TV조선뉴스",
-          "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990001.html"
-        },
-        {
-          "title": "승리 '임신한 부인과 함께 귀국'",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/photo/202611182305239152"
-        },
-        {
-          "title": "승리, ♥임신한 20대 아내와 동반 입국..\"여기까지 찍어라\" 취재진 경계",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-18/202611180100121320011250"
-        }
-      ]
-    },
-    {
-      "title": "한화생명",
-      "approx_traffic": "100+",
-      "published": "Wed, 18 Nov 2026 09:10:00 -0800",
-      "news": [
-        {
-          "title": "'350조 운용' KIC 차기 CIO에 신민식…다음주 초 인사 발표",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/Read?newsId=03178326645647032"
-        },
-        {
-          "title": "350조 굴릴 한국투자공사 새 CIO에 한화생명 출신 신민식",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026111818335608440"
-        },
-        {
-          "title": "KIC 신임 CIO에 신민식·COO에 신용선 내정",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445349"
-        }
-      ]
-    },
-    {
-      "title": "한화",
-      "approx_traffic": "100+",
-      "published": "Wed, 18 Nov 2026 09:00:00 -0800",
-      "news": [
-        {
-          "title": "한화비전, 한화세미텍 매각설 일축…\"검토한 바 없다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1WNhADiPof"
-        },
-        {
-          "title": "[한화세미텍의 민낯] 호실적에도 매각설…TC 본더 성장세 '물음표'",
-          "source": "딜사이트",
-          "url": "https://dealsite.co.kr/articles/172804"
-        },
-        {
-          "title": "한화비전, 한화세미텍 매각설에 \"사실무근…기술 강화 힘쓸 것\"",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03548966645647032"
-        }
-      ]
-    },
-    {
-      "title": "기인",
+      "title": "안세영",
       "approx_traffic": "1000+",
-      "published": "Wed, 18 Nov 2026 08:50:00 -0800",
+      "published": "Wed, 18 Nov 2026 12:50:00 -0800",
       "news": [
         {
-          "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
+          "title": "[오늘의 영상] 언제나 어디서나 월드 클래스!",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8714321"
+        },
+        {
+          "title": "[스포츠 영상] '12승 신기록 도전' 안세영 '오늘은 팬들과 함께!'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866097_37004.html"
+        },
+        {
+          "title": "\"안세영도, 야마구치도 없다\" 中, 무려 8개월 기다린 우승 기회... 왕즈이부터 압승 출발, 천위페이도 정상 도전 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/18/2026111813330517401"
+        }
+      ]
+    },
+    {
+      "title": "공무원시험",
+      "approx_traffic": "2000+",
+      "published": "Wed, 18 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "[단독]세무사 수석, ‘부정행위용 프로그램’ 만들고 계산기 개조해 명령어 입력···초소형 모니터로 답 확인",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611181537001"
+        },
+        {
+          "title": "‘AI커닝’ 수석, 수정테이프에 카메라 숨기고 계산기를 키보드로 써",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261119/135050924/2"
+        },
+        {
+          "title": "\"정신 나간 듯\" 교사 분노한 ‘추가 대책’…\"피해는 학생이\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12328717"
+        }
+      ]
+    },
+    {
+      "title": "롯데 자이언츠",
+      "approx_traffic": "2000+",
+      "published": "Wed, 18 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "롯데 한동희, 중수골 골절…\"회복까지 6주 소요\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261118232110Z1r"
+        },
+        {
+          "title": "롯데 캠프에 충격 비보…'리틀 이대호' 4번타자 골절 날벼락, '4일 150구' 국대 필승조 듀오 괜찮을까 [오!쎈 미야자키]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/18/GA4TKMJWGVSGGMJSGU4WEMJVMU/"
+        },
+        {
+          "title": "뼈에는 이상 없다더니…APBC 다녀온 롯데 한동희, 귀국 후 검진 결과 우측 중수골 골절 진단 ‘회복까지 6주 ...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611181715003"
+        }
+      ]
+    },
+    {
+      "title": "미사일",
+      "approx_traffic": "200+",
+      "published": "Wed, 18 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "젤렌스키 “러, 북한 미사일 의존…우크라이나에 무기·기술 지원 정당”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715628"
+        },
+        {
+          "title": "\"북한, 한 달 수십 발씩 러시아에 탄도미사일 제공…미사일 성능 갈고 닦아\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/11/17/ZN7KQ3MVTRBQDFLCF4JHHPYDJY/"
+        },
+        {
+          "title": "미·중·러 회담 앞두고 북·러 밀착 강조한 젤렌스키⋯ 美·유럽, 우크라 작전 놓고 공개 충돌",
           "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/20261119500020"
+          "url": "https://www.kmib.co.kr/article/20261118501969"
+        }
+      ]
+    },
+    {
+      "title": "채무",
+      "approx_traffic": "100+",
+      "published": "Wed, 18 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "중앙일보, 1370억원 공모채 채무조정안 모두 가결… 매각 작업 탄력",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/11/17/TAU5FXBYMZHIDLLFDWUUW6HBK4/"
         },
         {
-          "title": "LCK 스토브리그 개장 첫날 기인·캐니언 FA…하루 새 주전 10명 시장행",
-          "source": "중부매일",
-          "url": "https://www.jbnews.com/news/articleView.html?idxno=1516224"
+          "title": "[사설] 성실하게 빚 갚은 사람만 소외됐다",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25479612"
         },
         {
-          "title": "롤드컵 끝나자 LCK 스토브리그…한화 ‘모글리’, DK 해체설 진화",
-          "source": "진일보 | 전남일보",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000083816"
+          "title": "새출발기금의 역설 … 빚 깎아줘도 못 갚아",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12211464"
+        }
+      ]
+    },
+    {
+      "title": "южная корея",
+      "approx_traffic": "100+",
+      "published": "Wed, 18 Nov 2026 12:20:00 -0800",
+      "news": [
+        {
+          "title": "ИИ нашел опасную уязвимость в Java — одном из самых популярных языков программирования",
+          "source": "BBC",
+          "url": "https://www.bbc.com/russian/articles/c6wy97p52g04o"
+        },
+        {
+          "title": "В OpenJDK обнаружили критическую уязвимость Java4Shell. Под угрозой Jenkins, Jira и другие Java-приложения",
+          "source": "Хабр",
+          "url": "https://habr.com/ru/companies/otus/articles/1109208/"
+        },
+        {
+          "title": "Миллионы ИТ-систем по всему миру под угрозой: GPT-6 Cyber нашла критическую дыру в Java",
+          "source": "3DNews",
+          "url": "https://3dnews.ru/1151462/millioni-itsistem-po-vsemu-miru-pod-ugrozoy-gpt6-cyber-nashyol-kriticheskuyu-diru-v-java"
+        }
+      ]
+    },
+    {
+      "title": "택시",
+      "approx_traffic": "1000+",
+      "published": "Wed, 18 Nov 2026 12:10:00 -0800",
+      "news": [
+        {
+          "title": "택시비 더 낸 승객 찾아 차액 돌려준 기사…치킨 선물도 사양",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118101721Uy2"
+        },
+        {
+          "title": "요금 더 내고 간 승객에 전화해 돈 돌려준 택시 기사",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261117072332525"
+        }
+      ]
+    },
+    {
+      "title": "김건희",
+      "approx_traffic": "100+",
+      "published": "Wed, 18 Nov 2026 12:10:00 -0800",
+      "news": [
+        {
+          "title": "한덕수 대법 선고 D-1···“12·3은 내란” 여부 첫 판단 나온다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611181655001"
+        },
+        {
+          "title": "’한덕수 내란·김건희 3대 의혹’…오늘 나란히 대법 선고",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119044431Z5i"
+        },
+        {
+          "title": "조국혁신당 경기도당 “19일 본회의서 민주유공자법 반드시 처리해야”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261118580085"
+        }
+      ]
+    },
+    {
+      "title": "김상식",
+      "approx_traffic": "1000+",
+      "published": "Wed, 18 Nov 2026 12:10:00 -0800",
+      "news": [
+        {
+          "title": "'4명 두 자릿수 득점' 프로농구 삼성, 단독 1위로 휴식기 맞이",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261118185700007"
+        },
+        {
+          "title": "'삼성은 선두 굳히고, 신한은행은 3초의 기적 썼다' LG 94-88 제압, KB스타즈 62-61 역전승 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/19/202611190009777279O"
+        },
+        {
+          "title": "[현장인터뷰]'국가대표 배출' 김상식 감독 \"지도자로서 뿌듯\" vs '부상 병동' 조상현 감독 \"마레이 치골 염증, 경기 양상 봐야한다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/basketball/2026/11/18/GQ2DEYRQMVTGKZBUHBQWKNZZMM/"
         }
       ]
     }
