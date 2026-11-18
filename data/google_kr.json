@@ -1,33 +1,77 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-18T20:02:34+00:00",
+  "fetched_at": "2026-11-18T20:58:26+00:00",
   "items": [
     {
+      "title": "김해국제공항",
+      "approx_traffic": "100+",
+      "published": "Wed, 18 Nov 2026 11:40:00 -0800",
+      "news": [
+        {
+          "title": "김해공항에서 가덕도 신공항까지…정영수 \"통합 LCC 본사는 강서구로\"",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756073"
+        },
+        {
+          "title": "대한항공·아시아나 합병, '통합 진에어' 앞둔 한진그룹 항공사들…내주 주주 설명회",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261118_0003873718"
+        },
+        {
+          "title": "에어부산 존폐 위기… 부울경 시민단체 “정부가 결자해지하라”",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261116501120"
+        }
+      ]
+    },
+    {
+      "title": "삼전 닉스",
+      "approx_traffic": "20000+",
+      "published": "Wed, 18 Nov 2026 11:10:00 -0800",
+      "news": [
+        {
+          "title": "[마감시황] 11/18 엔비디아 호실적에 코스피 +1.99% 반등",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/ontimebrief/sihwangontime/contents/261118175325946ih"
+        },
+        {
+          "title": "오천피 이끈 기관… 삼전닉스는 숨돌리기 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/19/2026111819575381013"
+        },
+        {
+          "title": "삼성전자, 2.3% 상승 마감…하닉은 4.2%↑(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261118045151008"
+        }
+      ]
+    },
+    {
       "title": "한화오션",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Wed, 18 Nov 2026 10:30:00 -0800",
       "news": [
         {
-          "title": "3천600톤급 호위함 ‘평택함’ 진수…시운전 거쳐 내년 해군 인도",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715888"
+          "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261118170400704"
+        },
+        {
+          "title": "3,600톤급 호위함 ’평택함’ 진수…내년 해군 인도 예정",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119051543jAe"
         },
         {
           "title": "평택함 한화오션에서 진수",
           "source": "뉴시스",
           "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261118_0021537299&provider_id=&cID=&type=Main&catg=&idx=4"
-        },
-        {
-          "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118170400704"
         }
       ]
     },
     {
       "title": "자영업",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Wed, 18 Nov 2026 10:00:00 -0800",
       "news": [
         {
@@ -48,19 +92,41 @@
       "published": "Wed, 18 Nov 2026 09:50:00 -0800",
       "news": [
         {
-          "title": "[속보] \"미중러 정상, APEC 환영만찬서 첫 인사 나눠\" AFP",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12328748"
+          "title": "미중러 정상 오늘 사상 첫 3자회담…세계질서 중대 분수령",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261118159000083"
         },
         {
-          "title": "미중러 정상회담일, 유럽은 ’의지의 연합’ 정상회의",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261119040138wAU"
+          "title": "시진핑, 직접 공항 나가 트럼프 ‘포옹 영접’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261119/135050902/2"
         },
         {
-          "title": "APEC 담판, 전쟁 끝낼까...\"해법 쉽지 않을 것\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611182303205047_005.html"
+          "title": "견제서 초밀착으로 변한 중국·러시아…미국과 ‘2 대 1’ 새 강대국 구도 첫선",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611182117005"
+        }
+      ]
+    },
+    {
+      "title": "gta6 프레임",
+      "approx_traffic": "100+",
+      "published": "Wed, 18 Nov 2026 09:40:00 -0800",
+      "news": [
+        {
+          "title": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979"
+        },
+        {
+          "title": "The full GTA VI graphics breakdown on PS5 Pro, PS5, Xbox Series X, and Xbox Series S.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/1037018/gta-vi-framerate-resolution-compared-playstation-xbox"
+        },
+        {
+          "title": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/"
         }
       ]
     },
@@ -70,14 +136,14 @@
       "published": "Wed, 18 Nov 2026 09:10:00 -0800",
       "news": [
         {
-          "title": "승리 '임신한 부인과 함께 귀국'",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/photo/202611182305239152"
-        },
-        {
           "title": "승리, 만삭 20대 아내와 동반 입국…D라인 포착",
           "source": "TV조선뉴스",
           "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990001.html"
+        },
+        {
+          "title": "승리 '임신한 부인과 함께 귀국'",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/photo/202611182305239152"
         },
         {
           "title": "승리, ♥임신한 20대 아내와 동반 입국..\"여기까지 찍어라\" 취재진 경계",
@@ -136,6 +202,11 @@
       "published": "Wed, 18 Nov 2026 08:50:00 -0800",
       "news": [
         {
+          "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/20261119500020"
+        },
+        {
           "title": "LCK 스토브리그 개장 첫날 기인·캐니언 FA…하루 새 주전 10명 시장행",
           "source": "중부매일",
           "url": "https://www.jbnews.com/news/articleView.html?idxno=1516224"
@@ -144,77 +215,6 @@
           "title": "롤드컵 끝나자 LCK 스토브리그…한화 ‘모글리’, DK 해체설 진화",
           "source": "진일보 | 전남일보",
           "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000083816"
-        },
-        {
-          "title": "젠지, '기인' 김기인ㆍ'캐니언' 김건부 계약 종료 [공식]",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2649030"
-        }
-      ]
-    },
-    {
-      "title": "한화생명 e스포츠",
-      "approx_traffic": "100+",
-      "published": "Wed, 18 Nov 2026 08:50:00 -0800",
-      "news": [
-        {
-          "title": "[오피셜] '옴므' 떠난 한화생명, '모글리' 이재하 감독 승격",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261117145658079"
-        },
-        {
-          "title": "한화생명 창단 첫 MSI 우승 감독 '옴므' 윤성영 떠난다",
-          "source": "데일리e스포츠",
-          "url": "https://www.dailyesports.com/view.php?ud=20261117105922509374bcc1e038_27"
-        },
-        {
-          "title": "정글러에서 롤드컵 우승 코치로... ‘모글리’, 한화생명 새 사령탑",
-          "source": "STN SPORTS",
-          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325677"
-        }
-      ]
-    },
-    {
-      "title": "흰수마자",
-      "approx_traffic": "100+",
-      "published": "Wed, 18 Nov 2026 07:50:00 -0800",
-      "news": [
-        {
-          "title": "경기 문산천에 멸종위기 1급 '흰수마자' 서식",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337070"
-        },
-        {
-          "title": "경기도, 파주 문산천에 멸종위기야생생물 ‘흰수마자’ 서식",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041247"
-        },
-        {
-          "title": "한반도 고유종 멸종위기Ⅰ급 ‘흰수마자’, 파주 문산천서 발견",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261117580015"
-        }
-      ]
-    },
-    {
-      "title": "신세계",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 06:50:00 -0800",
-      "news": [
-        {
-          "title": "신세계 3분기 실적, 어디 하나 빠진 곳이 없네",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445071"
-        },
-        {
-          "title": "[리포트 브리핑]신세계, '3Q26 Re: 탄탄한 실적, 백화점 성장률이 관건' 목표가 365,000원 - 하나증권",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261111000117"
-        },
-        {
-          "title": "iM證 “신세계, 외국인 소비 둔화에…목표가 41% 하향”",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/11/16/2H2QT5ZMEVDIRN723JTZH7CKSI/"
         }
       ]
     }
