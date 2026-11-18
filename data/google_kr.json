@@ -1,8 +1,96 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-18T07:26:26+00:00",
+  "fetched_at": "2026-11-18T08:41:46+00:00",
   "items": [
+    {
+      "title": "시진핑",
+      "approx_traffic": "1000+",
+      "published": "Tue, 17 Nov 2026 23:30:00 -0800",
+      "news": [
+        {
+          "title": "중국 '한한령' 해제…\"K기업, 중국 내 매장 운영하고 여행객 모집 가능\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/11/18/2026111816001870347"
+        },
+        {
+          "title": "李 “온갖 욕 먹으면서도 국민 행복 보는 재미로 일해”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261118/135046849/1"
+        },
+        {
+          "title": "이 대통령, 중국 선전서 시진핑 주석과 정상회담…34분간 진행",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8716036"
+        }
+      ]
+    },
+    {
+      "title": "솔비",
+      "approx_traffic": "5000+",
+      "published": "Tue, 17 Nov 2026 23:10:00 -0800",
+      "news": [
+        {
+          "title": "솔비, ♥이규한과 결혼 전 경사…“오빠, 꿈 이뤄줘서 고마워”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611170917003"
+        },
+        {
+          "title": "“결혼선물…” 솔비♥이규한, 결혼 5개월 앞두고 ‘겹경사’",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/11/18/20261118500036"
+        },
+        {
+          "title": "이규한♥출연은 신의 한수?..솔비 경사터졌다! '사랑의 힘' [Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/MJRWEZDCMEZWEN3GMVSGCOBRGM/"
+        }
+      ]
+    },
+    {
+      "title": "cve 2026 114938",
+      "approx_traffic": "2000+",
+      "published": "Tue, 17 Nov 2026 22:30:00 -0800",
+      "news": [
+        {
+          "title": "Critical flaw found in vital internet platform Java through AI",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cke89jevqm1vo"
+        },
+        {
+          "title": "After a serious security vulnerability was recently discovered in the web development language PHP",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/world/12212631"
+        },
+        {
+          "title": "How to Find, Mitigate, and Patch the Critical Java4Shell Flaw (CVE-2026-114938) Now",
+          "source": "Qualys",
+          "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/11/17/how-to-find-mitigate-and-patch-the-critical-java4shell-flaw-cve-2026-114938-now"
+        }
+      ]
+    },
+    {
+      "title": "계약결혼",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 22:30:00 -0800",
+      "news": [
+        {
+          "title": "최정현 프러포즈, 정민현에 “결혼하고 싶다” (계약결혼)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261116/135032862/1"
+        },
+        {
+          "title": "'계약결혼' 32기 영수, 국화에 \"결혼하고 싶다\" 고백…금연 결심까지",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6355055"
+        },
+        {
+          "title": "'계약결혼' 정현, 민현에 \"결혼하고 싶어\" 직진 고백…금연 선언까지",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524973"
+        }
+      ]
+    },
     {
       "title": "허훈",
       "approx_traffic": "200+",
@@ -31,25 +119,25 @@
       "published": "Tue, 17 Nov 2026 22:10:00 -0800",
       "news": [
         {
-          "title": "Quentin Grimes matches Kobe Bryant mark with 10 3-pointers, drops career-high 47 points to lift Lakers past Hornets",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/breaking-news/article/quentin-grimes-matches-kobe-bryant-mark-with-10-3-pointers-drops-career-high-47-points-to-lift-lakers-past-hornets-070602327.html"
+          "title": "Charlotte Hornets vs Los Angeles Lakers Nov 17, 2026 Box Scores",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/game/cha-vs-lal-0022600256/box-score"
         },
         {
-          "title": "Luka Doncic, Lakers survive OT thriller and beat Hornets for ninth straight win",
-          "source": "USA Today",
-          "url": "https://www.usatoday.com/story/sports/nba/lakers/2026/11/17/luka-doncic-points-reaction-lakers-hornets--live/92838172007/"
+          "title": "Tim Connelly's bargain-bin moves are paying off for the Timberwolves",
+          "source": "Dunking with Wolves",
+          "url": "https://dunkingwithwolves.com/tim-connelly-s-bargain-bin-moves-are-paying-off-for-the-timberwolves"
         },
         {
-          "title": "NBA Roundup: Doncic fuels furious rally, Wemby falters in rough night",
-          "source": "Eurohoops",
-          "url": "https://www.eurohoops.net/en/nba-news/2036929/luka-doncic-victor-wembanyama-nba-european-recap-2/"
+          "title": "The Timberwolves Could Be a NIGHTMARE",
+          "source": "BVM Sports",
+          "url": "https://bvmsports.com/2026/11/15/the-timberwolves-could-be-a-nightmare/"
         }
       ]
     },
     {
       "title": "네이버 뉴스",
-      "approx_traffic": "1000+",
+      "approx_traffic": "2000+",
       "published": "Tue, 17 Nov 2026 22:00:00 -0800",
       "news": [
         {
@@ -80,14 +168,14 @@
           "url": "https://www.khan.co.kr/article/202611181138001"
         },
         {
-          "title": "[속보] 이혜훈 ‘부정 청약’ 로또 아파트, 취소되나?…국토부, 분양계약 취소 ‘공문’ 보내",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10941195"
+          "title": "국토부, 이혜훈 ‘반포 원펜타스’ 조합에 계약취소 요청…몰수 가능성",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261118/135047828/1"
         },
         {
-          "title": "국토부, 이혜훈 부부 ‘래미안 원펜타스’ 분양계약 취소 요청",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261118/135044590/1"
+          "title": "국토부, 이혜훈 위장전입 의혹 '래미안 원펜타스' 계약 취소 요청",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02266486645647032&mediaCodeNo=257"
         }
       ]
     },
@@ -115,111 +203,23 @@
     },
     {
       "title": "전국민주노동조합총연맹",
-      "approx_traffic": "100+",
+      "approx_traffic": "200+",
       "published": "Tue, 17 Nov 2026 21:50:00 -0800",
       "news": [
         {
-          "title": "[민주노총 선거 공약 보니] 최대 쟁점 ‘사회적 대화’ 후보조 각양각색",
-          "source": "매일노동뉴스",
-          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237764"
-        },
-        {
-          "title": "산업격변 속 노동계 새 수장 누구?",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336861"
-        },
-        {
-          "title": "다시, 국민과 함께하는 노동운동을 기대한다",
-          "source": "미담플러스",
-          "url": "https://www.midamplus.com/news/article.html?no=31484"
-        }
-      ]
-    },
-    {
-      "title": "금융 포용",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 21:30:00 -0800",
-      "news": [
-        {
-          "title": "소진공, 신한카드·KCB와 '소상공인 AI 경영지원 확대' 협약",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1201203"
-        },
-        {
-          "title": "소상공인 부담 낮추고 취약계층 보호…금융권 포용금융 확대",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261118_0003872784"
-        },
-        {
-          "title": "신한카드, 소상공인 경영 지원 AI 접목…소비 데이터 제공",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/economy/2390205.htm"
-        }
-      ]
-    },
-    {
-      "title": "경정",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 21:30:00 -0800",
-      "news": [
-        {
-          "title": "경정 시즌 막바지, 다승왕과 그랑프리 향한 질주로 수면이 뜨겁다",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261117/135028450/1"
-        },
-        {
-          "title": "경정 시즌 막바지 다승왕 경쟁 치열…심상철·박원규 선두 다툼",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/life/2026-11-18/202611170100110770010201"
-        },
-        {
-          "title": "경정 다승왕·그랑프리 주인공은 누구… 심상철 45승 선두, 박원규 맹추격",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=20261116173124326707f28b58b8_12"
-        }
-      ]
-    },
-    {
-      "title": "로또",
-      "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 21:10:00 -0800",
-      "news": [
-        {
-          "title": "\"회사에서 확인한 로또, 1등 31억 당첨\"…인증글 올린 직장인",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02122166645647032&mediaCodeNo=257"
-        },
-        {
-          "title": "\"2등 당첨되는 꿈\" 회사에서 확인한 로또, 31억 대박...'음소거 환호' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/society/2026/11/18/2026111805495346241"
-        },
-        {
-          "title": "제1250회 로또 1등 9명···당첨금 31억원",
+          "title": "“주 52시간 예외 없어도 투자할 기업은 투자”…여권 주최 토론회에서 초광역특구법 비판",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611142052001"
-        }
-      ]
-    },
-    {
-      "title": "병무청",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 20:50:00 -0800",
-      "news": [
-        {
-          "title": "병무청, 19일 수능날 병역판정검사 미실시…20일부터 재개",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6357747"
+          "url": "https://www.khan.co.kr/article/202611181613001"
         },
         {
-          "title": "경인지방병무청,수능시험 19일 병역판정검사 휴무",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/region/article/all/20261118/135045691/1"
+          "title": "\"노동자 희생 강요\" vs \"유연성 필요\"…초광역특구법 노동특례 공방 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/11/18/2026111815461079818"
         },
         {
-          "title": "부산울산병무청, 수능일 병역판정검사 휴무…20일 재개",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755771"
+          "title": "노사정, 초광역특구 '주 52시간 예외' 놓고 본격 줄다리기",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850182"
         }
       ]
     }
