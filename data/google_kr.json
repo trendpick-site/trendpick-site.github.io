@@ -1,27 +1,49 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-18T16:04:26+00:00",
+  "fetched_at": "2026-11-18T17:10:59+00:00",
   "items": [
     {
-      "title": "리트 냥이",
-      "approx_traffic": "2000+",
-      "published": "Wed, 18 Nov 2026 07:00:00 -0800",
+      "title": "ps5 pro",
+      "approx_traffic": "100+",
+      "published": "Wed, 18 Nov 2026 06:50:00 -0800",
       "news": [
         {
-          "title": "‘리트 만점’ 군 동료 “군에선 성대 수학과 다닌다고 했다”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/11/18/V7LGKKPOQFFU7NIO3CX2YGQUCY/"
+          "title": "PlayStation 5 — GTA 6 Launch Triggers Global Console Shortages",
+          "source": "The Korea Daily",
+          "url": "https://en.koreadaily.com/playstation-5-gta-6-launch-shortages/"
         },
         {
-          "title": "경찰수사에 계약해지, 환불 요구까지‥그래도 \"내일 수능풀이 '생방'\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866704_37004.html"
+          "title": "GTA VI Stresses Out the Base PS5, and the PS5 Pro Is Suddenly Hard to Find",
+          "source": "VICE",
+          "url": "https://www.vice.com/en/via/ps5-pro-for-gta-vi/"
         },
         {
-          "title": "고발당한 ‘리트 만점자’…\"통신기록, AI 내역 다 들여다봐야\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12328709"
+          "title": "GTA 6 release sparks massive boom in Xbox and PS5 sales",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/tech/gta-6-ps5-xbox-buy-release-b3087314.html"
+        }
+      ]
+    },
+    {
+      "title": "신세계",
+      "approx_traffic": "200+",
+      "published": "Wed, 18 Nov 2026 06:50:00 -0800",
+      "news": [
+        {
+          "title": "신세계 3분기 실적, 어디 하나 빠진 곳이 없네",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445071"
+        },
+        {
+          "title": "[리포트 브리핑]신세계, '3Q26 Re: 탄탄한 실적, 백화점 성장률이 관건' 목표가 365,000원 - 하나증권",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261111000117"
+        },
+        {
+          "title": "'적자 꼬리표' 떼어낼까…롯데·신세계, 편의점·이커머스 실적 개선 '주목'",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/economy/2389287.htm"
         }
       ]
     },
@@ -31,19 +53,19 @@
       "published": "Wed, 18 Nov 2026 06:40:00 -0800",
       "news": [
         {
-          "title": "[단독] \"계산기 안에 키보드\" \"쿠팡·알리서 구매\" 세무사 수석 어떻게 뚫었나",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866705_37004.html"
-        },
-        {
-          "title": "고3 딸 둔 박명수 “추접스러운 인간들”…수능 앞두고 AI 부정행위에 일침",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261118/135051043/1"
-        },
-        {
           "title": "이 대통령 \"수능 문제지 AI 업로드 전수조사…부정행위 철저히 엄단\"",
           "source": "대한민국 정책브리핑",
           "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975944"
+        },
+        {
+          "title": "[신문은 선생님] [뉴스 속의 한국사] 콧속에 사서삼경 숨기고 대나무 관으로 답안 전달했대요",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/nie/2026/11/19/O55IUGDKKVAZPFZMBAET2SKNE4/"
+        },
+        {
+          "title": "[단독] \"계산기 안에 키보드\" \"쿠팡·알리서 구매\" 세무사 수석 어떻게 뚫었나",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866705_37004.html"
         }
       ]
     },
@@ -69,9 +91,9 @@
           "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111714403611889"
         },
         {
-          "title": "\"술집서 15살 연상 남편을…\" 앨리스 소희에 '루머'…잇단 '사이버 악행' 어디까지",
-          "source": "이코노미스트",
-          "url": "https://economist.co.kr/article/view/ecn202611180027"
+          "title": "김소희, 유흥업소 루머 유포자 상대로 승소 \"징역 1년 6개월…경각심 일깨우는 계기 되길\"",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/18/GM2WKNRQGJRGEZRTGY3TMZDFHE/"
         }
       ]
     },
@@ -91,9 +113,9 @@
           "url": "https://www.viva100.com/article/20261118500603"
         },
         {
-          "title": "김명민, '불멸의 이순신'으로 대상 수상 비하인드 \"퍼머를 심하게 하고 갔다\"('유퀴즈')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/18/MJTGGOBQGVSGCOLDGMZTSZRTMY/"
+          "title": "'유퀴즈' 김명민, 동갑 동문 유재석 만나 터진 입담…\"머리털 나고 처음\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111817057240149"
         }
       ]
     },
@@ -103,14 +125,14 @@
       "published": "Wed, 18 Nov 2026 04:30:00 -0800",
       "news": [
         {
+          "title": "佛 대선 유력주자 르펜 \"정년 60세로 낮추겠다\"",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02679766645647032"
+        },
+        {
           "title": "나라 곳간 빨간불인데…\"60세부터 연금 수령\" 파격 승부수",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/2026111855181"
-        },
-        {
-          "title": "佛 대선 1·2위 후보 \"정년 60세로 낮출 것\"… 마크롱 연금 개혁에 반기",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/11/19/CP4WA5FVJBGB5MSHW57VAVTM3E/"
         },
         {
           "title": "프랑스 극우 르펜도 극좌 멜랑숑도 \"은퇴 60세로 낮추겠다\"",
@@ -152,31 +174,9 @@
           "url": "https://www.donga.com/news/article/all/20261117/135042032/2"
         },
         {
-          "title": "“문제가 없잖아” 이렇게 얌전한 강아지에서 본색 드러낸 입질견 ’윌리’?!",
+          "title": "첫 반려견을 불의의 사고로 잃고 새롭게 맞이한 강아지 ’윌리’?! 그런 윌리가 왜 이곳에?!",
           "source": "채널A",
-          "url": "https://ichannela.com/program/clip/000000560650.do"
-        }
-      ]
-    },
-    {
-      "title": "kamil mishara",
-      "approx_traffic": "1000+",
-      "published": "Wed, 18 Nov 2026 04:20:00 -0800",
-      "news": [
-        {
-          "title": "Kathmandu Gorkhas vs Chitwan Rhinos Preview & Prediction | 2026 Nepal Premier League | Eliminator",
-          "source": "The Stats Zone",
-          "url": "https://www.thestatszone.com/kathmandu-gorkhas-vs-chitwan-rhinos-preview-prediction-2026-nepal-premier-league-eliminator-239693"
-        },
-        {
-          "title": "Kamil Mishra Prioritizes Team Victory Over Personal Records",
-          "source": "Ratopati",
-          "url": "https://english.ratopati.com/story/87194/it-doesnt-really-matter-who-the-opponent-is-in-the-qualifiers-kamil-mishra"
-        },
-        {
-          "title": "Eliminator (D/N), Nepal Premier League at Kirtipur, Nov 18 2026",
-          "source": "ESPN",
-          "url": "https://www.espn.com/cricket/series/23081/scorecard/1558611/kathmandu-gorkhas-npl-vs-chitwan-rhinos-npl-eliminator-nepal-premier-league-2026-27"
+          "url": "https://ichannela.com/program/clip/000000560649.do"
         }
       ]
     },
