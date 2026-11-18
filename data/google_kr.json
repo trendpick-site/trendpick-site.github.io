@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-18T03:59:15+00:00",
+  "fetched_at": "2026-11-18T05:05:51+00:00",
   "items": [
     {
-      "title": "잠실래미안아이파크",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 18:50:00 -0800",
+      "title": "nh농협은행",
+      "approx_traffic": "2000+",
+      "published": "Tue, 17 Nov 2026 20:00:00 -0800",
       "news": [
         {
-          "title": "\"당첨되면 20억\"…잠실 아파트 '줍줍' 3가구 나온다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261117_0003872071"
-        },
-        {
-          "title": "잠실서 또 '로또 청약'…래미안아이파크 3가구 무순위 공급",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261117001303"
-        },
-        {
-          "title": "\"당첨되면 24억 대박?\"…'잠실 래미안아이파크' 계약취소 3가구 재공급",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261117580574"
-        }
-      ]
-    },
-    {
-      "title": "삼성바이오로직스",
-      "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 18:50:00 -0800",
-      "news": [
-        {
-          "title": "삼성바이오 노조, 한국노총 가입…노사 교섭 갈등 ‘평행선’",
-          "source": "뉴스토마토",
-          "url": "https://www.newstomato.com/ReadNews.aspx?no=1320885"
-        },
-        {
-          "title": "삼성바이오로직스 노사 교섭 재개…사측, 임금 6.2% 선적용 카드 꺼내",
-          "source": "팜이데일리",
-          "url": "https://pharm.edaily.co.kr/news/read?newsId=04851126645646704"
-        },
-        {
-          "title": "삼성바이오 노조, 한국노총 가입…조합원 88% 찬성",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1201477"
-        }
-      ]
-    },
-    {
-      "title": "고발",
-      "approx_traffic": "1000+",
-      "published": "Tue, 17 Nov 2026 18:40:00 -0800",
-      "news": [
-        {
-          "title": "[단독] 리트 만점자 \"AI 안 썼지만 확률 희박은 인정\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6866434_36989.html"
-        },
-        {
-          "title": "[단독] ‘리트 만점자’ 이진우 결국 ‘공무집행방해’ 혐의 형사고발 수순",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12328614"
-        },
-        {
-          "title": "시대인재, 'AI 부정 의혹' 리트 만점 이진우 계약해지 결정",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286041"
-        }
-      ]
-    },
-    {
-      "title": "기예르모 에레디아",
-      "approx_traffic": "500+",
-      "published": "Tue, 17 Nov 2026 18:40:00 -0800",
-      "news": [
-        {
-          "title": "‘홈런왕’ 김도영, 2026 일구대상 수상…하현승은 고교야구 MVP상",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715939"
-        },
-        {
-          "title": "화려하게 부활한 KIA 김도영, 2026 일구대상 수상",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118064900007"
-        },
-        {
-          "title": "[오피셜]'설마 KBO 최초 기록 쓰고 작별인가' 김도영 압도적 1위, SSG 키스톤 쾌거까지",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/18/HE2TKNBQMM3TCNDFHBRTAMRVGY/"
-        }
-      ]
-    },
-    {
-      "title": "폭설",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 18:40:00 -0800",
-      "news": [
-        {
-          "title": "눈을 믿지 마세요",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261117/135042453/2"
-        },
-        {
-          "title": "‘폭설’ 구교환 “홍의정 감독에 뜨거운 구애중..감독교체 부담NO, 자신있다”[인터뷰②]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/movie/2026/11/18/GZTDINDEHA2TAY3BMFRTEOLCMY/"
-        },
-        {
-          "title": "[인터뷰] 홍의정 감독 저수지의 개들, 권선징악보다는 카르마 (영화 ‘폭설’)",
-          "source": "KBS연예",
-          "url": "https://kstar.kbs.co.kr/list_view.html?idx=415046"
-        }
-      ]
-    },
-    {
-      "title": "양주시",
-      "approx_traffic": "100+",
-      "published": "Tue, 17 Nov 2026 18:20:00 -0800",
-      "news": [
-        {
-          "title": "양주시, 버스노선 개선 시민 설문…11월 30일까지 이용객 참여",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3754895"
-        },
-        {
-          "title": "[양주 소식]버스노선 체계 개선 설문조사 등",
-          "source": "프레시안",
-          "url": "https://www.pressian.com/pages/articles/2026111717361407420"
-        },
-        {
-          "title": "양주시, 버스노선 개선에 시민 의견 듣는다…30일까지 설문",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026111717252507601"
-        }
-      ]
-    },
-    {
-      "title": "롤 패치노트",
-      "approx_traffic": "200+",
-      "published": "Tue, 17 Nov 2026 18:10:00 -0800",
-      "news": [
-        {
-          "title": "리그 오브 레전드 26.23 패치 노트",
-          "source": "League of Legends",
-          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-23-notes/"
-        },
-        {
-          "title": "라이엇게임즈, LoL 2027 시즌1 공개... '도벽' 복귀·랭크 보상 개편",
+          "title": "NH농협은행, 기업뱅킹 전면 개편…AI 에이전트 도입",
           "source": "전자신문",
-          "url": "https://www.etnews.com/20261117000187"
+          "url": "https://www.etnews.com/20261117000230"
         },
         {
-          "title": "롤 서버점검 18일 \"접속 차단 90분전부터\" 정상화시간 언제",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755176"
+          "title": "NH농협은행, 더 쉽고 편리해진 ’NH기업뱅킹’ 리뉴얼 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2178974"
+        },
+        {
+          "title": "NH농협은행, 기업뱅킹 전면 개편…법인 금융업무 비대면 서비스 확대",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Finance/2026/11/202611171557362060bb91c46fcd_1"
         }
       ]
     },
     {
-      "title": "혈당",
+      "title": "국제 a 매치",
+      "approx_traffic": "2000+",
+      "published": "Tue, 17 Nov 2026 19:50:00 -0800",
+      "news": [
+        {
+          "title": "축구 A매치에서 \"대~한민국\" 구호가 사라졌다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/11/18/PEHQPEUKWNCQFIKOJ6PWL4TNUQ/"
+        },
+        {
+          "title": "한국 축구, 올해 A매치 '승률 46.2%'…2019년 이후 최저",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/soccer/6357921"
+        },
+        {
+          "title": "[데스크 시각] 축구협회에 ‘농협룰’ 가져온 문체부",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/editOpinion/column/journalist-viewpoint/2026/11/16/20261116027008"
+        }
+      ]
+    },
+    {
+      "title": "배현진",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 19:50:00 -0800",
+      "news": [
+        {
+          "title": "“배현진 1년” “네” 문자 공개… 장동혁 조작징계 증거는 제시 안해",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261118/135042662/2"
+        },
+        {
+          "title": "황경성 윤리위원, 추가의혹 제기…“장동혁 대리인이 윤리위원 7명 중 5명 추천”",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261118000208"
+        },
+        {
+          "title": "박정하 \"한동훈, '제명' 정상적이지 않았다면 '가처분 복당'도 고려해야\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/index.php/politics/2026/11/18/2026111810344758336"
+        }
+      ]
+    },
+    {
+      "title": "서강대",
       "approx_traffic": "5000+",
-      "published": "Tue, 17 Nov 2026 18:00:00 -0800",
+      "published": "Tue, 17 Nov 2026 19:40:00 -0800",
       "news": [
         {
-          "title": "\"갑자기 혈당 확 오르다면\"…생존율 최악 '이 암'?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261117_0003871362"
+          "title": "[단독] \"6개월 만에 감평사 합격\"...수기 이어 본지 취재 요청글도 삭제돼",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/11/18/6PBUAWAUIBA5HON5EZEI25FB7Q/"
         },
         {
-          "title": "\"갑자기 혈당이 올랐네?\"…'침묵의 암' 췌장암의 첫 신호일 수도 [헬스톡]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611171443294938"
+          "title": "[자막뉴스] 세무사 이어 감평사·관세사까지…'AI 커닝' 의혹 확산",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851369"
         },
         {
-          "title": "[포토뉴스] 충남대병원 대전지역암센터, 췌장암 시민건강강좌 개최",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1425628"
+          "title": "\"AI로 노무사 합격, 자격증 9개 땄다\"…'연봉 7000만원' 주장 글 시끌",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6357065"
         }
       ]
     },
     {
-      "title": "10억",
-      "approx_traffic": "2000+",
-      "published": "Tue, 17 Nov 2026 18:00:00 -0800",
+      "title": "우원식",
+      "approx_traffic": "500+",
+      "published": "Tue, 17 Nov 2026 19:40:00 -0800",
       "news": [
         {
-          "title": "'아빠, 이 집 나 줄 거지?'…10억 있는 3040 부모들 '뜻밖의 대답'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111727421"
+          "title": "추미애, ’최민희 징계’ 갈등 참전…“김민석 문제부터 엄중 판단해야“",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118091300D51"
         },
         {
-          "title": "자산 30억 넘는 3040 절반 이상 “현금·부동산 이미 물려받았다”",
+          "title": "\"최민희 아웃\" \"김민석 쇄신\"…공천룰 제정前 불붙은 與집안싸움 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/11/18/2026111809383963604"
+        },
+        {
+          "title": "우원식 \"김민석, 신천지 조치 잘못‥추미애도 말 얹지 말아야\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6866551_36911.html"
+        }
+      ]
+    },
+    {
+      "title": "북한이탈주민",
+      "approx_traffic": "1000+",
+      "published": "Tue, 17 Nov 2026 19:30:00 -0800",
+      "news": [
+        {
+          "title": "[단독] 탈북민 주거지원금 12억 못받았다…706세대에 ‘추가신청’ 안내없어",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/politics/12212193"
+        },
+        {
+          "title": "북한이탈주민 겨울나기 돕는다…시흥서 김장김치 100통 나눔",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261117580169"
+        },
+        {
+          "title": "달성군자원봉사센터·대구하나센터, 북한이탈주민 위해 김장 나눔",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026111717203890008"
+        }
+      ]
+    },
+    {
+      "title": "아이돌",
+      "approx_traffic": "100+",
+      "published": "Tue, 17 Nov 2026 19:30:00 -0800",
+      "news": [
+        {
+          "title": "K-팝 아이돌, 올해도 수능 치르지 않는 이유",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/IQGY3IPRJ5ALDABS47V25X3IXE/"
+        },
+        {
+          "title": "이즈나 정세비는 서울예대 수시 합격···바쁜 와중에 수능 치르는 08년생 아이돌은 누구?",
           "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611171102001"
+          "url": "https://www.khan.co.kr/article/202611181031001"
         },
         {
-          "title": "\"자녀 성인 되기 전에 물려주겠다\"…유자녀 3040 자산가 40%, '조기 증여' 원해",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611180851556738"
+          "title": "수능 대신 무대 오르는 08년생 아이돌들…코르티스·리센느 등",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117153900005"
         }
       ]
     },
     {
-      "title": "선수",
-      "approx_traffic": "2000+",
-      "published": "Tue, 17 Nov 2026 18:00:00 -0800",
+      "title": "표절",
+      "approx_traffic": "500+",
+      "published": "Tue, 17 Nov 2026 19:20:00 -0800",
       "news": [
         {
-          "title": "러시아 피겨 선수 7명, 핀란드 입국 금지로 그랑프리 출전 무산",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118082900007"
+          "title": "\"카피라니 속상해\" 최예나 측, '사브리나 카펜터 표절 의혹'에 꺼내 든 결정적 증거",
+          "source": "부산파이낸셜뉴스",
+          "url": "https://busan.fnnews.com/news/202611171519491481"
         },
         {
-          "title": "캐나다 세계 주니어 선수권대회에서 러시아가 배제된 뒤 해킹 보도…IIHF 웹사이트 접속 불가",
-          "source": "Mezha.net",
-          "url": "https://mezha.net/ko/news/mezha-ee3b03f57aa84a08d430dc88_iihf-website-offline-after-reported-hack/"
+          "title": "[포토]레이, 뿔테의 정석",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/photos/12209495"
         },
         {
-          "title": "5전 전승으로 1부 승격했는데…러시아 복귀에 노르웨이 U20 하키 2부로",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261109_0003860298"
+          "title": "최예나, MMA 베스트 솔로 여자 수상 후 근황…인형 비주얼 [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6354600"
+        }
+      ]
+    },
+    {
+      "title": "xrp",
+      "approx_traffic": "200+",
+      "published": "Tue, 17 Nov 2026 19:20:00 -0800",
+      "news": [
+        {
+          "title": "XRP technical indicators signal rebound; can it regain $1",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/en/view/127361/xrp-technical-indicators-signal-rebound-can-it-regain-1-dollar"
+        },
+        {
+          "title": "Analyzing XRP’s $44M liquidation imbalance – Is a market reset underway?",
+          "source": "AMBCrypto",
+          "url": "https://ambcrypto.com/analyzing-xrps-44m-liquidation-imbalance-is-a-market-reset-underway/"
+        },
+        {
+          "title": "US Spot XRP ETFs See Largest Weekly Outflows in 8 Months as XRP Falls Below $1",
+          "source": "KuCoin",
+          "url": "https://www.kucoin.com/blog/xrp-etf-outflows-8-month-high-2026"
+        }
+      ]
+    },
+    {
+      "title": "영화",
+      "approx_traffic": "2000+",
+      "published": "Tue, 17 Nov 2026 19:00:00 -0800",
+      "news": [
+        {
+          "title": "남해군, 청년 기획 영화 프로그램 ‘딴짓극장’ 24일 개최",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026111813180558601"
+        },
+        {
+          "title": "남해 청년들이 만든‘극장 속 딴짓’함께 즐겨요∼",
+          "source": "포인트경남",
+          "url": "https://www.pointgyeongnam.kr/news/articleView.html?idxno=20702"
         }
       ]
     }
