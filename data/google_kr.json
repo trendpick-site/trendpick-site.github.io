@@ -1,22 +1,61 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-18T18:59:10+00:00",
+  "fetched_at": "2026-11-18T20:02:34+00:00",
   "items": [
     {
-      "title": "김정은",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 09:50:00 -0800",
+      "title": "한화오션",
+      "approx_traffic": "1000+",
+      "published": "Wed, 18 Nov 2026 10:30:00 -0800",
       "news": [
         {
-          "title": "시진핑, 공항서 트럼프 포옹... 美中러 담판 전날 ‘파격 예우’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/11/18/HB7CW2IV6BG3FJCBMRDVBHFA4E/"
+          "title": "3천600톤급 호위함 ‘평택함’ 진수…시운전 거쳐 내년 해군 인도",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715888"
         },
+        {
+          "title": "평택함 한화오션에서 진수",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261118_0021537299&provider_id=&cID=&type=Main&catg=&idx=4"
+        },
+        {
+          "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261118170400704"
+        }
+      ]
+    },
+    {
+      "title": "자영업",
+      "approx_traffic": "100+",
+      "published": "Wed, 18 Nov 2026 10:00:00 -0800",
+      "news": [
+        {
+          "title": "울산 남구, 골목상권 소통·상생의 날… 민생경제 활력 모색",
+          "source": "울산종합일보",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065591419687808"
+        },
+        {
+          "title": "골목상인 10명 중 6명 \"작년보다 매출 감소\"",
+          "source": "경상일보",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072977"
+        }
+      ]
+    },
+    {
+      "title": "김정은",
+      "approx_traffic": "500+",
+      "published": "Wed, 18 Nov 2026 09:50:00 -0800",
+      "news": [
         {
           "title": "[속보] \"미중러 정상, APEC 환영만찬서 첫 인사 나눠\" AFP",
           "source": "JTBC",
           "url": "https://news.jtbc.co.kr/article/NB12328748"
+        },
+        {
+          "title": "미중러 정상회담일, 유럽은 ’의지의 연합’ 정상회의",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261119040138wAU"
         },
         {
           "title": "APEC 담판, 전쟁 끝낼까...\"해법 쉽지 않을 것\"",
@@ -36,14 +75,36 @@
           "url": "https://www.mt.co.kr/photo/202611182305239152"
         },
         {
+          "title": "승리, 만삭 20대 아내와 동반 입국…D라인 포착",
+          "source": "TV조선뉴스",
+          "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990001.html"
+        },
+        {
           "title": "승리, ♥임신한 20대 아내와 동반 입국..\"여기까지 찍어라\" 취재진 경계",
           "source": "스포츠조선",
           "url": "https://www.sportschosun.com/entertainment/2026-11-18/202611180100121320011250"
+        }
+      ]
+    },
+    {
+      "title": "한화생명",
+      "approx_traffic": "100+",
+      "published": "Wed, 18 Nov 2026 09:10:00 -0800",
+      "news": [
+        {
+          "title": "'350조 운용' KIC 차기 CIO에 신민식…다음주 초 인사 발표",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/Read?newsId=03178326645647032"
         },
         {
-          "title": "만삭 아내와 입국한 승리, 주변 시선에 당황⋯같이 들어와 따로 나갔다",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1650769"
+          "title": "350조 굴릴 한국투자공사 새 CIO에 한화생명 출신 신민식",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026111818335608440"
+        },
+        {
+          "title": "KIC 신임 CIO에 신민식·COO에 신용선 내정",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445349"
         }
       ]
     },
@@ -53,19 +114,19 @@
       "published": "Wed, 18 Nov 2026 09:00:00 -0800",
       "news": [
         {
-          "title": "한화시스템, 미국 방산기업에 레이다 첫 수출…\"대량 공급 협의\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118046200003"
+          "title": "한화비전, 한화세미텍 매각설 일축…\"검토한 바 없다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1WNhADiPof"
         },
         {
-          "title": "한화시스템, 드론 잡는 'AI 레이다' 美 첫 수출",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611184776i"
+          "title": "[한화세미텍의 민낯] 호실적에도 매각설…TC 본더 성장세 '물음표'",
+          "source": "딜사이트",
+          "url": "https://dealsite.co.kr/articles/172804"
         },
         {
-          "title": "한화시스템, 단거리 AESA 레이다 미국 시장 첫 진출",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611181028011"
+          "title": "한화비전, 한화세미텍 매각설에 \"사실무근…기술 강화 힘쓸 것\"",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03548966645647032"
         }
       ]
     },
@@ -102,14 +163,36 @@
           "url": "https://www.koreadaily.com/article/20261117145658079"
         },
         {
-          "title": "정글러에서 롤드컵 우승 코치로... ‘모글리’, 한화생명 새 사령탑",
-          "source": "STN SPORTS",
-          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325677"
-        },
-        {
           "title": "한화생명 창단 첫 MSI 우승 감독 '옴므' 윤성영 떠난다",
           "source": "데일리e스포츠",
           "url": "https://www.dailyesports.com/view.php?ud=20261117105922509374bcc1e038_27"
+        },
+        {
+          "title": "정글러에서 롤드컵 우승 코치로... ‘모글리’, 한화생명 새 사령탑",
+          "source": "STN SPORTS",
+          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325677"
+        }
+      ]
+    },
+    {
+      "title": "흰수마자",
+      "approx_traffic": "100+",
+      "published": "Wed, 18 Nov 2026 07:50:00 -0800",
+      "news": [
+        {
+          "title": "경기 문산천에 멸종위기 1급 '흰수마자' 서식",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337070"
+        },
+        {
+          "title": "경기도, 파주 문산천에 멸종위기야생생물 ‘흰수마자’ 서식",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041247"
+        },
+        {
+          "title": "한반도 고유종 멸종위기Ⅰ급 ‘흰수마자’, 파주 문산천서 발견",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261117580015"
         }
       ]
     },
@@ -129,81 +212,9 @@
           "url": "https://www.newspim.com/news/view/20261111000117"
         },
         {
-          "title": "'적자 꼬리표' 떼어낼까…롯데·신세계, 편의점·이커머스 실적 개선 '주목'",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/economy/2389287.htm"
-        }
-      ]
-    },
-    {
-      "title": "ps5 pro",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 06:50:00 -0800",
-      "news": [
-        {
-          "title": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/"
-        },
-        {
-          "title": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979"
-        },
-        {
-          "title": "GTA 6: PS5 vs PS5 Pro, Xbox Series X and Series S: Which Console Plays Best?",
-          "source": "Digital Foundry",
-          "url": "https://www.digitalfoundry.net/features/gta-6-ps5-vs-ps5-pro-xbox-series-x-and-series-s-which-console-plays-best"
-        }
-      ]
-    },
-    {
-      "title": "수능 재난문자 시간",
-      "approx_traffic": "10000+",
-      "published": "Wed, 18 Nov 2026 06:40:00 -0800",
-      "news": [
-        {
-          "title": "이 대통령 \"수능 문제지 AI 업로드 전수조사…부정행위 철저히 엄단\"",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975944"
-        },
-        {
-          "title": "\"딱 한 문제 틀렸다?\"...세무사 의혹 파고든 누리꾼들",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0106_202611190229218044"
-        },
-        {
-          "title": "[단독] \"계산기 안에 키보드\" \"쿠팡·알리서 구매\" 세무사 수석 어떻게 뚫었나",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866705_37004.html"
-        }
-      ]
-    },
-    {
-      "title": "김간지",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 06:10:00 -0800",
-      "news": []
-    },
-    {
-      "title": "김소희",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 05:20:00 -0800",
-      "news": [
-        {
-          "title": "앨리스 소희, 유흥업소 루머 유포자 고소…징역 1년6개월",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261117_0003871518"
-        },
-        {
-          "title": "[전문] 김소희 루머 가해자 징역형 “타인 삶 짓밟는 행위, 책임 뒤따라”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261117/135039372/1"
-        },
-        {
-          "title": "\"술집서 15살 연상 남편을…\" 앨리스 소희에 '루머'…잇단 '사이버 악행' 어디까지",
-          "source": "이코노미스트",
-          "url": "https://economist.co.kr/article/view/ecn202611180027"
+          "title": "iM證 “신세계, 외국인 소비 둔화에…목표가 41% 하향”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/11/16/2H2QT5ZMEVDIRN723JTZH7CKSI/"
         }
       ]
     }
