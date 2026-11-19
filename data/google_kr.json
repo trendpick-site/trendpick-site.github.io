@@ -1,8 +1,184 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-19T06:39:16+00:00",
+  "fetched_at": "2026-11-19T07:58:18+00:00",
   "items": [
+    {
+      "title": "해군",
+      "approx_traffic": "100+",
+      "published": "Wed, 18 Nov 2026 22:50:00 -0800",
+      "news": [
+        {
+          "title": "“전 세계가 날 주목해”…‘방중 관심’ 속 현지시찰 노출 [지금뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8717260"
+        },
+        {
+          "title": "[속보] 경찰, 리트 만점자 \"사망으로 최종 판정시 감식 등 진행\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111972367"
+        },
+        {
+          "title": "APEC 기간 보란듯 '中 반대쪽' 함경도 찾은 김정은… \"트럼프 러브콜에 연연하지 않는 모습 연출\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/north_korea/2026/11/19/OMDLA3RDSNBFZGQJS7DLKW6ROM/"
+        }
+      ]
+    },
+    {
+      "title": "주얼리",
+      "approx_traffic": "500+",
+      "published": "Wed, 18 Nov 2026 22:40:00 -0800",
+      "news": [
+        {
+          "title": "올리아, 서울 주얼리 쇼룸에서 팝업 진행",
+          "source": "핸드메이커",
+          "url": "https://www.handmk.com/news/articleView.html?idxno=45236"
+        },
+        {
+          "title": "논논X하츠투하츠, ‘Lemon Tang’ 콜라보 주얼리 3종 선보여",
+          "source": "비욘드포스트",
+          "url": "https://www.beyondpost.co.kr/view.php?ud=20261119130424646637600e7ec7_30"
+        },
+        {
+          "title": "논논, 하츠투하츠와 협업한 ‘Lemon Tang’ 주얼리 컬렉션 공개",
+          "source": "스타데일리뉴스",
+          "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=602616"
+        }
+      ]
+    },
+    {
+      "title": "수능 결시율",
+      "approx_traffic": "200+",
+      "published": "Wed, 18 Nov 2026 22:20:00 -0800",
+      "news": [
+        {
+          "title": "AI 커닝 단속 강화 영향?…수능 결시자 3000명 넘게 늘었다(종합)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/education/6359569"
+        },
+        {
+          "title": "수능 1교시 응시자 49만 1천 명‥결시율 작년보다 높아",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866952_36918.html"
+        },
+        {
+          "title": "[2027 수능] 전국 평균 시험 응시율 90.03%… 부산 93.16% 최고",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/11/19/XRVCATVQS5G6ZGQPOBSORFZ55M/"
+        }
+      ]
+    },
+    {
+      "title": "버거킹 초콜릿와퍼",
+      "approx_traffic": "100+",
+      "published": "Wed, 18 Nov 2026 22:20:00 -0800",
+      "news": [
+        {
+          "title": "\"만우절 거짓말인 줄 알았는데\"…버거킹, 진짜 '초콜릿 와퍼' 내놓는다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/11/17/2026111708270380871"
+        },
+        {
+          "title": "고기 대신 브라우니? 만우절 농담 ‘초콜릿 와퍼’ 현실로!",
+          "source": "어린이동아",
+          "url": "https://kids.donga.com/news/articleView.html?idxno=170338"
+        },
+        {
+          "title": "패티는 브라우니, 피클은 초콜릿…버거킹 '초콜릿 와퍼' 성수서 첫선",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261117_0003870829"
+        }
+      ]
+    },
+    {
+      "title": "용인 초소형 카메라",
+      "approx_traffic": "5000+",
+      "published": "Wed, 18 Nov 2026 22:00:00 -0800",
+      "news": [
+        {
+          "title": "[단독] 서초구 모 고교 수능시험장에서 신발 속 스마트폰 적발",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866972_36918.html"
+        },
+        {
+          "title": "[속보] 경기도 용인 수능 시험장에서 초소형카메라 발견",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611191452546841_005.html"
+        },
+        {
+          "title": "그렇게 경고했는데…용인 시험장서 초소형 카메라·이어폰 발견",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611197584i"
+        }
+      ]
+    },
+    {
+      "title": "민주유공자법",
+      "approx_traffic": "200+",
+      "published": "Wed, 18 Nov 2026 21:50:00 -0800",
+      "news": [
+        {
+          "title": "'민주유공자법' 본회의 상정‥국힘 \"운동권 노후 특혜법\" 반발",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6866971_36911.html"
+        },
+        {
+          "title": "'민주유공자법' 국회 본회의 상정...국민의힘 필리버스터",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0101_202611191545256177"
+        },
+        {
+          "title": "민주당, 오늘 본회의서 민주유공자법 처리 추진…국민의힘 필버 예고",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611190731001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+        }
+      ]
+    },
+    {
+      "title": "디 에이치 반포 124",
+      "approx_traffic": "100+",
+      "published": "Wed, 18 Nov 2026 21:50:00 -0800",
+      "news": [
+        {
+          "title": "[단독] “평당 분양가 1억 넘기면 안된다”…디에이치 반포124 제동",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12213314"
+        },
+        {
+          "title": "'30억 로또' 디에이치 반포124 청약 일정 밀린다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111857156"
+        },
+        {
+          "title": "반포 한강 바로 앞… ‘압도적 하이엔드 대단지’ 내달 분양한다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/special/special_section/2026/11/19/FO7UFD3IAZCRBAGOMOX37Z34P4/"
+        }
+      ]
+    },
+    {
+      "title": "예비타당성조사",
+      "approx_traffic": "200+",
+      "published": "Wed, 18 Nov 2026 21:40:00 -0800",
+      "news": [
+        {
+          "title": "복지부, 20일 경기 동북부 공공의료원 예비타당성 조사 신청",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261119039300060"
+        },
+        {
+          "title": "경기 동북부 의료 공백 메울까…남양주 공공의료원 건립 ‘청신호’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261119580141"
+        },
+        {
+          "title": "남양주 공공의료원, 예타 신청사업 선정…400병상 공공병원 추진 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/index.php/policy/2026/11/19/2026111914075910645"
+        }
+      ]
+    },
     {
       "title": "수능 샤프",
       "approx_traffic": "200+",
@@ -14,14 +190,14 @@
           "url": "https://www.hani.co.kr/arti/society/schooling/1288087.html"
         },
         {
+          "title": "연필은 불티, 사인펜은 쌓였다...편의점업계, 수능 특수 김샜다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/11/19/2026111915033666154"
+        },
+        {
           "title": "인천 시험장 'AI 부정행위 방지' 지우개 물량조절 해프닝[2027 수능]",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261119_0003874383"
-        },
-        {
-          "title": "올해 수능 샤프는 ‘무궁화보라색’…기본 샤프심은 5개",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261119/135052284/1"
         }
       ]
     },
@@ -31,195 +207,19 @@
       "published": "Wed, 18 Nov 2026 21:20:00 -0800",
       "news": [
         {
-          "title": "서울교통공사·한국철도공사, 3호선 화재 대응 합동훈련",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261118_0003873938"
+          "title": "“수상한 행동 놓치지 않았다”… 서울교통공사 직원들, 범죄 의심 상황 잇따라 대응",
+          "source": "헤럴드경제",
+          "url": "https://mbiz.heraldcorp.com/article/10943026"
         },
         {
-          "title": "서울교통공사, 열차 비상상황 대응 훈련…대외기관 협업체계 강화",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261118001117"
+          "title": "“출근길에도 시민 안전부터”…지하철 성범죄 막아낸 서울교통공사 직원들",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11632632"
         },
         {
-          "title": "서울교통공사·코레일, 지하철 배터리 화재 대비 합동훈련…구원열차 연결까지 점검",
+          "title": "서울 지하철서 성범죄 의심 상황 잇따라…교통공사 직원들 신속 대응",
           "source": "미디어인뉴스",
-          "url": "https://www.mediainnews.com/news/articleView.html?idxno=48986"
-        }
-      ]
-    },
-    {
-      "title": "리트 만점자 천호동",
-      "approx_traffic": "200000+",
-      "published": "Wed, 18 Nov 2026 21:10:00 -0800",
-      "news": [
-        {
-          "title": "[속보] ‘리트 만점자’ 이진우, 천호동 모텔서 심정지 상태로 발견",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717283"
-        },
-        {
-          "title": "잠적했던 ’리트 만점자’ 사망…“몸과 마음 지쳐“ 메모",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119152334MtU"
-        },
-        {
-          "title": "리트 만점자 발견된 모텔서 ‘5줄 글’ 발견…수사 관련 언급은 없어",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12328841"
-        }
-      ]
-    },
-    {
-      "title": "한덕수 선고",
-      "approx_traffic": "500+",
-      "published": "Wed, 18 Nov 2026 21:10:00 -0800",
-      "news": [
-        {
-          "title": "김건희·한덕수 대법 선고 'D-DAY'...YTN 생중계",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611191204203334"
-        },
-        {
-          "title": "한병도 “한덕수 선고 결과 따라 필요한 조치 나설 것”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261119/135054210/2"
-        },
-        {
-          "title": "한덕수 선고 정치권 전운…與 \"즉응 결정\" 野 \"재판개입\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119133438aSq"
-        }
-      ]
-    },
-    {
-      "title": "의장대",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 21:00:00 -0800",
-      "news": [
-        {
-          "title": "계단 단차부터 환영단까지‥\"한국과 대우 달라\" \"무례\" 日 불쾌감",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6866880_36925.html"
-        },
-        {
-          "title": "中, 다카이치는 썰렁한 영접... 日측 \"정말 무례하다\" 분노",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/11/18/JD3IWB6EY5CDTMGSUOTYQKMIEA/"
-        },
-        {
-          "title": "中, 다카이치 입장때 “외톨이로 보내는 밤” 연주…선곡 의도 논란",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261119/135053503/1"
-        }
-      ]
-    },
-    {
-      "title": "도이치모터스 주가조작 사건",
-      "approx_traffic": "500+",
-      "published": "Wed, 18 Nov 2026 20:40:00 -0800",
-      "news": [
-        {
-          "title": "[속보] 대법, 19일 김건희 도이치 주가조작 사건 등 선고",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713560"
-        },
-        {
-          "title": "김건희 '3대 의혹' 오늘 대법원 판단…기소 1년 3개월만",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261119022300004"
-        },
-        {
-          "title": "대법, 김건희 '명태균 무상 여론조사' 결론…尹·吳 상고심 가늠자",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/court-prosecution/6358466"
-        }
-      ]
-    },
-    {
-      "title": "kbs",
-      "approx_traffic": "1000+",
-      "published": "Wed, 18 Nov 2026 20:40:00 -0800",
-      "news": [
-        {
-          "title": "[Photo] 'Bye, Summer'",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-photo-ent/2026/11/18/3MJUMBGPW5HJ7PADZEX5NCL7P4/"
-        },
-        {
-          "title": "‘Sound:Track’ Joo Jong-hyuk: “One-Act Dramas Are Compelling and Have an Intensity to Them”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/broadcasting-service/12212342"
-        },
-        {
-          "title": "A New Take on Korean Broadcasting System (KBS)’s 42-Year Tradition of One-Act Dramas... ‘Sound:Track,’ Featuring Classics by Kim Na-young and Jang Pil-soon, Unveiled",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/en/celebrity/2026-11-17/202611170100112550010398"
-        }
-      ]
-    },
-    {
-      "title": "양홍원",
-      "approx_traffic": "1000+",
-      "published": "Wed, 18 Nov 2026 20:30:00 -0800",
-      "news": [
-        {
-          "title": "가족 잃은 기분...'불륜의혹' 양홍원, 아내 사진도 삭제 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111810404289464"
-        },
-        {
-          "title": "“올해도 日 겨울은 보아가” 보아 ‘메리크리’에 시부야 ‘인원제한’ 걸렸다",
-          "source": "ZUM 뉴스",
-          "url": "https://m.news.zum.com/photo/58287739/108959159?cm=news_edit&r=1&thumb=1"
-        },
-        {
-          "title": "'불륜 의혹' 양홍원, 포르쉐 흡연 욕설 운전 누가 찍었나…도로교통법 위반 가능성[SC이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/19/MIYDSNZYGI4WKMLGMJRTOY3EHE/"
-        }
-      ]
-    },
-    {
-      "title": "판결",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 20:30:00 -0800",
-      "news": [
-        {
-          "title": "헌재 \"지정재판부에 헌법소원 사전심사 기각권한 부여 타당\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113178600004"
-        },
-        {
-          "title": "[사법·검찰개혁 집중 기획 ⑤] 대법원도 틀릴 수 있다…재판소원은 왜 필요한가",
-          "source": "https://www.climatepol.com/",
-          "url": "https://www.climatepol.com/news/articleView.html?idxno=36218"
-        },
-        {
-          "title": "헌재 \"헌법소원 지정재판부에 기각 권한 부여 타당...이유 미기재는 바람직하지 않아\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/11/14/3XYFIJQNGNHMHNUQGJLGQPZB44/"
-        }
-      ]
-    },
-    {
-      "title": "김진우",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 20:20:00 -0800",
-      "news": [
-        {
-          "title": "위너 김진우, 붉은 단풍 아래 후드 점퍼로 전한 근황",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16280209"
-        },
-        {
-          "title": "선관위 특검, 선관위 직원 8명 구속영장 청구",
-          "source": "법률신문",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229641"
-        },
-        {
-          "title": "특검, '투표율 허위입력·공문서 위변조' 선관위 8명 구속영장(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118120352004"
+          "url": "https://www.mediainnews.com/news/articleView.html?idxno=49024"
         }
       ]
     }
