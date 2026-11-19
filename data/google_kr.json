@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-19T07:58:18+00:00",
+  "fetched_at": "2026-11-19T17:20:18+00:00",
   "items": [
     {
-      "title": "해군",
-      "approx_traffic": "100+",
-      "published": "Wed, 18 Nov 2026 22:50:00 -0800",
+      "title": "amd",
+      "approx_traffic": "200+",
+      "published": "Thu, 19 Nov 2026 07:50:00 -0800",
       "news": [
         {
-          "title": "“전 세계가 날 주목해”…‘방중 관심’ 속 현지시찰 노출 [지금뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8717260"
+          "title": "Why AMD Stock Was Sliding Today",
+          "source": "The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/11/16/why-amd-stock-was-sliding-today/"
         },
         {
-          "title": "[속보] 경찰, 리트 만점자 \"사망으로 최종 판정시 감식 등 진행\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111972367"
+          "title": "Blacklisted Chinese server maker kept getting AMD firmware updates: Hunterbrook",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/video/blacklisted-chinese-server-maker-kept-getting-amd-firmware-updates-hunterbrook-162807931.html"
         },
         {
-          "title": "APEC 기간 보란듯 '中 반대쪽' 함경도 찾은 김정은… \"트럼프 러브콜에 연연하지 않는 모습 연출\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/north_korea/2026/11/19/OMDLA3RDSNBFZGQJS7DLKW6ROM/"
+          "title": "AMD sheds nearly $100 billion in market value as China chip concerns hit AI stocks",
+          "source": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/amd-loses-100-billion-china-chip-report/"
         }
       ]
     },
     {
-      "title": "주얼리",
+      "title": "플라비오 코볼리",
+      "approx_traffic": "100+",
+      "published": "Thu, 19 Nov 2026 07:40:00 -0800",
+      "news": [
+        {
+          "title": "\"韓 충격 안겼다\" 이변에 익숙한 한국, 이미 아르헨→인도 넘었다... 伊 만나도 주눅 들지 않는 이유 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/19/2026111914011325855"
+        },
+        {
+          "title": "정현 “팬들이 기억하는 ‘신데렐라의 기적’ 한번 더”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261118/135042481/2"
+        },
+        {
+          "title": "[오늘의영상] 파이널8 오른 태극전사들…이탈리아 정조준",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261117233010JM9"
+        }
+      ]
+    },
+    {
+      "title": "엔화",
+      "approx_traffic": "200+",
+      "published": "Thu, 19 Nov 2026 07:00:00 -0800",
+      "news": [
+        {
+          "title": "[도쿄환시] 달러-엔 상승…美 연준 인사들 금리인상 지지",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445573"
+        },
+        {
+          "title": "160엔 뚫리자마자 되돌림…'여름 개입 기억'이 바꾼 엔화 수급",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611180233347788e7e8286d56_1"
+        },
+        {
+          "title": "엔화, 美 AI 관련주 약세에 달러 매도로 1달러=159엔대 중반 상승 출발",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261117_0003871124"
+        }
+      ]
+    },
+    {
+      "title": "kt wiz",
       "approx_traffic": "500+",
-      "published": "Wed, 18 Nov 2026 22:40:00 -0800",
+      "published": "Thu, 19 Nov 2026 06:50:00 -0800",
       "news": [
         {
-          "title": "올리아, 서울 주얼리 쇼룸에서 팝업 진행",
-          "source": "핸드메이커",
-          "url": "https://www.handmk.com/news/articleView.html?idxno=45236"
-        },
-        {
-          "title": "논논X하츠투하츠, ‘Lemon Tang’ 콜라보 주얼리 3종 선보여",
-          "source": "비욘드포스트",
-          "url": "https://www.beyondpost.co.kr/view.php?ud=20261119130424646637600e7ec7_30"
-        },
-        {
-          "title": "논논, 하츠투하츠와 협업한 ‘Lemon Tang’ 주얼리 컬렉션 공개",
-          "source": "스타데일리뉴스",
-          "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=602616"
-        }
-      ]
-    },
-    {
-      "title": "수능 결시율",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 22:20:00 -0800",
-      "news": [
-        {
-          "title": "AI 커닝 단속 강화 영향?…수능 결시자 3000명 넘게 늘었다(종합)",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/education/6359569"
-        },
-        {
-          "title": "수능 1교시 응시자 49만 1천 명‥결시율 작년보다 높아",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6866952_36918.html"
-        },
-        {
-          "title": "[2027 수능] 전국 평균 시험 응시율 90.03%… 부산 93.16% 최고",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/11/19/XRVCATVQS5G6ZGQPOBSORFZ55M/"
-        }
-      ]
-    },
-    {
-      "title": "버거킹 초콜릿와퍼",
-      "approx_traffic": "100+",
-      "published": "Wed, 18 Nov 2026 22:20:00 -0800",
-      "news": [
-        {
-          "title": "\"만우절 거짓말인 줄 알았는데\"…버거킹, 진짜 '초콜릿 와퍼' 내놓는다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/11/17/2026111708270380871"
-        },
-        {
-          "title": "고기 대신 브라우니? 만우절 농담 ‘초콜릿 와퍼’ 현실로!",
-          "source": "어린이동아",
-          "url": "https://kids.donga.com/news/articleView.html?idxno=170338"
-        },
-        {
-          "title": "패티는 브라우니, 피클은 초콜릿…버거킹 '초콜릿 와퍼' 성수서 첫선",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261117_0003870829"
-        }
-      ]
-    },
-    {
-      "title": "용인 초소형 카메라",
-      "approx_traffic": "5000+",
-      "published": "Wed, 18 Nov 2026 22:00:00 -0800",
-      "news": [
-        {
-          "title": "[단독] 서초구 모 고교 수능시험장에서 신발 속 스마트폰 적발",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6866972_36918.html"
-        },
-        {
-          "title": "[속보] 경기도 용인 수능 시험장에서 초소형카메라 발견",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611191452546841_005.html"
-        },
-        {
-          "title": "그렇게 경고했는데…용인 시험장서 초소형 카메라·이어폰 발견",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611197584i"
-        }
-      ]
-    },
-    {
-      "title": "민주유공자법",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 21:50:00 -0800",
-      "news": [
-        {
-          "title": "'민주유공자법' 본회의 상정‥국힘 \"운동권 노후 특혜법\" 반발",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6866971_36911.html"
-        },
-        {
-          "title": "'민주유공자법' 국회 본회의 상정...국민의힘 필리버스터",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202611191545256177"
-        },
-        {
-          "title": "민주당, 오늘 본회의서 민주유공자법 처리 추진…국민의힘 필버 예고",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611190731001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-        }
-      ]
-    },
-    {
-      "title": "디 에이치 반포 124",
-      "approx_traffic": "100+",
-      "published": "Wed, 18 Nov 2026 21:50:00 -0800",
-      "news": [
-        {
-          "title": "[단독] “평당 분양가 1억 넘기면 안된다”…디에이치 반포124 제동",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12213314"
-        },
-        {
-          "title": "'30억 로또' 디에이치 반포124 청약 일정 밀린다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111857156"
-        },
-        {
-          "title": "반포 한강 바로 앞… ‘압도적 하이엔드 대단지’ 내달 분양한다",
+          "title": "KT Wiz's 4.8 Billion Choi Bet Pays Off",
           "source": "조선일보",
-          "url": "https://www.chosun.com/special/special_section/2026/11/19/FO7UFD3IAZCRBAGOMOX37Z34P4/"
+          "url": "https://www.chosun.com/english/sports-en/2026/11/19/57E6VCLU5RFXBCPGTF3JHMIOAE/"
+        },
+        {
+          "title": "KT Wiz Poised for Another FA Splash After Last Season's Success",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/17/IIAZTSEC6JAXVMDKAA3FLLM35E/"
+        },
+        {
+          "title": "KT's \"Hold King\" Sugimoto Moves to Japan's SoftBank",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008854181"
         }
       ]
     },
     {
-      "title": "예비타당성조사",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 21:40:00 -0800",
+      "title": "습관",
+      "approx_traffic": "1000+",
+      "published": "Thu, 19 Nov 2026 06:40:00 -0800",
       "news": [
         {
-          "title": "복지부, 20일 경기 동북부 공공의료원 예비타당성 조사 신청",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261119039300060"
+          "title": "“각설탕 9개 수준”… 의사도 놀랐다는 ‘혈당 치솟는 음료’",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/11/18/2026111802591.html"
         },
         {
-          "title": "경기 동북부 의료 공백 메울까…남양주 공공의료원 건립 ‘청신호’",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261119580141"
+          "title": "“제발 공복에 먹지 마세요”… 혈당 오르고 살쪄, 전문가들이 경고한 음식",
+          "source": "코메디닷컴",
+          "url": "https://kormedi.com/2904583/"
         },
         {
-          "title": "남양주 공공의료원, 예타 신청사업 선정…400병상 공공병원 추진 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/policy/2026/11/19/2026111914075910645"
+          "title": "김밥이 라면보다 췌장에 독?…환자 676명 분석하니 진짜 주범 따로 있었다",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261118501365"
         }
       ]
     },
     {
-      "title": "수능 샤프",
-      "approx_traffic": "200+",
-      "published": "Wed, 18 Nov 2026 21:20:00 -0800",
-      "news": [
-        {
-          "title": "올해 수능 샤프는 ‘무궁화보라색’…연필 빼고 필기구 모두 지급",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/schooling/1288087.html"
-        },
-        {
-          "title": "연필은 불티, 사인펜은 쌓였다...편의점업계, 수능 특수 김샜다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/11/19/2026111915033666154"
-        },
-        {
-          "title": "인천 시험장 'AI 부정행위 방지' 지우개 물량조절 해프닝[2027 수능]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261119_0003874383"
-        }
-      ]
-    },
-    {
-      "title": "서울교통공사",
+      "title": "회계사",
       "approx_traffic": "100+",
-      "published": "Wed, 18 Nov 2026 21:20:00 -0800",
+      "published": "Thu, 19 Nov 2026 06:40:00 -0800",
       "news": [
         {
-          "title": "“수상한 행동 놓치지 않았다”… 서울교통공사 직원들, 범죄 의심 상황 잇따라 대응",
-          "source": "헤럴드경제",
-          "url": "https://mbiz.heraldcorp.com/article/10943026"
+          "title": "회계사 합격해도 수습처 없다…금융위, 내년 선발 1100명으로 감축 전망",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261119_0003874868"
         },
         {
-          "title": "“출근길에도 시민 안전부터”…지하철 성범죄 막아낸 서울교통공사 직원들",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11632632"
+          "title": "[단독] 내년 회계사 최소선발인원 3년 연속 감축 가닥…1100명 이하 유력",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1201525"
         },
         {
-          "title": "서울 지하철서 성범죄 의심 상황 잇따라…교통공사 직원들 신속 대응",
-          "source": "미디어인뉴스",
-          "url": "https://www.mediainnews.com/news/articleView.html?idxno=49024"
+          "title": "시험 합격해도 수습할 곳 없다…공인회계사 선발 인원 감축 검토",
+          "source": "코리아이글뉴스",
+          "url": "https://www.koreaeaglenews.com/news/articleView.html?idxno=108029"
+        }
+      ]
+    },
+    {
+      "title": "프로게이머",
+      "approx_traffic": "200+",
+      "published": "Thu, 19 Nov 2026 06:30:00 -0800",
+      "news": [
+        {
+          "title": "서산 청소년들, 게임으로 미래 직업 찾는다, e스포츠 진로특강 '호응'",
+          "source": "중도일보",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261118010006399"
+        },
+        {
+          "title": "서산시 청소년 대상 e스포츠 진로특강 'E-Learn 스포츠(발로란트)' 성료",
+          "source": "웹이코노미",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2380539"
+        }
+      ]
+    },
+    {
+      "title": "박하나",
+      "approx_traffic": "100+",
+      "published": "Thu, 19 Nov 2026 06:30:00 -0800",
+      "news": [
+        {
+          "title": "김태술·박하나 부부 부모 된다…\"모든 난임 부부들 응원\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261119154100005"
+        },
+        {
+          "title": "‘김태술♥’ 박하나 임신, 가득 쌓인 난임 치료 주사기 눈길",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261119/135057005/1"
+        },
+        {
+          "title": "“쌍둥이는 아닙니다”…박하나·김태술, 시험관 실패 딛고 임신",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12213951"
+        }
+      ]
+    },
+    {
+      "title": "앤트로픽",
+      "approx_traffic": "2000+",
+      "published": "Thu, 19 Nov 2026 06:20:00 -0800",
+      "news": [
+        {
+          "title": "창업 5년새 기업가치 2000조원... 앤스로픽 상장, AI 불씨 살릴까",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/int_economy/2026/11/19/727FDBQ3VRCT7DRNM5EJFH4MWM/"
+        },
+        {
+          "title": "앤트로픽 창업주 7명, IPO로 지분 가치 186조원에 달해",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445629"
+        },
+        {
+          "title": "외신 “앤트로픽, 공모가 83달러”…스페이스X 조달액 기록 넘어설듯",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716816"
+        }
+      ]
+    },
+    {
+      "title": "타래",
+      "approx_traffic": "200+",
+      "published": "Thu, 19 Nov 2026 06:20:00 -0800",
+      "news": [
+        {
+          "title": "웹젠 '디겜폭' 제작진 \"디펜스만 하는 게임 아냐…상반기 론칭\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261119160000017"
+        },
+        {
+          "title": "대형 게임사 해외 눈돌린 새, AI 품은 ‘지스타’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261119/135056148/2"
+        },
+        {
+          "title": "[르포]'아이브' 띄운 크래프톤…동양 판타지로 '넥스트 배그' 확보할까 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/11/19/2026111909142876661"
         }
       ]
     }
