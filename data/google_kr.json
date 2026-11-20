@@ -1,225 +1,204 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-20T07:05:41+00:00",
+  "fetched_at": "2026-11-20T16:05:30+00:00",
   "items": [
     {
-      "title": "유현조",
-      "approx_traffic": "500+",
-      "published": "Thu, 19 Nov 2026 22:00:00 -0800",
+      "title": "부동산",
+      "approx_traffic": "5000+",
+      "published": "Fri, 20 Nov 2026 06:50:00 -0800",
       "news": [
         {
-          "title": "유현조, LPGA Q시리즈 최종전 첫날 공동 8위…선두와 3타 차",
+          "title": "내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은?",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718204"
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718593"
         },
         {
-          "title": "2022년 유해란 이후 4년 만에 수석합격자 나올까…유현조 김민선7 이다연, LPGA Q-시리즈 최종전 출격",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261119/135048984/1"
+          "title": "국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611202007001"
         },
         {
-          "title": "LPGA투어 수능 돌입…90홀 Q시리즈 시작",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12213745"
+          "title": "내년 공시가격 현실화율 동결…\"국민 수용성 고려\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261120212011uN7"
         }
       ]
     },
     {
-      "title": "sk온",
+      "title": "u17 việt nam",
       "approx_traffic": "100+",
-      "published": "Thu, 19 Nov 2026 22:00:00 -0800",
+      "published": "Fri, 20 Nov 2026 06:40:00 -0800",
       "news": [
         {
-          "title": "[단독] SK온, LFP로 ‘제주 25년 장기계약’ 입찰 참여…초장기 수명 검증 시험대",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=375040"
+          "title": "Những tình huống tranh cãi của U17 Việt Nam được phân xử bởi công nghệ mới",
+          "source": "Báo Dân trí",
+          "url": "https://dantri.com.vn/the-thao/nhung-tinh-huong-tranh-cai-cua-u17-viet-nam-duoc-phan-xu-boi-cong-nghe-moi-20261120221348262.htm"
         },
         {
-          "title": "1차는 삼성SDI, 2차는 SK온…2조원 ESS 수주전, 이번 승부처는?",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1717295/1%EC%B0%A8-%EC%82%BC%EC%84%B1SDI-2%EC%B0%A8-SK%EC%98%A82%EC%A1%B0%EC%9B%90-E-2026"
+          "title": "Bảng xếp hạng U.17 World Cup mới nhất: 2 siêu phẩm giúp Việt Nam thoát đáy, Mali tốp 1 nhờ thắng New Zealand",
+          "source": "Thanh Niên",
+          "url": "https://thanhnien.vn/bang-xep-hang-u17-world-cup-moi-nhat-2-sieu-pham-giup-viet-nam-thoat-day-mali-top-1-nho-thang-new-zealand-185261120222540314.htm"
         },
         {
-          "title": "[포스코포럼] 김현수 하나증권 연구위원 \"ESS 키우는 건 친환경 아닌 에너지 안보\"",
-          "source": "스틸데일리",
-          "url": "https://www.steeldaily.co.kr/news/articleView.html?idxno=204463"
+          "title": "5 bức ảnh trên trang cá nhân của Lê Sỹ Bách - cầu thủ Việt Nam đầu tiên ghi bàn ở World Cup",
+          "source": "Kenh14.vn",
+          "url": "https://kenh14.vn/5-buc-anh-tren-trang-ca-nhan-cua-le-sy-bach-cau-thu-viet-nam-dau-tien-ghi-ban-o-world-cup-215261120212333135.chn"
         }
       ]
     },
     {
-      "title": "수출규제",
+      "title": "오현민",
       "approx_traffic": "200+",
-      "published": "Thu, 19 Nov 2026 21:50:00 -0800",
+      "published": "Fri, 20 Nov 2026 06:00:00 -0800",
       "news": [
         {
-          "title": "중국행 반도체 막는다더니…미국, 엔비디아·AMD 칩 88만개 수출 허가 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/20/2026112009474380780"
+          "title": "'데블스 플랜3' 오현민, 장동민 옆 눈물.. 탈락 심경 \"많이 부족했다\" [전문]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GRTDKZJYMQZWIM3EHFTDCODCMQ/"
         },
         {
-          "title": "美, 중국 반도체 숨통 더 조인다…삼성·TSMC도 출하 중단",
+          "title": "'데블스플랜3' 탈락 오현민 \"누구 하나 못된 사람 없어…비난 말아달라\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6359461"
+        },
+        {
+          "title": "‘데블스 플랜3’ 오현민 “출연진 비난하지 말아달라”",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261119010007564"
+        }
+      ]
+    },
+    {
+      "title": "엔비디아",
+      "approx_traffic": "5000+",
+      "published": "Fri, 20 Nov 2026 05:40:00 -0800",
+      "news": [
+        {
+          "title": "젠슨 황 딸 폭언까지 터졌다…\"직원에 '금붕어' 호칭\" 논란",
           "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026112088337"
+          "url": "https://www.hankyung.com/article/2026111982051"
         },
         {
-          "title": "美 반도체 우회 규제에…中 문샷AI, 엔비디아 첨단칩 2000억원 계약 취소",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/20261120500134"
+          "title": "'젠슨 황' 복귀 가능성 열어두면 독?…엔비디아가 선 그은 이유는",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261120_0003877219"
+        },
+        {
+          "title": "창업 동지도, 이사회도… 젠슨 황과 결별 굳히기",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/11/20/E5EZ3M22XRDSDNTVGB27OCWVWU/"
         }
       ]
     },
     {
-      "title": "레미콘",
-      "approx_traffic": "500+",
-      "published": "Thu, 19 Nov 2026 21:00:00 -0800",
+      "title": "india a cricket team vs nepal national cricket team match scorecard",
+      "approx_traffic": "200+",
+      "published": "Fri, 20 Nov 2026 05:40:00 -0800",
       "news": [
         {
-          "title": "한국토지주택공사, 3기 신도시 레미콘 품질 전 과정 추적…2028년 전국 확대",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722299"
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+          "source": "Cricbuzz",
+          "url": "https://www.cricbuzz.com/player-match-performance/match/177152/player/11290/bowling?inningsId=1"
         },
         {
-          "title": "LH, 3기 신도시에 ‘레미콘 통합 품질관리 시스템’ 도입",
-          "source": "중부일보",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363742809"
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+          "source": "Cricbuzz",
+          "url": "https://m.cricbuzz.com/player-match-performance/match/177152/player/11158/bowling"
         },
         {
-          "title": "소프트자이온, 레미콘 품질업무자동화 플랫폼 '위시드콘(Weseed CON)' 출시",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261117000118"
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+          "source": "Cricbuzz",
+          "url": "https://www.cricbuzz.com/player-match-performance/match/177152/player/12086/batting"
         }
       ]
     },
     {
-      "title": "리사 수",
+      "title": "펍지",
       "approx_traffic": "500+",
-      "published": "Thu, 19 Nov 2026 21:00:00 -0800",
+      "published": "Fri, 20 Nov 2026 05:30:00 -0800",
       "news": [
         {
-          "title": "“기억 못 하면 금붕어?”…젠슨 황 딸, 직원에게 막말 논란",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261120/135060075/1"
+          "title": "PUBG x IVE 콜라보레이션 아이템 모델링 개선 안내 - 뉴스 - PUBG: 배틀그라운드",
+          "source": "PUBG: BATTLEGROUNDS",
+          "url": "https://www.pubg.com/ko/news/11414"
         },
         {
-          "title": "엔비디아 임시 CEO “앞으로 나아가자” 임금 인상 시사…직원들 56% “젠슨 황 복귀 원해”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611191250001"
+          "title": "히마스-탄부 사건 이후 PUBG의 박스오피스 순위가 급락했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/pubg-roi-tu-do-tren-bang-xep-hang-doanh-thu-sau-vu-himass-tanvuu"
         },
         {
-          "title": "젠슨 황의 불륜 스캔들…두 여자의 주얼리를 보면 삶이 보인다 [민은미의 파인주얼리]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611169480i"
+          "title": "PUBG, 베트남 선수 불매운동 여파로 스팀 매출 순위 12계단 급락",
+          "source": "씬짜오베트남",
+          "url": "https://chaovietnam.co.kr/195002/"
         }
       ]
     },
     {
-      "title": "빅뱅",
+      "title": "미국 반도체 수출 통제로 인한 삼성전자와 tsmc의 중국 출하 중단 뉴스 알려줘",
+      "approx_traffic": "5000+",
+      "published": "Fri, 20 Nov 2026 05:30:00 -0800",
+      "news": []
+    },
+    {
+      "title": "두산",
+      "approx_traffic": "1000+",
+      "published": "Fri, 20 Nov 2026 05:10:00 -0800",
+      "news": [
+        {
+          "title": "두산에너빌리티 해상풍력터빈, 글로벌 보험 문턱 넘었다",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=375052"
+        },
+        {
+          "title": "두산에너빌리티 \"야월해상풍력발전단지, 글로벌 수준 보험 가입\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261120093351"
+        },
+        {
+          "title": "두산에너빌리티 8MW 해상풍력터빈, 글로벌 보험 기준 적용…해외 시장 진출 기반 강화",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315819"
+        }
+      ]
+    },
+    {
+      "title": "컴포즈",
       "approx_traffic": "2000+",
-      "published": "Thu, 19 Nov 2026 20:50:00 -0800",
+      "published": "Fri, 20 Nov 2026 05:10:00 -0800",
       "news": [
         {
-          "title": "20주년 빅뱅, 오늘 신곡 깜짝 발표…제목도 비밀, 기습 발매",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611201044001"
-        },
-        {
-          "title": "빅뱅·씨엘, 같은 날 4시간 차 신곡 컴백…그 시절 'YG 패밀리' 소환[SC초점]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/20/GU3WKZRYMMYTKNZWGJQTONZRG4/"
-        },
-        {
-          "title": "빅뱅, 오늘(20일) 새 디지털 싱글 기습 공개…데뷔 20주년 대미 장식",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855191"
-        }
-      ]
-    },
-    {
-      "title": "교량 건설",
-      "approx_traffic": "500+",
-      "published": "Thu, 19 Nov 2026 20:50:00 -0800",
-      "news": [
-        {
-          "title": "대우건설, 갠지스강 잇는 19.7㎞ 세계 최장급 교량 완공",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01269366645647688&mediaCodeNo=257"
-        },
-        {
-          "title": "이기형 김포시장, 국무총리에 ‘서울 5호선 연장·교통망 확충’ 촉구",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261119580283"
-        },
-        {
-          "title": "[김병철 시선①] 한대희 군포시장, 국토부에 2042년 물류터미널 이전계획 요청",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722460"
-        }
-      ]
-    },
-    {
-      "title": "대상 공원 빅 트리",
-      "approx_traffic": "100+",
-      "published": "Thu, 19 Nov 2026 20:50:00 -0800",
-      "news": [
-        {
-          "title": "창원 빅트리, 몸통 놔두고 꼭대기에 실내조망시설",
-          "source": "경남도민일보",
-          "url": "https://www.idomin.com/news/articleView.html?idxno=2020041"
-        },
-        {
-          "title": "창원시, 흉물 논란 ‘빅트리’ 개선 추진…55억 투입",
+          "title": "“부모님이라 생각하니 속상”…키오스크 앞 노인에게 무슨 일? [잇슈#태그]",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717837"
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718228"
         },
         {
-          "title": "‘흉물 논란’ 창원 빅트리, 실내 전망대로 대폭 손질",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611191316001"
-        }
-      ]
-    },
-    {
-      "title": "하마",
-      "approx_traffic": "500+",
-      "published": "Thu, 19 Nov 2026 20:30:00 -0800",
-      "news": [
-        {
-          "title": "세컨드레이디까지 추모 동참... 美 ‘국민 하마’ 피오나의 마지막 길",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/11/20/D6WXP4E4JZH25GHNTVL5GPUTFA/"
-        },
-        {
-          "title": "美동물원 인기하마 피요나, 관객이 던진 털모자 먹고 사망",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261120/135058433/1"
-        },
-        {
-          "title": "\"피오나, 고마웠어\"…美 '스타 하마' 사망에 애도 물결",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261120079900009"
-        }
-      ]
-    },
-    {
-      "title": "안개",
-      "approx_traffic": "500+",
-      "published": "Thu, 19 Nov 2026 20:20:00 -0800",
-      "news": [
-        {
-          "title": "안개 폭포 쏟아지는 아침…‘올해의 기상 사진’ 1위",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/science/science_general/1288275.html"
-        },
-        {
-          "title": "산 할아버지, 구름모자 썼네…‘올해의 기상 사진’ 후보들",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/science/science_general/1287157.html"
-        },
-        {
-          "title": "호남·제주 '겨울 왕국'...현재 눈 상황은? [앵커리포트]",
+          "title": "키오스크 헤매는 어르신에 날 선 말투...컴포즈커피 응대 논란에 본사 사과 [앵커리포트]",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611200758253794_005.html"
+          "url": "https://www.ytn.co.kr/_ln/0103_202611202251454439"
+        }
+      ]
+    },
+    {
+      "title": "류효영",
+      "approx_traffic": "200+",
+      "published": "Fri, 20 Nov 2026 05:10:00 -0800",
+      "news": [
+        {
+          "title": "“오빠한테 관심 있어” 고백한 류효영, 이태성과 첫 키스 장소 방문 (신랑수업2)",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12213967"
+        },
+        {
+          "title": "두 사람이 키스했던 장소?! 일이 아닌 데이트로 다시 온 촬영 장소에서의 설렘♥",
+          "source": "채널A",
+          "url": "https://ichannela.com/program/clip/000000560996.do"
+        },
+        {
+          "title": "'류화영 쌍둥이' 류효영, 돌싱+싱글대디 ♥이태성에 직진 \"나 아껴?\"('신랑수업2')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/MJSTOMJRMQ4GKM3GG4ZWIMTDHE/"
         }
       ]
     }
