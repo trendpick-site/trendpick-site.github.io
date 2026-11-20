@@ -1,204 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-20T16:05:30+00:00",
+  "fetched_at": "2026-11-20T22:38:47+00:00",
   "items": [
     {
-      "title": "부동산",
-      "approx_traffic": "5000+",
-      "published": "Fri, 20 Nov 2026 06:50:00 -0800",
-      "news": [
-        {
-          "title": "내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718593"
-        },
-        {
-          "title": "국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611202007001"
-        },
-        {
-          "title": "내년 공시가격 현실화율 동결…\"국민 수용성 고려\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261120212011uN7"
-        }
-      ]
-    },
-    {
-      "title": "u17 việt nam",
-      "approx_traffic": "100+",
-      "published": "Fri, 20 Nov 2026 06:40:00 -0800",
-      "news": [
-        {
-          "title": "Những tình huống tranh cãi của U17 Việt Nam được phân xử bởi công nghệ mới",
-          "source": "Báo Dân trí",
-          "url": "https://dantri.com.vn/the-thao/nhung-tinh-huong-tranh-cai-cua-u17-viet-nam-duoc-phan-xu-boi-cong-nghe-moi-20261120221348262.htm"
-        },
-        {
-          "title": "Bảng xếp hạng U.17 World Cup mới nhất: 2 siêu phẩm giúp Việt Nam thoát đáy, Mali tốp 1 nhờ thắng New Zealand",
-          "source": "Thanh Niên",
-          "url": "https://thanhnien.vn/bang-xep-hang-u17-world-cup-moi-nhat-2-sieu-pham-giup-viet-nam-thoat-day-mali-top-1-nho-thang-new-zealand-185261120222540314.htm"
-        },
-        {
-          "title": "5 bức ảnh trên trang cá nhân của Lê Sỹ Bách - cầu thủ Việt Nam đầu tiên ghi bàn ở World Cup",
-          "source": "Kenh14.vn",
-          "url": "https://kenh14.vn/5-buc-anh-tren-trang-ca-nhan-cua-le-sy-bach-cau-thu-viet-nam-dau-tien-ghi-ban-o-world-cup-215261120212333135.chn"
-        }
-      ]
-    },
-    {
-      "title": "오현민",
+      "title": "띠별 운세",
       "approx_traffic": "200+",
-      "published": "Fri, 20 Nov 2026 06:00:00 -0800",
+      "published": "Fri, 20 Nov 2026 13:30:00 -0800",
       "news": [
         {
-          "title": "'데블스 플랜3' 오현민, 장동민 옆 눈물.. 탈락 심경 \"많이 부족했다\" [전문]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GRTDKZJYMQZWIM3EHFTDCODCMQ/"
+          "title": "[오늘의 운세/11월 22일]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261121/135063072/2"
         },
         {
-          "title": "'데블스플랜3' 탈락 오현민 \"누구 하나 못된 사람 없어…비난 말아달라\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6359461"
+          "title": "[더사주 오늘의 띠별 운세]",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026111813562891272"
         },
         {
-          "title": "‘데블스 플랜3’ 오현민 “출연진 비난하지 말아달라”",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261119010007564"
-        }
-      ]
-    },
-    {
-      "title": "엔비디아",
-      "approx_traffic": "5000+",
-      "published": "Fri, 20 Nov 2026 05:40:00 -0800",
-      "news": [
-        {
-          "title": "젠슨 황 딸 폭언까지 터졌다…\"직원에 '금붕어' 호칭\" 논란",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111982051"
-        },
-        {
-          "title": "'젠슨 황' 복귀 가능성 열어두면 독?…엔비디아가 선 그은 이유는",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261120_0003877219"
-        },
-        {
-          "title": "창업 동지도, 이사회도… 젠슨 황과 결별 굳히기",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/11/20/E5EZ3M22XRDSDNTVGB27OCWVWU/"
-        }
-      ]
-    },
-    {
-      "title": "india a cricket team vs nepal national cricket team match scorecard",
-      "approx_traffic": "200+",
-      "published": "Fri, 20 Nov 2026 05:40:00 -0800",
-      "news": [
-        {
-          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/player-match-performance/match/177152/player/11290/bowling?inningsId=1"
-        },
-        {
-          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-          "source": "Cricbuzz",
-          "url": "https://m.cricbuzz.com/player-match-performance/match/177152/player/11158/bowling"
-        },
-        {
-          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/player-match-performance/match/177152/player/12086/batting"
-        }
-      ]
-    },
-    {
-      "title": "펍지",
-      "approx_traffic": "500+",
-      "published": "Fri, 20 Nov 2026 05:30:00 -0800",
-      "news": [
-        {
-          "title": "PUBG x IVE 콜라보레이션 아이템 모델링 개선 안내 - 뉴스 - PUBG: 배틀그라운드",
-          "source": "PUBG: BATTLEGROUNDS",
-          "url": "https://www.pubg.com/ko/news/11414"
-        },
-        {
-          "title": "히마스-탄부 사건 이후 PUBG의 박스오피스 순위가 급락했다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/pubg-roi-tu-do-tren-bang-xep-hang-doanh-thu-sau-vu-himass-tanvuu"
-        },
-        {
-          "title": "PUBG, 베트남 선수 불매운동 여파로 스팀 매출 순위 12계단 급락",
-          "source": "씬짜오베트남",
-          "url": "https://chaovietnam.co.kr/195002/"
-        }
-      ]
-    },
-    {
-      "title": "미국 반도체 수출 통제로 인한 삼성전자와 tsmc의 중국 출하 중단 뉴스 알려줘",
-      "approx_traffic": "5000+",
-      "published": "Fri, 20 Nov 2026 05:30:00 -0800",
-      "news": []
-    },
-    {
-      "title": "두산",
-      "approx_traffic": "1000+",
-      "published": "Fri, 20 Nov 2026 05:10:00 -0800",
-      "news": [
-        {
-          "title": "두산에너빌리티 해상풍력터빈, 글로벌 보험 문턱 넘었다",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=375052"
-        },
-        {
-          "title": "두산에너빌리티 \"야월해상풍력발전단지, 글로벌 수준 보험 가입\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261120093351"
-        },
-        {
-          "title": "두산에너빌리티 8MW 해상풍력터빈, 글로벌 보험 기준 적용…해외 시장 진출 기반 강화",
-          "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315819"
-        }
-      ]
-    },
-    {
-      "title": "컴포즈",
-      "approx_traffic": "2000+",
-      "published": "Fri, 20 Nov 2026 05:10:00 -0800",
-      "news": [
-        {
-          "title": "“부모님이라 생각하니 속상”…키오스크 앞 노인에게 무슨 일? [잇슈#태그]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718228"
-        },
-        {
-          "title": "키오스크 헤매는 어르신에 날 선 말투...컴포즈커피 응대 논란에 본사 사과 [앵커리포트]",
+          "title": "[오늘의 운세] 2026년 11월 21일 별자리 운세",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611202251454439"
+          "url": "https://www.ytn.co.kr/_ln/0121_202611210000000002"
         }
       ]
     },
     {
-      "title": "류효영",
-      "approx_traffic": "200+",
-      "published": "Fri, 20 Nov 2026 05:10:00 -0800",
+      "title": "노동조합",
+      "approx_traffic": "1000+",
+      "published": "Fri, 20 Nov 2026 13:30:00 -0800",
       "news": [
         {
-          "title": "“오빠한테 관심 있어” 고백한 류효영, 이태성과 첫 키스 장소 방문 (신랑수업2)",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12213967"
+          "title": "서울 지하철 준법투쟁 첫날…철도노조도 23일 합류",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=375076"
         },
         {
-          "title": "두 사람이 키스했던 장소?! 일이 아닌 데이트로 다시 온 촬영 장소에서의 설렘♥",
-          "source": "채널A",
-          "url": "https://ichannela.com/program/clip/000000560996.do"
+          "title": "서울지하철 노조, 오늘부터 준법투쟁…출퇴근 열차 지연 예상",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718152"
         },
         {
-          "title": "'류화영 쌍둥이' 류효영, 돌싱+싱글대디 ♥이태성에 직진 \"나 아껴?\"('신랑수업2')",
+          "title": "지하철 2호선 성수지선 양방향 중단·1호선도 지연",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261120580015"
+        }
+      ]
+    },
+    {
+      "title": "김민재",
+      "approx_traffic": "500+",
+      "published": "Fri, 20 Nov 2026 13:20:00 -0800",
+      "news": [
+        {
+          "title": "'기분 좋은 방출설' 김민재, EPL 빅클럽+유벤투스+튀르키예 \"러브콜 폭주\"... 뮌헨은 이미 대체자 물색 \"여름에 떠나나\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/20/2026112008255895599"
+        },
+        {
+          "title": "‘韓 괴물 CB’ 김민재, 어떤 명문 구단이 품을까···“바이에른 뮌헨과 재계약 불투명” 튀르키예·이탈리아 구단...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611200707003"
+        },
+        {
+          "title": "\"대반전\" 韓 16호 프리미어리거 보인다! '괴물 수비수' 김민재 러브콜 폭발…'바이에른 뮌헨, 영입 제안 들을 의향 있다'",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/MJSTOMJRMQ4GKM3GG4ZWIMTDHE/"
+          "url": "https://www.chosun.com/sports/world-football/2026/11/19/GI4TMYTDGVSWMYLDHFSTCOBRGQ/"
+        }
+      ]
+    },
+    {
+      "title": "태양광 발전",
+      "approx_traffic": "100+",
+      "published": "Fri, 20 Nov 2026 13:20:00 -0800",
+      "news": [
+        {
+          "title": "나주시, ‘햇빛소득마을’ 공모 대비 12개 마을 찾아가는 사전컨설팅",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=355135"
+        },
+        {
+          "title": "전남광주 남구, 햇빛 소득으로 '에너지 복지' 확대",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261120000613"
+        },
+        {
+          "title": "함양군, 햇빛소득마을 이장교육…지역경제 활성화 기대",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261119_0003875245"
+        }
+      ]
+    },
+    {
+      "title": "박은정",
+      "approx_traffic": "100+",
+      "published": "Fri, 20 Nov 2026 13:10:00 -0800",
+      "news": [
+        {
+          "title": "'원구성 122일 파행' 대덕구의회, 업무추진비 지원 여야 한통속",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261120128400063"
+        },
+        {
+          "title": "박은정 대덕구의원, 교섭단체 운영지원 위한 제도적 근거 마련",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/national/2391669.htm"
+        },
+        {
+          "title": "122일 파행 빚더니…의원 의정활동 지원부터 서두르는 대덕구의회",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/daejeon-chungnam/6360879"
+        }
+      ]
+    },
+    {
+      "title": "비트코인",
+      "approx_traffic": "2000+",
+      "published": "Fri, 20 Nov 2026 13:00:00 -0800",
+      "news": [
+        {
+          "title": "비트코인 4달만에 도로 6만달러 아래로…2022년 이후 최장 약세",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261121005500091"
+        },
+        {
+          "title": "보름 만에 23% 떨어진 비트코인…바닥은 어디일까[코인현미경]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/blockchain-fintech/6361286"
+        },
+        {
+          "title": "휘청이는 비트코인…NH증권 \"디베이스먼트 재부각 필요\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445655"
+        }
+      ]
+    },
+    {
+      "title": "새마을금고",
+      "approx_traffic": "100+",
+      "published": "Fri, 20 Nov 2026 13:00:00 -0800",
+      "news": [
+        {
+          "title": "해운대구 재송1동 지역사회보장협의체, 취약계층 50세대에 `사랑의 김장김치` 전달",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261120.99099006534"
+        },
+        {
+          "title": "해운대구 반여1·4동 MG새마을금고, 반여1동에 MG희망나눔 김치 전달",
+          "source": "부산일보",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026112010070745549"
+        },
+        {
+          "title": "인제군자원봉사센터, 취약계층 170가구에 김장 김치 전달",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756329"
+        }
+      ]
+    },
+    {
+      "title": "포스코",
+      "approx_traffic": "200+",
+      "published": "Fri, 20 Nov 2026 13:00:00 -0800",
+      "news": [
+        {
+          "title": "포스코 노사, 1차 합의안 부결 13일 만에 임금교섭 잠정합의(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261120166151053"
+        },
+        {
+          "title": "포스코, 임단협 잠정합의안 재도출…\"철강 위기 극복 뜻 모아\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/20/2026112018233126305"
+        },
+        {
+          "title": "포스코 노사, 임협 새 잠정합의안 마련…조합원 투표 예정",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611202317372M7"
+        }
+      ]
+    },
+    {
+      "title": "생계",
+      "approx_traffic": "2000+",
+      "published": "Fri, 20 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "구청 실수로 줬다 뺏은 생계급여…매년 800건꼴",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718769"
+        },
+        {
+          "title": "구청 실수로 줬다 뺏은 생계급여…매년 800건꼴",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718646"
+        },
+        {
+          "title": "사람들이 지속 가능한 방식으로 빈곤에서 벗어날 수 있도록 '역량 강화'.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/tiep-suc-thoat-ngheo-ben-vung"
+        }
+      ]
+    },
+    {
+      "title": "김연경",
+      "approx_traffic": "1000+",
+      "published": "Fri, 20 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "김연경 ‘필승 원더독스’, 첫 해외원정…베트남 프로 최강팀 라오까이와 맞대결(‘신인감독2’)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/HFTDCZJYGA2WKOJTMYZTIZRSGA/"
+        },
+        {
+          "title": "코트 위의 매버릭, ‘꽃사슴’ 황연주의 위대한 귀환 [예능 뜯어보기] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112008307243652"
+        },
+        {
+          "title": "'신인감독' 김연경, 포항시체육회 반격에 흔들리나…창단 첫 패배 위기",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6359485"
         }
       ]
     }
