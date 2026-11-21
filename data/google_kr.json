@@ -1,193 +1,215 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-21T11:45:39+00:00",
+  "fetched_at": "2026-11-21T19:08:58+00:00",
   "items": [
     {
-      "title": "이정후",
-      "approx_traffic": "500+",
-      "published": "Sat, 21 Nov 2026 02:30:00 -0800",
+      "title": "newcastle vs arsenal",
+      "approx_traffic": "200+",
+      "published": "Sat, 21 Nov 2026 09:30:00 -0800",
       "news": [
         {
-          "title": "\"1513억 투자했는데 기대에 못 미친다\" 이정후 향한 美 현지의 냉정한 평가…2027년이 중요하다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/21/MQ3TMZTGMNRDQMJQMFSTQMJVME/"
+          "title": "Newcastle United vs Arsenal: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cqd01ey009rxt"
         },
         {
-          "title": "'타율 0.366→0.223' 이정후 충격 기복, 美 일침 \"맞히는 것만으론 부족해, 장타자 될 필욘 없어\" - 머니투데이",
+          "title": "Premier League live scores: Arsenal face Newcastle in final game after Leeds thrash Chelsea at Stamford Bridge",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/live-blogs/premier-league-live-updates-scores-results-news/XgcjO3hBj7Js/"
+        },
+        {
+          "title": "Team news: Eze in, Guimaraes starts at Newcastle",
+          "source": "Arsenal.com",
+          "url": "https://www.arsenal.com/news/team-news-eze-in-guimaraes-starts-at-newcastle-a2H2M7O1LIFA"
+        }
+      ]
+    },
+    {
+      "title": "아스날",
+      "approx_traffic": "200+",
+      "published": "Sat, 21 Nov 2026 09:20:00 -0800",
+      "news": [
+        {
+          "title": "'게임에서 자기 자신을 주장으로 선택했을 뿐인데' 아스날 선발 명단 유출 논란...아르테타 감독 긴급 대응 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/21/2026112111230199053"
+          "url": "https://www.mt.co.kr/sports/2026/11/21/202611211124779349O"
         },
         {
-          "title": "\"내보내야\" vs \"팔기 어렵다\"…SF 이정후 두고 엇갈린 시선",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261121025500007"
+          "title": "아스널의 미켈 아르테타 감독은 선수들의 축구 비디오 게임 플레이를 금지했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hlv-mikel-arteta-cam-cau-thu-arsenal-choi-game-bong-da"
+        },
+        {
+          "title": "아르테타 아스날 감독 FPL 정보 유출 경고…내부 단속 나서 : 스포츠",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1113265"
         }
       ]
     },
     {
-      "title": "마타",
-      "approx_traffic": "200+",
-      "published": "Sat, 21 Nov 2026 02:20:00 -0800",
-      "news": [
-        {
-          "title": "[오피셜] 한 시대의 작별… T1, ‘쓰리핏' 주역 '꼬마-톰-마타' 동행 마침표",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112913464"
-        },
-        {
-          "title": "T1, 김정균 감독·임재현 대행·조세형 코치 계약 종료",
-          "source": "데일리e스포츠",
-          "url": "https://www.dailyesports.com/view.php?ud=20261121190752574174bcc1e038_27"
-        },
-        {
-          "title": "[단독] '엄티' 엄성현, 2027 시즌 T1 코치진 합류 유력",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2220350"
-        }
-      ]
-    },
-    {
-      "title": "김민석",
+      "title": "psg",
       "approx_traffic": "100+",
-      "published": "Sat, 21 Nov 2026 02:20:00 -0800",
+      "published": "Sat, 21 Nov 2026 09:20:00 -0800",
       "news": [
         {
-          "title": "김민석 \"민주당 큰 고민 중 하나는 청년…더 함께하고 싶다\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261121040151001"
+          "title": "Nice renversé, le PSG profite d'un penalty litigieux",
+          "source": "Foot01",
+          "url": "https://www.foot01.com/paris/nice-renverse-le-psg-profite-dun-penalty-litigieux"
         },
         {
-          "title": "국기에 대한 경례하는 김민석 대표",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261121_0021541271"
+          "title": "Luis Enrique donne des nouvelles de Désiré Doué",
+          "source": "SO FOOT.com",
+          "url": "https://www.sofoot.com/breves/nice-psg-luis-enrique-donne-des-nouvelles-de-desire-doue-apres-sa-blessure"
         },
         {
-          "title": "김민석 “청년 통해 민주당이 할 일 깨닫길”…소통 확대 강조",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026112116342009824"
+          "title": "PSG - La réaction de Ferran Torres, buteur, après la victoire du PSG face à l'OGC Nice",
+          "source": "MadeInFoot",
+          "url": "https://madeinfoot.ouest-france.fr/infos/article-psg-la-reaction-de-ferran-torres-buteur-apres-la-victoire-du-psg-face-a-l-ogc-nice-546534.html"
         }
       ]
     },
     {
-      "title": "로이킴",
+      "title": "뉴캐슬 대 아스널",
+      "approx_traffic": "5000+",
+      "published": "Sat, 21 Nov 2026 08:40:00 -0800",
+      "news": [
+        {
+          "title": "‘아스널 희소식’ 살리바 복귀 임박! ‘英 대표’ 콘사로 유지한 방패, 더 단단해진다",
+          "source": "풋볼리스트",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=217112"
+        },
+        {
+          "title": "뉴캐슬 복귀와 아스날에서 브루노 기마랑이스의 큰 도전",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/ngay-tro-lai-newcastle-va-thach-thuc-lon-cua-bruno-guimaraes-tai-arsenal-1803974.ldo"
+        },
+        {
+          "title": "뉴캐슬 대 아스널 ​​축구 경기 생중계: 프리미어 리그 11라운드",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/truc-tiep-bong-da-newcastle-vs-arsenal-vong-11-ngoai-hang-anh"
+        }
+      ]
+    },
+    {
+      "title": "nice vs psg",
       "approx_traffic": "200+",
-      "published": "Sat, 21 Nov 2026 02:10:00 -0800",
+      "published": "Sat, 21 Nov 2026 08:40:00 -0800",
       "news": [
         {
-          "title": "로이킴, 13년만 첫 KSPO돔 입성…“노래로 눈물 닦였기를”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719081"
+          "title": "OGC Nice - PSG : les compositions probables",
+          "source": "Foot Mercato",
+          "url": "https://www.footmercato.net/a7492553014966074759-ogc-nice-psg-les-compositions-probables"
         },
         {
-          "title": "로이킴, 케이스포돔에 지은 '집'…모서리 없는 원(圓)서 풀려난 울음 [선율의 밑줄]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261121_0003877529"
+          "title": "Mini feux d'artifice, chants, fumigènes : l'ambiance monte d'un cran avant Nice-PSG - Foot - Ligue 1",
+          "source": "Sports - Orange",
+          "url": "https://sports.orange.fr/videos/football/mini-feux-d-artifice-chants-fumigenes-l-ambiance-monte-d-un-cran-avant-nice-psg-foot-ligue-1-CNT000002tWg1g.html"
         },
         {
-          "title": "[스경X현장] 음악으로 눈물을 닦아주는, 로이킴의 안식처 ‘R:O:Y’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611210024003"
+          "title": "Mohamed Abdelmonem forfait contre le PSG, une nouvelle blessure pour le défenseur égyptien - Sports - Sports",
+          "source": "Ahraminfo",
+          "url": "https://french.ahram.org.eg/NewsContent/6/51/96094/Sports/Sports/Mohamed-Abdelmonem-forfait-contre-le-PSG,-une-nouv.aspx"
         }
       ]
     },
     {
-      "title": "최백호",
-      "approx_traffic": "500+",
-      "published": "Sat, 21 Nov 2026 02:00:00 -0800",
-      "news": []
-    },
-    {
-      "title": "강원 fc 대 대전 하나 시티즌 순위",
-      "approx_traffic": "1000+",
-      "published": "Sat, 21 Nov 2026 01:40:00 -0800",
-      "news": []
-    },
-    {
-      "title": "김종국",
-      "approx_traffic": "500+",
-      "published": "Sat, 21 Nov 2026 01:40:00 -0800",
+      "title": "토트넘 홋스퍼 fc 대 입스위치 타운 fc 라인업",
+      "approx_traffic": "100+",
+      "published": "Sat, 21 Nov 2026 08:20:00 -0800",
       "news": [
         {
-          "title": "김종국 “내가 알기로는 월세만 2억”…이서진 “나사 온 줄” 감탄한 새 회사",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12215136"
+          "title": "Tottenham 2-0 Ipswich: Luca Williams-Barnett stars as Spurs win",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c699exk99z54t"
         },
         {
-          "title": "무엇이든 해줄지니 - 비서진 : 김종국, 감탄이 절로 나오는 독보적인 보이스로 고깃집에서 열창한",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC483687620?div=live_end"
+          "title": "Match commentary and highlights: Tottenham 2-0 Ipswich",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/13610687/tottenham-vs-ipswich-live-premier-league-match-updates-news-and-score"
         },
         {
-          "title": "\"월세 2억\" 뉴욕대 금수저 이서진도 놀랐다···김종국 초호화 소속사 소개('비서진')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/GBRDAZTCGUZWEZLGGU2GGZRZMQ/"
+          "title": "De Zerbi: Bergvall, Maddison, Savio in contention for Ipswich, Tel, Tosin, Mudryk out",
+          "source": "Cartilage Free Captain",
+          "url": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-news/74957/tottenham-hotspur-news-ipswich-bergvall-maddison-savio-return"
         }
       ]
     },
     {
-      "title": "파워리프팅",
+      "title": "เชลซี พบ ลีดส์",
+      "approx_traffic": "100+",
+      "published": "Sat, 21 Nov 2026 08:10:00 -0800",
+      "news": [
+        {
+          "title": "เอ็มมานูเอล เอเมก้า: ผมจะพร้อมเมื่อโอกาสมาถึง และผมสนุกกับทุกวันที่เชลซี‍‍‌⁠‌‌‍‌​​‌‌​⁠​‌​⁠​​​⁠​​​⁠​​​⁠​‌‌",
+          "source": "AllFootball",
+          "url": "https://www.allfootballapp.com/th/articles/6012815"
+        },
+        {
+          "title": "เชลซีและสถานการณ์ที่ยากลำบากสำหรับผู้จัดการทีมอย่างอลอนโซ่",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/chelsea-va-bai-toan-nan-giai-cho-hlv-alonso"
+        },
+        {
+          "title": "เชลซี เกลียวหลุดคาบ้าน โดน ลีดส์ ยูไนเต็ด แซงดับ 4-1 บุกมาคว้าชัยที่ สแตมฟอร์ด บริดจ์ ในรอบ 27 ปี !",
+          "source": "Mainstand",
+          "url": "https://mainstand.co.th/index.php/th/news/1/article/27643"
+        }
+      ]
+    },
+    {
+      "title": "como vs cagliari",
+      "approx_traffic": "100+",
+      "published": "Sat, 21 Nov 2026 07:30:00 -0800",
+      "news": [
+        {
+          "title": "Nico Paz jugó media hora en el triunfo del Como ante Cagliari por la Serie A :: Olé - ole.com.ar",
+          "source": "Olé",
+          "url": "https://www.ole.com.ar/futbol-internacional/nico-paz-partido-cagliari-serie_0_eJijvdpDLg.html"
+        },
+        {
+          "title": "EN VIVO: Finaliza la primera parte con ventaja 1-0 para Como 1907 sobre Cagliari",
+          "source": "Anecdotarios",
+          "url": "https://anecdotarios.com/2026/11/21/como-1907-vs-cagliari-previa-horario-y-como-llegan-para-la-fecha-12/"
+        },
+        {
+          "title": "Jacobo Ramón y Da Cunha devuelven al Como a la zona Champions",
+          "source": "SPORT",
+          "url": "https://www.sport.es/es/noticias/futbol-internacional/calcio/jacobo-ramon-da-cunha-devuelven-136700634"
+        }
+      ]
+    },
+    {
+      "title": "권순우",
       "approx_traffic": "200+",
-      "published": "Sat, 21 Nov 2026 01:30:00 -0800",
+      "published": "Sat, 21 Nov 2026 07:20:00 -0800",
       "news": [
         {
-          "title": "\"허벅지 둘레 64cm\" 日 여성 선수, 227.5kg 번쩍! '체급의 3.6배' 괴력 미쳤다...\"생애 첫 세계대회서 데드리프트 金\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112911421"
-        },
-        {
-          "title": "“귀여운 외모에 반전 괴력” 허벅지 두께 무려 64㎝…세계 놀라게 한 日여성 [월드픽]",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/international/2026/11/20/20261120500051"
-        },
-        {
-          "title": "“귀여운 외모에 반전 괴력” 허벅지 두께 무려 64㎝…세계 놀라게 한 日여성 [월드픽]",
-          "source": "서울신문",
-          "url": "https://m.seoul.co.kr/news/international/2026/11/20/20261120500051"
+          "title": "'타이브레이크 역전쇼' 권순우, 시즌 4번째 4강 [ATP 메츠챌린저]",
+          "source": "테니스코리아",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54344"
         }
       ]
     },
     {
-      "title": "k리그1",
+      "title": "엑셀방송",
       "approx_traffic": "200+",
-      "published": "Sat, 21 Nov 2026 01:20:00 -0800",
+      "published": "Sat, 21 Nov 2026 07:10:00 -0800",
       "news": [
         {
-          "title": "수원 삼성, K리그2 우승‥이정효 감독 \"14위부터 다시 시작\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6867487_36946.html"
+          "title": "'그것이 알고싶다', 女 줄세워 가학 벌칙…'사이버 룸살롱' 엑셀 방송의 충격 실태 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112120007264440"
         },
         {
-          "title": "승리의 기쁨",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8226316"
+          "title": "'그것이 알고싶다'(그알) 딸의 방송 본 아버지 제보로 드러난 '엑셀 방송' 실태",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759174"
         },
         {
-          "title": "'1부 승격' 수원 삼성, 경남 꺾고 K리그2 우승까지 확정(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261121039751007"
-        }
-      ]
-    },
-    {
-      "title": "삼성 엑시노스",
-      "approx_traffic": "200+",
-      "published": "Sat, 21 Nov 2026 01:10:00 -0800",
-      "news": [
-        {
-          "title": "GameNative's new update brings reliable PC gaming to Pixels and Samsung Exynos",
-          "source": "Yahoo Tech",
-          "url": "https://tech.yahoo.com/gaming/articles/gamenatives-brings-reliable-pc-gaming-124728335.html"
-        },
-        {
-          "title": "GameNative just fixed PC gaming on Pixels and Exynos-powered Galaxy phones",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/gamenative-update-pixels-exynos-galaxy-phones-3737053/"
-        },
-        {
-          "title": "GameNative Android PC game emulator prepares graphics fixes for Mali, PowerVR and Xclipse GPUs",
-          "source": "VideoCardz.com",
-          "url": "https://videocardz.com/newz/gamenative-android-pc-game-emulator-prepares-graphics-fixes-for-mali-powervr-and-xclipse-gpus"
+          "title": "성노예→학대 사이버 룸살롱 ‘엑셀’ 파헤친다 (그것이 알고싶다)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261120/135062142/1"
         }
       ]
     }
