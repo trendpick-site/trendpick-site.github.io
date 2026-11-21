@@ -1,215 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-21T19:08:58+00:00",
+  "fetched_at": "2026-11-21T23:47:29+00:00",
   "items": [
     {
-      "title": "newcastle vs arsenal",
-      "approx_traffic": "200+",
-      "published": "Sat, 21 Nov 2026 09:30:00 -0800",
+      "title": "부동산",
+      "approx_traffic": "1000+",
+      "published": "Sat, 21 Nov 2026 14:40:00 -0800",
       "news": [
         {
-          "title": "Newcastle United vs Arsenal: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cqd01ey009rxt"
+          "title": "'경기 안심 부동산' 참여 중개사무소에 스티커…온라인 표시도",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261122_0003877896"
         },
         {
-          "title": "Premier League live scores: Arsenal face Newcastle in final game after Leeds thrash Chelsea at Stamford Bridge",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/live-blogs/premier-league-live-updates-scores-results-news/XgcjO3hBj7Js/"
+          "title": "평택시 송탄출장소, 공인중개사 대상 AI 기반 부동산 거래 지원 교육 실시",
+          "source": "웹이코노미",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2382351"
         },
         {
-          "title": "Team news: Eze in, Guimaraes starts at Newcastle",
-          "source": "Arsenal.com",
-          "url": "https://www.arsenal.com/news/team-news-eze-in-guimaraes-starts-at-newcastle-a2H2M7O1LIFA"
+          "title": "수원시 권선구, 관내 개업공인중개사 대상 '경기 안심 부동산' 캠페인 실시",
+          "source": "타임뉴스",
+          "url": "https://www.timenews.co.kr/article/1759721"
         }
       ]
     },
     {
-      "title": "아스날",
-      "approx_traffic": "200+",
-      "published": "Sat, 21 Nov 2026 09:20:00 -0800",
+      "title": "인터 마이애미 대 콜럼버스 크루",
+      "approx_traffic": "1000+",
+      "published": "Sat, 21 Nov 2026 14:30:00 -0800",
       "news": [
         {
-          "title": "'게임에서 자기 자신을 주장으로 선택했을 뿐인데' 아스날 선발 명단 유출 논란...아르테타 감독 긴급 대응 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/21/202611211124779349O"
+          "title": "It’s Miami Time: Get Ready for Inter Miami CF’s Playoffs Opener This Saturday Presented by Nu",
+          "source": "Inter Miami CF",
+          "url": "https://www.intermiamicf.com/news/it-s-miami-time-get-ready-for-inter-miami-cf-s-playoffs-opener-this-saturday-presented-by-nu"
         },
         {
-          "title": "아스널의 미켈 아르테타 감독은 선수들의 축구 비디오 게임 플레이를 금지했다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/hlv-mikel-arteta-cam-cau-thu-arsenal-choi-game-bong-da"
+          "title": "Lionel Messi & Inter Miami enter MLS Cup Playoffs with historic ambitions",
+          "source": "MLSsoccer.com",
+          "url": "https://www.mlssoccer.com/playoffs/2026/news/lionel-messi-inter-miami-enter-mls-cup-playoffs-with-historic-ambitions"
         },
         {
-          "title": "아르테타 아스날 감독 FPL 정보 유출 경고…내부 단속 나서 : 스포츠",
+          "title": "How the Columbus Crew switched paths en route to the MLS playoffs",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/20/columbus-crew-mls-playoffs"
+        }
+      ]
+    },
+    {
+      "title": "인천광역시",
+      "approx_traffic": "100+",
+      "published": "Sat, 21 Nov 2026 14:20:00 -0800",
+      "news": [
+        {
+          "title": "인천시, 수소산업 담당자 직무교육…인프라 운영 역량 강화",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722785"
+        },
+        {
+          "title": "AI 시대 전력 공급, 연료전지의 역할은…수소인프라 운영 사례도 공유",
+          "source": "수소신문",
+          "url": "https://www.hydrogennews.co.kr/news/articleView.html?idxno=5225"
+        },
+        {
+          "title": "인천시, 수소산업 직무교육 실시… 실무 담당자 정책 역량 강화",
+          "source": "케이에스피뉴스",
+          "url": "https://www.kspnews.com/2896996"
+        }
+      ]
+    },
+    {
+      "title": "공군사관학교",
+      "approx_traffic": "500+",
+      "published": "Sat, 21 Nov 2026 14:20:00 -0800",
+      "news": [
+        {
+          "title": "공사 생도 '명예시험' 중 스마트폰으로 시험지 촬영…퇴교 처분",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261120176600504"
+        },
+        {
+          "title": "감독관 없는 ‘명예시험’서 스마트폰 부정행위…공사 3학년 생도 퇴교",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261120580310"
+        },
+        {
+          "title": "공군사관학교도 6월에 시험문제 불법촬영…3학년 생도 퇴교",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261120/135063726/1"
+        }
+      ]
+    },
+    {
+      "title": "뉴스",
+      "approx_traffic": "1000+",
+      "published": "Sat, 21 Nov 2026 14:10:00 -0800",
+      "news": [
+        {
+          "title": "“코스닥 살리려다 양극화 키울라”…상장사 44%의 경고",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202611200168"
+        },
+        {
+          "title": "기업은행, 코스닥 활성화 설문…기업들 “기관투자자 유입 시급”",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261119025422070"
+        },
+        {
+          "title": "코스닥 상장사 150곳 스스로 “코스닥 활성화하려면 부실상장사 퇴출해야 ”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1288131.html"
+        }
+      ]
+    },
+    {
+      "title": "편지",
+      "approx_traffic": "200+",
+      "published": "Sat, 21 Nov 2026 14:00:00 -0800",
+      "news": [
+        {
+          "title": "\"네가 있어서 든든했다\"…28년 전 담임선생님이 남긴 손편지 화제",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120101432PaP"
+        },
+        {
+          "title": "\"네가 있어서 든든했다\"…28년 전 중학교 가정통신문에 적힌 담임 선생님 메시지 '감동' [따뜻했슈]",
+          "source": "부산파이낸셜뉴스",
+          "url": "https://busan.fnnews.com/news/202611201111489476?pg=mny"
+        },
+        {
+          "title": "\"네가 있어서 든든했다\"…28년 전 중학교 가정통신문에 적힌 담임 선생님 메시지 '감동' [따뜻했슈]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611201111489476"
+        }
+      ]
+    },
+    {
+      "title": "реал мадрид – сельта",
+      "approx_traffic": "100+",
+      "published": "Sat, 21 Nov 2026 14:00:00 -0800",
+      "news": [
+        {
+          "title": "Реал - Сельта. Чемпионат Испании. Тур 13",
+          "source": "Sportbox",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Ispaniya/spbvideo_NI2385175_translation_Real___Selta_Chempionat_Ispanii_Tur_13"
+        },
+        {
+          "title": "Итурральде о пенальти «Реала»: «На тоненького. ВАР не вмешался, потому что это эпизод на усмотрение судьи»",
+          "source": "Спорт Mail",
+          "url": "https://sportmail.ru/news/others/72990025/"
+        },
+        {
+          "title": "Реал – Сельта 2:1. Текстовая онлайн трансляция матча Ла Лиги",
+          "source": "UA-Football",
+          "url": "https://www.ua-football.com/foreign/spain/1795287966-real-selta-0-0-tekstovaya-onlayn-translyaciya-matcha-la-ligi.html"
+        }
+      ]
+    },
+    {
+      "title": "real madrid đấu với celta",
+      "approx_traffic": "100+",
+      "published": "Sat, 21 Nov 2026 14:00:00 -0800",
+      "news": [
+        {
+          "title": "Video bóng đá Real Madrid - Celta Vigo: Vỡ òa phút 85 (La Liga)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-celta-vigo-vo-oa-phut-85-la-liga-c48a1813086.html"
+        },
+        {
+          "title": "Nhận định bóng đá Real Madrid vs Celta Vigo, 03h00 ngày 22/11: Chiến thắng chật vật cho chủ nhà!",
+          "source": "Tạp chí Bóng đá",
+          "url": "https://bongdaplus.vn/la-liga/nhan-dinh-bong-da-real-madrid-vs-celta-vigo-03h00-ngay-22-11-chien-thang-chat-vat-cho-chu-nha-5294742611.html"
+        },
+        {
+          "title": "Mourinho thắng nhờ Vinicius và Carlos Espi",
+          "source": "Znews",
+          "url": "https://znews.vn/mourinho-thang-nho-vinicius-va-carlos-espi-post1698191.html"
+        }
+      ]
+    },
+    {
+      "title": "laliga",
+      "approx_traffic": "100+",
+      "published": "Sat, 21 Nov 2026 14:00:00 -0800",
+      "news": [
+        {
+          "title": "Real Madrid defeats Celta Vigo 2-1 to secure 11th win of the season : 라리가 : JKN",
           "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1113265"
+          "url": "https://news.jkn.co.kr/editions/english/post/1113445"
+        },
+        {
+          "title": "Licensable picture: REAL MADRID C.F. Vs. REAL CLUB CELTA DE VIGO - 2026/27 National League 11.21.26",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/real-madrid-cf-vs-real-club-celta-de-vigo-202627-national-league-112126/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBXMUxVWDE"
+        },
+        {
+          "title": "Carlos Espi, Real Madrid hero, gives three golden points to Jose Mourinho",
+          "source": "Gazeta Express",
+          "url": "https://www.gazetaexpress.com/en/Carlos-Espi--the-real-hero--gives-three-golden-points-to-Jose-Mourinho/"
         }
       ]
     },
     {
-      "title": "psg",
-      "approx_traffic": "100+",
-      "published": "Sat, 21 Nov 2026 09:20:00 -0800",
-      "news": [
-        {
-          "title": "Nice renversé, le PSG profite d'un penalty litigieux",
-          "source": "Foot01",
-          "url": "https://www.foot01.com/paris/nice-renverse-le-psg-profite-dun-penalty-litigieux"
-        },
-        {
-          "title": "Luis Enrique donne des nouvelles de Désiré Doué",
-          "source": "SO FOOT.com",
-          "url": "https://www.sofoot.com/breves/nice-psg-luis-enrique-donne-des-nouvelles-de-desire-doue-apres-sa-blessure"
-        },
-        {
-          "title": "PSG - La réaction de Ferran Torres, buteur, après la victoire du PSG face à l'OGC Nice",
-          "source": "MadeInFoot",
-          "url": "https://madeinfoot.ouest-france.fr/infos/article-psg-la-reaction-de-ferran-torres-buteur-apres-la-victoire-du-psg-face-a-l-ogc-nice-546534.html"
-        }
-      ]
-    },
-    {
-      "title": "뉴캐슬 대 아스널",
+      "title": "구자욱",
       "approx_traffic": "5000+",
-      "published": "Sat, 21 Nov 2026 08:40:00 -0800",
+      "published": "Sat, 21 Nov 2026 13:50:00 -0800",
       "news": [
         {
-          "title": "‘아스널 희소식’ 살리바 복귀 임박! ‘英 대표’ 콘사로 유지한 방패, 더 단단해진다",
-          "source": "풋볼리스트",
-          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=217112"
+          "title": "MLB 사무국, '빅리그 도전' 구자욱 신분 조회 요청",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867379_37004.html"
         },
         {
-          "title": "뉴캐슬 복귀와 아스날에서 브루노 기마랑이스의 큰 도전",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/ngay-tro-lai-newcastle-va-thach-thuc-lon-cua-bruno-guimaraes-tai-arsenal-1803974.ldo"
+          "title": "'충격 200억' 야구 재벌 눈앞인데, 찬밥 대우 미국으로? 이대호 사례로, 구자욱 미래도 보인다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/20/ME3TSMBQGU3TMMJVGRSGIODFGY/"
         },
         {
-          "title": "뉴캐슬 대 아스널 ​​축구 경기 생중계: 프리미어 리그 11라운드",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tiep-bong-da-newcastle-vs-arsenal-vong-11-ngoai-hang-anh"
-        }
-      ]
-    },
-    {
-      "title": "nice vs psg",
-      "approx_traffic": "200+",
-      "published": "Sat, 21 Nov 2026 08:40:00 -0800",
-      "news": [
-        {
-          "title": "OGC Nice - PSG : les compositions probables",
-          "source": "Foot Mercato",
-          "url": "https://www.footmercato.net/a7492553014966074759-ogc-nice-psg-les-compositions-probables"
-        },
-        {
-          "title": "Mini feux d'artifice, chants, fumigènes : l'ambiance monte d'un cran avant Nice-PSG - Foot - Ligue 1",
-          "source": "Sports - Orange",
-          "url": "https://sports.orange.fr/videos/football/mini-feux-d-artifice-chants-fumigenes-l-ambiance-monte-d-un-cran-avant-nice-psg-foot-ligue-1-CNT000002tWg1g.html"
-        },
-        {
-          "title": "Mohamed Abdelmonem forfait contre le PSG, une nouvelle blessure pour le défenseur égyptien - Sports - Sports",
-          "source": "Ahraminfo",
-          "url": "https://french.ahram.org.eg/NewsContent/6/51/96094/Sports/Sports/Mohamed-Abdelmonem-forfait-contre-le-PSG,-une-nouv.aspx"
-        }
-      ]
-    },
-    {
-      "title": "토트넘 홋스퍼 fc 대 입스위치 타운 fc 라인업",
-      "approx_traffic": "100+",
-      "published": "Sat, 21 Nov 2026 08:20:00 -0800",
-      "news": [
-        {
-          "title": "Tottenham 2-0 Ipswich: Luca Williams-Barnett stars as Spurs win",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c699exk99z54t"
-        },
-        {
-          "title": "Match commentary and highlights: Tottenham 2-0 Ipswich",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13610687/tottenham-vs-ipswich-live-premier-league-match-updates-news-and-score"
-        },
-        {
-          "title": "De Zerbi: Bergvall, Maddison, Savio in contention for Ipswich, Tel, Tosin, Mudryk out",
-          "source": "Cartilage Free Captain",
-          "url": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-news/74957/tottenham-hotspur-news-ipswich-bergvall-maddison-savio-return"
-        }
-      ]
-    },
-    {
-      "title": "เชลซี พบ ลีดส์",
-      "approx_traffic": "100+",
-      "published": "Sat, 21 Nov 2026 08:10:00 -0800",
-      "news": [
-        {
-          "title": "เอ็มมานูเอล เอเมก้า: ผมจะพร้อมเมื่อโอกาสมาถึง และผมสนุกกับทุกวันที่เชลซี‍‍‌⁠‌‌‍‌​​‌‌​⁠​‌​⁠​​​⁠​​​⁠​​​⁠​‌‌",
-          "source": "AllFootball",
-          "url": "https://www.allfootballapp.com/th/articles/6012815"
-        },
-        {
-          "title": "เชลซีและสถานการณ์ที่ยากลำบากสำหรับผู้จัดการทีมอย่างอลอนโซ่",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/chelsea-va-bai-toan-nan-giai-cho-hlv-alonso"
-        },
-        {
-          "title": "เชลซี เกลียวหลุดคาบ้าน โดน ลีดส์ ยูไนเต็ด แซงดับ 4-1 บุกมาคว้าชัยที่ สแตมฟอร์ด บริดจ์ ในรอบ 27 ปี !",
-          "source": "Mainstand",
-          "url": "https://mainstand.co.th/index.php/th/news/1/article/27643"
-        }
-      ]
-    },
-    {
-      "title": "como vs cagliari",
-      "approx_traffic": "100+",
-      "published": "Sat, 21 Nov 2026 07:30:00 -0800",
-      "news": [
-        {
-          "title": "Nico Paz jugó media hora en el triunfo del Como ante Cagliari por la Serie A :: Olé - ole.com.ar",
-          "source": "Olé",
-          "url": "https://www.ole.com.ar/futbol-internacional/nico-paz-partido-cagliari-serie_0_eJijvdpDLg.html"
-        },
-        {
-          "title": "EN VIVO: Finaliza la primera parte con ventaja 1-0 para Como 1907 sobre Cagliari",
-          "source": "Anecdotarios",
-          "url": "https://anecdotarios.com/2026/11/21/como-1907-vs-cagliari-previa-horario-y-como-llegan-para-la-fecha-12/"
-        },
-        {
-          "title": "Jacobo Ramón y Da Cunha devuelven al Como a la zona Champions",
-          "source": "SPORT",
-          "url": "https://www.sport.es/es/noticias/futbol-internacional/calcio/jacobo-ramon-da-cunha-devuelven-136700634"
-        }
-      ]
-    },
-    {
-      "title": "권순우",
-      "approx_traffic": "200+",
-      "published": "Sat, 21 Nov 2026 07:20:00 -0800",
-      "news": [
-        {
-          "title": "'타이브레이크 역전쇼' 권순우, 시즌 4번째 4강 [ATP 메츠챌린저]",
-          "source": "테니스코리아",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54344"
-        }
-      ]
-    },
-    {
-      "title": "엑셀방송",
-      "approx_traffic": "200+",
-      "published": "Sat, 21 Nov 2026 07:10:00 -0800",
-      "news": [
-        {
-          "title": "'그것이 알고싶다', 女 줄세워 가학 벌칙…'사이버 룸살롱' 엑셀 방송의 충격 실태 - 머니투데이",
+          "title": "'원태인보다 구자욱 먼저' 韓 타격왕 향한 ML 관심, '급성장' 박승규만 믿기엔 너무도 이른데... - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112120007264440"
-        },
-        {
-          "title": "'그것이 알고싶다'(그알) 딸의 방송 본 아버지 제보로 드러난 '엑셀 방송' 실태",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759174"
-        },
-        {
-          "title": "성노예→학대 사이버 룸살롱 ‘엑셀’ 파헤친다 (그것이 알고싶다)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261120/135062142/1"
+          "url": "https://www.mt.co.kr/sports/2026/11/21/2026112113272550290"
         }
       ]
     }
