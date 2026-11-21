@@ -1,211 +1,195 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-21T03:28:42+00:00",
+  "fetched_at": "2026-11-21T11:45:39+00:00",
   "items": [
     {
-      "title": "알테오젠",
-      "approx_traffic": "200+",
-      "published": "Fri, 20 Nov 2026 18:10:00 -0800",
-      "news": [
-        {
-          "title": "알테오젠, 전환가액 15% 낮춰…잠재 매물 9만주 증가 By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2184781"
-        },
-        {
-          "title": "“알테오젠, 올해 영업익 3050억 전망…美 약가 인하 영향은 변수” [Why 바이오]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20116245"
-        },
-        {
-          "title": "[리포트 브리핑]알테오젠, '악재 다 나왔고, 실적과 호재만 남았다' 목표가 410,000원 - 하나증권",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261119000158"
-        }
-      ]
-    },
-    {
-      "title": "경부선",
+      "title": "이정후",
       "approx_traffic": "500+",
-      "published": "Fri, 20 Nov 2026 17:50:00 -0800",
+      "published": "Sat, 21 Nov 2026 02:30:00 -0800",
       "news": [
         {
-          "title": "’경부선 화물열차 탈선’에 일반열차 멈춰…복구 장시간 소요",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121101015fgK"
-        },
-        {
-          "title": "[속보] 코레일 \"천안∼조치원∼대전·서대전 구간 버스로 연계 수송\"",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261121580047"
-        },
-        {
-          "title": "경부선 탈선에 대전역서 수험생 '발 동동'…\"논술 보러 가야 하는데 KTX 매진\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261121025300063"
-        }
-      ]
-    },
-    {
-      "title": "박윤영",
-      "approx_traffic": "200+",
-      "published": "Fri, 20 Nov 2026 17:40:00 -0800",
-      "news": [
-        {
-          "title": "KT스카이라이프, 케이블TV 자회사 KT HCN 흡수합병…인수 5년 만",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tHi0T671fe"
-        },
-        {
-          "title": "KT스카이라이프, 자회사 HCN 흡수합병키로…내년 6월 합병",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261119172000017"
-        },
-        {
-          "title": "KT스카이라이프와 한 몸 되는 HCN… 내부에선 “졸속 합병”",
-          "source": "미디어오늘",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338599"
-        }
-      ]
-    },
-    {
-      "title": "jisoo sun showers (from \"the angry birds movie 3”)",
-      "approx_traffic": "100+",
-      "published": "Fri, 20 Nov 2026 17:30:00 -0800",
-      "news": [
-        {
-          "title": "Blackpink’s Jisoo Debuts Buoyant Single ‘Sun Showers’",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/blackpink-jisoo-sun-showers-single-angry-birds-movie-1235661547/"
-        },
-        {
-          "title": "Jisoo Brings Her Childhood Creation Shumon To Life In “Sun Showers” Video",
-          "source": "That Eric Alper",
-          "url": "https://www.thatericalper.com/2026/11/20/jisoo-brings-her-childhood-creation-shumon-to-life-in-sun-showers-video/"
-        },
-        {
-          "title": "JISOO Brightens the Day With Bubbly ‘Sun Showers’ Single From ‘The Angry Birds Movie 3’ Soundtrack: Stream It Now",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/jisoo-brightens-day-bubbly-sun-185828437.html"
-        }
-      ]
-    },
-    {
-      "title": "편의점",
-      "approx_traffic": "1000+",
-      "published": "Fri, 20 Nov 2026 17:10:00 -0800",
-      "news": [
-        {
-          "title": "CU, 딘토와 '위니 더 푸' 색조 화장품 출시…책갈피 굿즈 동봉",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261119024400030"
-        },
-        {
-          "title": "화장품 사면 곰돌이 푸 책갈피가…CU, 딘토와 색조 화장품 선봬",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261119134658"
-        },
-        {
-          "title": "CU, 딘토 협업 '위니 더 푸' 색조 화장품 4종 출시",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261119000188"
-        }
-      ]
-    },
-    {
-      "title": "nh농협카드",
-      "approx_traffic": "100+",
-      "published": "Fri, 20 Nov 2026 17:10:00 -0800",
-      "news": [
-        {
-          "title": "“뛰어난 활약으로 브랜드 가치 높였다” NH농협카드 당구단, 농협금융스포츠단 납회식서 높은 평가",
-          "source": "mkbn.mk.co.kr",
-          "url": "https://mkbn.mk.co.kr/news/sports/12215015"
-        },
-        {
-          "title": "NH농협금융, '2026 스포츠단 납회식' 개최…선수단 격려",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261118001359"
-        },
-        {
-          "title": "NH농협금융, '스포츠단 납회식'",
-          "source": "메트로신문",
-          "url": "https://www.metroseoul.co.kr/article/20261118500266"
-        }
-      ]
-    },
-    {
-      "title": "매일경제",
-      "approx_traffic": "100+",
-      "published": "Fri, 20 Nov 2026 17:10:00 -0800",
-      "news": [
-        {
-          "title": "국방홍보원, 매일경제와 국방·안보 콘텐츠 발굴 위한 MOU 체결",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6360931"
-        },
-        {
-          "title": "국방홍보원·매일경제 손잡았다…국방·안보 콘텐츠 협력 강화",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12214688"
-        },
-        {
-          "title": "[포토] 국방·안보 홍보 협력 강화 위한 업무협약 체결",
-          "source": "파이낸스투데이",
-          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=399546"
-        }
-      ]
-    },
-    {
-      "title": "두산베어스",
-      "approx_traffic": "200+",
-      "published": "Fri, 20 Nov 2026 16:50:00 -0800",
-      "news": [
-        {
-          "title": "돈 못지않은 ‘진정성’… 프로야구 FA전쟁[소소한 복도통신]",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11632753"
-        },
-        {
-          "title": "두산·SSG도 원한다구? 사연 좀 들어볼까",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611200600016"
-        },
-        {
-          "title": "'이틀간 173억 계약 터졌다' 역대급 스토브리그 시작인가, 변수는 12월 ML 직장폐쇄…원태인·구자욱은 어디로?",
+          "title": "\"1513억 투자했는데 기대에 못 미친다\" 이정후 향한 美 현지의 냉정한 평가…2027년이 중요하다",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/19/HAZDGNZTGBRWEYZVGA2GCNJWME/"
+          "url": "https://www.chosun.com/sports/world-baseball/2026/11/21/MQ3TMZTGMNRDQMJQMFSTQMJVME/"
+        },
+        {
+          "title": "'타율 0.366→0.223' 이정후 충격 기복, 美 일침 \"맞히는 것만으론 부족해, 장타자 될 필욘 없어\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/21/2026112111230199053"
+        },
+        {
+          "title": "\"내보내야\" vs \"팔기 어렵다\"…SF 이정후 두고 엇갈린 시선",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261121025500007"
         }
       ]
     },
     {
-      "title": "전북특별자치도",
-      "approx_traffic": "100+",
-      "published": "Fri, 20 Nov 2026 16:20:00 -0800",
+      "title": "마타",
+      "approx_traffic": "200+",
+      "published": "Sat, 21 Nov 2026 02:20:00 -0800",
       "news": [
         {
-          "title": "전북도, 서해안과 내륙 잇는 도로망 53㎞ 정비 '속도'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261120061500055"
+          "title": "[오피셜] 한 시대의 작별… T1, ‘쓰리핏' 주역 '꼬마-톰-마타' 동행 마침표",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112913464"
         },
         {
-          "title": "전북자치도, 서해안·내륙 도로망 53㎞ 정비 속도…군산·고창·정읍 12월 준공 목표",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=355158"
+          "title": "T1, 김정균 감독·임재현 대행·조세형 코치 계약 종료",
+          "source": "데일리e스포츠",
+          "url": "https://www.dailyesports.com/view.php?ud=20261121190752574174bcc1e038_27"
         },
         {
-          "title": "전북도, 국·지방도 8개 사업 53㎞ 정비…서해안·내륙 연결 강화",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261120000371"
+          "title": "[단독] '엄티' 엄성현, 2027 시즌 T1 코치진 합류 유력",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2220350"
         }
       ]
     },
     {
-      "title": "동아일보",
-      "approx_traffic": "2000+",
-      "published": "Fri, 20 Nov 2026 16:10:00 -0800",
+      "title": "김민석",
+      "approx_traffic": "100+",
+      "published": "Sat, 21 Nov 2026 02:20:00 -0800",
+      "news": [
+        {
+          "title": "김민석 \"민주당 큰 고민 중 하나는 청년…더 함께하고 싶다\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261121040151001"
+        },
+        {
+          "title": "국기에 대한 경례하는 김민석 대표",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261121_0021541271"
+        },
+        {
+          "title": "김민석 “청년 통해 민주당이 할 일 깨닫길”…소통 확대 강조",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026112116342009824"
+        }
+      ]
+    },
+    {
+      "title": "로이킴",
+      "approx_traffic": "200+",
+      "published": "Sat, 21 Nov 2026 02:10:00 -0800",
+      "news": [
+        {
+          "title": "로이킴, 13년만 첫 KSPO돔 입성…“노래로 눈물 닦였기를”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719081"
+        },
+        {
+          "title": "로이킴, 케이스포돔에 지은 '집'…모서리 없는 원(圓)서 풀려난 울음 [선율의 밑줄]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261121_0003877529"
+        },
+        {
+          "title": "[스경X현장] 음악으로 눈물을 닦아주는, 로이킴의 안식처 ‘R:O:Y’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611210024003"
+        }
+      ]
+    },
+    {
+      "title": "최백호",
+      "approx_traffic": "500+",
+      "published": "Sat, 21 Nov 2026 02:00:00 -0800",
       "news": []
+    },
+    {
+      "title": "강원 fc 대 대전 하나 시티즌 순위",
+      "approx_traffic": "1000+",
+      "published": "Sat, 21 Nov 2026 01:40:00 -0800",
+      "news": []
+    },
+    {
+      "title": "김종국",
+      "approx_traffic": "500+",
+      "published": "Sat, 21 Nov 2026 01:40:00 -0800",
+      "news": [
+        {
+          "title": "김종국 “내가 알기로는 월세만 2억”…이서진 “나사 온 줄” 감탄한 새 회사",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12215136"
+        },
+        {
+          "title": "무엇이든 해줄지니 - 비서진 : 김종국, 감탄이 절로 나오는 독보적인 보이스로 고깃집에서 열창한",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC483687620?div=live_end"
+        },
+        {
+          "title": "\"월세 2억\" 뉴욕대 금수저 이서진도 놀랐다···김종국 초호화 소속사 소개('비서진')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/GBRDAZTCGUZWEZLGGU2GGZRZMQ/"
+        }
+      ]
+    },
+    {
+      "title": "파워리프팅",
+      "approx_traffic": "200+",
+      "published": "Sat, 21 Nov 2026 01:30:00 -0800",
+      "news": [
+        {
+          "title": "\"허벅지 둘레 64cm\" 日 여성 선수, 227.5kg 번쩍! '체급의 3.6배' 괴력 미쳤다...\"생애 첫 세계대회서 데드리프트 金\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112911421"
+        },
+        {
+          "title": "“귀여운 외모에 반전 괴력” 허벅지 두께 무려 64㎝…세계 놀라게 한 日여성 [월드픽]",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/international/2026/11/20/20261120500051"
+        },
+        {
+          "title": "“귀여운 외모에 반전 괴력” 허벅지 두께 무려 64㎝…세계 놀라게 한 日여성 [월드픽]",
+          "source": "서울신문",
+          "url": "https://m.seoul.co.kr/news/international/2026/11/20/20261120500051"
+        }
+      ]
+    },
+    {
+      "title": "k리그1",
+      "approx_traffic": "200+",
+      "published": "Sat, 21 Nov 2026 01:20:00 -0800",
+      "news": [
+        {
+          "title": "수원 삼성, K리그2 우승‥이정효 감독 \"14위부터 다시 시작\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6867487_36946.html"
+        },
+        {
+          "title": "승리의 기쁨",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8226316"
+        },
+        {
+          "title": "'1부 승격' 수원 삼성, 경남 꺾고 K리그2 우승까지 확정(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261121039751007"
+        }
+      ]
+    },
+    {
+      "title": "삼성 엑시노스",
+      "approx_traffic": "200+",
+      "published": "Sat, 21 Nov 2026 01:10:00 -0800",
+      "news": [
+        {
+          "title": "GameNative's new update brings reliable PC gaming to Pixels and Samsung Exynos",
+          "source": "Yahoo Tech",
+          "url": "https://tech.yahoo.com/gaming/articles/gamenatives-brings-reliable-pc-gaming-124728335.html"
+        },
+        {
+          "title": "GameNative just fixed PC gaming on Pixels and Exynos-powered Galaxy phones",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/gamenative-update-pixels-exynos-galaxy-phones-3737053/"
+        },
+        {
+          "title": "GameNative Android PC game emulator prepares graphics fixes for Mali, PowerVR and Xclipse GPUs",
+          "source": "VideoCardz.com",
+          "url": "https://videocardz.com/newz/gamenative-android-pc-game-emulator-prepares-graphics-fixes-for-mali-powervr-and-xclipse-gpus"
+        }
+      ]
     }
   ]
 }
