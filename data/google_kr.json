@@ -1,220 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-23T09:45:13+00:00",
+  "fetched_at": "2026-11-23T22:01:18+00:00",
   "items": [
     {
-      "title": "고규필",
+      "title": "전원주",
       "approx_traffic": "1000+",
-      "published": "Mon, 23 Nov 2026 00:20:00 -0800",
+      "published": "Mon, 23 Nov 2026 12:50:00 -0800",
       "news": [
         {
-          "title": "배우 고규필·가수 에이민 부부 득녀…\"인생 가장 잘한 일\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261123138400005"
-        },
-        {
-          "title": "고규필♥에이민, 오늘(23일) 득녀..\"아빠 판박이\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/23/HA3TIMZUGE3TAOBVGY2DQNLCMQ/"
-        },
-        {
-          "title": "'초롱이' 고규필, 23일 득녀…결혼 3년 만에 얻은 경사",
-          "source": "디스패치",
-          "url": "https://www.dispatch.co.kr/2351226"
-        }
-      ]
-    },
-    {
-      "title": "한국지엠",
-      "approx_traffic": "200+",
-      "published": "Mon, 23 Nov 2026 00:20:00 -0800",
-      "news": [
-        {
-          "title": "김홍록·김은미, 인천마라톤대회 국내 남녀부 우승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261122031800007"
-        },
-        {
-          "title": "인천 ‘하늘길’ 건너 1초 차 접전…케냐 킵코에치, 2026 인천마라톤서 풀코스 첫 정상 등극",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261122/135065718/1"
-        },
-        {
-          "title": "한국GM 노사, 지속가능성 모색 '인천마라톤' 참가",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261123000135"
-        }
-      ]
-    },
-    {
-      "title": "sa vs ban",
-      "approx_traffic": "200+",
-      "published": "Mon, 23 Nov 2026 00:20:00 -0800",
-      "news": [
-        {
-          "title": "'It's quite a smooth transition'- Markram on stepping in for Bavuma",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/story/aiden-markram-says-it-s-quite-a-smooth-transition-to-be-leading-south-africa-again-1563619"
-        },
-        {
-          "title": "South Africa vs Bangladesh, 2nd Test: Injuries won't take the sting out of Centurion Test",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/cricket-news/141019/south-africa-vs-bangladesh-2nd-test-injuries-wont-take-the-sting-out-of-centurion-test-cricbuzzcom"
-        },
-        {
-          "title": "Double blow for Bangladesh as Nortje returns to supercharge Proteas pace",
-          "source": "novanews.co.za",
-          "url": "https://novanews.co.za/eikestadnuus/anrich-nortje-returns-south-africa-bangladesh-second-test-supersport-park/"
-        }
-      ]
-    },
-    {
-      "title": "김동현",
-      "approx_traffic": "500+",
-      "published": "Mon, 23 Nov 2026 00:00:00 -0800",
-      "news": [
-        {
-          "title": "“창문 내렸더니 입술이 덜덜”…김동현에 보복 운전 시비 걸던 운전자의 최후",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12215432"
-        },
-        {
-          "title": "창문 내리자 '입술 덜덜'…김동현에 보복 운전한 트럭 줄행랑 - 머니투데이",
+          "title": "\"괜찮으신 거 맞나\"…핼쑥한 전원주, 레드카펫서 휘청 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112217405242518"
+          "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112219483031404"
         },
         {
-          "title": "김동현도 보복운전 당했다…\"창문 내렸더니 입술 덜덜\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611233285H"
+          "title": "[잇슈 컬처] 전원주 공식 석상 참석에 누리꾼 “건강 응원”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719550"
+        },
+        {
+          "title": "“포토월서 휘청” 전원주, 쇠약해진 근황에…팬들 응원 ‘봇물’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611221838003"
         }
       ]
     },
     {
-      "title": "채무",
-      "approx_traffic": "500+",
-      "published": "Sun, 22 Nov 2026 23:50:00 -0800",
-      "news": [
-        {
-          "title": "포용금융 활성화하려면…\"주담대 쏠림 완화·금융기본권 보장\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/11/23/2026112316561632954"
-        },
-        {
-          "title": "하나금융연구소, 포용금융 토론…강경훈 교수 \"금융기본권 정립 필요\"",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026112316050545053"
-        },
-        {
-          "title": "하나금융연구소, 라운드테이블 개최…민간 금융사 역할 모색",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1428051"
-        }
-      ]
-    },
-    {
-      "title": "김태규",
-      "approx_traffic": "500+",
-      "published": "Sun, 22 Nov 2026 23:40:00 -0800",
-      "news": [
-        {
-          "title": "\"내란 왜 인정? 지X\"‥판결 다음날 김태규 껄껄 웃으며 방송 '막말'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6867878_36911.html"
-        },
-        {
-          "title": "[뉴스분석] 엇갈리는 '계엄 책임론'…국민의힘, 비상계엄 2년 앞두고 갑론을박",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261123000524"
-        },
-        {
-          "title": "“내란 인정하라고 지X 지X”…국힘 김태규, 민주당에 막말",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1288600.html"
-        }
-      ]
-    },
-    {
-      "title": "주제 무리뉴",
+      "title": "대한민국 축구 국가대표팀",
       "approx_traffic": "200+",
-      "published": "Sun, 22 Nov 2026 23:40:00 -0800",
+      "published": "Mon, 23 Nov 2026 12:50:00 -0800",
       "news": [
         {
-          "title": "교체 6분 만에 역전 결승골! 레알 마드리드의 복덩이 카를로스 에스피→놀라운 골 결정력",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026112209343705216"
+          "title": "나란히 K리그 1부 복귀하는 ‘수원 형제’…큰물에서 다시 생존경쟁",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611232009015"
         },
         {
-          "title": "“내가 경기장 안으로 들어가서 누굴 때릴 수 없잖아”… 모리뉴 감독 입담 작렬, 음바페·에스피 공존 가능성에 수비 전환 문제 제기",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=314225"
+          "title": "[지지대] 끝이 아닌 도전",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261122580324"
         },
         {
-          "title": "‘비니시우스, 제대로 된 강적 만났다!’ 브라질에서 5골 폭발하고 돌아왔는데…무리뉴 감독은 단호 “선발이든 벤치든 관중석이든 상관없다”",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698962"
+          "title": "강등 1년 만에 승격한 수원FC…지도자 인생 반등 이뤄낸 박건하",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261123114700007"
         }
       ]
     },
     {
-      "title": "실사격훈련",
-      "approx_traffic": "200+",
-      "published": "Sun, 22 Nov 2026 23:30:00 -0800",
+      "title": "이민진",
+      "approx_traffic": "100+",
+      "published": "Mon, 23 Nov 2026 12:40:00 -0800",
       "news": [
         {
-          "title": "주한미군 아파치·블랙호크 헬기, 일본에서 첫 실사격 훈련",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6867862_36911.html"
-        },
-        {
-          "title": "주한미군 아파치·블랙호크, 日 후지산 기슭서 첫 해외 실사격",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261123000859"
-        }
-      ]
-    },
-    {
-      "title": "100 일 의 거짓말",
-      "approx_traffic": "500+",
-      "published": "Sun, 22 Nov 2026 23:20:00 -0800",
-      "news": [
-        {
-          "title": "김유정·박진영 ‘100일의 거짓말’, 종영 2회 남기고…11.7% 자체 최고 시청률 경신",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12215812"
-        },
-        {
-          "title": "'100일의 거짓말' 김유정·박진영, 송지효 정체 알았다…최고 시청률 '11.7%'",
+          "title": "\"부정행위 막으려 재난문자\"…'파친코' 이민진이 본 韓수능",
           "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01574406645648672&mediaCodeNo=257"
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01915526645648344&mediaCodeNo=257"
         },
         {
-          "title": "\"친일 남주? 죽어도 옹호 안 돼\"…'100일의 거짓말' 시청자 반발 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/culture/2026/11/23/2026112316121982924"
+          "title": "한국 수능 재난문자에 놀란 '파친코' 작가…\"AI 발전하는데 학생은 퇴화\"",
+          "source": "주간조선",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=57367"
+        },
+        {
+          "title": "이민진 작가, '아메리칸 학원' 출간 기념 뉴욕서 북토크 개최",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445959"
         }
       ]
     },
     {
-      "title": "심진화",
-      "approx_traffic": "1000+",
-      "published": "Sun, 22 Nov 2026 23:00:00 -0800",
+      "title": "엘니뇨",
+      "approx_traffic": "100+",
+      "published": "Mon, 23 Nov 2026 12:40:00 -0800",
       "news": [
         {
-          "title": "심진화, 김원효 ‘트랜스젠더 바’ 논란에 \"후배 만나러 갔다\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202611231012432150"
+          "title": "이번 겨울 “슈퍼 엘니뇨에 북극 영향까지”…변동폭 큰 날씨",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8720251"
         },
         {
-          "title": "‘심진화♥’ 김원효, 1억 재산 오해…영화관 결혼식 비하인드 (개세모2)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261123/135071040/1"
+          "title": "올겨울 강한 엘니뇨 영향… 따뜻하고 강수량 많을 듯",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261124/135077392/2"
         },
         {
-          "title": "트랜스젠더 바서 팔짱…김원효 \"뗐나 안뗐나 확인하러 방문\" - 머니투데이",
+          "title": "올겨울 대체로 따뜻하지만 기습 한파 가능성…12월·2월 눈·비 많을 듯",
+          "source": "기후에너지데이터뱅크",
+          "url": "https://edata.ekn.kr/article/view/ekn202611230004"
+        }
+      ]
+    },
+    {
+      "title": "골프",
+      "approx_traffic": "2000+",
+      "published": "Mon, 23 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "소렌스탐 넘다… ‘상금 여왕’, 이젠 티띠꾼",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261124/135077431/2"
+        },
+        {
+          "title": "김아림, LPGA 시즌 최종전 공동 7위‥티띠꾼, 3년 연속 우승",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6867689_36946.html"
+        },
+        {
+          "title": "[오늘의 영상] 정교한 칩 샷…우승 청신호",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719459"
+        }
+      ]
+    },
+    {
+      "title": "춘천시",
+      "approx_traffic": "100+",
+      "published": "Mon, 23 Nov 2026 12:30:00 -0800",
+      "news": []
+    },
+    {
+      "title": "연금",
+      "approx_traffic": "5000+",
+      "published": "Mon, 23 Nov 2026 12:20:00 -0800",
+      "news": [
+        {
+          "title": "내 연금·유족연금 겹친 20.8만명…3.7만명은 내 연금 '0원'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261122031500530"
+        },
+        {
+          "title": "부부 모두 내도 배우자 사망하면 깎이는 국민연금...‘중복급여 조정’ 논란",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261123580009"
+        },
+        {
+          "title": "국민연금 꼬박꼬박 냈는데 '0원'…맞벌이 부부 '부글부글' [머니팁]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611234317v"
+        }
+      ]
+    },
+    {
+      "title": "박지윤",
+      "approx_traffic": "500+",
+      "published": "Mon, 23 Nov 2026 12:10:00 -0800",
+      "news": [
+        {
+          "title": "\"애미가 드럽게 키워\" 박지윤, '시모 비방' 카톡…이혼 불씨였나 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/entertainment/2026/11/23/2026112317234828723"
+          "url": "https://www.mt.co.kr/society/2026/11/22/2026112216160193284"
+        },
+        {
+          "title": "박지윤 악플러, 잡고 보니 전남편 최동석…명예훼손 혐의 송치",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261120126400004"
+        },
+        {
+          "title": "“구질구질하게 어지르는 것도 지 엄마 닮아”…박지윤 카톡에 무슨 일이",
+          "source": "더시사법률",
+          "url": "https://www.tsisalaw.com/news/article.html?no=31108"
+        }
+      ]
+    },
+    {
+      "title": "한국항공우주산업",
+      "approx_traffic": "200+",
+      "published": "Mon, 23 Nov 2026 12:10:00 -0800",
+      "news": [
+        {
+          "title": "경남 우주항공·방산에 1조 5000억 원 투자…산업거점 육성",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976313"
+        },
+        {
+          "title": "경남도-KAI 투자협약…우주항공·방산 생태계 확대",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261124051906RVK"
+        },
+        {
+          "title": "우리은행, K-방산 협력기업에 3020억 상생금융 대출 지원",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261123_0003879908"
+        }
+      ]
+    },
+    {
+      "title": "치매",
+      "approx_traffic": "2000+",
+      "published": "Mon, 23 Nov 2026 12:00:00 -0800",
+      "news": [
+        {
+          "title": "아리바이오, ‘먹는 알츠하이머 신약’으로 초기 환자 겨냥…“내년 하반기 미 FDA 허가 신청할 것”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611231556001"
+        },
+        {
+          "title": "아리바이오, 치매약 18개월 데이터 첫 공개…“7.2개월 지연 추정”",
+          "source": "팜이데일리",
+          "url": "https://pharm.edaily.co.kr/news/read?newsId=02515766645648672"
+        },
+        {
+          "title": "아리바이오, '성공 논란' AD 3상 \"진짜 이슈 3가지는\"",
+          "source": "바이오스펙테이터",
+          "url": "https://www.biospectator.com/news/view/30486"
         }
       ]
     }
