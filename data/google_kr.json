@@ -1,225 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-23T01:37:59+00:00",
+  "fetched_at": "2026-11-23T09:45:13+00:00",
   "items": [
     {
-      "title": "오지헌",
-      "approx_traffic": "200+",
-      "published": "Sun, 22 Nov 2026 16:10:00 -0800",
+      "title": "고규필",
+      "approx_traffic": "1000+",
+      "published": "Mon, 23 Nov 2026 00:20:00 -0800",
       "news": [
         {
-          "title": "오지헌·박상미 부부 \"없을 때 나누니 일 더 많이 들어와\" 청년 밥차 봉사 근황",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759791"
-        },
-        {
-          "title": "'박상미♥' 오지헌, 미모의 세 딸 공개…'174cm' 고2 장녀에 \"모델해도 되겠다\" 반응 (아침마당)",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2222061"
-        },
-        {
-          "title": "오지헌 아내 “혼전순결 지켰다”‥상견례 반응은? “母, 오지헌 얼굴 보고 충격”(아침마당)",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202611230919166710"
-        }
-      ]
-    },
-    {
-      "title": "강금실",
-      "approx_traffic": "200+",
-      "published": "Sun, 22 Nov 2026 16:00:00 -0800",
-      "news": [
-        {
-          "title": "\"이종석 국정원장 강금실로 교체\" 보도‥靑 \"확인 어렵다\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6867744_36911.html"
-        },
-        {
-          "title": "靑, 국정원장 교체설에 \"인사 확인 어려워\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123085356QAv"
-        },
-        {
-          "title": "이종석 국정원장 교체될 듯, 후임에 강금실 유력",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026112215200000070"
-        }
-      ]
-    },
-    {
-      "title": "스쿠발",
-      "approx_traffic": "200+",
-      "published": "Sun, 22 Nov 2026 15:40:00 -0800",
-      "news": [
-        {
-          "title": "스쿠발, 메츠와 6059억원 계약… 투수 역대 최고 몸값",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/23/BESCBPSK7FHFVA7TMW26CJNTBY/"
-        },
-        {
-          "title": "\"코헨에게는 푼돈, 스쿠발 영입에 걸림돌 아냐\" 신인 외야수와 1280억 연장 계약? 스쿠발 영입전 시작도 안했다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/22/202611220954773835O"
-        },
-        {
-          "title": "MLB 메츠, 외야수 유잉과 8년 9천500만달러 연장 계약 합의",
+          "title": "배우 고규필·가수 에이민 부부 득녀…\"인생 가장 잘한 일\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261122016600007"
-        }
-      ]
-    },
-    {
-      "title": "정유라",
-      "approx_traffic": "2000+",
-      "published": "Sun, 22 Nov 2026 15:20:00 -0800",
-      "news": [
-        {
-          "title": "정유라 “대통령 지지하다 장애인 된 엄마”…최순실 병원비 지원 호소",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261122580033"
+          "url": "https://www.yna.co.kr/view/AKR20261123138400005"
         },
         {
-          "title": "‘국정농단 21년형’ 최서원 병원비 호소한 정유라…“이번 주까지 전액 납부”",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25479983"
-        },
-        {
-          "title": "\"마지막까지 박 대통령 편, 엄마 외면 말라\"…정유라 병원비 지원 또 호소",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6361093"
-        }
-      ]
-    },
-    {
-      "title": "김하성",
-      "approx_traffic": "5000+",
-      "published": "Sun, 22 Nov 2026 15:20:00 -0800",
-      "news": [
-        {
-          "title": "‘270억 먹튀’ 김하성에 얼마나 배신감 느꼈길래…美 애틀랜타에 강력 경고 “타율 0.116 KIM, 재계약 절대 안 돼” - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/23/202611221702777801O"
-        },
-        {
-          "title": "김하성 재계약 배제한 애틀랜타…유격수 트레이드 모색 : 스포츠",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1115225"
-        },
-        {
-          "title": "'인저리 프론' 김하성, 최악의 경우 FA 미아 위기, 직장폐쇄에 5등급 수모까지…보라스도 외면하나?",
-          "source": "m.maniareport.com",
-          "url": "https://www.maniareport.com/view.php?ud=20261120065124594291b55a0d56_19"
-        }
-      ]
-    },
-    {
-      "title": "조세호",
-      "approx_traffic": "500+",
-      "published": "Sun, 22 Nov 2026 15:10:00 -0800",
-      "news": [
-        {
-          "title": "‘조폭 연루설’ 조세호, 유튜브 활동 재개 “시기상조 쓴소리도”",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25480407"
-        },
-        {
-          "title": "'조폭 연루설' 조세호, 고정 0개..1년만 유튜브 복귀 갑론을박 \"응원vs시기상조\" [Oh!쎈 이슈]",
+          "title": "고규필♥에이민, 오늘(23일) 득녀..\"아빠 판박이\"",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/MNTDOZBVGU2GKYRUHE3DIMRTMY/"
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/23/HA3TIMZUGE3TAOBVGY2DQNLCMQ/"
         },
         {
-          "title": "'명품 사랑' 조세호, 백수 되더니 소비 확 줄였다…\"어디든 달려갈 것\"",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261119065919609"
+          "title": "'초롱이' 고규필, 23일 득녀…결혼 3년 만에 얻은 경사",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2351226"
         }
       ]
     },
     {
-      "title": "나스닥 선물",
+      "title": "한국지엠",
       "approx_traffic": "200+",
-      "published": "Sun, 22 Nov 2026 15:10:00 -0800",
+      "published": "Mon, 23 Nov 2026 00:20:00 -0800",
       "news": [
         {
-          "title": "나스닥 선물 1.3% 상승…추수감사절 앞두고 저가 매수에 반등 시도",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/usa-canada/6362254"
+          "title": "김홍록·김은미, 인천마라톤대회 국내 남녀부 우승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261122031800007"
         },
         {
-          "title": "[속보] 나스닥지수, 장중 낙폭 3%대로 확대",
+          "title": "인천 ‘하늘길’ 건너 1초 차 접전…케냐 킵코에치, 2026 인천마라톤서 풀코스 첫 정상 등극",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261122/135065718/1"
+        },
+        {
+          "title": "한국GM 노사, 지속가능성 모색 '인천마라톤' 참가",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261123000135"
+        }
+      ]
+    },
+    {
+      "title": "sa vs ban",
+      "approx_traffic": "200+",
+      "published": "Mon, 23 Nov 2026 00:20:00 -0800",
+      "news": [
+        {
+          "title": "'It's quite a smooth transition'- Markram on stepping in for Bavuma",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/story/aiden-markram-says-it-s-quite-a-smooth-transition-to-be-leading-south-africa-again-1563619"
+        },
+        {
+          "title": "South Africa vs Bangladesh, 2nd Test: Injuries won't take the sting out of Centurion Test",
+          "source": "Cricbuzz",
+          "url": "https://www.cricbuzz.com/cricket-news/141019/south-africa-vs-bangladesh-2nd-test-injuries-wont-take-the-sting-out-of-centurion-test-cricbuzzcom"
+        },
+        {
+          "title": "Double blow for Bangladesh as Nortje returns to supercharge Proteas pace",
+          "source": "novanews.co.za",
+          "url": "https://novanews.co.za/eikestadnuus/anrich-nortje-returns-south-africa-bangladesh-second-test-supersport-park/"
+        }
+      ]
+    },
+    {
+      "title": "김동현",
+      "approx_traffic": "500+",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0800",
+      "news": [
+        {
+          "title": "“창문 내렸더니 입술이 덜덜”…김동현에 보복 운전 시비 걸던 운전자의 최후",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12215432"
+        },
+        {
+          "title": "창문 내리자 '입술 덜덜'…김동현에 보복 운전한 트럭 줄행랑 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112217405242518"
+        },
+        {
+          "title": "김동현도 보복운전 당했다…\"창문 내렸더니 입술 덜덜\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611233285H"
+        }
+      ]
+    },
+    {
+      "title": "채무",
+      "approx_traffic": "500+",
+      "published": "Sun, 22 Nov 2026 23:50:00 -0800",
+      "news": [
+        {
+          "title": "포용금융 활성화하려면…\"주담대 쏠림 완화·금융기본권 보장\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/11/23/2026112316561632954"
+        },
+        {
+          "title": "하나금융연구소, 포용금융 토론…강경훈 교수 \"금융기본권 정립 필요\"",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026112316050545053"
+        },
+        {
+          "title": "하나금융연구소, 라운드테이블 개최…민간 금융사 역할 모색",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1428051"
+        }
+      ]
+    },
+    {
+      "title": "김태규",
+      "approx_traffic": "500+",
+      "published": "Sun, 22 Nov 2026 23:40:00 -0800",
+      "news": [
+        {
+          "title": "\"내란 왜 인정? 지X\"‥판결 다음날 김태규 껄껄 웃으며 방송 '막말'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6867878_36911.html"
+        },
+        {
+          "title": "[뉴스분석] 엇갈리는 '계엄 책임론'…국민의힘, 비상계엄 2년 앞두고 갑론을박",
           "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261121000009"
+          "url": "https://www.newspim.com/news/view/20261123000524"
         },
         {
-          "title": "나스닥100 선물 2% 넘게 하락…미국 증시 선물 약세 확대",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/breaking/441592"
+          "title": "“내란 인정하라고 지X 지X”…국힘 김태규, 민주당에 막말",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1288600.html"
         }
       ]
     },
     {
-      "title": "편지",
+      "title": "주제 무리뉴",
       "approx_traffic": "200+",
-      "published": "Sun, 22 Nov 2026 15:00:00 -0800",
+      "published": "Sun, 22 Nov 2026 23:40:00 -0800",
       "news": [
         {
-          "title": "\"네가 있어서 든든했다\"…28년 전 담임선생님이 남긴 손편지 화제",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120101432PaP"
+          "title": "교체 6분 만에 역전 결승골! 레알 마드리드의 복덩이 카를로스 에스피→놀라운 골 결정력",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026112209343705216"
         },
         {
-          "title": "선생님은 학생들에게 격려 편지를 썼고, 자신만의 독특한 방식으로 학생들의 마음을 움직였습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/co-giao-viet-thu-dong-vien-hoc-tro-gay-xuc-dong-voi-cach-nhac-nho-dac-biet"
+          "title": "“내가 경기장 안으로 들어가서 누굴 때릴 수 없잖아”… 모리뉴 감독 입담 작렬, 음바페·에스피 공존 가능성에 수비 전환 문제 제기",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=314225"
         },
         {
-          "title": "\"네가 있어서 든든했다\"…28년 전 중학교 가정통신문에 적힌 담임 선생님 메시지 '감동' [따뜻했슈]",
-          "source": "부산파이낸셜뉴스",
-          "url": "https://busan.fnnews.com/news/202611201111489476?pg=mny"
+          "title": "‘비니시우스, 제대로 된 강적 만났다!’ 브라질에서 5골 폭발하고 돌아왔는데…무리뉴 감독은 단호 “선발이든 벤치든 관중석이든 상관없다”",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698962"
         }
       ]
     },
     {
-      "title": "atalanta vs inter",
-      "approx_traffic": "100+",
-      "published": "Sun, 22 Nov 2026 14:50:00 -0800",
+      "title": "실사격훈련",
+      "approx_traffic": "200+",
+      "published": "Sun, 22 Nov 2026 23:30:00 -0800",
       "news": [
         {
-          "title": "Preview: Atalanta BC vs Inter Milan - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/atalanta-bc/preview/atalanta-vs-inter-milan-prediction-team-news-lineups_609517.html"
+          "title": "주한미군 아파치·블랙호크 헬기, 일본에서 첫 실사격 훈련",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6867862_36911.html"
         },
         {
-          "title": "Licensable picture: Atalanta BC v FC Internazionale - Serie A Enilive",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/atalanta-bc-v-fc-internazionale-serie-a-enilive/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFMyU1ZWVw"
-        },
-        {
-          "title": "Atalanta-Inter 4-4, spectacle in Bergamo: Pio Esposito hat-trick, Kessié breaks Chivu’s heart in the 91st minute",
-          "source": "Sofascore",
-          "url": "https://www.sofascore.com/news/atalanta-inter-4-4-spectacle-in-bergamo-pio-esposito-hat-trick-kessie-breaks-chivus-heart-in-the-91st-minute"
+          "title": "주한미군 아파치·블랙호크, 日 후지산 기슭서 첫 해외 실사격",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261123000859"
         }
       ]
     },
     {
-      "title": "대학",
-      "approx_traffic": "2000+",
-      "published": "Sun, 22 Nov 2026 14:40:00 -0800",
+      "title": "100 일 의 거짓말",
+      "approx_traffic": "500+",
+      "published": "Sun, 22 Nov 2026 23:20:00 -0800",
       "news": [
         {
-          "title": "충남신보·천안아산 8개 대학, 청년 창업교육 공동 추진",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261122500101"
+          "title": "김유정·박진영 ‘100일의 거짓말’, 종영 2회 남기고…11.7% 자체 최고 시청률 경신",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12215812"
         },
         {
-          "title": "충남신용보증재단, 천안·아산 소재 8개 대학과 청년 창업교육 업무협약 체결",
-          "source": "충청매일",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112538"
+          "title": "'100일의 거짓말' 김유정·박진영, 송지효 정체 알았다…최고 시청률 '11.7%'",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01574406645648672&mediaCodeNo=257"
         },
         {
-          "title": "\"청년 아이디어가 창업으로\"…충남신보, 대학과 손잡고 실무교육 나선다",
-          "source": "ER 이코노믹리뷰",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=758101"
+          "title": "\"친일 남주? 죽어도 옹호 안 돼\"…'100일의 거짓말' 시청자 반발 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/11/23/2026112316121982924"
+        }
+      ]
+    },
+    {
+      "title": "심진화",
+      "approx_traffic": "1000+",
+      "published": "Sun, 22 Nov 2026 23:00:00 -0800",
+      "news": [
+        {
+          "title": "심진화, 김원효 ‘트랜스젠더 바’ 논란에 \"후배 만나러 갔다\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611231012432150"
+        },
+        {
+          "title": "‘심진화♥’ 김원효, 1억 재산 오해…영화관 결혼식 비하인드 (개세모2)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261123/135071040/1"
+        },
+        {
+          "title": "트랜스젠더 바서 팔짱…김원효 \"뗐나 안뗐나 확인하러 방문\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/index.php/entertainment/2026/11/23/2026112317234828723"
         }
       ]
     }
