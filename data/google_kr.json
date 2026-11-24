@@ -1,209 +1,193 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-23T22:01:18+00:00",
+  "fetched_at": "2026-11-24T05:58:02+00:00",
   "items": [
     {
-      "title": "전원주",
+      "title": "장기 기증",
       "approx_traffic": "1000+",
-      "published": "Mon, 23 Nov 2026 12:50:00 -0800",
+      "published": "Mon, 23 Nov 2026 20:30:00 -0800",
       "news": [
         {
-          "title": "\"괜찮으신 거 맞나\"…핼쑥한 전원주, 레드카펫서 휘청 - 머니투데이",
+          "title": "“줄 수 있는 건 다 줄게” 약속 지키고 떠난 53세 가장 [아살세]",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/20261124500356"
+        },
+        {
+          "title": "50대 기관사, 간·신장에 눈도 내줬다…승객 안전 지키다 하늘로",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1288806.html"
+        },
+        {
+          "title": "\"줄 수 있는 건 다 주고 가겠다\"…장기기증으로 5명 살린 기관사",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261124140743zPw"
+        }
+      ]
+    },
+    {
+      "title": "퇴직",
+      "approx_traffic": "20000+",
+      "published": "Mon, 23 Nov 2026 20:20:00 -0800",
+      "news": [
+        {
+          "title": "퇴직연금 사외적립 의무화 앞두고…국민銀, 기업형 수수료 낮춘다",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1204773"
+        },
+        {
+          "title": "KB국민은행, 기업형 퇴직연금 수수료 인하…중소기업 부담 낮춘다 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112219483031404"
+          "url": "https://www.mt.co.kr/index.php/finance/2026/11/24/2026112408451552258"
         },
         {
-          "title": "[잇슈 컬처] 전원주 공식 석상 참석에 누리꾼 “건강 응원”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719550"
-        },
-        {
-          "title": "“포토월서 휘청” 전원주, 쇠약해진 근황에…팬들 응원 ‘봇물’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611221838003"
+          "title": "퇴직급여 사외적립 의무화…국민은행, 27일부터 기업형 수수료 인하",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/general-finance/6363999"
         }
       ]
     },
     {
-      "title": "대한민국 축구 국가대표팀",
-      "approx_traffic": "200+",
-      "published": "Mon, 23 Nov 2026 12:50:00 -0800",
+      "title": "12 월 3 일",
+      "approx_traffic": "1000+",
+      "published": "Mon, 23 Nov 2026 20:20:00 -0800",
       "news": [
         {
-          "title": "나란히 K리그 1부 복귀하는 ‘수원 형제’…큰물에서 다시 생존경쟁",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611232009015"
-        },
-        {
-          "title": "[지지대] 끝이 아닌 도전",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261122580324"
-        },
-        {
-          "title": "강등 1년 만에 승격한 수원FC…지도자 인생 반등 이뤄낸 박건하",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261123114700007"
-        }
-      ]
-    },
-    {
-      "title": "이민진",
-      "approx_traffic": "100+",
-      "published": "Mon, 23 Nov 2026 12:40:00 -0800",
-      "news": [
-        {
-          "title": "\"부정행위 막으려 재난문자\"…'파친코' 이민진이 본 韓수능",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01915526645648344&mediaCodeNo=257"
-        },
-        {
-          "title": "한국 수능 재난문자에 놀란 '파친코' 작가…\"AI 발전하는데 학생은 퇴화\"",
-          "source": "주간조선",
-          "url": "https://weekly.chosun.com/news/articleView.html?idxno=57367"
-        },
-        {
-          "title": "이민진 작가, '아메리칸 학원' 출간 기념 뉴욕서 북토크 개최",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445959"
-        }
-      ]
-    },
-    {
-      "title": "엘니뇨",
-      "approx_traffic": "100+",
-      "published": "Mon, 23 Nov 2026 12:40:00 -0800",
-      "news": [
-        {
-          "title": "이번 겨울 “슈퍼 엘니뇨에 북극 영향까지”…변동폭 큰 날씨",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8720251"
-        },
-        {
-          "title": "올겨울 강한 엘니뇨 영향… 따뜻하고 강수량 많을 듯",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261124/135077392/2"
-        },
-        {
-          "title": "올겨울 대체로 따뜻하지만 기습 한파 가능성…12월·2월 눈·비 많을 듯",
-          "source": "기후에너지데이터뱅크",
-          "url": "https://edata.ekn.kr/article/view/ekn202611230004"
-        }
-      ]
-    },
-    {
-      "title": "골프",
-      "approx_traffic": "2000+",
-      "published": "Mon, 23 Nov 2026 12:30:00 -0800",
-      "news": [
-        {
-          "title": "소렌스탐 넘다… ‘상금 여왕’, 이젠 티띠꾼",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261124/135077431/2"
-        },
-        {
-          "title": "김아림, LPGA 시즌 최종전 공동 7위‥티띠꾼, 3년 연속 우승",
+          "title": "'12·3 그날' 정부기념일로‥\"헌법 수호 국민 기념\"",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6867689_36946.html"
+          "url": "https://imnews.imbc.com/news/2026/society/article/6868128_36918.html"
         },
         {
-          "title": "[오늘의 영상] 정교한 칩 샷…우승 청신호",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719459"
+          "title": "[속보]李대통령 \"12월3일, 국가기념일 '국민주권의 날' 지정 안건 처리 예정\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/11/24/2026112410082482330"
+        },
+        {
+          "title": "12월 3일 국가기념일 된다…李 “계엄 맞선 ‘국민 주권의 날’ 기려야”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261124/135079161/1"
         }
       ]
     },
     {
-      "title": "춘천시",
-      "approx_traffic": "100+",
-      "published": "Mon, 23 Nov 2026 12:30:00 -0800",
+      "title": "지방세",
+      "approx_traffic": "500+",
+      "published": "Mon, 23 Nov 2026 20:20:00 -0800",
       "news": []
     },
     {
-      "title": "연금",
-      "approx_traffic": "5000+",
-      "published": "Mon, 23 Nov 2026 12:20:00 -0800",
-      "news": [
-        {
-          "title": "내 연금·유족연금 겹친 20.8만명…3.7만명은 내 연금 '0원'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261122031500530"
-        },
-        {
-          "title": "부부 모두 내도 배우자 사망하면 깎이는 국민연금...‘중복급여 조정’ 논란",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261123580009"
-        },
-        {
-          "title": "국민연금 꼬박꼬박 냈는데 '0원'…맞벌이 부부 '부글부글' [머니팁]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611234317v"
-        }
-      ]
-    },
-    {
-      "title": "박지윤",
+      "title": "김서형",
       "approx_traffic": "500+",
-      "published": "Mon, 23 Nov 2026 12:10:00 -0800",
+      "published": "Mon, 23 Nov 2026 20:20:00 -0800",
       "news": [
         {
-          "title": "\"애미가 드럽게 키워\" 박지윤, '시모 비방' 카톡…이혼 불씨였나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/22/2026112216160193284"
+          "title": "김서형, 건강 악화로 촬영 중 드라마 하차…박보경 긴급 투입",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12216766"
         },
         {
-          "title": "박지윤 악플러, 잡고 보니 전남편 최동석…명예훼손 혐의 송치",
+          "title": "박보경, 김서형 하차한 SBS 드라마 '대시' 합류",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261120126400004"
+          "url": "https://www.yna.co.kr/view/AKR20261124074700005"
         },
         {
-          "title": "“구질구질하게 어지르는 것도 지 엄마 닮아”…박지윤 카톡에 무슨 일이",
-          "source": "더시사법률",
-          "url": "https://www.tsisalaw.com/news/article.html?no=31108"
+          "title": "김서형 건강 악화로 ‘대시 하차…김보경 대체 투입 [공식]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261124/135078690/1"
         }
       ]
     },
     {
-      "title": "한국항공우주산업",
+      "title": "트롯 데스매치 금타는 금요일",
       "approx_traffic": "200+",
-      "published": "Mon, 23 Nov 2026 12:10:00 -0800",
+      "published": "Mon, 23 Nov 2026 20:20:00 -0800",
+      "news": []
+    },
+    {
+      "title": "강호동",
+      "approx_traffic": "1000+",
+      "published": "Mon, 23 Nov 2026 20:10:00 -0800",
       "news": [
         {
-          "title": "경남 우주항공·방산에 1조 5000억 원 투자…산업거점 육성",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976313"
+          "title": "강호동, 무대 보다가 대성통곡…손수건 꺼내 눈물 닦았다 (천만기인쇼)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261124/135078139/1"
         },
         {
-          "title": "경남도-KAI 투자협약…우주항공·방산 생태계 확대",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261124051906RVK"
+          "title": "[TV조선] 기인들의 왕중왕전",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/7U6PKLVL7NFM5PWLTYD4V6EJPY/"
         },
         {
-          "title": "우리은행, K-방산 협력기업에 3020억 상생금융 대출 지원",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261123_0003879908"
+          "title": "‘천만기인쇼’ 왕중왕전 개막… 강호동 대성통곡, 이도현 미공개 신기술 승부수",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3451517"
         }
       ]
     },
     {
-      "title": "치매",
-      "approx_traffic": "2000+",
-      "published": "Mon, 23 Nov 2026 12:00:00 -0800",
+      "title": "치이카와 클리닉",
+      "approx_traffic": "1000+",
+      "published": "Mon, 23 Nov 2026 20:10:00 -0800",
       "news": [
         {
-          "title": "아리바이오, ‘먹는 알츠하이머 신약’으로 초기 환자 겨냥…“내년 하반기 미 FDA 허가 신청할 것”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611231556001"
+          "title": "'치이카와 클리닉' 팝업 1차 사전예약 하루 연기된 이유",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760308"
         },
         {
-          "title": "아리바이오, 치매약 18개월 데이터 첫 공개…“7.2개월 지연 추정”",
-          "source": "팜이데일리",
-          "url": "https://pharm.edaily.co.kr/news/read?newsId=02515766645648672"
+          "title": "치이카와 팝업 1차 예약 하루 연기…사이트 정비",
+          "source": "제주교통복지신문",
+          "url": "https://www.jejutwn.com/news/article.html?no=464852"
         },
         {
-          "title": "아리바이오, '성공 논란' AD 3상 \"진짜 이슈 3가지는\"",
-          "source": "바이오스펙테이터",
-          "url": "https://www.biospectator.com/news/view/30486"
+          "title": "치이카와 클리닉 @삿포로 아피아",
+          "source": "domingo.ne.jp",
+          "url": "https://domingo.ne.jp/ko/event/55460"
+        }
+      ]
+    },
+    {
+      "title": "팝콘",
+      "approx_traffic": "500+",
+      "published": "Mon, 23 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "백억커피, LG유플러스 멤버십 제휴…아메리카노·팝콘 무료 제공",
+          "source": "신아일보",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086044"
+        },
+        {
+          "title": "다시 만난 최승윤 대표",
+          "source": "일요시사",
+          "url": "https://www.ilyosisa.co.kr/news/article.html?no=258940"
+        },
+        {
+          "title": "백억커피, 서울 봉천현대점·수원탑동점 동시 오픈···수도권 가맹사업 확대",
+          "source": "이넷뉴스",
+          "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=56609"
+        }
+      ]
+    },
+    {
+      "title": "과즙 세연 방시혁",
+      "approx_traffic": "200+",
+      "published": "Mon, 23 Nov 2026 20:10:00 -0800",
+      "news": [
+        {
+          "title": "과즙세연 “아무리 아니라고 해도 계속 묻더라”…방시혁 루머에 선 그어",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261123/135073886/2"
+        },
+        {
+          "title": "과즙세연 \"방시혁과 잤냐고? 안 잤다\"…코미디 무대 뒤집은 역대급 매운맛 해명",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611230756351536"
+        },
+        {
+          "title": "과즙세연·이돈호의 `독설배틀`, 문득 떠오른 국회…차이는 웃음과 고소장? [시사뒷담]",
+          "source": "매일신문",
+          "url": "https://www.imaeil.com/page/view/2026112220531002552"
         }
       ]
     }
