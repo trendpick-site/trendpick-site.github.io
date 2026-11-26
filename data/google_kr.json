@@ -1,220 +1,225 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-26T12:19:54+00:00",
+  "fetched_at": "2026-11-26T21:54:40+00:00",
   "items": [
     {
-      "title": "두산타워",
-      "approx_traffic": "200+",
-      "published": "Thu, 26 Nov 2026 03:00:00 -0800",
-      "news": [
-        {
-          "title": "사옥 팔던 두산, 8400억 신사옥 마련…다시 부동산에 뭉칫돈",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/26/2026112680192.html"
-        },
-        {
-          "title": "두산, IMF 때 떠난 을지로로 32년만에 다시 돌아간다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/11/26/TCQFAVSANZEHXF4BTHLTJ6IPQQ/"
-        },
-        {
-          "title": "동대문 두산타워, 현대면세점 나간 자리 현대백화점 인재개발원·SK실트론이 채운다",
-          "source": "SPI - 상업용 부동산 콘텐츠 & 데이터 애널리틱스",
-          "url": "https://seoulpi.io/article/00622149544747753472"
-        }
-      ]
-    },
-    {
-      "title": "근로장려금 신청",
-      "approx_traffic": "100+",
-      "published": "Thu, 26 Nov 2026 02:50:00 -0800",
-      "news": [
-        {
-          "title": "5월에 놓친 근로·자녀장려금, 12월 1일까지 신청하세요!",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/4040_24_C2"
-        },
-        {
-          "title": "근로·자녀장려금 신청 12월 1일까지... 지급일은?",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1195317"
-        },
-        {
-          "title": "2026 근로장려금 신청자격·지급액·지급일은? 기한후신청 12월 1일까지...자녀장려금까지 총정리",
-          "source": "크리스천투데이",
-          "url": "https://www.christiantoday.co.kr/news/378877"
-        }
-      ]
-    },
-    {
-      "title": "슈퍼문",
-      "approx_traffic": "100+",
-      "published": "Thu, 26 Nov 2026 02:40:00 -0800",
-      "news": [
-        {
-          "title": "밤사이 '슈퍼문'...크리스마스 이브에 가장 크다",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611251603008783"
-        },
-        {
-          "title": "11월 지구촌 밤하늘 밝힌 슈퍼문 [현장영상]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722177"
-        },
-        {
-          "title": "올들어 가장 밝고 큰 보름달 ‘비버문’",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20261125.22006007794"
-        }
-      ]
-    },
-    {
-      "title": "이지훈",
-      "approx_traffic": "100+",
-      "published": "Thu, 26 Nov 2026 02:10:00 -0800",
-      "news": [
-        {
-          "title": "이지훈·아야네 부부 득녀…두 아이 부모 됐다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261126/135094851/2"
-        },
-        {
-          "title": "이지훈 아내 아야네, 둘째 득녀...2주 1500만원 산후조리원 입소",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10949941"
-        },
-        {
-          "title": "이지훈·아야네 부부, 일산차병원서 둘째딸 출산…3.03㎏ 건강해",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/bio/welfare-medical/6367022"
-        }
-      ]
-    },
-    {
-      "title": "한국보건의료인국가시험원",
-      "approx_traffic": "500+",
-      "published": "Thu, 26 Nov 2026 02:10:00 -0800",
-      "news": [
-        {
-          "title": "의사·간호사 국시 일부 과목 만점자 급증···복지부 “AI 부정행위 단정 어려워”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611261620001"
-        },
-        {
-          "title": "[보도설명자료][11.26.목 중앙일보] 의사냥이·간호냥이도 있나…국시 과목 만점자 7배 뛰었다 관련",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976573"
-        },
-        {
-          "title": "의사-치과의사 국시 만점자도 최대 15배 늘었다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261126/135095267/1"
-        }
-      ]
-    },
-    {
-      "title": "india a vs sri lanka a",
-      "approx_traffic": "500+",
-      "published": "Thu, 26 Nov 2026 01:50:00 -0800",
-      "news": [
-        {
-          "title": "India A vs Sri Lanka A Live Score: IND-A (203/3 in 32 ov), Tilak steady as India lose Kushagra",
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-sri-lanka-a-live-score-rising-stars-asia-cup-2026-semi-final-ind-a-vs-sl-a-match-3047337-2026-11-26"
-        },
-        {
-          "title": "Vaibhav Sooryavanshi dismissed for 40 off 27 balls against Sri Lanka A in Asia Cup Rising Stars 2026 semifinal",
-          "source": "Sportstar",
-          "url": "https://sportstar.thehindu.com/cricket/vaibhav-sooryavanshi-score-asia-cup-rising-stars-2026-semifinal-india-a-vs-sri-lanka-a/article71746121.ece"
-        },
-        {
-          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-          "source": "Cricbuzz",
-          "url": "https://m.cricbuzz.com/player-match-performance/match/177210/player/15779/batting"
-        }
-      ]
-    },
-    {
-      "title": "검찰",
-      "approx_traffic": "500+",
-      "published": "Thu, 26 Nov 2026 01:40:00 -0800",
-      "news": [
-        {
-          "title": "검찰총장 후보 초유의 ‘추가 천거’…기존 3인 외 새 인물 지명 수순?",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261126/135095804/1"
-        },
-        {
-          "title": "법무부, 검찰총장 후보 내달 9일까지 추가 천거... 전례 없는 일",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/11/26/4QV4HZUIQ5AFVB76PM7CQSQ4NE/"
-        },
-        {
-          "title": "'1년4개월째 공석' 검찰총장…법무부, 후보자 추가 국민천거 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/26/2026112613494028764"
-        }
-      ]
-    },
-    {
-      "title": "구미역",
-      "approx_traffic": "500+",
-      "published": "Thu, 26 Nov 2026 01:40:00 -0800",
-      "news": [
-        {
-          "title": "동구미역 밑그림 나왔다…구미역과 연결은 어떻게",
-          "source": "영남일보",
-          "url": "https://www.yeongnam.com/web/view.php?key=20261125028262890"
-        },
-        {
-          "title": "'대구·경북 1시간 생활권' 광역철도·국도 확충에 속도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261125035000053"
-        },
-        {
-          "title": "광역교통부터 주거복지·산불재건까지…경북도, 2026년 균형발전 날개",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762557"
-        }
-      ]
-    },
-    {
-      "title": "미국 휴장",
-      "approx_traffic": "100+",
-      "published": "Thu, 26 Nov 2026 01:20:00 -0800",
-      "news": [
-        {
-          "title": "美 금융시장, 26일 추수감사절로 휴장",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446614"
-        },
-        {
-          "title": "추수감사절 NFL 풋볼",
-          "source": "VOA 한국어 홈페이지",
-          "url": "https://www.voakorea.com/a/thanksgiving-football-112426/8227535.html"
-        }
-      ]
-    },
-    {
-      "title": "디워",
+      "title": "유튜버",
       "approx_traffic": "1000+",
-      "published": "Thu, 26 Nov 2026 00:30:00 -0800",
+      "published": "Thu, 26 Nov 2026 12:50:00 -0800",
       "news": [
         {
-          "title": "단독 심형래 '디워', AI 입고 재개봉 한다...예고편 최초 공개",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_sn/0117_202611231130018667"
+          "title": "’구독자 1,010만’ 진우와 해티, 이혼 발표…채널은 어떻게 나눴나",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126161521wKw"
         },
         {
-          "title": "심형래, ‘힉스필드’와 협업해 ‘디워’ 새 버전 제작…30분 분량 AI 영상 추가한다",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1651994"
+          "title": "구독자 1010만 국제 부부 유튜버 '진우와 해티', 결혼 4년 만에 파경",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261126_0003883842"
         },
         {
-          "title": "19년 전 작품인데 갑자기 '역주행' 하더니… 급기야 재개봉 소식 뜬 한국 영화",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1176829"
+          "title": "진우·해티 이혼 발표⇒유튜브는 남편·인스타는 아내…앞서 헤어진 국제부부 채널은? [Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/26/G42TCZBSGA2WKZRVGEYWMZRZGY/"
+        }
+      ]
+    },
+    {
+      "title": "알테오젠",
+      "approx_traffic": "100+",
+      "published": "Thu, 26 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "알테오젠, '키트루다SC' 기술료 538원 추가로 받는다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261126184700017"
+        },
+        {
+          "title": "알테오젠, MSD서 538억원 추가 수령…키트루다SC 두 번째 판매 마일스톤",
+          "source": "팜이데일리",
+          "url": "https://pharm.edaily.co.kr/news/read?newsId=03670326645649656"
+        },
+        {
+          "title": "알테오젠, '키트루다SC' 두번째 마일스톤 수령",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261126_0003884502"
+        }
+      ]
+    },
+    {
+      "title": "파운드리",
+      "approx_traffic": "200+",
+      "published": "Thu, 26 Nov 2026 12:40:00 -0800",
+      "news": [
+        {
+          "title": "AI 반도체 호황인데…TSMC와 더 멀어진 삼성의 승부수 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/27/2026112614411974849"
+        },
+        {
+          "title": "삼성 파운드리, 글로벌 점유율 6.4%로 하락…4·2나노로 반등 모색",
+          "source": "아이티데일리",
+          "url": "https://www.itdaily.kr/news/articleView.html?idxno=243242"
+        },
+        {
+          "title": "TSMC 최대 20% 가격 인상에 삼성전자 반사이익 예상, 한진만 빅테크 반도체 추가 수주 청신호",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452299"
+        }
+      ]
+    },
+    {
+      "title": "농협",
+      "approx_traffic": "100+",
+      "published": "Thu, 26 Nov 2026 12:40:00 -0800",
+      "news": [
+        {
+          "title": "농협은행, 대안신용평가로 포용금융 확대…NH크레딧ON 컨퍼런스",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261126153500002"
+        },
+        {
+          "title": "농협은행, 카드·캐피탈 성실상환 고객 6개월 뒤 은행 대출로 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/11/26/2026112610562467511"
+        },
+        {
+          "title": "농협銀, AI 에이전트 ‘상시개발’ 체제 전환",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20119103"
+        }
+      ]
+    },
+    {
+      "title": "현대자동차",
+      "approx_traffic": "1000+",
+      "published": "Thu, 26 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "현대차그룹, 부품·건설 수장 교체…수익성·SDV 전환 속도 낼 듯",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=375318"
+        },
+        {
+          "title": "“5만대 팔린다는데 10만대 깔아라”⋯ 정의선이 7년째 기아 맡긴 ‘이 남자’",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261126501674"
+        },
+        {
+          "title": "현대차, 무뇨스·송호성 체제 유지…모비스 백철승",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127051555g88"
+        }
+      ]
+    },
+    {
+      "title": "아버지",
+      "approx_traffic": "500+",
+      "published": "Thu, 26 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "[선공개] 찬원 VS 아버지(윤성 아빠)의 숨막히는 칼질 대결! 고수들의 격돌, 그승자는? (황윤성 1열 관전) | KBS 방송",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_LS-20191010142020-01-000_20261125_TECH001&program_code=T2019-0286&program_id=LS-20191010142020-01-000&section_code=04&broadcast_complete_yn=N&section_id=10742"
+        },
+        {
+          "title": "황윤성, 할아버지께 물려받은 ‘금’ 있다?…창고 공개",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261126/135099485/1"
+        },
+        {
+          "title": "이찬원, 일상 벗어나 자연 속으로…‘편스토랑’ 복귀에 기대감",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=848618"
+        }
+      ]
+    },
+    {
+      "title": "며느리",
+      "approx_traffic": "500+",
+      "published": "Thu, 26 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "\"자손들 잘된다고 해서\"…가족 몰래 시아버지 묘 파헤친 며느리",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/view.html?ar_id=NISX20261126_0003883773"
+        },
+        {
+          "title": "남편 장례식 때 시부 묘 파헤쳐 화장한 큰며느리…\"이래야 자손 잘된다\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6366829"
+        },
+        {
+          "title": "가족들 몰래 \"시아버지 파묘\"…큰며느리의 ‘충격 고백’",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/video/ND10781962"
+        }
+      ]
+    },
+    {
+      "title": "이정후",
+      "approx_traffic": "500+",
+      "published": "Thu, 26 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "日 선수엔 지갑 연다… MLB서 한일 격차 더 벌어져",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/26/GVNNZGMORRFTDNIP4M4R2XLDOY/"
+        },
+        {
+          "title": "‘포스팅 D-6’ 노시환 반전 시나리오 떴다! 극적 뉴욕행 비행기 탑승 성사? 美 강력 추천 \"양키스, 3루수로 ROH 어때?\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/26/202611260613771287O"
+        },
+        {
+          "title": "‘일본 타격 3관왕’ 사토 데루아키, 6년 1,600억 원에 MLB 컵스행",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8722197"
+        }
+      ]
+    },
+    {
+      "title": "현대 쏘나타",
+      "approx_traffic": "200+",
+      "published": "Thu, 26 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "'토요타 캠리와 116배 차이' 현대차 쏘나타, 결국 이 시장에서 퇴출 결정",
+          "source": "오토헤럴드",
+          "url": "https://www.autoherald.co.kr/news/articleView.html?idxno=62274"
+        },
+        {
+          "title": "현대차, 호주서 '쏘나타' 38년 만에 단종…신형 하이브리드로 승부수",
+          "source": "한국신용신문",
+          "url": "https://www.creditnews.kr/news/articleView.html?idxno=32764"
+        },
+        {
+          "title": "“토요타 캠리에 완전히 밀렸다”… 판매량 116배 차이로 현대 쏘나타 단종 결정",
+          "source": "오토놀로지",
+          "url": "https://autonology.co.kr/news/hyundai-sonata-australia-supply-ends/"
+        }
+      ]
+    },
+    {
+      "title": "1기 신도시",
+      "approx_traffic": "200+",
+      "published": "Thu, 26 Nov 2026 12:30:00 -0800",
+      "news": [
+        {
+          "title": "1기 신도시도 재초환 반발… 분당서 폐지 촉구 공동성명",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261127/135099705/2"
+        },
+        {
+          "title": "국토부 “재초환 현행법대로 부과 원칙”…완화·폐지는 국회 몫",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261127/135100792/1"
+        },
+        {
+          "title": "국토부, 오세훈 정비사업 규제 완화 요구에 \"신중히 검토해야\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6868547_36932.html"
         }
       ]
     }
