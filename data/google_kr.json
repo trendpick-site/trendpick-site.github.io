@@ -1,225 +1,209 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-25T20:10:16+00:00",
+  "fetched_at": "2026-11-26T02:50:17+00:00",
   "items": [
     {
-      "title": "슬라비아 프라하 대 비야레알",
+      "title": "전기자동차 배터리",
       "approx_traffic": "100+",
-      "published": "Wed, 25 Nov 2026 10:40:00 -0800",
+      "published": "Wed, 25 Nov 2026 17:40:00 -0800",
       "news": [
         {
-          "title": "Slavia Prague vs Villarreal: UEFA Champions League stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmdx121dxr1zt"
+          "title": "[단독] \"中 전기차보다 싸네\"…아이오닉5, 이제 반값에 산다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026112502651"
         },
         {
-          "title": "Villarreal's UCL hopes at stake against a side winless in it for 19 years",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/villarreals-ucl-hopes-at-stake-against-a-side-winless-in-it-for-19-years-43835495"
+          "title": "전기차, 반값에 구매?…'배터리 리스제' 검토",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863854"
         },
         {
-          "title": "Slavia-Villarreal preview: Slavia arrive with five injury absences",
-          "source": "Tu Futbolero",
-          "url": "https://www.tufutbolero.com/en/news/slavia-villarreal-preview-slavia-arrive-with-five-injury-e5041c"
+          "title": "\"중국차보다 더 싸다\" 아이오닉5, 내년부터 반값에 살 수 있는 '전기차 혜택' 전망",
+          "source": "나남뉴스",
+          "url": "https://www.nanamcom.co.kr/news/articleView.html?idxno=53429"
         }
       ]
     },
     {
-      "title": "삼성전기",
-      "approx_traffic": "500+",
-      "published": "Wed, 25 Nov 2026 10:30:00 -0800",
+      "title": "삼성",
+      "approx_traffic": "2000+",
+      "published": "Wed, 25 Nov 2026 17:30:00 -0800",
       "news": [
         {
-          "title": "삼성전기, 1.7조원 자사주 소각…주가 상승에 규모 12배↑",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261125166100003"
-        },
-        {
-          "title": "삼성전기, 11년 보유한 보통주 200만주 소각… 우선주 포함 1조7319억원 규모",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/11/25/FLRU4Q4W6JGSTLAOY34K5NEBPM/"
-        },
-        {
-          "title": "삼성전기, 11년만에 1.7조 규모 자사주 소각...\"주주환원 강화\"",
+          "title": "삼성전자서비스, 서비스 기술경진대회 개최…AI 활용 역량 평가",
           "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03919606645649328"
-        }
-      ]
-    },
-    {
-      "title": "한국여자프로골프협회",
-      "approx_traffic": "100+",
-      "published": "Wed, 25 Nov 2026 09:40:00 -0800",
-      "news": [
-        {
-          "title": "김민솔 대상·상금·신인왕... 신지애 이후 20년만에 ‘신인이 3관왕’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/golf/2026/11/25/QJUYHZ2MDRFERINWQJFM3T7D7A/"
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01820406645649656"
         },
         {
-          "title": "김민솔, 3관왕…KLPGA 최고의 별로 우뚝",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722684"
-        },
-        {
-          "title": "대상·상금왕·신인상 3관왕 “김민솔다운 모습으로 한 발 한 발” [KLPGA 대상 시상식] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/25/202611252214779444O"
-        }
-      ]
-    },
-    {
-      "title": "다나와",
-      "approx_traffic": "500+",
-      "published": "Wed, 25 Nov 2026 09:30:00 -0800",
-      "news": [
-        {
-          "title": "다나와, 챗GPT에 AI 쇼핑 서비스 연동…실시간 가격·사양 비교",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261125076400030"
-        },
-        {
-          "title": "다나와 AI 쇼핑, 클로드 이어 챗GPT 연동",
+          "title": "삼성전자서비스, '서비스 기술경진 및 안전혁신대회' 개최",
           "source": "전자신문",
-          "url": "https://www.etnews.com/20261125000440"
+          "url": "https://www.etnews.com/20261126000204"
         },
         {
-          "title": "다나와, 챗GPT에 상품 데이터 연동…AI 쇼핑 서비스 확대",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202611252105391232204ead0791_12"
+          "title": "삼성전자서비스, 엔지니어 기술·안전 역량 겨룬다…31회 경진대회 개최",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261126500181"
         }
       ]
     },
     {
-      "title": "바르셀로나",
-      "approx_traffic": "200+",
-      "published": "Wed, 25 Nov 2026 09:30:00 -0800",
+      "title": "호랑이",
+      "approx_traffic": "1000+",
+      "published": "Wed, 25 Nov 2026 17:20:00 -0800",
       "news": [
         {
-          "title": "발다스 담브라우스카스, 바르셀로나전 앞두고 바쿠서 기자회견",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763239"
+          "title": "방송용 '반짝스타'였던 아기 호랑이… 목줄과 외로움에 맞서야 했다",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026112410080002933"
         },
         {
-          "title": "“야말, 집에서 GTA 하려고 UCL 결장했나”…황당 질문에 헛웃음 터뜨렸다",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202611250071"
+          "title": "호랑이 한마리 4천만원…탐욕이 부른 ‘죽음의 비즈니스’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8722621"
         },
         {
-          "title": "챔피언스 리그 사바 대 바르셀로나 생중계 링크",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-sabah-vs-barcelona-tai-champions-league-1806467.ldo"
+          "title": "“한 마디로 도살장” 호랑이 농장의 참혹한 현실, 남아공 출신 기자의 ‘비통한 외침’ 뒤에는 ‘밀매 조직’이? ...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611251814003"
         }
       ]
     },
     {
-      "title": "sabah vs barcelona",
-      "approx_traffic": "500+",
-      "published": "Wed, 25 Nov 2026 09:10:00 -0800",
+      "title": "초전마을",
+      "approx_traffic": "100+",
+      "published": "Wed, 25 Nov 2026 17:20:00 -0800",
       "news": [
         {
-          "title": "Joan García salvó al Barcelona de una chance clara del Sabah",
-          "source": "Yahoo",
-          "url": "https://es-us.noticias.yahoo.com/deportes/joan-garc%C3%ADa-salv%C3%B3-barcelona-chance-180100391.html"
+          "title": "태양광으로 마을 살림 바꾸겠다더니‥발전소 짓기까지 '산 넘어 산'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6868368_36918.html"
         },
         {
-          "title": "De '¿Quién quiere ser millonario?' a enfrentarse al Barça en Champions",
-          "source": "MARCA",
-          "url": "https://www.marca.com/futbol/champions-league/2026/11/25/quiere-millonario-enfrentarse-barca-champions.html"
-        },
-        {
-          "title": "Gordon lidera la goleada del Barça de las rotaciones en Bakú",
-          "source": "La Vanguardia",
-          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261125/11693472/gordon-lidera-goleada-barca-rotaciones-baku-sabah-champions.html"
-        }
-      ]
-    },
-    {
-      "title": "sabah 대 바르셀로나",
-      "approx_traffic": "5000+",
-      "published": "Wed, 25 Nov 2026 08:50:00 -0800",
-      "news": [
-        {
-          "title": "Sabah 1-4 Barcelona: Anthony Gordon scores twice in visitors' comfortable Champions League win",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c674232v2gv3t"
-        },
-        {
-          "title": "Champions League live updates: Barça take lead over Sabah",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/50574274/uefa-champions-league-live-updates"
-        },
-        {
-          "title": "Sabah vs. Barcelona Predictions: La Blaugrana Chase Big Win Even Without Star Man",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/soccer/sabah-vs-barcelona-predictions-la-blaugrana-big-win-without-star-11-25-26"
-        }
-      ]
-    },
-    {
-      "title": "매일경제",
-      "approx_traffic": "200+",
-      "published": "Wed, 25 Nov 2026 08:40:00 -0800",
-      "news": [
-        {
-          "title": "비트코인 파동으로 보기, 5만5천 달러 바닥선과 6만4천6백 달러 첫 관문",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/kkk0221/kkkk0321/contents/261125012829486am"
-        },
-        {
-          "title": "'항복국면' 본격화…비트코인 손절매, 4년전 FTX 사태 후 최대",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01964726645649328"
-        },
-        {
-          "title": "[코인 시황] 비트코인 5만9000달러선 붕괴…글로벌 주식 매도 압력 지속",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261125001285"
-        }
-      ]
-    },
-    {
-      "title": "정부",
-      "approx_traffic": "200+",
-      "published": "Wed, 25 Nov 2026 08:10:00 -0800",
-      "news": [
-        {
-          "title": "“인공지능으로 지키는 제주”",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=848455"
-        },
-        {
-          "title": "[패트롤] 인천시-인천시의회-인천시교육청-인천문화재단-인천교통공사",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261126027574851"
-        },
-        {
-          "title": "삼성SDS, 국가품질혁신상 AI 부문 대통령표창…기업 첫 수상",
+          "title": "김해에 전국 첫 '햇빛소득마을'…전력 판매 수익으로 복지사업",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261125156300017"
+          "url": "https://www.yna.co.kr/view/AKR20261126082700052"
+        },
+        {
+          "title": "수도권대기환경청, 재생에너지 확대·우수사례 공유 '민·관 성과보고회'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gyeonggi/6365890"
         }
       ]
     },
     {
-      "title": "선수",
-      "approx_traffic": "500+",
-      "published": "Wed, 25 Nov 2026 08:00:00 -0800",
+      "title": "수험",
+      "approx_traffic": "5000+",
+      "published": "Wed, 25 Nov 2026 17:10:00 -0800",
       "news": [
         {
-          "title": "남친과 이별→국대 돌연 하차한 女축구선수, 알고보니 'NBA 악동' 로드먼 딸이었다! 거침없는 행보 '판박이' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/26/2026112600001534938"
+          "title": "서울 자치구들, 수능 끝나도 분주...정시지원 전략 등 교육지원",
+          "source": "주간한국",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195145"
         },
         {
-          "title": "헤어진 美 대표 스포츠 스타들…로드먼의 축구 선수 딸, 테니스 셸턴과 이별",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6612146"
+          "title": "논산시지속가능발전협의회, 수험생 위한 휴식 선물",
+          "source": "한국시사경제",
+          "url": "https://www.hksisaeconomy.com/news/article.html?no=1304357"
         },
         {
-          "title": "美 대표 스포츠 스타 커플, 약 2년 만에 전격 결별…\"장거리 연애 어려웠다, 헤어지고도 가까운 사이 유지 중\"",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2222635"
+          "title": "서대문구, 백련산서 겨울 산림치유 첫 운영…생애주기별 쉼 제공",
+          "source": "전국매일신문",
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1314516"
+        }
+      ]
+    },
+    {
+      "title": "순댓국",
+      "approx_traffic": "500+",
+      "published": "Wed, 25 Nov 2026 17:10:00 -0800",
+      "news": []
+    },
+    {
+      "title": "가수",
+      "approx_traffic": "2000+",
+      "published": "Wed, 25 Nov 2026 17:00:00 -0800",
+      "news": [
+        {
+          "title": "음실련·대한가수협회, '힐링콘서트' 개최…박상철·신유·금잔디 등 총출동",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/music/6366567"
+        },
+        {
+          "title": "한국음악실연자연합회·대한가수협회, 12월 1일 제2회 힐링콘서트",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762971"
+        },
+        {
+          "title": "음악 실연자에 무대 기회…음실련·대한가수협회, 힐링콘서트 개최",
+          "source": "스포츠월드",
+          "url": "https://www.sportsworldi.com/newsView/20261126505674"
+        }
+      ]
+    },
+    {
+      "title": "기준금리",
+      "approx_traffic": "2000+",
+      "published": "Wed, 25 Nov 2026 16:50:00 -0800",
+      "news": [
+        {
+          "title": "기준금리 인상 : 3.25%로 올랐어요, 내 대출 이자는 얼마나 오를까요",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/4050_24_C5"
+        },
+        {
+          "title": "주택시장, 금리 인상에 거래 위축 전망…서울 외곽부터 영향권",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446675"
+        },
+        {
+          "title": "반도체 호황에 물가는 2%대 후반…한은, 기준금리 또 올려 연 3.25%",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12329898"
+        }
+      ]
+    },
+    {
+      "title": "계엄",
+      "approx_traffic": "1000+",
+      "published": "Wed, 25 Nov 2026 16:50:00 -0800",
+      "news": [
+        {
+          "title": "[속보] 대법원, '한덕수 재판 위증' 윤석열 무죄 확정‥상고 기각",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6868727_36918.html"
+        },
+        {
+          "title": "[속보]대법, 윤석열 ‘한덕수 재판 위증’ 무죄 확정",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261126/135094333/1"
+        },
+        {
+          "title": "‘윤석열 계엄’ 사과 묻자…국힘 김민수 “민주당이 먼저 해야” 궤변",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1289178.html"
+        }
+      ]
+    },
+    {
+      "title": "진우와 해티",
+      "approx_traffic": "2000+",
+      "published": "Wed, 25 Nov 2026 16:40:00 -0800",
+      "news": [
+        {
+          "title": "‘1010만 유튜버’ 진우와 해티, 결혼 5년 만에 이혼 발표…“부부 관계 마무리”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12218897"
+        },
+        {
+          "title": "구독자 1010만 국제 부부 유튜버 '진우와 해티', 결혼 4년 만에 파경",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261126_0003883842"
+        },
+        {
+          "title": "국제부부 유튜버 진우·해티 이혼 발표...갈등 빚었던 모습 '재조명'",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763583"
         }
       ]
     }
