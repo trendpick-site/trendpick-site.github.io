@@ -1,220 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-27T13:52:46+00:00",
+  "fetched_at": "2026-11-27T22:40:14+00:00",
   "items": [
     {
-      "title": "굿파트너2",
+      "title": "마운자로",
       "approx_traffic": "200+",
-      "published": "Fri, 27 Nov 2026 04:40:00 -0800",
+      "published": "Fri, 27 Nov 2026 13:30:00 -0800",
       "news": [
         {
-          "title": "스튜디오앤뉴표 이혼쇼 '굿파트너2'…2회 순간 최고 10% 돌파",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611271045327409"
+          "title": "한국인 ‘스시자로’ 구매 행렬에… 대마도 택배영업소 보관·수령 중단",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/11/27/ILEQTWBKNFHB5MVU4R4EJS52P4/"
         },
         {
-          "title": "‘굿파트너2’ ‘라이어’, 금토극 경쟁 2라운드",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261127010010736"
-        }
-      ]
-    },
-    {
-      "title": "강지영",
-      "approx_traffic": "100+",
-      "published": "Fri, 27 Nov 2026 04:40:00 -0800",
-      "news": [
-        {
-          "title": "[방송소식] MBC라디오, 다음 달 1일 'FM4U 패밀리데이'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261127082100005"
-        },
-        {
-          "title": "이문세·배철수·안영미, 하루 동안 자리 교체…'MBC FM4U 패밀리데이'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261127_0003886153"
-        },
-        {
-          "title": "배철수 '별밤'→이상순 '안녕하세요' 듣는다…MBC FM4U '패밀리데이' 진행",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526241"
-        }
-      ]
-    },
-    {
-      "title": "명서현",
-      "approx_traffic": "100+",
-      "published": "Fri, 27 Nov 2026 04:30:00 -0800",
-      "news": [
-        {
-          "title": "‘이혼 결심’ 2년 뒤…정대세·명서현, 첫째와 13살 차 셋째 임신",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25482351"
-        },
-        {
-          "title": "정대세, 명서현 셋째 임신에 오열 \"노산이라 두렵지만\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261126_0003885328"
-        },
-        {
-          "title": "이혼 위기 고백했던 정대세 부부, 셋째 생겼다…\"뻥이지?\" 눈물 펑펑 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112621294649189"
-        }
-      ]
-    },
-    {
-      "title": "멸망전",
-      "approx_traffic": "100+",
-      "published": "Fri, 27 Nov 2026 04:00:00 -0800",
-      "news": [
-        {
-          "title": "SOOP, '2026 LoL 멸망전 시즌2' 27일 본선 개막",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261127131700017"
-        },
-        {
-          "title": "SOOP, 'LoL 멸망전' 자체 점수제 정식 도입",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261127162559"
-        },
-        {
-          "title": "SOOP, ‘LoL 멸망전 시즌2’ 본선 개막⋯8개 팀 우승 경쟁",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261127500807"
-        }
-      ]
-    },
-    {
-      "title": "농협은행",
-      "approx_traffic": "2000+",
-      "published": "Fri, 27 Nov 2026 03:10:00 -0800",
-      "news": [
-        {
-          "title": "‘지역사회에 돈 얼마나 풀었는지’ 은행 평가에 더 반영한다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611271430011"
-        },
-        {
-          "title": "금융위, 은행 지역재투자 상대평가로 전환…서민대출 배점 확대",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261127103500002"
-        },
-        {
-          "title": "하나·기업·농협은행, 지역재투자 평가 '최우수'",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02584646645649984"
-        }
-      ]
-    },
-    {
-      "title": "박훈정",
-      "approx_traffic": "200+",
-      "published": "Fri, 27 Nov 2026 03:00:00 -0800",
-      "news": [
-        {
-          "title": "[컬처인사이드] 김명민, '슬픈 열대'로 7년 만의 스크린 복귀",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0106_202611271606442096"
-        },
-        {
-          "title": "[개봉영화] 박훈정의 누아르 액션, ‘슬픈 열대’…현실 스릴러, ‘완벽한 집’-‘고인아파트’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8724142"
-        },
-        {
-          "title": "3년 만에 나온 '신작'…박훈정표 액션 느와르 '슬픈 열대'",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864715"
-        }
-      ]
-    },
-    {
-      "title": "두바이",
-      "approx_traffic": "100+",
-      "published": "Fri, 27 Nov 2026 02:50:00 -0800",
-      "news": [
-        {
-          "title": "\"두바이보다 아부다비\"…한국 AI 기업 중동 진출 전략 다시 짜야",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261127173207"
-        },
-        {
-          "title": "\"韓기술에 UAE 투자 더해 에너지·식량 문제 해결\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026112753321"
-        },
-        {
-          "title": "“아부다비·한국 40년 에너지 동맹…밸류체인 전반으로 협력 넓힐 것”",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261124070232098"
-        }
-      ]
-    },
-    {
-      "title": "황교안",
-      "approx_traffic": "200+",
-      "published": "Fri, 27 Nov 2026 02:50:00 -0800",
-      "news": [
-        {
-          "title": "‘이석기 판례’로 황교안 징역 10년 구형…황, 13년 전 체포요청 당사자",
+          "title": "배편까지 매진시킨 ‘반값 마운자로’…한·일 약값 차이의 비밀",
           "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1289471.html"
+          "url": "https://www.hani.co.kr/arti/society/health/1289515.html"
         },
         {
-          "title": "특검, ‘SNS 내란선동 혐의’ 황교안 징역 10년 구형",
+          "title": "한국은 '스시자로' 열풍 거세지만…日선 마운자로 부작용 '경계'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261127117000009"
+        }
+      ]
+    },
+    {
+      "title": "시장",
+      "approx_traffic": "500+",
+      "published": "Fri, 27 Nov 2026 13:10:00 -0800",
+      "news": [
+        {
+          "title": "서울 아파트 언제쯤 하락 전환할까?",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8724597"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8724082"
         },
         {
-          "title": "특검, “윤석열 방해하는 한동훈 체포하라”던 황교안 ‘SNS 내란선동 혐의’로 징역 10년 구형",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202611272052001"
+          "title": "\"주식 팔아 집 사려던 수요 사라져\"…서울 부동산 시장이 멈춘 이유 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/index.php/society/2026/11/28/2026112723341520109"
+        },
+        {
+          "title": "강북도 심상찮다…‘24평 12억 육박’ 길음동, 매수 문의 뚝",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02801126645649984"
         }
       ]
     },
     {
-      "title": "블랙 프라이데이",
+      "title": "국제 축구 연맹",
       "approx_traffic": "100+",
-      "published": "Fri, 27 Nov 2026 02:40:00 -0800",
+      "published": "Fri, 27 Nov 2026 13:10:00 -0800",
       "news": [
         {
-          "title": "블랙프라이데이, 역대급 ‘상술’이었나…200만원 준 TV 한 달뒤 가격 봤더니",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12220205"
+          "title": "FIFA-AFC, 공동 대표단 파견…회장 선거 다시 탄력받나?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724848"
         },
         {
-          "title": "블랙프라이데이 쇼핑하는 마드리드 사람들",
+          "title": "FIFA·AFC, 대한축구협회장 선거 논의차 방한",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127232919otJ"
+        }
+      ]
+    },
+    {
+      "title": "정의선",
+      "approx_traffic": "200+",
+      "published": "Fri, 27 Nov 2026 13:10:00 -0800",
+      "news": [
+        {
+          "title": "현대차, 무뇨스·송호성 체제 유지…모비스 백철승",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127051555g88"
+        },
+        {
+          "title": "복합위기 속 'CEO 유임' 택했다…불확실성에 내실 다지기 [인사로 본 재계 코어①]",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261127_0002304235"
+          "url": "https://www.newsis.com/view/NISX20261127_0003886031"
         },
         {
-          "title": "“70% 할인 믿지 마세요”… 유통업체 ‘상술’ 극성",
-          "source": "미주한국일보",
-          "url": "https://www.koreatimes.com/article/11633057"
+          "title": "[오늘Who] 현대엔지니어링 새 대표 나태준 신사업 확대 무게, 그룹 투자 뒷받침 역할도 막중",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=453152"
         }
       ]
     },
     {
-      "title": "파라타항공",
-      "approx_traffic": "100+",
-      "published": "Fri, 27 Nov 2026 02:40:00 -0800",
+      "title": "부동산",
+      "approx_traffic": "2000+",
+      "published": "Fri, 27 Nov 2026 13:00:00 -0800",
       "news": [
         {
-          "title": "파라타항공, FSC 도전…1000억 적자 딛고 반등할까",
-          "source": "이코노미톡뉴스",
-          "url": "https://www.economytalk.kr/news/articleView.html?idxno=425452"
+          "title": "\"나도 낸다고?\" 종부세 고지서에 깜짝…내년 더 오를라 집주인 초긴장 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/11/27/2026112620433475661"
         },
         {
-          "title": "파라타항공 윤철민, 미주 진출 앞두고 'FSC급 서비스' 승부수",
-          "source": "신아일보",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086353"
+          "title": "[부동산사용설명서] 현실화율 동결했는데…종부세 대상 '쑥'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/realestate/general/6368853"
         },
         {
-          "title": "파라타항공, 국제선 탑승률 91.2%…국적 항공사 1위 달성",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611201200329898"
+          "title": "서울 집값 급등에…종부세 대상자 18만 7천 명 늘어",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8723773"
+        }
+      ]
+    },
+    {
+      "title": "한국은행 기준금리",
+      "approx_traffic": "100+",
+      "published": "Fri, 27 Nov 2026 13:00:00 -0800",
+      "news": [
+        {
+          "title": "‘통화긴축-확장재정 충돌’ 지적에… 靑 “엇박자 아닌 정교한 조합”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261127/135106503/2"
+        },
+        {
+          "title": "내년 성장률 4.1% 깜짝 상향...반도체 호황이 이끌어",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611271601012461"
+        },
+        {
+          "title": "반도체가 끌어올린 금리, 서민이 운다",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25482437"
+        }
+      ]
+    },
+    {
+      "title": "베르더 대 묀헨글라트바흐",
+      "approx_traffic": "100+",
+      "published": "Fri, 27 Nov 2026 13:00:00 -0800",
+      "news": [
+        {
+          "title": "묀헨글라트바흐, 브레멘과 3-3 무승부…카스트로프 선발 출전 : 해외축구",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1128668"
+        },
+        {
+          "title": "“순위표만 봐선 소용없다!”… 부상 털고 돌아온 ‘韓 혼혈 국가대표’ 옌스의 포부!→ ‘분데스리가 최하위’ 묀헨글라트바흐에 반등 주문 “우리는 우리를 믿는다”",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=314347"
+        },
+        {
+          "title": "'옌스 74분' 묀헨글라트바흐, BVB에 0-1 패배...10경기 승점 4점으로 리그 '최하위' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/22/202611220116779631O"
+        }
+      ]
+    },
+    {
+      "title": "연금",
+      "approx_traffic": "10000+",
+      "published": "Fri, 27 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "국민연금, 석달 새 적립금 202조 줄어",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611271805001"
+        },
+        {
+          "title": "국민연금 적립금 석 달 만에 202조 '증발'...수익률 '반 토막'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611280437508744"
+        },
+        {
+          "title": "[단독] 국민연금 손실, '182조→240조' 확대 ... 노후자금 한달새 '60조' 추가 증발",
+          "source": "뉴데일리 경제",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/26/2026112650092.html"
+        }
+      ]
+    },
+    {
+      "title": "nottm forest vs chelsea",
+      "approx_traffic": "500+",
+      "published": "Fri, 27 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "Nottm Forest 3-2 Chelsea (Nov 27, 2026) Game Analysis",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401879225"
+        },
+        {
+          "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/27/nottingham-forest-chelsea-premier-league-match-report"
+        },
+        {
+          "title": "Confirmed Chelsea line up vs Nottingham Forest | News | Official Site",
+          "source": "Chelsea Football Club",
+          "url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-nottingham-forest-271126"
+        }
+      ]
+    },
+    {
+      "title": "한진칼",
+      "approx_traffic": "200+",
+      "published": "Fri, 27 Nov 2026 12:50:00 -0800",
+      "news": [
+        {
+          "title": "밸류업 없이 오르는 한진칼 주가, 커진 변동성에 리스크 고조",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/thebell/stock/contents/261126145535087ot"
+        },
+        {
+          "title": "이달 4배로 뛴 한진칼우…장중 21% 급등했다 제자리[핫종목]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/market-exr/6367471"
+        },
+        {
+          "title": "돈으로 지분은 샀지만 … 호반이 넘기 힘든 한진칼의 '벽'",
+          "source": "뉴데일리 경제",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550121.html"
         }
       ]
     }
