@@ -1,225 +1,215 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-26T21:54:40+00:00",
+  "fetched_at": "2026-11-27T04:12:01+00:00",
   "items": [
     {
-      "title": "유튜버",
-      "approx_traffic": "1000+",
-      "published": "Thu, 26 Nov 2026 12:50:00 -0800",
+      "title": "jyp 엔터테인먼트",
+      "approx_traffic": "500+",
+      "published": "Thu, 26 Nov 2026 19:00:00 -0800",
       "news": [
         {
-          "title": "’구독자 1,010만’ 진우와 해티, 이혼 발표…채널은 어떻게 나눴나",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126161521wKw"
-        },
-        {
-          "title": "구독자 1010만 국제 부부 유튜버 '진우와 해티', 결혼 4년 만에 파경",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261126_0003883842"
-        },
-        {
-          "title": "진우·해티 이혼 발표⇒유튜브는 남편·인스타는 아내…앞서 헤어진 국제부부 채널은? [Oh!쎈 이슈]",
+          "title": "'JYP 신인' 오브더블루, 멤버 4인 비주얼 베일 벗었다..청량 매력",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/26/G42TCZBSGA2WKZRVGEYWMZRZGY/"
-        }
-      ]
-    },
-    {
-      "title": "알테오젠",
-      "approx_traffic": "100+",
-      "published": "Thu, 26 Nov 2026 12:50:00 -0800",
-      "news": [
-        {
-          "title": "알테오젠, '키트루다SC' 기술료 538원 추가로 받는다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261126184700017"
+          "url": "https://www.chosun.com/entertainments/music/2026/11/26/MFRGEMJSHE3WKZTCGQ3WGOJTMI/"
         },
         {
-          "title": "알테오젠, MSD서 538억원 추가 수령…키트루다SC 두 번째 판매 마일스톤",
-          "source": "팜이데일리",
-          "url": "https://pharm.edaily.co.kr/news/read?newsId=03670326645649656"
-        },
-        {
-          "title": "알테오젠, '키트루다SC' 두번째 마일스톤 수령",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261126_0003884502"
-        }
-      ]
-    },
-    {
-      "title": "파운드리",
-      "approx_traffic": "200+",
-      "published": "Thu, 26 Nov 2026 12:40:00 -0800",
-      "news": [
-        {
-          "title": "AI 반도체 호황인데…TSMC와 더 멀어진 삼성의 승부수 - 머니투데이",
+          "title": "확신의 JYP상..오브더블루, 내년 1월 데뷔 앞두고 자기소개 - 머니투데이",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/11/27/2026112614411974849"
+          "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112708457227418"
         },
         {
-          "title": "삼성 파운드리, 글로벌 점유율 6.4%로 하락…4·2나노로 반등 모색",
-          "source": "아이티데일리",
-          "url": "https://www.itdaily.kr/news/articleView.html?idxno=243242"
-        },
-        {
-          "title": "TSMC 최대 20% 가격 인상에 삼성전자 반사이익 예상, 한진만 빅테크 반도체 추가 수주 청신호",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452299"
+          "title": "‘JYP 신예’ 오브더블루, 4인 비주얼 최초 공개…풋풋함 그 자체",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/musics/12219098"
         }
       ]
     },
     {
-      "title": "농협",
-      "approx_traffic": "100+",
-      "published": "Thu, 26 Nov 2026 12:40:00 -0800",
-      "news": [
-        {
-          "title": "농협은행, 대안신용평가로 포용금융 확대…NH크레딧ON 컨퍼런스",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261126153500002"
-        },
-        {
-          "title": "농협은행, 카드·캐피탈 성실상환 고객 6개월 뒤 은행 대출로 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/11/26/2026112610562467511"
-        },
-        {
-          "title": "농협銀, AI 에이전트 ‘상시개발’ 체제 전환",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20119103"
-        }
-      ]
-    },
-    {
-      "title": "현대자동차",
-      "approx_traffic": "1000+",
-      "published": "Thu, 26 Nov 2026 12:30:00 -0800",
-      "news": [
-        {
-          "title": "현대차그룹, 부품·건설 수장 교체…수익성·SDV 전환 속도 낼 듯",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=375318"
-        },
-        {
-          "title": "“5만대 팔린다는데 10만대 깔아라”⋯ 정의선이 7년째 기아 맡긴 ‘이 남자’",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261126501674"
-        },
-        {
-          "title": "현대차, 무뇨스·송호성 체제 유지…모비스 백철승",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127051555g88"
-        }
-      ]
-    },
-    {
-      "title": "아버지",
+      "title": "엘니뇨",
       "approx_traffic": "500+",
-      "published": "Thu, 26 Nov 2026 12:30:00 -0800",
+      "published": "Thu, 26 Nov 2026 19:00:00 -0800",
       "news": [
         {
-          "title": "[선공개] 찬원 VS 아버지(윤성 아빠)의 숨막히는 칼질 대결! 고수들의 격돌, 그승자는? (황윤성 1열 관전) | KBS 방송",
-          "source": "대한민국 대표 공영미디어 KBS",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_LS-20191010142020-01-000_20261125_TECH001&program_code=T2019-0286&program_id=LS-20191010142020-01-000&section_code=04&broadcast_complete_yn=N&section_id=10742"
-        },
-        {
-          "title": "황윤성, 할아버지께 물려받은 ‘금’ 있다?…창고 공개",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261126/135099485/1"
-        },
-        {
-          "title": "이찬원, 일상 벗어나 자연 속으로…‘편스토랑’ 복귀에 기대감",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=848618"
-        }
-      ]
-    },
-    {
-      "title": "며느리",
-      "approx_traffic": "500+",
-      "published": "Thu, 26 Nov 2026 12:30:00 -0800",
-      "news": [
-        {
-          "title": "\"자손들 잘된다고 해서\"…가족 몰래 시아버지 묘 파헤친 며느리",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/view.html?ar_id=NISX20261126_0003883773"
-        },
-        {
-          "title": "남편 장례식 때 시부 묘 파헤쳐 화장한 큰며느리…\"이래야 자손 잘된다\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6366829"
-        },
-        {
-          "title": "가족들 몰래 \"시아버지 파묘\"…큰며느리의 ‘충격 고백’",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/video/ND10781962"
-        }
-      ]
-    },
-    {
-      "title": "이정후",
-      "approx_traffic": "500+",
-      "published": "Thu, 26 Nov 2026 12:30:00 -0800",
-      "news": [
-        {
-          "title": "日 선수엔 지갑 연다… MLB서 한일 격차 더 벌어져",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/26/GVNNZGMORRFTDNIP4M4R2XLDOY/"
-        },
-        {
-          "title": "‘포스팅 D-6’ 노시환 반전 시나리오 떴다! 극적 뉴욕행 비행기 탑승 성사? 美 강력 추천 \"양키스, 3루수로 ROH 어때?\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/26/202611260613771287O"
-        },
-        {
-          "title": "‘일본 타격 3관왕’ 사토 데루아키, 6년 1,600억 원에 MLB 컵스행",
+          "title": "‘슈퍼엘니뇨’에 폭설?…시간당 5cm 눈 오면 문자 온다",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8722197"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8724042"
+        },
+        {
+          "title": "따뜻한 겨울? 하지만 대설 주의!",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148976635&pWise=sub&pWiseSub=C3"
+        },
+        {
+          "title": "기상청 \"눈비 내리기 전, 예보 변화 가능성도 발표\"",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611261602382478"
         }
       ]
     },
     {
-      "title": "현대 쏘나타",
-      "approx_traffic": "200+",
-      "published": "Thu, 26 Nov 2026 12:30:00 -0800",
+      "title": "pet the horse",
+      "approx_traffic": "100+",
+      "published": "Thu, 26 Nov 2026 19:00:00 -0800",
       "news": [
         {
-          "title": "'토요타 캠리와 116배 차이' 현대차 쏘나타, 결국 이 시장에서 퇴출 결정",
-          "source": "오토헤럴드",
-          "url": "https://www.autoherald.co.kr/news/articleView.html?idxno=62274"
-        },
-        {
-          "title": "현대차, 호주서 '쏘나타' 38년 만에 단종…신형 하이브리드로 승부수",
-          "source": "한국신용신문",
-          "url": "https://www.creditnews.kr/news/articleView.html?idxno=32764"
-        },
-        {
-          "title": "“토요타 캠리에 완전히 밀렸다”… 판매량 116배 차이로 현대 쏘나타 단종 결정",
-          "source": "오토놀로지",
-          "url": "https://autonology.co.kr/news/hyundai-sonata-australia-supply-ends/"
+          "title": "How PET Scans Are Changing Lameness Diagnosis in Horses",
+          "source": "The Horse – Your Guide to Equine Health Care",
+          "url": "https://thehorse.com/1141343/how-pet-scans-are-changing-lameness-diagnosis-in-horses/"
         }
       ]
     },
     {
-      "title": "1기 신도시",
-      "approx_traffic": "200+",
-      "published": "Thu, 26 Nov 2026 12:30:00 -0800",
+      "title": "남편",
+      "approx_traffic": "2000+",
+      "published": "Thu, 26 Nov 2026 18:50:00 -0800",
       "news": [
         {
-          "title": "1기 신도시도 재초환 반발… 분당서 폐지 촉구 공동성명",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261127/135099705/2"
+          "title": "아내 친구에 고백→뽀뽀한 남편...아내는 딴 남자와 동거 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112609443254780"
         },
         {
-          "title": "국토부 “재초환 현행법대로 부과 원칙”…완화·폐지는 국회 몫",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261127/135100792/1"
+          "title": "\"아내와 아내 친구, 다 갖고 싶다\"는 남편…\"잘 놀아줘서\" 상간남과 동거 아내",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6367871"
         },
         {
-          "title": "국토부, 오세훈 정비사업 규제 완화 요구에 \"신중히 검토해야\"",
+          "title": "“나한테 반한 줄” 미성숙 남편, 아내 친구에 뽀뽀하더니… 아내에게 선택적 분노 폭발(이숙캠)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611270014003"
+        }
+      ]
+    },
+    {
+      "title": "남경필",
+      "approx_traffic": "2000+",
+      "published": "Thu, 26 Nov 2026 18:50:00 -0800",
+      "news": [
+        {
+          "title": "‘마약사범’ 남경필 아들…여친에게 ‘성관계 영상 유포’ 협박·폭행 혐의",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12330139"
+        },
+        {
+          "title": "‘마약 투약’ 남경필 아들, 전 연인에 성관계 영상 협박하다 체포 [자막뉴스]",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/detail/000000561932.do"
+        },
+        {
+          "title": "전직 유력 정치인 아들, 전 연인 스토킹·폭행 혐의로 경찰에 붙잡혀",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6868547_36932.html"
+          "url": "https://imnews.imbc.com/news/2026/society/article/6869046_36918.html"
+        }
+      ]
+    },
+    {
+      "title": "뉴스",
+      "approx_traffic": "2000+",
+      "published": "Thu, 26 Nov 2026 18:50:00 -0800",
+      "news": [
+        {
+          "title": "AI가 똑똑해질수록 인간은 어떻게 변할까… 신간 ’AI는 여성인 당신을 사랑하지 않아요’",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126125005nIs"
+        },
+        {
+          "title": "[샛강에서] 상식 파괴의 시대",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/20261125502047"
+        },
+        {
+          "title": "[발언대]미래로 간 기술, 과거에 머문 사회",
+          "source": "경상일보",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073576"
+        }
+      ]
+    },
+    {
+      "title": "별자리",
+      "approx_traffic": "500+",
+      "published": "Thu, 26 Nov 2026 18:30:00 -0800",
+      "news": [
+        {
+          "title": "[속보] ‘표류’ 北어선, 24일만에 돌아갔다…1명 남고 6명 송환",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/politics/12220024"
+        },
+        {
+          "title": "[오늘의 운세] 2026년 11월 27일 띠별 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202611270000000001"
+        },
+        {
+          "title": "오늘의 운세 11월 27일(음력 10월 19일)",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=848599"
+        }
+      ]
+    },
+    {
+      "title": "대만",
+      "approx_traffic": "500+",
+      "published": "Thu, 26 Nov 2026 18:30:00 -0800",
+      "news": [
+        {
+          "title": "대만 내일 지방선거…'친미·반중' 라이칭더 정권 중간평가 무대",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261127080400083"
+        },
+        {
+          "title": "라이칭더 대만 총통 연임 바로미터… 내일 지방선거",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11634622"
+        },
+        {
+          "title": "대만 지방선거 D-2…국민당, 15곳 수성 난항에 긴장",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261126_0003884906"
+        }
+      ]
+    },
+    {
+      "title": "더바이오",
+      "approx_traffic": "100+",
+      "published": "Thu, 26 Nov 2026 18:30:00 -0800",
+      "news": [
+        {
+          "title": "펩트론, 릴리 이어 페링과 공동연구…비만 넘어 항암·난임 가나",
+          "source": "팜이데일리",
+          "url": "https://pharm.edaily.co.kr/News/Read?newsId=01210326645649984&mediaCodeNo=257"
+        },
+        {
+          "title": "[특징주] 펩트론, 스위스 제약사와 기술평가 계약…강세",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20261127028215596"
+        },
+        {
+          "title": "펩트론, 페링과 장기지속형 주사제 기술평가 계약 체결",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=723605"
+        }
+      ]
+    },
+    {
+      "title": "죽도시장",
+      "approx_traffic": "500+",
+      "published": "Thu, 26 Nov 2026 18:20:00 -0800",
+      "news": [
+        {
+          "title": "[여기는 포항] 포항 죽도시장 상인, 골목형 상가 해법 찾아 외",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723692"
+        },
+        {
+          "title": "증평군, 골목형상점가 3곳 신규 지정…\"상권 활성화 기대\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261127017000064"
+        },
+        {
+          "title": "수성택지 먹자골목·미소거리·초산아우름 추가 지정…정읍 골목형상점가 4곳으로",
+          "source": "새전북신문",
+          "url": "https://sjbnews.com/news/news.php?number=893685&year=2026"
         }
       ]
     }
