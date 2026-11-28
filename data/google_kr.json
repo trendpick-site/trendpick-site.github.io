@@ -1,220 +1,220 @@
 {
   "source": "Google Trends Trending Now RSS",
   "region": "KR",
-  "fetched_at": "2026-11-27T22:40:14+00:00",
+  "fetched_at": "2026-11-28T04:15:13+00:00",
   "items": [
     {
-      "title": "마운자로",
+      "title": "남대문시장",
       "approx_traffic": "200+",
-      "published": "Fri, 27 Nov 2026 13:30:00 -0800",
+      "published": "Fri, 27 Nov 2026 19:10:00 -0800",
       "news": [
         {
-          "title": "한국인 ‘스시자로’ 구매 행렬에… 대마도 택배영업소 보관·수령 중단",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/11/27/ILEQTWBKNFHB5MVU4R4EJS52P4/"
-        },
-        {
-          "title": "배편까지 매진시킨 ‘반값 마운자로’…한·일 약값 차이의 비밀",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/health/1289515.html"
-        },
-        {
-          "title": "한국은 '스시자로' 열풍 거세지만…日선 마운자로 부작용 '경계'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261127117000009"
-        }
-      ]
-    },
-    {
-      "title": "시장",
-      "approx_traffic": "500+",
-      "published": "Fri, 27 Nov 2026 13:10:00 -0800",
-      "news": [
-        {
-          "title": "서울 아파트 언제쯤 하락 전환할까?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8724082"
-        },
-        {
-          "title": "\"주식 팔아 집 사려던 수요 사라져\"…서울 부동산 시장이 멈춘 이유 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/society/2026/11/28/2026112723341520109"
-        },
-        {
-          "title": "강북도 심상찮다…‘24평 12억 육박’ 길음동, 매수 문의 뚝",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02801126645649984"
-        }
-      ]
-    },
-    {
-      "title": "국제 축구 연맹",
-      "approx_traffic": "100+",
-      "published": "Fri, 27 Nov 2026 13:10:00 -0800",
-      "news": [
-        {
-          "title": "FIFA-AFC, 공동 대표단 파견…회장 선거 다시 탄력받나?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724848"
-        },
-        {
-          "title": "FIFA·AFC, 대한축구협회장 선거 논의차 방한",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127232919otJ"
-        }
-      ]
-    },
-    {
-      "title": "정의선",
-      "approx_traffic": "200+",
-      "published": "Fri, 27 Nov 2026 13:10:00 -0800",
-      "news": [
-        {
-          "title": "현대차, 무뇨스·송호성 체제 유지…모비스 백철승",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127051555g88"
-        },
-        {
-          "title": "복합위기 속 'CEO 유임' 택했다…불확실성에 내실 다지기 [인사로 본 재계 코어①]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261127_0003886031"
-        },
-        {
-          "title": "[오늘Who] 현대엔지니어링 새 대표 나태준 신사업 확대 무게, 그룹 투자 뒷받침 역할도 막중",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=453152"
-        }
-      ]
-    },
-    {
-      "title": "부동산",
-      "approx_traffic": "2000+",
-      "published": "Fri, 27 Nov 2026 13:00:00 -0800",
-      "news": [
-        {
-          "title": "\"나도 낸다고?\" 종부세 고지서에 깜짝…내년 더 오를라 집주인 초긴장 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/11/27/2026112620433475661"
-        },
-        {
-          "title": "[부동산사용설명서] 현실화율 동결했는데…종부세 대상 '쑥'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/realestate/general/6368853"
-        },
-        {
-          "title": "서울 집값 급등에…종부세 대상자 18만 7천 명 늘어",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8723773"
-        }
-      ]
-    },
-    {
-      "title": "한국은행 기준금리",
-      "approx_traffic": "100+",
-      "published": "Fri, 27 Nov 2026 13:00:00 -0800",
-      "news": [
-        {
-          "title": "‘통화긴축-확장재정 충돌’ 지적에… 靑 “엇박자 아닌 정교한 조합”",
+          "title": "“사지 마”… ‘스카프 아저씨’ 돌풍에 세대 불문 발길 이어지는 남대문시장",
           "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261127/135106503/2"
+          "url": "https://www.donga.com/news/Society/article/all/20261128/135106803/1"
         },
         {
-          "title": "내년 성장률 4.1% 깜짝 상향...반도체 호황이 이끌어",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611271601012461"
-        },
-        {
-          "title": "반도체가 끌어올린 금리, 서민이 운다",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25482437"
+          "title": "[혜윰노트] 돈 쓰지 말고 기운만 받고 가!",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/20261126501751"
         }
       ]
     },
     {
-      "title": "베르더 대 묀헨글라트바흐",
-      "approx_traffic": "100+",
-      "published": "Fri, 27 Nov 2026 13:00:00 -0800",
-      "news": [
-        {
-          "title": "묀헨글라트바흐, 브레멘과 3-3 무승부…카스트로프 선발 출전 : 해외축구",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1128668"
-        },
-        {
-          "title": "“순위표만 봐선 소용없다!”… 부상 털고 돌아온 ‘韓 혼혈 국가대표’ 옌스의 포부!→ ‘분데스리가 최하위’ 묀헨글라트바흐에 반등 주문 “우리는 우리를 믿는다”",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=314347"
-        },
-        {
-          "title": "'옌스 74분' 묀헨글라트바흐, BVB에 0-1 패배...10경기 승점 4점으로 리그 '최하위' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/22/202611220116779631O"
-        }
-      ]
-    },
-    {
-      "title": "연금",
-      "approx_traffic": "10000+",
-      "published": "Fri, 27 Nov 2026 12:50:00 -0800",
-      "news": [
-        {
-          "title": "국민연금, 석달 새 적립금 202조 줄어",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611271805001"
-        },
-        {
-          "title": "국민연금 적립금 석 달 만에 202조 '증발'...수익률 '반 토막'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611280437508744"
-        },
-        {
-          "title": "[단독] 국민연금 손실, '182조→240조' 확대 ... 노후자금 한달새 '60조' 추가 증발",
-          "source": "뉴데일리 경제",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/26/2026112650092.html"
-        }
-      ]
-    },
-    {
-      "title": "nottm forest vs chelsea",
-      "approx_traffic": "500+",
-      "published": "Fri, 27 Nov 2026 12:50:00 -0800",
-      "news": [
-        {
-          "title": "Nottm Forest 3-2 Chelsea (Nov 27, 2026) Game Analysis",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/report/_/gameId/401879225"
-        },
-        {
-          "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/27/nottingham-forest-chelsea-premier-league-match-report"
-        },
-        {
-          "title": "Confirmed Chelsea line up vs Nottingham Forest | News | Official Site",
-          "source": "Chelsea Football Club",
-          "url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-nottingham-forest-271126"
-        }
-      ]
-    },
-    {
-      "title": "한진칼",
+      "title": "한능검 81회 정답",
       "approx_traffic": "200+",
-      "published": "Fri, 27 Nov 2026 12:50:00 -0800",
+      "published": "Fri, 27 Nov 2026 19:10:00 -0800",
       "news": [
         {
-          "title": "밸류업 없이 오르는 한진칼 주가, 커진 변동성에 리스크 고조",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/thebell/stock/contents/261126145535087ot"
+          "title": "[속보] 81회 한능검 가답안 정답·답지 공개",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765984"
         },
         {
-          "title": "이달 4배로 뛴 한진칼우…장중 21% 급등했다 제자리[핫종목]",
+          "title": "“컴싸로만 풀라고요?”… 시험 코앞 규정 바뀌자 수험생들 ‘부글부글’",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/11/25/NQVLYNMOU5DQ3EDNOBGUURYB6U/"
+        },
+        {
+          "title": "\"연필까지 동났다\"…수능 앞두고 다이소 '연필·연필깎이' 품절 사태",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611190948296650"
+        }
+      ]
+    },
+    {
+      "title": "이찬원",
+      "approx_traffic": "100+",
+      "published": "Fri, 27 Nov 2026 19:10:00 -0800",
+      "news": [
+        {
+          "title": "황윤성, 알고보니 도련님? 절친 이찬원도 놀랐다 (편스토랑)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261127/135101062/1"
+        },
+        {
+          "title": "황윤성, 압도적 규모 시골집…\"마을 구경 같아\" [RE:TV]",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/market-exr/6367471"
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6367714"
         },
         {
-          "title": "돈으로 지분은 샀지만 … 호반이 넘기 힘든 한진칼의 '벽'",
-          "source": "뉴데일리 경제",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550121.html"
+          "title": "이찬원, 일상 벗어나 자연 속으로…‘편스토랑’ 복귀에 기대감",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=848618"
+        }
+      ]
+    },
+    {
+      "title": "닥터 둠",
+      "approx_traffic": "100+",
+      "published": "Fri, 27 Nov 2026 18:40:00 -0800",
+      "news": [
+        {
+          "title": "대작영화 맞붙는 '듄스데이'…빌뇌브 감독의 한마디",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867724"
+        },
+        {
+          "title": "돌아온 로다주 직접 입열었다..\"닥터 둠, 토니 스타크와 결정적 차이는\"(둠스데이)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/movie/2026/11/27/G5SGEMLEHBRTOMZWMJSDOMRTMI/"
+        },
+        {
+          "title": "연말 극장가는 ‘듄스데이’?… 1조원 흥행 전쟁 막 올랐다",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026112717100002809"
+        }
+      ]
+    },
+    {
+      "title": "샌안토니오 대 la 레이커스",
+      "approx_traffic": "1000+",
+      "published": "Fri, 27 Nov 2026 18:30:00 -0800",
+      "news": [
+        {
+          "title": "Los Angeles Lakers @ San Antonio Spurs Odds",
+          "source": "FanDuel Sportsbook",
+          "url": "https://sportsbook.fanduel.com/basketball/nba/los-angeles-lakers-@-san-antonio-spurs-36358261"
+        },
+        {
+          "title": "San Antonio Spurs vs. Los Angeles Lakers - 1st Quarter Highlights",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/watch/video/san-antonio-spurs-vs-los-angeles-lakers-1st-quarter-highlights-3?plsrc=nba&collection=luka-doncic"
+        },
+        {
+          "title": "How Wemby vs. Luka became NBA’s Black Friday main event with a lot on the line",
+          "source": "San Antonio Express-News",
+          "url": "https://www.expressnews.com/sports/spurs/article/spurs-lakers-wemby-luka-doncic-nba-cup-22551594.php"
+        }
+      ]
+    },
+    {
+      "title": "tear gas",
+      "approx_traffic": "200+",
+      "published": "Fri, 27 Nov 2026 18:00:00 -0800",
+      "news": [
+        {
+          "title": "Thousands of girls and women report bleeding and miscarriages after French police use of teargas",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/global-development/2026/nov/27/thousands-of-girls-and-women-report-bleeding-and-miscarriages-after-french-police-use-of-teargas"
+        },
+        {
+          "title": "France Tear Gas What to Know",
+          "source": "Bluefield Daily Telegraph",
+          "url": "https://www.bdtonline.com/sports/pro_sports/france-tear-gas-what-to-know/image_ad783734-80e9-58c8-ac90-201817dbb70c.html"
+        },
+        {
+          "title": "French activists demand a tear gas suspension over reported menstrual changes",
+          "source": "The Grand Junction Daily Sentinel",
+          "url": "https://www.gjsentinel.com/french-activists-demand-a-tear-gas-suspension-over-reported-menstrual-changes/article_2bd9a198-07af-51fe-b40c-e376adb2bdb7.html"
+        }
+      ]
+    },
+    {
+      "title": "실업급여",
+      "approx_traffic": "100+",
+      "published": "Fri, 27 Nov 2026 18:00:00 -0800",
+      "news": [
+        {
+          "title": "“월급보다 많으면 누가 일하겠나”…실업급여, 결국 손 본다 [잇슈 머니]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8721737"
+        },
+        {
+          "title": "조기재취업수당 월 300만원 이상이면 지급 제외",
+          "source": "제주교통복지신문",
+          "url": "https://www.jejutwn.com/news/article.html?no=464889"
+        },
+        {
+          "title": "[영상] 월급보다 많은 실업급여 없앤다…지급방식 '주 6일'로 변경",
+          "source": "nbn 시사경제",
+          "url": "https://www.nbnbiz.co.kr/news/articleView.html?idxno=47431"
+        }
+      ]
+    },
+    {
+      "title": "브론슨 리드",
+      "approx_traffic": "500+",
+      "published": "Fri, 27 Nov 2026 17:50:00 -0800",
+      "news": [
+        {
+          "title": "WWE 슈퍼스타 브론슨 리드, 합병증으로 사망...38세에 요절",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12220672"
+        },
+        {
+          "title": "WWE 비극…'괴물 레슬러' 브론슨 리드 38세 나이로 사망, 부상 치료 중 비보",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022341"
+        },
+        {
+          "title": "WWE 브론슨 리드, 부상 후 합병증으로 사망···항년 38세",
+          "source": "글로벌E",
+          "url": "https://www.globale.co.kr/news/articleView.html?idxno=41899"
+        }
+      ]
+    },
+    {
+      "title": "은평구",
+      "approx_traffic": "500+",
+      "published": "Fri, 27 Nov 2026 17:30:00 -0800",
+      "news": [
+        {
+          "title": "불·대·갈 그리고 백련산…뜨거운 은평구 [감평사의 부동산 현장진단]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12220167"
+        },
+        {
+          "title": "[현장] 20년 만에 빛 보는 은평 3대장…9300가구 공급 가시화",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1719698/%ED%98%84%EC%9E%A5-20%EB%85%84-%EB%A7%8C%EC%97%90-%EB%B9%9B-%EB%B3%B4%EB%8A%94-%EC%9D%80%ED%8F%89-3%EB%8C%80-2026"
+        },
+        {
+          "title": "녹번동 73-8번지 일원 가로주택정비 조합설립인가",
+          "source": "한국주택경제신문",
+          "url": "https://www.arunews.com/news/articleView.html?idxno=70128"
+        }
+      ]
+    },
+    {
+      "title": "국제 원자력 기구",
+      "approx_traffic": "100+",
+      "published": "Fri, 27 Nov 2026 17:20:00 -0800",
+      "news": [
+        {
+          "title": "미 국무부, 한-IAEA 핵잠수함 협의 딴지 건 중국에 반박",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261128_0003886959"
+        },
+        {
+          "title": "미 국무부 “‘한국 핵잠 안전조치 협상’ IAEA 권한”…중국 ‘회원국 합의’ 요구 일축",
+          "source": "VOA 한국어 홈페이지",
+          "url": "https://www.voakorea.com/a/us-china-rok-submarine-iaea/8228624.html"
+        },
+        {
+          "title": "“한국의 핵잠 건조는 코미디”-특집 핵추진잠수함②",
+          "source": "월간조선",
+          "url": "https://monthly.chosun.com/news/articleView.html?idxno=72031"
         }
       ]
     }
